@@ -1,0 +1,31 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# NotebookLM AI Agents state and config
+.agent/
+.agents/
+.beads/
+.claude/
+.snapshots/
+logs/
+chrome_profile_notebooklm/
+
+# Credenciais e Logs locais
+notebooklm-config.json
+install_log.md
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Lixo de script
+\~/
