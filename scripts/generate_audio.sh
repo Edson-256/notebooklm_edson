@@ -5,7 +5,7 @@
 set -e
 
 # Configurações padrão
-NOTEBOOK_ID="${1:-85d38ec1-7659-4307-aedf-3bc773a4d4ba}"  # Docker por padrão
+NOTEBOOK_ID="${1:?Erro: informe o NOTEBOOK_ID como primeiro argumento}"
 FORMAT="${2:-deep_dive}"
 LANGUAGE="${3:-pt-BR}"
 LENGTH="${4:-default}"
