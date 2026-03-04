@@ -6,10 +6,10 @@
     "scene_title": "O Ultimato de Teseu e a Decisão de Hérmia",
     "location": "Ato I, Cena I.",
     "focus_prompt": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology (found in sources) to this specific scene.\nFocus on \"Education of the Imaginary\" and breaking the \"Individual Capsule\" via vicarious experience.\n\nStructure the audio to cover:\n1. Context & Preliminary Attitude (suspending external judgments).\n2. The 4 Pillars: Primacy of Intuition, Existential Sincerity, Affective Memory, Literature as a Means.\n3. Vicarious Experience: Instruct the listener on how to inhabit the main character's skin.\n\nInput Data:\nScene Number: 1\nBook: A Midsummer Night's Dream\nAuthor: William Shakespeare\n\nContext:\nTítulo da Cena: O Ultimato de Teseu e a Decisão de Hérmia\nLocalização: Ato I, Cena I.\nResumo: O duque Teseu decreta que Hérmia deve obedecer ao pai e casar-se com Demétrio. Se recusar, as únicas opções permitidas pela lei de Atenas são a morte ou o confinamento vitalício em um convento, vivendo como uma \"irmã estéril\". Apesar do peso brutal da lei, Hérmia afirma que prefere crescer, viver e morrer assim do que entregar sua virgindade e soberania a um homem cujo jugo sua alma não deseja.\nJustificativa COF: ",
-    "status": "triggered",
+    "status": "done",
     "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
     "audio_id": null,
-    "completed_at": "2026-02-27T08:20:25.408568"
+    "completed_at": "2026-02-28T22:43:58.434628"
   },
   {
     "play_dir": "a_midsummer_nights_dream",
@@ -95,9 +95,10 @@
     "scene_title": "O monólogo de Helena sobre o abismo de seu amor",
     "location": "Ato I, Cena 1.",
     "focus_prompt": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology (found in sources) to this specific scene.\nFocus on \"Education of the Imaginary\" and breaking the \"Individual Capsule\" via vicarious experience.\n\nStructure the audio to cover:\n1. Context & Preliminary Attitude (suspending external judgments).\n2. The 4 Pillars: Primacy of Intuition, Existential Sincerity, Affective Memory, Literature as a Means.\n3. Vicarious Experience: Instruct the listener on how to inhabit the main character's skin.\n\nInput Data:\nScene Number: 1\nBook: All's Well That Ends Well\nAuthor: William Shakespeare\n\nContext:\nTítulo da Cena: O monólogo de Helena sobre o abismo de seu amor\nLocalização: Ato I, Cena 1.\nResumo: Após a partida de Bertram, Helena fica sozinha e revela em um monólogo sua dor por amá-lo secretamente. Ela compara seu amor à ambição de tentar casar com uma \"estrela brilhante e particular\", aceitando que sua paixão a consome e a condena.\nJustificativa COF: ",
-    "status": "pending",
-    "notebook_id": null,
-    "audio_id": null
+    "status": "done",
+    "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
+    "audio_id": null,
+    "completed_at": "2026-02-28T22:43:58.434639"
   },
   {
     "play_dir": "alls_well_that_ends_well",
@@ -194,9 +195,10 @@
     "scene_title": "O Despertar da Sinceridade Existencial de Antônio",
     "location": "Ato I, Cena 2.",
     "focus_prompt": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology (found in sources) to this specific scene.\nFocus on \"Education of the Imaginary\" and breaking the \"Individual Capsule\" via vicarious experience.\n\nStructure the audio to cover:\n1. Context & Preliminary Attitude (suspending external judgments).\n2. The 4 Pillars: Primacy of Intuition, Existential Sincerity, Affective Memory, Literature as a Means.\n3. Vicarious Experience: Instruct the listener on how to inhabit the main character's skin.\n\nInput Data:\nScene Number: 1\nBook: Antony and Cleopatra\nAuthor: William Shakespeare\n\nContext:\nTítulo da Cena: O Despertar da Sinceridade Existencial de Antônio\nLocalização: Ato I, Cena 2.\nResumo: Após ser inundado por más notícias de Roma e ser informado da morte de sua esposa Fúlvia, Marco Antônio tem um momento de clareza súbita. Ele reconhece que precisa romper as \"fortes correntes egípcias\" ou se perderá na senilidade de sua paixão.\nJustificativa COF: Excelente para o exercício da *sinceridade existencial*. Antônio confronta, ainda que momentaneamente, a realidade de sua própria degradação moral. A cena exige que o leitor vivencie o exato instante em que um indivíduo percebe o tamanho do autoengano no qual esteve imerso, buscando restaurar o eixo de sua personalidade antes que seja tarde.",
-    "status": "pending",
-    "notebook_id": null,
-    "audio_id": null
+    "status": "done",
+    "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
+    "audio_id": null,
+    "completed_at": "2026-02-28T22:43:58.434642"
   },
   {
     "play_dir": "antony_and_cleopatra",
@@ -271,9 +273,10 @@
     "scene_title": "O Ressentimento de Oliver e a Virtude Odiada",
     "location": "Ato I, Cena 1.",
     "focus_prompt": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology (found in sources) to this specific scene.\nFocus on \"Education of the Imaginary\" and breaking the \"Individual Capsule\" via vicarious experience.\n\nStructure the audio to cover:\n1. Context & Preliminary Attitude (suspending external judgments).\n2. The 4 Pillars: Primacy of Intuition, Existential Sincerity, Affective Memory, Literature as a Means.\n3. Vicarious Experience: Instruct the listener on how to inhabit the main character's skin.\n\nInput Data:\nScene Number: 1\nBook: As You Like It\nAuthor: William Shakespeare\n\nContext:\nTítulo da Cena: O Ressentimento de Oliver e a Virtude Odiada\nLocalização: Ato I, Cena 1.\nResumo: Orlando lamenta ser tratado como um camponês e ser privado de sua devida educação por seu irmão mais velho, Oliver. Em seguida, Oliver revela em monólogo um ódio profundo e irracional pelas virtudes de Orlando, confessando que o irmão é amado por todos, e então arquiteta com o lutador Charles um meio para quebrar-lhe o pescoço.\nJustificativa COF: ",
-    "status": "pending",
-    "notebook_id": null,
-    "audio_id": null
+    "status": "done",
+    "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
+    "audio_id": null,
+    "completed_at": "2026-02-28T22:43:58.434645"
   },
   {
     "play_dir": "as_you_like_it",
@@ -381,9 +384,10 @@
     "scene_title": "O confronto de Coriolano com a plebe amotinada",
     "location": "Ato I, Cena 1.",
     "focus_prompt": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology (found in sources) to this specific scene.\nFocus on \"Education of the Imaginary\" and breaking the \"Individual Capsule\" via vicarious experience.\n\nStructure the audio to cover:\n1. Context & Preliminary Attitude (suspending external judgments).\n2. The 4 Pillars: Primacy of Intuition, Existential Sincerity, Affective Memory, Literature as a Means.\n3. Vicarious Experience: Instruct the listener on how to inhabit the main character's skin.\n\nInput Data:\nScene Number: 1\nBook: Coriolanus\nAuthor: William Shakespeare\n\nContext:\nTítulo da Cena: O confronto de Coriolano com a plebe amotinada\nLocalização: Ato I, Cena 1.\nResumo: Os cidadãos se amotinam por causa da fome e acusam Coriolano de ser seu principal inimigo. Ele entra em cena e, em vez de apaziguá-los com diplomacia, insulta-os abertamente, comparando a confiança na plebe a construir sobre o gelo ou granizo, e condenando a inconstância e a baixeza moral da multidão.\nJustificativa COF: ",
-    "status": "pending",
-    "notebook_id": null,
-    "audio_id": null
+    "status": "done",
+    "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
+    "audio_id": null,
+    "completed_at": "2026-02-28T22:43:58.434648"
   },
   {
     "play_dir": "coriolanus",
@@ -491,9 +495,10 @@
     "scene_title": "A Aposta de Póstumo e Iachimo",
     "location": "Ato I, Cena 4.",
     "focus_prompt": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology (found in sources) to this specific scene.\nFocus on \"Education of the Imaginary\" and breaking the \"Individual Capsule\" via vicarious experience.\n\nStructure the audio to cover:\n1. Context & Preliminary Attitude (suspending external judgments).\n2. The 4 Pillars: Primacy of Intuition, Existential Sincerity, Affective Memory, Literature as a Means.\n3. Vicarious Experience: Instruct the listener on how to inhabit the main character's skin.\n\nInput Data:\nScene Number: 1\nBook: Cymbeline, King of Britain\nAuthor: William Shakespeare\n\nContext:\nTítulo da Cena: A Aposta de Póstumo e Iachimo\nLocalização: Ato I, Cena 4.\nResumo: Em Roma, Iachimo desafia a fé inabalável que Póstumo (Posthumus) tem na castidade de sua esposa, Imogen. Ele propõe uma aposta financeira e de vida, prometendo provar que consegue seduzi-la e trazer uma prova material de sua desonra.\nJustificativa COF: **Ampliação do imaginário quanto ao cinismo e à honra.** A cena oferece uma excelente oportunidade para a *experiência vicária* ao nos colocarmos na pele do idealismo ingênuo de Póstumo sendo enredado pelo maquiavelismo de Iachimo. Ilustra a fragilidade da virtude quando ela é tratada como mercadoria e submetida a um jogo de vaidades mundanas.",
-    "status": "pending",
-    "notebook_id": null,
-    "audio_id": null
+    "status": "done",
+    "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
+    "audio_id": null,
+    "completed_at": "2026-02-28T22:43:58.434650"
   },
   {
     "play_dir": "cymbeline",
@@ -590,9 +595,10 @@
     "scene_title": "O Contraste entre o Teatro Social e a Dor Interior",
     "location": "Ato I, Cena 2.",
     "focus_prompt": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology (found in sources) to this specific scene.\nFocus on \"Education of the Imaginary\" and breaking the \"Individual Capsule\" via vicarious experience.\n\nStructure the audio to cover:\n1. Context & Preliminary Attitude (suspending external judgments).\n2. The 4 Pillars: Primacy of Intuition, Existential Sincerity, Affective Memory, Literature as a Means.\n3. Vicarious Experience: Instruct the listener on how to inhabit the main character's skin.\n\nInput Data:\nScene Number: 1\nBook: Hamlet, Prince of Denmark\nAuthor: William Shakespeare\n\nContext:\nTítulo da Cena: O Contraste entre o Teatro Social e a Dor Interior\nLocalização: Ato I, Cena 2.\nResumo: Cláudio discursa diplomaticamente. A Rainha pede a Hamlet que pare de sofrer. Hamlet responde que sua dor não \"parece\", ela \"é\", e profere seu primeiro grande solilóquio desejando que sua carne derretesse.\nJustificativa COF: Recusa de Hamlet em participar da \"falsidade biográfica\" e do fingimento coletivo. A percepção de que a ordem social é uma mentira e a necessidade de buscar uma âncora na verdade interior.",
-    "status": "pending",
-    "notebook_id": null,
-    "audio_id": null
+    "status": "done",
+    "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
+    "audio_id": null,
+    "completed_at": "2026-02-28T22:43:58.434652"
   },
   {
     "play_dir": "hamlet",
@@ -601,9 +607,10 @@
     "scene_title": "A Irrupção do Sobrenatural e o Chamado à Vocação",
     "location": "Ato I, Cena 5.",
     "focus_prompt": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology (found in sources) to this specific scene.\nFocus on \"Education of the Imaginary\" and breaking the \"Individual Capsule\" via vicarious experience.\n\nStructure the audio to cover:\n1. Context & Preliminary Attitude (suspending external judgments).\n2. The 4 Pillars: Primacy of Intuition, Existential Sincerity, Affective Memory, Literature as a Means.\n3. Vicarious Experience: Instruct the listener on how to inhabit the main character's skin.\n\nInput Data:\nScene Number: 2\nBook: Hamlet, Prince of Denmark\nAuthor: William Shakespeare\n\nContext:\nTítulo da Cena: A Irrupção do Sobrenatural e o Chamado à Vocação\nLocalização: Ato I, Cena 5.\nResumo: O Fantasma revela ter sido assassinado por Cláudio e exige vingança. Hamlet jura apagar de sua memória todos os registros triviais e avisa que poderá fingir loucura (\"antic disposition\").\nJustificativa COF: O sobrenatural quebra o horizonte de normalidade. Hamlet toma para si uma responsabilidade histórica e de justiça, optando pelo isolamento como ferramenta para investigar a realidade além das aparências.",
-    "status": "pending",
-    "notebook_id": null,
-    "audio_id": null
+    "status": "done",
+    "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
+    "audio_id": null,
+    "completed_at": "2026-02-28T22:43:58.434653"
   },
   {
     "play_dir": "hamlet",
@@ -689,9 +696,10 @@
     "scene_title": "A Culpa e a Inveja Paterna do Rei",
     "location": "Ato I, Cena 1.",
     "focus_prompt": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology (found in sources) to this specific scene.\nFocus on \"Education of the Imaginary\" and breaking the \"Individual Capsule\" via vicarious experience.\n\nStructure the audio to cover:\n1. Context & Preliminary Attitude (suspending external judgments).\n2. The 4 Pillars: Primacy of Intuition, Existential Sincerity, Affective Memory, Literature as a Means.\n3. Vicarious Experience: Instruct the listener on how to inhabit the main character's skin.\n\nInput Data:\nScene Number: 1\nBook: History of Henry IV, Part I\nAuthor: William Shakespeare\n\nContext:\nTítulo da Cena: A Culpa e a Inveja Paterna do Rei\nLocalização: Ato I, Cena 1.\nResumo: O Rei Henrique IV lamenta as guerras civis e confessa sua profunda inveja de Northumberland por ter um filho valoroso e honrado como Hotspur, enquanto seu próprio filho, o Príncipe Hal, vive em desonra e libertinagem. Ele chega a desejar que fadas tivessem trocado os bebês no berço.\nJustificativa COF: Excelente para a *prática da sinceridade existencial*. O leitor é convidado a habitar a pele de um homem no ápice do poder terreno, mas que é corroído pela frustração íntima e pela dor de um legado familiar fracassado. Mostra como o sucesso político não resolve o drama da consciência.",
-    "status": "pending",
-    "notebook_id": null,
-    "audio_id": null
+    "status": "done",
+    "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
+    "audio_id": null,
+    "completed_at": "2026-02-28T22:43:58.434655"
   },
   {
     "play_dir": "history_of_henry_iv_part_i",
@@ -788,9 +796,10 @@
     "scene_title": "O Monólogo do Rumor",
     "location": "Prólogo.",
     "focus_prompt": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology (found in sources) to this specific scene.\nFocus on \"Education of the Imaginary\" and breaking the \"Individual Capsule\" via vicarious experience.\n\nStructure the audio to cover:\n1. Context & Preliminary Attitude (suspending external judgments).\n2. The 4 Pillars: Primacy of Intuition, Existential Sincerity, Affective Memory, Literature as a Means.\n3. Vicarious Experience: Instruct the listener on how to inhabit the main character's skin.\n\nInput Data:\nScene Number: 1\nBook: History of Henry IV, Part II\nAuthor: William Shakespeare\n\nContext:\nTítulo da Cena: O Monólogo do Rumor\nLocalização: Prólogo.\nResumo: A personificação do \"Rumor\", pintada com inúmeras línguas, gaba-se de espalhar calúnias e falsos relatos pelo mundo, anunciando que espalhará a mentira de que Hotspur venceu a batalha e matou o Príncipe Hal.\nJustificativa COF: Excelente para a **expansão do imaginário** quanto à estrutura da percepção pública e da mentira histórica. Obriga o leitor a reconhecer a vulnerabilidade da verdade no meio social, quebrando a ilusão de que o \"senso comum\" reflete a realidade dos fatos.",
-    "status": "pending",
-    "notebook_id": null,
-    "audio_id": null
+    "status": "done",
+    "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
+    "audio_id": null,
+    "completed_at": "2026-02-28T22:43:58.434658"
   },
   {
     "play_dir": "history_of_henry_iv_part_ii",

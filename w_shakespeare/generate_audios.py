@@ -23,7 +23,7 @@ PROGRESS_PATH = BASE_DIR / "audio_progress.json"
 DAILY_LOG_PATH = BASE_DIR / "audio_daily_log.json"
 
 NOTEBOOK_ID = "62400b1d-e3bd-45d2-8428-d2d8d6b7128d"
-MAX_PER_DAY = 6
+BATCH_SIZE = 20  # cenas por execução (sem limite diário, roda 2x/dia)
 
 
 def load_queue():
@@ -104,7 +104,7 @@ def cmd_status():
     print(f"   ❌ Errors:      {progress['errors']}")
     print(f"   ⏳ Pending:     {progress['pending']}")
     print(f"   📖 Current:     {progress['current_play'] or 'All done!'}")
-    print(f"   📅 Today:       {today_count}/{MAX_PER_DAY}")
+    print(f"   📅 Today:       {today_count}")
     print(f"   🔗 Notebook:    {NOTEBOOK_ID}")
 
     # Show per-play breakdown
@@ -170,21 +170,15 @@ def cmd_mark(play_dir, scene_num, status="done"):
 def cmd_batch(n=6):
     queue = load_queue()
     today_count = get_today_count()
-    remaining = MAX_PER_DAY - today_count
 
     pending = [item for item in queue if item["status"] == "pending"]
 
-    # Respect daily limit
-    batch_size = min(n, remaining)
-    batch = pending[:batch_size]
+    batch = pending[:n]
 
-    print(f"\n📦 Next {len(batch)} scenes (today: {today_count}/{MAX_PER_DAY}):")
+    print(f"\n📦 Next {len(batch)} scenes (today so far: {today_count}):")
     for i, item in enumerate(batch, 1):
         print(f"   {i}. {item['play_dir']} | Scene {item['scene_number']}: {item['scene_title']}")
         print(f"      Location: {item.get('location', 'N/A')}")
-
-    if remaining <= 0:
-        print(f"\n   ⚠️  Daily limit reached ({MAX_PER_DAY}). Resume tomorrow.")
 
 
 def cmd_prompt(play_dir, scene_num):
@@ -200,11 +194,7 @@ def cmd_daily():
     log = load_daily_log()
     today = date.today().isoformat()
     count = log.get(today, 0)
-    print(f"\n📅 Today ({today}): {count}/{MAX_PER_DAY} audios generated")
-    if count >= MAX_PER_DAY:
-        print("   ⚠️  Daily limit reached. Resume tomorrow.")
-    else:
-        print(f"   ✅ {MAX_PER_DAY - count} remaining for today.")
+    print(f"\n📅 Today ({today}): {count} audios generated (schedule: 2x/day, {BATCH_SIZE}/run)")
 
 
 def generate_reference_file(play_dir):

@@ -1,0 +1,22 @@
+{
+  "obra": "History Of Henry Viii",
+  "obra_slug": "henry8",
+  "obra_dir": "history_of_henry_viii",
+  "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
+  "total_cenas": 1,
+  "ultima_atualizacao": "2026-03-01T04:33:41.897071",
+  "audios": [
+    {
+      "arquivo": "ws_henry8_01_conselho_norfolk.mp3",
+      "cena_numero": 1,
+      "titulo_completo": "O Conselho de Norfolk sobre o Domínio das Paixões",
+      "localizacao": "Ato I, Cena 1.",
+      "artifact_id": "72d7208b-8d77-4a18-9307-983101d9e702",
+      "data_geracao": "2026-03-01T04:33:41.896994",
+      "focus_topic": "History Of Henry Viii - Ato I, Cena 1.: O Conselho de Norfolk sobre o Domínio das Paixões",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_henry_viii/audios/ws_henry8_01_conselho_norfolk.mp3",
+      "tamanho_bytes": 53243535
+    }
+  ]
+}

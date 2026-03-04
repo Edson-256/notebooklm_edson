@@ -1,0 +1,22 @@
+{
+  "obra": "History Of Henry Vi Part I",
+  "obra_slug": "henry6_p1",
+  "obra_dir": "history_of_henry_vi_part_i",
+  "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
+  "total_cenas": 1,
+  "ultima_atualizacao": "2026-03-01T03:51:57.031744",
+  "audios": [
+    {
+      "arquivo": "ws_henry6_p1_01_desorientação_esforço.mp3",
+      "cena_numero": 1,
+      "titulo_completo": "A Desorientação e o Esforço de Vontade de Talbot",
+      "localizacao": "Ato I, Cena 5.",
+      "artifact_id": "4cb07c9c-cdcf-490b-a556-05858c2ef6e1",
+      "data_geracao": "2026-03-01T03:51:57.031677",
+      "focus_topic": "History Of Henry Vi Part I - Ato I, Cena 5.: A Desorientação e o Esforço de Vontade de Talbot",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_henry_vi_part_i/audios/ws_henry6_p1_01_desorientação_esforço.mp3",
+      "tamanho_bytes": 56834331
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "obra": "History Of Richard Iii",
+  "obra_slug": "richard3",
+  "obra_dir": "history_of_richard_iii",
+  "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
+  "total_cenas": 1,
+  "ultima_atualizacao": "2026-03-01T05:16:09.424378",
+  "audios": [
+    {
+      "arquivo": "ws_richard3_01_autoconsciência_mal.mp3",
+      "cena_numero": 1,
+      "titulo_completo": "A Autoconsciência do Mal (A Escolha pela Mentira Existencial)",
+      "localizacao": "Ato I, Cena 1 — Rua em Londres.",
+      "artifact_id": "c6cdc72c-03f6-41af-9df9-c6e465514641",
+      "data_geracao": "2026-03-01T05:16:09.424314",
+      "focus_topic": "History Of Richard Iii - Ato I, Cena 1 — Rua em Londres.: A Autoconsciência do Mal (A Escolha pela Mentira Existencial)",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_richard_iii/audios/ws_richard3_01_autoconsciência_mal.mp3",
+      "tamanho_bytes": 45887767
+    }
+  ]
+}

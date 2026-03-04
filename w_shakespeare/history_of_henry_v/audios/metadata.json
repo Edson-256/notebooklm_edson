@@ -1,0 +1,22 @@
+{
+  "obra": "History Of Henry V",
+  "obra_slug": "henry5",
+  "obra_dir": "history_of_henry_v",
+  "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
+  "total_cenas": 1,
+  "ultima_atualizacao": "2026-03-01T03:37:01.161787",
+  "audios": [
+    {
+      "arquivo": "ws_henry5_01_responsabilidade_moral.mp3",
+      "cena_numero": 1,
+      "titulo_completo": "A Responsabilidade Moral pela Guerra e as Bolas de Tênis",
+      "localizacao": "Ato I, Cena 2.",
+      "artifact_id": "01fe0f32-f5bb-4ee3-830a-afec47cfc6dc",
+      "data_geracao": "2026-03-01T03:37:01.161711",
+      "focus_topic": "History Of Henry V - Ato I, Cena 2.: A Responsabilidade Moral pela Guerra e as Bolas de Tênis",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_henry_v/audios/ws_henry5_01_responsabilidade_moral.mp3",
+      "tamanho_bytes": 36839376
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "obra": "History Of Henry Iv Part I",
+  "obra_slug": "henry4_p1",
+  "obra_dir": "history_of_henry_iv_part_i",
+  "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
+  "total_cenas": 1,
+  "ultima_atualizacao": "2026-03-01T03:11:49.912611",
+  "audios": [
+    {
+      "arquivo": "ws_henry4_p1_01_culpa_inveja.mp3",
+      "cena_numero": 1,
+      "titulo_completo": "A Culpa e a Inveja Paterna do Rei",
+      "localizacao": "Ato I, Cena 1.",
+      "artifact_id": "92910b3b-1e83-4391-a5bd-ce580d50ad7e",
+      "data_geracao": "2026-03-01T03:11:49.912543",
+      "focus_topic": "History Of Henry Iv Part I - Ato I, Cena 1.: A Culpa e a Inveja Paterna do Rei",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_henry_iv_part_i/audios/ws_henry4_p1_01_culpa_inveja.mp3",
+      "tamanho_bytes": 49238763
+    }
+  ]
+}

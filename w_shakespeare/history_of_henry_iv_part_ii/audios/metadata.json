@@ -1,0 +1,22 @@
+{
+  "obra": "History Of Henry Iv Part Ii",
+  "obra_slug": "henry4_p2",
+  "obra_dir": "history_of_henry_iv_part_ii",
+  "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
+  "total_cenas": 1,
+  "ultima_atualizacao": "2026-03-01T03:24:08.946442",
+  "audios": [
+    {
+      "arquivo": "ws_henry4_p2_01_monólogo_rumor.mp3",
+      "cena_numero": 1,
+      "titulo_completo": "O Monólogo do Rumor",
+      "localizacao": "Prólogo.",
+      "artifact_id": "3b2f359f-a8a9-4fd5-9a54-5f2b8dde353c",
+      "data_geracao": "2026-03-01T03:24:08.946365",
+      "focus_topic": "History Of Henry Iv Part Ii - Prólogo.: O Monólogo do Rumor",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_henry_iv_part_ii/audios/ws_henry4_p2_01_monólogo_rumor.mp3",
+      "tamanho_bytes": 40470512
+    }
+  ]
+}

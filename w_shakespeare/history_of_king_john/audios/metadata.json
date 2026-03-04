@@ -1,0 +1,22 @@
+{
+  "obra": "History Of King John",
+  "obra_slug": "king_john",
+  "obra_dir": "history_of_king_john",
+  "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
+  "total_cenas": 1,
+  "ultima_atualizacao": "2026-03-01T04:49:43.046872",
+  "audios": [
+    {
+      "arquivo": "ws_king_john_01_monólogo_conveniência.mp3",
+      "cena_numero": 1,
+      "titulo_completo": "O Monólogo da \"Conveniência\" (Commodity)",
+      "localizacao": "Ato II, Cena 1 (A fala final de Philip the Bastard).",
+      "artifact_id": "2d4e71c0-a82e-49d9-908b-e801aa3bf3ed",
+      "data_geracao": "2026-03-01T04:49:43.046802",
+      "focus_topic": "History Of King John - Ato II, Cena 1 (A fala final de Philip the Bastard).: O Monólogo da \"Conveniência\" (Commodity)",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_king_john/audios/ws_king_john_01_monólogo_conveniência.mp3",
+      "tamanho_bytes": 58163030
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "obra": "History Of Henry Vi Part Iii",
+  "obra_slug": "henry6_p3",
+  "obra_dir": "history_of_henry_vi_part_iii",
+  "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
+  "total_cenas": 1,
+  "ultima_atualizacao": "2026-03-01T04:18:45.050862",
+  "audios": [
+    {
+      "arquivo": "ws_henry6_p3_01_renúncia_direito.mp3",
+      "cena_numero": 1,
+      "titulo_completo": "A Renúncia do Direito de Sangue em Nome da Paz",
+      "localizacao": "Ato I, Cena 1.",
+      "artifact_id": "6b2e8081-1a2d-4e3a-b8b6-b5b14e2b6281",
+      "data_geracao": "2026-03-01T04:18:45.050794",
+      "focus_topic": "History Of Henry Vi Part Iii - Ato I, Cena 1.: A Renúncia do Direito de Sangue em Nome da Paz",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_henry_vi_part_iii/audios/ws_henry6_p3_01_renúncia_direito.mp3",
+      "tamanho_bytes": 38422183
+    }
+  ]
+}

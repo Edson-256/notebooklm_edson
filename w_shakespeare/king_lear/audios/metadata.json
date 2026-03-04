@@ -1,0 +1,22 @@
+{
+  "obra": "King Lear",
+  "obra_slug": "king_lear",
+  "obra_dir": "king_lear",
+  "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
+  "total_cenas": 1,
+  "ultima_atualizacao": "2026-03-01T05:42:34.825920",
+  "audios": [
+    {
+      "arquivo": "ws_king_lear_01_julgamento_amor.mp3",
+      "cena_numero": 1,
+      "titulo_completo": "O Julgamento do Amor e a Corrupção da Linguagem",
+      "localizacao": "Ato I, Cena 1.",
+      "artifact_id": "b8b88bc3-1f48-4abd-80d7-30255feaa4d8",
+      "data_geracao": "2026-03-01T05:42:34.825837",
+      "focus_topic": "King Lear - Ato I, Cena 1.: O Julgamento do Amor e a Corrupção da Linguagem",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/king_lear/audios/ws_king_lear_01_julgamento_amor.mp3",
+      "tamanho_bytes": 43797604
+    }
+  ]
+}

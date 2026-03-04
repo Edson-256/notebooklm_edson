@@ -1,0 +1,22 @@
+{
+  "obra": "As You Like It",
+  "obra_slug": "as_you_like_it",
+  "obra_dir": "as_you_like_it",
+  "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
+  "total_cenas": 1,
+  "ultima_atualizacao": "2026-03-01T02:15:20.268972",
+  "audios": [
+    {
+      "arquivo": "ws_as_you_like_it_01_ressentimento_oliver.mp3",
+      "cena_numero": 1,
+      "titulo_completo": "O Ressentimento de Oliver e a Virtude Odiada",
+      "localizacao": "Ato I, Cena 1.",
+      "artifact_id": "213a077e-705e-4194-b230-75ce01fd83be",
+      "data_geracao": "2026-03-01T02:15:20.268882",
+      "focus_topic": "As You Like It - Ato I, Cena 1.: O Ressentimento de Oliver e a Virtude Odiada",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/as_you_like_it/audios/ws_as_you_like_it_01_ressentimento_oliver.mp3",
+      "tamanho_bytes": 51195953
+    }
+  ]
+}

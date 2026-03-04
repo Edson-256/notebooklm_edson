@@ -1,0 +1,22 @@
+{
+  "obra": "Antony And Cleopatra",
+  "obra_slug": "antony_cleopatra",
+  "obra_dir": "antony_and_cleopatra",
+  "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
+  "total_cenas": 1,
+  "ultima_atualizacao": "2026-03-01T01:59:54.972639",
+  "audios": [
+    {
+      "arquivo": "ws_antony_cleopatra_01_despertar_sinceridade.mp3",
+      "cena_numero": 1,
+      "titulo_completo": "O Despertar da Sinceridade Existencial de Antônio",
+      "localizacao": "Ato I, Cena 2.",
+      "artifact_id": "697df3c5-f4b4-4a1e-b9ab-2106d7f75bc6",
+      "data_geracao": "2026-03-01T01:59:54.972562",
+      "focus_topic": "Antony And Cleopatra - Ato I, Cena 2.: O Despertar da Sinceridade Existencial de Antônio",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/antony_and_cleopatra/audios/ws_antony_cleopatra_01_despertar_sinceridade.mp3",
+      "tamanho_bytes": 30622558
+    }
+  ]
+}

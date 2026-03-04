@@ -1,0 +1,22 @@
+{
+  "obra": "Alls Well That Ends Well",
+  "obra_slug": "alls_well",
+  "obra_dir": "alls_well_that_ends_well",
+  "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
+  "total_cenas": 1,
+  "ultima_atualizacao": "2026-03-01T01:46:58.082383",
+  "audios": [
+    {
+      "arquivo": "ws_alls_well_01_monólogo_helena.mp3",
+      "cena_numero": 1,
+      "titulo_completo": "O monólogo de Helena sobre o abismo de seu amor",
+      "localizacao": "Ato I, Cena 1.",
+      "artifact_id": "025e98f9-4450-4f5c-9a3a-376fdb94f7eb",
+      "data_geracao": "2026-03-01T01:46:58.082306",
+      "focus_topic": "Alls Well That Ends Well - Ato I, Cena 1.: O monólogo de Helena sobre o abismo de seu amor",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/alls_well_that_ends_well/audios/ws_alls_well_01_monólogo_helena.mp3",
+      "tamanho_bytes": 32906320
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "obra": "Coriolanus",
+  "obra_slug": "coriolanus",
+  "obra_dir": "coriolanus",
+  "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
+  "total_cenas": 1,
+  "ultima_atualizacao": "2026-03-01T02:28:07.625039",
+  "audios": [
+    {
+      "arquivo": "ws_coriolanus_01_confronto_coriolano.mp3",
+      "cena_numero": 1,
+      "titulo_completo": "O confronto de Coriolano com a plebe amotinada",
+      "localizacao": "Ato I, Cena 1.",
+      "artifact_id": "a3391120-3586-4e3d-8fb9-f5b7fe8fc9ff",
+      "data_geracao": "2026-03-01T02:28:07.624963",
+      "focus_topic": "Coriolanus - Ato I, Cena 1.: O confronto de Coriolano com a plebe amotinada",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/coriolanus/audios/ws_coriolanus_01_confronto_coriolano.mp3",
+      "tamanho_bytes": 43783410
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "obra": "Loves Labours Lost",
+  "obra_slug": "loves_labour",
+  "obra_dir": "loves_labours_lost",
+  "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
+  "total_cenas": 1,
+  "ultima_atualizacao": "2026-03-01T05:57:35.506863",
+  "audios": [
+    {
+      "arquivo": "ws_loves_labour_01_construção_teatro.mp3",
+      "cena_numero": 1,
+      "titulo_completo": "A Construção do Teatro das Ilusões e a Objeção da Realidade",
+      "localizacao": "Ato I, Cena 1.",
+      "artifact_id": "d54502ef-5047-40b6-9926-b80ef47443e4",
+      "data_geracao": "2026-03-01T05:57:35.506794",
+      "focus_topic": "Loves Labours Lost - Ato I, Cena 1.: A Construção do Teatro das Ilusões e a Objeção da Realidade",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/loves_labours_lost/audios/ws_loves_labour_01_construção_teatro.mp3",
+      "tamanho_bytes": 50375357
+    }
+  ]
+}

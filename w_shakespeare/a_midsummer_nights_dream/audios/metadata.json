@@ -1,0 +1,22 @@
+{
+  "obra": "A Midsummer Nights Dream",
+  "obra_slug": "midsummer_dream",
+  "obra_dir": "a_midsummer_nights_dream",
+  "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
+  "total_cenas": 1,
+  "ultima_atualizacao": "2026-03-01T01:34:42.495637",
+  "audios": [
+    {
+      "arquivo": "ws_midsummer_dream_01_ultimato_teseu.mp3",
+      "cena_numero": 1,
+      "titulo_completo": "O Ultimato de Teseu e a Decisão de Hérmia",
+      "localizacao": "Ato I, Cena I.",
+      "artifact_id": "7ffcd666-4414-4bef-a856-7b78647466ed",
+      "data_geracao": "2026-03-01T01:34:42.495547",
+      "focus_topic": "A Midsummer Nights Dream - Ato I, Cena I.: O Ultimato de Teseu e a Decisão de Hérmia",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/a_midsummer_nights_dream/audios/ws_midsummer_dream_01_ultimato_teseu.mp3",
+      "tamanho_bytes": 31871323
+    }
+  ]
+}

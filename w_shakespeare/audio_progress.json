@@ -1,10 +1,10 @@
 {
   "total_scenes": 351,
-  "completed": 0,
-  "triggered": 1,
+  "completed": 10,
+  "triggered": 0,
   "errors": 0,
-  "pending": 350,
+  "pending": 341,
   "current_play": "a_midsummer_nights_dream",
-  "last_updated": "2026-02-27T08:20:25.412932",
+  "last_updated": "2026-03-02T23:01:10.199373",
   "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d"
 }

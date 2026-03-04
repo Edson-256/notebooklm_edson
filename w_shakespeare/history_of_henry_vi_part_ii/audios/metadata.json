@@ -1,0 +1,22 @@
+{
+  "obra": "History Of Henry Vi Part Ii",
+  "obra_slug": "henry6_p2",
+  "obra_dir": "history_of_henry_vi_part_ii",
+  "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
+  "total_cenas": 1,
+  "ultima_atualizacao": "2026-03-01T04:06:21.796582",
+  "audios": [
+    {
+      "arquivo": "ws_henry6_p2_01_conflito_dever.mp3",
+      "cena_numero": 1,
+      "titulo_completo": "O Conflito entre o Dever e a Ambição",
+      "localizacao": "Ato I, Cena 2.",
+      "artifact_id": "df79a625-ce02-4189-95bc-1123d639db4c",
+      "data_geracao": "2026-03-01T04:06:21.796508",
+      "focus_topic": "History Of Henry Vi Part Ii - Ato I, Cena 2.: O Conflito entre o Dever e a Ambição",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_henry_vi_part_ii/audios/ws_henry6_p2_01_conflito_dever.mp3",
+      "tamanho_bytes": 55800829
+    }
+  ]
+}

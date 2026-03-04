@@ -14,7 +14,7 @@ from typing import List, Dict, Optional
 PROJECT_DIR = Path(__file__).parent.parent
 SHAKESPEARE_DIR = PROJECT_DIR / "w_shakespeare"
 PROGRESS_FILE = PROJECT_DIR / "logs" / "shakespeare_progress.json"
-DAILY_LIMIT = 20
+BATCH_SIZE = 20  # cenas por execução (sem limite diário)
 LOG_DIR = PROJECT_DIR / "logs"
 
 def log(message: str):
@@ -115,15 +115,11 @@ def process_daily_batch(dry_run: bool = False) -> Dict:
     # Carregar progresso
     progress = load_progress()
 
-    # Verificar se já rodou hoje
-    if progress.get('last_run'):
-        last_run_date = progress['last_run'][:10]
-        today = datetime.now().strftime("%Y-%m-%d")
+    today = datetime.now().strftime("%Y-%m-%d")
+    today_processed = progress.get('today', {}).get(today, 0)
 
-        if last_run_date == today:
-            log("⚠️  Batch diário já foi executado hoje!")
-            log(f"   Última execução: {progress['last_run']}")
-            return progress
+    if today_processed > 0:
+        log(f"ℹ️  Sessão anterior hoje: {today_processed} cenas já processadas.")
 
     # Obter obras com cenas pendentes
     pending_obras = get_pending_obras()
@@ -138,11 +134,11 @@ def process_daily_batch(dry_run: bool = False) -> Dict:
     log(f"   Obras pendentes: {len(pending_obras)}")
     log(f"   Cenas pendentes: {total_pending}")
     log(f"   Cenas já processadas: {progress['total_processed']}")
-    log(f"   Batch de hoje: {min(DAILY_LIMIT, total_pending)} cenas")
+    log(f"   Batch desta execução: {min(BATCH_SIZE, total_pending)} cenas ({today_processed} já feitas hoje)")
 
-    # Distribuir as 20 cenas entre as obras
+    # Distribuir cenas no batch
     scenes_to_process = []
-    remaining = DAILY_LIMIT
+    remaining = BATCH_SIZE
 
     # Round-robin: pega 1 cena de cada obra até completar 20
     while remaining > 0 and pending_obras:
@@ -192,12 +188,16 @@ def process_daily_batch(dry_run: bool = False) -> Dict:
         log(f"📚 Processando: {obra_name} ({data['count']} cenas)")
         log(f"{'='*70}")
 
+        # Calcular cena inicial (próxima após as já processadas)
+        start_from = min(data['scenes'])
+
         # Executar script principal
         cmd = [
             "python3",
             str(PROJECT_DIR / "scripts" / "shakespeare_audio_generator.py"),
             "--obra", obra_name,
-            "--scenes", str(data['count'])
+            "--scenes", str(data['count']),
+            "--start-from", str(start_from)
         ]
 
         try:
@@ -225,21 +225,25 @@ def process_daily_batch(dry_run: bool = False) -> Dict:
         except Exception as e:
             log(f"❌ Exceção ao processar {obra_name}: {e}")
 
-    # Atualizar progresso total
+    # Atualizar progresso total e contador diário
     progress['total_processed'] += total_success
+    if 'today' not in progress:
+        progress['today'] = {}
+    progress['today'][today] = today_processed + total_success
     save_progress(progress)
 
     # Resumo final
+    new_today_total = today_processed + total_success
     log(f"\n{'='*70}")
-    log(f"📊 RESUMO DO BATCH DIÁRIO")
+    log(f"📊 RESUMO DO BATCH")
     log(f"{'='*70}")
-    log(f"✅ Cenas processadas hoje: {total_success}/{DAILY_LIMIT}")
+    log(f"✅ Cenas processadas nesta execução: {total_success}")
+    log(f"📅 Total de hoje: {new_today_total}")
     log(f"📈 Total acumulado: {progress['total_processed']}/351")
-    log(f"📅 Próximo batch: Amanhã às 06:00")
 
     remaining_total = 351 - progress['total_processed']
-    days_remaining = (remaining_total + DAILY_LIMIT - 1) // DAILY_LIMIT
-    log(f"⏱️  Previsão de conclusão: ~{days_remaining} dias")
+    runs_remaining = (remaining_total + BATCH_SIZE - 1) // BATCH_SIZE
+    log(f"⏱️  Execuções restantes: ~{runs_remaining} (2x/dia = ~{(runs_remaining + 1) // 2} dias)")
 
     return progress
 

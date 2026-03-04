@@ -371,7 +371,7 @@ Justificativa COF: """
             return False
 
 
-def process_obra(obra_dir: Path, max_scenes: Optional[int] = None) -> List[Dict]:
+def process_obra(obra_dir: Path, max_scenes: Optional[int] = None, start_from: int = 1) -> List[Dict]:
     """Processa uma obra e gera áudios"""
     log(f"\n{'='*60}")
     log(f"📚 Processando obra: {obra_dir.name}")
@@ -392,12 +392,18 @@ def process_obra(obra_dir: Path, max_scenes: Optional[int] = None) -> List[Dict]
 
     # Extrair cenas
     extractor = SceneExtractor(scenes_file)
-    scenes = extractor.extract_scenes()
+    all_scenes = extractor.extract_scenes()
+
+    # Filtrar a partir da cena start_from
+    scenes = [s for s in all_scenes if s['number'] >= start_from]
 
     if max_scenes:
         scenes = scenes[:max_scenes]
 
-    log(f"📋 Encontradas {len(scenes)} cenas para processar")
+    if start_from > 1:
+        log(f"📋 Total de cenas: {len(all_scenes)} | Iniciando da cena {start_from} | Processando: {len(scenes)}")
+    else:
+        log(f"📋 Encontradas {len(scenes)} cenas para processar")
 
     # Processar cada cena
     generator = AudioGenerator(NOTEBOOK_ID, PROFILE)
@@ -462,23 +468,38 @@ def process_obra(obra_dir: Path, max_scenes: Optional[int] = None) -> List[Dict]
 
 
 def save_metadata(obra_dir: Path, obra_slug: str, book_title: str, audios: List[Dict]):
-    """Salva metadata.json"""
+    """Salva metadata.json, preservando áudios anteriores (append)"""
     metadata_path = obra_dir / "audios" / "metadata.json"
+
+    # Carregar audios existentes para fazer append
+    existing_audios = []
+    if metadata_path.exists():
+        try:
+            existing = json.load(open(metadata_path, encoding='utf-8'))
+            existing_audios = existing.get('audios', [])
+        except Exception:
+            existing_audios = []
+
+    # Mesclar: manter existentes e adicionar/atualizar novos por cena_numero
+    existing_by_num = {a['cena_numero']: a for a in existing_audios}
+    for audio in audios:
+        existing_by_num[audio['cena_numero']] = audio
+    merged = sorted(existing_by_num.values(), key=lambda a: a['cena_numero'])
 
     metadata = {
         'obra': book_title,
         'obra_slug': obra_slug,
         'obra_dir': obra_dir.name,
         'notebook_id': NOTEBOOK_ID,
-        'total_cenas': len(audios),
+        'total_cenas': len(merged),
         'ultima_atualizacao': datetime.now().isoformat(),
-        'audios': audios
+        'audios': merged
     }
 
     with open(metadata_path, 'w', encoding='utf-8') as f:
         json.dump(metadata, f, indent=2, ensure_ascii=False)
 
-    log(f"💾 Metadata salvo: {metadata_path}")
+    log(f"💾 Metadata salvo: {metadata_path} ({len(merged)} áudios total)")
 
 
 def main():
@@ -488,6 +509,8 @@ def main():
     parser = argparse.ArgumentParser(description='Shakespeare Audio Generator')
     parser.add_argument('--obra', type=str, help='Nome do diretório da obra')
     parser.add_argument('--scenes', type=int, help='Número máximo de cenas a processar')
+    parser.add_argument('--start-from', type=int, default=1, dest='start_from',
+                        help='Número da cena a partir da qual começar (default: 1)')
     parser.add_argument('--test', action='store_true', help='Modo de teste (3 cenas)')
 
     args = parser.parse_args()
@@ -521,7 +544,7 @@ def main():
             log(f"❌ Obra não encontrada: {args.obra}", "ERROR")
             return 1
 
-        results = process_obra(obra_dir, max_scenes)
+        results = process_obra(obra_dir, max_scenes, start_from=args.start_from)
     else:
         # Processar primeira obra (ordem alfabética) para teste
         obras = sorted([d for d in SHAKESPEARE_DIR.iterdir()
@@ -532,7 +555,7 @@ def main():
             return 1
 
         log(f"📚 Processando primeira obra em ordem alfabética: {obras[0].name}")
-        results = process_obra(obras[0], max_scenes)
+        results = process_obra(obras[0], max_scenes, start_from=args.start_from)
 
     # Resumo
     print()

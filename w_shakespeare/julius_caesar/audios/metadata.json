@@ -1,0 +1,22 @@
+{
+  "obra": "Julius Caesar",
+  "obra_slug": "julius_caesar",
+  "obra_dir": "julius_caesar",
+  "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
+  "total_cenas": 1,
+  "ultima_atualizacao": "2026-03-01T05:29:07.342553",
+  "audios": [
+    {
+      "arquivo": "ws_julius_caesar_01_inconstância_mentalidade.mp3",
+      "cena_numero": 1,
+      "titulo_completo": "A Inconstância da Mentalidade de Massa",
+      "localizacao": "Ato I, Cena 1.",
+      "artifact_id": "419ae96e-cbe3-4eb6-bccc-f9c4f4a87296",
+      "data_geracao": "2026-03-01T05:29:07.342482",
+      "focus_topic": "Julius Caesar - Ato I, Cena 1.: A Inconstância da Mentalidade de Massa",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/julius_caesar/audios/ws_julius_caesar_01_inconstância_mentalidade.mp3",
+      "tamanho_bytes": 35950799
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "obra": "Cymbeline",
+  "obra_slug": "cymbeline",
+  "obra_dir": "cymbeline",
+  "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
+  "total_cenas": 1,
+  "ultima_atualizacao": "2026-03-01T02:44:33.725314",
+  "audios": [
+    {
+      "arquivo": "ws_cymbeline_01_aposta_póstumo.mp3",
+      "cena_numero": 1,
+      "titulo_completo": "A Aposta de Póstumo e Iachimo",
+      "localizacao": "Ato I, Cena 4.",
+      "artifact_id": "7274bfac-21ba-4fbd-afe8-86a9609fe15a",
+      "data_geracao": "2026-03-01T02:44:33.725229",
+      "focus_topic": "Cymbeline - Ato I, Cena 4.: A Aposta de Póstumo e Iachimo",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/cymbeline/audios/ws_cymbeline_01_aposta_póstumo.mp3",
+      "tamanho_bytes": 38861558
+    }
+  ]
+}

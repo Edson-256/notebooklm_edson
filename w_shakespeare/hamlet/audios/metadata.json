@@ -3,32 +3,20 @@
   "obra_slug": "hamlet",
   "obra_dir": "hamlet",
   "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
-  "total_cenas": 2,
-  "ultima_atualizacao": "2026-02-28T10:21:27.672388",
+  "total_cenas": 1,
+  "ultima_atualizacao": "2026-03-01T02:58:26.873129",
   "audios": [
     {
       "arquivo": "ws_hamlet_01_contraste_teatro.mp3",
       "cena_numero": 1,
       "titulo_completo": "O Contraste entre o Teatro Social e a Dor Interior",
       "localizacao": "Ato I, Cena 2.",
-      "artifact_id": "8e01c899-ad48-4d5b-984d-5491524071b0",
-      "data_geracao": "2026-02-28T09:55:04.251378",
+      "artifact_id": "ffb38774-7ebc-4735-80bf-7d5a1b314831",
+      "data_geracao": "2026-03-01T02:58:26.873058",
       "focus_topic": "Hamlet - Ato I, Cena 2.: O Contraste entre o Teatro Social e a Dor Interior",
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/hamlet/audios/ws_hamlet_01_contraste_teatro.mp3",
-      "tamanho_bytes": 42485340
-    },
-    {
-      "arquivo": "ws_hamlet_02_irrupção_sobrenatural.mp3",
-      "cena_numero": 2,
-      "titulo_completo": "A Irrupção do Sobrenatural e o Chamado à Vocação",
-      "localizacao": "Ato I, Cena 5.",
-      "artifact_id": "2afbead2-1cf1-421e-92e4-460965bd358b",
-      "data_geracao": "2026-02-28T10:21:27.672306",
-      "focus_topic": "Hamlet - Ato I, Cena 5.: A Irrupção do Sobrenatural e o Chamado à Vocação",
-      "status": "downloaded",
-      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/hamlet/audios/ws_hamlet_02_irrupção_sobrenatural.mp3",
-      "tamanho_bytes": 46354151
+      "tamanho_bytes": 46212097
     }
   ]
 }

@@ -81,7 +81,7 @@ Este projeto usa **Beads (`bd`)** como sistema exclusivo para rastreamento de ta
 - **Freud**: `bdb7eeaf-70db-4ff8-983b-1c51012c331b`
 - **Jacques Lacan**: `2d678850-c015-431a-91ba-0a3a8297431e`
 
-**Lista completa:** Consulte `notebooks_conta_pessoal.md` para ver todos os 36 notebooks.
+**Lista completa:** Consulte `docs/notebooklm/notebooks_conta_pessoal.md` para ver todos os 36 notebooks.
 
 ---
 
@@ -124,17 +124,32 @@ chat_with_notebook(
 
 ```
 notebooklm_edson/
-├── .beads/                    # Banco de dados Beads
-│   ├── beads.db              # SQLite database
-│   └── issues.jsonl          # Histórico sincronizado
-├── .claude/                   # Configurações Claude globais
-├── CLAUDE.md                  # Este arquivo (instruções do projeto)
-├── guia_uso_notebooklm.md    # Guia de uso do MCP
-├── notebooks_conta_pessoal.md # Lista completa de notebooks
-├── meus_notebooks.md          # Anotações pessoais de IDs
-├── test_mcp_client.py         # Cliente de teste MCP
-├── como_authenticar.md        # Guia de autenticação
-└── w_shakespeare/             # Dados de Shakespeare
+├── CLAUDE.md                       # Este arquivo (instruções do projeto)
+├── AGENTS.md                       # Instruções de workflow para agentes
+├── docs/
+│   ├── notebooklm/                 # Documentação do NotebookLM/MCP/LLM CLI
+│   │   ├── guia_uso_notebooklm.md
+│   │   ├── como_authenticar.md
+│   │   ├── notebooks_conta_pessoal.md
+│   │   ├── meus_notebooks.md
+│   │   ├── limites_audio_overview.md
+│   │   ├── audio_overview_guide.md
+│   │   └── install_log.md
+│   └── shakespeare/                # Documentação do projeto Shakespeare
+│       ├── estrategia_nomenclatura.md
+│       ├── resumo_tarefa_audio.md
+│       ├── automacao.md
+│       └── padrao_nomes_arquivos.md
+├── scripts/                        # Scripts de automação e batch
+├── tools/                          # Utilitários e testes
+│   ├── test_mcp_client.py
+│   ├── test_audio_generation.py
+│   ├── list_all_mcp_tools.py
+│   └── dashboard.html
+├── w_shakespeare/                  # Dados e áudios de Shakespeare
+├── leitura_formativa/              # Metodologia de leitura formativa
+├── g_flynn/                        # Projeto Gone Girl
+└── logs/                           # Logs de execução
 ```
 
 ---
@@ -155,7 +170,7 @@ notebooklm_edson/
 bd ready --json
 
 # 2. Testar conexão MCP
-python test_mcp_client.py
+python tools/test_mcp_client.py
 
 # 3. Criar nova tarefa
 bd create "Título da tarefa" --description "Detalhes" --json
@@ -169,6 +184,6 @@ bd sync
 ## 📝 Notas Importantes
 
 - **Versão do servidor MCP:** v0.1.15 (não lista notebooks automaticamente, use IDs manualmente)
-- **Autenticação:** Consulte `como_authenticar.md` para configuração
-- **IDs dos notebooks:** Sempre use os IDs documentados em `notebooks_conta_pessoal.md`
+- **Autenticação:** Consulte `docs/notebooklm/como_authenticar.md` para configuração
+- **IDs dos notebooks:** Sempre use os IDs documentados em `docs/notebooklm/notebooks_conta_pessoal.md`
 - **Backup:** O Beads sincroniza automaticamente para `issues.jsonl` no Git
