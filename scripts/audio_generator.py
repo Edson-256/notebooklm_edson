@@ -18,7 +18,7 @@ import unicodedata
 PROJECT_DIR = Path(__file__).parent.parent
 AUDIOS_DIR = PROJECT_DIR / "audios"
 LOGS_DIR = PROJECT_DIR / "logs"
-PROFILE = "default"
+PROFILE = "profissional"
 MAX_FOCUS_SIZE = 500
 INTERVAL_SECONDS = 600  # 10 minutos entre áudios
 

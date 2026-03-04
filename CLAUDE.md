@@ -40,16 +40,33 @@ Este projeto usa **Beads (`bd`)** como sistema exclusivo para rastreamento de ta
 
 ---
 
-## Notebooks Disponíveis (Conta Michalk)
+## Notebooks Disponíveis (Conta Michalk - edson@michalkcare.com)
 
-> **IMPORTANTE:** Os IDs dos notebooks desta conta ainda precisam ser levantados.
-> Consulte `docs/notebooklm/notebooks_conta_michalk.md` quando disponível.
+> **Perfil nlm:** `profissional`
+> **Total:** 43 notebooks
+> **Lista completa:** `docs/notebooklm/notebooks_conta_michalk.md`
 
-### Áreas de Conteúdo (a mapear)
+### Medicina & Ciencias da Saude
+- **Cirurgia Oncologica**: `231e5405-f082-4ac0-8020-894442a52b1d` (59 fontes)
+- **DeVita - Cancer - por capitulo**: `25aa1a74-f3e3-43d6-85db-32d2f5c21495` (108 fontes)
+- **NCCN Guidelines**: `edac906a-e1f7-45b1-9244-54c1d1b114df` (22 fontes)
+- **Cirurgia Geral & Emergencias**: `a35737a9-fb79-4ad7-a026-81a6f22ea901` (26 fontes)
+- **Cancer > Varias fontes**: `874cf376-9a99-4ec1-844c-ead09d838c48` (175 fontes)
+- **Clinica Medica**: `0656b073-b93c-4841-975e-b49057f27328` (35 fontes)
+- **Kaplan Psiquiatria**: `5c808f34-7d23-4857-943e-5e71c91fdcfa` (66 fontes)
+- **CBHPM - Codigos e Auditoria**: `c69eb7af-4767-473a-ab2f-cf347506b511` (146 fontes)
 
-- Medicina / Ciências da Saúde
-- Tecnologia / Computação
-- Ciência / Pesquisa
+### Ciencias Basicas
+- **Fisiologia**: `d23c673d-ab72-42a6-8edc-83c42a8cd633` (112 fontes)
+- **Bioquimica**: `6bdd6956-95e4-42ec-a55c-cf65273a8002` (55 fontes)
+- **Patologia**: `813ca0d8-eaa6-4ed0-bcac-439ed526853c` (92 fontes)
+- **Farmacologia**: `41afa80d-95ad-4dee-8e83-b35411ae6fb6` (78 fontes)
+- **Imunologia - Janeway**: `ecc2966d-a437-4565-a18a-dd30e9459799` (39 fontes)
+
+### Tecnologia & Automacao
+- **Automacao de IA com n8n/Supabase/Tailscale**: `2ad2647e-044f-497c-b690-f77896d0456d` (47 fontes)
+- **Guia de n8n Versao 2.0**: `c18d2cc4-171c-4029-9655-b18f3846ba3f` (81 fontes)
+- **Claude Code**: `0f2c151c-d4cd-4f47-bb2e-7b99afe9df82` (11 fontes)
 
 ---
 
@@ -151,7 +168,7 @@ bd sync
 
 ## Notas Importantes
 
-- **Conta:** Esta é a conta técnica/científica (Michalk), diferente da conta pessoal (Edson)
-- **Perfil nlm:** Pode precisar de um perfil separado para esta conta (`--profile michalk`)
+- **Conta:** edson@michalkcare.com (conta técnica/científica)
+- **Perfil nlm:** `profissional` (usar `--profile profissional` em todos os comandos nlm)
 - **Autenticação:** Consulte `docs/notebooklm/como_authenticar.md`
 - **Backup:** O Beads sincroniza para `issues.jsonl` no Git
