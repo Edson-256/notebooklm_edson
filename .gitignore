@@ -16,14 +16,22 @@ logs/
 notebooklm-config.json
 docs/notebooklm/install_log.md
 
-# Áudios gerados (muito grandes para Git)
-devita_cme/audio/
+# Binários grandes (áudio, PDF, imagens, docs)
 *.m4a
 *.mp3
 *.wav
+*.pdf
+*.docx
+*.png
+*.jpg
+*.jpeg
 
 # Logs de geração
 devita_cme/generation_log_*.json
+
+# Snapshots locais
+.snapshots/
+*/.snapshots/
 
 # Python
 __pycache__/
