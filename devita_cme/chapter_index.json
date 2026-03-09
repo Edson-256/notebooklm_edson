@@ -425,10 +425,10 @@
       "title": "Chronic Lymphocytic Leukemias",
       "source_id": "6265f94e-0654-44b3-b1f5-25c2841a5652",
       "source_type": "pdf",
-      "status": "pending",
+      "status": "generated",
       "audio_file": null,
-      "audio_generated_at": null,
-      "artifact_id": null,
+      "audio_generated_at": "2026-03-09T18:15:25.798758",
+      "artifact_id": "91eea626-dc61-4163-b56e-fe81c291c58c",
       "listened": false,
       "gaps_identified": false,
       "notes": ""
