@@ -3,8 +3,8 @@
   "obra_slug": "hamlet",
   "obra_dir": "hamlet",
   "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
-  "total_cenas": 5,
-  "ultima_atualizacao": "2026-03-08T20:58:20.844256",
+  "total_cenas": 8,
+  "ultima_atualizacao": "2026-03-09T14:08:06.847634",
   "audios": [
     {
       "arquivo": "ws_hamlet_01_contraste_teatro.mp3",
@@ -52,7 +52,9 @@
       "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
       "prompt_type": "custom",
       "source_id": "523f75db-6ff4-4591-84d1-a968d6d5f700",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/hamlet/audios/ws_hamlet_04_tensão_escatológica.mp3",
+      "tamanho_bytes": 38280993
     },
     {
       "arquivo": "ws_hamlet_05_captura_consciência.mp3",
@@ -64,7 +66,51 @@
       "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
       "prompt_type": "custom",
       "source_id": "523f75db-6ff4-4591-84d1-a968d6d5f700",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/hamlet/audios/ws_hamlet_05_captura_consciência.mp3",
+      "tamanho_bytes": 34834375
+    },
+    {
+      "arquivo": "ws_hamlet_06_escolha_moral.mp3",
+      "cena_numero": 6,
+      "titulo_completo": "A Escolha Moral e a Perspectiva da Eternidade",
+      "localizacao": "Ato III, Cena 3.",
+      "artifact_id": "1f26de87-ed27-49a5-8512-1b27c8fc2396",
+      "data_geracao": "2026-03-08T23:12:05.282312",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "523f75db-6ff4-4591-84d1-a968d6d5f700",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/hamlet/audios/ws_hamlet_06_escolha_moral.mp3",
+      "tamanho_bytes": 37258580
+    },
+    {
+      "arquivo": "ws_hamlet_07_destruição_ilusões.mp3",
+      "cena_numero": 7,
+      "titulo_completo": "A Destruição das Ilusões Biográficas",
+      "localizacao": "Ato III, Cena 4.",
+      "artifact_id": "e5fb49e4-feb7-4b5f-930e-8e055ccd97cc",
+      "data_geracao": "2026-03-09T00:55:13.110098",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "523f75db-6ff4-4591-84d1-a968d6d5f700",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/hamlet/audios/ws_hamlet_07_destruição_ilusões.mp3",
+      "tamanho_bytes": 29291618
+    },
+    {
+      "arquivo": "ws_hamlet_08_memento_mori.mp3",
+      "cena_numero": 8,
+      "titulo_completo": "O *Memento Mori* e a Igualdade no Pó",
+      "localizacao": "Ato V, Cena 1 — Cemitério.",
+      "artifact_id": "4df49f29-f7af-4cc0-b640-3b40246fd25f",
+      "data_geracao": "2026-03-09T07:44:03.816910",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "523f75db-6ff4-4591-84d1-a968d6d5f700",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/hamlet/audios/ws_hamlet_08_memento_mori.mp3",
+      "tamanho_bytes": 41544470
     }
   ]
 }

@@ -3,8 +3,8 @@
   "obra_slug": "henry4_p2",
   "obra_dir": "history_of_henry_iv_part_ii",
   "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
-  "total_cenas": 3,
-  "ultima_atualizacao": "2026-03-06T00:25:58.137739",
+  "total_cenas": 5,
+  "ultima_atualizacao": "2026-03-09T14:09:19.839051",
   "audios": [
     {
       "arquivo": "ws_henry4_p2_01_monólogo_rumor.mp3",
@@ -41,6 +41,34 @@
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_henry_iv_part_ii/audios/ws_henry4_p2_03_autoengano_falstaff.mp3",
       "tamanho_bytes": 49420294
+    },
+    {
+      "arquivo": "ws_henry4_p2_04_paralisia_moral.mp3",
+      "cena_numero": 4,
+      "titulo_completo": "A Paralisia Moral do Príncipe Hal",
+      "localizacao": "Ato II, Cena 2.",
+      "artifact_id": "0a2f0d8a-b43e-450c-94b9-481c9d79c17a",
+      "data_geracao": "2026-03-09T00:59:22.305944",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "dacb70ae-25af-45a8-a59c-11142275614c",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_henry_iv_part_ii/audios/ws_henry4_p2_04_paralisia_moral.mp3",
+      "tamanho_bytes": 49060105
+    },
+    {
+      "arquivo": "ws_henry4_p2_05_insônia_peso.mp3",
+      "cena_numero": 5,
+      "titulo_completo": "A Insônia e o Peso da Coroa",
+      "localizacao": "Ato III, Cena 1.",
+      "artifact_id": "f833a947-8cf3-4b33-ba46-3e852097d772",
+      "data_geracao": "2026-03-09T07:48:13.506948",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "dacb70ae-25af-45a8-a59c-11142275614c",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_henry_iv_part_ii/audios/ws_henry4_p2_05_insônia_peso.mp3",
+      "tamanho_bytes": 46508041
     }
   ]
 }

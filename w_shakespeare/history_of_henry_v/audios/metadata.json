@@ -3,8 +3,8 @@
   "obra_slug": "henry5",
   "obra_dir": "history_of_henry_v",
   "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
-  "total_cenas": 3,
-  "ultima_atualizacao": "2026-03-06T00:49:22.150633",
+  "total_cenas": 5,
+  "ultima_atualizacao": "2026-03-09T14:09:50.523002",
   "audios": [
     {
       "arquivo": "ws_henry5_01_responsabilidade_moral.mp3",
@@ -41,6 +41,34 @@
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_henry_v/audios/ws_henry5_03_relato_morte.mp3",
       "tamanho_bytes": 38751743
+    },
+    {
+      "arquivo": "ws_henry5_04_ultimato_diante.mp3",
+      "cena_numero": 4,
+      "titulo_completo": "O Ultimato Diante de Harfleur",
+      "localizacao": "Ato III, Cena 3.",
+      "artifact_id": "16b0bb3f-abb3-4e72-b9b0-1732534bea6a",
+      "data_geracao": "2026-03-09T01:01:26.646756",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "db28eb9f-bd35-4836-86cc-590946c8d2c1",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_henry_v/audios/ws_henry5_04_ultimato_diante.mp3",
+      "tamanho_bytes": 49537695
+    },
+    {
+      "arquivo": "ws_henry5_05_debate_noturno.mp3",
+      "cena_numero": 5,
+      "titulo_completo": "O Debate Noturno em Disfarce",
+      "localizacao": "Ato IV, Cena 1.",
+      "artifact_id": "f4e10a4a-08e2-417e-b00e-52984b762026",
+      "data_geracao": "2026-03-09T07:50:18.080412",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "db28eb9f-bd35-4836-86cc-590946c8d2c1",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_henry_v/audios/ws_henry5_05_debate_noturno.mp3",
+      "tamanho_bytes": 44444771
     }
   ]
 }

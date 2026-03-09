@@ -303,6 +303,8 @@ def run_nlm(args: List[str], timeout: int = 120) -> subprocess.CompletedProcess:
 
 def check_auth() -> bool:
     try:
+        # Garantir que o perfil correto está ativo (alguns subcomandos não aceitam --profile)
+        run_nlm(["login", "switch", PROFILE], timeout=15)
         result = run_nlm(["login", "--check", "--profile", PROFILE], timeout=30)
         return result.returncode == 0
     except Exception as e:
@@ -368,6 +370,7 @@ def poll_status(artifact_id: str) -> Optional[str]:
     try:
         result = run_nlm([
             "studio", "status", NOTEBOOK_ID, "--json",
+            "--profile", PROFILE,
         ], timeout=30)
 
         if result.returncode != 0:

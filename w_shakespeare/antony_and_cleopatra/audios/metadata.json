@@ -4,7 +4,7 @@
   "obra_dir": "antony_and_cleopatra",
   "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
   "total_cenas": 7,
-  "ultima_atualizacao": "2026-03-08T09:19:20.822244",
+  "ultima_atualizacao": "2026-03-09T14:03:44.255961",
   "audios": [
     {
       "arquivo": "ws_antony_cleopatra_01_despertar_sinceridade.mp3",
@@ -92,7 +92,9 @@
       "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
       "prompt_type": "custom",
       "source_id": "317c0f1b-9229-4925-8da6-001f85f60868",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/antony_and_cleopatra/audios/ws_antony_cleopatra_07_dissolução_morte.mp3",
+      "tamanho_bytes": 47204512
     }
   ]
 }

@@ -3,8 +3,8 @@
   "obra_slug": "henry4_p1",
   "obra_dir": "history_of_henry_iv_part_i",
   "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
-  "total_cenas": 3,
-  "ultima_atualizacao": "2026-03-06T00:01:26.865934",
+  "total_cenas": 6,
+  "ultima_atualizacao": "2026-03-09T14:08:49.416293",
   "audios": [
     {
       "arquivo": "ws_henry4_p1_01_culpa_inveja.mp3",
@@ -41,6 +41,48 @@
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_henry_iv_part_i/audios/ws_henry4_p1_03_autoengano_falácia.mp3",
       "tamanho_bytes": 44129405
+    },
+    {
+      "arquivo": "ws_henry4_p1_04_teatro_vida.mp3",
+      "cena_numero": 4,
+      "titulo_completo": "O Teatro da Vida e a Rejeição Anunciada",
+      "localizacao": "Ato II, Cena 4.",
+      "artifact_id": "342a26c2-9371-4c2e-b8ab-22a541a1d8d3",
+      "data_geracao": "2026-03-08T23:14:10.088263",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "b4709f1f-0ac7-41b8-b6bb-bce7dab38aa3",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_henry_iv_part_i/audios/ws_henry4_p1_04_teatro_vida.mp3",
+      "tamanho_bytes": 41410635
+    },
+    {
+      "arquivo": "ws_henry4_p1_05_anatomia_poder.mp3",
+      "cena_numero": 5,
+      "titulo_completo": "A Anatomia do Poder e a Confissão do Maquiavelismo",
+      "localizacao": "Ato III, Cena 2.",
+      "artifact_id": "2ab9b46c-14f7-4508-a5dc-ac7ac5e3738f",
+      "data_geracao": "2026-03-09T00:57:17.583573",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "b4709f1f-0ac7-41b8-b6bb-bce7dab38aa3",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_henry_iv_part_i/audios/ws_henry4_p1_05_anatomia_poder.mp3",
+      "tamanho_bytes": 35406092
+    },
+    {
+      "arquivo": "ws_henry4_p1_06_voto_redenção.mp3",
+      "cena_numero": 6,
+      "titulo_completo": "O Voto de Redenção do Príncipe Hal",
+      "localizacao": "Ato III, Cena 2.",
+      "artifact_id": "47e479f3-7822-4dbe-8929-1e172b545f1d",
+      "data_geracao": "2026-03-09T07:46:08.309000",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "b4709f1f-0ac7-41b8-b6bb-bce7dab38aa3",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_henry_iv_part_i/audios/ws_henry4_p1_06_voto_redenção.mp3",
+      "tamanho_bytes": 39903394
     }
   ]
 }

@@ -4,7 +4,7 @@
   "obra_dir": "alls_well_that_ends_well",
   "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
   "total_cenas": 9,
-  "ultima_atualizacao": "2026-03-08T20:50:03.877633",
+  "ultima_atualizacao": "2026-03-09T14:03:29.093345",
   "audios": [
     {
       "arquivo": "ws_alls_well_01_monólogo_helena.mp3",
@@ -92,7 +92,9 @@
       "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
       "prompt_type": "custom",
       "source_id": "663d6327-818d-4f2e-858e-e1c960190cb2",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/alls_well_that_ends_well/audios/ws_alls_well_07_paradoxo_moral.mp3",
+      "tamanho_bytes": 43774445
     },
     {
       "arquivo": "ws_alls_well_08_radiografia_covarde.mp3",
@@ -104,7 +106,9 @@
       "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
       "prompt_type": "custom",
       "source_id": "663d6327-818d-4f2e-858e-e1c960190cb2",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/alls_well_that_ends_well/audios/ws_alls_well_08_radiografia_covarde.mp3",
+      "tamanho_bytes": 31538028
     },
     {
       "arquivo": "ws_alls_well_09_confissão_aceitação.mp3",
@@ -116,7 +120,9 @@
       "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
       "prompt_type": "custom",
       "source_id": "663d6327-818d-4f2e-858e-e1c960190cb2",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/alls_well_that_ends_well/audios/ws_alls_well_09_confissão_aceitação.mp3",
+      "tamanho_bytes": 55001266
     }
   ]
 }

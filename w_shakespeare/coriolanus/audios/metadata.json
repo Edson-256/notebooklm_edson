@@ -3,8 +3,8 @@
   "obra_slug": "coriolanus",
   "obra_dir": "coriolanus",
   "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
-  "total_cenas": 9,
-  "ultima_atualizacao": "2026-03-08T20:54:12.456990",
+  "total_cenas": 10,
+  "ultima_atualizacao": "2026-03-09T14:05:39.585107",
   "audios": [
     {
       "arquivo": "ws_coriolanus_01_confronto_coriolano.mp3",
@@ -92,7 +92,9 @@
       "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
       "prompt_type": "custom",
       "source_id": "c12faae3-c7f5-4a94-ac3b-36eb1b894f11",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/coriolanus/audios/ws_coriolanus_07_expulsão_pólis.mp3",
+      "tamanho_bytes": 44335587
     },
     {
       "arquivo": "ws_coriolanus_08_mutabilidade_paixões.mp3",
@@ -104,7 +106,9 @@
       "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
       "prompt_type": "custom",
       "source_id": "c12faae3-c7f5-4a94-ac3b-36eb1b894f11",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/coriolanus/audios/ws_coriolanus_08_mutabilidade_paixões.mp3",
+      "tamanho_bytes": 61086605
     },
     {
       "arquivo": "ws_coriolanus_09_aliança_forjada.mp3",
@@ -116,7 +120,23 @@
       "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
       "prompt_type": "custom",
       "source_id": "c12faae3-c7f5-4a94-ac3b-36eb1b894f11",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/coriolanus/audios/ws_coriolanus_09_aliança_forjada.mp3",
+      "tamanho_bytes": 49854555
+    },
+    {
+      "arquivo": "ws_coriolanus_10_rompimento_coração.mp3",
+      "cena_numero": 10,
+      "titulo_completo": "O rompimento do coração estoico",
+      "localizacao": "Ato V, Cena 3.",
+      "artifact_id": "b57ffc54-aa14-421d-9f3b-f96280683d10",
+      "data_geracao": "2026-03-08T23:07:55.774696",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "c12faae3-c7f5-4a94-ac3b-36eb1b894f11",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/coriolanus/audios/ws_coriolanus_10_rompimento_coração.mp3",
+      "tamanho_bytes": 43997063
     }
   ]
 }

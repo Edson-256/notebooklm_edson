@@ -4,7 +4,7 @@
   "obra_dir": "a_midsummer_nights_dream",
   "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
   "total_cenas": 8,
-  "ultima_atualizacao": "2026-03-08T09:15:15.606980",
+  "ultima_atualizacao": "2026-03-09T14:02:45.524735",
   "audios": [
     {
       "arquivo": "ws_midsummer_dream_01_ultimato_teseu.mp3",
@@ -104,7 +104,9 @@
       "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
       "prompt_type": "custom",
       "source_id": "6c222d1e-fed8-4268-b5b6-be6b55234d7f",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/a_midsummer_nights_dream/audios/ws_midsummer_dream_08_discurso_teseu.mp3",
+      "tamanho_bytes": 52286978
     }
   ]
 }

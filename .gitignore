@@ -16,6 +16,11 @@ logs/
 notebooklm-config.json
 docs/notebooklm/install_log.md
 
+# Áudios (grandes, não versionados)
+*.mp3
+*.m4a
+*.wav
+
 # Python
 __pycache__/
 *.py[cod]

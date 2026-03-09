@@ -4,6 +4,17 @@
 
 Este projeto integra o **Google NotebookLM** ao **Claude** através do **MCP (Model Context Protocol)**, permitindo consultar e interagir com 36 notebooks temáticos organizados em filosofia, teologia, literatura, tecnologia e medicina.
 
+### Contas NotebookLM e Perfis `nlm`
+
+**IMPORTANTE:** Este projeto (`notebooklm_edson`) usa exclusivamente a **conta pessoal**. Sempre use `--profile default` nos comandos `nlm`.
+
+| Perfil NLM | Conta Google | Uso |
+|------------|-------------|-----|
+| `default` | `edson.michalkiewicz@gmail.com` (pessoal) | **Este projeto** — todos os notebooks Shakespeare e demais |
+| `profissional` | `edson@michalkcare.com` | Projeto separado (`notebooklm_michalk`) |
+
+Todos os scripts neste repositório devem usar `PROFILE = "default"`. Se um comando `nlm` retornar lista vazia ou `status: None`, verifique se o `--profile default` está sendo passado.
+
 ## 🧠 Memory and Task System (Beads)
 
 Este projeto usa **Beads (`bd`)** como sistema exclusivo para rastreamento de tarefas e memória persistente. Não crie ou mantenha arquivos como `TODO.md` ou `PLAN.md`.

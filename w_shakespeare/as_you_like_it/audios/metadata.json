@@ -3,8 +3,8 @@
   "obra_slug": "as_you_like_it",
   "obra_dir": "as_you_like_it",
   "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
-  "total_cenas": 9,
-  "ultima_atualizacao": "2026-03-08T20:52:08.140328",
+  "total_cenas": 10,
+  "ultima_atualizacao": "2026-03-09T14:04:41.565784",
   "audios": [
     {
       "arquivo": "ws_as_you_like_it_01_ressentimento_oliver.mp3",
@@ -92,7 +92,9 @@
       "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
       "prompt_type": "custom",
       "source_id": "6e85b783-b43c-426f-9436-95a23df8a3bc",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/as_you_like_it/audios/ws_as_you_like_it_07_touchstone_corin.mp3",
+      "tamanho_bytes": 37816103
     },
     {
       "arquivo": "ws_as_you_like_it_08_cura_amor.mp3",
@@ -104,7 +106,9 @@
       "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
       "prompt_type": "custom",
       "source_id": "6e85b783-b43c-426f-9436-95a23df8a3bc",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/as_you_like_it/audios/ws_as_you_like_it_08_cura_amor.mp3",
+      "tamanho_bytes": 42363457
     },
     {
       "arquivo": "ws_as_you_like_it_09_crueldade_rosalind.mp3",
@@ -116,7 +120,23 @@
       "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
       "prompt_type": "custom",
       "source_id": "6e85b783-b43c-426f-9436-95a23df8a3bc",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/as_you_like_it/audios/ws_as_you_like_it_09_crueldade_rosalind.mp3",
+      "tamanho_bytes": 39068604
+    },
+    {
+      "arquivo": "ws_as_you_like_it_10_perdão_orlando.mp3",
+      "cena_numero": 10,
+      "titulo_completo": "O Perdão de Orlando e a Conversão de Oliver",
+      "localizacao": "Ato IV, Cena 3.",
+      "artifact_id": "85ebbc31-8835-4c8c-9e05-c54ed3b05a2d",
+      "data_geracao": "2026-03-08T23:05:51.166693",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "6e85b783-b43c-426f-9436-95a23df8a3bc",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/as_you_like_it/audios/ws_as_you_like_it_10_perdão_orlando.mp3",
+      "tamanho_bytes": 39185889
     }
   ]
 }
