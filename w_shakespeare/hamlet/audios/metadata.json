@@ -3,8 +3,8 @@
   "obra_slug": "hamlet",
   "obra_dir": "hamlet",
   "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
-  "total_cenas": 1,
-  "ultima_atualizacao": "2026-03-01T02:58:26.873129",
+  "total_cenas": 5,
+  "ultima_atualizacao": "2026-03-08T20:58:20.844256",
   "audios": [
     {
       "arquivo": "ws_hamlet_01_contraste_teatro.mp3",
@@ -17,6 +17,54 @@
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/hamlet/audios/ws_hamlet_01_contraste_teatro.mp3",
       "tamanho_bytes": 46212097
+    },
+    {
+      "arquivo": "ws_hamlet_02_irrupção_sobrenatural.mp3",
+      "cena_numero": 2,
+      "titulo_completo": "A Irrupção do Sobrenatural e o Chamado à Vocação",
+      "localizacao": "Ato I, Cena 5.",
+      "artifact_id": "45254cb9-166d-4600-b740-d53dd680f2b8",
+      "data_geracao": "2026-03-05T16:02:15.447766",
+      "focus_topic": "Hamlet - Ato I, Cena 5.: A Irrupção do Sobrenatural e o Chamado à Vocação",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/hamlet/audios/ws_hamlet_02_irrupção_sobrenatural.mp3",
+      "tamanho_bytes": 48755944
+    },
+    {
+      "arquivo": "ws_hamlet_03_educação_imaginário.mp3",
+      "cena_numero": 3,
+      "titulo_completo": "A Educação do Imaginário e a Vergonha da Inação",
+      "localizacao": "Ato II, Cena 2.",
+      "artifact_id": "37c2873b-a216-4194-acf3-ad59403cb224",
+      "data_geracao": "2026-03-05T23:41:03.626714",
+      "focus_topic": "Hamlet - Ato II, Cena 2.: A Educação do Imaginário e a Vergonha da Inação",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/hamlet/audios/ws_hamlet_03_educação_imaginário.mp3",
+      "tamanho_bytes": 25463148
+    },
+    {
+      "arquivo": "ws_hamlet_04_tensão_escatológica.mp3",
+      "cena_numero": 4,
+      "titulo_completo": "A Tensão Escatológica e a Consciência da Morte",
+      "localizacao": "Ato III, Cena 1.",
+      "artifact_id": "46af7883-41ac-4eec-9b4c-9f64372216c2",
+      "data_geracao": "2026-03-08T11:53:58.063910",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "523f75db-6ff4-4591-84d1-a968d6d5f700",
+      "status": "created"
+    },
+    {
+      "arquivo": "ws_hamlet_05_captura_consciência.mp3",
+      "cena_numero": 5,
+      "titulo_completo": "A Captura da Consciência Pela Arte",
+      "localizacao": "Ato III, Cena 2.",
+      "artifact_id": "7a1932d3-00ec-4afe-b715-5f0d1c3f57ce",
+      "data_geracao": "2026-03-08T20:58:20.843580",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "523f75db-6ff4-4591-84d1-a968d6d5f700",
+      "status": "created"
     }
   ]
 }

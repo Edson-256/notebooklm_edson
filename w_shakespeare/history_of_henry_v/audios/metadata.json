@@ -3,8 +3,8 @@
   "obra_slug": "henry5",
   "obra_dir": "history_of_henry_v",
   "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
-  "total_cenas": 1,
-  "ultima_atualizacao": "2026-03-01T03:37:01.161787",
+  "total_cenas": 3,
+  "ultima_atualizacao": "2026-03-06T00:49:22.150633",
   "audios": [
     {
       "arquivo": "ws_henry5_01_responsabilidade_moral.mp3",
@@ -17,6 +17,30 @@
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_henry_v/audios/ws_henry5_01_responsabilidade_moral.mp3",
       "tamanho_bytes": 36839376
+    },
+    {
+      "arquivo": "ws_henry5_02_desmascaramento_lorde.mp3",
+      "cena_numero": 2,
+      "titulo_completo": "O Desmascaramento de Lorde Scroop",
+      "localizacao": "Ato II, Cena 2.",
+      "artifact_id": "9a1dd529-df36-4b29-b0ac-8cc29fac09ec",
+      "data_geracao": "2026-03-05T17:15:47.984304",
+      "focus_topic": "History Of Henry V - Ato II, Cena 2.: O Desmascaramento de Lorde Scroop",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_henry_v/audios/ws_henry5_02_desmascaramento_lorde.mp3",
+      "tamanho_bytes": 50571197
+    },
+    {
+      "arquivo": "ws_henry5_03_relato_morte.mp3",
+      "cena_numero": 3,
+      "titulo_completo": "O Relato da Morte de Falstaff",
+      "localizacao": "Ato II, Cena 3.",
+      "artifact_id": "7c3d9a09-a1d2-430c-a3d4-5ca16759721a",
+      "data_geracao": "2026-03-06T00:49:22.149087",
+      "focus_topic": "History Of Henry V - Ato II, Cena 3.: O Relato da Morte de Falstaff",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_henry_v/audios/ws_henry5_03_relato_morte.mp3",
+      "tamanho_bytes": 38751743
     }
   ]
 }

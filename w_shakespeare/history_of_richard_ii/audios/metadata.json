@@ -3,8 +3,8 @@
   "obra_slug": "richard2",
   "obra_dir": "history_of_richard_ii",
   "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
-  "total_cenas": 1,
-  "ultima_atualizacao": "2026-03-01T05:02:07.002513",
+  "total_cenas": 2,
+  "ultima_atualizacao": "2026-03-05T19:38:27.446991",
   "audios": [
     {
       "arquivo": "ws_richard2_01_dilema_john.mp3",
@@ -17,6 +17,18 @@
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_richard_ii/audios/ws_richard2_01_dilema_john.mp3",
       "tamanho_bytes": 19638641
+    },
+    {
+      "arquivo": "ws_richard2_02_advertência_duque.mp3",
+      "cena_numero": 2,
+      "titulo_completo": "A Advertência do Duque de York sobre a Destruição da Ordem",
+      "localizacao": "Ato II, Cena 1.",
+      "artifact_id": "7b20574a-eca9-473a-9d93-27b270e53555",
+      "data_geracao": "2026-03-05T19:38:27.446634",
+      "focus_topic": "History Of Richard Ii - Ato II, Cena 1.: A Advertência do Duque de York sobre a Destruição da Ordem",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_richard_ii/audios/ws_richard2_02_advertência_duque.mp3",
+      "tamanho_bytes": 29990331
     }
   ]
 }

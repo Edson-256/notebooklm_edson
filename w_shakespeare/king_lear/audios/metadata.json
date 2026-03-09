@@ -3,8 +3,8 @@
   "obra_slug": "king_lear",
   "obra_dir": "king_lear",
   "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
-  "total_cenas": 1,
-  "ultima_atualizacao": "2026-03-01T05:42:34.825920",
+  "total_cenas": 2,
+  "ultima_atualizacao": "2026-03-05T20:50:58.261818",
   "audios": [
     {
       "arquivo": "ws_king_lear_01_julgamento_amor.mp3",
@@ -17,6 +17,18 @@
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/king_lear/audios/ws_king_lear_01_julgamento_amor.mp3",
       "tamanho_bytes": 43797604
+    },
+    {
+      "arquivo": "ws_king_lear_02_voz_consciência.mp3",
+      "cena_numero": 2,
+      "titulo_completo": "A Voz da Consciência Objetiva",
+      "localizacao": "Ato I, Cena 4.",
+      "artifact_id": "e30bce03-7d07-4428-b480-840c58f9473c",
+      "data_geracao": "2026-03-05T20:50:58.260775",
+      "focus_topic": "King Lear - Ato I, Cena 4.: A Voz da Consciência Objetiva",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/king_lear/audios/ws_king_lear_02_voz_consciência.mp3",
+      "tamanho_bytes": 52133088
     }
   ]
 }

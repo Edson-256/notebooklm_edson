@@ -3,8 +3,8 @@
   "obra_slug": "coriolanus",
   "obra_dir": "coriolanus",
   "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
-  "total_cenas": 1,
-  "ultima_atualizacao": "2026-03-01T02:28:07.625039",
+  "total_cenas": 9,
+  "ultima_atualizacao": "2026-03-08T20:54:12.456990",
   "audios": [
     {
       "arquivo": "ws_coriolanus_01_confronto_coriolano.mp3",
@@ -17,6 +17,106 @@
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/coriolanus/audios/ws_coriolanus_01_confronto_coriolano.mp3",
       "tamanho_bytes": 43783410
+    },
+    {
+      "arquivo": "ws_coriolanus_02_confissão_íntima.mp3",
+      "cena_numero": 2,
+      "titulo_completo": "A confissão íntima de Volúmnia",
+      "localizacao": "Ato I, Cena 3.",
+      "artifact_id": "8ba6bdcd-04c4-48a4-8956-2efffde5292e",
+      "data_geracao": "2026-03-05T15:12:50.513409",
+      "focus_topic": "Coriolanus - Ato I, Cena 3.: A confissão íntima de Volúmnia",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/coriolanus/audios/ws_coriolanus_02_confissão_íntima.mp3",
+      "tamanho_bytes": 19802243
+    },
+    {
+      "arquivo": "ws_coriolanus_03_recusa_espólios.mp3",
+      "cena_numero": 3,
+      "titulo_completo": "A recusa dos espólios e a memória falha do herói",
+      "localizacao": "Ato I, Cena 9.",
+      "artifact_id": "8aff56ed-2627-4713-8a13-b0de33422fe3",
+      "data_geracao": "2026-03-05T23:01:27.422977",
+      "focus_topic": "Coriolanus - Ato I, Cena 9.: A recusa dos espólios e a memória falha do herói",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/coriolanus/audios/ws_coriolanus_03_recusa_espólios.mp3",
+      "tamanho_bytes": 49076540
+    },
+    {
+      "arquivo": "ws_coriolanus_04_monólogo_aufídio.mp3",
+      "cena_numero": 4,
+      "titulo_completo": "O monólogo de Aufídio sobre a honra corrompida",
+      "localizacao": "Ato I, Cena 10.",
+      "artifact_id": "4ede67c1-c668-4cab-9e07-af871174db25",
+      "data_geracao": "2026-03-06T22:43:39.767661",
+      "focus_topic": "Coriolanus - Ato I, Cena 10.: O monólogo de Aufídio sobre a honra corrompida",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/coriolanus/audios/ws_coriolanus_04_monólogo_aufídio.mp3",
+      "tamanho_bytes": 56082578
+    },
+    {
+      "arquivo": "ws_coriolanus_05_teatro_humildade.mp3",
+      "cena_numero": 5,
+      "titulo_completo": "O teatro da humildade",
+      "localizacao": "Ato II, Cena 3.",
+      "artifact_id": "6610f9c4-c5f0-4915-8169-764e4f7637c7",
+      "data_geracao": "2026-03-07T08:49:14.450738",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "c12faae3-c7f5-4a94-ac3b-36eb1b894f11",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/coriolanus/audios/ws_coriolanus_05_teatro_humildade.mp3",
+      "tamanho_bytes": 36095093
+    },
+    {
+      "arquivo": "ws_coriolanus_06_agonia_contra.mp3",
+      "cena_numero": 6,
+      "titulo_completo": "A agonia contra a mentira interior",
+      "localizacao": "Ato III, Cena 2.",
+      "artifact_id": "47ef87f9-196e-428f-a4ca-6eba8f58d74a",
+      "data_geracao": "2026-03-07T19:25:09.515342",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "c12faae3-c7f5-4a94-ac3b-36eb1b894f11",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/coriolanus/audios/ws_coriolanus_06_agonia_contra.mp3",
+      "tamanho_bytes": 45217441
+    },
+    {
+      "arquivo": "ws_coriolanus_07_expulsão_pólis.mp3",
+      "cena_numero": 7,
+      "titulo_completo": "A expulsão da pólis",
+      "localizacao": "Ato III, Cena 3.",
+      "artifact_id": "d00a2058-9acb-40bc-9a8b-0673573353e3",
+      "data_geracao": "2026-03-08T09:23:26.269498",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "c12faae3-c7f5-4a94-ac3b-36eb1b894f11",
+      "status": "created"
+    },
+    {
+      "arquivo": "ws_coriolanus_08_mutabilidade_paixões.mp3",
+      "cena_numero": 8,
+      "titulo_completo": "A mutabilidade das paixões humanas",
+      "localizacao": "Ato IV, Cena 4.",
+      "artifact_id": "70ed3601-7fb3-48d2-bc1f-c582e5136924",
+      "data_geracao": "2026-03-08T11:49:52.097859",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "c12faae3-c7f5-4a94-ac3b-36eb1b894f11",
+      "status": "created"
+    },
+    {
+      "arquivo": "ws_coriolanus_09_aliança_forjada.mp3",
+      "cena_numero": 9,
+      "titulo_completo": "A aliança forjada no ódio",
+      "localizacao": "Ato IV, Cena 5.",
+      "artifact_id": "f9f5b764-9a74-48aa-b0cf-bf4e99110793",
+      "data_geracao": "2026-03-08T20:54:12.456085",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "c12faae3-c7f5-4a94-ac3b-36eb1b894f11",
+      "status": "created"
     }
   ]
 }

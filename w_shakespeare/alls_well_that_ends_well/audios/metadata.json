@@ -3,8 +3,8 @@
   "obra_slug": "alls_well",
   "obra_dir": "alls_well_that_ends_well",
   "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
-  "total_cenas": 1,
-  "ultima_atualizacao": "2026-03-01T01:46:58.082383",
+  "total_cenas": 9,
+  "ultima_atualizacao": "2026-03-08T20:50:03.877633",
   "audios": [
     {
       "arquivo": "ws_alls_well_01_monólogo_helena.mp3",
@@ -17,6 +17,106 @@
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/alls_well_that_ends_well/audios/ws_alls_well_01_monólogo_helena.mp3",
       "tamanho_bytes": 32906320
+    },
+    {
+      "arquivo": "ws_alls_well_02_confissão_forçada.mp3",
+      "cena_numero": 2,
+      "titulo_completo": "A confissão forçada e amorosa à Condessa",
+      "localizacao": "Ato I, Cena 3.",
+      "artifact_id": "3687b593-c781-4ff0-9894-baf97c6b3316",
+      "data_geracao": "2026-03-05T13:54:50.222997",
+      "focus_topic": "Alls Well That Ends Well - Ato I, Cena 3.: A confissão forçada e amorosa à Condessa",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/alls_well_that_ends_well/audios/ws_alls_well_02_confissão_forçada.mp3",
+      "tamanho_bytes": 42673594
+    },
+    {
+      "arquivo": "ws_alls_well_03_aposta_própria.mp3",
+      "cena_numero": 3,
+      "titulo_completo": "A aposta da própria vida diante do Rei",
+      "localizacao": "Ato II, Cena 1.",
+      "artifact_id": "a56b3ab4-0733-4172-92af-746d1dfe3738",
+      "data_geracao": "2026-03-05T21:57:15.125172",
+      "focus_topic": "Alls Well That Ends Well - Ato II, Cena 1.: A aposta da própria vida diante do Rei",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/alls_well_that_ends_well/audios/ws_alls_well_03_aposta_própria.mp3",
+      "tamanho_bytes": 45946783
+    },
+    {
+      "arquivo": "ws_alls_well_04_choque_perspectivas.mp3",
+      "cena_numero": 4,
+      "titulo_completo": "O choque de perspectivas e a imposição do poder",
+      "localizacao": "Ato II, Cena 3.",
+      "artifact_id": "2b940653-84a5-4ad6-8c0f-13347aaace20",
+      "data_geracao": "2026-03-06T21:37:24.816600",
+      "focus_topic": "Alls Well That Ends Well - Ato II, Cena 3.: O choque de perspectivas e a imposição do poder",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/alls_well_that_ends_well/audios/ws_alls_well_04_choque_perspectivas.mp3",
+      "tamanho_bytes": 20226677
+    },
+    {
+      "arquivo": "ws_alls_well_05_frieza_humilhação.mp3",
+      "cena_numero": 5,
+      "titulo_completo": "A frieza e a humilhação no adeus",
+      "localizacao": "Ato II, Cena 5.",
+      "artifact_id": "954192e9-d3fd-42a2-96e1-796040bfe464",
+      "data_geracao": "2026-03-07T07:43:25.290983",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "663d6327-818d-4f2e-858e-e1c960190cb2",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/alls_well_that_ends_well/audios/ws_alls_well_05_frieza_humilhação.mp3",
+      "tamanho_bytes": 31397469
+    },
+    {
+      "arquivo": "ws_alls_well_06_justiça_moral.mp3",
+      "cena_numero": 6,
+      "titulo_completo": "A justiça moral acima dos laços de sangue",
+      "localizacao": "Ato III, Cena 4.",
+      "artifact_id": "92c2ce7b-1200-482c-a63f-0db764f77063",
+      "data_geracao": "2026-03-07T18:19:05.900858",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "663d6327-818d-4f2e-858e-e1c960190cb2",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/alls_well_that_ends_well/audios/ws_alls_well_06_justiça_moral.mp3",
+      "tamanho_bytes": 46359380
+    },
+    {
+      "arquivo": "ws_alls_well_07_paradoxo_moral.mp3",
+      "cena_numero": 7,
+      "titulo_completo": "O paradoxo moral do \"Bed Trick\"",
+      "localizacao": "Ato III, Cena 7.",
+      "artifact_id": "28502232-b471-4867-b5e3-c8679f115d9a",
+      "data_geracao": "2026-03-08T09:17:18.118295",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "663d6327-818d-4f2e-858e-e1c960190cb2",
+      "status": "created"
+    },
+    {
+      "arquivo": "ws_alls_well_08_radiografia_covarde.mp3",
+      "cena_numero": 8,
+      "titulo_completo": "A radiografia do covarde",
+      "localizacao": "Ato IV, Cena 3.",
+      "artifact_id": "90c2c769-d774-43f3-8ce6-c144c09567ed",
+      "data_geracao": "2026-03-08T11:45:46.767022",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "663d6327-818d-4f2e-858e-e1c960190cb2",
+      "status": "created"
+    },
+    {
+      "arquivo": "ws_alls_well_09_confissão_aceitação.mp3",
+      "cena_numero": 9,
+      "titulo_completo": "A confissão e aceitação da própria miséria",
+      "localizacao": "Ato IV, Cena 3.",
+      "artifact_id": "b688b18d-b464-436b-a7a3-21fdd94efafc",
+      "data_geracao": "2026-03-08T20:50:03.876696",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "663d6327-818d-4f2e-858e-e1c960190cb2",
+      "status": "created"
     }
   ]
 }

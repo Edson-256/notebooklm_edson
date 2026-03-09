@@ -3,8 +3,8 @@
   "obra_slug": "richard3",
   "obra_dir": "history_of_richard_iii",
   "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
-  "total_cenas": 1,
-  "ultima_atualizacao": "2026-03-01T05:16:09.424378",
+  "total_cenas": 2,
+  "ultima_atualizacao": "2026-03-05T20:02:28.884726",
   "audios": [
     {
       "arquivo": "ws_richard3_01_autoconsciência_mal.mp3",
@@ -17,6 +17,18 @@
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_richard_iii/audios/ws_richard3_01_autoconsciência_mal.mp3",
       "tamanho_bytes": 45887767
+    },
+    {
+      "arquivo": "ws_richard3_02_vitória_retórica.mp3",
+      "cena_numero": 2,
+      "titulo_completo": "A Vitória da Retórica sobre a Realidade (Sedução de Lady Anne)",
+      "localizacao": "Ato I, Cena 2 — Rua em Londres.",
+      "artifact_id": "19c85d99-fcdb-48bc-8331-8269dbe2bf79",
+      "data_geracao": "2026-03-05T20:02:28.883710",
+      "focus_topic": "History Of Richard Iii - Ato I, Cena 2 — Rua em Londres.: A Vitória da Retórica sobre a Realidade (Sedução de Lady Anne)",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_richard_iii/audios/ws_richard3_02_vitória_retórica.mp3",
+      "tamanho_bytes": 49634063
     }
   ]
 }

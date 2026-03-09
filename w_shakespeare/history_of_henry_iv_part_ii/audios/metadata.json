@@ -3,8 +3,8 @@
   "obra_slug": "henry4_p2",
   "obra_dir": "history_of_henry_iv_part_ii",
   "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
-  "total_cenas": 1,
-  "ultima_atualizacao": "2026-03-01T03:24:08.946442",
+  "total_cenas": 3,
+  "ultima_atualizacao": "2026-03-06T00:25:58.137739",
   "audios": [
     {
       "arquivo": "ws_henry4_p2_01_monólogo_rumor.mp3",
@@ -17,6 +17,30 @@
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_henry_iv_part_ii/audios/ws_henry4_p2_01_monólogo_rumor.mp3",
       "tamanho_bytes": 40470512
+    },
+    {
+      "arquivo": "ws_henry4_p2_02_fardo_notícia.mp3",
+      "cena_numero": 2,
+      "titulo_completo": "O Fardo da Notícia Trágica",
+      "localizacao": "Ato I, Cena 1.",
+      "artifact_id": "68bef361-8daf-4bbc-a89f-662789edb886",
+      "data_geracao": "2026-03-05T16:52:17.993017",
+      "focus_topic": "History Of Henry Iv Part Ii - Ato I, Cena 1.: O Fardo da Notícia Trágica",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_henry_iv_part_ii/audios/ws_henry4_p2_02_fardo_notícia.mp3",
+      "tamanho_bytes": 46928108
+    },
+    {
+      "arquivo": "ws_henry4_p2_03_autoengano_falstaff.mp3",
+      "cena_numero": 3,
+      "titulo_completo": "O Autoengano de Falstaff perante a Justiça",
+      "localizacao": "Ato I, Cena 2.",
+      "artifact_id": "e5aa8a2b-8ce7-4f8e-b581-56d1f4804a3d",
+      "data_geracao": "2026-03-06T00:25:58.136228",
+      "focus_topic": "History Of Henry Iv Part Ii - Ato I, Cena 2.: O Autoengano de Falstaff perante a Justiça",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_henry_iv_part_ii/audios/ws_henry4_p2_03_autoengano_falstaff.mp3",
+      "tamanho_bytes": 49420294
     }
   ]
 }

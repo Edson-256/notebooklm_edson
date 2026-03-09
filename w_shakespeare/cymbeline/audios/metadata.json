@@ -3,8 +3,8 @@
   "obra_slug": "cymbeline",
   "obra_dir": "cymbeline",
   "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
-  "total_cenas": 1,
-  "ultima_atualizacao": "2026-03-01T02:44:33.725314",
+  "total_cenas": 5,
+  "ultima_atualizacao": "2026-03-08T20:56:16.728057",
   "audios": [
     {
       "arquivo": "ws_cymbeline_01_aposta_póstumo.mp3",
@@ -17,6 +17,54 @@
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/cymbeline/audios/ws_cymbeline_01_aposta_póstumo.mp3",
       "tamanho_bytes": 38861558
+    },
+    {
+      "arquivo": "ws_cymbeline_02_invasão_quarto.mp3",
+      "cena_numero": 2,
+      "titulo_completo": "A Invasão do Quarto de Imogen por Iachimo",
+      "localizacao": "Ato II, Cena 2.",
+      "artifact_id": "dc1977e1-0415-417a-ba52-2a8e6c98a412",
+      "data_geracao": "2026-03-05T15:38:19.202086",
+      "focus_topic": "Cymbeline - Ato II, Cena 2.: A Invasão do Quarto de Imogen por Iachimo",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/cymbeline/audios/ws_cymbeline_02_invasão_quarto.mp3",
+      "tamanho_bytes": 61221818
+    },
+    {
+      "arquivo": "ws_cymbeline_03_monólogo_niilista.mp3",
+      "cena_numero": 3,
+      "titulo_completo": "O Monólogo Niilista de Póstumo",
+      "localizacao": "Ato II, Cena 5.",
+      "artifact_id": "340290a3-a2d9-4952-8d53-ca1e724fc084",
+      "data_geracao": "2026-03-05T23:21:48.256158",
+      "focus_topic": "Cymbeline - Ato II, Cena 5.: O Monólogo Niilista de Póstumo",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/cymbeline/audios/ws_cymbeline_03_monólogo_niilista.mp3",
+      "tamanho_bytes": 35565958
+    },
+    {
+      "arquivo": "ws_cymbeline_04_dilema_moral.mp3",
+      "cena_numero": 4,
+      "titulo_completo": "O Dilema Moral de Pisanio",
+      "localizacao": "Ato III, Cena 2.",
+      "artifact_id": "3e813dc2-9efd-419e-8185-575d2229ead5",
+      "data_geracao": "2026-03-08T11:51:55.028231",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "fec24009-60a2-454d-9e9a-7b3c765af260",
+      "status": "created"
+    },
+    {
+      "arquivo": "ws_cymbeline_05_discurso_belarius.mp3",
+      "cena_numero": 5,
+      "titulo_completo": "O Discurso de Belarius sobre a Ilusão da Corte",
+      "localizacao": "Ato III, Cena 3.",
+      "artifact_id": "5d7188a2-ea3a-4cd3-8214-1c6c514dd818",
+      "data_geracao": "2026-03-08T20:56:16.727190",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "fec24009-60a2-454d-9e9a-7b3c765af260",
+      "status": "created"
     }
   ]
 }

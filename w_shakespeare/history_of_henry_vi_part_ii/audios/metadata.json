@@ -3,8 +3,8 @@
   "obra_slug": "henry6_p2",
   "obra_dir": "history_of_henry_vi_part_ii",
   "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
-  "total_cenas": 1,
-  "ultima_atualizacao": "2026-03-01T04:06:21.796582",
+  "total_cenas": 3,
+  "ultima_atualizacao": "2026-03-06T01:35:50.489569",
   "audios": [
     {
       "arquivo": "ws_henry6_p2_01_conflito_dever.mp3",
@@ -17,6 +17,30 @@
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_henry_vi_part_ii/audios/ws_henry6_p2_01_conflito_dever.mp3",
       "tamanho_bytes": 55800829
+    },
+    {
+      "arquivo": "ws_henry6_p2_02_hipocrisia_religiosa.mp3",
+      "cena_numero": 2,
+      "titulo_completo": "A Hipocrisia Religiosa e o Ódio Suprimido",
+      "localizacao": "Ato II, Cena 1.",
+      "artifact_id": "6b5d01bd-f33e-4dcd-a813-4e76c927dc09",
+      "data_geracao": "2026-03-05T18:05:13.881196",
+      "focus_topic": "History Of Henry Vi Part Ii - Ato II, Cena 1.: A Hipocrisia Religiosa e o Ódio Suprimido",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_henry_vi_part_ii/audios/ws_henry6_p2_02_hipocrisia_religiosa.mp3",
+      "tamanho_bytes": 43147448
+    },
+    {
+      "arquivo": "ws_henry6_p2_03_degradação_pública.mp3",
+      "cena_numero": 3,
+      "titulo_completo": "A Degradação Pública e a Queda da Soberba",
+      "localizacao": "Ato II, Cena 4.",
+      "artifact_id": "bc51789b-107e-4547-bc3b-fdd8d9fc10fb",
+      "data_geracao": "2026-03-06T01:35:50.488564",
+      "focus_topic": "History Of Henry Vi Part Ii - Ato II, Cena 4.: A Degradação Pública e a Queda da Soberba",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_henry_vi_part_ii/audios/ws_henry6_p2_03_degradação_pública.mp3",
+      "tamanho_bytes": 47756806
     }
   ]
 }

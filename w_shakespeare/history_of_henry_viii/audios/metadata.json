@@ -3,8 +3,8 @@
   "obra_slug": "henry8",
   "obra_dir": "history_of_henry_viii",
   "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
-  "total_cenas": 1,
-  "ultima_atualizacao": "2026-03-01T04:33:41.897071",
+  "total_cenas": 2,
+  "ultima_atualizacao": "2026-03-05T18:52:33.378292",
   "audios": [
     {
       "arquivo": "ws_henry8_01_conselho_norfolk.mp3",
@@ -17,6 +17,18 @@
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_henry_viii/audios/ws_henry8_01_conselho_norfolk.mp3",
       "tamanho_bytes": 53243535
+    },
+    {
+      "arquivo": "ws_henry8_02_confronto_verdade.mp3",
+      "cena_numero": 2,
+      "titulo_completo": "O Confronto da Verdade Moral contra a Maquinação Política",
+      "localizacao": "Ato I, Cena 2.",
+      "artifact_id": "db48ea19-7fea-4786-8c37-9f7b74b9e152",
+      "data_geracao": "2026-03-05T18:52:33.377425",
+      "focus_topic": "History Of Henry Viii - Ato I, Cena 2.: O Confronto da Verdade Moral contra a Maquinação Política",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_henry_viii/audios/ws_henry8_02_confronto_verdade.mp3",
+      "tamanho_bytes": 50383574
     }
   ]
 }

@@ -3,8 +3,8 @@
   "obra_slug": "henry6_p1",
   "obra_dir": "history_of_henry_vi_part_i",
   "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
-  "total_cenas": 1,
-  "ultima_atualizacao": "2026-03-01T03:51:57.031744",
+  "total_cenas": 3,
+  "ultima_atualizacao": "2026-03-06T01:12:51.228189",
   "audios": [
     {
       "arquivo": "ws_henry6_p1_01_desorientação_esforço.mp3",
@@ -17,6 +17,30 @@
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_henry_vi_part_i/audios/ws_henry6_p1_01_desorientação_esforço.mp3",
       "tamanho_bytes": 56834331
+    },
+    {
+      "arquivo": "ws_henry6_p1_02_princípio_faccionalidade.mp3",
+      "cena_numero": 2,
+      "titulo_completo": "O Princípio da Faccionalidade: A Escolha das Rosas",
+      "localizacao": "Ato II, Cena 4 (Jardim do Templo).",
+      "artifact_id": "b681d60f-7bbc-49b2-b8eb-48ffc2e34bd9",
+      "data_geracao": "2026-03-05T17:38:13.952477",
+      "focus_topic": "History Of Henry Vi Part I - Ato II, Cena 4 (Jardim do Templo).: O Princípio da Faccionalidade: A Escolha das Rosas",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_henry_vi_part_i/audios/ws_henry6_p1_02_princípio_faccionalidade.mp3",
+      "tamanho_bytes": 48525857
+    },
+    {
+      "arquivo": "ws_henry6_p1_03_hipocrisia_desmascarada.mp3",
+      "cena_numero": 3,
+      "titulo_completo": "A Hipocrisia Desmascarada: Gloucester vs. Winchester",
+      "localizacao": "Ato III, Cena 1.",
+      "artifact_id": "ed036d7f-3d98-443a-baca-6b4744d082db",
+      "data_geracao": "2026-03-06T01:12:51.227009",
+      "focus_topic": "History Of Henry Vi Part I - Ato III, Cena 1.: A Hipocrisia Desmascarada: Gloucester vs. Winchester",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_henry_vi_part_i/audios/ws_henry6_p1_03_hipocrisia_desmascarada.mp3",
+      "tamanho_bytes": 54397426
     }
   ]
 }

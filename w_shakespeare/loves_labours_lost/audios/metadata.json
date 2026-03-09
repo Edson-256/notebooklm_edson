@@ -3,8 +3,8 @@
   "obra_slug": "loves_labour",
   "obra_dir": "loves_labours_lost",
   "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
-  "total_cenas": 1,
-  "ultima_atualizacao": "2026-03-01T05:57:35.506863",
+  "total_cenas": 2,
+  "ultima_atualizacao": "2026-03-05T21:13:53.673977",
   "audios": [
     {
       "arquivo": "ws_loves_labour_01_construção_teatro.mp3",
@@ -17,6 +17,18 @@
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/loves_labours_lost/audios/ws_loves_labour_01_construção_teatro.mp3",
       "tamanho_bytes": 50375357
+    },
+    {
+      "arquivo": "ws_loves_labour_02_corrupção_inteligência.mp3",
+      "cena_numero": 2,
+      "titulo_completo": "A Corrupção da Inteligência pela Linguagem Afetada",
+      "localizacao": "Ato I, Cena 2.",
+      "artifact_id": "780eed51-9763-4426-add5-9c37acb92411",
+      "data_geracao": "2026-03-05T21:13:53.672804",
+      "focus_topic": "Loves Labours Lost - Ato I, Cena 2.: A Corrupção da Inteligência pela Linguagem Afetada",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/loves_labours_lost/audios/ws_loves_labour_02_corrupção_inteligência.mp3",
+      "tamanho_bytes": 41728242
     }
   ]
 }

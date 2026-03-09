@@ -3,8 +3,8 @@
   "obra_slug": "king_john",
   "obra_dir": "history_of_king_john",
   "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
-  "total_cenas": 1,
-  "ultima_atualizacao": "2026-03-01T04:49:43.046872",
+  "total_cenas": 2,
+  "ultima_atualizacao": "2026-03-05T19:16:28.437215",
   "audios": [
     {
       "arquivo": "ws_king_john_01_monólogo_conveniência.mp3",
@@ -17,6 +17,18 @@
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_king_john/audios/ws_king_john_01_monólogo_conveniência.mp3",
       "tamanho_bytes": 58163030
+    },
+    {
+      "arquivo": "ws_king_john_02_agonia_constance.mp3",
+      "cena_numero": 2,
+      "titulo_completo": "A Agonia de Constance e a Loucura Materna",
+      "localizacao": "Ato III, Cena 4.",
+      "artifact_id": "239bcb62-8d25-4dfb-82e9-42253cd23ccd",
+      "data_geracao": "2026-03-05T19:16:28.436457",
+      "focus_topic": "History Of King John - Ato III, Cena 4.: A Agonia de Constance e a Loucura Materna",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_king_john/audios/ws_king_john_02_agonia_constance.mp3",
+      "tamanho_bytes": 48149864
     }
   ]
 }
