@@ -119,9 +119,6 @@ projetos/devita_cme/scripts/
 projetos/calculo/
 └── calculo_runner.py                    ← Runner unificado Munem-Foulis (Fases 1 e 2)
 
-projetos/w_shakespeare/scripts/
-├── shakespeare_runner.py                ← Runner fire-and-forget Shakespeare
-└── run_shakespeare_batch.sh             ← Wrapper para execução via cron
 ```
 
 #### `tools/audio_generator.py` — Gerador Genérico
@@ -522,12 +519,6 @@ notebooklm_michalk/
 │   │       ├── audios/                    #   Áudios baixados (37 .m4a)
 │   │       ├── capitulos/                 #   PDFs fonte (13 capítulos)
 │   │       └── imagens/                   #   Imagens extraídas (557)
-│   │
-│   ├── w_shakespeare/                     # Projeto Shakespeare (19 obras)
-│   │   ├── scripts/
-│   │   │   ├── shakespeare_runner.py      #   Runner fire-and-forget
-│   │   │   └── run_shakespeare_batch.sh   #   Wrapper para cron
-│   │   └── {obra_name}/audios/            #   Áudios por obra
 │   │
 │   └── cirurgia_oncologica/               # Cirurgia Oncológica (stub)
 │       └── prompt_retalho.md

@@ -116,10 +116,6 @@ notebooklm_michalk/
 │   │   ├── prompts/
 │   │   └── docs/
 │   │
-│   ├── w_shakespeare/                 # Shakespeare (19 obras)
-│   │   ├── scripts/                   # shakespeare_runner.py, batch.sh
-│   │   └── {obra_name}/audios/        # Áudios por obra
-│   │
 │   └── cirurgia_oncologica/           # Cirurgia Oncológica (stub)
 │       └── prompts/
 │
