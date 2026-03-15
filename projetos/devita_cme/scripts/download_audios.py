@@ -2,8 +2,7 @@
 """
 Baixa áudios gerados do NotebookLM para capítulos do DeVita.
 
-Lê chapter_index.json, encontra capítulos com status "generated" que têm
-artifact_id mas não têm audio_file local, e baixa cada um usando nlm CLI.
+Verifica studio status antes de baixar — só baixa artifacts "completed".
 
 Uso:
     python download_audios.py              # baixa todos os pendentes de download
@@ -12,6 +11,7 @@ Uso:
 """
 
 import json
+import os
 import re
 import subprocess
 import sys
@@ -23,6 +23,8 @@ PROJECT_DIR = Path(__file__).parent.parent
 CHAPTER_INDEX = PROJECT_DIR / "chapter_index.json"
 AUDIO_DIR = PROJECT_DIR / "audio"
 NOTEBOOK_ID = "25aa1a74-f3e3-43d6-85db-32d2f5c21495"
+PROFILE = "profissional"
+NLM_BIN = Path.home() / ".local" / "bin" / "nlm"
 
 # Status que indicam áudio gerado no NLM mas não baixado localmente
 NEEDS_DOWNLOAD = {"generated", "generating"}
@@ -44,59 +46,61 @@ def save_index(index):
 
 
 def slugify(title):
-    """Converte título em slug para nome de arquivo.
-
-    Exemplos:
-        'Adrenal Tumors' -> 'adrenal_tumors'
-        'Cancer of the Colon' -> 'cancer_of_the_colon'
-        'Non–small-cell Lung Cancer' -> 'non_small_cell_lung_cancer'
-        'Immunotherapy Agents_ Monoclonal Antibodies' -> 'immunotherapy_agents_monoclonal_antibodies'
-    """
-    # Normalizar unicode (en-dash -> hyphen etc)
-    s = unicodedata.normalize("NFKD", title)
-    s = s.lower()
-    # Remover underscores do título original (ex: "Agents_ Monoclonal")
-    s = s.replace("_", " ")
-    # Substituir tudo que não é alfanumérico por espaço
+    s = unicodedata.normalize("NFKD", title).lower().replace("_", " ")
     s = re.sub(r"[^a-z0-9\s]", " ", s)
-    # Colapsar espaços múltiplos e trim
     s = re.sub(r"\s+", "_", s.strip())
-    # Limitar tamanho para nomes razoáveis
     if len(s) > 60:
         s = s[:60].rsplit("_", 1)[0]
     return s
 
 
 def make_filename(chapter):
-    """Gera nome de arquivo no padrão mk_devita_ch###_slug.m4a"""
     ch_num = chapter["chapter_num"]
     slug = slugify(chapter["title"])
     return f"mk_devita_ch{ch_num:03d}_{slug}.m4a"
 
 
-def download_audio(chapter):
-    """Baixa áudio de um capítulo usando nlm CLI"""
-    ch_num = chapter["chapter_num"]
-    title = chapter["title"]
-    artifact_id = chapter.get("artifact_id")
+def get_studio_status():
+    """Consulta nlm studio status e retorna mapa artifact_id → status."""
+    env = {**os.environ, "NLM_PROFILE": PROFILE}
+    cmd = [str(NLM_BIN), "studio", "status", NOTEBOOK_ID, "--json", "--profile", PROFILE]
 
+    try:
+        result = subprocess.run(cmd, capture_output=True, text=True, timeout=60, env=env)
+        if result.returncode != 0:
+            log(f"Erro ao verificar studio: {result.stderr[:300]}", "ERROR")
+            return None
+        studio_data = json.loads(result.stdout)
+    except Exception as e:
+        log(f"Erro ao verificar studio: {e}", "ERROR")
+        return None
+
+    artifact_status = {}
+    for item in studio_data:
+        if isinstance(item, dict) and "id" in item:
+            artifact_status[item["id"]] = item.get("status", "unknown")
+    return artifact_status
+
+
+def download_audio(chapter, env):
+    """Baixa áudio de um capítulo usando nlm CLI."""
+    artifact_id = chapter.get("artifact_id")
     if not artifact_id:
-        log(f"Capítulo {ch_num} sem artifact_id — pulando", "WARN")
+        log(f"  ch{chapter['chapter_num']}: sem artifact_id — pulando", "WARN")
         return {"success": False, "error": "no_artifact_id"}
 
     filename = make_filename(chapter)
     output_path = AUDIO_DIR / filename
 
     if output_path.exists():
-        log(f"Arquivo já existe: {filename} — pulando")
+        log(f"  Arquivo já existe: {filename} — pulando")
         return {"success": True, "filename": filename, "skipped": True}
 
-    log(f"Baixando #{ch_num}: {title}")
-    log(f"  Artifact: {artifact_id}")
-    log(f"  Destino:  {filename}")
+    log(f"  Baixando #{chapter['chapter_num']}: {chapter['title'][:40]}")
+    log(f"    Artifact: {artifact_id}")
 
     cmd = [
-        "nlm", "download", "audio",
+        str(NLM_BIN), "download", "audio",
         NOTEBOOK_ID,
         "--id", artifact_id,
         "-o", str(output_path),
@@ -104,25 +108,23 @@ def download_audio(chapter):
     ]
 
     try:
-        result = subprocess.run(cmd, capture_output=True, text=True, timeout=120)
+        result = subprocess.run(cmd, capture_output=True, text=True, timeout=300, env=env)
 
         if result.returncode == 0 and output_path.exists():
             size_mb = output_path.stat().st_size / (1024 * 1024)
-            log(f"  OK — {size_mb:.1f} MB")
+            log(f"    OK — {size_mb:.1f} MB")
             return {"success": True, "filename": filename}
         else:
-            log(f"  ERRO (rc={result.returncode})", "ERROR")
-            if result.stdout:
-                log(f"  STDOUT: {result.stdout[:200]}", "ERROR")
+            log(f"    ERRO (rc={result.returncode})", "ERROR")
             if result.stderr:
-                log(f"  STDERR: {result.stderr[:200]}", "ERROR")
+                log(f"    {result.stderr[:200]}", "ERROR")
             return {"success": False, "error": result.stderr or result.stdout}
 
     except subprocess.TimeoutExpired:
-        log("  Timeout (120s)", "ERROR")
+        log("    Timeout (300s)", "ERROR")
         return {"success": False, "error": "timeout"}
     except Exception as e:
-        log(f"  Exceção: {e}", "ERROR")
+        log(f"    Exceção: {e}", "ERROR")
         return {"success": False, "error": str(e)}
 
 
@@ -130,10 +132,8 @@ def get_downloadable(index, chapter_nums=None):
     """Retorna capítulos que precisam de download."""
     chapters = []
     for ch in index["chapters"]:
-        # Filtrar por números específicos se fornecidos
         if chapter_nums and ch["chapter_num"] not in chapter_nums:
             continue
-        # Precisa download: tem artifact_id, status gerado, sem audio_file
         if (ch.get("artifact_id")
                 and not ch.get("audio_file")
                 and ch["status"] in NEEDS_DOWNLOAD):
@@ -167,27 +167,58 @@ def main():
     log(f"Áudios para baixar: {len(targets)}\n")
     for ch in targets:
         filename = make_filename(ch)
-        log(f"  #{ch['chapter_num']:3d}  {ch['title'][:50]:<50s}  → {filename}")
+        log(f"  #{ch['chapter_num']:3d}  {ch['title'][:50]:<50s}  -> {filename}")
 
     if args.dry_run:
         log("\nDRY RUN — nada será executado")
         return 0
 
-    print()
+    # Verificar studio status antes de baixar
+    log("\nConsultando studio status...")
+    artifact_status = get_studio_status()
+    if artifact_status is None:
+        log("Não foi possível consultar studio. Abortando.", "ERROR")
+        return 1
+
+    # Filtrar apenas os que estão completed no studio
+    ready = []
+    not_ready = []
+    for ch in targets:
+        aid = ch.get("artifact_id")
+        status = artifact_status.get(aid, "not_found")
+        if status == "completed":
+            ready.append(ch)
+        elif status == "failed":
+            log(f"  ch{ch['chapter_num']}: servidor falhou — marcando error", "WARN")
+            ch["status"] = "error"
+            save_index(index)
+        else:
+            not_ready.append((ch, status))
+
+    if not_ready:
+        log(f"\n{len(not_ready)} áudio(s) ainda não prontos:")
+        for ch, st in not_ready:
+            log(f"  ch{ch['chapter_num']:3d}: {st}")
+
+    if not ready:
+        log("\nNenhum áudio pronto para download no momento.")
+        log("Aguarde ~15 min após a criação e tente novamente.")
+        return 0
+
+    log(f"\n{len(ready)} áudio(s) prontos para download:\n")
+
+    env = {**os.environ, "NLM_PROFILE": PROFILE}
     ok_count = 0
     fail_count = 0
 
-    for i, ch in enumerate(targets, 1):
-        log(f"\n[{i}/{len(targets)}] Baixando...")
-        result = download_audio(ch)
+    for i, ch in enumerate(ready, 1):
+        log(f"\n[{i}/{len(ready)}]")
+        result = download_audio(ch, env)
 
         if result["success"]:
-            # Atualizar índice
-            for c in index["chapters"]:
-                if c["chapter_num"] == ch["chapter_num"]:
-                    c["audio_file"] = result["filename"]
-                    c["status"] = "downloaded"
-                    break
+            ch["audio_file"] = result.get("filename", make_filename(ch))
+            ch["status"] = "downloaded"
+            ch["download_at"] = datetime.now().isoformat()
             save_index(index)
             ok_count += 1
         else:
@@ -198,8 +229,10 @@ def main():
     print("=" * 60)
     print("  RESUMO DO DOWNLOAD")
     print("=" * 60)
-    print(f"  Sucesso: {ok_count}/{len(targets)}")
-    print(f"  Falha:   {fail_count}/{len(targets)}")
+    print(f"  Sucesso: {ok_count}/{len(ready)}")
+    print(f"  Falha:   {fail_count}/{len(ready)}")
+    if not_ready:
+        print(f"  Não prontos: {len(not_ready)} (aguardar e tentar novamente)")
     print()
 
     return 0 if fail_count == 0 else 1

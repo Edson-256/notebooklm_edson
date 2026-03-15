@@ -14,7 +14,7 @@ mkdir -p "$LOG_DIR"
 echo "=== Shakespeare Batch Start: $(date) ===" | tee -a "$LOG_FILE"
 
 # Rodar o batch processor
-/opt/homebrew/bin/python3 "${PROJECT_DIR}/scripts/daily_shakespeare_batch.py" \
+/opt/homebrew/bin/python3 "${PROJECT_DIR}/scripts/shakespeare_runner.py" \
     >> "$LOG_FILE" 2>&1
 
 EXIT_CODE=$?

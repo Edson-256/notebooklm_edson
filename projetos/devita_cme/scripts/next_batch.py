@@ -1,13 +1,12 @@
 #!/usr/bin/env python3
 """
 Seleciona os próximos N capítulos pendentes do DeVita e gera áudios.
-
-Lê chapter_index.json, filtra os que estão "pending", pega os próximos N
-em ordem de capítulo, e chama generate_devita_audio.py para processar.
+Usa fire-and-forget: cria primeiro, baixa depois (separado).
 
 Uso:
     python next_batch.py              # próximos 5 (dry-run)
-    python next_batch.py --go         # executa de fato
+    python next_batch.py --go         # executa criação
+    python next_batch.py --download   # baixa áudios já prontos no NLM
     python next_batch.py -n 3 --go    # próximos 3, executa
     python next_batch.py --status     # mostra progresso geral
 """
@@ -21,8 +20,6 @@ PROJECT_DIR = Path(__file__).parent.parent
 CHAPTER_INDEX = PROJECT_DIR / "chapter_index.json"
 GENERATOR_SCRIPT = Path(__file__).parent / "generate_devita_audio.py"
 PROMPTS_DIR = PROJECT_DIR / "prompts" / "chapters"
-
-DOWNLOAD_SCRIPT = Path(__file__).parent / "download_audios.py"
 
 DONE_STATUSES = {"generated", "downloaded", "listened", "completed"}
 
@@ -49,7 +46,7 @@ def show_status(index):
     print(f"  Total:      {total}")
     print(f"  Baixados:   {downloaded} ({downloaded*100//total}%)")
     if generated_only:
-        print(f"  Sem baixar: {generated_only}")
+        print(f"  Sem baixar: {generated_only} (usar --download)")
     print(f"  Pendente:   {pending}")
     if errors:
         print(f"  Erros:      {errors}")
@@ -70,7 +67,9 @@ def main():
     parser.add_argument("-n", "--count", type=int, default=5,
                         help="Quantos capítulos no batch (default: 5)")
     parser.add_argument("--go", action="store_true",
-                        help="Executa a geração (sem isso, só mostra o que faria)")
+                        help="Executa a criação de áudios (fire-and-forget)")
+    parser.add_argument("--download", action="store_true",
+                        help="Baixa áudios já prontos no NLM")
     parser.add_argument("--status", action="store_true",
                         help="Mostra progresso geral e sai")
     args = parser.parse_args()
@@ -80,6 +79,21 @@ def main():
     if args.status:
         show_status(index)
         return 0
+
+    # Modo download: delega para generate_devita_audio.py --download
+    if args.download:
+        show_status(index)
+        print("  Baixando áudios prontos...\n")
+        cmd = [sys.executable, str(GENERATOR_SCRIPT), "--download"]
+        result = subprocess.run(cmd)
+
+        # Atualizar tracker
+        tracker_script = Path(__file__).parent / "update_tracker.py"
+        if tracker_script.exists():
+            print("\n  Atualizando tracker.md...")
+            subprocess.run([sys.executable, str(tracker_script)])
+
+        return result.returncode
 
     show_status(index)
 
@@ -101,26 +115,15 @@ def main():
 
     if not args.go:
         print("  Modo preview. Use --go para executar.\n")
-        print(f"  Comando que seria executado:")
-        print(f"    python {GENERATOR_SCRIPT.name} --chapters {chapter_nums}\n")
+        print(f"  Comandos:")
+        print(f"    python {GENERATOR_SCRIPT.name} --chapters {chapter_nums}   # criar")
+        print(f"    python {Path(__file__).name} --download                     # baixar (~15 min depois)\n")
         return 0
 
-    # Executar geração (já inclui download automático)
-    print(f"  Iniciando geração + download...\n")
+    # Executar criação (fire-and-forget — NÃO baixa automaticamente)
+    print(f"  Iniciando criação de {len(batch)} áudios...\n")
     cmd = [sys.executable, str(GENERATOR_SCRIPT), "--chapters", chapter_nums]
     result = subprocess.run(cmd)
-
-    # Baixar áudios que ficaram sem download (fallback)
-    if DOWNLOAD_SCRIPT.exists():
-        index = load_index()
-        not_downloaded = [
-            c for c in index["chapters"]
-            if c["status"] == "generated" and c.get("artifact_id") and not c.get("audio_file")
-        ]
-        if not_downloaded:
-            nums = ",".join(str(c["chapter_num"]) for c in not_downloaded)
-            print(f"\n  Baixando {len(not_downloaded)} áudio(s) pendente(s)...")
-            subprocess.run([sys.executable, str(DOWNLOAD_SCRIPT), "--chapters", nums])
 
     # Atualizar tracker
     tracker_script = Path(__file__).parent / "update_tracker.py"

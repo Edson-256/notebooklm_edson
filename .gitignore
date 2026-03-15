@@ -27,7 +27,8 @@ docs/notebooklm/install_log.md
 *.jpeg
 
 # Logs de geração
-devita_cme/generation_log_*.json
+projetos/*/logs/
+projetos/*/generation_log_*.json
 
 # Snapshots locais
 .snapshots/

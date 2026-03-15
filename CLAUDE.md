@@ -92,25 +92,58 @@ Este projeto usa **Beads (`bd`)** como sistema exclusivo para rastreamento de ta
 
 ```
 notebooklm_michalk/
-├── CLAUDE.md                       # Este arquivo (instruções do projeto)
-├── AGENTS.md                       # Instruções de workflow para agentes
-├── notebooklm-config.json          # Configuração do MCP
-├── docs/
-│   └── notebooklm/                 # Documentação do NotebookLM/MCP
-│       ├── notebooks_conta_michalk.md  # IDs dos notebooks desta conta
-│       ├── guia_uso_notebooklm.md
-│       ├── como_authenticar.md
-│       ├── limites_audio_overview.md
-│       └── audio_overview_guide.md
-├── scripts/                        # Scripts de automação
-│   ├── audio_generator.py          # Gerador de áudios (principal)
-│   └── generate_audio.sh           # Helper shell para geração rápida
-├── tools/                          # Utilitários e testes
-│   ├── test_mcp_client.py
-│   ├── test_audio_generation.py
+├── CLAUDE.md                          # Este arquivo (instruções do projeto)
+├── AGENTS.md                          # Instruções de workflow para agentes
+├── README.md                          # Documentação técnica completa
+├── como_usar_skill.md                 # Guia de uso do skill de áudio
+├── notebooklm-config.json             # Configuração do MCP
+│
+├── projetos/                          # ← TODOS os projetos de áudio
+│   ├── devita_cme/                    # DeVita Cancer (108 capítulos)
+│   │   ├── chapter_index.json
+│   │   ├── tracker.md
+│   │   ├── audio/                     # 108 áudios .m4a
+│   │   ├── scripts/                   # generate, download, next_batch
+│   │   ├── prompts/                   # master_template + chapters/
+│   │   ├── gaps/                      # Análises de lacunas
+│   │   ├── logs/                      # Logs de geração
+│   │   └── docs/                      # Plano mestre, prompts originais
+│   │
+│   ├── calculo/                       # Cálculo Munem-Foulis Vol 1 (52 seções)
+│   │   ├── section_index.json
+│   │   ├── calculo_runner.py
+│   │   ├── munem_vol1/               # PDFs, imagens, áudios
+│   │   ├── prompts/
+│   │   └── docs/
+│   │
+│   ├── w_shakespeare/                 # Shakespeare (19 obras)
+│   │   ├── scripts/                   # shakespeare_runner.py, batch.sh
+│   │   └── {obra_name}/audios/        # Áudios por obra
+│   │
+│   └── cirurgia_oncologica/           # Cirurgia Oncológica (stub)
+│       └── prompts/
+│
+├── docs/                              # Documentação geral
+│   └── notebooklm/                    # Docs do NotebookLM/MCP
+│
+├── tools/                             # Utilitários genéricos
+│   ├── audio_generator.py             # Gerador genérico de áudios
+│   ├── generate_audio.sh              # Helper shell
+│   ├── dashboard.html
 │   ├── list_all_mcp_tools.py
-│   └── dashboard.html
-└── logs/                           # Logs de execução
+│   ├── test_audio_generation.py
+│   └── test_mcp_client.py
+│
+└── logs/                              # Logs globais
+```
+
+### Como Adicionar um Novo Projeto
+
+Para criar um novo projeto de áudio, basta criar uma pasta em `projetos/`:
+
+```bash
+# Usar o skill: /notebooklm-audio-project <nome> <notebook_id> [--profile profissional|default]
+# Ou manualmente: criar pasta em projetos/ seguindo o padrão do DeVita
 ```
 
 ---
@@ -131,10 +164,10 @@ notebooklm_michalk/
 
 ```bash
 # Gerar áudio para um notebook específico
-python scripts/audio_generator.py --notebook <NOTEBOOK_ID> --topic "Tema do deep-dive"
+python tools/audio_generator.py --notebook <NOTEBOOK_ID> --topic "Tema do deep-dive"
 
 # Modo teste
-python scripts/audio_generator.py --notebook <NOTEBOOK_ID> --topic "Tema" --test
+python tools/audio_generator.py --notebook <NOTEBOOK_ID> --topic "Tema" --test
 ```
 
 ---
@@ -158,7 +191,7 @@ bd ready --json
 # (acessar NotebookLM e documentar IDs)
 
 # 3. Gerar um áudio de teste
-python scripts/audio_generator.py --notebook <ID> --topic "Tema" --test
+python tools/audio_generator.py --notebook <ID> --topic "Tema" --test
 
 # 4. Sincronizar
 bd sync

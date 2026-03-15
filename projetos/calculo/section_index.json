@@ -131,9 +131,12 @@
       "chapter_title": "Limites e Continuidades de Funções",
       "source_id": "c1774220-83c2-466f-becf-b2b59676a628",
       "slug": "cap01_s07_demonstracoes_limites",
-      "status": "created",
+      "status": "downloaded",
       "artifact_id": "58a52f28-1a3a-4809-b98a-fd29caa3d11e",
-      "created_at": "2026-03-08T20:49:49.633464"
+      "created_at": "2026-03-08T20:49:49.633464",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/calculo/munem_vol1/audios/mf_cap01_s07_demonstracoes_limites.m4a",
+      "tamanho_bytes": 70834455,
+      "download_at": "2026-03-15T09:49:06.326482"
     },
     {
       "id": 12,
@@ -143,9 +146,12 @@
       "chapter_title": "A Derivada",
       "source_id": "7d0f9d8b-723d-474b-bd0c-b2e19bc8d58e",
       "slug": "cap02_s02_derivada_funcao",
-      "status": "created",
+      "status": "downloaded",
       "artifact_id": "fa6593bc-3269-4f76-ab6c-531c9f3e16ba",
-      "created_at": "2026-03-08T20:51:56.947773"
+      "created_at": "2026-03-08T20:51:56.947773",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/calculo/munem_vol1/audios/mf_cap02_s02_derivada_funcao.m4a",
+      "tamanho_bytes": 57450870,
+      "download_at": "2026-03-15T09:49:18.554760"
     },
     {
       "id": 13,
@@ -155,9 +161,12 @@
       "chapter_title": "A Derivada",
       "source_id": "7d0f9d8b-723d-474b-bd0c-b2e19bc8d58e",
       "slug": "cap02_s05_regra_funcao_inversa",
-      "status": "created",
+      "status": "downloaded",
       "artifact_id": "b9645978-999e-4264-a48f-e40880caef5e",
-      "created_at": "2026-03-08T20:54:04.575201"
+      "created_at": "2026-03-08T20:54:04.575201",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/calculo/munem_vol1/audios/mf_cap02_s05_regra_funcao_inversa.m4a",
+      "tamanho_bytes": 59695039,
+      "download_at": "2026-03-15T09:49:31.161850"
     },
     {
       "id": 14,
@@ -167,9 +176,12 @@
       "chapter_title": "A Derivada",
       "source_id": "7d0f9d8b-723d-474b-bd0c-b2e19bc8d58e",
       "slug": "cap02_s06_retas_tangentes_normais",
-      "status": "created",
+      "status": "downloaded",
       "artifact_id": "4790b7aa-7188-4208-ac06-e2180b421eeb",
-      "created_at": "2026-03-08T20:56:11.493380"
+      "created_at": "2026-03-08T20:56:11.493380",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/calculo/munem_vol1/audios/mf_cap02_s06_retas_tangentes_normais.m4a",
+      "tamanho_bytes": 48596825,
+      "download_at": "2026-03-15T09:49:43.031532"
     },
     {
       "id": 15,
@@ -179,9 +191,12 @@
       "chapter_title": "A Derivada",
       "source_id": "7d0f9d8b-723d-474b-bd0c-b2e19bc8d58e",
       "slug": "cap02_s07_derivadas_aproximadas",
-      "status": "created",
+      "status": "downloaded",
       "artifact_id": "e9a43cec-8ed7-4e75-85a7-d0e4597bfc24",
-      "created_at": "2026-03-08T20:58:18.590458"
+      "created_at": "2026-03-08T20:58:18.590458",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/calculo/munem_vol1/audios/mf_cap02_s07_derivadas_aproximadas.m4a",
+      "tamanho_bytes": 37484302,
+      "download_at": "2026-03-15T09:49:53.154573"
     },
     {
       "id": 16,
@@ -191,9 +206,12 @@
       "chapter_title": "Aplicações da Derivada",
       "source_id": "1512a968-8507-41ab-bf46-50c10f195668",
       "slug": "cap03_s01_tvi_tvm",
-      "status": "created",
+      "status": "downloaded",
       "artifact_id": "1ac671fb-c1d0-473d-8a4f-a7ab8895d8d3",
-      "created_at": "2026-03-08T22:41:26.676414"
+      "created_at": "2026-03-08T22:41:26.676414",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/calculo/munem_vol1/audios/mf_cap03_s01_tvi_tvm.m4a",
+      "tamanho_bytes": 49585505,
+      "download_at": "2026-03-15T09:50:03.747044"
     },
     {
       "id": 17,
@@ -203,9 +221,12 @@
       "chapter_title": "Aplicações da Derivada",
       "source_id": "1512a968-8507-41ab-bf46-50c10f195668",
       "slug": "cap03_s03_crescente_decrescente",
-      "status": "created",
+      "status": "downloaded",
       "artifact_id": "fb26f954-ce8d-4cfb-bf7c-4c11bd368ab8",
-      "created_at": "2026-03-08T22:43:34.317658"
+      "created_at": "2026-03-08T22:43:34.317658",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/calculo/munem_vol1/audios/mf_cap03_s03_crescente_decrescente.m4a",
+      "tamanho_bytes": 50296171,
+      "download_at": "2026-03-15T09:50:14.584341"
     },
     {
       "id": 18,
@@ -215,9 +236,12 @@
       "chapter_title": "Aplicações da Derivada",
       "source_id": "1512a968-8507-41ab-bf46-50c10f195668",
       "slug": "cap03_s04_maximos_minimos",
-      "status": "created",
+      "status": "downloaded",
       "artifact_id": "2b6081f8-361d-40fb-b249-7ba7645209fc",
-      "created_at": "2026-03-08T22:45:41.799068"
+      "created_at": "2026-03-08T22:45:41.799068",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/calculo/munem_vol1/audios/mf_cap03_s04_maximos_minimos.m4a",
+      "tamanho_bytes": 49462875,
+      "download_at": "2026-03-15T09:50:25.490519"
     },
     {
       "id": 19,
@@ -227,9 +251,12 @@
       "chapter_title": "Aplicações da Derivada",
       "source_id": "1512a968-8507-41ab-bf46-50c10f195668",
       "slug": "cap03_s06_otimizacao_geometria",
-      "status": "created",
+      "status": "downloaded",
       "artifact_id": "c68d1a7a-115d-43ba-b45f-49bae11aebc6",
-      "created_at": "2026-03-08T22:47:49.420558"
+      "created_at": "2026-03-08T22:47:49.420558",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/calculo/munem_vol1/audios/mf_cap03_s06_otimizacao_geometria.m4a",
+      "tamanho_bytes": 48291170,
+      "download_at": "2026-03-15T09:50:35.598496"
     },
     {
       "id": 20,
@@ -239,9 +266,12 @@
       "chapter_title": "Aplicações da Derivada",
       "source_id": "1512a968-8507-41ab-bf46-50c10f195668",
       "slug": "cap03_s08_diferenciacao_implicita",
-      "status": "created",
+      "status": "downloaded",
       "artifact_id": "4224866e-9435-4aa8-a672-d04c90e6a1b0",
-      "created_at": "2026-03-08T22:49:56.956338"
+      "created_at": "2026-03-08T22:49:56.956338",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/calculo/munem_vol1/audios/mf_cap03_s08_diferenciacao_implicita.m4a",
+      "tamanho_bytes": 56293359,
+      "download_at": "2026-03-15T09:50:47.033979"
     },
     {
       "id": 21,
@@ -306,9 +336,12 @@
       "chapter_title": "A Integral Definida ou de Riemann",
       "source_id": "97647cb9-743b-4a30-a215-678091a0ca81",
       "slug": "cap06_s02_integral_riemann",
-      "status": "created",
+      "status": "downloaded",
       "artifact_id": "4b94d042-0262-4246-b176-45efccb42187",
-      "created_at": "2026-03-09T17:38:03.263880"
+      "created_at": "2026-03-09T17:38:03.263880",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/calculo/munem_vol1/audios/mf_cap06_s02_integral_riemann.m4a",
+      "tamanho_bytes": 39567110,
+      "download_at": "2026-03-15T09:50:56.721297"
     },
     {
       "id": 27,
@@ -318,9 +351,12 @@
       "chapter_title": "A Integral Definida ou de Riemann",
       "source_id": "97647cb9-743b-4a30-a215-678091a0ca81",
       "slug": "cap06_s03_propriedades_integral",
-      "status": "created",
+      "status": "downloaded",
       "artifact_id": "644318a4-ef23-4d6d-9d80-d21602ec4bb1",
-      "created_at": "2026-03-09T17:40:10.156055"
+      "created_at": "2026-03-09T17:40:10.156055",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/calculo/munem_vol1/audios/mf_cap06_s03_propriedades_integral.m4a",
+      "tamanho_bytes": 55007242,
+      "download_at": "2026-03-15T09:51:08.472303"
     },
     {
       "id": 28,
@@ -330,9 +366,12 @@
       "chapter_title": "A Integral Definida ou de Riemann",
       "source_id": "97647cb9-743b-4a30-a215-678091a0ca81",
       "slug": "cap06_s04_teorema_fundamental",
-      "status": "created",
+      "status": "downloaded",
       "artifact_id": "f3195d9e-308a-4029-8129-062567617c94",
-      "created_at": "2026-03-09T17:42:17.440874"
+      "created_at": "2026-03-09T17:42:17.440874",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/calculo/munem_vol1/audios/mf_cap06_s04_teorema_fundamental.m4a",
+      "tamanho_bytes": 32819663,
+      "download_at": "2026-03-15T09:51:17.873817"
     },
     {
       "id": 29,
@@ -342,9 +381,12 @@
       "chapter_title": "A Integral Definida ou de Riemann",
       "source_id": "97647cb9-743b-4a30-a215-678091a0ca81",
       "slug": "cap06_s06_areas_regioes_planas",
-      "status": "created",
+      "status": "downloaded",
       "artifact_id": "56b33a57-cfad-4193-bba0-a4430524dc01",
-      "created_at": "2026-03-09T17:44:25.362508"
+      "created_at": "2026-03-09T17:44:25.362508",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/calculo/munem_vol1/audios/mf_cap06_s06_areas_regioes_planas.m4a",
+      "tamanho_bytes": 56565357,
+      "download_at": "2026-03-15T09:51:29.363037"
     },
     {
       "id": 30,
@@ -354,9 +396,12 @@
       "chapter_title": "Aplicações da Integral Definida",
       "source_id": "1ed1f2cf-2169-46f4-8f17-b6b465c6ce04",
       "slug": "cap07_s03_volumes_fatias",
-      "status": "created",
+      "status": "downloaded",
       "artifact_id": "a4d30bd3-6c3c-45a1-bc12-4771b6b5fccb",
-      "created_at": "2026-03-09T17:46:32.873083"
+      "created_at": "2026-03-09T17:46:32.873083",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/calculo/munem_vol1/audios/mf_cap07_s03_volumes_fatias.m4a",
+      "tamanho_bytes": 37536595,
+      "download_at": "2026-03-15T09:51:39.351556"
     },
     {
       "id": 31,
@@ -366,7 +411,12 @@
       "chapter_title": "Funções Trigonométricas e Suas Inversas",
       "source_id": "dfd04b11-06b9-4a4d-bb63-fdf67d01ea5d",
       "slug": "cap08_s01_limites_trig",
-      "status": "pending"
+      "status": "downloaded",
+      "artifact_id": "a2646772-1546-433e-bb87-9d509bea6e85",
+      "created_at": "2026-03-10T21:39:07.539862",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/calculo/munem_vol1/audios/mf_cap08_s01_limites_trig.m4a",
+      "tamanho_bytes": 58181075,
+      "download_at": "2026-03-15T09:51:51.176268"
     },
     {
       "id": 32,
@@ -376,7 +426,12 @@
       "chapter_title": "Funções Trigonométricas e Suas Inversas",
       "source_id": "dfd04b11-06b9-4a4d-bb63-fdf67d01ea5d",
       "slug": "cap08_s02_derivadas_trig",
-      "status": "pending"
+      "status": "downloaded",
+      "artifact_id": "29cfdbd6-01dc-4257-95da-065ee75e5fda",
+      "created_at": "2026-03-10T21:41:13.428335",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/calculo/munem_vol1/audios/mf_cap08_s02_derivadas_trig.m4a",
+      "tamanho_bytes": 59903578,
+      "download_at": "2026-03-15T09:52:02.876652"
     },
     {
       "id": 33,
@@ -386,7 +441,12 @@
       "chapter_title": "Funções Trigonométricas e Suas Inversas",
       "source_id": "dfd04b11-06b9-4a4d-bb63-fdf67d01ea5d",
       "slug": "cap08_s03_aplicacoes_derivadas_trig",
-      "status": "pending"
+      "status": "downloaded",
+      "artifact_id": "f74b0fc1-82c8-4dde-9507-17b8a43bdb2f",
+      "created_at": "2026-03-10T21:43:19.216614",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/calculo/munem_vol1/audios/mf_cap08_s03_aplicacoes_derivadas_trig.m4a",
+      "tamanho_bytes": 38311622,
+      "download_at": "2026-03-15T09:52:11.890365"
     },
     {
       "id": 34,
@@ -396,7 +456,12 @@
       "chapter_title": "Funções Trigonométricas e Suas Inversas",
       "source_id": "dfd04b11-06b9-4a4d-bb63-fdf67d01ea5d",
       "slug": "cap08_s04_integracao_trig",
-      "status": "pending"
+      "status": "downloaded",
+      "artifact_id": "214b7591-9949-4b58-b8dc-9450e8dfe1c1",
+      "created_at": "2026-03-10T21:45:25.109683",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/calculo/munem_vol1/audios/mf_cap08_s04_integracao_trig.m4a",
+      "tamanho_bytes": 38464018,
+      "download_at": "2026-03-15T09:52:20.932070"
     },
     {
       "id": 35,
@@ -406,7 +471,12 @@
       "chapter_title": "Funções Trigonométricas e Suas Inversas",
       "source_id": "dfd04b11-06b9-4a4d-bb63-fdf67d01ea5d",
       "slug": "cap08_s05_trig_inversas",
-      "status": "pending"
+      "status": "downloaded",
+      "artifact_id": "f2f14cd0-3d9e-45a4-9787-92b2848fd649",
+      "created_at": "2026-03-10T21:47:32.597302",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/calculo/munem_vol1/audios/mf_cap08_s05_trig_inversas.m4a",
+      "tamanho_bytes": 41750653,
+      "download_at": "2026-03-15T09:52:31.163201"
     },
     {
       "id": 36,
@@ -416,7 +486,8 @@
       "chapter_title": "Funções Trigonométricas e Suas Inversas",
       "source_id": "dfd04b11-06b9-4a4d-bb63-fdf67d01ea5d",
       "slug": "cap08_s06_diferenciacao_trig_inv",
-      "status": "pending"
+      "status": "failed",
+      "error": ""
     },
     {
       "id": 37,
@@ -426,7 +497,8 @@
       "chapter_title": "Funções Trigonométricas e Suas Inversas",
       "source_id": "dfd04b11-06b9-4a4d-bb63-fdf67d01ea5d",
       "slug": "cap08_s07_integrais_trig_inv",
-      "status": "pending"
+      "status": "failed",
+      "error": ""
     },
     {
       "id": 38,
@@ -436,7 +508,8 @@
       "chapter_title": "Funções Logarítmicas, Exponenciais e Hiperbólicas",
       "source_id": "179892a5-98b6-478b-85e4-340ecd3c98cc",
       "slug": "cap09_s01_logaritmica_natural",
-      "status": "pending"
+      "status": "failed",
+      "error": ""
     },
     {
       "id": 39,
@@ -446,7 +519,8 @@
       "chapter_title": "Funções Logarítmicas, Exponenciais e Hiperbólicas",
       "source_id": "179892a5-98b6-478b-85e4-340ecd3c98cc",
       "slug": "cap09_s03_funcao_exponencial",
-      "status": "pending"
+      "status": "failed",
+      "error": ""
     },
     {
       "id": 40,
@@ -456,7 +530,8 @@
       "chapter_title": "Funções Logarítmicas, Exponenciais e Hiperbólicas",
       "source_id": "179892a5-98b6-478b-85e4-340ecd3c98cc",
       "slug": "cap09_s04_bases_diferentes",
-      "status": "pending"
+      "status": "failed",
+      "error": ""
     },
     {
       "id": 41,
@@ -466,7 +541,12 @@
       "chapter_title": "Funções Logarítmicas, Exponenciais e Hiperbólicas",
       "source_id": "179892a5-98b6-478b-85e4-340ecd3c98cc",
       "slug": "cap09_s05_funcoes_hiperbolicas",
-      "status": "pending"
+      "status": "downloaded",
+      "artifact_id": "4c7a6c3a-b449-45f7-8312-041632afd0f2",
+      "created_at": "2026-03-15T07:16:34.349669",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/calculo/munem_vol1/audios/mf_cap09_s05_funcoes_hiperbolicas.m4a",
+      "tamanho_bytes": 47105903,
+      "download_at": "2026-03-15T09:52:41.520341"
     },
     {
       "id": 42,
@@ -476,7 +556,12 @@
       "chapter_title": "Funções Logarítmicas, Exponenciais e Hiperbólicas",
       "source_id": "179892a5-98b6-478b-85e4-340ecd3c98cc",
       "slug": "cap09_s07_crescimento_exponencial",
-      "status": "pending"
+      "status": "downloaded",
+      "artifact_id": "31c102a5-6ca8-4c23-af25-bc3e3e8dfca9",
+      "created_at": "2026-03-15T07:18:42.617176",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/calculo/munem_vol1/audios/mf_cap09_s07_crescimento_exponencial.m4a",
+      "tamanho_bytes": 31020099,
+      "download_at": "2026-03-15T09:52:51.155690"
     },
     {
       "id": 43,
@@ -486,7 +571,12 @@
       "chapter_title": "Técnicas de Integração",
       "source_id": "e2cc899d-2e4e-4a01-a55a-c6aeef4b6031",
       "slug": "cap10_s01_senos_cossenos",
-      "status": "pending"
+      "status": "downloaded",
+      "artifact_id": "ced4bb60-d464-428c-9a4f-b79afbccff5d",
+      "created_at": "2026-03-15T07:20:51.611610",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/calculo/munem_vol1/audios/mf_cap10_s01_senos_cossenos.m4a",
+      "tamanho_bytes": 41414370,
+      "download_at": "2026-03-15T09:53:01.399619"
     },
     {
       "id": 44,
@@ -496,7 +586,12 @@
       "chapter_title": "Técnicas de Integração",
       "source_id": "e2cc899d-2e4e-4a01-a55a-c6aeef4b6031",
       "slug": "cap10_s02_outras_trig",
-      "status": "pending"
+      "status": "downloaded",
+      "artifact_id": "b3e731ed-4ab0-4413-827e-f2963386ca02",
+      "created_at": "2026-03-15T07:22:59.551127",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/calculo/munem_vol1/audios/mf_cap10_s02_outras_trig.m4a",
+      "tamanho_bytes": 47564050,
+      "download_at": "2026-03-15T09:53:13.585400"
     },
     {
       "id": 45,
@@ -506,7 +601,12 @@
       "chapter_title": "Técnicas de Integração",
       "source_id": "e2cc899d-2e4e-4a01-a55a-c6aeef4b6031",
       "slug": "cap10_s03_substituicao_trig",
-      "status": "pending"
+      "status": "downloaded",
+      "artifact_id": "e1203a58-9ff9-4fca-b040-af00b4f5fa67",
+      "created_at": "2026-03-15T07:25:08.172762",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/calculo/munem_vol1/audios/mf_cap10_s03_substituicao_trig.m4a",
+      "tamanho_bytes": 65347726,
+      "download_at": "2026-03-15T09:53:25.831805"
     },
     {
       "id": 46,
@@ -516,7 +616,12 @@
       "chapter_title": "Técnicas de Integração",
       "source_id": "e2cc899d-2e4e-4a01-a55a-c6aeef4b6031",
       "slug": "cap10_s04_integracao_partes",
-      "status": "pending"
+      "status": "downloaded",
+      "artifact_id": "9434119a-c91a-411f-a240-34a2a79239a2",
+      "created_at": "2026-03-15T07:27:15.896208",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/calculo/munem_vol1/audios/mf_cap10_s04_integracao_partes.m4a",
+      "tamanho_bytes": 40593142,
+      "download_at": "2026-03-15T09:53:35.634190"
     },
     {
       "id": 47,
@@ -526,7 +631,12 @@
       "chapter_title": "Técnicas de Integração",
       "source_id": "e2cc899d-2e4e-4a01-a55a-c6aeef4b6031",
       "slug": "cap10_s05_fracoes_parciais",
-      "status": "pending"
+      "status": "downloaded",
+      "artifact_id": "0f027980-6d7b-466f-ad5d-b3c096238c39",
+      "created_at": "2026-03-15T07:29:23.784339",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/calculo/munem_vol1/audios/mf_cap10_s05_fracoes_parciais.m4a",
+      "tamanho_bytes": 47111133,
+      "download_at": "2026-03-15T09:53:46.349073"
     },
     {
       "id": 48,
@@ -536,7 +646,12 @@
       "chapter_title": "Técnicas de Integração",
       "source_id": "e2cc899d-2e4e-4a01-a55a-c6aeef4b6031",
       "slug": "cap10_s07_substituicoes_especiais",
-      "status": "pending"
+      "status": "downloaded",
+      "artifact_id": "01f1e655-7c81-4df5-a378-0ff3c35cca0b",
+      "created_at": "2026-03-15T07:31:30.849231",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/calculo/munem_vol1/audios/mf_cap10_s07_substituicoes_especiais.m4a",
+      "tamanho_bytes": 52144293,
+      "download_at": "2026-03-15T09:53:56.562190"
     },
     {
       "id": 49,
@@ -546,7 +661,12 @@
       "chapter_title": "Coordenadas Polares e Rotação de Eixos",
       "source_id": "462c03db-15d3-4d22-be39-0216be8f35f3",
       "slug": "cap11_s01_coordenadas_polares",
-      "status": "pending"
+      "status": "downloaded",
+      "artifact_id": "41b06ba1-1175-44f7-9c98-373f72cb2fa0",
+      "created_at": "2026-03-15T07:33:39.278414",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/calculo/munem_vol1/audios/mf_cap11_s01_coordenadas_polares.m4a",
+      "tamanho_bytes": 48488389,
+      "download_at": "2026-03-15T09:54:07.129094"
     },
     {
       "id": 50,
@@ -556,7 +676,12 @@
       "chapter_title": "Coordenadas Polares e Rotação de Eixos",
       "source_id": "462c03db-15d3-4d22-be39-0216be8f35f3",
       "slug": "cap11_s03_conicas_polares",
-      "status": "pending"
+      "status": "downloaded",
+      "artifact_id": "85c2deb0-ad74-48c4-8472-c0458d108078",
+      "created_at": "2026-03-15T07:35:47.028896",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/calculo/munem_vol1/audios/mf_cap11_s03_conicas_polares.m4a",
+      "tamanho_bytes": 48841107,
+      "download_at": "2026-03-15T09:54:17.699427"
     },
     {
       "id": 51,
@@ -566,7 +691,12 @@
       "chapter_title": "Coordenadas Polares e Rotação de Eixos",
       "source_id": "462c03db-15d3-4d22-be39-0216be8f35f3",
       "slug": "cap11_s04_area_arcos_polares",
-      "status": "pending"
+      "status": "downloaded",
+      "artifact_id": "8951e8a9-6b7d-45f6-b61c-f4c8390aaefc",
+      "created_at": "2026-03-15T07:37:54.497982",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/calculo/munem_vol1/audios/mf_cap11_s04_area_arcos_polares.m4a",
+      "tamanho_bytes": 34270876,
+      "download_at": "2026-03-15T09:54:26.993575"
     },
     {
       "id": 52,
@@ -576,7 +706,12 @@
       "chapter_title": "Formas Indeterminadas, Integrais Impróprias e Fórmula de Taylor",
       "source_id": "881dbd3c-effc-4311-9f2d-83aaacfd3c89",
       "slug": "cap12_s01_forma_indeterminada",
-      "status": "pending"
+      "status": "downloaded",
+      "artifact_id": "c4f7ecd4-610e-47b4-8430-5ba36ca9ca57",
+      "created_at": "2026-03-15T07:40:02.338657",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/calculo/munem_vol1/audios/mf_cap12_s01_forma_indeterminada.m4a",
+      "tamanho_bytes": 49707273,
+      "download_at": "2026-03-15T09:54:38.333620"
     }
   ]
 }
