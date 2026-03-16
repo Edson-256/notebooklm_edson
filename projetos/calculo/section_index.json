@@ -76,8 +76,7 @@
       "chapter_title": "Revisão",
       "source_id": "448b77ed-58ab-4474-94c0-e664c186e8e9",
       "slug": "cap00_s07_funcoes_trigonometricas",
-      "status": "failed",
-      "error": ""
+      "status": "pending"
     },
     {
       "id": 7,
@@ -87,8 +86,7 @@
       "chapter_title": "Revisão",
       "source_id": "448b77ed-58ab-4474-94c0-e664c186e8e9",
       "slug": "cap00_s08_algebra_composicao",
-      "status": "failed",
-      "error": ""
+      "status": "pending"
     },
     {
       "id": 8,
@@ -98,8 +96,7 @@
       "chapter_title": "Revisão",
       "source_id": "448b77ed-58ab-4474-94c0-e664c186e8e9",
       "slug": "cap00_s09_funcoes_inversas",
-      "status": "failed",
-      "error": ""
+      "status": "pending"
     },
     {
       "id": 9,
@@ -109,8 +106,7 @@
       "chapter_title": "Limites e Continuidades de Funções",
       "source_id": "c1774220-83c2-466f-becf-b2b59676a628",
       "slug": "cap01_s01_limite_continuidade",
-      "status": "failed",
-      "error": ""
+      "status": "pending"
     },
     {
       "id": 10,
@@ -120,8 +116,7 @@
       "chapter_title": "Limites e Continuidades de Funções",
       "source_id": "c1774220-83c2-466f-becf-b2b59676a628",
       "slug": "cap01_s04_propriedades_continuas",
-      "status": "failed",
-      "error": ""
+      "status": "pending"
     },
     {
       "id": 11,
@@ -281,8 +276,7 @@
       "chapter_title": "Geometria Analítica e as Cônicas",
       "source_id": "bec88a44-5383-406c-8937-1825e374a847",
       "slug": "cap04_s01_circulo_translacao",
-      "status": "failed",
-      "error": ""
+      "status": "pending"
     },
     {
       "id": 22,
@@ -292,8 +286,7 @@
       "chapter_title": "Geometria Analítica e as Cônicas",
       "source_id": "bec88a44-5383-406c-8937-1825e374a847",
       "slug": "cap04_s04_hiperbole",
-      "status": "failed",
-      "error": ""
+      "status": "pending"
     },
     {
       "id": 23,
@@ -303,8 +296,7 @@
       "chapter_title": "Geometria Analítica e as Cônicas",
       "source_id": "bec88a44-5383-406c-8937-1825e374a847",
       "slug": "cap04_s05_secoes_conicas",
-      "status": "failed",
-      "error": ""
+      "status": "pending"
     },
     {
       "id": 24,
@@ -314,8 +306,7 @@
       "chapter_title": "Antidiferenciação, Equações Diferenciais e Área",
       "source_id": "f64eecb1-7a6e-49d6-bb4d-6be6dbf63032",
       "slug": "cap05_s01_diferenciais",
-      "status": "failed",
-      "error": ""
+      "status": "pending"
     },
     {
       "id": 25,
@@ -325,8 +316,7 @@
       "chapter_title": "A Integral Definida ou de Riemann",
       "source_id": "97647cb9-743b-4a30-a215-678091a0ca81",
       "slug": "cap06_s01_notacao_sigma",
-      "status": "failed",
-      "error": ""
+      "status": "pending"
     },
     {
       "id": 26,
@@ -486,8 +476,7 @@
       "chapter_title": "Funções Trigonométricas e Suas Inversas",
       "source_id": "dfd04b11-06b9-4a4d-bb63-fdf67d01ea5d",
       "slug": "cap08_s06_diferenciacao_trig_inv",
-      "status": "failed",
-      "error": ""
+      "status": "pending"
     },
     {
       "id": 37,
@@ -497,8 +486,7 @@
       "chapter_title": "Funções Trigonométricas e Suas Inversas",
       "source_id": "dfd04b11-06b9-4a4d-bb63-fdf67d01ea5d",
       "slug": "cap08_s07_integrais_trig_inv",
-      "status": "failed",
-      "error": ""
+      "status": "pending"
     },
     {
       "id": 38,
@@ -508,8 +496,7 @@
       "chapter_title": "Funções Logarítmicas, Exponenciais e Hiperbólicas",
       "source_id": "179892a5-98b6-478b-85e4-340ecd3c98cc",
       "slug": "cap09_s01_logaritmica_natural",
-      "status": "failed",
-      "error": ""
+      "status": "pending"
     },
     {
       "id": 39,
@@ -519,8 +506,7 @@
       "chapter_title": "Funções Logarítmicas, Exponenciais e Hiperbólicas",
       "source_id": "179892a5-98b6-478b-85e4-340ecd3c98cc",
       "slug": "cap09_s03_funcao_exponencial",
-      "status": "failed",
-      "error": ""
+      "status": "pending"
     },
     {
       "id": 40,
@@ -530,8 +516,7 @@
       "chapter_title": "Funções Logarítmicas, Exponenciais e Hiperbólicas",
       "source_id": "179892a5-98b6-478b-85e4-340ecd3c98cc",
       "slug": "cap09_s04_bases_diferentes",
-      "status": "failed",
-      "error": ""
+      "status": "pending"
     },
     {
       "id": 41,

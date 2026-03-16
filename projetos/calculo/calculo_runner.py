@@ -225,6 +225,11 @@ def show_status():
     for status, count in sorted(counts.items()):
         bar = "█" * int(count / total * 40)
         print(f"  {status:20s}: {count:3d}/{total} {bar}")
+
+    failed = counts.get("failed", 0)
+    if failed > 0:
+        print(f"\n  ⚠  {failed} seções falharam. Use --retry-failed para reprocessar:")
+        print(f"     python3 calculo_runner.py --retry-failed --max-sections {failed}")
     print()
 
     # Detalhes por capítulo
@@ -243,7 +248,7 @@ def show_status():
         print(f"  Cap. {ch_num:2d} — {ch['title'][:40]:40s} [{done}/{total_ch}]")
         for sec in ch["sections"]:
             icon = {"pending": "⬜", "created": "🟡", "downloaded": "✅",
-                    "server_failed": "❌", "download_failed": "🔴",
+                    "failed": "❌", "server_failed": "❌", "download_failed": "🔴",
                     "generating": "⏳"}.get(sec.get("status", "pending"), "?")
             print(f"         {icon} S{sec['section']} {sec['title'][:50]}")
     print()
@@ -260,6 +265,8 @@ def main():
                         help="Modo download: baixar áudios prontos")
     parser.add_argument("--dry-run", action="store_true",
                         help="Mostrar o que seria feito sem executar")
+    parser.add_argument("--retry-failed", action="store_true",
+                        help="Reprocessar seções com status 'failed'")
     parser.add_argument("--status", action="store_true",
                         help="Mostrar status geral")
     args = parser.parse_args()
@@ -274,6 +281,20 @@ def main():
 
     AUDIO_DIR.mkdir(parents=True, exist_ok=True)
     data = load_index()
+
+    # Resetar seções failed para pending se --retry-failed
+    if args.retry_failed:
+        failed_count = 0
+        for sec in data["sections"]:
+            if sec.get("status") == "failed":
+                sec["status"] = "pending"
+                sec.pop("error", None)
+                failed_count += 1
+        if failed_count:
+            save_index(data)
+            log(f"Reset: {failed_count} seções 'failed' → 'pending'")
+        else:
+            log("Nenhuma seção com status 'failed' encontrada")
 
     # Selecionar seções
     if args.sections:
