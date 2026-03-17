@@ -76,9 +76,12 @@
       "chapter_title": "Revisão",
       "source_id": "448b77ed-58ab-4474-94c0-e664c186e8e9",
       "slug": "cap00_s07_funcoes_trigonometricas",
-      "status": "created",
+      "status": "downloaded",
       "artifact_id": "074d5267-5a48-4db7-9484-dbc57b326468",
-      "created_at": "2026-03-15T22:53:29.452036"
+      "created_at": "2026-03-15T22:53:29.452036",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/projetos/calculo/munem_vol1/audios/mf_cap00_s07_funcoes_trigonometricas.m4a",
+      "tamanho_bytes": 42697499,
+      "download_at": "2026-03-15T23:50:19.516227"
     },
     {
       "id": 7,
@@ -88,7 +91,12 @@
       "chapter_title": "Revisão",
       "source_id": "448b77ed-58ab-4474-94c0-e664c186e8e9",
       "slug": "cap00_s08_algebra_composicao",
-      "status": "pending"
+      "status": "downloaded",
+      "artifact_id": "5f1fda6c-ada6-42b9-8819-0321c8e66cfc",
+      "created_at": "2026-03-15T22:55:37.463537",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/projetos/calculo/munem_vol1/audios/mf_cap00_s08_algebra_composicao.m4a",
+      "tamanho_bytes": 59572524,
+      "download_at": "2026-03-15T23:50:44.810516"
     },
     {
       "id": 8,
@@ -98,7 +106,12 @@
       "chapter_title": "Revisão",
       "source_id": "448b77ed-58ab-4474-94c0-e664c186e8e9",
       "slug": "cap00_s09_funcoes_inversas",
-      "status": "pending"
+      "status": "downloaded",
+      "artifact_id": "2c79e351-e85b-4616-b0d4-3f0776a80ab5",
+      "created_at": "2026-03-15T22:57:45.469035",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/projetos/calculo/munem_vol1/audios/mf_cap00_s09_funcoes_inversas.m4a",
+      "tamanho_bytes": 49140038,
+      "download_at": "2026-03-15T23:51:01.389833"
     },
     {
       "id": 9,
@@ -108,7 +121,12 @@
       "chapter_title": "Limites e Continuidades de Funções",
       "source_id": "c1774220-83c2-466f-becf-b2b59676a628",
       "slug": "cap01_s01_limite_continuidade",
-      "status": "pending"
+      "status": "downloaded",
+      "artifact_id": "ad2401fd-38cd-481a-a9d8-308eb10a790b",
+      "created_at": "2026-03-15T22:59:53.776690",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/projetos/calculo/munem_vol1/audios/mf_cap01_s01_limite_continuidade.m4a",
+      "tamanho_bytes": 44809442,
+      "download_at": "2026-03-15T23:51:20.771659"
     },
     {
       "id": 10,
@@ -118,7 +136,12 @@
       "chapter_title": "Limites e Continuidades de Funções",
       "source_id": "c1774220-83c2-466f-becf-b2b59676a628",
       "slug": "cap01_s04_propriedades_continuas",
-      "status": "pending"
+      "status": "downloaded",
+      "artifact_id": "05fc4587-f23f-4bf4-8d92-2fd98be8af52",
+      "created_at": "2026-03-15T23:02:02.200567",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/projetos/calculo/munem_vol1/audios/mf_cap01_s04_propriedades_continuas.m4a",
+      "tamanho_bytes": 47700778,
+      "download_at": "2026-03-15T23:51:33.597623"
     },
     {
       "id": 11,
@@ -278,7 +301,12 @@
       "chapter_title": "Geometria Analítica e as Cônicas",
       "source_id": "bec88a44-5383-406c-8937-1825e374a847",
       "slug": "cap04_s01_circulo_translacao",
-      "status": "pending"
+      "status": "downloaded",
+      "artifact_id": "e8f47d6d-ccf7-4d7a-8400-58a984976f80",
+      "created_at": "2026-03-15T23:04:09.994346",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/projetos/calculo/munem_vol1/audios/mf_cap04_s01_circulo_translacao.m4a",
+      "tamanho_bytes": 53169578,
+      "download_at": "2026-03-15T23:51:46.978597"
     },
     {
       "id": 22,
@@ -288,7 +316,12 @@
       "chapter_title": "Geometria Analítica e as Cônicas",
       "source_id": "bec88a44-5383-406c-8937-1825e374a847",
       "slug": "cap04_s04_hiperbole",
-      "status": "pending"
+      "status": "downloaded",
+      "artifact_id": "b32eb283-bf89-4018-986c-4b0b3a404579",
+      "created_at": "2026-03-15T23:06:18.336572",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/projetos/calculo/munem_vol1/audios/mf_cap04_s04_hiperbole.m4a",
+      "tamanho_bytes": 50437361,
+      "download_at": "2026-03-15T23:52:00.144706"
     },
     {
       "id": 23,
@@ -298,7 +331,12 @@
       "chapter_title": "Geometria Analítica e as Cônicas",
       "source_id": "bec88a44-5383-406c-8937-1825e374a847",
       "slug": "cap04_s05_secoes_conicas",
-      "status": "pending"
+      "status": "downloaded",
+      "artifact_id": "03a33c6a-0be4-4b00-91d6-319b34da1694",
+      "created_at": "2026-03-15T23:08:26.858779",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/projetos/calculo/munem_vol1/audios/mf_cap04_s05_secoes_conicas.m4a",
+      "tamanho_bytes": 46171010,
+      "download_at": "2026-03-15T23:52:12.294317"
     },
     {
       "id": 24,
@@ -308,7 +346,12 @@
       "chapter_title": "Antidiferenciação, Equações Diferenciais e Área",
       "source_id": "f64eecb1-7a6e-49d6-bb4d-6be6dbf63032",
       "slug": "cap05_s01_diferenciais",
-      "status": "pending"
+      "status": "downloaded",
+      "artifact_id": "7be67fa3-0e1e-4fd6-b7bb-a26e2619bde7",
+      "created_at": "2026-03-15T23:10:35.497059",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/projetos/calculo/munem_vol1/audios/mf_cap05_s01_diferenciais.m4a",
+      "tamanho_bytes": 38525316,
+      "download_at": "2026-03-15T23:52:23.790731"
     },
     {
       "id": 25,
@@ -318,7 +361,12 @@
       "chapter_title": "A Integral Definida ou de Riemann",
       "source_id": "97647cb9-743b-4a30-a215-678091a0ca81",
       "slug": "cap06_s01_notacao_sigma",
-      "status": "pending"
+      "status": "downloaded",
+      "artifact_id": "587fa658-a147-4046-8fb3-602f64eb0915",
+      "created_at": "2026-03-15T23:12:43.886401",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/projetos/calculo/munem_vol1/audios/mf_cap06_s01_notacao_sigma.m4a",
+      "tamanho_bytes": 49277609,
+      "download_at": "2026-03-15T23:52:35.564314"
     },
     {
       "id": 26,
@@ -478,7 +526,12 @@
       "chapter_title": "Funções Trigonométricas e Suas Inversas",
       "source_id": "dfd04b11-06b9-4a4d-bb63-fdf67d01ea5d",
       "slug": "cap08_s06_diferenciacao_trig_inv",
-      "status": "pending"
+      "status": "downloaded",
+      "artifact_id": "ff96407c-42ef-4aa3-bb65-ae1576f28bee",
+      "created_at": "2026-03-15T23:14:52.061063",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/projetos/calculo/munem_vol1/audios/mf_cap08_s06_diferenciacao_trig_inv.m4a",
+      "tamanho_bytes": 33930858,
+      "download_at": "2026-03-15T23:52:45.763399"
     },
     {
       "id": 37,
@@ -488,7 +541,12 @@
       "chapter_title": "Funções Trigonométricas e Suas Inversas",
       "source_id": "dfd04b11-06b9-4a4d-bb63-fdf67d01ea5d",
       "slug": "cap08_s07_integrais_trig_inv",
-      "status": "pending"
+      "status": "downloaded",
+      "artifact_id": "f4a91f06-772d-4e60-a4ba-cf9956b6c593",
+      "created_at": "2026-03-15T23:16:59.876558",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/projetos/calculo/munem_vol1/audios/mf_cap08_s07_integrais_trig_inv.m4a",
+      "tamanho_bytes": 55553443,
+      "download_at": "2026-03-15T23:52:58.355849"
     },
     {
       "id": 38,
@@ -498,7 +556,12 @@
       "chapter_title": "Funções Logarítmicas, Exponenciais e Hiperbólicas",
       "source_id": "179892a5-98b6-478b-85e4-340ecd3c98cc",
       "slug": "cap09_s01_logaritmica_natural",
-      "status": "pending"
+      "status": "downloaded",
+      "artifact_id": "96560cb3-647d-4df8-a8a2-fe27d5097047",
+      "created_at": "2026-03-15T23:19:07.992259",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/projetos/calculo/munem_vol1/audios/mf_cap09_s01_logaritmica_natural.m4a",
+      "tamanho_bytes": 42390350,
+      "download_at": "2026-03-15T23:53:09.280682"
     },
     {
       "id": 39,
@@ -508,7 +571,12 @@
       "chapter_title": "Funções Logarítmicas, Exponenciais e Hiperbólicas",
       "source_id": "179892a5-98b6-478b-85e4-340ecd3c98cc",
       "slug": "cap09_s03_funcao_exponencial",
-      "status": "pending"
+      "status": "downloaded",
+      "artifact_id": "eb23e3a5-be6f-49d1-b38d-aee255059df9",
+      "created_at": "2026-03-15T23:21:16.833551",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/projetos/calculo/munem_vol1/audios/mf_cap09_s03_funcao_exponencial.m4a",
+      "tamanho_bytes": 44640495,
+      "download_at": "2026-03-15T23:53:21.241470"
     },
     {
       "id": 40,
@@ -518,7 +586,12 @@
       "chapter_title": "Funções Logarítmicas, Exponenciais e Hiperbólicas",
       "source_id": "179892a5-98b6-478b-85e4-340ecd3c98cc",
       "slug": "cap09_s04_bases_diferentes",
-      "status": "pending"
+      "status": "downloaded",
+      "artifact_id": "bf860a94-8509-4dbd-8a3a-3984fdd6811f",
+      "created_at": "2026-03-15T23:23:26.275920",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_michalk/projetos/calculo/munem_vol1/audios/mf_cap09_s04_bases_diferentes.m4a",
+      "tamanho_bytes": 50722099,
+      "download_at": "2026-03-15T23:53:32.436551"
     },
     {
       "id": 41,
