@@ -1,0 +1,6 @@
+Section-specific context for audio generation:
+
+Focus on: transcription factors (activators, repressors), DNA-binding domains (zinc finger, leucine zipper, helix-turn-helix), coactivators and corepressors, enhancer-promoter communication, combinatorial regulation.
+What changed since 1995: enhancer-promoter looping mechanisms defined, super-enhancers discovered (large clusters driving cell identity genes), 3D genome organization (TADs, CTCF loops) regulating gene access.
+Oncology bridge: oncogenic transcription factors (MYC amplification, p53 mutation, HIF-1α in hypoxic tumors), super-enhancers driving oncogene expression, BET bromodomain inhibitors disrupting super-enhancer function, transcription factor fusions (EWS-FLI1, RUNX1-ETO).
+Key concepts to emphasize: super-enhancers as cancer vulnerability (new concept), transcription factors as "undruggable" targets now being approached.

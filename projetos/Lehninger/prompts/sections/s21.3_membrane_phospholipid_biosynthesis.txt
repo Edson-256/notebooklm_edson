@@ -1,0 +1,6 @@
+Section-specific context for audio generation:
+
+Focus on: Kennedy pathway (CDP-diacylglycerol and CDP-alcohol branches), phosphatidylcholine and phosphatidylethanolamine synthesis, phospholipid remodeling (Lands cycle), phosphatidylserine synthesis and flipping, sphingolipid biosynthesis overview.
+What changed since 1995: phospholipid asymmetry maintenance mechanisms clarified (flippases, scramblases), membrane lipidomics revealed cancer-specific lipid signatures.
+Oncology bridge: phosphatidylserine (PS) exposure on outer leaflet of tumor cells and tumor vasculature — bavituximab (anti-PS antibody) explored as immunotherapy; PS exposure is "eat-me" signal for macrophages but tumors exploit it for immune evasion; choline kinase alpha overexpressed in cancers (choline-PET imaging uses this); altered membrane phospholipid composition affects drug uptake and resistance.
+Key concepts to emphasize: CDP-activated intermediates as biosynthetic strategy, membrane asymmetry (PS normally inner leaflet), phospholipid remodeling maintains membrane fluidity.

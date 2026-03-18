@@ -1,0 +1,6 @@
+Section-specific context for audio generation:
+
+Focus on: chromatin remodeling and histone modifications (acetylation, methylation), DNA methylation (CpG islands, DNMTs, TET enzymes), non-coding RNAs (miRNAs, lncRNAs, circRNAs), X-inactivation, genomic imprinting, epigenetic inheritance.
+What changed since 1995: REVOLUTION — entire epigenetics field exploded; CpG methylation mapped genome-wide; lncRNAs discovered (thousands); DNMT inhibitors (azacitidine 2004, decitabine 2006) FDA-approved; liquid biopsy using methylation patterns.
+Oncology bridge: CRITICAL — epigenetic therapy (DNMT inhibitors for MDS/AML, HDAC inhibitors for lymphoma), CpG island hypermethylation silencing tumor suppressors (p16, BRCA1, MLH1), lncRNA HOTAIR promoting metastasis, circulating tumor DNA methylation patterns for early cancer detection, epigenetic reprogramming in cancer stem cells.
+Key concepts to emphasize: epigenetics as reversible cancer mechanism (unlike mutations), DNA methylation patterns as liquid biopsy biomarkers.

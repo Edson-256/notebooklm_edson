@@ -1,0 +1,6 @@
+Section-specific context for audio generation:
+
+Focus on: molecular evolution, sequence homology and conservation, phylogenetic analysis, molecular clocks.
+What changed since 1995: comparative genomics across thousands of species, molecular phylogenetics now standard, horizontal gene transfer recognized as widespread, understanding of conserved domains and protein families (Pfam, InterPro).
+Oncology bridge: cancer as somatic evolution (Nowell 1976 now proven by sequencing), clonal selection and tumor heterogeneity, phylogenetic trees of tumor subclones guide treatment, evolutionary principles explain drug resistance emergence.
+Key concepts to emphasize: sequence conservation reveals functional importance, cancer follows evolutionary principles of variation-selection-expansion.

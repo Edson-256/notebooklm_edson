@@ -1,0 +1,6 @@
+Section-specific context for audio generation:
+
+Focus on: gene structure (exons, introns, regulatory sequences), repetitive DNA (microsatellites, transposons, LINE/SINE), centromeres, telomeres, genome organization complexity.
+What changed since 1995: ENCODE project (2012) revealed 80% of genome has biochemical function, vast regulatory landscape beyond coding genes, transposable elements as genome architects.
+Oncology bridge: enhancer hijacking in cancer (MYC activation by translocated enhancers), microsatellite instability (MSI) as biomarker for immunotherapy, transposon reactivation in tumors contributing to genomic instability, regulatory mutations in non-coding regions driving cancer.
+Key concepts to emphasize: genome is mostly regulatory (paradigm shift from 1995), non-coding mutations matter in cancer.

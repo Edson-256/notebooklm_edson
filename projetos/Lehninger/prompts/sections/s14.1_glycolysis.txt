@@ -1,0 +1,6 @@
+Section-specific context for audio generation:
+
+Focus on: 10 glycolytic reactions (preparatory and payoff phases), energy yield (2 ATP, 2 NADH per glucose), key regulatory enzymes (hexokinase, PFK-1, pyruvate kinase), Warburg effect.
+What changed since 1995: Warburg effect reinterpreted — not just inefficient energy production but providing biosynthetic precursors (nucleotides, amino acids, lipids) for rapidly dividing cells. Aerobic glycolysis now understood as anabolic strategy.
+Oncology bridge: THE metabolic hallmark of cancer, PET-FDG imaging exploits tumor glucose avidity (used daily in oncologic staging), hexokinase II overexpressed in cancer, glycolysis inhibitors (2-DG, lonidamine) in clinical trials, lactate as immunosuppressive in tumor microenvironment.
+Key concepts to emphasize: Warburg effect as biosynthetic strategy not energy inefficiency, PET-FDG as clinical application of biochemistry, glycolytic enzymes as drug targets.

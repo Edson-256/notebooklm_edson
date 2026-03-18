@@ -1,0 +1,6 @@
+Section-specific context for audio generation:
+
+Focus on: metabolic profiles of liver (gluconeogenesis, urea cycle, ketogenesis), muscle (glycolysis, fatty acid oxidation), brain (obligate glucose user), adipose tissue (lipogenesis, lipolysis).
+What changed since 1995: organ-specific metabolomics and proteomics, tissue-specific isoform expression maps, inter-organ metabolite shuttling quantified.
+Oncology bridge: tissue of origin shapes tumor metabolism (liver cancers retain gluconeogenic enzymes, brain tumors depend on glucose), liver as metabolic hub affecting drug metabolism and first-pass effect, cancer-associated cachexia as multi-organ metabolic reprogramming.
+Key concepts to emphasize: metabolic specialization explains organ-specific drug toxicity, Cori cycle relevance in cancer (tumor lactate → liver glucose).

@@ -1,0 +1,6 @@
+Section-specific context for audio generation:
+
+Focus on: beta-oxidation four-step spiral (oxidation, hydration, oxidation, thiolysis), FADH2/NADH/acetyl-CoA yields, unsaturated FA oxidation (isomerase, reductase), odd-chain FA oxidation (propionyl-CoA), peroxisomal oxidation of very-long-chain FA.
+What changed since 1995: fatty acid oxidation (FAO) recognized as critical energy source for cancer cells, not just normal tissue; FAO sustains cancer stem cells and drug-resistant populations.
+Oncology bridge: FAO fuels cancer stem cells and metastatic cells; etomoxir (CPT1 inhibitor) shows anticancer effects in preclinical models; FAO upregulated in drug-resistant cancers (chemo-resistant ovarian, triple-negative breast); FAO supports survival during metabolic stress (detachment, nutrient deprivation).
+Key concepts to emphasize: energy yield calculation per palmitate, beta-oxidation vs fatty acid synthesis as distinct pathways, peroxisomal vs mitochondrial oxidation.

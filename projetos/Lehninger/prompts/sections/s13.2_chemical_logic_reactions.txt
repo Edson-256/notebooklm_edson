@@ -1,0 +1,6 @@
+Section-specific context for audio generation:
+
+Focus on: five main reaction types in biochemistry (group transfer, oxidation-reduction, elimination, isomerization, C-C bond formation/cleavage), nucleophilic substitution, electrophilic catalysis.
+What changed since 1995: mechanistic enzymology advanced with computational chemistry, transition state analog drug design refined.
+Oncology bridge: understanding reaction mechanisms at chemical level explains how antimetabolites work (5-FU as suicide inhibitor of thymidylate synthase), how proteasome inhibitors function (bortezomib), how covalent kinase inhibitors bind irreversibly (osimertinib, sotorasib).
+Key concepts to emphasize: reaction mechanism knowledge enabling rational drug design, covalent vs non-covalent inhibition strategies, chemical logic underlying cancer drug mechanisms.

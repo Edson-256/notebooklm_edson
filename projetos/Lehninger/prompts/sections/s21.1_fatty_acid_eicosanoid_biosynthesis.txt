@@ -1,0 +1,6 @@
+Section-specific context for audio generation:
+
+Focus on: fatty acid synthase (FAS) multi-enzyme complex, malonyl-CoA as 2C donor, elongation and desaturation systems, eicosanoid biosynthesis — COX pathway (prostaglandins, thromboxanes), LOX pathway (leukotrienes), cytochrome P450 pathway (EETs).
+What changed since 1995: eicosanoid roles in inflammation and cancer vastly expanded; specialized pro-resolving mediators (resolvins, protectins) discovered; FASN as oncogene concept established.
+Oncology bridge: CRITICAL — FAS/FASN overexpressed in breast, prostate, colon, ovarian cancers (de novo lipogenesis is cancer hallmark); COX-2/PGE2 promotes tumor angiogenesis, immune evasion, and proliferation; NSAIDs/aspirin in cancer prevention (colorectal cancer — Level 1 evidence); leukotriene pathway modulates tumor immunity; TVB-2640 (FASN inhibitor) in clinical trials.
+Key concepts to emphasize: FAS vs beta-oxidation as distinct pathways, COX-2 as inducible cancer-promoting enzyme, aspirin/NSAID chemoprevention mechanism.

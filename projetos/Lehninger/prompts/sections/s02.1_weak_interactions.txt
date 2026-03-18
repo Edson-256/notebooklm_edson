@@ -1,0 +1,6 @@
+Section-specific context for audio generation:
+
+Focus on: hydrogen bonds and their role in biomolecular structure, van der Waals forces, the hydrophobic effect as driving force for protein folding and membrane assembly, ionic interactions in physiological solutions.
+What changed since 1995: quantitative understanding of hydrophobic effect, computational modeling of weak interactions in drug design, water structure at biomolecular interfaces.
+Oncology bridge: drug-receptor binding relies on sum of weak interactions, rational drug design optimizes hydrogen bonds and hydrophobic contacts, understanding of weak interactions explains why small mutations can disrupt protein function (oncogenic mutations).
+Key concepts to emphasize: hydrophobic effect as dominant force in biological structure, multiple weak interactions collectively create specificity.

@@ -1,0 +1,6 @@
+Section-specific context for audio generation:
+
+Focus on: protein domains as functional units, common structural motifs (Rossmann fold, beta-barrel), forces stabilizing tertiary structure, quaternary structure and subunit assembly, multimeric protein complexes.
+What changed since 1995: interactome mapping (yeast two-hybrid, AP-MS), protein interaction networks, domain databases (Pfam), understanding of hub proteins in networks, intrinsically disordered protein regions in signaling.
+Oncology bridge: allosteric drug targets (BCR-ABL allosteric site for asciminib), protein-protein interaction inhibitors (venetoclax targeting BCL-2/BAX), disruption of quaternary structure as therapeutic strategy, oncogenic fusion proteins create novel domain combinations (EML4-ALK).
+Key concepts to emphasize: domains are evolutionary units that recombine, protein-protein interactions are now druggable targets in oncology.

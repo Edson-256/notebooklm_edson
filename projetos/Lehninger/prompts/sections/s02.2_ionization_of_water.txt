@@ -1,0 +1,6 @@
+Section-specific context for audio generation:
+
+Focus on: water autoionization and Kw, pH scale and its logarithmic nature, Ka and pKa of weak acids, Henderson-Hasselbalch equation and its applications.
+What changed since 1995: intracellular pH sensing tools (fluorescent probes), recognition of pH microdomains within cells, pH-responsive drug delivery systems.
+Oncology bridge: tumor acidic microenvironment (pH 6.5-6.9 vs normal 7.4) as consequence of Warburg effect and poor perfusion, acid-mediated invasion hypothesis, pH-sensitive nanoparticle drug delivery targeting tumor acidity.
+Key concepts to emphasize: Henderson-Hasselbalch equation as clinical tool, tumor acidity is measurable and therapeutically targetable.

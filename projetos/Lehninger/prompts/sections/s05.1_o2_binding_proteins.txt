@@ -1,0 +1,6 @@
+Section-specific context for audio generation:
+
+Focus on: myoglobin structure and O2 binding, hemoglobin cooperativity (T and R states), Bohr effect, 2,3-BPG regulation, oxygen dissociation curve, sickle cell hemoglobin.
+What changed since 1995: structural dynamics of hemoglobin allostery refined, carbon monoxide and nitric oxide as signaling molecules, neuroglobin and cytoglobin discovered, pulse oximetry limitations understood.
+Oncology bridge: tumor hypoxia and HIF (hypoxia-inducible factor) pathway — central to cancer biology, HIF stabilization drives angiogenesis (VEGF), HIF-2alpha inhibitor belzutifan approved for VHL disease, oxygen-dependent regulation of tumor metabolism, cooperative binding as model for understanding drug-receptor interactions.
+Key concepts to emphasize: cooperativity and allosteric regulation as general principles, tumor hypoxia-HIF axis is a major therapeutic target.

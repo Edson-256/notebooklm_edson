@@ -1,0 +1,6 @@
+Section-specific context for audio generation:
+
+Focus on: three fates of pyruvate — lactate (anaerobic glycolysis, LDH), ethanol (yeast fermentation), acetyl-CoA (aerobic oxidation via pyruvate dehydrogenase complex). Lactate shuttle concept.
+What changed since 1995: lactate paradigm shift — no longer metabolic waste but recognized as signaling molecule, fuel for oxidative cells, and immune modulator. Lactate shuttle between glycolytic and oxidative cells in tumors.
+Oncology bridge: lactate accumulation in tumor microenvironment suppresses T-cell and NK-cell function (immune evasion), MCT1/MCT4 lactate transporters as drug targets, LDH-A overexpression in cancer, serum LDH as prognostic marker in oncology.
+Key concepts to emphasize: lactate as signaling molecule not waste, tumor lactate creating immunosuppressive microenvironment, MCT transporters as emerging targets.

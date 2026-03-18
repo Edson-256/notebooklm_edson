@@ -1,0 +1,6 @@
+Section-specific context for audio generation:
+
+Focus on: glycogen granule structure, alpha-1,4 and alpha-1,6 branching, glycogenin primer, tissue distribution (liver vs muscle).
+What changed since 1995: glycogenin discovery refined, glycogen particle proteomics revealed associated regulatory proteins.
+Oncology bridge: glycogen accumulation in clear-cell carcinomas (renal cell, ovarian clear-cell) — glycogen-rich cytoplasm is a diagnostic hallmark; glycogen metabolism as potential therapeutic target in these tumors.
+Key concepts to emphasize: branching maximizes glucose mobilization speed, liver glycogen serves systemic glucose homeostasis while muscle glycogen is local fuel.

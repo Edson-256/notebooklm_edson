@@ -1,0 +1,6 @@
+Section-specific context for audio generation:
+
+Focus on: glucogenic vs ketogenic amino acid classification, one-carbon metabolism (THF, serine hydroxymethyltransferase, methionine cycle), folate-dependent reactions, degradation pathways feeding into TCA cycle intermediates.
+What changed since 1995: one-carbon metabolism recognized as major cancer dependency; serine/glycine biosynthesis pathway identified as oncogenic; MTHFD2 as cancer-specific enzyme.
+Oncology bridge: antifolates remain cornerstone of cancer therapy — methotrexate (DHFR inhibitor), pemetrexed (multi-target antifolate for mesothelioma/lung cancer); serine/glycine metabolism supports nucleotide synthesis and methylation in rapidly proliferating tumors; PHGDH amplification drives serine synthesis in breast cancer and melanoma.
+Key concepts to emphasize: one-carbon pool and its role in nucleotide/methionine synthesis, folate as carrier of one-carbon units, glucogenic vs ketogenic distinction for clinical nutrition.
