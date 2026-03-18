@@ -16,7 +16,7 @@ import unicodedata
 
 # Configurações
 PROJECT_DIR = Path(__file__).parent.parent
-SHAKESPEARE_DIR = PROJECT_DIR / "w_shakespeare"
+SHAKESPEARE_DIR = PROJECT_DIR / "projetos" / "w_shakespeare"
 NOTEBOOK_ID = "62400b1d-e3bd-45d2-8428-d2d8d6b7128d"  # William Shakespeare notebook
 PROFILE = "default"
 MAX_PROMPT_SIZE = 2500

@@ -79,7 +79,7 @@ Context: {{INSERT_SELECTED_SCENE_OR_DESCRIPTION_HERE}}
 4. Literatura como Meio, não Fim
 
 #### 3. Cenas para Processar
-**Localização**: `w_shakespeare/{OBRA}/01_cenas_identificadas.md`
+**Localização**: `projetos/w_shakespeare/{OBRA}/01_cenas_identificadas.md`
 
 **Estrutura de cada cena**:
 ```markdown
@@ -103,7 +103,7 @@ Context: {{INSERT_SELECTED_SCENE_OR_DESCRIPTION_HERE}}
 ```
 1. LEITURA DO ARQUIVO
    ↓
-   - Ler w_shakespeare/{obra}/01_cenas_identificadas.md
+   - Ler projetos/w_shakespeare/{obra}/01_cenas_identificadas.md
    - Extrair cenas numeradas (### N. Título)
 
 2. PREPARAÇÃO DO PROMPT

@@ -223,7 +223,7 @@ def gerar_palavra_chave(titulo: str) -> str:
 ### Proposta de Organização
 
 ```
-w_shakespeare/
+projetos/w_shakespeare/
 ├── hamlet/
 │   ├── 01_cenas_identificadas.md
 │   ├── audios/
@@ -274,22 +274,22 @@ w_shakespeare/
 ### Por Nome de Arquivo
 ```bash
 # Buscar todas as cenas de Hamlet
-ls w_shakespeare/hamlet/audios/WS_Hamlet_*.mp3
+ls projetos/w_shakespeare/hamlet/audios/WS_Hamlet_*.mp3
 
 # Buscar cena específica por número
-ls w_shakespeare/*/audios/WS_*_04_*.mp3
+ls projetos/w_shakespeare/*/audios/WS_*_04_*.mp3
 
 # Buscar por palavra-chave
-ls w_shakespeare/*/audios/WS_*_*_Fantasma.mp3
+ls projetos/w_shakespeare/*/audios/WS_*_*_Fantasma.mp3
 ```
 
 ### Por Metadata
 ```bash
 # Buscar artifact_id específico
-jq '.audios[] | select(.artifact_id == "abc-123")' w_shakespeare/*/audios/metadata.json
+jq '.audios[] | select(.artifact_id == "abc-123")' projetos/w_shakespeare/*/audios/metadata.json
 
 # Buscar por localização (Ato I)
-jq '.audios[] | select(.localizacao | contains("Ato I"))' w_shakespeare/*/audios/metadata.json
+jq '.audios[] | select(.localizacao | contains("Ato I"))' projetos/w_shakespeare/*/audios/metadata.json
 ```
 
 ---
@@ -310,7 +310,7 @@ jq '.audios[] | select(.localizacao | contains("Ato I"))' w_shakespeare/*/audios
 ## 🎯 Exemplo Completo (Hamlet - Primeiras 3 Cenas)
 
 ```
-w_shakespeare/hamlet/audios/
+projetos/w_shakespeare/hamlet/audios/
 ├── WS_Hamlet_01_TeatroSocial.mp3      (18 min, 15 MB)
 ├── WS_Hamlet_02_Fantasma.mp3           (20 min, 17 MB)
 ├── WS_Hamlet_03_Ator.mp3               (19 min, 16 MB)

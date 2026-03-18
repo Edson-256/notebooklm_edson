@@ -12,7 +12,7 @@ from typing import List, Dict, Optional
 
 # Configurações
 PROJECT_DIR = Path(__file__).parent.parent
-SHAKESPEARE_DIR = PROJECT_DIR / "w_shakespeare"
+SHAKESPEARE_DIR = PROJECT_DIR / "projetos" / "w_shakespeare"
 PROGRESS_FILE = PROJECT_DIR / "logs" / "shakespeare_progress.json"
 BATCH_SIZE = 20  # cenas por execução (sem limite diário)
 LOG_DIR = PROJECT_DIR / "logs"

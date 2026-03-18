@@ -9,7 +9,7 @@ from pathlib import Path
 from datetime import datetime
 
 PROJECT_DIR = Path(__file__).parent.parent
-SHAKESPEARE_DIR = PROJECT_DIR / "w_shakespeare"
+SHAKESPEARE_DIR = PROJECT_DIR / "projetos" / "w_shakespeare"
 PROGRESS_FILE = PROJECT_DIR / "logs" / "shakespeare_progress.json"
 
 

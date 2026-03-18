@@ -98,7 +98,7 @@ python3 scripts/shakespeare_audio_generator.py --obra romeo_and_juliet --test
 ## 📁 Estrutura de Arquivos
 
 ```
-w_shakespeare/
+projetos/w_shakespeare/
 ├── hamlet/
 │   ├── 01_cenas_identificadas.md    # Cenas catalogadas
 │   ├── prompts_cenas/                # Prompts individuais (COF)
@@ -158,8 +158,8 @@ crontab -e
 rm logs/shakespeare_progress.json
 
 # Apagar áudios de uma obra
-rm -rf w_shakespeare/hamlet/audios/*.mp3
-rm w_shakespeare/hamlet/audios/metadata.json
+rm -rf projetos/w_shakespeare/hamlet/audios/*.mp3
+rm projetos/w_shakespeare/hamlet/audios/metadata.json
 ```
 
 ### Forçar Execução Imediata

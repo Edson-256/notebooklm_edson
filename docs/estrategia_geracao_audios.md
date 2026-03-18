@@ -164,7 +164,7 @@ Essa separacao existe porque o Google leva **8-15 minutos** para processar cada 
 ### Estrutura de Cada Obra
 
 ```
-w_shakespeare/hamlet/
+projetos/w_shakespeare/hamlet/
 ├── 01_cenas_identificadas.md     # Lista de cenas (fonte primaria)
 ├── prompts_cenas/                # Um prompt .md por cena
 │   ├── 01_o_contraste_entre_o_teatro_social_e_a_dor_interior.md
@@ -450,9 +450,9 @@ Para replicar esta estrategia em outro notebook:
 | Arquivo | Descricao |
 |---------|-----------|
 | `scripts/shakespeare_runner.py` | Script principal v3 (fire-and-forget + download) |
-| `w_shakespeare/{obra}/01_cenas_identificadas.md` | Lista de cenas de cada obra |
-| `w_shakespeare/{obra}/prompts_cenas/{NN}_{titulo}.md` | Prompt customizado por cena |
-| `w_shakespeare/{obra}/audios/metadata.json` | Estado de cada cena (created/downloaded) |
+| `projetos/w_shakespeare/{obra}/01_cenas_identificadas.md` | Lista de cenas de cada obra |
+| `projetos/w_shakespeare/{obra}/prompts_cenas/{NN}_{titulo}.md` | Prompt customizado por cena |
+| `projetos/w_shakespeare/{obra}/audios/metadata.json` | Estado de cada cena (created/downloaded) |
 | `logs/session_*.json` | Log detalhado de cada sessao de geracao |
 | `docs/notebooklm/notebooks_conta_pessoal.md` | IDs dos 36 notebooks pessoais |
 | `docs/notebooklm/como_authenticar.md` | Guia de autenticacao |

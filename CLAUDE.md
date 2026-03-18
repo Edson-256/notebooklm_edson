@@ -157,9 +157,10 @@ notebooklm_edson/
 │   ├── test_audio_generation.py
 │   ├── list_all_mcp_tools.py
 │   └── dashboard.html
-├── w_shakespeare/                  # Dados e áudios de Shakespeare
+├── projetos/                       # Projetos de conteúdo
+│   ├── w_shakespeare/              # Dados e áudios de Shakespeare
+│   └── g_flynn/                    # Projeto Gone Girl
 ├── leitura_formativa/              # Metodologia de leitura formativa
-├── g_flynn/                        # Projeto Gone Girl
 └── logs/                           # Logs de execução
 ```
 

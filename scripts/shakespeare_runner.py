@@ -26,7 +26,7 @@ import argparse
 
 # ── Configurações ──────────────────────────────────────────────────────
 PROJECT_DIR = Path(__file__).parent.parent
-SHAKESPEARE_DIR = PROJECT_DIR / "w_shakespeare"
+SHAKESPEARE_DIR = PROJECT_DIR / "projetos" / "w_shakespeare"
 LOGS_DIR = PROJECT_DIR / "logs"
 NOTEBOOK_ID = "62400b1d-e3bd-45d2-8428-d2d8d6b7128d"
 PROFILE = "default"
