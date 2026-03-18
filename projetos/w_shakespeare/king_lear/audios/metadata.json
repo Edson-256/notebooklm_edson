@@ -3,8 +3,8 @@
   "obra_slug": "king_lear",
   "obra_dir": "king_lear",
   "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
-  "total_cenas": 2,
-  "ultima_atualizacao": "2026-03-05T20:50:58.261818",
+  "total_cenas": 4,
+  "ultima_atualizacao": "2026-03-23T09:55:20.498955",
   "audios": [
     {
       "arquivo": "ws_king_lear_01_julgamento_amor.mp3",
@@ -29,6 +29,32 @@
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/king_lear/audios/ws_king_lear_02_voz_consciência.mp3",
       "tamanho_bytes": 52133088
+    },
+    {
+      "arquivo": "ws_king_lear_03_despojamento_ilusões.mp3",
+      "cena_numero": 3,
+      "titulo_completo": "O Despojamento das Ilusões e a Essência Humana",
+      "localizacao": "Ato II, Cena 4.",
+      "artifact_id": "b9ddff0b-28c2-42f3-86e6-33b6d3240471",
+      "data_geracao": "2026-03-19T20:27:34.941123",
+      "focus_topic": "King Lear - Ato II, Cena 4.: O Despojamento das Ilusões e a Essência Humana",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/king_lear/audios/ws_king_lear_03_despojamento_ilusões.mp3",
+      "tamanho_bytes": 46975919
+    },
+    {
+      "arquivo": "ws_king_lear_04_empatia_expansão.mp3",
+      "cena_numero": 4,
+      "titulo_completo": "A Empatia e a Expansão do Horizonte de Consciência",
+      "localizacao": "Ato III, Cena 4.",
+      "artifact_id": "1f15adea-edf1-4449-9f5c-79b268a7f5f2",
+      "data_geracao": "2026-03-23T09:04:39.923624",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "40ab96fe-8af6-43e8-ba45-601b07c5025d",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/king_lear/audios/ws_king_lear_04_empatia_expansão.mp3",
+      "tamanho_bytes": 51633087
     }
   ]
 }

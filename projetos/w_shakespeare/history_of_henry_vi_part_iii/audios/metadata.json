@@ -3,8 +3,8 @@
   "obra_slug": "henry6_p3",
   "obra_dir": "history_of_henry_vi_part_iii",
   "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
-  "total_cenas": 3,
-  "ultima_atualizacao": "2026-03-06T02:00:20.072399",
+  "total_cenas": 5,
+  "ultima_atualizacao": "2026-03-23T09:53:27.058229",
   "audios": [
     {
       "arquivo": "ws_henry6_p3_01_renúncia_direito.mp3",
@@ -41,6 +41,32 @@
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_henry_vi_part_iii/audios/ws_henry6_p3_03_monólogo_rei.mp3",
       "tamanho_bytes": 53348236
+    },
+    {
+      "arquivo": "ws_henry6_p3_04_destruição_ordem.mp3",
+      "cena_numero": 4,
+      "titulo_completo": "A Destruição da Ordem Natural: O Pai e o Filho",
+      "localizacao": "Ato II, Cena 5.",
+      "artifact_id": "49b2f912-d9c1-4cda-af48-0b237b7ea75f",
+      "data_geracao": "2026-03-19T18:50:37.690963",
+      "focus_topic": "History Of Henry Vi Part Iii - Ato II, Cena 5.: A Destruição da Ordem Natural: O Pai e o Filho",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/history_of_henry_vi_part_iii/audios/ws_henry6_p3_04_destruição_ordem.mp3",
+      "tamanho_bytes": 60509659
+    },
+    {
+      "arquivo": "ws_henry6_p3_05_agonia_realismo.mp3",
+      "cena_numero": 5,
+      "titulo_completo": "A Agonia e o Realismo Cru de Clifford",
+      "localizacao": "Ato II, Cena 6.",
+      "artifact_id": "e32508f9-0334-4980-b718-f531b093a0e4",
+      "data_geracao": "2026-03-23T08:52:22.606158",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "d8b8c2bd-806f-4f7e-9baa-f46f6cb5280f",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/history_of_henry_vi_part_iii/audios/ws_henry6_p3_05_agonia_realismo.mp3",
+      "tamanho_bytes": 57050341
     }
   ]
 }

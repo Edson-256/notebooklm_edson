@@ -3,8 +3,8 @@
   "obra_slug": "henry4_p2",
   "obra_dir": "history_of_henry_iv_part_ii",
   "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
-  "total_cenas": 5,
-  "ultima_atualizacao": "2026-03-09T14:09:19.839051",
+  "total_cenas": 7,
+  "ultima_atualizacao": "2026-03-23T09:52:02.277166",
   "audios": [
     {
       "arquivo": "ws_henry4_p2_01_monólogo_rumor.mp3",
@@ -69,6 +69,32 @@
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_henry_iv_part_ii/audios/ws_henry4_p2_05_insônia_peso.mp3",
       "tamanho_bytes": 46508041
+    },
+    {
+      "arquivo": "ws_henry4_p2_06_ética_resultados.mp3",
+      "cena_numero": 6,
+      "titulo_completo": "A Ética de Resultados na Rebelião do Arcebispo",
+      "localizacao": "Ato IV, Cena 2.",
+      "artifact_id": "438b56ed-2297-41d6-ad1e-057cc29e8f2d",
+      "data_geracao": "2026-03-19T17:52:00.505833",
+      "focus_topic": "History Of Henry Iv Part Ii - Ato IV, Cena 2.: A Ética de Resultados na Rebelião do Arcebispo",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/history_of_henry_iv_part_ii/audios/ws_henry4_p2_06_ética_resultados.mp3",
+      "tamanho_bytes": 33604286
+    },
+    {
+      "arquivo": "ws_henry4_p2_07_medo_paterno.mp3",
+      "cena_numero": 7,
+      "titulo_completo": "O Medo Paterno Pelo Destino da Nação",
+      "localizacao": "Ato IV, Cena 4.",
+      "artifact_id": "e341f3a9-733e-4c8f-a635-23fc1ed4157c",
+      "data_geracao": "2026-03-23T08:44:10.678851",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "dacb70ae-25af-45a8-a59c-11142275614c",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/history_of_henry_iv_part_ii/audios/ws_henry4_p2_07_medo_paterno.mp3",
+      "tamanho_bytes": 44116705
     }
   ]
 }

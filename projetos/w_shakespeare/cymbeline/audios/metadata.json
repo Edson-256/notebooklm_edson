@@ -3,8 +3,8 @@
   "obra_slug": "cymbeline",
   "obra_dir": "cymbeline",
   "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
-  "total_cenas": 8,
-  "ultima_atualizacao": "2026-03-09T14:06:55.699753",
+  "total_cenas": 9,
+  "ultima_atualizacao": "2026-03-19T17:09:18.802305",
   "audios": [
     {
       "arquivo": "ws_cymbeline_01_aposta_póstumo.mp3",
@@ -111,6 +111,18 @@
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/cymbeline/audios/ws_cymbeline_08_confissão_arrependimento.mp3",
       "tamanho_bytes": 49391906
+    },
+    {
+      "arquivo": "ws_cymbeline_09_póstumo_prisão.mp3",
+      "cena_numero": 9,
+      "titulo_completo": "Póstumo na Prisão Aguardando a Morte",
+      "localizacao": "Ato V, Cena 4.",
+      "artifact_id": "54ef33fb-8db3-43cf-998e-f53b7f884ea7",
+      "data_geracao": "2026-03-19T17:09:18.801157",
+      "focus_topic": "Cymbeline - Ato V, Cena 4.: Póstumo na Prisão Aguardando a Morte",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/cymbeline/audios/ws_cymbeline_09_póstumo_prisão.mp3",
+      "tamanho_bytes": 43616704
     }
   ]
 }

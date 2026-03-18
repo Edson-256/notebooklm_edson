@@ -3,8 +3,8 @@
   "obra_slug": "henry4_p1",
   "obra_dir": "history_of_henry_iv_part_i",
   "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
-  "total_cenas": 6,
-  "ultima_atualizacao": "2026-03-09T14:08:49.416293",
+  "total_cenas": 8,
+  "ultima_atualizacao": "2026-03-23T09:51:38.876285",
   "audios": [
     {
       "arquivo": "ws_henry4_p1_01_culpa_inveja.mp3",
@@ -83,6 +83,32 @@
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_henry_iv_part_i/audios/ws_henry4_p1_06_voto_redenção.mp3",
       "tamanho_bytes": 39903394
+    },
+    {
+      "arquivo": "ws_henry4_p1_07_desconstrução_cínica.mp3",
+      "cena_numero": 7,
+      "titulo_completo": "A Desconstrução Cínica dos Valores — O Catecismo da Honra",
+      "localizacao": "Ato V, Cena 1.",
+      "artifact_id": "306c8b36-83ac-4bb8-a48a-fd339379bd81",
+      "data_geracao": "2026-03-19T17:40:59.237183",
+      "focus_topic": "History Of Henry Iv Part I - Ato V, Cena 1.: A Desconstrução Cínica dos Valores — O Catecismo da Honra",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/history_of_henry_iv_part_i/audios/ws_henry4_p1_07_desconstrução_cínica.mp3",
+      "tamanho_bytes": 65297675
+    },
+    {
+      "arquivo": "ws_henry4_p1_08_morte_mentira.mp3",
+      "cena_numero": 8,
+      "titulo_completo": "A Morte da Mentira e o Preço da Traição",
+      "localizacao": "Ato V, Cena 2.",
+      "artifact_id": "4c9661d6-bbb0-4507-859e-dbbc47914934",
+      "data_geracao": "2026-03-23T08:42:07.951633",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "b4709f1f-0ac7-41b8-b6bb-bce7dab38aa3",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/history_of_henry_iv_part_i/audios/ws_henry4_p1_08_morte_mentira.mp3",
+      "tamanho_bytes": 46969195
     }
   ]
 }

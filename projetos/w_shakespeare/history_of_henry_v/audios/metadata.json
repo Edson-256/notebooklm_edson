@@ -3,8 +3,8 @@
   "obra_slug": "henry5",
   "obra_dir": "history_of_henry_v",
   "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
-  "total_cenas": 5,
-  "ultima_atualizacao": "2026-03-09T14:09:50.523002",
+  "total_cenas": 7,
+  "ultima_atualizacao": "2026-03-23T09:52:23.149205",
   "audios": [
     {
       "arquivo": "ws_henry5_01_responsabilidade_moral.mp3",
@@ -69,6 +69,32 @@
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_henry_v/audios/ws_henry5_05_debate_noturno.mp3",
       "tamanho_bytes": 44444771
+    },
+    {
+      "arquivo": "ws_henry5_06_monólogo_sobre.mp3",
+      "cena_numero": 6,
+      "titulo_completo": "O Monólogo sobre a \"Cerimônia\"",
+      "localizacao": "Ato IV, Cena 1.",
+      "artifact_id": "b117e8e3-17e2-4baf-990f-7bdfc6701a04",
+      "data_geracao": "2026-03-19T18:09:08.691882",
+      "focus_topic": "History Of Henry V - Ato IV, Cena 1.: O Monólogo sobre a \"Cerimônia\"",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/history_of_henry_v/audios/ws_henry5_06_monólogo_sobre.mp3",
+      "tamanho_bytes": 48485435
+    },
+    {
+      "arquivo": "ws_henry5_07_oração_confissão.mp3",
+      "cena_numero": 7,
+      "titulo_completo": "A Oração e Confissão de Henrique V",
+      "localizacao": "Ato IV, Cena 1.",
+      "artifact_id": "bfbb9f4e-391c-4bb4-a635-d23b44308603",
+      "data_geracao": "2026-03-23T08:46:13.719560",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "db28eb9f-bd35-4836-86cc-590946c8d2c1",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/history_of_henry_v/audios/ws_henry5_07_oração_confissão.mp3",
+      "tamanho_bytes": 46090330
     }
   ]
 }

@@ -1,0 +1,36 @@
+{
+  "obra": "Pericles",
+  "obra_slug": "pericles",
+  "obra_dir": "pericles",
+  "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
+  "total_cenas": 2,
+  "ultima_atualizacao": "2026-03-23T09:57:31.189071",
+  "audios": [
+    {
+      "arquivo": "ws_pericles_01_enigma_choque.mp3",
+      "cena_numero": 1,
+      "titulo_completo": "O Enigma e o Choque com o \"Teatro das Sombras\"",
+      "localizacao": "Ato I, Cena 1 (Antioquia, no Palácio).",
+      "artifact_id": "33b34e4d-79a7-4774-a72c-bd998bd4bc7d",
+      "data_geracao": "2026-03-19T21:57:32.433901",
+      "focus_topic": "Pericles - Ato I, Cena 1 (Antioquia, no Palácio).: O Enigma e o Choque com o \"Teatro das Sombras\"",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/pericles/audios/ws_pericles_01_enigma_choque.mp3",
+      "tamanho_bytes": 50048785
+    },
+    {
+      "arquivo": "ws_pericles_02_peso_consciência.mp3",
+      "cena_numero": 2,
+      "titulo_completo": "O Peso da Consciência e o Dever Político",
+      "localizacao": "Ato I, Cena 2 (Tiro, no Palácio).",
+      "artifact_id": "b5dfe8fa-dc47-4611-93d7-8a1f96d4b286",
+      "data_geracao": "2026-03-23T09:16:58.728184",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "2eccf318-ab7d-480a-92af-0ce932e3391f",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/pericles/audios/ws_pericles_02_peso_consciência.mp3",
+      "tamanho_bytes": 25242656
+    }
+  ]
+}

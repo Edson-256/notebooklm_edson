@@ -3,8 +3,8 @@
   "obra_slug": "hamlet",
   "obra_dir": "hamlet",
   "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
-  "total_cenas": 8,
-  "ultima_atualizacao": "2026-03-09T14:08:06.847634",
+  "total_cenas": 9,
+  "ultima_atualizacao": "2026-03-19T17:25:09.218012",
   "audios": [
     {
       "arquivo": "ws_hamlet_01_contraste_teatro.mp3",
@@ -111,6 +111,18 @@
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/hamlet/audios/ws_hamlet_08_memento_mori.mp3",
       "tamanho_bytes": 41544470
+    },
+    {
+      "arquivo": "ws_hamlet_09_entrega_providência.mp3",
+      "cena_numero": 9,
+      "titulo_completo": "A Entrega à Providência e a Prontidão Final",
+      "localizacao": "Ato V, Cena 2.",
+      "artifact_id": "f4a1d55d-8a31-435d-85bb-ec102f4ef383",
+      "data_geracao": "2026-03-19T17:25:09.216617",
+      "focus_topic": "Hamlet - Ato V, Cena 2.: A Entrega à Providência e a Prontidão Final",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/hamlet/audios/ws_hamlet_09_entrega_providência.mp3",
+      "tamanho_bytes": 51312491
     }
   ]
 }

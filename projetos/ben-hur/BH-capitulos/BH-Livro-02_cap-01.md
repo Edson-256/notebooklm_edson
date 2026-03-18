@@ -1,0 +1,38 @@
+# Livro 2 - Capítulo 1
+
+## Jerusalém sob o jugo romano
+
+---
+
+Capítulo I
+
+Jerusalém sob o jugo romano
+
+
+
+
+
+Transportaremos o leitor para vinte e um anos no futuro, para o começo da administração de Valério Grato, o quarto governador imperial da Judeia, época que será lembrada pelas agitações políticas, embora não tenha sido o momento em que a disputa final entre Roma e Israel teve início.
+
+Nesse período, a Judeia havia passado por inúmeras mudanças, mas nenhuma mais significativa do que em seu status político. Herodes, o Grande, morreu um ano após o nascimento do Menino --- e tão terrível foi a sua morte que o mundo cristão julgou que a ira divina se abatera sobre ele. Como todos os grandes governantes que passam a vida aperfeiçoando as estruturas que criaram, Herodes tinha o sonho de transmitir seu legado e fundar uma dinastia. Com esse fim, deixou um testamento no qual dividia seus territórios entre os três filhos, Antipas, Filipe e Arquelau, dos quais o último foi escolhido para sucedê-lo.1 O documento teve que passar pelas mãos do imperador, que ratificou todas as disposições, exceto uma, negando a Arquelau o título de rei, até que provasse sua capacidade e lealdade. Em vez disso, César o nomeou "etnarca" e permitiu que governasse por nove anos, quando, por má conduta e incapacidade de conter os movimentos rebeldes que se fortaleciam à sua volta, ele foi enviado para a Gália, proscrito.
+
+César não se contentou com a deposição de Arquelau e desferiu um ataque arrasador em Jerusalém, ferindo gravemente o orgulho do povo e a sensibilidade dos frequentadores do Templo: a Judeia foi reduzida a uma província anexada à prefeitura da Síria. Assim, ao invés de ser governada por um rei majestoso no palácio construído por Herodes no Monte Sião, a cidade caiu nas mãos de um oficial de segundo escalão, um mero procurador, que só se comunicava com Roma por meio do legado da Síria, residente em Antioquia. Agravando a situação, não permitiram que o procurador se estabelecesse em Jerusalém, e Cesareia foi escolhida como sede de governo. Por fim, veio a humilhação mais grave, mais exasperante, mais sutilmente estudada: Samaria --- a terra mais desprezada em todo o mundo ---, a terrível Samaria foi anexada à Judeia como parte da província! Como penaram os fanáticos separatistas, os fariseus, quando se viram na presença do procurador, em Cesareia, sujeitos à zombaria dos devotos do Monte Gerizim!
+
+Sob essa enxurrada de tristezas, restava um, e apenas um, consolo para o povo decaído: o sumo sacerdote ocupou o palácio de Herodes na Praça do Mercado, mantendo ali a aparência de uma corte. Sua verdadeira autoridade era facilmente verificável: o julgamento da vida e da morte estava nas mãos do procurador, a justiça era administrada em nome e segundo os decretos de Roma, e, ainda mais significativo, o palácio era compartilhado pelo oficial de justiça e todo o corpo de assistentes, coletores de impostos, informantes e espiões. No entanto, aqueles que sonhavam com a liberdade sentiam certa satisfação pelo fato de a principal autoridade do palácio ser um judeu. Sua mera presença ali mantinha viva a memória dos tratados e promessas dos profetas, dos séculos em que o Senhor governou o seu povo através dos filhos de Aarão; aquele era um sinal seguro de que Deus não os havia abandonado. Assim, nutriam suas esperanças, o que os ajudava a ter paciência e aguardar pelo filho de Judá que reinaria sobre Israel.
+
+Àquela altura, a Judeia se tornara uma província romana havia oitenta anos, ou mais: tempo o bastante para o império estudar as idiossincrasias do povo, tempo o bastante para perceberem que o judeu, apesar do orgulho, poderia ser facilmente governado, desde que sua religião fosse respeitada. Atentos a essa política, os antecessores de Grato se abstiveram de interferir em qualquer aspecto do culto de seus súditos. Ele, porém, tomou um caminho diferente, e seu primeiro ato oficial foi expulsar Anás do sumo sacerdócio, nomeando Ismael, filho de Fábio, em seu lugar.2
+
+Quer a ordem tenha partido de Augusto ou de Grato, a decisão rapidamente se mostrou um erro. O leitor será poupado dos meandros da política judaica; algumas palavras sobre o assunto, todavia, são indispensáveis para os que desejam acompanhar a narrativa a contento. Naqueles dias --- deixando de lado como surgiram --- havia dois partidos na Judeia: o dos nobres, ou saduceus, e o dos separatistas, ou popular. Depois da morte de Herodes, os antigos rivais se uniram contra Arquelau; do Templo ao palácio, de Jerusalém a Roma, eles o combateram em todos os lugares, às vezes com intrigas, às vezes com armas, e os claustros de Moriá ecoaram com seus gritos mais de uma vez. Valério Grato, por fim, terminou exilado. Em meio à luta, os aliados não perderam os próprios objetivos de vista: os nobres odiavam Joazar, o então sumo sacerdote, enquanto os separatistas eram seus fiéis apoiadores. Quando a ordem criada por Herodes ruiu sob Arquelau, Joazar não foi poupado. Anás, filho de Sete, foi escolhido pelos nobres para substituí-lo e a aliança chegou ao fim: a escolha do setiano reacenderia as hostilidades entre os aliados de ocasião.
+
+No decorrer da luta contra o etnarca, os nobres apelaram a uma aliança com Roma. Percebendo que, quando o governante caísse, alguém deveria sucedê-lo, a sugestão de que a Judeia fosse convertida em província partiu deles, dando mais munição à causa separatista. Anexada a Samaria, os nobres ficaram isolados, sem nenhum outro apoio além da corte e o prestígio que sua posição e riqueza lhes conferiam, mas, por um período de quinze anos --- isto é, até a chegada de Valério Grato ---, eles foram capazes de manter suas posições no palácio e no Templo.
+
+Anás, ídolo dos saduceus, havia servido fielmente aos interesses do império. Uma guarnição romana ocupava a Torre Antônia; uma sentinela romana guardava os portões do palácio; um juiz romano aplicava a justiça civil e criminal; um sistema tributário romano, exercido impiedosamente, esmagava a cidade e o campo. Todos os dias, a todas as horas e de mil maneiras, o povo, ferido e esfolado, aprendia a diferença entre uma vida de independência e uma vida de submissão. Apesar dos contratempos, Anás mantinha a população sob relativo controle: Roma não tinha um amigo mais verdadeiro do que ele, e sua perda foi sentida de imediato. Assim que passou o bastão a Ismael, o antigo sacerdote deixou o Templo e aderiu ao movimento separatista, tornando-se líder de uma nova combinação de betusianos e setianos.
+
+Valério Grato, o procurador sem partido, viu as chamas que ardiam quinze anos antes ganharem nova vida. Um mês após a eleição de Ismael, o romano achou que deveria visitá-lo em Jerusalém. Quando, de cima das muralhas, o povo viu a guarda marchar pelo portão norte em direção à Torre Antônia, compreenderam de imediato o propósito da visita: uma tropa de legionários foi somada à guarnição anterior, e, a partir daquele momento, seu jugo seria exercido livremente. Se o procurador resolvesse fazer um exemplo de alguém, ai do rebelde que cruzasse seu caminho!
+
+
+Depois da morte de Herodes, o Grande, Roma dividiu a Judeia em quatro. Herodes Antipas, o Tetrarca (senhor da quarta parte), governaria o território entre a Galileia e a Pereia como testa de ferro; Pôncio Pilatos seria a sua contraparte romana durante os eventos de que fala o Evangelho --- NT.↩︎
+
+
+
+Anás era o sogro de Caifás, sumo sacerdote à frente do Sinédrio, conselho que condenou Jesus à morte (cf. Mt 26, 3--4) --- NT.↩︎

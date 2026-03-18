@@ -3,8 +3,8 @@
   "obra_slug": "henry6_p1",
   "obra_dir": "history_of_henry_vi_part_i",
   "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
-  "total_cenas": 3,
-  "ultima_atualizacao": "2026-03-06T01:12:51.228189",
+  "total_cenas": 5,
+  "ultima_atualizacao": "2026-03-23T09:52:43.351620",
   "audios": [
     {
       "arquivo": "ws_henry6_p1_01_desorientação_esforço.mp3",
@@ -41,6 +41,32 @@
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_henry_vi_part_i/audios/ws_henry6_p1_03_hipocrisia_desmascarada.mp3",
       "tamanho_bytes": 54397426
+    },
+    {
+      "arquivo": "ws_henry6_p1_04_consciência_histórica.mp3",
+      "cena_numero": 4,
+      "titulo_completo": "A Consciência Histórica e o Terror de Exeter",
+      "localizacao": "Ato III, Cena 1.",
+      "artifact_id": "490db3dc-4d65-4582-b919-55d504e60324",
+      "data_geracao": "2026-03-19T18:20:48.447038",
+      "focus_topic": "History Of Henry Vi Part I - Ato III, Cena 1.: A Consciência Histórica e o Terror de Exeter",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/history_of_henry_vi_part_i/audios/ws_henry6_p1_04_consciência_histórica.mp3",
+      "tamanho_bytes": 46546887
+    },
+    {
+      "arquivo": "ws_henry6_p1_05_apelo_identidade.mp3",
+      "cena_numero": 5,
+      "titulo_completo": "O Apelo à Identidade Oculta: A Sedução de Borgonha",
+      "localizacao": "Ato III, Cena 3.",
+      "artifact_id": "d463462b-748a-443f-8e67-4f96b6285f75",
+      "data_geracao": "2026-03-23T08:48:16.517920",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "6af74aa5-34fb-438b-9646-e8be192b05b8",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/history_of_henry_vi_part_i/audios/ws_henry6_p1_05_apelo_identidade.mp3",
+      "tamanho_bytes": 34017514
     }
   ]
 }

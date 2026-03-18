@@ -1,0 +1,24 @@
+{
+  "obra": "Romeo And Juliet",
+  "obra_slug": "romeo_juliet",
+  "obra_dir": "romeo_and_juliet",
+  "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
+  "total_cenas": 1,
+  "ultima_atualizacao": "2026-03-23T09:57:53.519060",
+  "audios": [
+    {
+      "arquivo": "ws_romeo_juliet_01_melancolia_romeu.mp3",
+      "cena_numero": 1,
+      "titulo_completo": "A Melancolia de Romeu e o Imaginário Cautivo",
+      "localizacao": "Ato I, Cena 1.",
+      "artifact_id": "35cae5ca-4a30-496d-b7d1-ec88a9cdcf51",
+      "data_geracao": "2026-03-23T09:19:01.811629",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "cdc366df-cdf4-47bf-adfd-6484434cb2b8",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/romeo_and_juliet/audios/ws_romeo_juliet_01_melancolia_romeu.mp3",
+      "tamanho_bytes": 32519985
+    }
+  ]
+}

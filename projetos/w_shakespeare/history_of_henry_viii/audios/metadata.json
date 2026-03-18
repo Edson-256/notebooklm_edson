@@ -3,8 +3,8 @@
   "obra_slug": "henry8",
   "obra_dir": "history_of_henry_viii",
   "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
-  "total_cenas": 2,
-  "ultima_atualizacao": "2026-03-05T18:52:33.378292",
+  "total_cenas": 4,
+  "ultima_atualizacao": "2026-03-23T09:53:48.389920",
   "audios": [
     {
       "arquivo": "ws_henry8_01_conselho_norfolk.mp3",
@@ -29,6 +29,32 @@
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_henry_viii/audios/ws_henry8_02_confronto_verdade.mp3",
       "tamanho_bytes": 50383574
+    },
+    {
+      "arquivo": "ws_henry8_03_discurso_despedida.mp3",
+      "cena_numero": 3,
+      "titulo_completo": "O Discurso de Despedida de Buckingham rumo ao Patíbulo",
+      "localizacao": "Ato II, Cena 1.",
+      "artifact_id": "be669e14-49d5-47d8-8d4c-1ab5bb8a936f",
+      "data_geracao": "2026-03-19T19:01:55.022825",
+      "focus_topic": "History Of Henry Viii - Ato II, Cena 1.: O Discurso de Despedida de Buckingham rumo ao Patíbulo",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/history_of_henry_viii/audios/ws_henry8_03_discurso_despedida.mp3",
+      "tamanho_bytes": 49157967
+    },
+    {
+      "arquivo": "ws_henry8_04_solidão_consciência.mp3",
+      "cena_numero": 4,
+      "titulo_completo": "A Solidão da Consciência no Tribunal de Black-Friars",
+      "localizacao": "Ato II, Cena 4.",
+      "artifact_id": "0a83290c-ea67-47fc-a9a5-826a9e643523",
+      "data_geracao": "2026-03-23T08:54:25.562938",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "9e8994c3-863b-41f1-8860-117820714efc",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/history_of_henry_viii/audios/ws_henry8_04_solidão_consciência.mp3",
+      "tamanho_bytes": 46521487
     }
   ]
 }

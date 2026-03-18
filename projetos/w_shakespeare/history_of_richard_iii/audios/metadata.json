@@ -3,8 +3,8 @@
   "obra_slug": "richard3",
   "obra_dir": "history_of_richard_iii",
   "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
-  "total_cenas": 2,
-  "ultima_atualizacao": "2026-03-05T20:02:28.884726",
+  "total_cenas": 3,
+  "ultima_atualizacao": "2026-03-23T09:54:50.948087",
   "audios": [
     {
       "arquivo": "ws_richard3_01_autoconsciência_mal.mp3",
@@ -29,6 +29,20 @@
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_richard_iii/audios/ws_richard3_02_vitória_retórica.mp3",
       "tamanho_bytes": 49634063
+    },
+    {
+      "arquivo": "ws_richard3_03_voz_consciência.mp3",
+      "cena_numero": 3,
+      "titulo_completo": "A Voz da Consciência Histórica e a Ordem Cósmica",
+      "localizacao": "Ato I, Cena 3 — O Palácio.",
+      "artifact_id": "74754115-37f3-40a1-81b5-928515bd9d16",
+      "data_geracao": "2026-03-23T09:00:33.955893",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "06f628ac-15d8-40c7-ab1b-a62354eacb3e",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/history_of_richard_iii/audios/ws_richard3_03_voz_consciência.mp3",
+      "tamanho_bytes": 37351329
     }
   ]
 }

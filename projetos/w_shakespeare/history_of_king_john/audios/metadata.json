@@ -3,8 +3,8 @@
   "obra_slug": "king_john",
   "obra_dir": "history_of_king_john",
   "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
-  "total_cenas": 2,
-  "ultima_atualizacao": "2026-03-05T19:16:28.437215",
+  "total_cenas": 4,
+  "ultima_atualizacao": "2026-03-23T09:54:08.809261",
   "audios": [
     {
       "arquivo": "ws_king_john_01_monólogo_conveniência.mp3",
@@ -29,6 +29,32 @@
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_king_john/audios/ws_king_john_02_agonia_constance.mp3",
       "tamanho_bytes": 48149864
+    },
+    {
+      "arquivo": "ws_king_john_03_maquinação_sombria.mp3",
+      "cena_numero": 3,
+      "titulo_completo": "A Maquinação Sombria do Rei John",
+      "localizacao": "Ato III, Cena 3.",
+      "artifact_id": "3f967572-3761-4827-ae69-509a12e7ee1b",
+      "data_geracao": "2026-03-19T19:11:56.852583",
+      "focus_topic": "History Of King John - Ato III, Cena 3.: A Maquinação Sombria do Rei John",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/history_of_king_john/audios/ws_king_john_03_maquinação_sombria.mp3",
+      "tamanho_bytes": 24785352
+    },
+    {
+      "arquivo": "ws_king_john_04_diálogo_inocência.mp3",
+      "cena_numero": 4,
+      "titulo_completo": "O Diálogo da Inocência contra a Crueldade",
+      "localizacao": "Ato IV, Cena 1.",
+      "artifact_id": "a744e546-f4fc-4b87-b102-79338eaf647c",
+      "data_geracao": "2026-03-23T08:56:28.146425",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "fd1e7f91-d707-4ded-a6cb-3fff35135843",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/history_of_king_john/audios/ws_king_john_04_diálogo_inocência.mp3",
+      "tamanho_bytes": 36417183
     }
   ]
 }

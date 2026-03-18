@@ -3,8 +3,8 @@
   "obra_slug": "henry6_p2",
   "obra_dir": "history_of_henry_vi_part_ii",
   "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
-  "total_cenas": 3,
-  "ultima_atualizacao": "2026-03-06T01:35:50.489569",
+  "total_cenas": 5,
+  "ultima_atualizacao": "2026-03-23T09:53:04.582857",
   "audios": [
     {
       "arquivo": "ws_henry6_p2_01_conflito_dever.mp3",
@@ -41,6 +41,32 @@
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_henry_vi_part_ii/audios/ws_henry6_p2_03_degradação_pública.mp3",
       "tamanho_bytes": 47756806
+    },
+    {
+      "arquivo": "ws_henry6_p2_04_fraqueza_culpada.mp3",
+      "cena_numero": 4,
+      "titulo_completo": "A Fraqueza Culpada e a Tragédia da Omissão",
+      "localizacao": "Ato III, Cena 1.",
+      "artifact_id": "dac1caef-d1f6-486b-8c63-1939e9c7b30f",
+      "data_geracao": "2026-03-19T18:37:19.361899",
+      "focus_topic": "History Of Henry Vi Part Ii - Ato III, Cena 1.: A Fraqueza Culpada e a Tragédia da Omissão",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/history_of_henry_vi_part_ii/audios/ws_henry6_p2_04_fraqueza_culpada.mp3",
+      "tamanho_bytes": 49103433
+    },
+    {
+      "arquivo": "ws_henry6_p2_05_solilóquio_maquiavelismo.mp3",
+      "cena_numero": 5,
+      "titulo_completo": "O Solilóquio do Maquiavelismo e da Engenharia Social",
+      "localizacao": "Ato III, Cena 1.",
+      "artifact_id": "2e46bcc9-7f43-465c-86eb-c5a2c6ce0ec8",
+      "data_geracao": "2026-03-23T08:50:19.598909",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "bde0aee6-6a60-4832-976e-49dd5e4adb3f",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/history_of_henry_vi_part_ii/audios/ws_henry6_p2_05_solilóquio_maquiavelismo.mp3",
+      "tamanho_bytes": 45663655
     }
   ]
 }

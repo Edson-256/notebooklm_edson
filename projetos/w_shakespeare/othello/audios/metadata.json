@@ -1,0 +1,36 @@
+{
+  "obra": "Othello",
+  "obra_slug": "othello",
+  "obra_dir": "othello",
+  "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
+  "total_cenas": 2,
+  "ultima_atualizacao": "2026-03-23T09:57:09.322691",
+  "audios": [
+    {
+      "arquivo": "ws_othello_01_confissão_ontológica.mp3",
+      "cena_numero": 1,
+      "titulo_completo": "A Confissão Ontológica do Mal",
+      "localizacao": "Ato I, Cena 1.",
+      "artifact_id": "722ed1ad-d3df-4f42-98e2-511c098a5bb2",
+      "data_geracao": "2026-03-19T21:42:29.130670",
+      "focus_topic": "Othello - Ato I, Cena 1.: A Confissão Ontológica do Mal",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/othello/audios/ws_othello_01_confissão_ontológica.mp3",
+      "tamanho_bytes": 45020223
+    },
+    {
+      "arquivo": "ws_othello_02_força_poética.mp3",
+      "cena_numero": 2,
+      "titulo_completo": "A Força da Poética e a Sinceridade Fundamental",
+      "localizacao": "Ato I, Cena 3.",
+      "artifact_id": "01701f34-5bbd-4035-8bf4-9f0ff596b17c",
+      "data_geracao": "2026-03-23T09:14:55.239782",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "40fca337-a3f3-4106-8fe7-a29737c78557",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/othello/audios/ws_othello_02_força_poética.mp3",
+      "tamanho_bytes": 44312429
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "obra": "Much Ado About Nothing",
+  "obra_slug": "much_ado",
+  "obra_dir": "much_ado_about_nothing",
+  "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
+  "total_cenas": 2,
+  "ultima_atualizacao": "2026-03-23T09:56:47.576076",
+  "audios": [
+    {
+      "arquivo": "ws_much_ado_01_máscara_ironia.mp3",
+      "cena_numero": 1,
+      "titulo_completo": "A Máscara da Ironia e a Fuga da Realidade",
+      "localizacao": "Ato I, Cena 1.",
+      "artifact_id": "6eeab86a-68d2-4e98-8bff-cb5b5f77ad0b",
+      "data_geracao": "2026-03-19T21:29:02.383062",
+      "focus_topic": "Much Ado About Nothing - Ato I, Cena 1.: A Máscara da Ironia e a Fuga da Realidade",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/much_ado_about_nothing/audios/ws_much_ado_01_máscara_ironia.mp3",
+      "tamanho_bytes": 47407076
+    },
+    {
+      "arquivo": "ws_much_ado_02_ontologia_ressentimento.mp3",
+      "cena_numero": 2,
+      "titulo_completo": "A Ontologia do Ressentimento",
+      "localizacao": "Ato I, Cena 3.",
+      "artifact_id": "436b8ac6-7582-4d41-8214-9287c8c82f7f",
+      "data_geracao": "2026-03-23T09:12:51.789236",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "fe7c3ffd-e4f3-4be0-9fe0-579e8120d3be",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/much_ado_about_nothing/audios/ws_much_ado_02_ontologia_ressentimento.mp3",
+      "tamanho_bytes": 33043028
+    }
+  ]
+}

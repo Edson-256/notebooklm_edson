@@ -3,8 +3,8 @@
   "obra_slug": "richard2",
   "obra_dir": "history_of_richard_ii",
   "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
-  "total_cenas": 2,
-  "ultima_atualizacao": "2026-03-05T19:38:27.446991",
+  "total_cenas": 4,
+  "ultima_atualizacao": "2026-03-23T09:54:29.249174",
   "audios": [
     {
       "arquivo": "ws_richard2_01_dilema_john.mp3",
@@ -29,6 +29,32 @@
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/history_of_richard_ii/audios/ws_richard2_02_advertência_duque.mp3",
       "tamanho_bytes": 29990331
+    },
+    {
+      "arquivo": "ws_richard2_03_desintegração_psicológica.mp3",
+      "cena_numero": 3,
+      "titulo_completo": "A Desintegração Psicológica de Ricardo na Costa de Gales",
+      "localizacao": "Ato III, Cena 2.",
+      "artifact_id": "62f1afdf-d7da-4c6c-b117-4ad1ee7eabd8",
+      "data_geracao": "2026-03-19T19:25:39.271680",
+      "focus_topic": "History Of Richard Ii - Ato III, Cena 2.: A Desintegração Psicológica de Ricardo na Costa de Gales",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/history_of_richard_ii/audios/ws_richard2_03_desintegração_psicológica.mp3",
+      "tamanho_bytes": 44893857
+    },
+    {
+      "arquivo": "ws_richard2_04_coragem_moral.mp3",
+      "cena_numero": 4,
+      "titulo_completo": "A Coragem Moral do Bispo de Carlisle",
+      "localizacao": "Ato IV, Cena 1.",
+      "artifact_id": "2946d8ea-5a46-428b-b7b8-327d90b2eab7",
+      "data_geracao": "2026-03-23T08:58:30.931662",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "509fd4ef-c06a-406c-959d-510e5f3c8e7a",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/history_of_richard_ii/audios/ws_richard2_04_coragem_moral.mp3",
+      "tamanho_bytes": 37596358
     }
   ]
 }

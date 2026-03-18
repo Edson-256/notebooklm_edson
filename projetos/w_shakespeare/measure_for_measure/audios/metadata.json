@@ -1,0 +1,36 @@
+{
+  "obra": "Measure For Measure",
+  "obra_slug": "measure_measure",
+  "obra_dir": "measure_for_measure",
+  "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
+  "total_cenas": 2,
+  "ultima_atualizacao": "2026-03-23T09:56:26.121965",
+  "audios": [
+    {
+      "arquivo": "ws_measure_measure_01_delegação_poder.mp3",
+      "cena_numero": 1,
+      "titulo_completo": "A Delegação do Poder e o Teste da Personalidade",
+      "localizacao": "Ato I, Cena 1.",
+      "artifact_id": "91a523fe-84d3-4ad0-96a0-6c30f22f9c0b",
+      "data_geracao": "2026-03-19T21:16:16.830457",
+      "focus_topic": "Measure For Measure - Ato I, Cena 1.: A Delegação do Poder e o Teste da Personalidade",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/measure_for_measure/audios/ws_measure_measure_01_delegação_poder.mp3",
+      "tamanho_bytes": 30053083
+    },
+    {
+      "arquivo": "ws_measure_measure_02_investigação_falsa.mp3",
+      "cena_numero": 2,
+      "titulo_completo": "A Investigação da Falsa Virtude (\"Seemers\")",
+      "localizacao": "Ato I, Cena 3.",
+      "artifact_id": "89790177-5519-44db-8b1e-2b52471a0fed",
+      "data_geracao": "2026-03-23T09:10:48.957102",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "41567869-ebb1-4daa-b70b-300e8f33a75a",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/measure_for_measure/audios/ws_measure_measure_02_investigação_falsa.mp3",
+      "tamanho_bytes": 30147210
+    }
+  ]
+}

@@ -3,8 +3,8 @@
   "obra_slug": "julius_caesar",
   "obra_dir": "julius_caesar",
   "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
-  "total_cenas": 2,
-  "ultima_atualizacao": "2026-03-05T20:24:52.596642",
+  "total_cenas": 3,
+  "ultima_atualizacao": "2026-03-23T09:02:36.892176",
   "audios": [
     {
       "arquivo": "ws_julius_caesar_01_inconstância_mentalidade.mp3",
@@ -29,6 +29,18 @@
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/julius_caesar/audios/ws_julius_caesar_02_sedução_retórica.mp3",
       "tamanho_bytes": 46061942
+    },
+    {
+      "arquivo": "ws_julius_caesar_03_autoengano_racionalização.mp3",
+      "cena_numero": 3,
+      "titulo_completo": "O Autoengano e a Racionalização do Mal",
+      "localizacao": "Ato II, Cena 1.",
+      "artifact_id": "b69082eb-45a9-4095-b233-b857f62e85dc",
+      "data_geracao": "2026-03-23T09:02:36.890935",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "9141e180-c437-4ef2-883c-dfc4350bf0a8",
+      "status": "created"
     }
   ]
 }

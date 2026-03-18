@@ -1,0 +1,36 @@
+{
+  "obra": "Macbeth",
+  "obra_slug": "macbeth",
+  "obra_dir": "macbeth",
+  "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
+  "total_cenas": 2,
+  "ultima_atualizacao": "2026-03-23T09:56:05.045355",
+  "audios": [
+    {
+      "arquivo": "ws_macbeth_01_inversão_valores.mp3",
+      "cena_numero": 1,
+      "titulo_completo": "A Inversão dos Valores no Imaginário",
+      "localizacao": "Ato I, Cena 1 — Uma charneca.",
+      "artifact_id": "0e19e6c8-9ec5-43a5-b3cd-001de657f88d",
+      "data_geracao": "2026-03-19T21:05:34.469008",
+      "focus_topic": "Macbeth - Ato I, Cena 1 — Uma charneca.: A Inversão dos Valores no Imaginário",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/macbeth/audios/ws_macbeth_01_inversão_valores.mp3",
+      "tamanho_bytes": 56270201
+    },
+    {
+      "arquivo": "ws_macbeth_02_inoculação_ambição.mp3",
+      "cena_numero": 2,
+      "titulo_completo": "A Inoculação da Ambição",
+      "localizacao": "Ato I, Cena 3.",
+      "artifact_id": "03c93471-791e-4719-b33a-57fb024b1759",
+      "data_geracao": "2026-03-23T09:08:45.706235",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "20570f58-69c0-4193-ab9b-41321efc808a",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/macbeth/audios/ws_macbeth_02_inoculação_ambição.mp3",
+      "tamanho_bytes": 48111018
+    }
+  ]
+}

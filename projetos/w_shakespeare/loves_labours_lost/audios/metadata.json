@@ -3,8 +3,8 @@
   "obra_slug": "loves_labour",
   "obra_dir": "loves_labours_lost",
   "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
-  "total_cenas": 2,
-  "ultima_atualizacao": "2026-03-05T21:13:53.673977",
+  "total_cenas": 4,
+  "ultima_atualizacao": "2026-03-23T09:55:41.873549",
   "audios": [
     {
       "arquivo": "ws_loves_labour_01_construção_teatro.mp3",
@@ -29,6 +29,32 @@
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/w_shakespeare/loves_labours_lost/audios/ws_loves_labour_02_corrupção_inteligência.mp3",
       "tamanho_bytes": 41728242
+    },
+    {
+      "arquivo": "ws_loves_labour_03_choque_realidade.mp3",
+      "cena_numero": 3,
+      "titulo_completo": "O Choque com a Realidade e a Confissão da Mentira Existencial",
+      "localizacao": "Ato III, Cena 1.",
+      "artifact_id": "48a0f683-4d94-4851-bea4-60f11b965807",
+      "data_geracao": "2026-03-19T20:41:15.813284",
+      "focus_topic": "Loves Labours Lost - Ato III, Cena 1.: O Choque com a Realidade e a Confissão da Mentira Existencial",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/loves_labours_lost/audios/ws_loves_labour_03_choque_realidade.mp3",
+      "tamanho_bytes": 52201068
+    },
+    {
+      "arquivo": "ws_loves_labour_04_implosão_sistema.mp3",
+      "cena_numero": 4,
+      "titulo_completo": "A Implosão do Sistema e o Desmascaramento Coletivo",
+      "localizacao": "Ato IV, Cena 3.",
+      "artifact_id": "e3c48266-9ecd-4c1d-ad83-524ef9246002",
+      "data_geracao": "2026-03-23T09:06:42.853336",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "691aa402-913d-4cfd-9af1-c8d2d4aa81f9",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/loves_labours_lost/audios/ws_loves_labour_04_implosão_sistema.mp3",
+      "tamanho_bytes": 45961052
     }
   ]
 }

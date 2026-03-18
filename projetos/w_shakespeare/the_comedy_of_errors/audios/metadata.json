@@ -1,0 +1,24 @@
+{
+  "obra": "The Comedy Of Errors",
+  "obra_slug": "comedy_errors",
+  "obra_dir": "the_comedy_of_errors",
+  "notebook_id": "62400b1d-e3bd-45d2-8428-d2d8d6b7128d",
+  "total_cenas": 1,
+  "ultima_atualizacao": "2026-03-23T09:58:15.002567",
+  "audios": [
+    {
+      "arquivo": "ws_comedy_errors_01_posse_própria.mp3",
+      "cena_numero": 1,
+      "titulo_completo": "A Posse da Própria Biografia",
+      "localizacao": "Ato I, Cena 1 — Um salão no palácio do Duque Solino.",
+      "artifact_id": "7f3fd9bb-ff26-4b13-9751-062361fe9733",
+      "data_geracao": "2026-03-23T09:21:05.168982",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "928a4ece-1347-4c65-b378-de6cd10e02b3",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/the_comedy_of_errors/audios/ws_comedy_errors_01_posse_própria.mp3",
+      "tamanho_bytes": 46967701
+    }
+  ]
+}
