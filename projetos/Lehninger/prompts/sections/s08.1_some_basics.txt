@@ -1,0 +1,6 @@
+Section-specific context for audio generation:
+
+Focus on: purine/pyrimidine ring structures, nucleoside vs nucleotide nomenclature, phosphoester bond chemistry.
+What changed since 1995: nomenclature unchanged but clinical relevance of nucleotide analogs vastly expanded.
+Oncology bridge: nucleotide analogs as chemotherapy — 5-fluorouracil (thymidylate synthase inhibition), gemcitabine (deoxycytidine analog in pancreatic cancer), cytarabine (AML standard of care).
+Key concepts to emphasize: base-sugar-phosphate hierarchy, why analog drugs mimic natural nucleotides to disrupt DNA synthesis.

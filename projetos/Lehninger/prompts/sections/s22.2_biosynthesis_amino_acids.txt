@@ -1,0 +1,6 @@
+Section-specific context for audio generation:
+
+Focus on: essential vs non-essential amino acids, biosynthetic families from oxaloacetate/pyruvate/α-ketoglutarate, serine-glycine one-carbon metabolism, regulation of amino acid synthesis.
+What changed since 1995: metabolomics revealing cancer-specific amino acid dependencies, PHGDH amplification discovered as oncogenic driver.
+Oncology bridge: serine/glycine biosynthesis as cancer dependency (PHGDH overexpression in breast/melanoma), asparagine synthetase and L-asparaginase therapy for ALL, dietary amino acid restriction as therapeutic strategy.
+Key concepts to emphasize: serine-glycine-one-carbon pathway feeding nucleotide synthesis, non-essential amino acids becoming conditionally essential in tumors.

@@ -1,0 +1,6 @@
+Section-specific context for audio generation:
+
+Focus on: general principles of signal transduction — ligand-receptor binding, signal amplification cascades, receptor desensitization, scaffold proteins, crosstalk between pathways.
+What changed since 1995: systems biology approach to signaling networks, computational modeling of pathways, concept of signaling as networks rather than linear cascades.
+Oncology bridge: virtually ALL targeted therapies work by disrupting signaling — understanding signal transduction principles is understanding the basis of modern oncologic pharmacology.
+Key concepts to emphasize: amplification explains why small amounts of growth factor cause large cellular responses, pathway crosstalk explains drug resistance, desensitization explains tachyphylaxis.

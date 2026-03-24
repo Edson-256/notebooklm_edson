@@ -4,8 +4,8 @@
   "obra_slug": "ben_hur",
   "notebook_id": "1ecdbff9-2511-4a7f-99a0-10d3eadc1042",
   "source_id": "37da47f1-7f92-4c3c-b831-faab6e7cdc3d",
-  "total_cenas": 10,
-  "ultima_atualizacao": "2026-03-23T19:52:44.546609",
+  "total_cenas": 18,
+  "ultima_atualizacao": "2026-03-23T21:03:10.972015",
   "audios": [
     {
       "arquivo": "bh_01_solidao_imensidao.mp3",
@@ -146,6 +146,102 @@
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/ben-hur/audios/bh_10_assombro_milagre.mp3",
       "tamanho_bytes": 59760778
+    },
+    {
+      "arquivo": "bh_12_intrepidez_confrontando.mp3",
+      "cena_numero": 12,
+      "titulo_completo": "A intrepidez da fé confrontando o poder imperial",
+      "localizacao": "Livro Primeiro, Capítulo XII",
+      "artifact_id": "fa2ce5d7-aaf0-4834-ba66-d3aa9a0f12e7",
+      "data_geracao": "2026-03-23T20:46:55.976549",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "37da47f1-7f92-4c3c-b831-faab6e7cdc3d",
+      "status": "created"
+    },
+    {
+      "arquivo": "bh_13_pavor_psicologico.mp3",
+      "cena_numero": 13,
+      "titulo_completo": "O pavor psicológico do tirano e o peso do mal",
+      "localizacao": "Livro Primeiro, Capítulo XIII",
+      "artifact_id": "9eb11fdb-4485-422f-88d5-dba385e07b40",
+      "data_geracao": "2026-03-23T20:49:01.719155",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "37da47f1-7f92-4c3c-b831-faab6e7cdc3d",
+      "status": "created"
+    },
+    {
+      "arquivo": "bh_14_consumacao_busca.mp3",
+      "cena_numero": 14,
+      "titulo_completo": "A consumação da busca existencial na manjedoura",
+      "localizacao": "Livro Primeiro, Capítulo XIV",
+      "artifact_id": "7a43b33c-9699-4891-a70d-db2bc4a944e2",
+      "data_geracao": "2026-03-23T20:51:07.968126",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "37da47f1-7f92-4c3c-b831-faab6e7cdc3d",
+      "status": "created"
+    },
+    {
+      "arquivo": "bh_15_peso_imperio.mp3",
+      "cena_numero": 15,
+      "titulo_completo": "O Peso do Império e o Destino de Israel",
+      "localizacao": "Livro Segundo, Capítulo I",
+      "artifact_id": "eed24752-67c7-4916-b532-158bca760e4f",
+      "data_geracao": "2026-03-23T20:53:15.077451",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "37da47f1-7f92-4c3c-b831-faab6e7cdc3d",
+      "status": "created"
+    },
+    {
+      "arquivo": "bh_16_cinismo_romano.mp3",
+      "cena_numero": 16,
+      "titulo_completo": "O Cinismo Romano vs. A Fidelidade Judaica",
+      "localizacao": "Livro Segundo, Capítulo II",
+      "artifact_id": "547b80b7-f201-432c-ad05-4ecbbbe5e13d",
+      "data_geracao": "2026-03-23T20:55:21.281954",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "37da47f1-7f92-4c3c-b831-faab6e7cdc3d",
+      "status": "created"
+    },
+    {
+      "arquivo": "bh_17_refugio_santuario.mp3",
+      "cena_numero": 17,
+      "titulo_completo": "O Refúgio no Santuário Familiar",
+      "localizacao": "Livro Segundo, Capítulo III",
+      "artifact_id": "f1e602ad-e9e7-4632-87a6-9c531449ed32",
+      "data_geracao": "2026-03-23T20:57:27.669395",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "37da47f1-7f92-4c3c-b831-faab6e7cdc3d",
+      "status": "created"
+    },
+    {
+      "arquivo": "bh_18_despertar_vocacao.mp3",
+      "cena_numero": 18,
+      "titulo_completo": "O Despertar da Vocação e o Complexo de Inferioridade",
+      "localizacao": "Livro Segundo, Capítulo IV",
+      "artifact_id": "449ac6a1-04b9-4b68-b173-f67151ff4660",
+      "data_geracao": "2026-03-23T20:59:34.484093",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "37da47f1-7f92-4c3c-b831-faab6e7cdc3d",
+      "status": "created"
+    },
+    {
+      "arquivo": "bh_19_verdadeira_medida.mp3",
+      "cena_numero": 19,
+      "titulo_completo": "A Verdadeira Medida da Grandeza Humana",
+      "localizacao": "Livro Segundo, Capítulo V",
+      "artifact_id": "d748cc9b-baf4-4a35-9e8e-cff25d26362d",
+      "data_geracao": "2026-03-23T21:03:10.971286",
+      "focus_topic": "Act as a Senior Humanities Tutor. Create an instructional audio deep-dive in fluent Brazilian Portuguese (PT-BR).\nApply Olavo de Carvalho's \"Seminário de Filosofia\" (COF) methodology to this specific ...",
+      "prompt_type": "custom",
+      "source_id": "37da47f1-7f92-4c3c-b831-faab6e7cdc3d",
+      "status": "created"
     }
   ]
 }

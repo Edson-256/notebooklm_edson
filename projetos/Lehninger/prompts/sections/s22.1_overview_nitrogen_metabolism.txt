@@ -1,0 +1,6 @@
+Section-specific context for audio generation:
+
+Focus on: nitrogen fixation and nitrogenase complex, the nitrogen cycle, amino acid pools and transamination, ammonia assimilation via glutamate dehydrogenase and glutamine synthetase.
+What changed since 1995: systems-level understanding of nitrogen flux in tissues, metabolomics revealing tumor-specific nitrogen rewiring.
+Oncology bridge: nitrogen balance disruption in cancer cachexia, tumors as nitrogen sinks with elevated glutamine consumption, ammonia as signaling molecule in tumor microenvironment.
+Key concepts to emphasize: glutamine as nitrogen currency, PLP-dependent aminotransferases as central metabolic nodes.

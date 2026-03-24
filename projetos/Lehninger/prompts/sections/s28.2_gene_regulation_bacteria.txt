@@ -1,0 +1,6 @@
+Section-specific context for audio generation:
+
+Focus on: lac operon (induction, catabolite repression, CAP), trp operon (repression, attenuation), two-component signal transduction systems, quorum sensing basics.
+What changed since 1995: quorum sensing in pathogenic bacteria mapped, CRISPR discovered as bacterial adaptive immunity, synthetic biology using bacterial regulatory circuits.
+Oncology bridge: minimal direct relevance — antibiotic targets use bacterial gene regulation concepts, quorum sensing in tumor-associated microbiome (e.g., Fusobacterium in colorectal cancer), bacterial regulatory elements used in gene therapy vectors.
+Key concepts to emphasize: operon logic as foundation for understanding all gene regulation, bacterial concepts applied in synthetic biology and gene therapy.

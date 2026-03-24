@@ -1,0 +1,6 @@
+Section-specific context for audio generation:
+
+Focus on: Human Genome Project completion, comparative genomics, personal genomics, GWAS, The Cancer Genome Atlas (TCGA), single-cell genomics.
+What changed since 1995: HGP completed 2003, TCGA catalogued mutations across 33 cancer types, 1000 Genomes, ENCODE project, single-cell RNA-seq (2009+).
+Oncology bridge: genomic-guided oncology now standard of care, tumor profiling panels (FoundationOne, MSK-IMPACT), precision medicine matching mutations to drugs, pharmacogenomics guiding chemotherapy dosing.
+Key concepts to emphasize: cancer as a genomic disease, tumor profiling enabling precision treatment selection, TCGA as foundation of molecular oncology.

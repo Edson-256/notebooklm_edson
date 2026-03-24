@@ -1,0 +1,6 @@
+Section-specific context for audio generation:
+
+Focus on: Calvin cycle three stages (fixation by RuBisCO, reduction, regeneration), RuBisCO as most abundant enzyme, regulation by light-activated enzymes (thioredoxin system), stoichiometry (3 CO2 → 1 G3P).
+What changed since 1995: RuBisCO engineering attempts for crop improvement, carbon concentrating mechanisms better understood.
+Oncology bridge: no direct clinical relevance to cancer surgery — brief overview for metabolic literacy and completeness; conceptual understanding of carbon fixation provides contrast with human heterotrophic metabolism.
+Key concepts to emphasize: RuBisCO fixes CO2 but also O2 (photorespiration), Calvin cycle consumes ATP and NADPH from light reactions, carbon fixation as anabolic pathway.

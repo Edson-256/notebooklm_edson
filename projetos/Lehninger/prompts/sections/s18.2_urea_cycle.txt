@@ -1,0 +1,6 @@
+Section-specific context for audio generation:
+
+Focus on: five urea cycle reactions (CPS I, OTC, argininosuccinate synthetase, argininosuccinate lyase, arginase), N-acetylglutamate as activator, mitochondrial/cytosolic compartmentation, regulation, urea cycle defects.
+What changed since 1995: urea cycle enzyme deficiencies in tumors exploited therapeutically; arginine biology in tumor immunology expanded.
+Oncology bridge: arginine deprivation therapy — ADI-PEG20 (pegylated arginine deiminase) targets tumors lacking argininosuccinate synthetase 1 (ASS1), including melanoma, HCC, mesothelioma; ASS1 silencing is common in aggressive cancers; arginine also critical for T-cell antitumor function — tumor arginine depletion impairs immune response.
+Key concepts to emphasize: two nitrogen atoms in urea from different sources, energy cost of urea cycle (4 ATP equivalents), ASS1 deficiency as therapeutic vulnerability.

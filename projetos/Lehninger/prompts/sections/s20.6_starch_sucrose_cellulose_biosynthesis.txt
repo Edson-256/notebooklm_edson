@@ -1,0 +1,6 @@
+Section-specific context for audio generation:
+
+Focus on: starch biosynthesis (ADP-glucose as donor, starch synthase), sucrose biosynthesis (sucrose-6-phosphate synthase), cellulose biosynthesis (cellulose synthase complexes), polysaccharide diversity in plants.
+What changed since 1995: cellulose synthase complex structure clarified, bioethanol research drove cellulose degradation studies, dietary fiber health effects supported by large epidemiological studies.
+Oncology bridge: dietary fiber and colorectal cancer prevention — large meta-analyses confirm inverse association between fiber intake and CRC risk; short-chain fatty acids (butyrate) from fiber fermentation have anti-proliferative effects on colonocytes; relevant for surgical oncologists counseling patients on cancer prevention and post-treatment nutrition.
+Key concepts to emphasize: nucleotide-sugar donors (ADP-glucose, UDP-glucose), fiber as indigestible polysaccharide, butyrate as colonocyte fuel with anticancer properties.

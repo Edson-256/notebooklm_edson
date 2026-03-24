@@ -1,0 +1,6 @@
+Section-specific context for audio generation:
+
+Focus on: fructose entry (fructokinase, aldolase B in liver), galactose entry (Leloir pathway), mannose metabolism, dietary sugar processing.
+What changed since 1995: fructose metabolism in cancer recognized, high-fructose diet linked to tumor growth in animal models.
+Oncology bridge: fructose metabolism in colorectal cancer liver metastases (aldolase B expression changes), GLUT5 fructose transporter overexpressed in some cancers, dietary fructose potentially fueling hepatic metastatic growth.
+Key concepts to emphasize: alternative sugar entry points into glycolysis, fructose bypassing PFK-1 regulation, metabolic environment of liver metastases.

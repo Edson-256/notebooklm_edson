@@ -1,0 +1,6 @@
+Section-specific context for audio generation:
+
+Focus on: type 1 (autoimmune β-cell destruction) vs type 2 (insulin resistance + β-cell failure), metabolic syndrome criteria, molecular basis of insulin resistance (IRS phosphorylation, lipotoxicity), diabetic complications.
+What changed since 1995: T2DM global epidemic, metformin mechanism clarified (AMPK activation), incretin-based therapies, SGLT2 inhibitors.
+Oncology bridge: diabetes increases cancer risk (pancreatic, liver, colorectal, endometrial), metformin's anticancer properties studied in 100+ trials (AMPK activation → mTOR inhibition), hyperglycemia fueling tumor glycolysis, new-onset diabetes as pancreatic cancer warning sign.
+Key concepts to emphasize: metformin-AMPK-mTOR axis, diabetes-cancer bidirectional relationship.

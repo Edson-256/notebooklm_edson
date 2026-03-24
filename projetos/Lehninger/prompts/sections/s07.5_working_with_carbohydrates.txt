@@ -1,0 +1,6 @@
+Section-specific context for audio generation:
+
+Focus on: analytical methods for carbohydrate analysis, lectin affinity chromatography, mass spectrometry of glycans, glycan microarrays, glycomics as emerging field.
+What changed since 1995: mass spectrometry glycomics (MALDI-TOF, ESI-MS for glycan profiling), glycan microarray technology, automated glycan synthesis, bioinformatics tools for glycan structure databases (GlyGen, GlycomeDB).
+Oncology bridge: glycan biomarkers for cancer detection and monitoring, glycoproteomic profiling of tumor markers improves specificity (e.g., fucosylated AFP for hepatocellular carcinoma vs benign liver disease), glycan signatures as liquid biopsy targets, companion diagnostics using glycan analysis.
+Key concepts to emphasize: glycomics is the newest -omics field with direct clinical applications, glycan analysis can improve specificity of existing tumor markers.

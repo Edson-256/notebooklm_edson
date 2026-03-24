@@ -1,0 +1,6 @@
+Section-specific context for audio generation:
+
+Focus on: lateral diffusion of membrane components, lipid flip-flop (flippases, floppases, scramblases), membrane fusion mechanisms, endocytosis and exocytosis.
+What changed since 1995: exosomes and extracellular vesicles (EVs) discovered as intercellular communication system — this field barely existed in 1995.
+Oncology bridge: tumor-derived exosomes preparing pre-metastatic niches, EVs transferring drug resistance between cells, EVs as liquid biopsy biomarkers, exosome-based drug delivery systems in development.
+Key concepts to emphasize: exosomes as tumor communication vehicles, membrane dynamics enabling metastatic spread, EVs as both biomarkers and therapeutic targets.

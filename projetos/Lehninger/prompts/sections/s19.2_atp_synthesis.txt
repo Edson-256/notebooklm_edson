@@ -1,0 +1,6 @@
+Section-specific context for audio generation:
+
+Focus on: ATP synthase (F0F1 complex/Complex V), chemiosmotic hypothesis (Mitchell), rotary catalysis mechanism (Boyer), binding-change mechanism, P/O ratios, ATP-ADP translocase.
+What changed since 1995: ATP synthase rotary mechanism directly visualized (Nobel Prize to Boyer/Walker 1997), high-resolution structures revealed, ATP synthase dimers shape cristae morphology.
+Oncology bridge: ATP synthase inhibitors (oligomycin analogs) studied in cancer; IF1 (inhibitory factor 1) overexpressed in cancer cells — prevents ATP hydrolysis during hypoxia; mitochondrial membrane potential elevated in many cancer cells (used for selective drug targeting, e.g., delocalized lipophilic cations); ATP synthase reverse mode in hypoxic tumors.
+Key concepts to emphasize: rotary mechanism as molecular motor, proton-motive force (delta-psi + delta-pH), P/O ratio concept.

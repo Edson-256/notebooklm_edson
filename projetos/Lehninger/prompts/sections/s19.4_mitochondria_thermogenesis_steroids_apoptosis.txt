@@ -1,0 +1,6 @@
+Section-specific context for audio generation:
+
+Focus on: UCP1 and thermogenesis in brown adipose tissue, mitochondrial steroid synthesis (cholesterol side-chain cleavage), intrinsic apoptosis pathway — cytochrome c release, Apaf-1/apoptosome, caspase-9/caspase-3 activation, Bcl-2 family (pro-apoptotic Bax/Bak vs anti-apoptotic Bcl-2/Bcl-xL).
+What changed since 1995: apoptosis mechanisms fully elucidated (Bcl-2 family, BH3-only proteins, MOMP), brown fat rediscovered in adults, mitochondria-ER contact sites mapped.
+Oncology bridge: CRITICAL for oncologic surgeon — intrinsic apoptosis pathway is THE target of modern cancer therapy; venetoclax (Bcl-2 inhibitor) FDA-approved for CLL/AML; evasion of apoptosis is hallmark of cancer (Hanahan-Weinberg); most chemotherapy and radiation ultimately kill via mitochondrial apoptosis; BH3 mimetics are expanding drug class; understanding Bcl-2/Bax balance essential for targeted therapy rationale.
+Key concepts to emphasize: cytochrome c dual role (electron carrier + death signal), Bcl-2 family as apoptotic gatekeepers, MOMP as point of no return.

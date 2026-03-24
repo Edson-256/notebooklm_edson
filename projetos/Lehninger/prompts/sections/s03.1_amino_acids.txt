@@ -1,0 +1,6 @@
+Section-specific context for audio generation:
+
+Focus on: 20 standard amino acids grouped by R-group properties, stereochemistry (L-amino acids in biology), ionization behavior and pI, non-standard amino acids (selenocysteine, pyrrolysine).
+What changed since 1995: expanded genetic code with non-canonical amino acids, post-translational modifications vastly more complex than appreciated, amino acid sensing pathways (mTOR).
+Oncology bridge: amino acid metabolism reprogramming in cancer (glutamine addiction, serine biosynthesis), mTOR pathway as drug target (everolimus, temsirolimus), amino acid deprivation therapy (asparaginase in ALL, arginine deprivation).
+Key concepts to emphasize: amino acid properties determine protein structure, cancer cells rewire amino acid metabolism for growth.

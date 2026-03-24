@@ -1,0 +1,6 @@
+Section-specific context for audio generation:
+
+Focus on: DNA topology (linking number, writhe, twist), topoisomerase I (single-strand cut) vs topoisomerase II (double-strand cut), superhelical density regulation, role in replication and transcription.
+What changed since 1995: structural mechanisms of topoisomerases solved at atomic level, trapped cleavage complex model for drug action.
+Oncology bridge: CRITICAL — topoisomerase inhibitors are major chemotherapy agents: topo I inhibitors (irinotecan for colorectal, topotecan for ovarian/SCLC), topo II inhibitors (etoposide for germ cell/SCLC, doxorubicin for breast/lymphoma); mechanism = stabilize cleavage complex → DNA breaks → apoptosis; secondary leukemia risk from topo II poisons.
+Key concepts to emphasize: trapped cleavage complex mechanism, why these drugs cause DNA damage (not just inhibition).

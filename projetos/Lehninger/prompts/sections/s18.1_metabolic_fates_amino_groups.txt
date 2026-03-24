@@ -1,0 +1,6 @@
+Section-specific context for audio generation:
+
+Focus on: transamination reactions (ALT/GPT, AST/GOT), pyridoxal phosphate (PLP) mechanism, oxidative deamination by glutamate dehydrogenase, glutamate as amino group collector, glutamine as nitrogen shuttle.
+What changed since 1995: glutamine metabolism in cancer became major research field; glutaminase inhibitors entered clinical trials.
+Oncology bridge: elevated ALT/AST in liver metastases — clinical marker every surgeon monitors; glutamine addiction of tumors (glutamine is most consumed amino acid by many cancers); GLS1 (glutaminase) inhibitors like CB-839 (telaglenastat) in trials; glutamine feeds TCA anaplerosis, nucleotide synthesis, and redox balance in tumors.
+Key concepts to emphasize: transamination is reversible (links AA metabolism to TCA cycle), glutamate as central amino group hub, ALT/AST diagnostic significance.

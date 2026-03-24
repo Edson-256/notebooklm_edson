@@ -1,0 +1,6 @@
+Section-specific context for audio generation:
+
+Focus on: eicosanoids (prostaglandins, thromboxanes, leukotrienes from arachidonic acid), steroid hormones (estrogen, testosterone, cortisol), fat-soluble vitamins, phosphoinositide signaling.
+What changed since 1995: lipid signaling pathways vastly expanded, COX-2 specific role clarified, resolvins/protectins discovered as resolution mediators.
+Oncology bridge: COX-2 overexpression in colorectal cancer (aspirin chemoprevention), steroid hormones driving breast cancer (estrogen) and prostate cancer (androgen), vitamin D and cancer risk, PIP3/PI3K pathway as oncogenic driver.
+Key concepts to emphasize: COX-2 as inflammation-cancer link, hormone-dependent cancers, PI3K lipid signaling as targetable oncogenic pathway.

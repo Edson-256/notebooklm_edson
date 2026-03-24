@@ -1,0 +1,6 @@
+Section-specific context for audio generation:
+
+Focus on: cyclin-CDK complexes driving cell cycle phases, CDK inhibitors (p21, p27, p16), checkpoints (G1/S, G2/M, spindle assembly), p53 as guardian of the genome, Rb as G1/S gatekeeper, ubiquitin-mediated cyclin degradation.
+What changed since 1995: CDK4/6 inhibitors developed and approved (palbociclib 2015, ribociclib, abemaciclib), detailed checkpoint mechanisms elucidated, synthetic lethality concept applied to checkpoints.
+Oncology bridge: CDK4/6 inhibitors now standard in HR+ breast cancer, p53 mutated in >50% of all cancers, Rb pathway disrupted in virtually all cancers, p16 loss in many tumor types, checkpoint inhibition creating synthetic lethality (ATR/CHK1/WEE1 inhibitors in trials).
+Key concepts to emphasize: cyclin-CDK as engine of cell division, p53/Rb as brakes, CDK4/6 inhibitors as validated clinical strategy.

@@ -1,0 +1,6 @@
+Section-specific context for audio generation:
+
+Focus on: protein purification (chromatography types: ion exchange, size exclusion, affinity), electrophoresis (SDS-PAGE, 2D-PAGE), mass spectrometry principles, protein quantification.
+What changed since 1995: MASSIVE — mass spectrometry-based proteomics (MALDI-TOF, ESI-MS/MS), protein microarrays, proximity labeling (BioID, APEX), quantitative proteomics (iTRAQ, TMT, SILAC), single-cell proteomics emerging.
+Oncology bridge: biomarker discovery through proteomic profiling, companion diagnostics (HER2 IHC/FISH), mass spec in clinical pathology, liquid biopsy protein markers, tissue microarrays for tumor classification.
+Key concepts to emphasize: mass spectrometry revolutionized protein analysis since 1995, proteomics now drives biomarker discovery and personalized oncology.
