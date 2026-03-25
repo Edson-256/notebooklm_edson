@@ -27,3 +27,7 @@ __pycache__/
 *$py.class
 venv/
 .env
+
+# Dolt database files (added by bd init)
+.dolt/
+*.db
