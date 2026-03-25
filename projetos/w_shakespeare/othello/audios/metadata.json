@@ -16,7 +16,10 @@
       "focus_topic": "Othello - Ato I, Cena 1.: A Confissão Ontológica do Mal",
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/othello/audios/ws_othello_01_confissão_ontológica.mp3",
-      "tamanho_bytes": 45020223
+      "tamanho_bytes": 45020223,
+      "synced_to_icloud": true,
+      "synced_at": "2026-03-24T10:40:32.809100+00:00",
+      "listened": false
     },
     {
       "arquivo": "ws_othello_02_força_poética.mp3",
@@ -30,7 +33,10 @@
       "source_id": "40fca337-a3f3-4106-8fe7-a29737c78557",
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/othello/audios/ws_othello_02_força_poética.mp3",
-      "tamanho_bytes": 44312429
+      "tamanho_bytes": 44312429,
+      "synced_to_icloud": true,
+      "synced_at": "2026-03-24T10:40:32.809100+00:00",
+      "listened": false
     }
   ]
 }

@@ -16,7 +16,10 @@
       "focus_topic": "Much Ado About Nothing - Ato I, Cena 1.: A Máscara da Ironia e a Fuga da Realidade",
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/much_ado_about_nothing/audios/ws_much_ado_01_máscara_ironia.mp3",
-      "tamanho_bytes": 47407076
+      "tamanho_bytes": 47407076,
+      "synced_to_icloud": true,
+      "synced_at": "2026-03-24T10:40:32.809100+00:00",
+      "listened": false
     },
     {
       "arquivo": "ws_much_ado_02_ontologia_ressentimento.mp3",
@@ -30,7 +33,10 @@
       "source_id": "fe7c3ffd-e4f3-4be0-9fe0-579e8120d3be",
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/much_ado_about_nothing/audios/ws_much_ado_02_ontologia_ressentimento.mp3",
-      "tamanho_bytes": 33043028
+      "tamanho_bytes": 33043028,
+      "synced_to_icloud": true,
+      "synced_at": "2026-03-24T10:40:32.809100+00:00",
+      "listened": false
     }
   ]
 }

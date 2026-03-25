@@ -18,7 +18,10 @@
       "source_id": "cdc366df-cdf4-47bf-adfd-6484434cb2b8",
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/romeo_and_juliet/audios/ws_romeo_juliet_01_melancolia_romeu.mp3",
-      "tamanho_bytes": 32519985
+      "tamanho_bytes": 32519985,
+      "synced_to_icloud": true,
+      "synced_at": "2026-03-24T10:40:32.809100+00:00",
+      "listened": false
     }
   ]
 }

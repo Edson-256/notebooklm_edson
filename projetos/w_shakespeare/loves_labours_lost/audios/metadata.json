@@ -40,7 +40,10 @@
       "focus_topic": "Loves Labours Lost - Ato III, Cena 1.: O Choque com a Realidade e a Confissão da Mentira Existencial",
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/loves_labours_lost/audios/ws_loves_labour_03_choque_realidade.mp3",
-      "tamanho_bytes": 52201068
+      "tamanho_bytes": 52201068,
+      "synced_to_icloud": true,
+      "synced_at": "2026-03-24T10:40:32.809100+00:00",
+      "listened": false
     },
     {
       "arquivo": "ws_loves_labour_04_implosão_sistema.mp3",
@@ -54,7 +57,10 @@
       "source_id": "691aa402-913d-4cfd-9af1-c8d2d4aa81f9",
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/loves_labours_lost/audios/ws_loves_labour_04_implosão_sistema.mp3",
-      "tamanho_bytes": 45961052
+      "tamanho_bytes": 45961052,
+      "synced_to_icloud": true,
+      "synced_at": "2026-03-24T10:40:32.809100+00:00",
+      "listened": false
     }
   ]
 }

@@ -122,7 +122,10 @@
       "focus_topic": "Cymbeline - Ato V, Cena 4.: Póstumo na Prisão Aguardando a Morte",
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/cymbeline/audios/ws_cymbeline_09_póstumo_prisão.mp3",
-      "tamanho_bytes": 43616704
+      "tamanho_bytes": 43616704,
+      "synced_to_icloud": true,
+      "synced_at": "2026-03-24T10:40:32.809100+00:00",
+      "listened": false
     }
   ]
 }

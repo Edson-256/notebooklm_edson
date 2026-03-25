@@ -40,7 +40,10 @@
       "focus_topic": "King Lear - Ato II, Cena 4.: O Despojamento das Ilusões e a Essência Humana",
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/king_lear/audios/ws_king_lear_03_despojamento_ilusões.mp3",
-      "tamanho_bytes": 46975919
+      "tamanho_bytes": 46975919,
+      "synced_to_icloud": true,
+      "synced_at": "2026-03-24T10:40:32.809100+00:00",
+      "listened": false
     },
     {
       "arquivo": "ws_king_lear_04_empatia_expansão.mp3",
@@ -54,7 +57,10 @@
       "source_id": "40ab96fe-8af6-43e8-ba45-601b07c5025d",
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/king_lear/audios/ws_king_lear_04_empatia_expansão.mp3",
-      "tamanho_bytes": 51633087
+      "tamanho_bytes": 51633087,
+      "synced_to_icloud": true,
+      "synced_at": "2026-03-24T10:40:32.809100+00:00",
+      "listened": false
     }
   ]
 }

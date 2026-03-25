@@ -40,7 +40,10 @@
       "focus_topic": "History Of Henry Viii - Ato II, Cena 1.: O Discurso de Despedida de Buckingham rumo ao Patíbulo",
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/history_of_henry_viii/audios/ws_henry8_03_discurso_despedida.mp3",
-      "tamanho_bytes": 49157967
+      "tamanho_bytes": 49157967,
+      "synced_to_icloud": true,
+      "synced_at": "2026-03-24T10:40:32.809100+00:00",
+      "listened": false
     },
     {
       "arquivo": "ws_henry8_04_solidão_consciência.mp3",
@@ -54,7 +57,10 @@
       "source_id": "9e8994c3-863b-41f1-8860-117820714efc",
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/history_of_henry_viii/audios/ws_henry8_04_solidão_consciência.mp3",
-      "tamanho_bytes": 46521487
+      "tamanho_bytes": 46521487,
+      "synced_to_icloud": true,
+      "synced_at": "2026-03-24T10:40:32.809100+00:00",
+      "listened": false
     }
   ]
 }

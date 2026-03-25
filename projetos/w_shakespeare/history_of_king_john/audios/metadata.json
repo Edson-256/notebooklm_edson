@@ -40,7 +40,10 @@
       "focus_topic": "History Of King John - Ato III, Cena 3.: A Maquinação Sombria do Rei John",
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/history_of_king_john/audios/ws_king_john_03_maquinação_sombria.mp3",
-      "tamanho_bytes": 24785352
+      "tamanho_bytes": 24785352,
+      "synced_to_icloud": true,
+      "synced_at": "2026-03-24T10:40:32.809100+00:00",
+      "listened": false
     },
     {
       "arquivo": "ws_king_john_04_diálogo_inocência.mp3",
@@ -54,7 +57,10 @@
       "source_id": "fd1e7f91-d707-4ded-a6cb-3fff35135843",
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/history_of_king_john/audios/ws_king_john_04_diálogo_inocência.mp3",
-      "tamanho_bytes": 36417183
+      "tamanho_bytes": 36417183,
+      "synced_to_icloud": true,
+      "synced_at": "2026-03-24T10:40:32.809100+00:00",
+      "listened": false
     }
   ]
 }

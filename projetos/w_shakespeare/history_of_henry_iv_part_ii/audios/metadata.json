@@ -80,7 +80,10 @@
       "focus_topic": "History Of Henry Iv Part Ii - Ato IV, Cena 2.: A Ética de Resultados na Rebelião do Arcebispo",
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/history_of_henry_iv_part_ii/audios/ws_henry4_p2_06_ética_resultados.mp3",
-      "tamanho_bytes": 33604286
+      "tamanho_bytes": 33604286,
+      "synced_to_icloud": true,
+      "synced_at": "2026-03-24T10:40:32.809100+00:00",
+      "listened": false
     },
     {
       "arquivo": "ws_henry4_p2_07_medo_paterno.mp3",
@@ -94,7 +97,10 @@
       "source_id": "dacb70ae-25af-45a8-a59c-11142275614c",
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/history_of_henry_iv_part_ii/audios/ws_henry4_p2_07_medo_paterno.mp3",
-      "tamanho_bytes": 44116705
+      "tamanho_bytes": 44116705,
+      "synced_to_icloud": true,
+      "synced_at": "2026-03-24T10:40:32.809100+00:00",
+      "listened": false
     }
   ]
 }

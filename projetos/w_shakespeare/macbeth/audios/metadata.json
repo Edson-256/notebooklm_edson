@@ -16,7 +16,10 @@
       "focus_topic": "Macbeth - Ato I, Cena 1 — Uma charneca.: A Inversão dos Valores no Imaginário",
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/macbeth/audios/ws_macbeth_01_inversão_valores.mp3",
-      "tamanho_bytes": 56270201
+      "tamanho_bytes": 56270201,
+      "synced_to_icloud": true,
+      "synced_at": "2026-03-24T10:40:32.809100+00:00",
+      "listened": false
     },
     {
       "arquivo": "ws_macbeth_02_inoculação_ambição.mp3",
@@ -30,7 +33,10 @@
       "source_id": "20570f58-69c0-4193-ab9b-41321efc808a",
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/macbeth/audios/ws_macbeth_02_inoculação_ambição.mp3",
-      "tamanho_bytes": 48111018
+      "tamanho_bytes": 48111018,
+      "synced_to_icloud": true,
+      "synced_at": "2026-03-24T10:40:32.809100+00:00",
+      "listened": false
     }
   ]
 }

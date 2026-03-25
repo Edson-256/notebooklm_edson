@@ -52,7 +52,10 @@
       "focus_topic": "History Of Henry Vi Part I - Ato III, Cena 1.: A Consciência Histórica e o Terror de Exeter",
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/history_of_henry_vi_part_i/audios/ws_henry6_p1_04_consciência_histórica.mp3",
-      "tamanho_bytes": 46546887
+      "tamanho_bytes": 46546887,
+      "synced_to_icloud": true,
+      "synced_at": "2026-03-24T10:40:32.809100+00:00",
+      "listened": false
     },
     {
       "arquivo": "ws_henry6_p1_05_apelo_identidade.mp3",
@@ -66,7 +69,10 @@
       "source_id": "6af74aa5-34fb-438b-9646-e8be192b05b8",
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/history_of_henry_vi_part_i/audios/ws_henry6_p1_05_apelo_identidade.mp3",
-      "tamanho_bytes": 34017514
+      "tamanho_bytes": 34017514,
+      "synced_to_icloud": true,
+      "synced_at": "2026-03-24T10:40:32.809100+00:00",
+      "listened": false
     }
   ]
 }

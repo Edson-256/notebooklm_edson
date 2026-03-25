@@ -16,7 +16,10 @@
       "focus_topic": "Measure For Measure - Ato I, Cena 1.: A Delegação do Poder e o Teste da Personalidade",
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/measure_for_measure/audios/ws_measure_measure_01_delegação_poder.mp3",
-      "tamanho_bytes": 30053083
+      "tamanho_bytes": 30053083,
+      "synced_to_icloud": true,
+      "synced_at": "2026-03-24T10:40:32.809100+00:00",
+      "listened": false
     },
     {
       "arquivo": "ws_measure_measure_02_investigação_falsa.mp3",
@@ -30,7 +33,10 @@
       "source_id": "41567869-ebb1-4daa-b70b-300e8f33a75a",
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/measure_for_measure/audios/ws_measure_measure_02_investigação_falsa.mp3",
-      "tamanho_bytes": 30147210
+      "tamanho_bytes": 30147210,
+      "synced_to_icloud": true,
+      "synced_at": "2026-03-24T10:40:32.809100+00:00",
+      "listened": false
     }
   ]
 }

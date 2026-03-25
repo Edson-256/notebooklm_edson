@@ -94,7 +94,10 @@
       "focus_topic": "History Of Henry Iv Part I - Ato V, Cena 1.: A Desconstrução Cínica dos Valores — O Catecismo da Honra",
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/history_of_henry_iv_part_i/audios/ws_henry4_p1_07_desconstrução_cínica.mp3",
-      "tamanho_bytes": 65297675
+      "tamanho_bytes": 65297675,
+      "synced_to_icloud": true,
+      "synced_at": "2026-03-24T10:40:32.809100+00:00",
+      "listened": false
     },
     {
       "arquivo": "ws_henry4_p1_08_morte_mentira.mp3",
@@ -108,7 +111,10 @@
       "source_id": "b4709f1f-0ac7-41b8-b6bb-bce7dab38aa3",
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/history_of_henry_iv_part_i/audios/ws_henry4_p1_08_morte_mentira.mp3",
-      "tamanho_bytes": 46969195
+      "tamanho_bytes": 46969195,
+      "synced_to_icloud": true,
+      "synced_at": "2026-03-24T10:40:32.809100+00:00",
+      "listened": false
     }
   ]
 }

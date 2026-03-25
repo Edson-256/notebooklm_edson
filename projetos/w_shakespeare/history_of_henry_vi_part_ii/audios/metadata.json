@@ -52,7 +52,10 @@
       "focus_topic": "History Of Henry Vi Part Ii - Ato III, Cena 1.: A Fraqueza Culpada e a Tragédia da Omissão",
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/history_of_henry_vi_part_ii/audios/ws_henry6_p2_04_fraqueza_culpada.mp3",
-      "tamanho_bytes": 49103433
+      "tamanho_bytes": 49103433,
+      "synced_to_icloud": true,
+      "synced_at": "2026-03-24T10:40:32.809100+00:00",
+      "listened": false
     },
     {
       "arquivo": "ws_henry6_p2_05_solilóquio_maquiavelismo.mp3",
@@ -66,7 +69,10 @@
       "source_id": "bde0aee6-6a60-4832-976e-49dd5e4adb3f",
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/history_of_henry_vi_part_ii/audios/ws_henry6_p2_05_solilóquio_maquiavelismo.mp3",
-      "tamanho_bytes": 45663655
+      "tamanho_bytes": 45663655,
+      "synced_to_icloud": true,
+      "synced_at": "2026-03-24T10:40:32.809100+00:00",
+      "listened": false
     }
   ]
 }

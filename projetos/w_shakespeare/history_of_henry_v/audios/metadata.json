@@ -80,7 +80,10 @@
       "focus_topic": "History Of Henry V - Ato IV, Cena 1.: O Monólogo sobre a \"Cerimônia\"",
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/history_of_henry_v/audios/ws_henry5_06_monólogo_sobre.mp3",
-      "tamanho_bytes": 48485435
+      "tamanho_bytes": 48485435,
+      "synced_to_icloud": true,
+      "synced_at": "2026-03-24T10:40:32.809100+00:00",
+      "listened": false
     },
     {
       "arquivo": "ws_henry5_07_oração_confissão.mp3",
@@ -94,7 +97,10 @@
       "source_id": "db28eb9f-bd35-4836-86cc-590946c8d2c1",
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/history_of_henry_v/audios/ws_henry5_07_oração_confissão.mp3",
-      "tamanho_bytes": 46090330
+      "tamanho_bytes": 46090330,
+      "synced_to_icloud": true,
+      "synced_at": "2026-03-24T10:40:32.809100+00:00",
+      "listened": false
     }
   ]
 }

@@ -16,7 +16,10 @@
       "focus_topic": "Pericles - Ato I, Cena 1 (Antioquia, no Palácio).: O Enigma e o Choque com o \"Teatro das Sombras\"",
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/pericles/audios/ws_pericles_01_enigma_choque.mp3",
-      "tamanho_bytes": 50048785
+      "tamanho_bytes": 50048785,
+      "synced_to_icloud": true,
+      "synced_at": "2026-03-24T10:40:32.809100+00:00",
+      "listened": false
     },
     {
       "arquivo": "ws_pericles_02_peso_consciência.mp3",
@@ -30,7 +33,10 @@
       "source_id": "2eccf318-ab7d-480a-92af-0ce932e3391f",
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/pericles/audios/ws_pericles_02_peso_consciência.mp3",
-      "tamanho_bytes": 25242656
+      "tamanho_bytes": 25242656,
+      "synced_to_icloud": true,
+      "synced_at": "2026-03-24T10:40:32.809100+00:00",
+      "listened": false
     }
   ]
 }

@@ -52,7 +52,10 @@
       "focus_topic": "History Of Henry Vi Part Iii - Ato II, Cena 5.: A Destruição da Ordem Natural: O Pai e o Filho",
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/history_of_henry_vi_part_iii/audios/ws_henry6_p3_04_destruição_ordem.mp3",
-      "tamanho_bytes": 60509659
+      "tamanho_bytes": 60509659,
+      "synced_to_icloud": true,
+      "synced_at": "2026-03-24T10:40:32.809100+00:00",
+      "listened": false
     },
     {
       "arquivo": "ws_henry6_p3_05_agonia_realismo.mp3",
@@ -66,7 +69,10 @@
       "source_id": "d8b8c2bd-806f-4f7e-9baa-f46f6cb5280f",
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/history_of_henry_vi_part_iii/audios/ws_henry6_p3_05_agonia_realismo.mp3",
-      "tamanho_bytes": 57050341
+      "tamanho_bytes": 57050341,
+      "synced_to_icloud": true,
+      "synced_at": "2026-03-24T10:40:32.809100+00:00",
+      "listened": false
     }
   ]
 }

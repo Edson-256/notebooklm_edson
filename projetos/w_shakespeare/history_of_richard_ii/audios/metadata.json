@@ -40,7 +40,10 @@
       "focus_topic": "History Of Richard Ii - Ato III, Cena 2.: A Desintegração Psicológica de Ricardo na Costa de Gales",
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/history_of_richard_ii/audios/ws_richard2_03_desintegração_psicológica.mp3",
-      "tamanho_bytes": 44893857
+      "tamanho_bytes": 44893857,
+      "synced_to_icloud": true,
+      "synced_at": "2026-03-24T10:40:32.809100+00:00",
+      "listened": false
     },
     {
       "arquivo": "ws_richard2_04_coragem_moral.mp3",
@@ -54,7 +57,10 @@
       "source_id": "509fd4ef-c06a-406c-959d-510e5f3c8e7a",
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/history_of_richard_ii/audios/ws_richard2_04_coragem_moral.mp3",
-      "tamanho_bytes": 37596358
+      "tamanho_bytes": 37596358,
+      "synced_to_icloud": true,
+      "synced_at": "2026-03-24T10:40:32.809100+00:00",
+      "listened": false
     }
   ]
 }

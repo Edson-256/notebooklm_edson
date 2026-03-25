@@ -42,7 +42,10 @@
       "source_id": "06f628ac-15d8-40c7-ab1b-a62354eacb3e",
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/history_of_richard_iii/audios/ws_richard3_03_voz_consciência.mp3",
-      "tamanho_bytes": 37351329
+      "tamanho_bytes": 37351329,
+      "synced_to_icloud": true,
+      "synced_at": "2026-03-24T10:40:32.809100+00:00",
+      "listened": false
     }
   ]
 }
