@@ -1,6 +1,0 @@
-Section-specific context for audio generation:
-
-Focus on: four levels of protein structure (primary through quaternary), Ramachandran plot and allowed conformations, fibrous vs globular proteins, relationship between structure and function.
-What changed since 1995: structural genomics initiatives, Protein Data Bank growth (from ~4,000 structures in 1995 to >200,000 today), AlphaFold predicted structures for entire proteomes.
-Oncology bridge: structure-based drug design is foundation of targeted therapy, understanding protein structure explains why specific mutations are oncogenic, structural insights guide development of kinase inhibitors (imatinib designed from BCR-ABL structure).
-Key concepts to emphasize: structure-function relationship is central to drug design, Ramachandran plot constrains possible protein folds.

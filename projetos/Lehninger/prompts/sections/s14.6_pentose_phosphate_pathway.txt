@@ -1,6 +1,0 @@
-Section-specific context for audio generation:
-
-Focus on: oxidative phase (G6PD, 6-phosphogluconate dehydrogenase — producing NADPH and ribulose-5-P), non-oxidative phase (transketolase, transaldolase — interconverting sugars), ribose-5-phosphate for nucleotide synthesis.
-What changed since 1995: PPP role in cancer redox homeostasis recognized — tumors upregulate PPP for NADPH production and nucleotide biosynthesis. G6PD as metabolic oncogene concept.
-Oncology bridge: G6PD overexpression in cancer provides NADPH for both antioxidant defense (glutathione reduction) and fatty acid synthesis, ribose-5-phosphate fueling nucleotide synthesis for rapid DNA replication, transketolase-like 1 (TKTL1) overexpressed in aggressive tumors, PPP inhibition as strategy to sensitize tumors to oxidative stress therapies.
-Key concepts to emphasize: dual PPP output (NADPH + ribose) both critical for cancer cells, PPP as intersection of redox defense and biosynthesis, G6PD as potential cancer vulnerability.

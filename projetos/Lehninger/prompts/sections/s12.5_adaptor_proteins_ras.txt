@@ -1,6 +1,0 @@
-Section-specific context for audio generation:
-
-Focus on: SH2/SH3 domains, GRB2 adaptor, SOS as GEF, Ras GTPase cycle, Raf-MEK-ERK (MAPK) cascade, PI3K-Akt-mTOR pathway.
-What changed since 1995: RAS was considered "undruggable" for 30 years — sotorasib (2021) and adagrasib (2022) finally target KRAS G12C mutation directly. BRAF inhibitors (vemurafenib), MEK inhibitors (trametinib), mTOR inhibitors (everolimus) all approved.
-Oncology bridge: RAS mutations in ~30% of all cancers (KRAS in pancreatic 90%, colorectal 40%, lung 30%), BRAF V600E in melanoma/colorectal, PI3K mutations in breast cancer, entire MAPK and PI3K pathways as drug target cascades.
-Key concepts to emphasize: Ras as molecular switch (GTP=on, GDP=off), why oncogenic mutations lock Ras in ON state, dual pathway output (MAPK for proliferation, PI3K for survival).

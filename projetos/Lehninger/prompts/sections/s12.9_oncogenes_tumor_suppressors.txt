@@ -1,6 +1,0 @@
-Section-specific context for audio generation:
-
-Focus on: proto-oncogenes vs oncogenes (gain-of-function), tumor suppressors (loss-of-function, two-hit hypothesis), apoptosis pathways (intrinsic/extrinsic, Bcl-2 family, caspases), Wnt/beta-catenin, Hedgehog, Notch signaling pathways.
-What changed since 1995: Hallmarks of Cancer framework (Hanahan & Weinberg 2000, updated 2011/2022), venetoclax (BCL2 inhibitor) approved for CLL/AML, immunotherapy as new hallmark, epigenetic reprogramming recognized.
-Oncology bridge: THE most directly relevant section — entire molecular oncology framework. Oncogene addiction concept, synthetic lethality (BRCA/PARP), venetoclax targeting BCL2, Wnt pathway in colorectal cancer (APC mutations), Hedgehog in basal cell carcinoma (vismodegib), Notch in T-ALL.
-Key concepts to emphasize: gain-of-function vs loss-of-function mutations, hallmarks of cancer as organizing framework, apoptosis evasion as therapeutic target (venetoclax proof of concept).

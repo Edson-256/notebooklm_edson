@@ -1,6 +1,0 @@
-Section-specific context for audio generation:
-
-Focus on: codon table and redundancy, wobble base pairing, start/stop codons, near-universal code with exceptions (mitochondria, some organisms), reading frame importance.
-What changed since 1995: expanded genetic code (unnatural amino acid incorporation via engineered tRNA/aminoacyl-tRNA synthetase), codon usage bias affects translation efficiency and protein folding.
-Oncology bridge: nonsense mutations creating truncated tumor suppressors (p53, APC, BRCA1), stop codon readthrough drugs in trials (ataluren concept), frameshift mutations generating neoantigens for immunotherapy, codon optimization in mRNA cancer vaccines.
-Key concepts to emphasize: nonsense mutations in tumor suppressors, reading frame disruption as cancer mechanism.

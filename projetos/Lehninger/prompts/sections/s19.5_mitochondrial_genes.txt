@@ -1,6 +1,0 @@
-Section-specific context for audio generation:
-
-Focus on: mtDNA structure (circular, 16.5 kb, 37 genes), maternal inheritance, mitochondrial genetic code differences, mitochondrial diseases (MELAS, MERRF, Leber), heteroplasmy and threshold effect.
-What changed since 1995: mtDNA mutations cataloged across cancer types, heteroplasmy dynamics in tumors studied, mitochondrial transfer between cells discovered (tunneling nanotubes), mitochondrial genome editing tools emerging.
-Oncology bridge: mtDNA mutations found in most tumor types — often in complex I genes (ND1-6); mtDNA copy number alterations as tumor biomarkers; horizontal mitochondrial transfer from stromal cells to cancer cells restores OXPHOS capacity and promotes metastasis; liquid biopsy potential of circulating tumor mtDNA.
-Key concepts to emphasize: maternal inheritance pattern, heteroplasmy concept, mtDNA vulnerability (no histones, limited repair, ROS exposure).

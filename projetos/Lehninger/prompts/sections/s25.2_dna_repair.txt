@@ -1,6 +1,0 @@
-Section-specific context for audio generation:
-
-Focus on: mismatch repair (MLH1, MSH2), base excision repair (glycosylases, APE1), nucleotide excision repair (XP genes, UV damage), homologous recombination (BRCA1/2, RAD51), NHEJ (Ku70/80, DNA-PKcs), Fanconi anemia pathway.
-What changed since 1995: REVOLUTION — synthetic lethality concept applied clinically, PARP inhibitors (olaparib FDA-approved 2014), DNA damage response as druggable network, HRD score developed.
-Oncology bridge: CRITICAL — BRCA1/2 mutations + PARP inhibitors = synthetic lethality paradigm (ovarian, breast, prostate, pancreatic); mismatch repair deficiency (Lynch syndrome) predicts immunotherapy response (pembrolizumab); NER defects predict platinum sensitivity; DNA repair pathway = most impactful cancer drug target class since 1995.
-Key concepts to emphasize: synthetic lethality concept, each repair pathway's clinical drug connection.

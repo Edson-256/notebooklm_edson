@@ -1,6 +1,0 @@
-Section-specific context for audio generation:
-
-Focus on: homologous recombination mechanism (strand invasion, Holliday junction, resolution), site-specific recombination (integrases, Cre-lox), transposition mechanisms (cut-and-paste, replicative).
-What changed since 1995: HR deficiency (HRD) score developed as clinical biomarker, CRISPR discovery expanded understanding of bacterial adaptive immunity via recombination.
-Oncology bridge: HR deficiency score predicts PARP inhibitor response beyond BRCA mutations, V(D)J recombination errors in lymphoid malignancies (translocations activating BCL2, MYC), chromosomal translocations as oncogenic drivers (BCR-ABL, EWS-FLI1).
-Key concepts to emphasize: HR deficiency as a measurable cancer phenotype, recombination errors generating oncogenic translocations.

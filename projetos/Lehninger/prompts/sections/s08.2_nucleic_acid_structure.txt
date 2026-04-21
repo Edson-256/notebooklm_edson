@@ -1,6 +1,0 @@
-Section-specific context for audio generation:
-
-Focus on: Watson-Crick base pairing, A-form vs B-form vs Z-form DNA, RNA secondary structures (hairpins, pseudoknots), G-quadruplex structures.
-What changed since 1995: non-coding RNA explosion (miRNA, lncRNA, circRNA discovered as functional), G-quadruplex biology emerged as regulatory mechanism.
-Oncology bridge: telomeric G-quadruplexes as drug targets (stabilizing G4 blocks telomerase), non-coding RNAs as oncogenes/tumor suppressors (miR-21, HOTAIR).
-Key concepts to emphasize: structure determines function, G-quadruplex stabilization as therapeutic strategy, RNA structural diversity beyond mRNA.

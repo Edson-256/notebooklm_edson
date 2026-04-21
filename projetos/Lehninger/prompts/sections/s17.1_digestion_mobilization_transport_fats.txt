@@ -1,6 +1,0 @@
-Section-specific context for audio generation:
-
-Focus on: dietary lipid digestion (lipases, bile salts, micelles), adipose tissue lipolysis (hormone-sensitive lipase), fatty acid transport (albumin, lipoproteins), carnitine shuttle (CPT1/CPT2) for mitochondrial import.
-What changed since 1995: adipose tissue recognized as endocrine organ, lipoprotein metabolism linked to cancer risk.
-Oncology bridge: cancer-associated cachexia driven by excessive lipolysis (IL-6, TNF-alpha activate HSL); CPT1 is emerging cancer target — cancer cells upregulate CPT1 for fatty acid oxidation fuel; lipid transport alterations in tumor microenvironment.
-Key concepts to emphasize: carnitine shuttle as rate-limiting for fat oxidation, malonyl-CoA inhibition of CPT1 links synthesis to oxidation, hormonal control of lipolysis.

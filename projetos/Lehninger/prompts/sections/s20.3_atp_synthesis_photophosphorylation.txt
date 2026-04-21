@@ -1,6 +1,0 @@
-Section-specific context for audio generation:
-
-Focus on: CF0-CF1 ATP synthase complex (chloroplast analog of mitochondrial F0F1), proton gradient across thylakoid membrane, noncyclic vs cyclic photophosphorylation, ATP/NADPH stoichiometry for Calvin cycle.
-What changed since 1995: chloroplast ATP synthase structure determined, regulatory mechanisms (thioredoxin-mediated) clarified.
-Oncology bridge: CF0-CF1 is structurally homologous to mitochondrial ATP synthase — understanding this shared mechanism reinforces comprehension of oxidative phosphorylation targeting in cancer; conceptual parallel helps appreciate chemiosmotic universality.
-Key concepts to emphasize: chemiosmotic mechanism is universal (mitochondria, chloroplasts, bacteria), cyclic photophosphorylation produces only ATP, proton gradient direction differs (thylakoid lumen is acidic).

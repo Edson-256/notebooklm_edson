@@ -1,6 +1,0 @@
-Section-specific context for audio generation:
-
-Focus on: serine protease mechanism (chymotrypsin catalytic triad), restriction endonucleases, lysozyme, NMP kinases, protease classes (serine, cysteine, aspartyl, metalloproteinases).
-What changed since 1995: expanded protease degradome mapping, CRISPR as programmable restriction enzyme analog, protease-activated prodrugs, activity-based protein profiling of enzyme families.
-Oncology bridge: matrix metalloproteinases (MMPs) in tumor invasion, basement membrane degradation, and metastasis — MMP inhibitor trials failed but taught important lessons, caspases in apoptosis (defective in cancer), cathepsins in tumor microenvironment, protease-activated antibody-drug conjugates.
-Key concepts to emphasize: catalytic triad as elegant mechanism for nucleophilic catalysis, MMPs illustrate how proteases facilitate the invasion-metastasis cascade.

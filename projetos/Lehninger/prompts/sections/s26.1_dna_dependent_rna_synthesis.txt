@@ -1,6 +1,0 @@
-Section-specific context for audio generation:
-
-Focus on: RNA polymerase I/II/III specificity, transcription initiation (promoters, TFIID, Mediator complex), elongation (RNA Pol II pausing, CTD phosphorylation), termination mechanisms.
-What changed since 1995: RNA Pol II pausing as gene regulation mechanism, Mediator complex structure solved, CDK7 and CDK9 roles in transcription cycle clarified.
-Oncology bridge: transcription factor fusion oncogenes (EWS-FLI1 in Ewing sarcoma, PML-RARα in APL), CDK7/CDK9 inhibitors targeting transcription elongation in MYC-addicted cancers, super-enhancer-driven transcription as cancer vulnerability, RNA Pol I inhibitors for ribosome-addicted tumors.
-Key concepts to emphasize: transcription machinery as drug target, oncogenic transcription factors hijack normal transcription.

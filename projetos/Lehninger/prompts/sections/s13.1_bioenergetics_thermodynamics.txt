@@ -1,6 +1,0 @@
-Section-specific context for audio generation:
-
-Focus on: Gibbs free energy (delta-G), entropy and enthalpy in biological systems, coupled reactions, standard free energy vs actual free energy in cells.
-What changed since 1995: bioenergetic reprogramming recognized as cancer hallmark (Hanahan & Weinberg 2011 update), metabolic flux analysis techniques developed.
-Oncology bridge: bioenergetic reprogramming is a defining cancer hallmark — tumors rewire thermodynamic priorities favoring biosynthesis over efficiency, understanding delta-G explains why metabolic inhibitors work.
-Key concepts to emphasize: coupled reactions as basis of biological energy transfer, actual cellular conditions differ from standard state, thermodynamic favorability determining metabolic flow direction.

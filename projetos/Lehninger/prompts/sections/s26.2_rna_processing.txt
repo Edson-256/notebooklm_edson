@@ -1,6 +1,0 @@
-Section-specific context for audio generation:
-
-Focus on: 5' capping (7-methylguanosine), 3' polyadenylation (CPSF, poly-A polymerase), splicing mechanism (spliceosome, snRNPs, branch point), alternative splicing generating proteome diversity.
-What changed since 1995: REVOLUTION — alternative splicing in cancer recognized as driver mechanism, splicing factor mutations (SF3B1, U2AF1, SRSF2) found in MDS and CLL, spliceosome structure solved by cryo-EM.
-Oncology bridge: splicing factor mutations drive hematologic malignancies, splicing modulators in clinical trials (H3B-8800), aberrant splicing creates cancer-specific neo-antigens, cancer-specific splice variants as therapeutic targets (e.g., AR-V7 in prostate cancer predicting drug resistance).
-Key concepts to emphasize: spliceosome as drug target (new since 1995), alternative splicing creating cancer-specific protein variants.

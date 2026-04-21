@@ -1,6 +1,0 @@
-Section-specific context for audio generation:
-
-Focus on: biological buffer systems (bicarbonate, phosphate, protein buffers), blood pH regulation, buffer capacity and effective buffering range (pKa +/- 1).
-What changed since 1995: better understanding of intracellular buffering, proton transporters (MCTs, NHE1) in pH regulation, acid-base physiology in critical care.
-Oncology bridge: tumor lactic acidosis from aerobic glycolysis (Warburg effect), cancer cells upregulate proton exporters (MCT4, NHE1) to maintain intracellular pH, metabolic acidosis in tumor lysis syndrome, bicarbonate therapy trials in cancer patients.
-Key concepts to emphasize: bicarbonate buffer system is open (CO2 exhaled), cancer cells actively manage pH gradient to survive in acidic microenvironment.

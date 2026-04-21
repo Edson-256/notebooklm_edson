@@ -1,6 +1,0 @@
-Section-specific context for audio generation:
-
-Focus on: gene cloning fundamentals, PCR amplification, restriction enzymes, CRISPR-Cas9 gene editing, base editing and prime editing.
-What changed since 1995: MASSIVE transformation — CRISPR-Cas9 (Doudna/Charpentier 2012, Nobel 2020), base editing (2016), prime editing (2019), gene drives. PCR itself was new-ish in 1995.
-Oncology bridge: CRISPR screens identifying synthetic lethal drug targets, CAR-T cell engineering via gene editing, CRISPR-based diagnostics (DETECTR/SHERLOCK) for cancer mutations.
-Key concepts to emphasize: CRISPR as programmable molecular scissors, functional genomics screens revolutionizing target discovery, gene therapy transitioning from theory to FDA-approved treatments.

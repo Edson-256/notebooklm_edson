@@ -1,6 +1,0 @@
-Section-specific context for audio generation:
-
-Focus on: active site complementarity, transition state stabilization, catalytic mechanisms (acid-base catalysis, covalent catalysis, metal ion catalysis), induced fit model, enzyme-substrate complementarity.
-What changed since 1995: computational enzymology (QM/MM simulations), single-molecule enzyme studies revealing stochastic behavior, designed enzymes using computational methods, deeper understanding of catalytic antibodies.
-Oncology bridge: mechanism-based drug design — transition-state analogs as potent inhibitors, understanding catalytic mechanism guides inhibitor design (e.g., protease inhibitors), covalent inhibitors making a comeback (osimertinib covalently binds EGFR T790M, sotorasib covalently binds KRAS G12C).
-Key concepts to emphasize: transition state stabilization is the key to enzyme catalysis, covalent inhibitors are a resurgent drug design strategy in oncology.

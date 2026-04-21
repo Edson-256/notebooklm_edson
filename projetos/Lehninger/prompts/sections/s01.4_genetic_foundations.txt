@@ -1,6 +1,0 @@
-Section-specific context for audio generation:
-
-Focus on: central dogma of molecular biology, gene structure and expression, mutation types and consequences, DNA replication fidelity.
-What changed since 1995: MASSIVE — Human Genome Project completed (2003), epigenetics revolution (DNA methylation, histone modifications), non-coding RNA discovery (miRNA, lncRNA), CRISPR-Cas9 gene editing (2012), single-cell genomics, liquid biopsy technology.
-Oncology bridge: driver vs passenger mutations, genomic profiling (FoundationOne, MSK-IMPACT), liquid biopsy for ctDNA monitoring, epigenetic therapies (azacitidine, decitabine), CRISPR in CAR-T manufacturing.
-Key concepts to emphasize: genome is far more complex than the 1995 view, epigenetics adds heritable information beyond DNA sequence, genomic profiling now guides cancer treatment decisions.

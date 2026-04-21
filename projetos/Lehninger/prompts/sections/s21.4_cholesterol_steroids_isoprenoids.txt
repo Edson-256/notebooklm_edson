@@ -1,6 +1,0 @@
-Section-specific context for audio generation:
-
-Focus on: mevalonate pathway (HMG-CoA reductase as rate-limiting enzyme), cholesterol biosynthesis from isopentenyl pyrophosphate, statin mechanism (HMG-CoA reductase inhibitors), steroid hormone synthesis (pregnenolone → cortisol/testosterone/estradiol), isoprenoid products (dolichol, ubiquinone, prenyl groups for protein modification).
-What changed since 1995: statins and cancer — large epidemiological studies showed reduced cancer incidence/mortality; prenylation of oncogenic Ras GTPases identified as critical for function; farnesyltransferase inhibitors developed.
-Oncology bridge: CRITICAL — mevalonate pathway in cancer: prenylation of Ras (farnesylation) and Rho GTPases (geranylgeranylation) essential for oncogenic signaling; statins' potential anticancer effect through depleting prenyl groups; steroid hormones drive hormone-dependent cancers (breast, prostate, endometrial) — aromatase inhibitors, anti-androgens, tamoxifen all target steroid pathway; mevalonate pathway also provides ubiquinone for OXPHOS.
-Key concepts to emphasize: HMG-CoA reductase as master control point, protein prenylation (Ras must be farnesylated to function!), statins block entire isoprenoid branch.

@@ -1,6 +1,0 @@
-Section-specific context for audio generation:
-
-Focus on: chlorophyll a/b structure, carotenoid accessory pigments, antenna complexes (light-harvesting complexes), energy transfer (resonance/Forster transfer), absorption spectra.
-What changed since 1995: structural biology of light-harvesting complexes solved, quantum coherence in energy transfer debated.
-Oncology bridge: photodynamic therapy (PDT) uses identical light-absorption principles — photosensitizers (porphyrin derivatives) absorb light, generate singlet oxygen, destroy tumor cells; PDT used in esophageal, lung, skin cancers; understanding chromophore physics helps grasp PDT mechanism.
-Key concepts to emphasize: conjugated double bond systems absorb visible light, energy funneling to reaction centers, absorption spectrum determines effective wavelengths.

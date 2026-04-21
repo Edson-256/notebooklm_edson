@@ -1,6 +1,0 @@
-Section-specific context for audio generation:
-
-Focus on: ATP structure and hydrolysis thermodynamics, phosphorylation potential, phosphoenolpyruvate and other high-energy phosphate compounds, creatine phosphate, phosphoryl group transfer enzymes (kinases).
-What changed since 1995: kinase biology exploded — human kinome mapped (518 kinases), ATP-competitive inhibitor design became major pharmaceutical strategy.
-Oncology bridge: ALL kinase inhibitors (imatinib, erlotinib, crizotinib, etc.) work by competing with ATP at the kinase active site — understanding ATP binding is understanding how these drugs work. Kinase inhibitors are the largest class of targeted cancer drugs.
-Key concepts to emphasize: ATP as universal phosphoryl donor, kinase active site as drug target, competitive inhibition at ATP-binding pocket as therapeutic strategy.

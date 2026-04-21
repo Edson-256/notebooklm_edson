@@ -1,6 +1,0 @@
-Section-specific context for audio generation:
-
-Focus on: photorespiration as wasteful oxygenase reaction of RuBisCO, C4 pathway (spatial separation of CO2 fixation, bundle sheath cells), CAM pathway (temporal separation, night CO2 fixation).
-What changed since 1995: C4 rice engineering projects launched, evolutionary origins of C4/CAM pathways clarified through genomics.
-Oncology bridge: no direct clinical relevance to cancer — brief overview for metabolic completeness; plant adaptations illustrate metabolic compartmentation principles relevant to understanding tissue-specific metabolism in tumors.
-Key concepts to emphasize: photorespiration reduces photosynthetic efficiency, C4 plants concentrate CO2 spatially, CAM plants fix CO2 temporally — different solutions to same problem.
