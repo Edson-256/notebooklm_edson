@@ -1,6 +1,6 @@
 # Quo Vadis — Cenas Identificadas para Áudio Educacional
 
-> **Notebook:** *(a criar — projeto pessoal, perfil `nlm default`)*
+> **Notebook:** `c7f86c97-bf9b-4087-bcc2-2945fb18ee93` (conta pessoal, perfil `nlm default`)
 > **Metodologia:** Seminário de Filosofia (COF) — Olavo de Carvalho
 > **Fonte:** "Quo Vadis", Henryk Sienkiewicz, trad. Lemos de Nápoles (1866-1932), Centaur Editions 2014
 > **Estrutura:** 3 partes (22 + 19 + 33 capítulos) + Epílogo = 75 unidades
