@@ -21,6 +21,9 @@ docs/notebooklm/install_log.md
 *.m4a
 *.wav
 
+# Saída bruta de conversão de epub (regenerável via ebook-convert)
+projetos/*/_raw/
+
 # Python
 __pycache__/
 *.py[cod]
