@@ -42,11 +42,11 @@ Cai a tarde. No jardim continua a haver luz, porque o incêndio cresce. A cidade
 
 Este é o ponto mais difícil do episódio. Peça ao ouvinte para **parar** e, sem asco moral preventivo, tentar habitar a alma de Chilon por alguns minutos.
 
-Chilon é o contrário exato de todos os outros personagens que importam no romance. Ele é **servil** — bajula com entusiasmo quem pode feri-lo ou pagá-lo. É **calculista** — mede cada frase pelo retorno possível. É **desrespeitador de si mesmo** — não tem linha que não atravesse por um ganho pequeno. É **cínico** — usa todas as religiões conforme o freguês. E é, ao mesmo tempo, **visceralmente inteligente** — tem instinto quase animal para descobrir o que cada um teme e o que cada um deseja.
+Chilon é o contrário exato dos personagens que importam no romance. É **servil** — bajula com entusiasmo quem pode feri-lo ou pagá-lo. É **calculista** — mede cada frase pelo retorno possível. É **cínico** — usa todas as religiões conforme o freguês. E é, ao mesmo tempo, **visceralmente inteligente** — tem instinto quase animal para descobrir o que cada um teme e deseja.
 
-O romance **não o transforma em caricatura**. Sienkiewicz recusa a tentação. Chilon aparece com humor real, com frases que divertem, com reflexões que, vez por outra, tocam verdade. É justamente porque ele é **vivo** que é perigoso. Se fosse apenas horrível, qualquer um identificaria. Não é: é **inteligente, útil, às vezes simpático**. E é traidor cada vez que o preço bate.
+O romance **não o transforma em caricatura**. Chilon aparece com humor real, frases que divertem, reflexões que vez por outra tocam verdade. É justamente porque ele é **vivo** que é perigoso. Se fosse apenas horrível, qualquer um identificaria. Não é: é inteligente, útil, às vezes simpático. E traidor cada vez que o preço bate.
 
-A cena nos pede para reconhecer esse tipo humano. Não em abstrato. Na pessoa concreta, divertida, servil, com piadas prontas, que aparece sempre na hora certa. Sienkiewicz sabe, e nos ensina, que toda época tem seus Chilons — e que eles são tão importantes para a história quanto os Pedro ou os Vinícius.
+A cena pede que reconheçamos esse tipo humano — não em abstrato, mas na pessoa concreta, divertida, servil, com piadas prontas, que aparece sempre na hora certa. Toda época tem seus Chilons.
 
 ### Duas frases coladas: informação e piada obscena
 
@@ -64,33 +64,32 @@ Diga ao ouvinte: isso é a **Sinceridade Existencial** funcionando no nível do 
 
 ### Analogias modernas para habitar o tipo
 
-- O **informante profissional** que roda em qualquer corte política — troca informação por acesso, cobre os dois lados, usa a linguagem do que estiver pagando. Em documentários, aparece no fundo das fotos, sempre sorrindo.
-- O **fixer** em zonas de guerra — indispensável porque conhece todo mundo, mas que vende a reportagem para qualquer agência que pague mais. Honesto às vezes, mentiroso às vezes, **sempre útil**.
-- O **colega** que, numa empresa em crise, **traz notícias** úteis, alivia, diverte, e ao mesmo tempo reporta cada movimento para o chefe ou para o concorrente. O charme é ferramenta.
-- O **secretário de reunião** que, em regime autoritário moderno, sobrevive décadas trocando de lado, elogiando quem sobe, ironizando com finura quem cai. Não é exatamente sujeito mau. É sujeito **plastico**, e sobrevivência é seu único princípio.
+- O **informante profissional** que roda em qualquer corte política — troca informação por acesso, cobre os dois lados, fala a língua de quem estiver pagando.
+- O **fixer** em zona de guerra — indispensável porque conhece todo mundo, mas que vende a reportagem para qualquer agência que pague mais.
+- O **colega** que, numa empresa em crise, traz notícias úteis, alivia, diverte, e ao mesmo tempo reporta cada movimento para o chefe ou o concorrente. O charme é ferramenta.
+- O **secretário de gabinete** que, em regime autoritário, sobrevive décadas trocando de lado, elogiando quem sobe, ironizando com finura quem cai. Não é sujeito mau. É sujeito **plástico** — sobrevivência é seu único princípio.
 
-**MAS** marque a diferença: Chilon acaba de participar de algo que vai custar muitas vidas — o romance fará disso um dos pontos mais duros do enredo. Suas piadinhas oleosas nesta cena são, formativamente, mais do que piadinhas: são a **voz** do tipo humano que, em todas as catástrofes históricas, aparece entregando informações por migalhas e chamando os mortos pelos apelidos errados.
+**MAS** marque a diferença: Chilon acaba de participar de algo que vai custar muitas vidas. Suas piadinhas oleosas nesta cena são, formativamente, mais do que piadinhas: são a **voz** do tipo humano que, em toda catástrofe histórica, aparece entregando informação por migalhas e chamando os mortos pelos apelidos errados.
 
 ### Termos que merecem tradução
 
-"Cresus" (Creso): rei lendário de sabida riqueza. Chilon, chamando Vinícius de "rico como Cresus" quando a casa do tribuno está queimando, mistura bajulação e escárnio numa única palavra.
+"Cresus" (Creso): rei lendário de sabida riqueza. Chilon, chamando Vinícius de "rico como Cresus" quando a casa do tribuno queima, mistura bajulação e escárnio numa palavra só.
 
-"Filha de Júpiter", "filho de Serápis", "divino Osíris": Chilon troca deuses como um comerciante troca produtos. Ele não se compromete com panteão algum. Fala a língua do cliente.
+"Filha de Júpiter", "filho de Serápis", "divino Osíris": Chilon troca deuses como comerciante troca produtos. Não se compromete com panteão algum. Fala a língua do cliente.
 
-"Ostrianum": lugar fora da cidade, perto da via Nomentana, onde os cristãos se reuniam para orações e batismos. Volta a aparecer algumas vezes no romance.
+"Ostrianum": lugar fora da cidade, perto da via Nomentana, onde os cristãos se reuniam para orações e batismos.
 
 ### A viagem imaginativa
 
 Peça ao ouvinte que feche os olhos e entre na cena:
 
-- O **jardim** do campo Codetão ao fim da tarde. O chão seco. Algum olmo velho. Uma tenda improvisada. Vinícius sentado, envolto em lenços molhados, ainda fraco.
-- Os **cristãos** demolidores ao redor, agora descansando um pouco. Comendo pão duro. Ainda sujos de fuligem.
-- A **entrada** de Chilon no quadro. Roupa puída, ar servil, olhos vivos. O sorriso torto quando reconhece o tribuno.
-- A **voz** untuosa saindo: *Salvé, rei dos Persas*. O sotaque grego. A cadência de quem ensaiou mil vezes cada saudação pomposa.
-- O **gesto** de Vinícius se erguendo, surpreso. O pensamento instantâneo: *este homem aqui também?*
-- O **relato** de Chilon sobre Lígia, Linus, Pedro no Ostrianum — **a única notícia real** que Vinícius recebe desde que entrou em Roma. Fumaça, incêndio, e esta notícia valendo ouro.
-- Ao fundo, o **céu** avermelhado. A cidade continuando a arder. Nenhum pôr do sol poderia produzir aquela luz. São as chamas.
-- A **dissonância**: piadas oleosas ditas no meio da catástrofe. Chilon rindo. Vinícius quase sem forças para reagir.
+- O **jardim** do campo Codetão ao fim da tarde. Chão seco, uma tenda improvisada. Vinícius sentado, envolto em lenços molhados, ainda fraco.
+- Os **cristãos** demolidores ao redor, descansando um pouco. Pão duro, mãos pretas de fuligem.
+- A **entrada** de Chilon: roupa puída, ar servil, olhos vivos. O sorriso torto quando reconhece o tribuno.
+- A **voz** untuosa saindo com sotaque grego: *Salvé, rei dos Persas* — cadência de quem ensaiou mil vezes cada saudação pomposa.
+- O **relato** sobre Lígia, Linus, Pedro no Ostrianum — **a única notícia real** que Vinícius recebeu desde que entrou em Roma. Notícia valendo ouro, ditada entre piadas oleosas.
+- Ao fundo, o **céu** avermelhado. Nenhum pôr do sol produziria aquela luz. São as chamas.
+- A **dissonância**: Chilon rindo, Vinícius quase sem forças para reagir.
 
 ### Anti-padrões
 

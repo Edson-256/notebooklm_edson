@@ -34,13 +34,11 @@ E Sienkiewicz fecha a cena com a frase que encerra o Capítulo 10: "Na casa vest
 
 ### Habitando o desmoronamento de Vinícius
 
-Peça ao ouvinte que entre por um segundo na cabeça do tribuno neste momento. Passou o dia inteiro esperando — contando minutos, andando pelo átrio, repetindo "já estão a virar para as Carinas", reorganizando mentalmente o jantar. A casa está enfeitada, a mesa posta, o vinho abrindo, os lampadários acesos. Chega um grupo de escravos com sangue, e em vez da moça vem um cadáver e a notícia do sequestro.
+Peça ao ouvinte que entre por um segundo na cabeça do tribuno. Passou o dia inteiro esperando, andando pelo átrio, reorganizando mentalmente o jantar. A casa está enfeitada, a mesa posta, o vinho abrindo. Chega um grupo de escravos com sangue, e em vez da moça vem um cadáver e a notícia do sequestro.
 
-A hipótese racional do que aconteceu ele ainda não tem. Pode ter sido César pessoalmente ("pesca de pérolas"), pode ter sido um rival, pode ter sido Aulus Plautius. Pode ter sido até traição de Petrônio (de novo). A única coisa certa é: **Lígia se foi**. E o tribuno, cuja paixão já virou fúria semanas atrás, desmorona.
+A hipótese racional ele ainda não tem. Pode ter sido César ("pesca de pérolas"), um rival, Aulus Plautius, até traição de Petrônio de novo. A única coisa certa: **Lígia se foi**. E o tribuno, cuja paixão já virou fúria semanas atrás, desmorona.
 
-O desmoronamento vem em três tempos: **matar um escravo** (descarga impulsiva); **arrancar os próprios cabelos e escumar de raiva** (crise corporal); **ordenar o chicote geral** (transferência organizada da dor para os corpos disponíveis).
-
-Este é um retrato clínico da fúria patrícia descontrolada. E é, no romance, o ponto mais baixo de Vinícius. Sienkiewicz está nos deixando ver o abismo completo antes da virada que virá.
+O desmoronamento vem em três tempos: **matar um escravo** (descarga impulsiva); **arrancar os próprios cabelos e escumar** (crise corporal); **ordenar o chicote geral** (transferência organizada da dor para os corpos disponíveis). Este é o ponto mais baixo de Vinícius no romance — Sienkiewicz está nos deixando ver o abismo completo antes da virada que virá.
 
 ### A cena-imagem: o candelabro de bronze esmagando a cabeça de Gulon
 
@@ -52,40 +50,34 @@ Isto é uma das críticas mais impiedosas da escravidão que o romance consegue 
 
 ### A retirada elegante de Petrônio
 
-Preste atenção no contraste com o tio. Petrônio, vendo a crise do sobrinho, **sai com nojo**. Não tenta conter Vinícius. Não tem pena de Gulon. Só diz a Crisótemis: "Se queres ver carne, mandarei tomar de assalto a casa de um magarefe." Traduzindo: "se você gosta de ver sangue, eu te levo num açougue, aqui está muito vulgar".
+Preste atenção no contraste com o tio. Petrônio, vendo a crise, **sai com nojo**. Não tenta conter Vinícius. Não tem pena de Gulon. Só diz a Crisótemis: "Se queres ver carne, mandarei tomar de assalto a casa de um magarefe." Traduzindo: "se você gosta de ver sangue, eu te levo num açougue, aqui está vulgar demais".
 
-O comentário é **esteticista** em estado puro. O horror da cena para Petrônio não é moral (um homem matando outro), é **de gosto** (a cena é deselegante, bárbara, "de magarefe"). Lembre o ouvinte que o romance já estabeleceu que a única categoria viva em Petrônio é essa — o belo/feio. A morte de Gulon não o indigna; a vulgaridade da cena, sim.
+O comentário é **esteticista** em estado puro. O horror para Petrônio não é moral, é **de gosto** (a cena é deselegante, bárbara). A morte de Gulon não o indigna; a vulgaridade, sim. Sienkiewicz coloca essa retirada elegante ao lado da violência bestial para **amplificar** cada uma delas. Petrônio refinado é tão culpado quanto Vinícius bruto; só muda a estética da cumplicidade.
 
-E o fato de Sienkiewicz colocar essa retirada elegante imediatamente ao lado da violência bestial **amplifica** cada uma delas. Petrônio refinado é tão culpado quanto Vinícius bruto; só muda a estética da cumplicidade.
+### Sinceridade existencial
 
-### Explicando "sinceridade existencial" inline
-
-Vale explicar ao ouvinte. **Sinceridade existencial**, na leitura formativa, não quer dizer o autor sair falando o que pensa. Quer dizer o autor **mostrar** o que existe, sem disfarçar, mesmo quando é feio. Sienkiewicz, nesta cena, poderia ter cortado antes do chicote, poderia ter transformado Vinícius num patrício atormentado mas digno. Escolheu mostrar o crânio de Gulon partindo com o candelabro e os gemidos durando até a madrugada.
-
-Essa é a honestidade do romance. Ela **machuca**. E, por isso, **forma**. Quem sai incólume dessa cena leu mal.
+Sienkiewicz poderia ter cortado antes do chicote, poderia ter transformado Vinícius num patrício atormentado mas digno. Escolheu mostrar o crânio de Gulon partindo com o candelabro e os gemidos durando até a madrugada. Essa é a honestidade do romance. Ela **machuca**. E, por isso, **forma**. Quem sai incólume dessa cena leu mal.
 
 ### Analogias modernas
 
-- O **CEO** que, num dia de catástrofe de resultados, entra em reunião e xinga publicamente um gerente que chega com notícia ruim, humilha-o até as lágrimas, demite na cara da equipe — não porque o gerente fosse culpado, mas porque estava na frente do amo quando o amo precisava descarregar.
-- O **pai ultrarrico** que, depois de um dia ruim no mercado, chicoteia verbalmente filho e esposa à mesa de jantar. Nenhum dos dois tem culpa. Mas estão ali, disponíveis como superfície.
-- O **patrão** da casa de família — velha estrutura brasileira de empregada doméstica morando com a família — que, num dia de crise, trata a empregada que cria os filhos dele há vinte anos como se ela fosse descartável. Sequestros de luxo ainda acontecem; mudam só os nomes.
-- O **militar de alta patente** que tortura subordinados por pura transferência emocional de frustração política, e depois manda cuidar das feridas como quem conserta uma ferramenta.
-- O **chefe de família abusivo** que, ao descobrir uma traição da esposa, descarrega violência nos filhos menores que nada têm a ver com a coisa — porque são os corpos disponíveis.
+- O **CEO** que, num dia de resultados catastróficos, humilha publicamente um gerente que chega com notícia ruim — não porque ele seja culpado, mas porque estava ali, disponível como superfície.
+- O **pai ultrarrico** que, depois de um dia ruim no mercado, chicoteia verbalmente filho e esposa à mesa de jantar. Nenhum dos dois tem culpa; estão ali.
+- O **patrão** da casa brasileira de empregada doméstica que, num dia de crise pessoal, trata como descartável a mulher que cria seus filhos há vinte anos. Mudam os nomes, a estrutura é a mesma.
+- O **chefe de família abusivo** que, ao descobrir uma traição, descarrega violência nos filhos menores que nada têm a ver com a coisa — porque são os corpos disponíveis.
 
-A estrutura é sempre a mesma. O superior sofre, não pode atingir o verdadeiro objeto do sofrimento (César, mercado, esposa infiel, missão perdida), e **transfere** a fúria para quem está mais próximo na hierarquia. Sienkiewicz nos dá o protótipo.
+A estrutura é sempre a mesma. O superior sofre, não pode atingir o verdadeiro objeto do sofrimento (César, mercado, esposa infiel), e **transfere** a fúria para quem está mais próximo na hierarquia. Sienkiewicz nos dá o protótipo.
 
 ### A viagem imaginativa
 
 Peça ao ouvinte que feche os olhos:
 
-- A **casa de Vinícius** enfeitada como bombonière para o jantar que não vai acontecer. Hera e mirto em festões, grinaldas de pâmpanos nas colunas. Lampadários de alabastro, bronze coríntio, globos de vidro de Alexandria filtrando luz rosada e verde-azulada. Perfume pesado de nardo.
+- A **casa de Vinícius** enfeitada para o jantar que não vai acontecer. Hera e mirto em festões, lampadários de alabastro, globos de vidro de Alexandria, perfume pesado de nardo.
 - A **mesa posta para quatro** — Petrônio, Crisótemis, Vinícius, Lígia. Taças vazias. Flores frescas.
-- **Vinícius andando** pelo átrio, a túnica de sacerdote sírio — fantasia para receber a noiva — amassada. O coração bate irregular sob a veste.
 - **A entrada dos escravos**. O coro dos "Aah!... Aaaah!" pelas paredes. O velho Gulon com o sangue no rosto, tentando articular.
-- O **candelabro de bronze** pego sem premeditação do pedestal próximo. O gesto, rápido, quase mecânico. O **estalar seco** — o segundo crânio estalando na mesma noite, só que este dentro de casa.
-- **Vinícius arrancando os próprios cabelos**, a boca escumando. A ordem "o chicote!" saindo como trovão.
-- **Petrônio e Crisótemis** saindo pela lateral, o tio com uma careta de desconforto estético, a amante cambaleante.
-- E, **até a madrugada**, o silvar ritmado do chicote no peristilo interior, os gemidos dos escravos, o som das verbenas perfumadas queimando nas trempes porque ninguém se lembrou de apagar.
+- O **candelabro de bronze** pego sem premeditação. O gesto rápido, quase mecânico. O **estalar seco** — o segundo crânio estalando na mesma noite, este dentro de casa.
+- **Vinícius arrancando os próprios cabelos**, a boca escumando. A ordem "o chicote!" como trovão.
+- **Petrônio e Crisótemis** saindo pela lateral, o tio com careta de desconforto estético, a amante cambaleante.
+- E, **até a madrugada**, o silvar ritmado do chicote, os gemidos, as verbenas queimando nas trempes porque ninguém se lembrou de apagar.
 
 Guarde o quadro. Especialmente a última imagem: a casa ainda enfeitada de flores, e, em algum canto interior, homens sendo espancados a noite inteira.
 

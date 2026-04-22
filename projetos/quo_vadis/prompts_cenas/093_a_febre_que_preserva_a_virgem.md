@@ -30,21 +30,19 @@ O centurião: "Escuta-me, senhor. Cristo, que te experimentou, acaba de mostrar-
 
 ### Habitando o paradoxo: a doença que salva
 
-Peça ao ouvinte para parar nessa cena, muito devagar, e sentir o que ela tem de incômodo.
+Peça ao ouvinte para parar nessa cena devagar e sentir o que ela tem de incômodo.
 
-Se a gente acompanhasse essa história com a lente apenas racional utilitária — "o que é bom para Lígia, o que é ruim para Lígia" — a febre seria certamente uma coisa ruim. Ela mata prisioneiros na Mamertina; consome a jovem; deixa-a sem consciência; aumenta o risco de morte antes mesmo da arena. Qualquer médico, qualquer família, qualquer amigo veria ali uma desgraça.
+Se acompanhássemos essa história com a lente apenas racional utilitária — "o que é bom para Lígia, o que é ruim para Lígia" — a febre seria certamente coisa ruim. Mata prisioneiros na Mamertina, consome a jovem, deixa-a sem consciência. Qualquer médico, qualquer família, qualquer amigo veria ali desgraça.
 
 Só que a febre, nessa noite exata, é o que impede os libertos de Nero de levarem Lígia para o prazer do imperador. Porque ela está agonizando, não serve. Os libertos escolhem outras. A doença é **muralha**. O corpo quebrado é **escudo**.
 
-O que Sienkiewicz nos oferece aqui não é um truque narrativo. É uma chave sobre a providência cristã — uma chave que vai contra a expectativa natural de "Deus protege fazendo as coisas darem certo". Aqui, Deus protege fazendo a coisa dar errado: a doença, a devastação, o colapso da força corporal. Do ponto de vista do mundo, é perda; do ponto de vista da graça, é salvaguarda.
-
-Este é um dos lugares em que o romance pede uma reformulação interna do juízo moral. Não é fácil. A gente quer dizer: "sim, mas a doença é horrível." E é, e continua sendo, e o livro não nega. Só nos mostra que o que chamamos de bom e ruim, num horizonte mais largo, pode ser o oposto do que parece.
+O que Sienkiewicz nos oferece aqui não é truque narrativo. É uma chave sobre a providência cristã — uma chave que vai contra a expectativa natural de "Deus protege fazendo as coisas darem certo". Aqui, Deus protege fazendo a coisa dar errado: a doença, o colapso da força corporal. Do ponto de vista do mundo, é perda; do ponto de vista da graça, é salvaguarda. O romance pede, neste ponto, uma reformulação interna do juízo moral — não fácil. O que chamamos de bom e ruim, num horizonte mais largo, pode ser o oposto do que parece.
 
 ### A cena-imagem: o soldado pretoriano cristão apoiando o tribuno que desfalece
 
-Guarde este quadro: **um centurião pretoriano, homem treinado para matar, metido em armadura romana, dentro da fileira da guarda imperial — mas secretamente cristão — sai da formação, caminha até um jovem tribuno também cristão e lhe dá, em voz baixa, com solenidade, uma notícia de graça. O tribuno desfalece. O soldado lhe dá o ombro para que não caia. O ombro de um pretoriano sustenta um patrício, enquanto ambos, secretamente, cantam por dentro o mesmo nome: Cristo.**
+Guarde este quadro: **um centurião pretoriano, homem treinado para matar, em armadura romana, dentro da fileira da guarda imperial — mas secretamente cristão — sai da formação e dá, em voz baixa, uma notícia de graça a um jovem tribuno. O tribuno desfalece. O soldado lhe dá o ombro. O ombro de um pretoriano sustenta um patrício, enquanto ambos, secretamente, cantam por dentro o mesmo nome: Cristo.**
 
-Esse quadro carrega uma mensagem específica: o cristianismo já se infiltrou no próprio aparelho militar do Estado que o persegue. Lá dentro, entre os pretorianos de Nero, há ombros cristãos. É uma das primeiras evidências narrativas, no romance, de que a perseguição está perdendo. Os inimigos não conseguem separar os próprios soldados do que deveriam combater.
+Esse quadro carrega uma mensagem específica: o cristianismo já se infiltrou no próprio aparelho militar do Estado que o persegue. Entre os pretorianos de Nero, há ombros cristãos. É evidência narrativa de que a perseguição já está perdendo — os inimigos não conseguem separar os próprios soldados do que deveriam combater.
 
 ### Analogias modernas para o ouvinte reconhecer o padrão
 
@@ -53,10 +51,9 @@ A ideia de que "o mal aparente pode carregar um bem oculto" aparece em muitas ex
 - A **pessoa que perde um emprego cobiçado** pouco antes de descobrir que a empresa iria à falência. A perda, que pareceu tragédia, foi proteção.
 - O **paciente cuja cirurgia é adiada por complicação clínica** e que, por conta disso, escapa a um erro médico que atingiu outros pacientes naquele dia.
 - A **criança que não é aceita em certa escola "melhor"** e, na escola alternativa, encontra o professor que mudará sua vida.
-- O **relacionamento que termina por crise dolorosa** meses antes de outro imprevisto — e que, se tivesse continuado, teria produzido ruína maior.
 - A **viagem cancelada por doença banal** cujo voo pretendido sofre turbulência grave.
 
-O ponto formativo não é celebrar a doença nem celebrar a perda — é **cultivar a paciência de reconhecer que o juízo utilitário imediato é insuficiente**. O que era ruim pode conter o que era bom. Num horizonte mais largo, os sinais mudam.
+O ponto formativo não é celebrar a doença nem a perda — é **cultivar a paciência de reconhecer que o juízo utilitário imediato é insuficiente**. Num horizonte mais largo, os sinais mudam.
 
 ### Termo técnico inline: "providência"
 
@@ -73,15 +70,13 @@ Repare também: Vinícius reage com pureza cristã. Não perde tempo celebrando.
 Conduza a pausa imersiva:
 
 - A **Mamertina** numa manhã de verão: pedra úmida, cheiro de vinagre e de doença escoando das grades baixas. A guarda pretoriana em duplo cordão.
-- O **centurião cristão**: capacete com crista, couraça reluzente, o rosto sério. Sai da fileira num passo contado. A armadura o contradiz por dentro.
-- **Vinícius chegando**: a mesma silhueta desde ontem, cansada, marcada. Olha o centurião e já percebe que vem notícia.
+- O **centurião cristão**: capacete com crista, couraça reluzente, rosto sério. Sai da fileira num passo contado — a armadura o contradiz por dentro.
+- **Vinícius chegando**: silhueta cansada, marcada. Olha o centurião e já percebe que vem notícia.
 - A **notícia** dita em voz baixa: "Cristo, que te experimentou, acaba de mostrar-te o seu favor." O verbo "experimentou" — Vinícius foi posto à prova.
-- O **conteúdo da notícia**: os libertos vieram, escolheram, mas ela tinha febre demais para servir de vítima da luxúria imperial.
-- A **palavra "agonizando"**: pronunciada sem suavização. O centurião é soldado, não poeta.
-- O **apoio físico**: Vinícius, que se apoiou num marco no Fórum a cada hora dos últimos dias, agora se apoia num ombro armado. O metal frio da couraça na palma.
-- A **continuação** sobre Linus: torturado e devolvido. Vinícius decide cuidar.
+- A **palavra "agonizando"**, pronunciada sem suavização. O centurião é soldado, não poeta.
+- O **apoio físico**: Vinícius, que se apoiou num marco no Fórum a cada hora dos últimos dias, agora se apoia num ombro armado. Metal frio da couraça na palma.
 - A **resposta de Vinícius**: voz doce, não gritada. "Cristo, que a salvou da vergonha, salvá-la-á da morte." A formulação já é cristã — fé-interpretação, não fé-barganha.
-- **Silêncio** junto aos muros. Vinícius de pé, o centurião voltando à fileira. A prisão cantando dentro como no áudio anterior.
+- **Silêncio** junto aos muros. O centurião voltando à fileira. A prisão cantando dentro, baixinho, como no áudio anterior.
 
 ### Anti-padrões (o que não fazer no áudio)
 

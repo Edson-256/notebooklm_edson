@@ -30,11 +30,9 @@ Vinícius fica atônito. O raciocínio que lhe atravessa é simples, mas revoluc
 
 ### A imagem central: mãos no ferro
 
-Comece pelo núcleo visual. Duas **mãos de velho** — mãos de pescador galileu, envelhecidas, nada solenes — pousadas em **dois capacetes de ferro** romanos. O capacete romano é o símbolo material mais concentrado do Império: produção industrial padronizada, metal cinzento e pesado, desenhado para proteger e para intimidar. É o instrumento pelo qual Roma conquista e governa.
+Comece pelo núcleo visual. Duas **mãos de velho** — mãos de pescador galileu, envelhecidas, nada solenes — pousadas em **dois capacetes de ferro** romanos. O capacete romano é o símbolo material mais concentrado do Império: metal cinzento e pesado, desenhado para proteger e intimidar. Instrumento pelo qual Roma conquista e governa.
 
-O apóstolo não pede para o soldado tirar o capacete. Não é cerimônia litúrgica. A **mão** vem por cima do **ferro**, traça a cruz sobre o metal frio, e segue. A bênção não exige nudez simbólica; alcança a pessoa através da sua indumentária de serviço. O cristianismo, nessa cena, já demonstrou sua natureza: não um ritual alternativo, mas uma realidade que **atravessa** o ferro do Império sem precisar destruí-lo para operar.
-
-Guarde a imagem. Mão de pescador sobre capacete romano, à luz gasta do amanhecer. Fica como ícone. Quando o ouvinte pensar em "cristianismo nascente", este é um quadro central.
+O apóstolo não pede para tirar o capacete. Não é cerimônia litúrgica. A **mão** vem por cima do **ferro**, traça a cruz sobre o metal frio, e segue. A bênção alcança a pessoa através da sua indumentária de serviço. O cristianismo já demonstra aqui sua natureza: não um ritual alternativo, mas uma realidade que **atravessa** o ferro do Império sem precisar destruí-lo para operar. Guarde a imagem: mão de pescador sobre capacete romano, à luz gasta do amanhecer.
 
 ### Habitando o espanto de Vinícius
 
@@ -46,20 +44,19 @@ E se está aí, está em toda parte. Talvez alguém da própria casa de Viníciu
 
 ### A cena-imagem: amanhecer, retirada, bênção
 
-Este é também o quadro visual que o leitor precisa guardar. Não só a bênção, mas todo o contorno: o cemitério aos poucos esvaziando, os fiéis retornando em pares e trios pelas vielas, os archotes começando a se apagar contra a luz crescente, **uma cor cinzenta-azulada** chegando ao céu. E, no meio desse recolhimento, dois uniformizados que, em vez de seguir a marcha normal, **separam-se do grupo por um instante** para receber a bênção, e depois **reincorporam-se** e continuam seu dia de serviço.
+Todo o contorno importa: o cemitério esvaziando, os fiéis retornando pelas vielas, os archotes se apagando contra a luz crescente, **uma cor cinzenta-azulada** chegando ao céu. E, no meio desse recolhimento, dois uniformizados que, em vez de seguir a marcha, **separam-se do grupo por um instante** para receber a bênção, e depois **reincorporam-se** e continuam seu dia de serviço.
 
-Ninguém tira uniforme. Ninguém quebra rotina. Ninguém grita. A bênção é rápida, quase prosaica. É isso que a torna tão impressionante. O cristianismo está entrando na vida das pessoas **sem precisar interromper a vida das pessoas**. Ele se ajusta ao corpo do soldado, sobe pelo ferro do capacete, e segue junto.
+Ninguém tira uniforme. Ninguém quebra rotina. Ninguém grita. A bênção é rápida, quase prosaica. É isso que a torna tão impressionante. O cristianismo está entrando na vida das pessoas **sem precisar interromper a vida das pessoas**.
 
 ### Analogias modernas para o ouvinte entender o tipo de espanto
 
 O espanto de Vinícius é reconhecível. Ofereça paralelos:
 
-- O **crítico de um movimento cultural** que vai a um evento do adversário e descobre, atônito, que **um colega admirado** está lá, envolvido. O movimento deixa de ser "gente estranha" e passa a ser "pessoas que eu respeito".
-- O **cético religioso** que visita um amigo de infância e descobre que a pessoa que conhece há vinte anos — **racional, inteligente** — é agora cristã praticante. A categoria "cristão" precisa ser reescrita.
-- O **progressista convicto** que descobre que o colega competente vota no contrário do que ele imaginava. O adversário deixa de ser "o outro" e vira **colega com convicções diferentes**.
+- O **crítico de um movimento cultural** que vai a um evento do adversário e descobre que **um colega admirado** está lá, envolvido. O movimento deixa de ser "gente estranha" e vira "pessoas que eu respeito".
+- O **cético religioso** que visita um amigo de infância e descobre que a pessoa que conhece há vinte anos — racional, inteligente — é cristã praticante. A categoria "cristão" precisa ser reescrita.
 - O **gestor corporativo** que descobre que uma prática ética que ele julgava marginal é adotada silenciosamente por dezenas de colegas. O consenso dominante era ilusão.
 
-Em todos os casos, o ponto-chave é: **a realidade social sempre contém camadas invisíveis ao observador desatento**. Vinícius, no cemitério, acaba de atravessar uma dessas camadas. A Roma dele nunca mais será a mesma, mesmo que ele finja por um tempo que sim.
+Em todos os casos, o ponto-chave: **a realidade social sempre contém camadas invisíveis ao observador desatento**. Vinícius, no cemitério, acaba de atravessar uma dessas camadas. A Roma dele nunca mais será a mesma, mesmo que ele finja por um tempo que sim.
 
 ### O termo "propagação" explicado inline
 
@@ -77,17 +74,16 @@ Vinícius é o único que **permite que a cena atravesse**. Essa permeabilidade 
 
 Conduza uma pausa sensorial. Peça ao ouvinte que feche os olhos e veja:
 
-- A **luz cinzenta-azulada** do amanhecer de outono em Roma. Sombras ainda longas. Frio do chão.
+- A **luz cinzenta-azulada** do amanhecer de outono em Roma. Sombras longas. Frio do chão.
 - O **cemitério** esvaziando. Archotes enfraquecidos. O **odor** de resina queimada misturado ao de terra úmida.
 - **Grupos** saindo em pequenos núcleos — matronas, velhos, um casal com criança.
-- **Dois soldados**, uniforme romano completo — **couraça, capacete de ferro, espada**. Estavam entre a multidão. Agora, à saída, se destacam.
-- **Aproximam-se do velho**. Ajoelham-se na terra. O capacete faz um pequeno ruído contra o ferro.
-- Pedro **estende as mãos**. Uma sobre cada capacete. Traça com o polegar a **cruz** no metal — gesto rápido.
-- **Diz algo baixo**, palavras curtas.
-- Os soldados **levantam-se**, ajustam as correias e **seguem**. Em dez segundos são indistinguíveis dos outros da estrada.
+- **Dois soldados**, uniforme romano completo — couraça, capacete de ferro, espada. Estavam entre a multidão. Agora, à saída, destacam-se.
+- **Aproximam-se do velho**. Ajoelham-se. O capacete faz um pequeno ruído contra o ferro.
+- Pedro **estende as mãos**. Uma sobre cada capacete. Traça com o polegar a **cruz** no metal — gesto rápido. Palavras curtas.
+- Os soldados **levantam-se**, ajustam as correias e **seguem**. Em dez segundos são indistinguíveis dos outros.
 - Vinícius **parado**. Boca entreaberta. O cérebro reprocessando o mundo.
 
-Guarde este quadro. A mão sobre o ferro. A cruz traçada no metal frio. Os soldados sumindo na rua como se nada tivesse acontecido. É ícone inesquecível.
+Guarde este quadro. A mão sobre o ferro. A cruz traçada no metal frio. Os soldados sumindo na rua como se nada tivesse acontecido.
 
 ### Anti-padrões (o que não fazer no áudio)
 
