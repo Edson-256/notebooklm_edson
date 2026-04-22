@@ -1,0 +1,207 @@
+{
+  "obra": "Quo Vadis",
+  "autor": "Henryk Sienkiewicz",
+  "obra_slug": "quo_vadis",
+  "notebook_id": "c7f86c97-bf9b-4087-bcc2-2945fb18ee93",
+  "total_cenas": 14,
+  "ultima_atualizacao": "2026-04-22T00:50:10.937815",
+  "audios": [
+    {
+      "arquivo": "qv_001_despertar_arbitro.mp3",
+      "cena_numero": 1,
+      "titulo_completo": "O despertar do árbitro e a confissão amorosa",
+      "localizacao": "Parte 1, Capítulo 1 (cena 1/2)",
+      "artifact_id": "45a5a438-ec11-40dd-a0f0-b3dcec236875",
+      "data_geracao": "2026-04-22T00:23:15.013259",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, pensado para um ouvinte **leigo** (sem formação acadêmica em literatura o...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "95dae9e4-8407-4579-a209-a1b860f09d75"
+      ],
+      "status": "created"
+    },
+    {
+      "arquivo": "qv_002_eunice_estatua.mp3",
+      "cena_numero": 2,
+      "titulo_completo": "Eunice e a estátua: o amor da escrava",
+      "localizacao": "Parte 1, Capítulo 1 (cena 2/2)",
+      "artifact_id": "8ab6096d-b2e2-43b9-ac86-774c35ae5388",
+      "data_geracao": "2026-04-22T00:25:18.659756",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "95dae9e4-8407-4579-a209-a1b860f09d75"
+      ],
+      "status": "created"
+    },
+    {
+      "arquivo": "qv_003_peixe_tracado.mp3",
+      "cena_numero": 3,
+      "titulo_completo": "O peixe traçado na areia",
+      "localizacao": "Parte 1, Capítulo 2 (cena 1/3)",
+      "artifact_id": "d3187f02-198f-4be7-8edd-18ed6ab6a6cc",
+      "data_geracao": "2026-04-22T00:27:22.082055",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "17a19c9d-c3e6-41fa-bf46-7914e7662146"
+      ],
+      "status": "created"
+    },
+    {
+      "arquivo": "qv_004_riso_criancas.mp3",
+      "cena_numero": 4,
+      "titulo_completo": "O riso das crianças no jardim dos Plautius",
+      "localizacao": "Parte 1, Capítulo 2 (cena 2/3)",
+      "artifact_id": "2d15c332-62f6-4f73-bb57-a58bc9819e1d",
+      "data_geracao": "2026-04-22T00:29:26.037988",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "17a19c9d-c3e6-41fa-bf46-7914e7662146"
+      ],
+      "status": "created"
+    },
+    {
+      "arquivo": "qv_005_nao_nero.mp3",
+      "cena_numero": 5,
+      "titulo_completo": "\"Não é Nero quem governa o mundo, é Deus\"",
+      "localizacao": "Parte 1, Capítulo 2 (cena 3/3)",
+      "artifact_id": "811231d8-716c-40d4-a615-addefc21b36e",
+      "data_geracao": "2026-04-22T00:31:30.619766",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "17a19c9d-c3e6-41fa-bf46-7914e7662146"
+      ],
+      "status": "created"
+    },
+    {
+      "arquivo": "qv_006_desejo_torna.mp3",
+      "cena_numero": 6,
+      "titulo_completo": "O desejo que se torna fúria",
+      "localizacao": "Parte 1, Capítulo 3 (cena 1/1)",
+      "artifact_id": "3ddd5bf5-f2a6-49bd-b4d0-ec62878d40bc",
+      "data_geracao": "2026-04-22T00:33:34.436209",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "4c53d308-bc66-4439-909c-6d6bb15d6ffb"
+      ],
+      "status": "created"
+    },
+    {
+      "arquivo": "qv_007_ordem_cesar.mp3",
+      "cena_numero": 7,
+      "titulo_completo": "A ordem de César e o colapso da família",
+      "localizacao": "Parte 1, Capítulo 4 (cena 1/2)",
+      "artifact_id": "79541c86-0748-4f16-ab49-a9b660affba9",
+      "data_geracao": "2026-04-22T00:35:38.826391",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "4062200a-0f0b-4297-bf51-9119500068c1"
+      ],
+      "status": "created"
+    },
+    {
+      "arquivo": "qv_008_exortacao_secreta.mp3",
+      "cena_numero": 8,
+      "titulo_completo": "A exortação secreta de Pompónia",
+      "localizacao": "Parte 1, Capítulo 4 (cena 2/2)",
+      "artifact_id": "e05b4616-7549-493b-8159-a1ee9a8b6243",
+      "data_geracao": "2026-04-22T00:37:42.816978",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "4062200a-0f0b-4297-bf51-9119500068c1"
+      ],
+      "status": "created"
+    },
+    {
+      "arquivo": "qv_009_seneca_diante.mp3",
+      "cena_numero": 9,
+      "titulo_completo": "Séneca diante do estoico que ele já não é",
+      "localizacao": "Parte 1, Capítulo 5 (cena 1/2)",
+      "artifact_id": "14f2cd8b-2be0-46b0-963a-070141984ad4",
+      "data_geracao": "2026-04-22T00:39:46.750889",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "1ef1f9bd-7b0d-4f94-8ab0-5c7a0c4ba215"
+      ],
+      "status": "created"
+    },
+    {
+      "arquivo": "qv_010_vinicius_irrompe.mp3",
+      "cena_numero": 10,
+      "titulo_completo": "Vinícius irrompe em casa de Petrónio",
+      "localizacao": "Parte 1, Capítulo 5 (cena 2/2) / Capítulo 6 (cena 1/1)",
+      "artifact_id": "3034853b-a8ad-447b-a1e2-b292c5a1bbd2",
+      "data_geracao": "2026-04-22T00:41:50.624463",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "1ef1f9bd-7b0d-4f94-8ab0-5c7a0c4ba215",
+        "928e33e2-9702-4f4d-b2fe-d0e09f232582"
+      ],
+      "status": "created"
+    },
+    {
+      "arquivo": "qv_011_ligia_martirio.mp3",
+      "cena_numero": 11,
+      "titulo_completo": "Lígia entre o martírio imaginado e o medo real",
+      "localizacao": "Parte 1, Capítulo 7 (cena 1/3)",
+      "artifact_id": "e0d743b9-69bc-43ce-87d3-be96c4dcbb49",
+      "data_geracao": "2026-04-22T00:43:54.530537",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "679b94f3-5e92-461f-897b-dddbc2fdefce"
+      ],
+      "status": "created"
+    },
+    {
+      "arquivo": "qv_012_conselho_prudente.mp3",
+      "cena_numero": 12,
+      "titulo_completo": "O conselho prudente de Acteia",
+      "localizacao": "Parte 1, Capítulo 7 (cena 2/3)",
+      "artifact_id": "3409956c-6322-4d75-a88b-b88fdcf5ac0f",
+      "data_geracao": "2026-04-22T00:46:00.416204",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "679b94f3-5e92-461f-897b-dddbc2fdefce"
+      ],
+      "status": "created"
+    },
+    {
+      "arquivo": "qv_013_festim_olhar.mp3",
+      "cena_numero": 13,
+      "titulo_completo": "O festim, o olhar da esmeralda e a fuga de Ursus",
+      "localizacao": "Parte 1, Capítulo 7 (cena 3/3)",
+      "artifact_id": "493dc0f6-baac-47a6-b8c7-c7d120cd7bc7",
+      "data_geracao": "2026-04-22T00:48:05.735527",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "679b94f3-5e92-461f-897b-dddbc2fdefce"
+      ],
+      "status": "created"
+    },
+    {
+      "arquivo": "qv_014_oracao_palacio.mp3",
+      "cena_numero": 14,
+      "titulo_completo": "A oração no palácio de Nero",
+      "localizacao": "Parte 1, Capítulo 8 (cena 1/1)",
+      "artifact_id": "792573fe-749f-48e7-9371-8cc854268a8f",
+      "data_geracao": "2026-04-22T00:50:10.937207",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "6785a5b4-14b3-40f8-bd61-16b9cd659cce"
+      ],
+      "status": "created"
+    }
+  ]
+}
