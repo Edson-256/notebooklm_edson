@@ -30,6 +30,7 @@ QV_DIR = Path(__file__).parent                      # projetos/quo_vadis/
 LOGS_DIR = PROJECT_DIR / "logs"
 NOTEBOOK_ID = "c7f86c97-bf9b-4087-bcc2-2945fb18ee93"
 SOURCES_MAP_FILE = QV_DIR / "_sources_map.json"     # title → source_id
+PROMPTS_MANIFEST_FILE = QV_DIR / "_prompts_manifest.json"  # fonte canônica de cenas
 PROFILE = "default"
 INTERVAL_SECONDS = 120  # 2 minutos entre cenas (fire-and-forget)
 POLL_INTERVAL = 30      # 30 segundos entre checks (modo --download)
@@ -176,22 +177,29 @@ def resolve_source_ids(scene: Dict) -> List[str]:
 # ── Extração de cenas ──────────────────────────────────────────────────
 
 def extract_scenes(filepath: Path) -> List[Dict]:
-    content = filepath.read_text(encoding='utf-8')
-    pattern = (
-        r'### (\d+)\.\s+(.+?)\n'
-        r'\s*-\s+\*\*Localização:\*\*\s+(.+?)\n'
-        r'\s*-\s+\*\*Resumo:\*\*\s+(.+?)\n'
-        r'\s*-\s+\*\*Justificativa.*?:\*\*\s+(.+?)(?=\n###|\n---|\n##\s|\Z)'
-    )
+    """
+    Lê cenas de _prompts_manifest.json (fonte canônica com numeração GLOBAL 1-134).
+
+    Não usar regex sobre 01_cenas_identificadas.md: a numeração lá reinicia a cada
+    parte (P1 1-35, P2 1-33, P3 1-63, EP 1-3) e colide com a numeração global usada
+    em prompts_cenas/ e nas chaves do metadata.json.
+
+    O argumento `filepath` é mantido só por compatibilidade da assinatura.
+    """
+    manifest = json.loads(PROMPTS_MANIFEST_FILE.read_text(encoding='utf-8'))
     scenes = []
-    for m in re.finditer(pattern, content, re.DOTALL):
+    for entry in manifest:
         scenes.append({
-            'number': int(m.group(1)),
-            'title': m.group(2).strip(),
-            'location': m.group(3).strip(),
-            'summary': m.group(4).strip(),
-            'justification': m.group(5).strip(),
+            'number': int(entry['audio']),           # GLOBAL 1-134
+            'local_number': int(entry['local_num']),
+            'parte': int(entry['part_num']),         # 1, 2, 3 (epílogo: ver part_name)
+            'parte_nome': entry.get('part_name', ''),
+            'title': entry['title'].strip(),
+            'location': entry['localization'].strip(),
+            'summary': entry.get('resumo', '').strip(),
+            'justification': entry.get('justificativa', '').strip(),
         })
+    scenes.sort(key=lambda s: s['number'])
     return scenes
 
 
