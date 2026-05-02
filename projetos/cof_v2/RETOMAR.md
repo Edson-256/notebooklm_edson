@@ -7,18 +7,22 @@ voltar exatamente de onde paramos.
 
 - ✅ **Plano e templates** completos em `plano/` (9 arquivos)
 - ✅ **121 fontes compiladas** em `compiladas/` (aulas anuais, livros, extras,
-  temáticas) — prontas para upload
+  temáticas)
 - ✅ **781 prompts gerados** em `prompts/<id>.md`
 - ✅ **781 guias com placeholders** em `guias/<id>.md` (autores citados já
   preenchidos via regex; síntese/conceitos/exercícios em branco)
-- ⏸️ **Enriquecimento dos guias via Haiku 4.5 BLOQUEADO** por billing da
-  Anthropic API
-- ⏸️ **Upload das 121 fontes no notebook NLM** ainda não feito
-- ⏸️ **Runner de áudio** ainda não implementado
+- ✅ **121 fontes uploadadas no notebook NLM** (concluído)
+- ✅ **`_sources_map.json` gerado** mapeando os 782 itens (seq_global 1–782) →
+  source_id no notebook (script `06_build_sources_map.py`)
+- ⏸️ **Enriquecimento dos guias via Haiku 4.5** — ainda bloqueado: API
+  Anthropic retorna "credit balance too low" mesmo após compra real de $25
+  via Stripe (recibo 2717-7300-3129, 2026-05-02). Hipótese: chave atual
+  (`n8n-automation`, sufixo `iwAA`) está em workspace sem os créditos.
+  Solução: criar `cof-enrich-haiku-v2` em workspace **Default**.
+- ⏸️ **Runner de áudio** ainda não implementado (próximo passo)
 
-**Notebook NLM novo (vazio):** `5508086a-da53-4947-bce4-a1d7d83cf0e2`
+**Notebook NLM:** `5508086a-da53-4947-bce4-a1d7d83cf0e2`
 **Conta:** `default` (edson.michalkiewicz@gmail.com)
-**Último commit:** `a07c175` (push feito)
 
 ## ⚠️ Antes de tudo — segurança
 
@@ -94,22 +98,18 @@ Acompanhar:
 .venv/bin/python scripts/05_enrich_guias.py --stats
 ```
 
-### 4. Upload das 121 fontes no notebook NLM
+### 4. Upload das 121 fontes no notebook NLM ✅
 
-Ainda não automatizado. Opções:
+Concluído em sessão anterior. `_sources_map.json` gerado em 2026-05-02 via
+`scripts/06_build_sources_map.py` (782 itens mapeados, 0 misses, 1 colisão de
+slug documentada — `extra-consci-ncia-de-imortalidade-aula-04` aparece com
+seq_global 630 e 631 porque o curso tem dois arquivos "aula 4" no original).
 
-- **Manual (rápido):** drag-drop dos arquivos `.md` de `compiladas/aulas/`,
-  `compiladas/livros/`, `compiladas/extracurriculares/` na interface web
-  do notebook `5508086a-da53-4947-bce4-a1d7d83cf0e2`.
-- **Via CLI (quando implementado):** ainda não temos `nlm source add` em
-  loop com mapeamento. Precisa script novo.
-
-Após upload:
+Para revalidar (após qualquer mudança nas fontes):
 
 ```bash
-nlm source list 5508086a-da53-4947-bce4-a1d7d83cf0e2 --profile default --json \
-  > _sources_map_raw.json
-# Construir _sources_map.json mapeando arquivo→source_id
+.venv/bin/python scripts/06_build_sources_map.py --refresh-nlm
+.venv/bin/python scripts/06_build_sources_map.py --validate
 ```
 
 ### 5. Implementar runner de áudio
@@ -154,12 +154,15 @@ projetos/cof_v2/
 │   ├── 08_tematicas.md
 │   ├── 09_uso_script_04.md
 │   └── _progresso.json                # gitignored
+├── _sources_map.json             # commitado — fonte da verdade pro runner
+├── _sources_map_raw.json         # gitignored — cache da listagem nlm
 └── scripts/                       # commitado
     ├── 01_convert_to_md.py        # rodou no dell
     ├── 02_compile_year_groups.py
     ├── 03_collect_books_extras.py
     ├── 04_generate_prompt_batch.py    # rodou tudo
-    └── 05_enrich_guias.py             # bloqueado em billing
+    ├── 05_enrich_guias.py             # bloqueado em billing/workspace
+    └── 06_build_sources_map.py        # rodou em 2026-05-02 (782/782)
 ```
 
 ## Beads / sessão

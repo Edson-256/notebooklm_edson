@@ -7,3 +7,5 @@ compiladas/extracurriculares/*.md
 prompts/
 guias/
 plano/_progresso.json
+_sources_map_raw.json
+.venv/
