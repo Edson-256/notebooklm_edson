@@ -4,3 +4,6 @@ _raw/tematicas_notebook/
 compiladas/aulas/*.md
 compiladas/livros/*.md
 compiladas/extracurriculares/*.md
+prompts/
+guias/
+plano/_progresso.json
