@@ -1,0 +1,6 @@
+_raw/dell_md/
+_raw/livros_notebook/
+_raw/tematicas_notebook/
+compiladas/aulas/*.md
+compiladas/livros/*.md
+compiladas/extracurriculares/*.md
