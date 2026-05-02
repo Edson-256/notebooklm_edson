@@ -1,0 +1,2067 @@
+# Fontes do COF — disco do dell-server
+
+**Host:** `edson@100.71.148.95 (dell-server, Tailscale)`  
+**Diretório raiz:** `/home/edson/dev/cof/data/`  
+**Origem:** projeto `cof` (downloader Playwright do `seminariodefilosofia.org`).
+
+Este inventário é **distinto** do `01_fontes_e_aulas.md` (que cataloga as 73 fontes do notebook NotebookLM). Aqui as fontes são **arquivos baixados em disco** no dell-server.
+
+Hierarquia: nível 1 = grupo no diretório `data/`; nível 2 = arquivo individual (Aula NN, data e/ou título).
+
+---
+
+## COF Original
+
+Localização: `/home/edson/dev/cof/data/COF Original/`
+
+### Áudios (576 arquivos)
+- **Faixa numérica:** 001–585 (576 aulas únicas)
+
+  - **Aula 001** — `Aula_001.mp3`
+  - **Aula 002** — `Aula_002.mp3`
+  - **Aula 003** — `Aula_003.mp3`
+  - **Aula 004** — `Aula_004.mp3`
+  - **Aula 005** — `Aula_005.mp3`
+  - **Aula 006** — `Aula_006.mp3`
+  - **Aula 007** — `Aula_007.mp3`
+  - **Aula 008** — `Aula_008.mp3`
+  - **Aula 009** — `Aula_009.mp3`
+  - **Aula 010** — `Aula_010.mp3`
+  - **Aula 011** — `Aula_011.mp3`
+  - **Aula 012** — `Aula_012.mp3`
+  - **Aula 013** — `Aula_013.mp3`
+  - **Aula 014** — `Aula_014.mp3`
+  - **Aula 015** — `Aula_015.mp3`
+  - **Aula 016** — `Aula_016.mp3`
+  - **Aula 017** — `Aula_017.mp3`
+  - **Aula 018** — `Aula_018.mp3`
+  - **Aula 019** — `Aula_019.mp3`
+  - **Aula 020** — `Aula_020.mp3`
+  - **Aula 021** — `Aula_021.mp3`
+  - **Aula 022** — `Aula_022.mp3`
+  - **Aula 023** — `Aula_023.mp3`
+  - **Aula 024** — `Aula_024.mp3`
+  - **Aula 025** — `Aula_025.mp3`
+  - **Aula 026** — `Aula_026.mp3`
+  - **Aula 027** — `Aula_027.mp3`
+  - **Aula 028** — `Aula_028.mp3`
+  - **Aula 029** — `Aula_029.mp3`
+  - **Aula 030** — `Aula_030.mp3`
+  - **Aula 031** — `Aula_031.mp3`
+  - **Aula 032** — `Aula_032.mp3`
+  - **Aula 033** — `Aula_033.mp3`
+  - **Aula 034** — `Aula_034.mp3`
+  - **Aula 035** — `Aula_035.mp3`
+  - **Aula 036** — `Aula_036.mp3`
+  - **Aula 037** — `Aula_037.mp3`
+  - **Aula 038** — `Aula_038.mp3`
+  - **Aula 039** — `Aula_039.mp3`
+  - **Aula 040** — `Aula_040.mp3`
+  - **Aula 041** — `Aula_041.mp3`
+  - **Aula 042** — `Aula_042.mp3`
+  - **Aula 043** — `Aula_043.mp3`
+  - **Aula 044** — `Aula_044.mp3`
+  - **Aula 045** — `Aula_045.mp3`
+  - **Aula 046** — `Aula_046.mp3`
+  - **Aula 047** — `Aula_047.mp3`
+  - **Aula 048** — `Aula_048.mp3`
+  - **Aula 049** — `Aula_049.mp3`
+  - **Aula 050** — `Aula_050.mp3`
+  - **Aula 051** — `Aula_051.mp3`
+  - **Aula 052** — `Aula_052.mp3`
+  - **Aula 053** — `Aula_053.mp3`
+  - **Aula 054** — `Aula_054.mp3`
+  - **Aula 055** — `Aula_055.mp3`
+  - **Aula 056** — `Aula_056.mp3`
+  - **Aula 057** — `Aula_057.mp3`
+  - **Aula 058** — `Aula_058.mp3`
+  - **Aula 059** — `Aula_059.mp3`
+  - **Aula 060** — `Aula_060.mp3`
+  - **Aula 061** — `Aula_061.mp3`
+  - **Aula 062** — `Aula_062.mp3`
+  - **Aula 063** — `Aula_063.mp3`
+  - **Aula 064** — `Aula_064.mp3`
+  - **Aula 065** — `Aula_065.mp3`
+  - **Aula 066** — `Aula_066.mp3`
+  - **Aula 067** — `Aula_067.mp3`
+  - **Aula 068** — `Aula_068.mp3`
+  - **Aula 069** — `Aula_069.mp3`
+  - **Aula 070** — `Aula_070.mp3`
+  - **Aula 071** — `Aula_071.mp3`
+  - **Aula 072** — `Aula_072.mp3`
+  - **Aula 073** — `Aula_073.mp3`
+  - **Aula 074** — `Aula_074.mp3`
+  - **Aula 075** — `Aula_075.mp3`
+  - **Aula 076** — `Aula_076.mp3`
+  - **Aula 077** — `Aula_077.mp3`
+  - **Aula 079** — `Aula_079.mp3`
+  - **Aula 080** — `Aula_080.mp3`
+  - **Aula 081** — `Aula_081.mp3`
+  - **Aula 082** — `Aula_082.mp3`
+  - **Aula 083** — `Aula_083.mp3`
+  - **Aula 084** — `Aula_084.mp3`
+  - **Aula 085** — `Aula_085.mp3`
+  - **Aula 086** — `Aula_086.mp3`
+  - **Aula 087** — `Aula_087.mp3`
+  - **Aula 088** — `Aula_088.mp3`
+  - **Aula 089** — `Aula_089.mp3`
+  - **Aula 090** — `Aula_090.mp3`
+  - **Aula 091** — `Aula_091.mp3`
+  - **Aula 092** — `Aula_092.mp3`
+  - **Aula 093** — `Aula_093.mp3`
+  - **Aula 094** — `Aula_094.mp3`
+  - **Aula 095** — `Aula_095.mp3`
+  - **Aula 096** — `Aula_096.mp3`
+  - **Aula 097** — `Aula_097.mp3`
+  - **Aula 098** — `Aula_098.mp3`
+  - **Aula 099** — `Aula_099.mp3`
+  - **Aula 100** — `Aula_100.mp3`
+  - **Aula 101** — `Aula_101.mp3`
+  - **Aula 102** — `Aula_102.mp3`
+  - **Aula 103** — `Aula_103.mp3`
+  - **Aula 104** — `Aula_104.mp3`
+  - **Aula 105** — `Aula_105.mp3`
+  - **Aula 106** — `Aula_106.mp3`
+  - **Aula 107** — `Aula_107.mp3`
+  - **Aula 108** — `Aula_108.mp3`
+  - **Aula 109** — `Aula_109.mp3`
+  - **Aula 110** — `Aula_110.mp3`
+  - **Aula 111** — `Aula_111.mp3`
+  - **Aula 112** — `Aula_112.mp3`
+  - **Aula 113** — `Aula_113.mp3`
+  - **Aula 114** — `Aula_114.mp3`
+  - **Aula 115** — `Aula_115.mp3`
+  - **Aula 116** — `Aula_116.mp3`
+  - **Aula 117** — `Aula_117.mp3`
+  - **Aula 118** — `Aula_118.mp3`
+  - **Aula 119** — `Aula_119.mp3`
+  - **Aula 120** — `Aula_120.mp3`
+  - **Aula 121** — `Aula_121.mp3`
+  - **Aula 122** — `Aula_122.mp3`
+  - **Aula 123** — `Aula_123.mp3`
+  - **Aula 124** — `Aula_124.mp3`
+  - **Aula 125** — `Aula_125.mp3`
+  - **Aula 126** — `Aula_126.mp3`
+  - **Aula 127** — `Aula_127.mp3`
+  - **Aula 128** — `Aula_128.mp3`
+  - **Aula 129** — `Aula_129.mp3`
+  - **Aula 130** — `Aula_130.mp3`
+  - **Aula 131** — `Aula_131.mp3`
+  - **Aula 132** — `Aula_132.mp3`
+  - **Aula 133** — `Aula_133.mp3`
+  - **Aula 134** — `Aula_134.mp3`
+  - **Aula 135** — `Aula_135.mp3`
+  - **Aula 136** — `Aula_136.mp3`
+  - **Aula 137** — `Aula_137.mp3`
+  - **Aula 138** — `Aula_138.mp3`
+  - **Aula 139** — `Aula_139.mp3`
+  - **Aula 140** — `Aula_140.mp3`
+  - **Aula 141** — `Aula_141.mp3`
+  - **Aula 142** — `Aula_142.mp3`
+  - **Aula 143** — `Aula_143.mp3`
+  - **Aula 144** — `Aula_144.mp3`
+  - **Aula 145** — `Aula_145.mp3`
+  - **Aula 146** — `Aula_146.mp3`
+  - **Aula 147** — `Aula_147.mp3`
+  - **Aula 148** — `Aula_148.mp3`
+  - **Aula 149** — `Aula_149.mp3`
+  - **Aula 150** — `Aula_150.mp3`
+  - **Aula 151** — `Aula_151.mp3`
+  - **Aula 152** — `Aula_152.mp3`
+  - **Aula 153** — `Aula_153.mp3`
+  - **Aula 154** — `Aula_154.mp3`
+  - **Aula 155** — `Aula_155.mp3`
+  - **Aula 156** — `Aula_156.mp3`
+  - **Aula 157** — `Aula_157.mp3`
+  - **Aula 158** — `Aula_158.mp3`
+  - **Aula 159** — `Aula_159.mp3`
+  - **Aula 160** — `Aula_160.mp3`
+  - **Aula 161** — `Aula_161.mp3`
+  - **Aula 162** — `Aula_162.mp3`
+  - **Aula 163** — `Aula_163.mp3`
+  - **Aula 164** — `Aula_164.mp3`
+  - **Aula 165** — `Aula_165.mp3`
+  - **Aula 166** — `Aula_166.mp3`
+  - **Aula 167** — `Aula_167.mp3`
+  - **Aula 168** — `Aula_168.mp3`
+  - **Aula 169** — `Aula_169.mp3`
+  - **Aula 170** — `Aula_170.mp3`
+  - **Aula 171** — `Aula_171.mp3`
+  - **Aula 172** — `Aula_172.mp3`
+  - **Aula 173** — `Aula_173.mp3`
+  - **Aula 174** — `Aula_174.mp3`
+  - **Aula 175** — `Aula_175.mp3`
+  - **Aula 176** — `Aula_176.mp3`
+  - **Aula 177** — `Aula_177.mp3`
+  - **Aula 178** — `Aula_178.mp3`
+  - **Aula 179** — `Aula_179.mp3`
+  - **Aula 180** — `Aula_180.mp3`
+  - **Aula 181** — `Aula_181.mp3`
+  - **Aula 182** — `Aula_182.mp3`
+  - **Aula 183** — `Aula_183.mp3`
+  - **Aula 184** — `Aula_184.mp3`
+  - **Aula 185** — `Aula_185.mp3`
+  - **Aula 186** — `Aula_186.mp3`
+  - **Aula 187** — `Aula_187.mp3`
+  - **Aula 188** — `Aula_188.mp3`
+  - **Aula 189** — `Aula_189.mp3`
+  - **Aula 190** — `Aula_190.mp3`
+  - **Aula 191** — `Aula_191.mp3`
+  - **Aula 192** — `Aula_192.mp3`
+  - **Aula 193** — `Aula_193.mp3`
+  - **Aula 194** — `Aula_194.mp3`
+  - **Aula 195** — `Aula_195.mp3`
+  - **Aula 196** — `Aula_196.mp3`
+  - **Aula 197** — `Aula_197.mp3`
+  - **Aula 198** — `Aula_198.mp3`
+  - **Aula 199** — `Aula_199.mp3`
+  - **Aula 200** — `Aula_200.mp3`
+  - **Aula 201** — `Aula_201.mp3`
+  - **Aula 202** — `Aula_202.mp3`
+  - **Aula 203** — `Aula_203.mp3`
+  - **Aula 204** — `Aula_204.mp3`
+  - **Aula 205** — `Aula_205.mp3`
+  - **Aula 206** — `Aula_206.mp3`
+  - **Aula 207** — `Aula_207.mp3`
+  - **Aula 208** — `Aula_208.mp3`
+  - **Aula 209** — `Aula_209.mp3`
+  - **Aula 210** — `Aula_210.mp3`
+  - **Aula 211** — `Aula_211.mp3`
+  - **Aula 212** — `Aula_212.mp3`
+  - **Aula 213** — `Aula_213.mp3`
+  - **Aula 214** — `Aula_214.mp3`
+  - **Aula 215** — `Aula_215.mp3`
+  - **Aula 216** — `Aula_216.mp3`
+  - **Aula 217** — `Aula_217.mp3`
+  - **Aula 218** — `Aula_218.mp3`
+  - **Aula 219** — `Aula_219.mp3`
+  - **Aula 220** — `Aula_220.mp3`
+  - **Aula 221** — `Aula_221.mp3`
+  - **Aula 222** — `Aula_222.mp3`
+  - **Aula 223** — `Aula_223.mp3`
+  - **Aula 224** — `Aula_224.mp3`
+  - **Aula 225** — `Aula_225.mp3`
+  - **Aula 226** — `Aula_226.mp3`
+  - **Aula 227** — `Aula_227.mp3`
+  - **Aula 228** — `Aula_228.mp3`
+  - **Aula 229** — `Aula_229.mp3`
+  - **Aula 230** — `Aula_230.mp3`
+  - **Aula 231** — `Aula_231.mp3`
+  - **Aula 232** — `Aula_232.mp3`
+  - **Aula 233** — `Aula_233.mp3`
+  - **Aula 234** — `Aula_234.mp3`
+  - **Aula 235** — `Aula_235.mp3`
+  - **Aula 236** — `Aula_236.mp3`
+  - **Aula 237** — `Aula_237.mp3`
+  - **Aula 238** — `Aula_238.mp3`
+  - **Aula 239** — `Aula_239.mp3`
+  - **Aula 240** — `Aula_240.mp3`
+  - **Aula 241** — `Aula_241.mp3`
+  - **Aula 242** — `Aula_242.mp3`
+  - **Aula 243** — `Aula_243.mp3`
+  - **Aula 244** — `Aula_244.mp3`
+  - **Aula 245** — `Aula_245.mp3`
+  - **Aula 246** — `Aula_246.mp3`
+  - **Aula 247** — `Aula_247.mp3`
+  - **Aula 248** — `Aula_248.mp3`
+  - **Aula 249** — `Aula_249.mp3`
+  - **Aula 250** — `Aula_250.mp3`
+  - **Aula 251** — `Aula_251.mp3`
+  - **Aula 252** — `Aula_252.mp3`
+  - **Aula 253** — `Aula_253.mp3`
+  - **Aula 254** — `Aula_254.mp3`
+  - **Aula 255** — `Aula_255.mp3`
+  - **Aula 256** — `Aula_256.mp3`
+  - **Aula 257** — `Aula_257.mp3`
+  - **Aula 258** — `Aula_258.mp3`
+  - **Aula 259** — `Aula_259.mp3`
+  - **Aula 260** — `Aula_260.mp3`
+  - **Aula 261** — `Aula_261.mp3`
+  - **Aula 262** — `Aula_262.mp3`
+  - **Aula 263** — `Aula_263.mp3`
+  - **Aula 264** — `Aula_264.mp3`
+  - **Aula 265** — `Aula_265.mp3`
+  - **Aula 266** — `Aula_266.mp3`
+  - **Aula 267** — `Aula_267.mp3`
+  - **Aula 268** — `Aula_268.mp3`
+  - **Aula 269** — `Aula_269.mp3`
+  - **Aula 270** — `Aula_270.mp3`
+  - **Aula 271** — `Aula_271.mp3`
+  - **Aula 272** — `Aula_272.mp3`
+  - **Aula 273** — `Aula_273.mp3`
+  - **Aula 274** — `Aula_274.mp3`
+  - **Aula 275** — `Aula_275.mp3`
+  - **Aula 276** — `Aula_276.mp3`
+  - **Aula 277** — `Aula_277.mp3`
+  - **Aula 279** — `Aula_279.mp3`
+  - **Aula 280** — `Aula_280.mp3`
+  - **Aula 281** — `Aula_281.mp3`
+  - **Aula 282** — `Aula_282.mp3`
+  - **Aula 283** — `Aula_283.mp3`
+  - **Aula 284** — `Aula_284.mp3`
+  - **Aula 285** — `Aula_285.mp3`
+  - **Aula 286** — `Aula_286.mp3`
+  - **Aula 287** — `Aula_287.mp3`
+  - **Aula 288** — `Aula_288.mp3`
+  - **Aula 289** — `Aula_289.mp3`
+  - **Aula 290** — `Aula_290.mp3`
+  - **Aula 291** — `Aula_291.mp3`
+  - **Aula 292** — `Aula_292.mp3`
+  - **Aula 293** — `Aula_293.mp3`
+  - **Aula 294** — `Aula_294.mp3`
+  - **Aula 295** — `Aula_295.mp3`
+  - **Aula 296** — `Aula_296.mp3`
+  - **Aula 297** — `Aula_297.mp3`
+  - **Aula 298** — `Aula_298.mp3`
+  - **Aula 299** — `Aula_299.mp3`
+  - **Aula 300** — `Aula_300.mp3`
+  - **Aula 301** — `Aula_301.mp3`
+  - **Aula 302** — `Aula_302.mp3`
+  - **Aula 303** — `Aula_303.mp3`
+  - **Aula 304** — `Aula_304.mp3`
+  - **Aula 305** — `Aula_305.mp3`
+  - **Aula 306** — `Aula_306.mp3`
+  - **Aula 307** — `Aula_307.mp3`
+  - **Aula 308** — `Aula_308.mp3`
+  - **Aula 309** — `Aula_309.mp3`
+  - **Aula 310** — `Aula_310.mp3`
+  - **Aula 311** — `Aula_311.mp3`
+  - **Aula 312** — `Aula_312.mp3`
+  - **Aula 313** — `Aula_313.mp3`
+  - **Aula 314** — `Aula_314.mp3`
+  - **Aula 315** — `Aula_315.mp3`
+  - **Aula 316** — `Aula_316.mp3`
+  - **Aula 317** — `Aula_317.mp3`
+  - **Aula 318** — `Aula_318.mp3`
+  - **Aula 319** — `Aula_319.mp3`
+  - **Aula 320** — `Aula_320.mp3`
+  - **Aula 321** — `Aula_321.mp3`
+  - **Aula 323** — `Aula_323.mp3`
+  - **Aula 324** — `Aula_324.mp3`
+  - **Aula 325** — `Aula_325.mp3`
+  - **Aula 326** — `Aula_326.mp3`
+  - **Aula 327** — `Aula_327.mp3`
+  - **Aula 328** — `Aula_328.mp3`
+  - **Aula 329** — `Aula_329.mp3`
+  - **Aula 330** — `Aula_330.mp3`
+  - **Aula 331** — `Aula_331.mp3`
+  - **Aula 332** — `Aula_332.mp3`
+  - **Aula 333** — `Aula_333.mp3`
+  - **Aula 334** — `Aula_334.mp3`
+  - **Aula 335** — `Aula_335.mp3`
+  - **Aula 336** — `Aula_336.mp3`
+  - **Aula 337** — `Aula_337.mp3`
+  - **Aula 338** — `Aula_338.mp3`
+  - **Aula 339** — `Aula_339.mp3`
+  - **Aula 340** — `Aula_340.mp3`
+  - **Aula 341** — `Aula_341.mp3`
+  - **Aula 342** — `Aula_342.mp3`
+  - **Aula 343** — `Aula_343.mp3`
+  - **Aula 344** — `Aula_344.mp3`
+  - **Aula 345** — `Aula_345.mp3`
+  - **Aula 346** — `Aula_346.mp3`
+  - **Aula 348** — `Aula_348.mp3`
+  - **Aula 349** — `Aula_349.mp3`
+  - **Aula 350** — `Aula_350.mp3`
+  - **Aula 351** — `Aula_351.mp3`
+  - **Aula 352** — `Aula_352.mp3`
+  - **Aula 353** — `Aula_353.mp3`
+  - **Aula 354** — `Aula_354.mp3`
+  - **Aula 356** — `Aula_356.mp3`
+  - **Aula 357** — `Aula_357.mp3`
+  - **Aula 358** — `Aula_358.mp3`
+  - **Aula 359** — `Aula_359.mp3`
+  - **Aula 360** — `Aula_360.mp3`
+  - **Aula 361** — `Aula_361.mp3`
+  - **Aula 362** — `Aula_362.mp3`
+  - **Aula 363** — `Aula_363.mp3`
+  - **Aula 364** — `Aula_364.mp3`
+  - **Aula 365** — `Aula_365.mp3`
+  - **Aula 366** — `Aula_366.mp3`
+  - **Aula 367** — `Aula_367.mp3`
+  - **Aula 369** — `Aula_369.mp3`
+  - **Aula 370** — `Aula_370.mp3`
+  - **Aula 371** — `Aula_371.mp3`
+  - **Aula 372** — `Aula_372.mp3`
+  - **Aula 373** — `Aula_373.mp3`
+  - **Aula 374** — `Aula_374.mp3`
+  - **Aula 375** — `Aula_375.mp3`
+  - **Aula 376** — `Aula_376.mp3`
+  - **Aula 377** — `Aula_377.mp3`
+  - **Aula 378** — `Aula_378.mp3`
+  - **Aula 379** — `Aula_379.mp3`
+  - **Aula 380** — `Aula_380.mp3`
+  - **Aula 381** — `Aula_381.mp3`
+  - **Aula 382** — `Aula_382.mp3`
+  - **Aula 383** — `Aula_383.mp3`
+  - **Aula 384** — `Aula_384.mp3`
+  - **Aula 385** — `Aula_385.mp3`
+  - **Aula 386** — `Aula_386.mp3`
+  - **Aula 387** — `Aula_387.mp3`
+  - **Aula 388** — `Aula_388.mp3`
+  - **Aula 389** — `Aula_389.mp3`
+  - **Aula 390** — `Aula_390.mp3`
+  - **Aula 391** — `Aula_391.mp3`
+  - **Aula 392** — `Aula_392.mp3`
+  - **Aula 393** — `Aula_393.mp3`
+  - **Aula 394** — `Aula_394.mp3`
+  - **Aula 395** — `Aula_395.mp3`
+  - **Aula 396** — `Aula_396.mp3`
+  - **Aula 397** — `Aula_397.mp3`
+  - **Aula 398** — `Aula_398.mp3`
+  - **Aula 399** — `Aula_399.mp3`
+  - **Aula 400** — `Aula_400.mp3`
+  - **Aula 401** — `Aula_401.mp3`
+  - **Aula 402** — `Aula_402.mp3`
+  - **Aula 403** — `Aula_403.mp3`
+  - **Aula 404** — `Aula_404.mp3`
+  - **Aula 405** — `Aula_405.mp3`
+  - **Aula 406** — `Aula_406.mp3`
+  - **Aula 407** — `Aula_407.mp3`
+  - **Aula 408** — `Aula_408.mp3`
+  - **Aula 409** — `Aula_409.mp3`
+  - **Aula 410** — `Aula_410.mp3`
+  - **Aula 412** — `Aula_412.mp3`
+  - **Aula 413** — `Aula_413.mp3`
+  - **Aula 414** — `Aula_414.mp3`
+  - **Aula 416** — `Aula_416.mp3`
+  - **Aula 417** — `Aula_417.mp3`
+  - **Aula 418** — `Aula_418.mp3`
+  - **Aula 419** — `Aula_419.mp3`
+  - **Aula 420** — `Aula_420.mp3`
+  - **Aula 421** — `Aula_421.mp3`
+  - **Aula 422** — `Aula_422.mp3`
+  - **Aula 423** — `Aula_423.mp3`
+  - **Aula 424** — `Aula_424.mp3`
+  - **Aula 425** — `Aula_425.mp3`
+  - **Aula 426** — `Aula_426.mp3`
+  - **Aula 427** — `Aula_427.mp3`
+  - **Aula 428** — `Aula_428.mp3`
+  - **Aula 429** — `Aula_429.mp3`
+  - **Aula 430** — `Aula_430.mp3`
+  - **Aula 431** — `Aula_431.mp3`
+  - **Aula 432** — `Aula_432.mp3`
+  - **Aula 433** — `Aula_433.mp3`
+  - **Aula 434** — `Aula_434.mp3`
+  - **Aula 435** — `Aula_435.mp3`
+  - **Aula 436** — `Aula_436.mp3`
+  - **Aula 437** — `Aula_437.mp3`
+  - **Aula 438** — `Aula_438.mp3`
+  - **Aula 439** — `Aula_439.mp3`
+  - **Aula 440** — `Aula_440.mp3`
+  - **Aula 441** — `Aula_441.mp3`
+  - **Aula 442** — `Aula_442.mp3`
+  - **Aula 443** — `Aula_443.mp3`
+  - **Aula 444** — `Aula_444.mp3`
+  - **Aula 445** — `Aula_445.mp3`
+  - **Aula 446** — `Aula_446.mp3`
+  - **Aula 447** — `Aula_447.mp3`
+  - **Aula 448** — `Aula_448.mp3`
+  - **Aula 449** — `Aula_449.mp3`
+  - **Aula 450** — `Aula_450.mp3`
+  - **Aula 451** — `Aula_451.mp3`
+  - **Aula 453** — `Aula_453.mp3`
+  - **Aula 454** — `Aula_454.mp3`
+  - **Aula 455** — `Aula_455.mp3`
+  - **Aula 456** — `Aula_456.mp3`
+  - **Aula 457** — `Aula_457.mp3`
+  - **Aula 458** — `Aula_458.mp3`
+  - **Aula 459** — `Aula_459.mp3`
+  - **Aula 460** — `Aula_460.mp3`
+  - **Aula 461** — `Aula_461.mp3`
+  - **Aula 462** — `Aula_462.mp3`
+  - **Aula 463** — `Aula_463.mp3`
+  - **Aula 464** — `Aula_464.mp3`
+  - **Aula 465** — `Aula_465.mp3`
+  - **Aula 466** — `Aula_466.mp3`
+  - **Aula 467** — `Aula_467.mp3`
+  - **Aula 468** — `Aula_468.mp3`
+  - **Aula 469** — `Aula_469.mp3`
+  - **Aula 470** — `Aula_470.mp3`
+  - **Aula 471** — `Aula_471.mp3`
+  - **Aula 472** — `Aula_472.mp3`
+  - **Aula 473** — `Aula_473.mp3`
+  - **Aula 474** — `Aula_474.mp3`
+  - **Aula 475** — `Aula_475.mp3`
+  - **Aula 476** — `Aula_476.mp3`
+  - **Aula 477** — `Aula_477.mp3`
+  - **Aula 478** — `Aula_478.mp3`
+  - **Aula 479** — `Aula_479.mp3`
+  - **Aula 480** — `Aula_480.mp3`
+  - **Aula 481** — `Aula_481.mp3`
+  - **Aula 482** — `Aula_482.mp3`
+  - **Aula 483** — `Aula_483.mp3`
+  - **Aula 484** — `Aula_484.mp3`
+  - **Aula 485** — `Aula_485.mp3`
+  - **Aula 486** — `Aula_486.mp3`
+  - **Aula 487** — `Aula_487.mp3`
+  - **Aula 488** — `Aula_488.mp3`
+  - **Aula 489** — `Aula_489.mp3`
+  - **Aula 490** — `Aula_490.mp3`
+  - **Aula 491** — `Aula_491.mp3`
+  - **Aula 492** — `Aula_492.mp3`
+  - **Aula 493** — `Aula_493.mp3`
+  - **Aula 494** — `Aula_494.mp3`
+  - **Aula 495** — `Aula_495.mp3`
+  - **Aula 496** — `Aula_496.mp3`
+  - **Aula 497** — `Aula_497.mp3`
+  - **Aula 498** — `Aula_498.mp3`
+  - **Aula 499** — `Aula_499.mp3`
+  - **Aula 500** — `Aula_500.mp3`
+  - **Aula 501** — `Aula_501.mp3`
+  - **Aula 502** — `Aula_502.mp3`
+  - **Aula 503** — `Aula_503.mp3`
+  - **Aula 504** — `Aula_504.mp3`
+  - **Aula 505** — `Aula_505.mp3`
+  - **Aula 506** — `Aula_506.mp3`
+  - **Aula 507** — `Aula_507.mp3`
+  - **Aula 508** — `Aula_508.mp3`
+  - **Aula 509** — `Aula_509.mp3`
+  - **Aula 510** — `Aula_510.mp3`
+  - **Aula 511** — `Aula_511.mp3`
+  - **Aula 512** — `Aula_512.mp3`
+  - **Aula 513** — `Aula_513.mp3`
+  - **Aula 514** — `Aula_514.mp3`
+  - **Aula 515** — `Aula_515.mp3`
+  - **Aula 516** — `Aula_516.mp3`
+  - **Aula 517** — `Aula_517.mp3`
+  - **Aula 518** — `Aula_518.mp3`
+  - **Aula 519** — `Aula_519.mp3`
+  - **Aula 520** — `Aula_520.mp3`
+  - **Aula 521** — `Aula_521.mp3`
+  - **Aula 522** — `Aula_522.mp3`
+  - **Aula 523** — `Aula_523.mp3`
+  - **Aula 524** — `Aula_524.mp3`
+  - **Aula 525** — `Aula_525.mp3`
+  - **Aula 526** — `Aula_526.mp3`
+  - **Aula 527** — `Aula_527.mp3`
+  - **Aula 528** — `Aula_528.mp3`
+  - **Aula 529** — `Aula_529.mp3`
+  - **Aula 530** — `Aula_530.mp3`
+  - **Aula 531** — `Aula_531.mp3`
+  - **Aula 532** — `Aula_532.mp3`
+  - **Aula 533** — `Aula_533.mp3`
+  - **Aula 534** — `Aula_534.mp3`
+  - **Aula 535** — `Aula_535.mp3`
+  - **Aula 536** — `Aula_536.mp3`
+  - **Aula 537** — `Aula_537.mp3`
+  - **Aula 538** — `Aula_538.mp3`
+  - **Aula 539** — `Aula_539.mp3`
+  - **Aula 540** — `Aula_540.mp3`
+  - **Aula 541** — `Aula_541.mp3`
+  - **Aula 542** — `Aula_542.mp3`
+  - **Aula 543** — `Aula_543.mp3`
+  - **Aula 544** — `Aula_544.mp3`
+  - **Aula 545** — `Aula_545.mp3`
+  - **Aula 546** — `Aula_546.mp3`
+  - **Aula 547** — `Aula_547.mp3`
+  - **Aula 548** — `Aula_548.mp3`
+  - **Aula 549** — `Aula_549.mp3`
+  - **Aula 550** — `Aula_550.mp3`
+  - **Aula 551** — `Aula_551.mp3`
+  - **Aula 552** — `Aula_552.mp3`
+  - **Aula 553** — `Aula_553.mp3`
+  - **Aula 554** — `Aula_554.mp3`
+  - **Aula 555** — `Aula_555.mp3`
+  - **Aula 556** — `Aula_556.mp3`
+  - **Aula 557** — `Aula_557.mp3`
+  - **Aula 558** — `Aula_558.mp3`
+  - **Aula 559** — `Aula_559.mp3`
+  - **Aula 560** — `Aula_560.mp3`
+  - **Aula 561** — `Aula_561.mp3`
+  - **Aula 562** — `Aula_562.mp3`
+  - **Aula 563** — `Aula_563.mp3`
+  - **Aula 564** — `Aula_564.mp3`
+  - **Aula 565** — `Aula_565.mp3`
+  - **Aula 566** — `Aula_566.mp3`
+  - **Aula 567** — `Aula_567.mp3`
+  - **Aula 568** — `Aula_568.mp3`
+  - **Aula 569** — `Aula_569.mp3`
+  - **Aula 570** — `Aula_570.mp3`
+  - **Aula 571** — `Aula_571.mp3`
+  - **Aula 572** — `Aula_572.mp3`
+  - **Aula 573** — `Aula_573.mp3`
+  - **Aula 574** — `Aula_574.mp3`
+  - **Aula 575** — `Aula_575.mp3`
+  - **Aula 576** — `Aula_576.mp3`
+  - **Aula 577** — `Aula_577.mp3`
+  - **Aula 578** — `Aula_578.mp3`
+  - **Aula 579** — `Aula_579.mp3`
+  - **Aula 580** — `Aula_580.mp3`
+  - **Aula 581** — `Aula_581.mp3`
+  - **Aula 582** — `Aula_582.mp3`
+  - **Aula 583** — `Aula_583.mp3`
+  - **Aula 584** — `Aula_584.mp3`
+  - **Aula 585** — `Aula_585.mp3`
+
+### Transcrições (587 arquivos)
+- **Faixa numérica:** 000–585 (582 aulas únicas)
+
+  - **Aula 000** — Apresentacao do COF
+    - `Aula_000-Apresentacao_do_COF.pdf`
+    - `Aula_000-Questoes_Preliminares_do_COF.pdf`
+  - **Aula 001** — 14 de março de 2009
+    - `Aula_001-2009-03-14.pdf`
+  - **Aula 002** — 21 de março de 2009
+    - `Aula_002-2009-03-21.pdf`
+  - **Aula 003** — 4 de abril de 2009
+    - `Aula_003-2009-04-04.docx`
+  - **Aula 004** — 18 de abril de 2009
+    - `Aula_004-2009-04-18.pdf`
+  - **Aula 005** — 25 de abril de 2009
+    - `Aula_005-2009-04-25.docx`
+  - **Aula 006** — 3 de maio de 2009
+    - `Aula_006-2009-05-03.pdf`
+    - `Aula_006-2009-05-03_2.pdf` [_2]
+  - **Aula 007** — 16 de maio de 2009
+    - `Aula_007-2009-05-16.docx`
+  - **Aula 008** — 23 de maio de 2009
+    - `Aula_008-2009-05-23.docx`
+  - **Aula 009** — 6 de junho de 2009
+    - `Aula_009-2009-06-06.docx`
+  - **Aula 010** — 12 de junho de 2009
+    - `Aula_010-2009-06-12.docx`
+  - **Aula 011** — 20 de junho de 2009
+    - `Aula_011-2009-06-20.docx`
+  - **Aula 012** — 20 de junho de 2009
+    - `Aula_012-2009-06-20.docx`
+  - **Aula 013** — 4 de julho de 2009
+    - `Aula_013-2009-07-04.docx`
+  - **Aula 014** — 11 de julho de 2009
+    - `Aula_014-2009-07-11.docx`
+  - **Aula 015** — 18 de julho de 2009
+    - `Aula_015-2009-07-18.docx`
+  - **Aula 016** — 25 de julho de 2009
+    - `Aula_016-2009-07-25.docx`
+  - **Aula 017** — 1 de agosto de 2009
+    - `Aula_017-2009-08-01.docx`
+    - `Aula_017-2009-08-01.pdf`
+  - **Aula 018** — 8 de agosto de 2009
+    - `Aula_018-2009-08-08.docx`
+  - **Aula 019** — 15 de agosto de 2009
+    - `Aula_019-2009-08-15.docx`
+  - **Aula 020** — 22 de agosto de 2009
+    - `Aula_020-2009-08-22.docx`
+  - **Aula 021** — 29 de agosto de 2009
+    - `Aula_021-2009-08-29.docx`
+  - **Aula 022** — 5 de setembro de 2009
+    - `Aula_022-2009-09-05.docx`
+  - **Aula 023** — 12 de setembro de 2009
+    - `Aula_023-2009-09-12.docx`
+  - **Aula 024** — 19 de setembro de 2009
+    - `Aula_024-2009-09-19.docx`
+  - **Aula 025** — 26 de setembro de 2009
+    - `Aula_025-2009-09-26.docx`
+  - **Aula 026** — 3 de outubro de 2009
+    - `Aula_026-2009-10-03.docx`
+  - **Aula 027** — 1 de outubro de 2009
+    - `Aula_027-2009-10-01.docx`
+  - **Aula 028** — 17 de outubro de 2009
+    - `Aula_028-2009-10-17.docx`
+  - **Aula 029** — 24 de outubro de 2009
+    - `Aula_029-2009-10-24.docx`
+  - **Aula 030** — 31 de outubro de 2009
+    - `Aula_030-2009-10-31.docx`
+  - **Aula 031** — 7 de novembro de 2009
+    - `Aula_031-2009-11-07.docx`
+  - **Aula 032** — 14 de novembro de 2009
+    - `Aula_032-2009-11-14.docx`
+  - **Aula 033** — 21 de novembro de 2009
+    - `Aula_033-2009-11-21.docx`
+  - **Aula 034** — 28 de novembro de 2009
+    - `Aula_034-2009-11-28.docx`
+  - **Aula 035** — 5 de dezembro de 2009
+    - `Aula_035-2009-12-05.docx`
+  - **Aula 036** — 12 de dezembro de 2009
+    - `Aula_036-2009-12-12.docx`
+  - **Aula 037** — 19 de dezembro de 2009
+    - `Aula_037-2009-12-19.docx`
+  - **Aula 038** — 26 de dezembro de 2009
+    - `Aula_038-2009-12-26.docx`
+  - **Aula 039** — 2 de janeiro de 2010
+    - `Aula_039-2010-01-02.docx`
+  - **Aula 040** — 9 de janeiro de 2010
+    - `Aula_040-2010-01-09.docx`
+  - **Aula 041** — 16 de janeiro de 2010
+    - `Aula_041-2010-01-16.docx`
+  - **Aula 042** — 23 de janeiro de 2010
+    - `Aula_042-2010-01-23.docx`
+  - **Aula 043** — 30 de janeiro de 2010
+    - `Aula_043-2010-01-30.docx`
+  - **Aula 044** — 6 de fevereiro de 2010
+    - `Aula_044-2010-02-06.docx`
+  - **Aula 045** — 13 de fevereiro de 2010
+    - `Aula_045-2010-02-13.docx`
+  - **Aula 046** — 20 de fevereiro de 2010
+    - `Aula_046-2010-02-20.docx`
+  - **Aula 047** — 27 de fevereiro de 2010
+    - `Aula_047-2010-02-27.docx`
+  - **Aula 048** — 6 de março de 2010
+    - `Aula_048-2010-03-06.docx`
+  - **Aula 049** — 13 de março de 2010
+    - `Aula_049-2010-03-13.docx`
+  - **Aula 050** — 22 de março de 2010
+    - `Aula_050-2010-03-22.docx`
+  - **Aula 051** — 29 de março de 2010
+    - `Aula_051-2010-03-29.docx`
+  - **Aula 052** — 3 de abril de 2010
+    - `Aula_052-2010-04-03.docx`
+  - **Aula 053** — 10 de abril de 2010
+    - `Aula_053-2010-04-10.docx`
+  - **Aula 054** — 17 de abril de 2010
+    - `Aula_054-2010-04-17.docx`
+  - **Aula 055** — 24 de abril de 2010
+    - `Aula_055-2010-04-24.docx`
+  - **Aula 056** — 1 de maio de 2010
+    - `Aula_056-2010-05-01.docx`
+  - **Aula 057** — 8 de maio de 2010
+    - `Aula_057-2010-05-08.docx`
+  - **Aula 058** — 15 de maio de 2010
+    - `Aula_058-2010-05-15.docx`
+  - **Aula 059** — 22 de maio de 2010
+    - `Aula_059-2010-05-22.docx`
+  - **Aula 060** — 29 de maio de 2010
+    - `Aula_060-2010-05-29.docx`
+  - **Aula 061** — 5 de junho de 2010
+    - `Aula_061-2010-06-05.docx`
+  - **Aula 062** — 12 de junho de 2010
+    - `Aula_062-2010-06-12.docx`
+  - **Aula 063** — 26 de junho de 2010
+    - `Aula_063-2010-06-26.docx`
+  - **Aula 064** — 3 de julho de 2010
+    - `Aula_064-2010-07-03.docx`
+  - **Aula 065** — 10 de julho de 2010
+    - `Aula_065-2010-07-10.docx`
+  - **Aula 066** — 14 de julho de 2010
+    - `Aula_066-2010-07-14.docx`
+  - **Aula 067** — 24 de julho de 2010
+    - `Aula_067-2010-07-24.docx`
+  - **Aula 068** — 31 de julho de 2010
+    - `Aula_068-2010-07-31.docx`
+  - **Aula 069** — 7 de agosto de 2010
+    - `Aula_069-2010-08-07.docx`
+  - **Aula 070** — 14 de julho de 2010
+    - `Aula_070-2010-07-14.docx`
+  - **Aula 071** — 21 de agosto de 2010
+    - `Aula_071-2010-08-21.docx`
+  - **Aula 072** — 28 de agosto de 2010
+    - `Aula_072-2010-08-28.docx`
+  - **Aula 073** — 4 de setembro de 2010
+    - `Aula_073-2010-09-04.docx`
+  - **Aula 074** — 11 de setembro de 2010
+    - `Aula_074-2010-09-11.docx`
+  - **Aula 075** — 18 de setembro de 2010
+    - `Aula_075-2010-09-18.docx`
+  - **Aula 076** — 25 de novembro de 2010
+    - `Aula_076-2010-11-25.docx`
+  - **Aula 077** — 2 de outubro de 2010
+    - `Aula_077-2010-10-02.docx`
+  - **Aula 078** — 9 de outubro de 2010
+    - `Aula_078-2010-10-09.docx`
+  - **Aula 079** — 16 de outubro de 2012
+    - `Aula_079-2012-10-16.docx`
+  - **Aula 080** — 23 de outubro de 2010
+    - `Aula_080-2010-10-23.docx`
+  - **Aula 081** — 30 de outubro de 2010
+    - `Aula_081-2010-10-30.docx`
+  - **Aula 082** — 6 de novembro de 2010
+    - `Aula_082-2010-11-06.docx`
+  - **Aula 083** — 13 de novembro de 2010
+    - `Aula_083-2010-11-13.docx`
+  - **Aula 084** — 20 de novembro de 2010
+    - `Aula_084-2010-11-20.docx`
+  - **Aula 085** — 27 de novembro de 2010
+    - `Aula_085-2010-11-27.docx`
+  - **Aula 086** — 4 de dezembro de 2010
+    - `Aula_086-2010-12-04.docx`
+  - **Aula 087** — 11 de dezembro de 2010
+    - `Aula_087-2010-12-11.pdf`
+  - **Aula 088** — 21 de janeiro de 2010
+    - `Aula_088-2010-01-21.docx`
+  - **Aula 089** — 8 de janeiro de 2011
+    - `Aula_089-2011-01-08.docx`
+  - **Aula 090** — 15 de janeiro de 2011
+    - `Aula_090-2011-01-15.docx`
+  - **Aula 091** — 22 de janeiro de 2011
+    - `Aula_091-2011-01-22.docx`
+  - **Aula 092** — 29 de janeiro de 2011
+    - `Aula_092-2011-01-29.docx`
+  - **Aula 093** — 5 de fevereiro de 2011
+    - `Aula_093-2011-02-05.docx`
+  - **Aula 094** — 12 de fevereiro de 2011
+    - `Aula_094-2011-02-12.docx`
+  - **Aula 095** — 19 de fevereiro de 2011
+    - `Aula_095-2011-02-19.docx`
+  - **Aula 096** — 5 de março de 2011
+    - `Aula_096-2011-03-05.docx`
+  - **Aula 097** — 12 de março de 2011
+    - `Aula_097-2011-03-12.docx`
+  - **Aula 098** — 19 de março de 2011
+    - `Aula_098-2011-03-19.docx`
+  - **Aula 099** — 26 de março de 2011
+    - `Aula_099-2011-03-26.docx`
+  - **Aula 100** — 2 de abril de 2011
+    - `Aula_100-2011-04-02.docx`
+  - **Aula 101** — 9 de abril de 2011
+    - `Aula_101-2011-04-09.docx`
+  - **Aula 102** — 16 de abril de 2011
+    - `Aula_102-2011-04-16.docx`
+  - **Aula 103** — 23 de abril de 2011
+    - `Aula_103-2011-04-23.docx`
+  - **Aula 104** — 30 de abril de 2011
+    - `Aula_104-2011-04-30.docx`
+  - **Aula 105** — 7 de maio de 2011
+    - `Aula_105-2011-05-07.docx`
+  - **Aula 106** — 4 de maio de 2011
+    - `Aula_106-2011-05-04.docx`
+  - **Aula 107** — 28 de maio de 2011
+    - `Aula_107-2011-05-28.docx`
+  - **Aula 108** — 2 de junho de 2011
+    - `Aula_108-2011-06-02.docx`
+  - **Aula 109** — 11 de junho de 2011
+    - `Aula_109-2011-06-11.docx`
+  - **Aula 110** — 18 de junho de 2011
+    - `Aula_110-2011-06-18.docx`
+  - **Aula 111** — 25 de junho de 2011
+    - `Aula_111-2011-06-25.docx`
+  - **Aula 112** — 2 de julho de 2011
+    - `Aula_112-2011-07-02.docx`
+  - **Aula 113** — 9 de julho de 2011
+    - `Aula_113-2011-07-09.docx`
+  - **Aula 114** — 16 de julho de 2011
+    - `Aula_114-2011-07-16.docx`
+  - **Aula 115** — 23 de junho de 2011
+    - `Aula_115-2011-06-23.docx`
+  - **Aula 116** — 30 de julho de 2011
+    - `Aula_116-2011-07-30.docx`
+  - **Aula 117** — 6 de agosto de 2011
+    - `Aula_117-2011-08-06.docx`
+  - **Aula 118** — 13 de agosto de 2011
+    - `Aula_118-2011-08-13.docx`
+  - **Aula 119** — 20 de agosto de 2011
+    - `Aula_119-2011-08-20.docx`
+  - **Aula 120** — 3 de setembro de 2011
+    - `Aula_120-2011-09-03.docx`
+  - **Aula 121** — 10 de setembro de 2011
+    - `Aula_121-2011-09-10.docx`
+  - **Aula 122** — 17 de setembro de 2011
+    - `Aula_122-2011-09-17.docx`
+  - **Aula 123** — 24 de setembro de 2011
+    - `Aula_123-2011-09-24.docx`
+  - **Aula 124** — 1 de outubro de 2011
+    - `Aula_124-2011-10-01.docx`
+  - **Aula 125** — 8 de outubro de 2011
+    - `Aula_125-2011-10-08.docx`
+  - **Aula 126** — 15 de outubro de 2011
+    - `Aula_126-2011-10-15.docx`
+  - **Aula 127** — 22 de outubro de 2011
+    - `Aula_127-2011-10-22.docx`
+  - **Aula 128** — 29 de outubro de 2011
+    - `Aula_128-2011-10-29.docx`
+  - **Aula 129** — 5 de novembro de 2011
+    - `Aula_129-2011-11-05.docx`
+  - **Aula 130** — 12 de novembro de 2011
+    - `Aula_130-2011-11-12.docx`
+  - **Aula 131** — 19 de novembro de 2011
+    - `Aula_131-2011-11-19.docx`
+  - **Aula 132** — 25 de novembro de 2011
+    - `Aula_132-2011-11-25.docx`
+  - **Aula 133** — 3 de dezembro de 2011
+    - `Aula_133-2011-12-03.docx`
+  - **Aula 134** — 10 de dezembro de 2011
+    - `Aula_134-2011-12-10.docx`
+  - **Aula 135** — 17 de dezembro de 2011
+    - `Aula_135-2011-12-17.docx`
+  - **Aula 136** — 7 de janeiro de 2012
+    - `Aula_136-2012-01-07.docx`
+  - **Aula 137** — 14 de janeiro de 2012
+    - `Aula_137-2012-01-14.docx`
+  - **Aula 138** — 21 de janeiro de 2012
+    - `Aula_138-2012-01-21.docx`
+  - **Aula 139** — 28 de janeiro de 2012
+    - `Aula_139-2012-01-28.docx`
+  - **Aula 140** — 4 de fevereiro de 2012
+    - `Aula_140-2012-02-04.docx`
+  - **Aula 141** — 11 de fevereiro de 2012
+    - `Aula_141-2012-02-11.docx`
+  - **Aula 142** — 19 de fevereiro de 2012
+    - `Aula_142-2012-02-19.docx`
+  - **Aula 143** — 25 de fevereiro de 2012
+    - `Aula_143-2012-02-25.docx`
+  - **Aula 144** — 3 de março de 2012
+    - `Aula_144-2012-03-03.pdf`
+  - **Aula 145** — 10 de março de 2012
+    - `Aula_145-2012-03-10.docx`
+  - **Aula 146** — 17 de março de 2012
+    - `Aula_146-2012-03-17.docx`
+  - **Aula 147** — 24 de março de 2012
+    - `Aula_147-2012-03-24.docx`
+  - **Aula 148** — 31 de março de 2012
+    - `Aula_148-2012-03-31.docx`
+  - **Aula 149** — 4 de julho de 2012
+    - `Aula_149-2012-07-04.docx`
+  - **Aula 150** — 14 de julho de 2012
+    - `Aula_150-2012-07-14.docx`
+  - **Aula 151** — 21 de abril de 2012
+    - `Aula_151-2012-04-21.docx`
+  - **Aula 152** — 28 de abril de 2012
+    - `Aula_152-2012-04-28.docx`
+  - **Aula 153** — 5 de maio de 2012
+    - `Aula_153-2012-05-05.docx`
+  - **Aula 154** — 12 de maio de 2012
+    - `Aula_154-2012-05-12.docx`
+  - **Aula 155** — 19 de maio de 2012
+    - `Aula_155-2012-05-19.docx`
+  - **Aula 156** — 26 de maio de 2012
+    - `Aula_156-2012-05-26.docx`
+  - **Aula 157** — 2 de junho de 2012
+    - `Aula_157-2012-06-02.docx`
+  - **Aula 158** — 9 de junho de 2012
+    - `Aula_158-2012-06-09.docx`
+  - **Aula 159** — 16 de junho de 2012
+    - `Aula_159-2012-06-16.docx`
+  - **Aula 160** — 23 de junho de 2012
+    - `Aula_160-2012-06-23.docx`
+  - **Aula 161** — 1 de julho de 2012
+    - `Aula_161-2012-07-01.docx`
+  - **Aula 162** — 7 de julho de 2012
+    - `Aula_162-2012-07-07.docx`
+  - **Aula 163** — 14 de julho de 2012
+    - `Aula_163-2012-07-14.docx`
+  - **Aula 164** — 21 de julho de 2012
+    - `Aula_164-2012-07-21.docx`
+  - **Aula 165** — 28 de julho de 2012
+    - `Aula_165-2012-07-28.docx`
+  - **Aula 166** — 4 de agosto de 2012
+    - `Aula_166-2012-08-04.docx`
+  - **Aula 167** — 11 de agosto de 2012
+    - `Aula_167-2012-08-11.docx`
+  - **Aula 168** — 18 de agosto de 2012
+    - `Aula_168-2012-08-18.docx`
+  - **Aula 169** — 25 de agosto de 2012
+    - `Aula_169-2012-08-25.docx`
+  - **Aula 170** — 1 de setembro de 2012
+    - `Aula_170-2012-09-01.docx`
+  - **Aula 171** — 8 de setembro de 2012
+    - `Aula_171-2012-09-08.docx`
+  - **Aula 172** — 15 de setembro de 2012
+    - `Aula_172-2012-09-15.docx`
+  - **Aula 173** — 22 de setembro de 2012
+    - `Aula_173-2012-09-22.docx`
+  - **Aula 174** — 6 de outubro de 2012
+    - `Aula_174-2012-10-06.docx`
+  - **Aula 175** — 13 de outubro de 2012
+    - `Aula_175-2012-10-13.docx`
+  - **Aula 176** — 8 de setembro de 2012
+    - `Aula_176-2012-09-08.docx`
+  - **Aula 177** — 27 de outubro de 2012
+    - `Aula_177-2012-10-27.docx`
+  - **Aula 178** — 3 de novembro de 2012
+    - `Aula_178-2012-11-03.docx`
+  - **Aula 179** — 10 de novembro de 2012
+    - `Aula_179-2012-11-10.docx`
+  - **Aula 180** — 17 de novembro de 2012
+    - `Aula_180-2012-11-17.docx`
+  - **Aula 181** — 27 de novembro de 2012
+    - `Aula_181-2012-11-27.docx`
+  - **Aula 182** — 1 de dezembro de 2012
+    - `Aula_182-2012-12-01.docx`
+  - **Aula 183** — 10 de dezembro de 2012
+    - `Aula_183-2012-12-10.docx`
+  - **Aula 184** — 15 de dezembro de 2012
+    - `Aula_184-2012-12-15.docx`
+  - **Aula 185** — 22 de dezembro de 2012
+    - `Aula_185-2012-12-22.docx`
+  - **Aula 186** — 5 de janeiro de 2013
+    - `Aula_186-2013-01-05.docx`
+  - **Aula 187** — 12 de janeiro de 2013
+    - `Aula_187-2013-01-12.docx`
+  - **Aula 188** — 19 de janeiro de 2013
+    - `Aula_188-2013-01-19.docx`
+  - **Aula 189** — 26 de janeiro de 2013
+    - `Aula_189-2013-01-26.docx`
+  - **Aula 190** — 2 de fevereiro de 2013
+    - `Aula_190-2013-02-02.docx`
+  - **Aula 191** — 9 de fevereiro de 2013
+    - `Aula_191-2013-02-09.docx`
+  - **Aula 192** — 16 de fevereiro de 2013
+    - `Aula_192-2013-02-16.docx`
+  - **Aula 193** — 23 de fevereiro de 2013
+    - `Aula_193-2013-02-23.docx`
+  - **Aula 194** — 2 de março de 2013
+    - `Aula_194-2013-03-02.docx`
+  - **Aula 195** — 9 de março de 2013
+    - `Aula_195-2013-03-09.docx`
+  - **Aula 196** — 16 de março de 2013
+    - `Aula_196-2013-03-16.docx`
+  - **Aula 197** — 23 de março de 2013
+    - `Aula_197-2013-03-23.docx`
+  - **Aula 198** — 30 de março de 2013
+    - `Aula_198-2013-03-30.docx`
+  - **Aula 199** — 6 de abril de 2013
+    - `Aula_199-2013-04-06.docx`
+  - **Aula 200** — 13 de abril de 2013
+    - `Aula_200-2013-04-13.docx`
+  - **Aula 201** — 20 de abril de 2013
+    - `Aula_201-2013-04-20.docx`
+  - **Aula 202** — 27 de abril de 2013
+    - `Aula_202-2013-04-27.docx`
+  - **Aula 203** — 11 de maio de 2013
+    - `Aula_203-2013-05-11.docx`
+  - **Aula 204** — 18 de maio de 2013
+    - `Aula_204-2013-05-18.docx`
+  - **Aula 205** — 25 de maio de 2013
+    - `Aula_205-2013-05-25.docx`
+  - **Aula 206** — 1 de junho de 2013
+    - `Aula_206-2013-06-01.docx`
+  - **Aula 207** — 15 de junho de 2013
+    - `Aula_207-2013-06-15.docx`
+  - **Aula 208** — 22 de junho de 2013
+    - `Aula_208-2013-06-22.docx`
+  - **Aula 209** — 29 de junho de 2013
+    - `Aula_209-2013-06-29.docx`
+  - **Aula 210** — 6 de julho de 2013
+    - `Aula_210-2013-07-06.docx`
+  - **Aula 211** — 13 de julho de 2013
+    - `Aula_211-2013-07-13.docx`
+  - **Aula 212** — 20 de julho de 2013
+    - `Aula_212-2013-07-20.docx`
+  - **Aula 213** — 27 de julho de 2013
+    - `Aula_213-2013-07-27.docx`
+  - **Aula 214** — 3 de agosto de 2013
+    - `Aula_214-2013-08-03.docx`
+  - **Aula 215** — 10 de agosto de 2013
+    - `Aula_215-2013-08-10.docx`
+  - **Aula 216** — 17 de agosto de 2013
+    - `Aula_216-2013-08-17.pdf`
+  - **Aula 217** — 24 de agosto de 2013
+    - `Aula_217-2013-08-24.docx`
+  - **Aula 218** — 31 de agosto de 2013
+    - `Aula_218-2013-08-31.docx`
+  - **Aula 219** — 7 de setembro de 2013
+    - `Aula_219-2013-09-07.docx`
+  - **Aula 220** — 14 de setembro de 2013
+    - `Aula_220-2013-09-14.docx`
+  - **Aula 221** — 21 de setembro de 2013
+    - `Aula_221-2013-09-21.docx`
+  - **Aula 222** — 5 de outubro de 2013
+    - `Aula_222-2013-10-05.docx`
+  - **Aula 223** — 12 de outubro de 2013
+    - `Aula_223-2013-10-12.docx`
+  - **Aula 224** — 19 de outubro de 2013
+    - `Aula_224-2013-10-19.docx`
+  - **Aula 225** — 26 de outubro de 2013
+    - `Aula_225-2013-10-26.docx`
+  - **Aula 226** — 2 de novembro de 2013
+    - `Aula_226-2013-11-02.docx`
+  - **Aula 227** — 9 de novembro de 2013
+    - `Aula_227-2013-11-09.docx`
+  - **Aula 228** — 16 de novembro de 2013
+    - `Aula_228-2013-11-16.docx`
+  - **Aula 229** — 30 de novembro de 2013
+    - `Aula_229-2013-11-30.docx`
+  - **Aula 230** — 7 de dezembro de 2013
+    - `Aula_230-2013-12-07.pdf`
+  - **Aula 231** — 21 de dezembro de 2013
+    - `Aula_231-2013-12-21.docx`
+  - **Aula 232** — 28 de dezembro de 2013
+    - `Aula_232-2013-12-28.pdf`
+  - **Aula 233** — 4 de janeiro de 2014
+    - `Aula_233-2014-01-04.docx`
+  - **Aula 234** — 11 de janeiro de 2014
+    - `Aula_234-2014-01-11.pdf`
+  - **Aula 235** — 18 de janeiro de 2014
+    - `Aula_235-2014-01-18.docx`
+  - **Aula 236** — 25 de janeiro de 2014
+    - `Aula_236-2014-01-25.docx`
+  - **Aula 237** — 1 de fevereiro de 2014
+    - `Aula_237-2014-02-01.docx`
+  - **Aula 238** — 8 de fevereiro de 2014
+    - `Aula_238-2014-02-08.docx`
+  - **Aula 239** — 15 de fevereiro de 2014
+    - `Aula_239-2014-02-15.docx`
+  - **Aula 240** — 22 de fevereiro de 2014
+    - `Aula_240-2014-02-22.docx`
+  - **Aula 241** — 1 de março de 2014
+    - `Aula_241-2014-03-01.docx`
+  - **Aula 242** — 15 de março de 2014
+    - `Aula_242-2014-03-15.docx`
+  - **Aula 243** — 22 de março de 2014
+    - `Aula_243-2014-03-22.docx`
+  - **Aula 244** — 29 de março de 2014
+    - `Aula_244-2014-03-29.docx`
+  - **Aula 245** — 12 de abril de 2014
+    - `Aula_245-2014-04-12.pdf`
+  - **Aula 246** — 19 de abril de 2014
+    - `Aula_246-2014-04-19.docx`
+  - **Aula 247** — 3 de maio de 2014
+    - `Aula_247-2014-05-03.pdf`
+  - **Aula 248** — 10 de maio de 2014
+    - `Aula_248-2014-05-10.docx`
+  - **Aula 249** — 15 de maio de 2014
+    - `Aula_249-2014-05-15.pdf`
+  - **Aula 250** — 24 de maio de 2014
+    - `Aula_250-2014-05-24.docx`
+  - **Aula 251** — 31 de maio de 2014
+    - `Aula_251-2014-05-31.pdf`
+  - **Aula 252** — 14 de junho de 2014
+    - `Aula_252-2014-06-14.pdf`
+  - **Aula 253** — 21 de junho de 2014
+    - `Aula_253-2014-06-21.docx`
+  - **Aula 254** — 28 de junho de 2014
+    - `Aula_254-2014-06-28.pdf`
+  - **Aula 255** — 5 de julho de 2014
+    - `Aula_255-2014-07-05.pdf`
+  - **Aula 256** — 19 de julho de 2014
+    - `Aula_256-2014-07-19.docx`
+  - **Aula 257** — 26 de julho de 2014
+    - `Aula_257-2014-07-26.pdf`
+  - **Aula 258** — 2 de agosto de 2014
+    - `Aula_258-2014-08-02.docx`
+  - **Aula 259** — 11 de setembro de 2014
+    - `Aula_259-2014-09-11.pdf`
+  - **Aula 260** — 16 de agosto de 2014
+    - `Aula_260-2014-08-16.docx`
+  - **Aula 261** — 23 de agosto de 2014
+    - `Aula_261-2014-08-23.docx`
+  - **Aula 262** — 30 de agosto de 2014
+    - `Aula_262-2014-08-30.docx`
+  - **Aula 263** — 12 de setembro de 2014
+    - `Aula_263-2014-09-12.docx`
+  - **Aula 264** — 27 de setembro de 2014
+    - `Aula_264-2014-09-27.pdf`
+  - **Aula 265** — 4 de outubro de 2014
+    - `Aula_265-2014-10-04.pdf`
+  - **Aula 266** — 11 de outubro de 2014
+    - `Aula_266-2014-10-11.pdf`
+  - **Aula 267** — 18 de outubro de 2014
+    - `Aula_267-2014-10-18.pdf`
+  - **Aula 268** — 25 de outubro de 2014
+    - `Aula_268-2014-10-25.pdf`
+  - **Aula 269** — 1 de novembro de 2014
+    - `Aula_269-2014-11-01.pdf`
+  - **Aula 270** — 8 de novembro de 2014
+    - `Aula_270-2014-11-08.pdf`
+  - **Aula 271** — 15 de novembro de 2014
+    - `Aula_271-2014-11-15.docx`
+  - **Aula 272** — 29 de novembro de 2014
+    - `Aula_272-2014-11-29.docx`
+  - **Aula 273** — 6 de dezembro de 2014
+    - `Aula_273-2014-12-06.docx`
+  - **Aula 274** — 13 de dezembro de 2014
+    - `Aula_274-2014-12-13.docx`
+  - **Aula 275** — 20 de dezembro de 2014
+    - `Aula_275-2014-12-20.docx`
+  - **Aula 276** — 27 de dezembro de 2014
+    - `Aula_276-2014-12-27.docx`
+  - **Aula 277** — 3 de janeiro de 2015
+    - `Aula_277-2015-01-03.pdf`
+  - **Aula 278** — 10 de setembro de 2015
+    - `Aula_278-2015-09-10.pdf`
+  - **Aula 279** — 17 de janeiro de 2015
+    - `Aula_279-2015-01-17.docx`
+  - **Aula 280** — 24 de janeiro de 2015
+    - `Aula_280-2015-01-24.pdf`
+  - **Aula 281** — 7 de fevereiro de 2015
+    - `Aula_281-2015-02-07.pdf`
+  - **Aula 282** — 14 de fevereiro de 2014
+    - `Aula_282-2014-02-14.pdf`
+  - **Aula 283** — 21 de fevereiro de 2015
+    - `Aula_283-2015-02-21.pdf`
+  - **Aula 284** — 28 de fevereiro de 2015
+    - `Aula_284-2015-02-28.pdf`
+  - **Aula 285** — 14 de março de 2015
+    - `Aula_285-2015-03-14.pdf`
+  - **Aula 286** — 28 de março de 2015
+    - `Aula_286-2015-03-28.docx`
+  - **Aula 287** — 4 de abril de 2015
+    - `Aula_287-2015-04-04.pdf`
+  - **Aula 289** — 18 de abril de 2015
+    - `Aula_289-2015-04-18.pdf`
+  - **Aula 290** — 25 de abril de 2015
+    - `Aula_290-2015-04-25.pdf`
+  - **Aula 291** — 2 de maio de 2015
+    - `Aula_291-2015-05-02.pdf`
+  - **Aula 292** — 9 de maio de 2015
+    - `Aula_292-2015-05-09.pdf`
+  - **Aula 293** — 23 de maio de 2015
+    - `Aula_293-2015-05-23.docx`
+  - **Aula 294** — 6 de junho de 2015
+    - `Aula_294-2015-06-06.pdf`
+  - **Aula 295** — 13 de junho de 2015
+    - `Aula_295-2015-06-13.pdf`
+  - **Aula 296** — 20 de junho de 2015
+    - `Aula_296-2015-06-20.pdf`
+  - **Aula 297** — 27 de junho de 2015
+    - `Aula_297-2015-06-27.pdf`
+  - **Aula 298** — 4 de julho de 2015
+    - `Aula_298-2015-07-04.pdf`
+  - **Aula 299** — 11 de julho de 2015
+    - `Aula_299-2015-07-11.pdf`
+  - **Aula 300** — 25 de julho de 2015
+    - `Aula_300-2015-07-25.pdf`
+  - **Aula 301** — 1 de agosto de 2015
+    - `Aula_301-2015-08-01.pdf`
+  - **Aula 302** — 8 de agosto de 2015
+    - `Aula_302-2015-08-08.pdf`
+  - **Aula 303** — 15 de agosto de 2015
+    - `Aula_303-2015-08-15.pdf`
+  - **Aula 304** — 22 de agosto de 2015
+    - `Aula_304-2015-08-22.pdf`
+  - **Aula 305** — 29 de agosto de 2017
+    - `Aula_305-2017-08-29.pdf`
+  - **Aula 306** — 5 de setembro de 2015
+    - `Aula_306-2015-09-05.pdf`
+  - **Aula 307** — 12 de setembro de 2015
+    - `Aula_307-2015-09-12.pdf`
+  - **Aula 308** — 19 de setembro de 2015
+    - `Aula_308-2015-09-19.pdf`
+  - **Aula 309** — 26 de setembro de 2015
+    - `Aula_309-2015-09-26.pdf`
+  - **Aula 310** — 3 de outubro de 2015
+    - `Aula_310-2015-10-03.pdf`
+  - **Aula 311** — 10 de outubro de 2015
+    - `Aula_311-2015-10-10.pdf`
+  - **Aula 312** — 17 de outubro de 2015
+    - `Aula_312-2015-10-17.pdf`
+  - **Aula 313** — 24 de outubro de 2017
+    - `Aula_313-2017-10-24.pdf`
+  - **Aula 314** — 31 de outubro de 2017
+    - `Aula_314-2017-10-31.pdf`
+  - **Aula 315** — 7 de novembro de 2015
+    - `Aula_315-2015-11-07.pdf`
+  - **Aula 316** — 14 de novembro de 2015
+    - `Aula_316-2015-11-14.pdf`
+  - **Aula 317** — 28 de novembro de 2015
+    - `Aula_317-2015-11-28.pdf`
+  - **Aula 318** — 5 de dezembro de 2015
+    - `Aula_318-2015-12-05.pdf`
+  - **Aula 319** — 12 de dezembro de 2015
+    - `Aula_319-2015-12-12.pdf`
+  - **Aula 320** — 19 de dezembro de 2015
+    - `Aula_320-2015-12-19.pdf`
+  - **Aula 321** — 2 de janeiro de 2016
+    - `Aula_321-2016-01-02.pdf`
+  - **Aula 322** — 9 de janeiro de 2016
+    - `Aula_322-2016-01-09.pdf`
+  - **Aula 323** — 16 de janeiro de 2016
+    - `Aula_323-2016-01-16.pdf`
+  - **Aula 324** — 23 de janeiro de 2016
+    - `Aula_324-2016-01-23.pdf`
+  - **Aula 325** — 30 de janeiro de 2016
+    - `Aula_325-2016-01-30.pdf`
+  - **Aula 326** — 6 de fevereiro de 2016
+    - `Aula_326-2016-02-06.pdf`
+  - **Aula 327** — 13 de fevereiro de 2016
+    - `Aula_327-2016-02-13.pdf`
+  - **Aula 328** — 27 de fevereiro de 2016
+    - `Aula_328-2016-02-27.pdf`
+  - **Aula 329** — 5 de março de 2016
+    - `Aula_329-2016-03-05.pdf`
+  - **Aula 330** — 12 de março de 2016
+    - `Aula_330-2016-03-12.pdf`
+  - **Aula 331** — 19 de março de 2016
+    - `Aula_331-2016-03-19.pdf`
+  - **Aula 332** — 26 de março de 2016
+    - `Aula_332-2016-03-26.pdf`
+  - **Aula 333** — 2 de abril de 2016
+    - `Aula_333-2016-04-02.pdf`
+  - **Aula 334** — 9 de maio de 2016
+    - `Aula_334-2016-05-09.pdf`
+  - **Aula 335** — 16 de abril de 2016
+    - `Aula_335-2016-04-16.pdf`
+  - **Aula 336** — 30 de abril de 2016
+    - `Aula_336-2016-04-30.pdf`
+  - **Aula 337** — 7 de maio de 2016
+    - `Aula_337-2016-05-07.pdf`
+  - **Aula 338** — 21 de maio de 2016
+    - `Aula_338-2016-05-21.pdf`
+  - **Aula 339** — 28 de maio de 2016
+    - `Aula_339-2016-05-28.pdf`
+  - **Aula 340** — 4 de junho de 2016
+    - `Aula_340-2016-06-04.pdf`
+  - **Aula 341** — 11 de junho de 2016
+    - `Aula_341-2016-06-11.pdf`
+  - **Aula 342** — 18 de junho de 2016
+    - `Aula_342-2016-06-18.pdf`
+  - **Aula 343** — 25 de junho de 2016
+    - `Aula_343-2016-06-25.pdf`
+  - **Aula 344** — 2 de julho de 2016
+    - `Aula_344-2016-07-02.pdf`
+  - **Aula 345** — 9 de julho de 2016
+    - `Aula_345-2016-07-09.pdf`
+  - **Aula 346** — 16 de julho de 2016
+    - `Aula_346-2016-07-16.pdf`
+  - **Aula 347** — 23 de julho de 2016
+    - `Aula_347-2016-07-23.pdf`
+  - **Aula 348** — 30 de julho de 2016
+    - `Aula_348-2016-07-30.pdf`
+  - **Aula 349** — 6 de agosto de 2016
+    - `Aula_349-2016-08-06.pdf`
+  - **Aula 350** — 12 de agosto de 2016
+    - `Aula_350-2016-08-12.pdf`
+  - **Aula 351** — 20 de agosto de 2016
+    - `Aula_351-2016-08-20.pdf`
+  - **Aula 352** — 27 de agosto de 2016
+    - `Aula_352-2016-08-27.pdf`
+  - **Aula 353** — 3 de setembro de 2016
+    - `Aula_353-2016-09-03.pdf`
+  - **Aula 354** — 10 de outubro de 2016
+    - `Aula_354-2016-10-10.pdf`
+  - **Aula 355** — 17 de setembro de 2016
+    - `Aula_355-2016-09-17.pdf`
+  - **Aula 356** — 10 de outubro de 2016
+    - `Aula_356-2016-10-10.pdf`
+  - **Aula 357** — 1 de outubro de 2016
+    - `Aula_357-2016-10-01.pdf`
+  - **Aula 358** — 8 de outubro de 2016
+    - `Aula_358-2016-10-08.pdf`
+  - **Aula 359** — 15 de outubro de 2016
+    - `Aula_359-2016-10-15.pdf`
+  - **Aula 360** — 29 de outubro de 2016
+    - `Aula_360-2016-10-29.pdf`
+  - **Aula 361** — 5 de novembro de 2016
+    - `Aula_361-2016-11-05.pdf`
+  - **Aula 362** — 12 de novembro de 2016
+    - `Aula_362-2016-11-12.pdf`
+  - **Aula 363** — 20 de novembro de 2016
+    - `Aula_363-2016-11-20.pdf`
+  - **Aula 364** — 26 de novembro de 2017
+    - `Aula_364-2017-11-26.pdf`
+  - **Aula 365** — 10 de dezembro de 2016
+    - `Aula_365-2016-12-10.pdf`
+  - **Aula 366** — 17 de dezembro de 2017
+    - `Aula_366-2017-12-17.pdf`
+  - **Aula 367** — 7 de janeiro de 2017
+    - `Aula_367-2017-01-07.pdf`
+  - **Aula 368** — 14 de janeiro de 2017
+    - `Aula_368-2017-01-14.pdf`
+  - **Aula 369** — 21 de janeiro de 2017
+    - `Aula_369-2017-01-21.pdf`
+  - **Aula 370** — 28 de janeiro de 2017
+    - `Aula_370-2017-01-28.pdf`
+  - **Aula 371** — 4 de fevereiro de 2019
+    - `Aula_371-2019-02-04.pdf`
+  - **Aula 372** — 18 de fevereiro de 2017
+    - `Aula_372-2017-02-18.pdf`
+  - **Aula 373** — 25 de fevereiro de 2017
+    - `Aula_373-2017-02-25.pdf`
+  - **Aula 374** — 3 de março de 2017
+    - `Aula_374-2017-03-03.pdf`
+  - **Aula 375** — 11 de março de 2017
+    - `Aula_375-2017-03-11.pdf`
+  - **Aula 376** — 18 de março de 2017
+    - `Aula_376-2017-03-18.pdf`
+  - **Aula 377** — 25 de março de 2017
+    - `Aula_377-2017-03-25.pdf`
+  - **Aula 378** — 1 de abril de 2017
+    - `Aula_378-2017-04-01.pdf`
+  - **Aula 379** — 15 de abril de 2017
+    - `Aula_379-2017-04-15.pdf`
+  - **Aula 380** — 21 de abril de 2017
+    - `Aula_380-2017-04-21.pdf`
+  - **Aula 381** — 29 de abril de 2017
+    - `Aula_381-2017-04-29.pdf`
+  - **Aula 382** — 6 de maio de 2017
+    - `Aula_382-2017-05-06.pdf`
+  - **Aula 384** — 20 de maio de 2016
+    - `Aula_384-2016-05-20.pdf`
+  - **Aula 385** — 25 de maio de 2017
+    - `Aula_385-2017-05-25.pdf`
+  - **Aula 386** — 3 de junho de 2017
+    - `Aula_386-2017-06-03.pdf`
+  - **Aula 387** — 10 de junho de 2017
+    - `Aula_387-2017-06-10.pdf`
+  - **Aula 388** — 17 de junho de 2017
+    - `Aula_388-2017-06-17.pdf`
+  - **Aula 389** — 24 de junho de 2017
+    - `Aula_389-2017-06-24.pdf`
+  - **Aula 390** — 1 de julho de 2017
+    - `Aula_390-2017-07-01.pdf`
+  - **Aula 391** — 8 de agosto de 2017
+    - `Aula_391-2017-08-08.pdf`
+  - **Aula 392** — 15 de julho de 2017
+    - `Aula_392-2017-07-15.pdf`
+  - **Aula 393** — 22 de julho de 2017
+    - `Aula_393-2017-07-22.pdf`
+  - **Aula 394** — 29 de julho de 2017
+    - `Aula_394-2017-07-29.pdf`
+  - **Aula 395** — 5 de agosto de 2017
+    - `Aula_395-2017-08-05.pdf`
+  - **Aula 396** — 12 de agosto de 2017
+    - `Aula_396-2017-08-12.pdf`
+  - **Aula 397** — 19 de agosto de 2017
+    - `Aula_397-2017-08-19.pdf`
+  - **Aula 398** — 26 de agosto de 2017
+    - `Aula_398-2017-08-26.pdf`
+  - **Aula 399** — 2 de setembro de 2017
+    - `Aula_399-2017-09-02.pdf`
+  - **Aula 400** — 16 de setembro de 2017
+    - `Aula_400-2017-09-16.pdf`
+  - **Aula 401** — 23 de setembro de 2017
+    - `Aula_401-2017-09-23.pdf`
+  - **Aula 402** — 30 de setembro de 2017
+    - `Aula_402-2017-09-30.pdf`
+  - **Aula 403** — 7 de outubro de 2017
+    - `Aula_403-2017-10-07.pdf`
+  - **Aula 404** — 14 de outubro de 2017
+    - `Aula_404-2017-10-14.pdf`
+    - `Aula_404-2017-10-14_2.pdf` [_2]
+  - **Aula 405** — 21 de outubro de 2017
+    - `Aula_405-2017-10-21.pdf`
+  - **Aula 406** — 26 de setembro de 2017
+    - `Aula_406-2017-09-26.pdf`
+  - **Aula 407** — 11 de novembro de 2017
+    - `Aula_407-2017-11-11.pdf`
+  - **Aula 408** — 25 de novembro de 2017
+    - `Aula_408-2017-11-25.pdf`
+  - **Aula 409** — 2 de dezembro de 2017
+    - `Aula_409-2017-12-02.pdf`
+  - **Aula 410** — 9 de dezembro de 2017
+    - `Aula_410-2017-12-09.pdf`
+  - **Aula 411** — 16 de dezembro de 2017
+    - `Aula_411-2017-12-16.pdf`
+  - **Aula 412** — 23 de dezembro de 2017
+    - `Aula_412-2017-12-23.pdf`
+  - **Aula 413** — 26 de janeiro de 2017
+    - `Aula_413-2017-01-26.pdf`
+  - **Aula 414** — 13 de janeiro de 2018
+    - `Aula_414-2018-01-13.pdf`
+  - **Aula 415** — 20 de janeiro de 2018
+    - `Aula_415-2018-01-20.pdf`
+  - **Aula 416** — 27 de janeiro de 2018
+    - `Aula_416-2018-01-27.pdf`
+  - **Aula 417** — 3 de fevereiro de 2018
+    - `Aula_417-2018-02-03.pdf`
+  - **Aula 418** — 10 de fevereiro de 2018
+    - `Aula_418-2018-02-10.pdf`
+  - **Aula 419** — 17 de fevereiro de 2018
+    - `Aula_419-2018-02-17.pdf`
+  - **Aula 420** — 24 de fevereiro de 2018
+    - `Aula_420-2018-02-24.pdf`
+  - **Aula 421** — 10 de março de 2018
+    - `Aula_421-2018-03-10.pdf`
+  - **Aula 422** — 21 de abril de 2018
+    - `Aula_422-2018-04-21.pdf`
+  - **Aula 423** — 5 de maio de 2018
+    - `Aula_423-2018-05-05.pdf`
+  - **Aula 424** — 12 de maio de 2018
+    - `Aula_424-2018-05-12.pdf`
+  - **Aula 425** — 19 de maio de 2018
+    - `Aula_425-2018-05-19.pdf`
+  - **Aula 426** — 25 de maio de 2018
+    - `Aula_426-2018-05-25.pdf`
+  - **Aula 427** — 2 de junho de 2018
+    - `Aula_427-2018-06-02.pdf`
+  - **Aula 428** — 9 de junho de 2018
+    - `Aula_428-2018-06-09.pdf`
+  - **Aula 429** — 23 de junho de 2018
+    - `Aula_429-2018-06-23.pdf`
+  - **Aula 430** — 7 de julho de 2018
+    - `Aula_430-2018-07-07.pdf`
+  - **Aula 431** — 14 de julho de 2018
+    - `Aula_431-2018-07-14.pdf`
+  - **Aula 432** — 22 de julho de 2018
+    - `Aula_432-2018-07-22.pdf`
+  - **Aula 433** — 28 de julho de 2018
+    - `Aula_433-2018-07-28.pdf`
+  - **Aula 434** — 4 de agosto de 2018
+    - `Aula_434-2018-08-04.pdf`
+  - **Aula 435** — 11 de agosto de 2018
+    - `Aula_435-2018-08-11.pdf`
+  - **Aula 436** — 25 de agosto de 2018
+    - `Aula_436-2018-08-25.pdf`
+  - **Aula 437** — 1 de setembro de 2018
+    - `Aula_437-2018-09-01.pdf`
+  - **Aula 438** — 8 de setembro de 2018
+    - `Aula_438-2018-09-08.pdf`
+  - **Aula 439** — 15 de setembro de 2018
+    - `Aula_439-2018-09-15.pdf`
+  - **Aula 440** — 22 de setembro de 2018
+    - `Aula_440-2018-09-22.pdf`
+  - **Aula 441** — 29 de setembro de 2018
+    - `Aula_441-2018-09-29.pdf`
+  - **Aula 442** — 6 de outubro de 2017
+    - `Aula_442-2017-10-06.pdf`
+  - **Aula 443** — 12 de outubro de 2018
+    - `Aula_443-2018-10-12.pdf`
+  - **Aula 444** — 20 de outubro de 2018
+    - `Aula_444-2018-10-20.pdf`
+  - **Aula 445** — 27 de outubro de 2018
+    - `Aula_445-2018-10-27.pdf`
+  - **Aula 446** — 3 de novembro de 2018
+    - `Aula_446-2018-11-03.pdf`
+  - **Aula 447** — 10 de novembro de 2018
+    - `Aula_447-2018-11-10.pdf`
+  - **Aula 448** — 17 de novembro de 2018
+    - `Aula_448-2018-11-17.pdf`
+  - **Aula 449** — 24 de novembro de 2018
+    - `Aula_449-2018-11-24.pdf`
+  - **Aula 450** — 1 de dezembro de 2018
+    - `Aula_450-2018-12-01.pdf`
+  - **Aula 451** — 8 de dezembro de 2018
+    - `Aula_451-2018-12-08.pdf`
+  - **Aula 453** — 22 de dezembro de 2018
+    - `Aula_453-2018-12-22.pdf`
+  - **Aula 454** — 22 de dezembro de 2018
+    - `Aula_454-2018-12-22.pdf`
+  - **Aula 455** — 12 de janeiro de 2018
+    - `Aula_455-2018-01-12.pdf`
+  - **Aula 456** — 19 de janeiro de 2019
+    - `Aula_456-2019-01-19.pdf`
+  - **Aula 457** — 26 de janeiro de 2019
+    - `Aula_457-2019-01-26.pdf`
+  - **Aula 458** — 9 de fevereiro de 2019
+    - `Aula_458-2019-02-09.pdf`
+  - **Aula 459** — 9 de fevereiro de 2019
+    - `Aula_459-2019-02-09.pdf`
+  - **Aula 460** — 16 de fevereiro de 2019
+    - `Aula_460-2019-02-16.pdf`
+  - **Aula 461** — 23 de fevereiro de 2019
+    - `Aula_461-2019-02-23.pdf`
+  - **Aula 462** — 2 de março de 2019
+    - `Aula_462-2019-03-02.pdf`
+  - **Aula 463** — 8 de março de 2019
+    - `Aula_463-2019-03-08.pdf`
+  - **Aula 464** — 23 de março de 2019
+    - `Aula_464-2019-03-23.pdf`
+  - **Aula 465** — 30 de março de 2019
+    - `Aula_465-2019-03-30.pdf`
+  - **Aula 466** — 6 de abril de 2019
+    - `Aula_466-2019-04-06.pdf`
+  - **Aula 467** — 13 de abril de 2019
+    - `Aula_467-2019-04-13.pdf`
+  - **Aula 468** — 20 de abril de 2019
+    - `Aula_468-2019-04-20.pdf`
+  - **Aula 469** — 4 de maio de 2022
+    - `Aula_469-2022-05-04.pdf`
+  - **Aula 470** — 15 de maio de 2019
+    - `Aula_470-2019-05-15.pdf`
+  - **Aula 471** — 4 de fevereiro de 2019
+    - `Aula_471-2019-02-04.pdf`
+  - **Aula 472** — 25 de maio de 2019
+    - `Aula_472-2019-05-25.pdf`
+  - **Aula 473** — 1 de junho de 2019
+    - `Aula_473-2019-06-01.pdf`
+  - **Aula 474** — 8 de junho de 2019
+    - `Aula_474-2019-06-08.pdf`
+  - **Aula 475** — 15 de junho de 2019
+    - `Aula_475-2019-06-15.pdf`
+  - **Aula 476** — 22 de junho de 2019
+    - `Aula_476-2019-06-22.pdf`
+  - **Aula 477** — 29 de junho de 2019
+    - `Aula_477-2019-06-29.pdf`
+  - **Aula 478** — 6 de julho de 2019
+    - `Aula_478-2019-07-06.pdf`
+  - **Aula 479** — 13 de julho de 2019
+    - `Aula_479-2019-07-13.pdf`
+  - **Aula 480** — 20 de julho de 2019
+    - `Aula_480-2019-07-20.pdf`
+  - **Aula 481** — 27 de julho de 2019
+    - `Aula_481-2019-07-27.pdf`
+  - **Aula 482** — 3 de agosto de 2019
+    - `Aula_482-2019-08-03.pdf`
+  - **Aula 483** — 17 de agosto de 2019
+    - `Aula_483-2019-08-17.pdf`
+  - **Aula 484** — 24 de agosto de 2019
+    - `Aula_484-2019-08-24.pdf`
+  - **Aula 485** — 31 de agosto de 2019
+    - `Aula_485-2019-08-31.pdf`
+  - **Aula 486** — 7 de setembro de 2019
+    - `Aula_486-2019-09-07.pdf`
+  - **Aula 487** — 14 de setembro de 2019
+    - `Aula_487-2019-09-14.pdf`
+  - **Aula 488** — 21 de setembro de 2019
+    - `Aula_488-2019-09-21.pdf`
+  - **Aula 489** — 28 de setembro de 2019
+    - `Aula_489-2019-09-28.pdf`
+  - **Aula 490** — 5 de outubro de 2019
+    - `Aula_490-2019-10-05.pdf`
+  - **Aula 491** — 26 de outubro de 2019
+    - `Aula_491-2019-10-26.pdf`
+  - **Aula 492** — 2 de novembro de 2019
+    - `Aula_492-2019-11-02.pdf`
+  - **Aula 493** — 10 de novembro de 2019
+    - `Aula_493-2019-11-10.pdf`
+  - **Aula 494** — 16 de novembro de 2019
+    - `Aula_494-2019-11-16.pdf`
+  - **Aula 495** — 23 de novembro de 2019
+    - `Aula_495-2019-11-23.pdf`
+  - **Aula 496** — 30 de novembro de 2019
+    - `Aula_496-2019-11-30.pdf`
+  - **Aula 497** — 30 de novembro de 2019
+    - `Aula_497-2019-11-30.pdf`
+  - **Aula 498** — 14 de dezembro de 2019
+    - `Aula_498-2019-12-14.pdf`
+  - **Aula 499** — 21 de dezembro de 2019
+    - `Aula_499-2019-12-21.pdf`
+  - **Aula 500** — 28 de dezembro de 2019
+    - `Aula_500-2019-12-28.pdf`
+  - **Aula 501** — 4 de janeiro de 2020
+    - `Aula_501-2020-01-04.pdf`
+  - **Aula 502** — 18 de janeiro de 2020
+    - `Aula_502-2020-01-18.pdf`
+  - **Aula 503** — 25 de janeiro de 2020
+    - `Aula_503-2020-01-25.pdf`
+  - **Aula 504** — 1 de fevereiro de 2020
+    - `Aula_504-2020-02-01.pdf`
+  - **Aula 505** — 8 de fevereiro de 2020
+    - `Aula_505-2020-02-08.pdf`
+  - **Aula 506** — 15 de fevereiro de 2020
+    - `Aula_506-2020-02-15.pdf`
+  - **Aula 507** — 29 de março de 2020
+    - `Aula_507-2020-03-29.pdf`
+  - **Aula 508** — 7 de março de 2020
+    - `Aula_508-2020-03-07.pdf`
+  - **Aula 509** — 14 de março de 2020
+    - `Aula_509-2020-03-14.pdf`
+  - **Aula 510** — 21 de março de 2020
+    - `Aula_510-2020-03-21.pdf`
+  - **Aula 511** — 28 de março de 2020
+    - `Aula_511-2020-03-28.pdf`
+  - **Aula 512** — 4 de abril de 2020
+    - `Aula_512-2020-04-04.pdf`
+  - **Aula 513** — 11 de abril de 2020
+    - `Aula_513-2020-04-11.pdf`
+  - **Aula 514** — 18 de abril de 2020
+    - `Aula_514-2020-04-18.pdf`
+  - **Aula 515** — 25 de abril de 2020
+    - `Aula_515-2020-04-25.pdf`
+  - **Aula 516** — 2 de maio de 2020
+    - `Aula_516-2020-05-02.pdf`
+  - **Aula 517** — 9 de maio de 2020
+    - `Aula_517-2020-05-09.pdf`
+  - **Aula 518** — 16 de maio de 2020
+    - `Aula_518-2020-05-16.pdf`
+  - **Aula 519** — 23 de maio de 2020
+    - `Aula_519-2020-05-23.pdf`
+  - **Aula 520** — 30 de maio de 2020
+    - `Aula_520-2020-05-30.pdf`
+  - **Aula 521** — 6 de junho de 2020
+    - `Aula_521-2020-06-06.pdf`
+  - **Aula 522** — 13 de junho de 2020
+    - `Aula_522-2020-06-13.pdf`
+  - **Aula 523** — 20 de junho de 2020
+    - `Aula_523-2020-06-20.pdf`
+  - **Aula 524** — 27 de junho de 2020
+    - `Aula_524-2020-06-27.pdf`
+  - **Aula 525** — 11 de setembro de 2020
+    - `Aula_525-2020-09-11.pdf`
+  - **Aula 526** — 18 de julho de 2020
+    - `Aula_526-2020-07-18.pdf`
+  - **Aula 527** — 25 de julho de 2020
+    - `Aula_527-2020-07-25.pdf`
+  - **Aula 528** — 1 de agosto de 2020
+    - `Aula_528-2020-08-01.pdf`
+  - **Aula 529** — 8 de agosto de 2020
+    - `Aula_529-2020-08-08.pdf`
+  - **Aula 530** — 22 de agosto de 2020
+    - `Aula_530-2020-08-22.pdf`
+  - **Aula 531** — 29 de agosto de 2020
+    - `Aula_531-2020-08-29.pdf`
+  - **Aula 532** — 5 de setembro de 2020
+    - `Aula_532-2020-09-05.pdf`
+  - **Aula 533** — 12 de setembro de 2020
+    - `Aula_533-2020-09-12.pdf`
+  - **Aula 534** — 19 de setembro de 2020
+    - `Aula_534-2020-09-19.pdf`
+  - **Aula 535** — 26 de setembro de 2020
+    - `Aula_535-2020-09-26.pdf`
+  - **Aula 536** — 3 de outubro de 2020
+    - `Aula_536-2020-10-03.pdf`
+  - **Aula 537** — 10 de outubro de 2020
+    - `Aula_537-2020-10-10.pdf`
+  - **Aula 538** — 1 de agosto de 2020
+    - `Aula_538-2020-08-01.pdf`
+  - **Aula 539** — 24 de outubro de 2020
+    - `Aula_539-2020-10-24.pdf`
+  - **Aula 540** — 31 de outubro de 2020
+    - `Aula_540-2020-10-31.pdf`
+  - **Aula 541** — 7 de novembro de 2020
+    - `Aula_541-2020-11-07.pdf`
+  - **Aula 542** — 14 de novembro de 2020
+    - `Aula_542-2020-11-14.pdf`
+  - **Aula 543** — 21 de novembro de 2020
+    - `Aula_543-2020-11-21.pdf`
+  - **Aula 544** — 28 de novembro de 2020
+    - `Aula_544-2020-11-28.pdf`
+  - **Aula 545** — 11 de maio de 2022
+    - `Aula_545-2022-05-11.pdf`
+  - **Aula 546** — 12 de dezembro de 2020
+    - `Aula_546-2020-12-12.pdf`
+  - **Aula 547** — 19 de dezembro de 2020
+    - `Aula_547-2020-12-19.pdf`
+  - **Aula 548** — 26 de dezembro de 2020
+    - `Aula_548-2020-12-26.pdf`
+  - **Aula 549** — 2 de janeiro de 2021
+    - `Aula_549-2021-01-02.pdf`
+  - **Aula 550** — 9 de janeiro de 2020
+    - `Aula_550-2020-01-09.pdf`
+  - **Aula 551** — 16 de janeiro de 2021
+    - `Aula_551-2021-01-16.pdf`
+  - **Aula 552** — 23 de janeiro de 2021
+    - `Aula_552-2021-01-23.pdf`
+  - **Aula 554** — 30 de janeiro de 2021
+    - `Aula_554-2021-01-30.pdf`
+    - `Aula_554-2021-02-06.pdf`
+  - **Aula 555** — 13 de fevereiro de 2021
+    - `Aula_555-2021-02-13.pdf`
+  - **Aula 556** — 20 de fevereiro de 2021
+    - `Aula_556-2021-02-20.pdf`
+  - **Aula 557** — 6 de março de 2021
+    - `Aula_557-2021-03-06.pdf`
+  - **Aula 558** — 13 de março de 2021
+    - `Aula_558-2021-03-13.pdf`
+  - **Aula 559** — 20 de março de 2021
+    - `Aula_559-2021-03-20.pdf`
+  - **Aula 560** — 27 de março de 2021
+    - `Aula_560-2021-03-27.pdf`
+  - **Aula 561** — 3 de abril de 2021
+    - `Aula_561-2021-04-03.pdf`
+  - **Aula 562** — 10 de abril de 2021
+    - `Aula_562-2021-04-10.pdf`
+  - **Aula 563** — 1 de maio de 2021
+    - `Aula_563-2021-05-01.pdf`
+  - **Aula 564** — 8 de maio de 2021
+    - `Aula_564-2021-05-08.pdf`
+  - **Aula 565** — 22 de maio de 2021
+    - `Aula_565-2021-05-22.pdf`
+  - **Aula 566** — 29 de maio de 2021
+    - `Aula_566-2021-05-29.pdf`
+  - **Aula 567** — 5 de junho de 2021
+    - `Aula_567-2021-06-05.pdf`
+  - **Aula 568** — 26 de junho de 2021
+    - `Aula_568-2021-06-26.pdf`
+  - **Aula 569** — 3 de julho de 2021
+    - `Aula_569-2021-07-03.pdf`
+  - **Aula 570** — 10 de julho de 2021
+    - `Aula_570-2021-07-10.pdf`
+  - **Aula 571** — 17 de julho de 2021
+    - `Aula_571-2021-07-17.pdf`
+  - **Aula 572** — 24 de julho de 2021
+    - `Aula_572-2021-07-24.pdf`
+  - **Aula 573** — 31 de julho de 2021
+    - `Aula_573-2021-07-31.pdf`
+  - **Aula 574** — 7 de agosto de 2021
+    - `Aula_574-2021-08-07.pdf`
+  - **Aula 575** — 14 de agosto de 2021
+    - `Aula_575-2021-08-14.pdf`
+  - **Aula 576** — 22 de agosto de 2021
+    - `Aula_576-2021-08-22.pdf`
+  - **Aula 577** — 28 de agosto de 2021
+    - `Aula_577-2021-08-28.pdf`
+  - **Aula 578** — 4 de setembro de 2021
+    - `Aula_578-2021-09-04.pdf`
+  - **Aula 579** — 11 de setembro de 2021
+    - `Aula_579-2021-09-11.pdf`
+  - **Aula 580** — 20 de novembro de 2021
+    - `Aula_580-2021-11-20.pdf`
+  - **Aula 581** — 27 de novembro de 2021
+    - `Aula_581-2021-11-27.pdf`
+  - **Aula 582** — 4 de dezembro de 2021
+    - `Aula_582-2021-12-04.pdf`
+  - **Aula 583** — 11 de dezembro de 2021
+    - `Aula_583-2021-12-11.pdf`
+  - **Aula 584** — 18 de dezembro de 2021
+    - `Aula_584-2021-12-18.pdf`
+  - **Aula 585** — 1 de janeiro de 2022
+    - `Aula_585-2022-01-01.pdf`
+
+### Livros (62 arquivos)
+
+- A Criminalidade em Ascensão uma Visão Civilizacional.pdf
+- A Nova era e a revolução cultural.pdf
+- A Organização Econômica.pdf
+- A aula da Vontade.pdf
+- A depreciação da humanidade.pdf
+- A filosofia de Mário Ferreira dos Santos.pdf
+- A imortalidade como premissa do método filosófico.pdf
+- A leitura Hermenêutica.pdf
+- A tripla intuição.pdf
+- Apresentação do livro Reflexões Autobiográficas_ de Eric Voegelin.pdf
+- Arte sacra_ estudipez profana.pdf
+- As doze camadas da personalidade.pdf
+- Como tornar-se um gostosão intelectual.pdf
+- Como tornar_-se um buscador da verdade _Introdução à Zetologia.pdf
+- Conselhos aos Estudantes de Filosofia.pdf
+- Considerações sobre o Seminário de Filosofia.pdf
+- Crença e sistema.pdf
+- Debate entre Alexandre Duguin e Olavo de Carvalho.pdf
+- Deduções Metafísicas.pdf
+- Dois métodos.pdf
+- Duas visões do destino.pdf
+- Duvidar da Dúvida e Criticar o Criticismo_ PRELIMINARES DE UM RETORNO À METAFÍSICA DOGMÁTICA.pdf
+- Entrevista com Olavo de Carvalho na revista República.pdf
+- Espírito e personalidade II.pdf
+- Espírito e personalidade.pdf
+- Existência e possibilidade.pdf
+- Experiência e presença.pdf
+- Fugindo da filosofia.pdf
+- Full man responsibility.docx
+- Humildade_ Ridículo e Ironia.pdf
+- Implicações para o Brasil_ nos campos político e econômico_ em decorrência do ato terrorista ocorrido nos EUA.pdf
+- Influências intelectuais que recebi até a década de 90.pdf
+- Inteligência_ verdade e certeza.pdf
+- Introdução à vida intelectual 01.pdf
+- Introdução à vida intelectual 02.pdf
+- Introdução à vida intelectual 03.pdf
+- Introdução à vida intelectual 04.pdf
+- Introdução à vida intelectual 05.pdf
+- Introdução à vida intelectual 06.pdf
+- Jean Brun - Filosofia e Cristianismo.pdf
+- Mais Musicas Redneck.docx
+- Melodias para guardar.docx
+- Musicas Favoritas.docx
+- Musicas Redneck.docx
+- Nota sobre Richard Dawkins.pdf
+- Nova lista de melodias.docx
+- Novas melodias para guardar na memoria.docx
+- O criminoso mentecapto.pdf
+- O falso divórcio de ciência e filosofia.pdf
+- O mundo exterior e as perguntas cépticas.pdf
+- O que é psique.pdf
+- O que é um milagre.pdf
+- O trauma da emergência da razão.pdf
+- Problemas de método nas ciências humanas.pdf
+- Quem é Gurdjieff.pdf
+- Quem é o sujeito da História.pdf
+- Questões de Simbolismo Geométrico.pdf
+- Sistema Filosófico Olavo de Carvalho.pdf
+- Sobre a Arte de Estudar.pdf
+- Teses sobre o Poder.pdf
+- Uma defesa à crítica de Olavo contra Cantor.pdf
+- Uma história da filosofia para filósofos.pdf
+
+## COF Remasterizado
+
+Localização: `/home/edson/dev/cof/data/COF Remasterizado/`
+
+### Áudios (72 arquivos)
+
+
+### Transcrições (40 arquivos)
+- **Faixa numérica:** 001–040 (40 aulas únicas)
+
+  - **Aula 001** — 14 de março de 2009
+    - `Aula_001-2009-03-14.pdf`
+  - **Aula 002** — 21 de março de 2009
+    - `Aula_002-2009-03-21.pdf`
+  - **Aula 003** — 4 de abril de 2009
+    - `Aula_003-2009-04-04.pdf`
+  - **Aula 004** — 18 de abril de 2009
+    - `Aula_004-2009-04-18.pdf`
+  - **Aula 005** — 25 de abril de 2009
+    - `Aula_005-2009-04-25.pdf`
+  - **Aula 006** — 3 de maio de 2009
+    - `Aula_006-2009-05-03.pdf`
+  - **Aula 007** — 16 de maio de 2009
+    - `Aula_007-2009-05-16.pdf`
+  - **Aula 008** — 23 de maio de 2009
+    - `Aula_008-2009-05-23.pdf`
+  - **Aula 009** — 6 de junho de 2009
+    - `Aula_009-2009-06-06.pdf`
+  - **Aula 010** — 13 de junho de 2009
+    - `Aula_010-2009-06-13.pdf`
+  - **Aula 011** — 20 de junho de 2009
+    - `Aula_011-2009-06-20.pdf`
+  - **Aula 012** — 20 de junho de 2009
+    - `Aula_012-2009-06-20.pdf`
+  - **Aula 013** — 4 de julho de 2009
+    - `Aula_013-2009-07-04.pdf`
+  - **Aula 014** — 11 de julho de 2009
+    - `Aula_014-2009-07-11.pdf`
+  - **Aula 015** — 18 de julho de 2009
+    - `Aula_015-2009-07-18.pdf`
+  - **Aula 016** — 25 de julho de 2009
+    - `Aula_016-2009-07-25.pdf`
+  - **Aula 017** — 1 de agosto de 2009
+    - `Aula_017-2009-08-01.pdf`
+  - **Aula 018** — 8 de agosto de 2009
+    - `Aula_018-2009-08-08.pdf`
+  - **Aula 019** — 15 de agosto de 2009
+    - `Aula_019-2009-08-15.pdf`
+  - **Aula 020** — 22 de agosto de 2009
+    - `Aula_020-2009-08-22.pdf`
+  - **Aula 021** — 29 de agosto de 2009
+    - `Aula_021-2009-08-29.pdf`
+  - **Aula 022** — 5 de setembro de 2009
+    - `Aula_022-2009-09-05.pdf`
+  - **Aula 023** — 13 de setembro de 2009
+    - `Aula_023-2009-09-13.pdf`
+  - **Aula 024** — 19 de setembro de 2009
+    - `Aula_024-2009-09-19.pdf`
+  - **Aula 025** — 26 de setembro de 2009
+    - `Aula_025-2009-09-26.pdf`
+  - **Aula 026** — 3 de outubro de 2009
+    - `Aula_026-2009-10-03.pdf`
+  - **Aula 027** — 10 de outubro de 2010
+    - `Aula_027-2010-10-10.pdf`
+  - **Aula 028** — 17 de outubro de 2009
+    - `Aula_028-2009-10-17.pdf`
+  - **Aula 029** — 24 de outubro de 2009
+    - `Aula_029-2009-10-24.pdf`
+  - **Aula 030** — 31 de outubro de 2009
+    - `Aula_030-2009-10-31.pdf`
+  - **Aula 031** — 7 de novembro de 2009
+    - `Aula_031-2009-11-07.pdf`
+  - **Aula 032** — 14 de novembro de 2009
+    - `Aula_032-2009-11-14.pdf`
+  - **Aula 033** — 21 de novembro de 2009
+    - `Aula_033-2009-11-21.pdf`
+  - **Aula 034** — 1 de novembro de 2009
+    - `Aula_034-2009-11-01.pdf`
+  - **Aula 035** — 5 de dezembro de 2009
+    - `Aula_035-2009-12-05.pdf`
+  - **Aula 036** — 12 de dezembro de 2009
+    - `Aula_036-2009-12-12.pdf`
+  - **Aula 037** — 19 de dezembro de 2009
+    - `Aula_037-2009-12-19.pdf`
+  - **Aula 038** — 26 de dezembro de 2009
+    - `Aula_038-2009-12-26.pdf`
+  - **Aula 039** — 2 de janeiro de 2010
+    - `Aula_039-2010-01-02.pdf`
+  - **Aula 040** — 9 de janeiro de 2010
+    - `Aula_040-2010-01-09.pdf`
+
+### Livros (1 arquivos)
+
+- Elementos de tipologia espiritual.pdf
+
+## Extracurriculares
+
+Localização remota: `/home/edson/dev/cof/data/extracurriculares/`. 
+Cada pasta agrupa arquivos de uma palestra/conferência avulsa do Olavo fora do ciclo regular do COF.
+
+**Total de palestras/conferências:** 23
+
+### A crise da inteligência segundo Roger Scruton
+- `audios`
+- `editados`
+- `transcricoes`
+
+### A formação da personalidade
+- `audios`
+- `editados`
+- `transcricoes`
+
+### A Guerra Contra a Inteligência o que estão fazendo para imbecilizar você
+- `audios`
+- `editados`
+- `transcricoes`
+- `videos`
+
+### As raízes da modernidade
+- `audios`
+- `editados`
+- `transcricoes`
+
+### Ciência Política Saber, Prever e Poder
+- `apostilas`
+- `audios`
+- `editados`
+- `transcricoes`
+
+### Como tornar-se um leitor inteligente
+- `audios`
+- `editados`
+- `transcricoes`
+
+### Conceitos fundamentais de psicologia
+- `apostilas`
+- `audios`
+- `editados`
+- `transcricoes`
+
+### Conhecimento e moralidade
+- `audios`
+- `editados`
+- `transcricoes`
+
+### Consciência de imortalidade
+- `audios`
+- `editados`
+- `transcricoes`
+
+### Esoterismo na História e hoje em dia
+- `audios`
+- `editados`
+- `transcricoes`
+
+### Filosofia da ciência
+- `audios`
+- `editados`
+- `transcricoes`
+
+### Guerra Cultural história e estratégias
+- `audios`
+- `editados`
+- `transcricoes`
+
+### II Encontro de Escritores Brasileiros na Virginia
+- `audios`
+- `editados`
+- `transcricoes`
+
+### Introdução ao método filosófico
+- `audios`
+- `editados`
+- `transcricoes`
+- `videos`
+
+### Introdução à filosofia de Eric Voegelin
+- `audios`
+- `editados`
+- `transcricoes`
+
+### Introdução à filosofia de Louis Lavelle
+- `audios`
+- `editados`
+- `transcricoes`
+
+### Introdução à Filosofia de Olavo de Carvalho
+- `apostilas`
+- `outros`
+
+### Mário Ferreira dos Santos Guia para o estudo de sua obra
+- `audios`
+- `editados`
+- `transcricoes`
+
+### Política e Cultura no Brasil história e perspectivas
+- `audios`
+- `editados`
+- `transcricoes`
+- `videos`
+
+### Princípios e métodos da auto-educação
+- `audios`
+- `editados`
+- `transcricoes`
+
+### Ser e Poder Princípios e Métodos da Ciência Política
+- `audios`
+- `editados`
+- `transcricoes`
+
+### Simbolismo e ordem cósmica ontem e hoje
+- `apostilas`
+- `audios`
+- `editados`
+- `transcricoes`
+
+### Sociologia da filosofia
+- `audios`
+- `editados`
+- `transcricoes`
+
+---
+
+## Resumo
+
+| Categoria              | Original | Remasterizado |
+|------------------------|---------:|--------------:|
+| Áudios (`Aula_NNN.mp3`)     | 576 | 72 |
+| Transcrições (PDF/DOCX)     | 587 | 40 |
+| Livros (PDF)                | 62 | 1 |
+
+**Total geral em disco:** 1338 arquivos (+ pastas de extracurriculares).
