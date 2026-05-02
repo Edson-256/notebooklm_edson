@@ -19,7 +19,11 @@ voltar exatamente de onde paramos.
   via Stripe (recibo 2717-7300-3129, 2026-05-02). Hipótese: chave atual
   (`n8n-automation`, sufixo `iwAA`) está em workspace sem os créditos.
   Solução: criar `cof-enrich-haiku-v2` em workspace **Default**.
-- ⏸️ **Runner de áudio** ainda não implementado (próximo passo)
+- ✅ **Runner de áudio** (`06_audio_runner.py`) implementado e validado em
+  dry-run (782 itens, sanity-check pass, formatos `deep_dive/brief/critique/debate`
+  mapeados). **Aguarda guias enriquecidos** (que dependem da chave nova) para
+  rodar real, mas a estrutura está pronta — pode começar pelos itens cujos
+  prompts já estão completos.
 
 **Notebook NLM:** `5508086a-da53-4947-bce4-a1d7d83cf0e2`
 **Conta:** `default` (edson.michalkiewicz@gmail.com)
@@ -112,19 +116,43 @@ Para revalidar (após qualquer mudança nas fontes):
 .venv/bin/python scripts/06_build_sources_map.py --validate
 ```
 
-### 5. Implementar runner de áudio
+### 5. Runner de áudio ✅ (implementado, aguardando guias)
 
-`scripts/06_audio_runner.py` (a fazer) — análogo ao `quo_vadis_runner.py`,
-respeitando as regras de
-`~/dev/notebooklm_edson/docs/regras_pipeline_audio_por_cena.md`:
+`scripts/06_audio_runner.py` pronto e validado em dry-run. Segue todas as 10
+regras de `~/dev/notebooklm_edson/docs/regras_pipeline_audio_por_cena.md`.
 
-- ID canônico = `seq_global` do inventário (1–782)
-- Manifest JSON como fonte da verdade
-- Sanity-checks no startup
-- Dry-run obrigatório antes do primeiro disparo
-- 2min entre disparos
-- Lotes de 10–20 itens
-- Logging com `prompt_filename` no log
+**Antes do primeiro disparo real (obrigatório):**
+
+```bash
+# 1. Lista o plano sem disparar — confira título/prompt/format
+.venv/bin/python scripts/06_audio_runner.py --dry-run --skip-auth-check
+
+# 2. Filtra por kind/range para inspecionar amostras variadas
+.venv/bin/python scripts/06_audio_runner.py --dry-run --skip-auth-check --kind livro --max 5
+.venv/bin/python scripts/06_audio_runner.py --dry-run --skip-auth-check --only 1,500,782
+```
+
+**Para disparar em produção (em lotes pequenos!):**
+
+```bash
+# Ativa nlm e dispara um único item de teste primeiro
+.venv/bin/python scripts/06_audio_runner.py --max 1
+# Espera ~3min e baixa o primeiro áudio para inspeção
+.venv/bin/python scripts/06_audio_runner.py --download
+
+# Se o áudio sair coerente com o prompt, libera lotes maiores:
+.venv/bin/python scripts/06_audio_runner.py --max 10
+.venv/bin/python scripts/06_audio_runner.py --download
+```
+
+**Filtros úteis:**
+- `--from N --to M`: range de seq_global
+- `--kind <aula|livro|extra_aula|apostila|artigo|teoria_estado>`
+- `--only 1,5,42`: lista explícita
+- `--max N`: limite de itens nesta sessão
+
+Estimativa total: ~39h para 782 itens com `INTERVAL_SECONDS=120`. Dividir em
+sessões de 10–20 itens conforme regra 9 do pipeline.
 
 ## Estado dos arquivos no repo
 
@@ -162,7 +190,8 @@ projetos/cof_v2/
     ├── 03_collect_books_extras.py
     ├── 04_generate_prompt_batch.py    # rodou tudo
     ├── 05_enrich_guias.py             # bloqueado em billing/workspace
-    └── 06_build_sources_map.py        # rodou em 2026-05-02 (782/782)
+    ├── 06_build_sources_map.py        # rodou em 2026-05-02 (782/782)
+    └── 06_audio_runner.py             # pronto, validado em dry-run
 ```
 
 ## Beads / sessão
