@@ -1,0 +1,29 @@
+{
+  "obra": "Curso Online de Filosofia (COF)",
+  "obra_slug": "cof",
+  "notebook_id": "5508086a-da53-4947-bce4-a1d7d83cf0e2",
+  "audios": [
+    {
+      "arquivo": "cof_001_001.mp3",
+      "cena_numero": 1,
+      "slug": "aula-001",
+      "kind": "aula",
+      "titulo_completo": "Aula 001",
+      "audio_format": "Deep Dive",
+      "nlm_format": "deep_dive",
+      "artifact_id": "38db6f78-7baf-4aa1-8d7f-d8b795d63e0a",
+      "data_geracao": "2026-05-02T17:36:36.961616",
+      "prompt_filename": "aula-001.md",
+      "prompt_chars": 1846,
+      "focus_preview": "[ID]: aula-001\n[CATEGORIA]: Aula COF\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 1/781\n[ANTERIOR]: — (primeira da categoria)\n[PRÓXIMA]: aula-002\n\nINSTRUÇÕES PARA O ÁUDIO\n\nORIGEM E IDENTIFICAÇÃO\nEste áudio ...",
+      "source_id": "22897734-ca08-4b66-a962-12d25bcdde49",
+      "source_title": "COF-Aulas-2009-a.md",
+      "status": "downloaded",
+      "output_path": "audios/cof_001_001.mp3",
+      "tamanho_bytes": 29942521,
+      "downloaded_at": "2026-05-02T18:19:29.231834"
+    }
+  ],
+  "total_itens_processados": 1,
+  "ultima_atualizacao": "2026-05-02T18:19:29.231840"
+}

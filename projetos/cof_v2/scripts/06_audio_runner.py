@@ -301,19 +301,30 @@ def poll_status(artifact_id: str) -> str | None:
 
 
 def download_audio(artifact_id: str, output_path: Path) -> bool:
-    try:
-        result = run_nlm(["download", "audio", NOTEBOOK_ID,
-                          "--id", artifact_id,
-                          "--output", str(output_path),
-                          "--no-progress"], timeout=300)
-    except Exception as e:
-        log(f"   Erro no download: {e}")
-        return False
-    if result.returncode == 0 and output_path.exists():
-        size_mb = output_path.stat().st_size / (1024 * 1024)
-        log(f"   Download OK: {size_mb:.1f} MB")
-        return True
-    log(f"   Download falhou: {result.stderr[:300]}")
+    """Download com retry/backoff.
+
+    NotebookLM API marca artifact como `status: completed` antes do arquivo
+    estar realmente baixável (janela observada: 10-40 min entre 'completed' e
+    download disponível). Tenta 3x com backoff em vez de falhar de primeira.
+    """
+    backoffs = [0, 90, 240]  # imediato, +90s, +4min
+    for attempt, wait in enumerate(backoffs, 1):
+        if wait:
+            log(f"   Aguardando {wait}s antes da tentativa {attempt}/3...")
+            time.sleep(wait)
+        try:
+            result = run_nlm(["download", "audio", NOTEBOOK_ID,
+                              "--id", artifact_id,
+                              "--output", str(output_path),
+                              "--no-progress"], timeout=300)
+        except Exception as e:
+            log(f"   Erro no download (attempt {attempt}): {e}")
+            continue
+        if result.returncode == 0 and output_path.exists():
+            size_mb = output_path.stat().st_size / (1024 * 1024)
+            log(f"   Download OK: {size_mb:.1f} MB (attempt {attempt})")
+            return True
+        log(f"   Download falhou (attempt {attempt}): {(result.stderr or result.stdout)[:200]}")
     return False
 
 
