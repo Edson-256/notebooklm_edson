@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Enriquece guias/<id>.md preenchendo síntese, conceitos, exercícios e sugestões
-de leitura via Claude Haiku 4.5 (Anthropic API).
+de leitura via LLM (Anthropic Haiku 4.5 ou OpenAI GPT-5-*).
 
 Anti-invenção: o system prompt obriga "só fatos do texto, sem extrapolar".
 Se a transcrição é omissa em algum ponto, o campo correspondente fica
@@ -13,12 +13,22 @@ Uso:
   .venv/bin/python scripts/05_enrich_guias.py --from 1 --to 40
   .venv/bin/python scripts/05_enrich_guias.py --all
   .venv/bin/python scripts/05_enrich_guias.py --stats
+
+Provider:
+  --provider anthropic   (default — claude-haiku-4-5; requer ANTHROPIC_API_KEY)
+  --provider openai      (gpt-5-mini default; requer OPENAI_API_KEY)
+  --model <id>           (override do modelo do provider escolhido)
 """
-import argparse, json, re, sys, time, os
+import argparse, json, re, sys, time, os, threading
 from pathlib import Path
 from datetime import datetime
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 import anthropic
+try:
+    import openai
+except ImportError:
+    openai = None
 
 ROOT = Path(__file__).parent.parent
 INV = ROOT / "plano/01_inventario_completo.json"
@@ -26,9 +36,21 @@ PROG = ROOT / "plano/_progresso.json"
 GUIAS_DIR = ROOT / "guias"
 LOT_SIZE = 20
 
-MODEL = "claude-haiku-4-5"  # Haiku 4.5 — barato, rápido, contexto 200k
+DEFAULT_MODELS = {
+    "anthropic": "claude-haiku-4-5",
+    "openai": "gpt-5-mini",
+}
 MAX_CONTEXT_CHARS = 320_000  # ~80k tokens, deixa margem
-MAX_OUTPUT_TOKENS = 2000
+MAX_OUTPUT_TOKENS = 16000  # folga p/ reasoning tokens (gpt-5-*) + JSON ~2k
+OPENAI_REASONING_EFFORT = "minimal"  # extração direta; não precisa raciocínio
+
+# Preços ($/Mtoken). Ajuste se a OpenAI publicar valores diferentes.
+PRICES = {
+    "claude-haiku-4-5":   {"in": 1.0,  "out": 5.0},
+    "gpt-5-mini":         {"in": 0.25, "out": 2.0},
+    "gpt-5-nano":         {"in": 0.05, "out": 0.4},
+    "gpt-5":              {"in": 1.25, "out": 10.0},
+}
 
 SYSTEM_PROMPT = """Você é um assistente de curadoria pedagógica para o Curso \
 Online de Filosofia (COF) de Olavo de Carvalho.
@@ -109,17 +131,42 @@ def resolve_body(item):
             text = p.read_text(encoding='utf-8', errors='replace')
             blocks = re.split(r'^---\n## FONTE:\s+(.+?)\n---\n', text, flags=re.MULTILINE)
             n = item['numero_interno']
+            # 1) Match direto pelo numero_interno (funciona quando local==global)
             for i in range(1, len(blocks), 2):
                 fname = blocks[i].strip()
-                mm = re.match(r'^(\d+)', fname)
+                mm = re.search(r'Aula[_\s-](\d+)', fname) or re.match(r'^(\d+)', fname)
                 if mm and int(mm.group(1)) == n:
                     return blocks[i+1] if i+1 < len(blocks) else ''
+            # 2) Fallback: alguns extras têm numero_interno como índice global
+            # acumulado (ex: 72-77 num curso de 6 aulas locais). Usar posição
+            # relativa do item entre os do mesmo curso (rank ordenado).
+            inv = load_inv()
+            mesmos = sorted(
+                [it for it in inv
+                 if it.get('kind') == 'extra_aula'
+                 and it.get('curso') == item.get('curso')],
+                key=lambda it: it['numero_interno']
+            )
+            ids = [it['id'] for it in mesmos]
+            if item['id'] in ids:
+                rank = ids.index(item['id']) + 1
+                for i in range(1, len(blocks), 2):
+                    fname = blocks[i].strip()
+                    mm = re.search(r'Aula[_\s-](\d+)', fname) or re.match(r'^(\d+)', fname)
+                    if mm and int(mm.group(1)) == rank:
+                        return blocks[i+1] if i+1 < len(blocks) else ''
     elif kind == 'livro':
+        # Tenta primeiro nos diretórios do dell (63 livros do disco)
         for d in ('cof_original_livros','cof_remasterizado_livros'):
             p = ROOT/'_raw/dell_md'/d/item['file']
             if p.exists():
                 txt = p.read_text(encoding='utf-8', errors='replace')
                 return re.sub(r'^<!--.*?-->\n+','',txt,count=1,flags=re.DOTALL)
+        # Fallback: 7 livros baixados do notebook ficam só em compiladas/livros/
+        p = ROOT/'compiladas/livros'/item['file']
+        if p.exists():
+            txt = p.read_text(encoding='utf-8', errors='replace')
+            return re.sub(r'^<!--.*?-->\n+','',txt,count=1,flags=re.DOTALL)
     elif kind in ('apostila','artigo','teoria_estado'):
         kind_to_file = {
             'apostila': '_raw/tematicas_notebook/Aulas_Olavo_-_COF_-_Apostilas.md',
@@ -132,14 +179,69 @@ def resolve_body(item):
     return None
 
 
-def call_haiku(client, body, item):
-    if not body:
-        return None, "body vazio (não foi possível resolver fonte)"
+# Schema estrito para OpenAI Structured Outputs.
+# Reproduz o schema do SYSTEM_PROMPT mas com tipagem enforced pela API.
+OPENAI_SCHEMA = {
+    "name": "guia_enriquecido",
+    "strict": True,
+    "schema": {
+        "type": "object",
+        "additionalProperties": False,
+        "required": [
+            "sintese", "conceitos_chave", "autores_obras_citados",
+            "sugestoes_leitura", "conexoes_outras_aulas_cof", "exercicios_fixacao",
+        ],
+        "properties": {
+            "sintese": {"type": "string"},
+            "conceitos_chave": {
+                "type": "array",
+                "items": {
+                    "type": "object",
+                    "additionalProperties": False,
+                    "required": ["termo", "definicao"],
+                    "properties": {
+                        "termo": {"type": "string"},
+                        "definicao": {"type": "string"},
+                    },
+                },
+            },
+            "autores_obras_citados": {
+                "type": "array",
+                "items": {
+                    "type": "object",
+                    "additionalProperties": False,
+                    "required": ["autor", "obra", "contexto"],
+                    "properties": {
+                        "autor": {"type": "string"},
+                        "obra": {"type": ["string", "null"]},
+                        "contexto": {"type": "string"},
+                    },
+                },
+            },
+            "sugestoes_leitura": {"type": "array", "items": {"type": "string"}},
+            "conexoes_outras_aulas_cof": {"type": "array", "items": {"type": "string"}},
+            "exercicios_fixacao": {
+                "type": "array",
+                "items": {
+                    "type": "object",
+                    "additionalProperties": False,
+                    "required": ["tipo", "pergunta"],
+                    "properties": {
+                        "tipo": {"type": "string", "enum": ["conceito", "aplicacao", "reflexao"]},
+                        "pergunta": {"type": "string"},
+                    },
+                },
+            },
+        },
+    },
+}
+
+
+def build_user_msg(body, item):
     body_truncated = body[:MAX_CONTEXT_CHARS]
     if len(body) > MAX_CONTEXT_CHARS:
         body_truncated += f"\n\n[NOTA: TEXTO TRUNCADO em {MAX_CONTEXT_CHARS} chars; total original: {len(body)} chars]"
-
-    user_msg = f"""Item: {item.get('titulo','???')}
+    return f"""Item: {item.get('titulo','???')}
 Categoria: {item.get('categoria','???')}
 ID: {item['id']}
 
@@ -149,15 +251,20 @@ ID: {item['id']}
 
 Gere o JSON conforme o schema. Lembre-se: SOMENTE com base no texto acima.
 """
+
+
+def call_anthropic(client, model, body, item):
+    if not body:
+        return None, "body vazio (não foi possível resolver fonte)"
+    user_msg = build_user_msg(body, item)
     try:
         resp = client.messages.create(
-            model=MODEL,
+            model=model,
             max_tokens=MAX_OUTPUT_TOKENS,
             system=SYSTEM_PROMPT,
             messages=[{"role": "user", "content": user_msg}],
         )
         text = resp.content[0].text
-        # extrair JSON (pode vir com texto ao redor)
         m = re.search(r'\{[\s\S]*\}', text)
         if not m:
             return None, f"JSON não encontrado na resposta: {text[:200]}"
@@ -169,6 +276,39 @@ Gere o JSON conforme o schema. Lembre-se: SOMENTE com base no texto acima.
         return None, f"JSON inválido: {e}"
     except anthropic.APIError as e:
         return None, f"API error: {e}"
+    except Exception as e:
+        return None, f"erro: {e}"
+
+
+def call_openai(client, model, body, item):
+    if not body:
+        return None, "body vazio (não foi possível resolver fonte)"
+    user_msg = build_user_msg(body, item)
+    kwargs = dict(
+        model=model,
+        max_completion_tokens=MAX_OUTPUT_TOKENS,
+        messages=[
+            {"role": "system", "content": SYSTEM_PROMPT},
+            {"role": "user", "content": user_msg},
+        ],
+        response_format={"type": "json_schema", "json_schema": OPENAI_SCHEMA},
+    )
+    if model.startswith("gpt-5") or model.startswith("o"):
+        kwargs["reasoning_effort"] = OPENAI_REASONING_EFFORT
+    try:
+        resp = client.chat.completions.create(**kwargs)
+        choice = resp.choices[0]
+        if choice.finish_reason not in ("stop", "length"):
+            return None, f"finish_reason={choice.finish_reason}"
+        text = choice.message.content
+        if not text:
+            return None, f"resposta vazia (finish_reason={choice.finish_reason})"
+        data = json.loads(text)
+        usage = {'input_tokens': resp.usage.prompt_tokens,
+                 'output_tokens': resp.usage.completion_tokens}
+        return data, usage
+    except json.JSONDecodeError as e:
+        return None, f"JSON inválido: {e}"
     except Exception as e:
         return None, f"erro: {e}"
 
@@ -248,11 +388,14 @@ def update_guia_file(item_id, enriched_section):
     return True, "ok"
 
 
-def process(item, client, dry_run=False):
+def process(item, client, model, provider, dry_run=False):
     body = resolve_body(item)
     if not body:
         return 'no-body', None
-    data, usage_or_err = call_haiku(client, body, item)
+    if provider == 'openai':
+        data, usage_or_err = call_openai(client, model, body, item)
+    else:
+        data, usage_or_err = call_anthropic(client, model, body, item)
     if data is None:
         return 'error', usage_or_err
     if dry_run:
@@ -278,8 +421,15 @@ def main():
     ap.add_argument('--to', dest='lote_to', type=int)
     ap.add_argument('--dry-run', action='store_true')
     ap.add_argument('--regenerate', action='store_true', help='reenriquecer mesmo se já enriched')
-    ap.add_argument('--rps', type=float, default=2.0, help='requests/segundo (default 2)')
+    ap.add_argument('--rps', type=float, default=2.0, help='requests/segundo (sequencial; ignorado se --workers>1)')
+    ap.add_argument('--workers', type=int, default=1, help='paralelismo (default 1=sequencial)')
+    ap.add_argument('--provider', choices=['anthropic', 'openai'], default='anthropic',
+                    help='LLM backend (default anthropic)')
+    ap.add_argument('--model', type=str, default=None,
+                    help='override do modelo (default: claude-haiku-4-5 ou gpt-5-mini)')
     args = ap.parse_args()
+
+    model = args.model or DEFAULT_MODELS[args.provider]
 
     items = load_inv()
     by_id = {it['id']: it for it in items}
@@ -311,47 +461,81 @@ def main():
     if not args.regenerate:
         targets = [it for it in targets
                    if prog.get(it['id'], {}).get('enrich_status') != 'enriched']
-    print(f"Itens a processar: {len(targets)}")
+    print(f"Itens a processar: {len(targets)} | provider={args.provider} | model={model}")
     if not targets:
         return
 
-    client = anthropic.Anthropic()
-    delay = 1.0 / args.rps if args.rps > 0 else 0
+    if args.provider == 'openai':
+        if openai is None:
+            print("openai package não instalado. Rode: .venv/bin/pip install openai", file=sys.stderr)
+            sys.exit(2)
+        if not os.environ.get('OPENAI_API_KEY'):
+            print("OPENAI_API_KEY não está exportada no ambiente", file=sys.stderr)
+            sys.exit(2)
+        client = openai.OpenAI()
+    else:
+        client = anthropic.Anthropic()
+
     counts = {'enriched':0, 'no-body':0, 'error':0, 'dry-run':0, 'guia-error':0}
     total_in, total_out = 0, 0
+    state_lock = threading.Lock()
+    completed_n = [0]  # mutable counter para fechamento
 
-    for i, it in enumerate(targets, 1):
+    def handle_one(idx, it):
         t0 = time.time()
-        status, usage_or_err = process(it, client, dry_run=args.dry_run)
-        counts[status] = counts.get(status, 0) + 1
-        if isinstance(usage_or_err, dict):
-            total_in += usage_or_err.get('input_tokens', 0)
-            total_out += usage_or_err.get('output_tokens', 0)
-        if not args.dry_run:
-            prog[it['id']] = {
-                **prog.get(it['id'], {}),
-                'enrich_status': status if status=='enriched' else f'error:{status}',
-                'enrich_updated_at': datetime.now().isoformat(),
-                'enrich_input_tokens': usage_or_err.get('input_tokens') if isinstance(usage_or_err, dict) else None,
-                'enrich_output_tokens': usage_or_err.get('output_tokens') if isinstance(usage_or_err, dict) else None,
-            }
-            if i % 10 == 0:
-                save_prog(prog)
+        status, usage_or_err = process(it, client, model, args.provider, dry_run=args.dry_run)
         elapsed = time.time() - t0
-        msg = f"  [{i:3d}/{len(targets)}] {it['id']:55s} {status:12s} ({elapsed:.1f}s)"
+        with state_lock:
+            counts[status] = counts.get(status, 0) + 1
+            nonlocal_in, nonlocal_out = 0, 0
+            if isinstance(usage_or_err, dict):
+                nonlocal_in = usage_or_err.get('input_tokens', 0)
+                nonlocal_out = usage_or_err.get('output_tokens', 0)
+            if not args.dry_run:
+                prog[it['id']] = {
+                    **prog.get(it['id'], {}),
+                    'enrich_status': status if status=='enriched' else f'error:{status}',
+                    'enrich_updated_at': datetime.now().isoformat(),
+                    'enrich_input_tokens': usage_or_err.get('input_tokens') if isinstance(usage_or_err, dict) else None,
+                    'enrich_output_tokens': usage_or_err.get('output_tokens') if isinstance(usage_or_err, dict) else None,
+                }
+                completed_n[0] += 1
+                if completed_n[0] % 10 == 0:
+                    save_prog(prog)
+        msg = f"  [{idx:3d}/{len(targets)}] {it['id']:55s} {status:12s} ({elapsed:.1f}s)"
         if status == 'error':
             msg += f"  err={str(usage_or_err)[:80]}"
-        print(msg)
-        if delay > 0 and i < len(targets):
-            time.sleep(max(0, delay - elapsed))
+        print(msg, flush=True)
+        return nonlocal_in, nonlocal_out
+
+    if args.workers > 1:
+        with ThreadPoolExecutor(max_workers=args.workers) as ex:
+            futures = {ex.submit(handle_one, i+1, it): it for i, it in enumerate(targets)}
+            for f in as_completed(futures):
+                try:
+                    tin, tout = f.result()
+                    total_in += tin
+                    total_out += tout
+                except Exception as e:
+                    print(f"  [thread err] {e}", flush=True)
+    else:
+        delay = 1.0 / args.rps if args.rps > 0 else 0
+        for i, it in enumerate(targets, 1):
+            t0 = time.time()
+            tin, tout = handle_one(i, it)
+            total_in += tin
+            total_out += tout
+            elapsed = time.time() - t0
+            if delay > 0 and i < len(targets):
+                time.sleep(max(0, delay - elapsed))
 
     if not args.dry_run:
         save_prog(prog)
 
-    # Custos Haiku 4.5: $1/MTok input, $5/MTok output
-    cost = total_in/1e6 * 1.0 + total_out/1e6 * 5.0
+    price = PRICES.get(model, {"in": 0, "out": 0})
+    cost = total_in/1e6 * price["in"] + total_out/1e6 * price["out"]
     print(f"\nResumo: {counts}")
-    print(f"Tokens: {total_in:,} in + {total_out:,} out → ~${cost:.2f}")
+    print(f"Tokens: {total_in:,} in + {total_out:,} out → ~${cost:.2f} ({model})")
 
 
 if __name__ == "__main__":

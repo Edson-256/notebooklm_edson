@@ -14,95 +14,67 @@ voltar exatamente de onde paramos.
 - ✅ **121 fontes uploadadas no notebook NLM** (concluído)
 - ✅ **`_sources_map.json` gerado** mapeando os 782 itens (seq_global 1–782) →
   source_id no notebook (script `06_build_sources_map.py`)
-- ⏸️ **Enriquecimento dos guias via Haiku 4.5** — ainda bloqueado: API
-  Anthropic retorna "credit balance too low" mesmo após compra real de $25
-  via Stripe (recibo 2717-7300-3129, 2026-05-02). Hipótese: chave atual
-  (`n8n-automation`, sufixo `iwAA`) está em workspace sem os créditos.
-  Solução: criar `cof-enrich-haiku-v2` em workspace **Default**.
+- ✅ **Enriquecimento dos 782 guias concluído** (2026-05-02) via **OpenAI
+  GPT-5-mini** com Structured Outputs (JSON schema strict). Provider
+  alternativo foi necessário porque a API Anthropic continuava retornando
+  "credit balance too low" mesmo após a compra de $25 via Stripe. O script
+  `05_enrich_guias.py` ganhou flags `--provider openai|anthropic`,
+  `--model`, e `--workers N` (paralelismo via `ThreadPoolExecutor`).
+  - **Custo total real:** ~$6.41 (13M tok in + 1.57M tok out)
+  - **Tempo:** ~1h com `--workers 12`
+  - **Bugs corrigidos no `resolve_body`** (afetavam Anthropic também):
+    1. extras com nome `Aula_NN` (regex agora usa `re.search(r'Aula[_\s-](\d+)')`)
+    2. 7 livros do notebook: fallback para `compiladas/livros/`
+    3. 12 extras com `numero_interno` global acumulado: fallback rank-based
+       (posição do item entre os do mesmo `curso` ordenados)
 - ✅ **Runner de áudio** (`06_audio_runner.py`) implementado e validado em
   dry-run (782 itens, sanity-check pass, formatos `deep_dive/brief/critique/debate`
-  mapeados). **Aguarda guias enriquecidos** (que dependem da chave nova) para
-  rodar real, mas a estrutura está pronta — pode começar pelos itens cujos
-  prompts já estão completos.
+  mapeados). **Pronto para rodar agora** que os guias estão enriquecidos.
 
 **Notebook NLM:** `5508086a-da53-4947-bce4-a1d7d83cf0e2`
 **Conta:** `default` (edson.michalkiewicz@gmail.com)
 
-## ⚠️ Antes de tudo — segurança
+## ⚠️ Segurança — chaves de API expostas em sessão antiga
 
-Duas chaves de API foram expostas em conversa anterior:
+Foram expostas em conversa anterior (revogue se ainda ativas):
 
-- `n8n-automation` (sk-ant-api03-Ad6…iwAA)
-- `cof-enrich-haiku` (sk-ant-api03--bjA…wgAA)
-
-**Revogue ambas** em [console.anthropic.com](https://console.anthropic.com)
-→ Chaves de API → ⋮ → Excluir chave de API.
-
-Depois crie uma chave nova (`cof-enrich-haiku-v2`) **somente quando o billing
-estiver resolvido** (passo 2).
+- Anthropic: `n8n-automation` (sk-ant-api03-Ad6…iwAA), `cof-enrich-haiku` (sk-ant-api03--bjA…wgAA)
+- OpenAI: chave `sk-proj-0bJ5…GkhUA` usada no enrich em 2026-05-02 — rotacione no
+  console da OpenAI se for sensível.
 
 ## Roteiro de retomada
 
-### 1. Resolver billing da API (a causa raiz da pausa)
+### 1. Histórico — billing Anthropic (FYI, não bloqueia mais)
 
-O erro persistente "credit balance is too low" indica que os $25 visíveis em
-"Créditos" são promocionais e **não destravam a API até cadastrar cartão**.
+O erro "credit balance is too low" persistia mesmo após a compra real de $25 via
+Stripe (recibo 2717-7300-3129, 2026-05-02). Suporte foi acionado num sábado.
+**Workaround adotado:** usar OpenAI gpt-5-mini (rodou em 1h por $6.41). Quando
+o suporte da Anthropic resolver, dá pra reusar `--provider anthropic` no
+script — system prompt é idêntico nos dois caminhos.
 
-- [ ] Acesse [console.anthropic.com](https://console.anthropic.com) → menu
-  esquerdo **"Faturamento"**
-- [ ] Verifique se há **método de pagamento (cartão)** cadastrado. Se não,
-  adicione.
-- [ ] Verifique seu **tier de uso** (Free Trial / Build Tier 1 / 2 / …). Se
-  for Free Trial, faça upgrade — geralmente comprar $5 com cartão promove
-  para Build Tier 1.
-- [ ] Se já tem cartão e mesmo assim falha: abra ticket de suporte mostrando
-  prints. Pode ser bug de alocação de créditos entre workspaces.
+### 2. Re-rodar enrichment (se necessário)
 
-### 2. Criar chave nova de API (após resolver billing)
-
-- [ ] Console → Chaves de API → **+ Criar chave**
-- [ ] Nome: `cof-enrich-haiku-v2`
-- [ ] Workspace: **Default** (mesmo onde estão os créditos)
-- [ ] Copie e teste pelo terminal:
+O `05_enrich_guias.py` é idempotente (pula já `enriched` no `_progresso.json`).
 
 ```bash
-cd ~/dev/notebooklm_edson/projetos/cof_v2
-# No SEU prompt do Claude Code (com prefixo !):
-! export ANTHROPIC_API_KEY='<chave nova>'
+# OpenAI (atual)
+export OPENAI_API_KEY='...'
+.venv/bin/python scripts/05_enrich_guias.py --all \
+  --provider openai --model gpt-5-mini --workers 12
 
-# Depois peça para mim no chat:
-"testa a API com a chave nova"
-```
+# Anthropic (quando billing voltar)
+export ANTHROPIC_API_KEY='...'
+.venv/bin/python scripts/05_enrich_guias.py --all --provider anthropic
 
-### 3. Enriquecer os 781 guias com Haiku 4.5
+# Forçar re-geração de itens específicos
+.venv/bin/python scripts/05_enrich_guias.py --item aula-001 \
+  --provider openai --model gpt-5-mini --regenerate
 
-Quando a API responder OK:
-
-```bash
-# Teste 1 item para validar saída
-.venv/bin/python scripts/05_enrich_guias.py --item aula-001
-
-# Inspecionar guias/aula-001.md (deve estar preenchido com síntese,
-# conceitos, exercícios)
-
-# Se OK, rodar todos os 781 (~$16, ~30 min com --rps 2)
-.venv/bin/python scripts/05_enrich_guias.py --all
-```
-
-O script é **idempotente** (pula já enriched). Pode rodar em pedaços:
-
-```bash
-.venv/bin/python scripts/05_enrich_guias.py --batch 1
-.venv/bin/python scripts/05_enrich_guias.py --from 1 --to 10
-```
-
-Acompanhar:
-
-```bash
+# Ver progresso
 .venv/bin/python scripts/05_enrich_guias.py --stats
 ```
 
-### 4. Upload das 121 fontes no notebook NLM ✅
+### 3. Upload das 121 fontes no notebook NLM ✅
 
 Concluído em sessão anterior. `_sources_map.json` gerado em 2026-05-02 via
 `scripts/06_build_sources_map.py` (782 itens mapeados, 0 misses, 1 colisão de
@@ -116,10 +88,11 @@ Para revalidar (após qualquer mudança nas fontes):
 .venv/bin/python scripts/06_build_sources_map.py --validate
 ```
 
-### 5. Runner de áudio ✅ (implementado, aguardando guias)
+### 4. Runner de áudio ✅ (implementado, guias prontos)
 
-`scripts/06_audio_runner.py` pronto e validado em dry-run. Segue todas as 10
-regras de `~/dev/notebooklm_edson/docs/regras_pipeline_audio_por_cena.md`.
+`scripts/06_audio_runner.py` pronto e validado em dry-run. Os 782 guias estão
+enriquecidos (passo 2). Próximo passo é o disparo dos áudios. Segue todas as
+10 regras de `~/dev/notebooklm_edson/docs/regras_pipeline_audio_por_cena.md`.
 
 **Antes do primeiro disparo real (obrigatório):**
 
@@ -189,7 +162,7 @@ projetos/cof_v2/
     ├── 02_compile_year_groups.py
     ├── 03_collect_books_extras.py
     ├── 04_generate_prompt_batch.py    # rodou tudo
-    ├── 05_enrich_guias.py             # bloqueado em billing/workspace
+    ├── 05_enrich_guias.py             # rodou em 2026-05-02 via OpenAI gpt-5-mini
     ├── 06_build_sources_map.py        # rodou em 2026-05-02 (782/782)
     └── 06_audio_runner.py             # pronto, validado em dry-run
 ```
