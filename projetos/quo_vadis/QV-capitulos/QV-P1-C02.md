@@ -9,7 +9,7 @@ Após uma refeição a que chamavam desjejum e que os dois amigos iniciavam a um
 Vinícius reconheceu a sensatez desta proposta. Passearam durante algum tempo, conversando sobre o que se dizia no Palatino e na cidade. Depois Petrónio retirou-se para o cubículo, para dormir. Reapareceu ao cabo de meia hora e, ordenando que lhe levassem verbena, esfregou com ela as mãos e as têmporas.
 
 — Não fazes ideia de como isto vivifica e reanima; estou pronto.
-
+ 
 A liteira aguardava-os havia muito; instalaram-se nela e Petrónio ordenou que os conduzissem ao vicus Fabricius, a casa de Aulus. A insula de Petrónio ficava situada no flanco meridional do Palatino, perto dos Carinas; o caminho mais curto seria pois pelo Fórum, mas, como Petrónio queria também passar por casa de Idomeno, o joalheiro, seguiriam pela via Apolo e depois pelo Fórum, do lado da via Scelerato, em cuja esquina se abriam lojas de todos os géneros.
 
 Os negros gigantescos ergueram a liteira e puseram-se em marcha, precedidos por escravos. Petrónio aspirava o aroma da verbena com que impregnara as mãos; parecia refletir.

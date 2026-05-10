@@ -1,0 +1,8 @@
+### III – MARIAGE DE PHŒBUS
+
+Vers le soir de cette Journée, quand les officiers judiciaires de l’évêque vinrent relever sur le pavé du Parvis le cadavre disloqué de l’archidiacre, Quasimodo avait disparu de Notre-Dame.
+Il courut beaucoup de bruits sur cette aventure. On ne douta pas que le jour ne fût venu où, d’après leur pacte, Quasimodo, c’est-à- dire le diable, devait emporter Claude Frollo, c’est-à-dire le sorcier. On présuma qu’il avait brisé le corps en prenant l’âme, comme les singes qui cassent la coquille pour manger la noix.
+C’est pourquoi l’archidiacre ne fut pas inhumé en terre sainte. Louis XI mourut l’année d’après, au mois d’août 1483.
+Quant à Pierre Gringoire, il parvint à sauver la chèvre, et il obtint des succès en tragédie. Il paraît qu’après avoir goûté de l’astrologie, de la philosophie, de l’architecture, de l’hermétique, de toutes les folies, il revint à la tragédie, qui est la plus folle de toutes. C’est ce qu’il appelait avoir fait une fin tragique. Voici, au sujet de ses triomphes dramatiques, ce qu’on lit dès 1483 dans les comptes de l’ordinaire : « À Jehan Marchand et Pierre Gringoire, charpentier et compositeur, qui ont fait et composé le mystère fait au Châtelet de Paris à l’entrée de monsieur le légat, ordonné des personnages, iceux revêtus et habillés ainsi que audit mystère était requis, et pareillement, d’avoir fait les échafauds qui étaient à ce nécessaires ; et pour ce faire, cent livres. »
+Phœbus de Châteaupers aussi fit une fin tragique, il se maria.
+

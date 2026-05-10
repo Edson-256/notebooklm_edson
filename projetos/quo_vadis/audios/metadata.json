@@ -3,8 +3,8 @@
   "autor": "Henryk Sienkiewicz",
   "obra_slug": "quo_vadis",
   "notebook_id": "c7f86c97-bf9b-4087-bcc2-2945fb18ee93",
-  "total_cenas": 63,
-  "ultima_atualizacao": "2026-04-25T15:23:04.339949",
+  "total_cenas": 134,
+  "ultima_atualizacao": "2026-05-01T21:26:15.643030",
   "audios": [
     {
       "arquivo": "qv_001_despertar_arbitro.mp3",
@@ -829,10 +829,12 @@
       "source_ids": [
         "0c3d1cf5-dfdc-401f-a433-fd39027ddda8"
       ],
-      "status": "created",
+      "status": "downloaded",
       "titulo_completo_anterior": "O polegar voltado para cima — plebe e pretorianos pedem graça",
       "localizacao_anterior": "Parte 3, Capítulo 25 (cena 3/3)",
-      "metadata_repaired": "2026-04-25 — bug numeração local→global"
+      "metadata_repaired": "2026-04-25 — bug numeração local→global",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_049_polegar_voltado.mp3",
+      "tamanho_bytes": 28328338
     },
     {
       "arquivo": "qv_050_convalescenca_jardim.mp3",
@@ -911,21 +913,20 @@
       "metadata_repaired": "2026-04-25 — bug numeração local→global"
     },
     {
-      "arquivo": "qv_054_decisao_arrancada.mp3",
+      "arquivo": "qv_054_trezentas_vergastadas.mp3",
       "cena_numero": 54,
       "titulo_completo": "As trezentas vergastadas e o perdão em nome de Cristo",
       "localizacao": "Parte 2, Capítulo 10 (cena 2/2)",
-      "artifact_id": "caf6a0d8-8ac5-4c41-b473-6a89cfb26cb4",
-      "data_geracao": "2026-04-25T08:34:34.689789",
+      "artifact_id": "fb6e0068-2120-44c8-b41c-de03ff026b60",
+      "data_geracao": "2026-04-27T20:06:36.885747",
       "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
       "prompt_type": "custom",
       "source_ids": [
-        "dac25f0c-5e43-4714-b0f3-2c9afd323aa7"
+        "a38cdfd5-dcc1-466e-83a1-54a3f3ea9516"
       ],
-      "status": "created",
-      "titulo_completo_anterior": "A decisão arrancada pelas lágrimas de Linus",
-      "localizacao_anterior": "Parte 3, Capítulo 28 (cena 2/2)",
-      "metadata_repaired": "2026-04-25 — bug numeração local→global"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_054_trezentas_vergastadas.mp3",
+      "tamanho_bytes": 27311154
     },
     {
       "arquivo": "qv_055_quo_vadis.mp3",
@@ -939,10 +940,12 @@
       "source_ids": [
         "3de422ca-0c0b-4d7d-afea-d31277733ca0"
       ],
-      "status": "created",
+      "status": "downloaded",
       "titulo_completo_anterior": "Quo vadis, Domine?",
       "localizacao_anterior": "Parte 3, Capítulo 29 (cena 1/1)",
-      "metadata_repaired": "2026-04-25 — bug numeração local→global"
+      "metadata_repaired": "2026-04-25 — bug numeração local→global",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_055_quo_vadis.mp3",
+      "tamanho_bytes": 43944023
     },
     {
       "arquivo": "qv_056_triunfo_pescador.mp3",
@@ -956,10 +959,12 @@
       "source_ids": [
         "dcfc5d49-67ba-4125-b647-1eb2f90e55a1"
       ],
-      "status": "created",
+      "status": "downloaded",
       "titulo_completo_anterior": "O triunfo do pescador na colina do Vaticano",
       "localizacao_anterior": "Parte 3, Capítulo 30 (cena 1/2)",
-      "metadata_repaired": "2026-04-25 — bug numeração local→global"
+      "metadata_repaired": "2026-04-25 — bug numeração local→global",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_056_triunfo_pescador.mp3",
+      "tamanho_bytes": 30129281
     },
     {
       "arquivo": "qv_057_paulo_caminho.mp3",
@@ -973,10 +978,12 @@
       "source_ids": [
         "dcfc5d49-67ba-4125-b647-1eb2f90e55a1"
       ],
-      "status": "created",
+      "status": "downloaded",
       "titulo_completo_anterior": "Paulo a caminho das Águas Salvianas",
       "localizacao_anterior": "Parte 3, Capítulo 30 (cena 2/2)",
-      "metadata_repaired": "2026-04-25 — bug numeração local→global"
+      "metadata_repaired": "2026-04-25 — bug numeração local→global",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_057_paulo_caminho.mp3",
+      "tamanho_bytes": 45499190
     },
     {
       "arquivo": "qv_058_ceifa_cabecas.mp3",
@@ -990,10 +997,12 @@
       "source_ids": [
         "d14b8a7f-787d-4546-a386-0a3cdeeb97fd"
       ],
-      "status": "created",
+      "status": "downloaded",
       "titulo_completo_anterior": "A ceifa das cabeças altaneiras",
       "localizacao_anterior": "Parte 3, Capítulo 31 (cena 1/1)",
-      "metadata_repaired": "2026-04-25 — bug numeração local→global"
+      "metadata_repaired": "2026-04-25 — bug numeração local→global",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_058_ceifa_cabecas.mp3",
+      "tamanho_bytes": 51121249
     },
     {
       "arquivo": "qv_059_carta_sicilia.mp3",
@@ -1007,10 +1016,12 @@
       "source_ids": [
         "733bc1a8-65dd-4550-a342-6e8520fa34d7"
       ],
-      "status": "created",
+      "status": "downloaded",
       "titulo_completo_anterior": "Carta da Sicília — a felicidade na paz",
       "localizacao_anterior": "Parte 3, Capítulo 32 (cena 1/2)",
-      "metadata_repaired": "2026-04-25 — bug numeração local→global"
+      "metadata_repaired": "2026-04-25 — bug numeração local→global",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_059_carta_sicilia.mp3",
+      "tamanho_bytes": 30157668
     },
     {
       "arquivo": "qv_060_replica_petronio.mp3",
@@ -1024,10 +1035,12 @@
       "source_ids": [
         "733bc1a8-65dd-4550-a342-6e8520fa34d7"
       ],
-      "status": "created",
+      "status": "downloaded",
       "titulo_completo_anterior": "A réplica de Petrônio — pagão até o fim",
       "localizacao_anterior": "Parte 3, Capítulo 32 (cena 2/2)",
-      "metadata_repaired": "2026-04-25 — bug numeração local→global"
+      "metadata_repaired": "2026-04-25 — bug numeração local→global",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_060_replica_petronio.mp3",
+      "tamanho_bytes": 30120316
     },
     {
       "arquivo": "qv_061_festim_adeus.mp3",
@@ -1041,10 +1054,12 @@
       "source_ids": [
         "31c21879-d45f-4b16-932a-6deaca9ca664"
       ],
-      "status": "created",
+      "status": "downloaded",
       "titulo_completo_anterior": "O festim de adeus e a carta a Nero",
       "localizacao_anterior": "Parte 3, Capítulo 33 (cena 1/3)",
-      "metadata_repaired": "2026-04-25 — bug numeração local→global"
+      "metadata_repaired": "2026-04-25 — bug numeração local→global",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_061_festim_adeus.mp3",
+      "tamanho_bytes": 51885702
     },
     {
       "arquivo": "qv_062_eunice_escolhe.mp3",
@@ -1058,10 +1073,12 @@
       "source_ids": [
         "31c21879-d45f-4b16-932a-6deaca9ca664"
       ],
-      "status": "created",
+      "status": "downloaded",
       "titulo_completo_anterior": "Eunice escolhe morrer",
       "localizacao_anterior": "Parte 3, Capítulo 33 (cena 2/3)",
-      "metadata_repaired": "2026-04-25 — bug numeração local→global"
+      "metadata_repaired": "2026-04-25 — bug numeração local→global",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_062_eunice_escolhe.mp3",
+      "tamanho_bytes": 52242155
     },
     {
       "arquivo": "qv_063_connosco_perece.mp3",
@@ -1075,10 +1092,1148 @@
       "source_ids": [
         "31c21879-d45f-4b16-932a-6deaca9ca664"
       ],
-      "status": "created",
+      "status": "downloaded",
       "titulo_completo_anterior": "\"Connosco perece…\"",
       "localizacao_anterior": "Parte 3, Capítulo 33 (cena 3/3)",
-      "metadata_repaired": "2026-04-25 — bug numeração local→global"
+      "metadata_repaired": "2026-04-25 — bug numeração local→global",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_063_connosco_perece.mp3",
+      "tamanho_bytes": 43757264
+    },
+    {
+      "arquivo": "qv_064_rugidos_leoes.mp3",
+      "cena_numero": 64,
+      "titulo_completo": "Os rugidos dos leões no jardim de Linus",
+      "localizacao": "Parte 2, Capítulo 17 (cena 1/1)",
+      "artifact_id": "d5bdfc29-0b4a-4ddd-9958-a88b7705265e",
+      "data_geracao": "2026-04-25T19:39:54.279956",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "a5b8a87c-8099-4f87-83f0-3c19c9916457"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_064_rugidos_leoes.mp3",
+      "tamanho_bytes": 33009411
+    },
+    {
+      "arquivo": "qv_065_petronio_joga.mp3",
+      "cena_numero": 65,
+      "titulo_completo": "Petrônio joga com a morte: \"Bons para lançar ao fogo\"",
+      "localizacao": "Parte 2, Capítulo 18 (cena 1/2)",
+      "artifact_id": "bbc46119-c108-401e-a2a0-d61d2becf41b",
+      "data_geracao": "2026-04-25T19:41:57.408044",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "7e420a65-09de-4ab4-8c03-a273f27de714"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_065_petronio_joga.mp3",
+      "tamanho_bytes": 35038433
+    },
+    {
+      "arquivo": "qv_066_coracao_angustiado.mp3",
+      "cena_numero": 66,
+      "titulo_completo": "O coração angustiado e o rugir dos leões como presságio",
+      "localizacao": "Parte 2, Capítulo 18 (cena 2/2)",
+      "artifact_id": "81008733-2e29-42a2-80df-7aac570aba83",
+      "data_geracao": "2026-04-25T19:44:02.799611",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "7e420a65-09de-4ab4-8c03-a273f27de714"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_066_coracao_angustiado.mp3",
+      "tamanho_bytes": 45355012
+    },
+    {
+      "arquivo": "qv_067_confidente_duas.mp3",
+      "cena_numero": 67,
+      "titulo_completo": "O confidente de duas almas: \"sou em tudo um artista\"",
+      "localizacao": "Parte 2, Capítulo 19 (cena 1/2)",
+      "artifact_id": "bca02ac1-1ab3-4d33-bd99-dcf414f4bdc5",
+      "data_geracao": "2026-04-25T19:46:07.880334",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "4c3627e3-ee18-40fd-b104-a4b87f279ece"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_067_confidente_duas.mp3",
+      "tamanho_bytes": 39215830
+    },
+    {
+      "arquivo": "qv_068_verei_cidade.mp3",
+      "cena_numero": 68,
+      "titulo_completo": "\"Verei uma cidade em chamas e terminarei a minha Troiada\"",
+      "localizacao": "Parte 2, Capítulo 19 (cena 2/2)",
+      "artifact_id": "fb555374-73fd-4c96-abfe-efd21b8d5e15",
+      "data_geracao": "2026-04-25T19:48:13.009755",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "4c3627e3-ee18-40fd-b104-a4b87f279ece"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_068_verei_cidade.mp3",
+      "tamanho_bytes": 22946194
+    },
+    {
+      "arquivo": "qv_069_galope_atraves.mp3",
+      "cena_numero": 69,
+      "titulo_completo": "Galope através das trevas rumo a Roma em chamas",
+      "localizacao": "Parte 3, Capítulo 1 (cena 1/2)",
+      "artifact_id": "c7bdb3e2-b544-496f-a281-604308c3cd1d",
+      "data_geracao": "2026-04-25T19:50:18.548028",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "e3cf60cb-79bf-47e1-9ee6-4d258fc9bb0f"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_069_galope_atraves.mp3",
+      "tamanho_bytes": 25718699
+    },
+    {
+      "arquivo": "qv_070_primeira_oracao.mp3",
+      "cena_numero": 70,
+      "titulo_completo": "A primeira oração ao Cristo desconhecido",
+      "localizacao": "Parte 3, Capítulo 1 (cena 2/2)",
+      "artifact_id": "1d7db22a-270c-47d4-833f-16fb32951a6d",
+      "data_geracao": "2026-04-25T19:52:23.427523",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "e3cf60cb-79bf-47e1-9ee6-4d258fc9bb0f"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_070_primeira_oracao.mp3",
+      "tamanho_bytes": 30387872
+    },
+    {
+      "arquivo": "qv_071_travessia_inferno.mp3",
+      "cena_numero": 71,
+      "titulo_completo": "A travessia do inferno transtiberino",
+      "localizacao": "Parte 3, Capítulo 2 (cena 1/3)",
+      "artifact_id": "cfe2fe48-c0d8-4397-9ec3-7da0389333d9",
+      "data_geracao": "2026-04-25T19:54:28.375013",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "047b3cd5-5a75-4aa6-9ab3-8aa366dbf084"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_071_travessia_inferno.mp3",
+      "tamanho_bytes": 40271053
+    },
+    {
+      "arquivo": "qv_072_devemos_ajudar.mp3",
+      "cena_numero": 72,
+      "titulo_completo": "\"Devemos ajudar o próximo\" entre cristãos anônimos",
+      "localizacao": "Parte 3, Capítulo 2 (cena 2/3)",
+      "artifact_id": "c31ef2a8-bae6-4196-ba85-92bd89eb0771",
+      "data_geracao": "2026-04-25T19:56:33.111031",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "047b3cd5-5a75-4aa6-9ab3-8aa366dbf084"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_072_devemos_ajudar.mp3",
+      "tamanho_bytes": 42167733
+    },
+    {
+      "arquivo": "qv_073_traicao_grotesca.mp3",
+      "cena_numero": 73,
+      "titulo_completo": "A traição grotesca de Chilon sobre as cinzas",
+      "localizacao": "Parte 3, Capítulo 2 (cena 3/3)",
+      "artifact_id": "d1ac7cad-da23-48ca-ba19-e8604ab97b29",
+      "data_geracao": "2026-04-25T19:58:37.965361",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "047b3cd5-5a75-4aa6-9ab3-8aa366dbf084"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_073_traicao_grotesca.mp3",
+      "tamanho_bytes": 39141066
+    },
+    {
+      "arquivo": "qv_074_roma_chamas.mp3",
+      "cena_numero": 74,
+      "titulo_completo": "Roma em chamas como apocalipse cósmico",
+      "localizacao": "Parte 3, Capítulo 3 (cena 1/1)",
+      "artifact_id": "597dc89b-8872-4878-84ae-f2d0719c59da",
+      "data_geracao": "2026-04-27T20:08:40.134074",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "3abc6a97-4df0-4a0a-9aa8-ec0f888d1eea"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_074_roma_chamas.mp3",
+      "tamanho_bytes": 49915812
+    },
+    {
+      "arquivo": "qv_075_chilon_chora.mp3",
+      "cena_numero": 75,
+      "titulo_completo": "Chilon chora por Roma como carneiro do pastor",
+      "localizacao": "Parte 3, Capítulo 4 (cena 1/2)",
+      "artifact_id": "bd64ef8a-9e8d-49aa-9a02-b3199682f57f",
+      "data_geracao": "2026-04-27T20:10:43.505534",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "49d77ffd-6108-4dbf-a4d3-bce9f3702554"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_075_chilon_chora.mp3",
+      "tamanho_bytes": 42974766
+    },
+    {
+      "arquivo": "qv_076_crispus_pedro.mp3",
+      "cena_numero": 76,
+      "titulo_completo": "Crispus, Pedro e o duplo rosto do cristianismo",
+      "localizacao": "Parte 3, Capítulo 4 (cena 2/2)",
+      "artifact_id": "ccd0bf2c-0b09-423e-bd24-79b544690178",
+      "data_geracao": "2026-04-27T20:12:46.764696",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "49d77ffd-6108-4dbf-a4d3-bce9f3702554"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_076_crispus_pedro.mp3",
+      "tamanho_bytes": 37636067
+    },
+    {
+      "arquivo": "qv_077_flagelo_pao.mp3",
+      "cena_numero": 77,
+      "titulo_completo": "O flagelo, o pão pisoteado e as flechas sobre a turba",
+      "localizacao": "Parte 3, Capítulo 5 (cena 1/2)",
+      "artifact_id": "aa01f389-f9d3-428f-a22b-c1f265625205",
+      "data_geracao": "2026-04-27T20:14:50.098228",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "9c906175-7628-4f15-aa59-36d4038c2781"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_077_flagelo_pao.mp3",
+      "tamanho_bytes": 25709783
+    },
+    {
+      "arquivo": "qv_078_boatos_apocalipticos.mp3",
+      "cena_numero": 78,
+      "titulo_completo": "Boatos apocalípticos e o Capitólio cercado de fogo",
+      "localizacao": "Parte 3, Capítulo 5 (cena 2/2)",
+      "artifact_id": "b2b64537-f674-4531-ae67-1ce5d74de148",
+      "data_geracao": "2026-04-27T20:16:53.786981",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "9c906175-7628-4f15-aa59-36d4038c2781"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_078_boatos_apocalipticos.mp3",
+      "tamanho_bytes": 35409827
+    },
+    {
+      "arquivo": "qv_079_nero_cantor.mp3",
+      "cena_numero": 79,
+      "titulo_completo": "Nero cantor da queda de Troia no aqueduto",
+      "localizacao": "Parte 3, Capítulo 6 (cena 1/2)",
+      "artifact_id": "03253948-a5cb-4ac5-a88d-3ce099c99e1c",
+      "data_geracao": "2026-04-27T20:18:57.105598",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "eebc94b7-1360-4f5d-b738-aed63cfbe4dd"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_079_nero_cantor.mp3",
+      "tamanho_bytes": 28226624
+    },
+    {
+      "arquivo": "qv_080_petronio_doma.mp3",
+      "cena_numero": 80,
+      "titulo_completo": "Petrónio doma a turba com \"Panem et circenses\"",
+      "localizacao": "Parte 3, Capítulo 6 (cena 2/2)",
+      "artifact_id": "107c6a78-c830-4c60-b54d-d73b2f00fcae",
+      "data_geracao": "2026-04-27T20:21:00.426310",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "eebc94b7-1360-4f5d-b738-aed63cfbe4dd"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_080_petronio_doma.mp3",
+      "tamanho_bytes": 33503436
+    },
+    {
+      "arquivo": "qv_081_batismo_vinicius.mp3",
+      "cena_numero": 81,
+      "titulo_completo": "O batismo de Vinícius e o \"não abandonarei meus irmãos\"",
+      "localizacao": "Parte 3, Capítulo 7 (cena 1/1)",
+      "artifact_id": "0fcfac8a-fc3b-4939-99a7-9e367fe8713d",
+      "data_geracao": "2026-04-27T20:23:05.334060",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "f65318f2-061e-4f3b-8654-7a6dbdfb5609"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_081_batismo_vinicius.mp3",
+      "tamanho_bytes": 35533835
+    },
+    {
+      "arquivo": "qv_082_petronio_contra.mp3",
+      "cena_numero": 82,
+      "titulo_completo": "Petrónio contra Tigelino: o último lance do esteta",
+      "localizacao": "Parte 3, Capítulo 8 (cena 1/2)",
+      "artifact_id": "577fe320-4eb5-4e93-9f1a-53049ef897fc",
+      "data_geracao": "2026-04-27T20:25:09.892473",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "78f6209f-0903-43e4-ad01-1aa9d762a563"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_082_petronio_contra.mp3",
+      "tamanho_bytes": 35772257
+    },
+    {
+      "arquivo": "qv_083_chilon_delator.mp3",
+      "cena_numero": 83,
+      "titulo_completo": "Chilon, o delator perfeito diante de César",
+      "localizacao": "Parte 3, Capítulo 8 (cena 2/2)",
+      "artifact_id": "5d6fb8a6-e713-4770-9033-94a63ae4205f",
+      "data_geracao": "2026-04-27T20:27:14.882051",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "78f6209f-0903-43e4-ad01-1aa9d762a563"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_083_chilon_delator.mp3",
+      "tamanho_bytes": 30900572
+    },
+    {
+      "arquivo": "qv_084_chilon_transforma.mp3",
+      "cena_numero": 84,
+      "titulo_completo": "Chilon transforma filosofia em delação",
+      "localizacao": "Parte 3, Capítulo 9 (cena 1/1)",
+      "artifact_id": "7e4df665-7c16-4e2d-ae0a-1ec7c887c159",
+      "data_geracao": "2026-04-27T20:29:17.926934",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "c3aee70f-9ab0-4213-87cf-960253d1c1b6"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_084_chilon_transforma.mp3",
+      "tamanho_bytes": 33516135
+    },
+    {
+      "arquivo": "qv_085_hino_harpas.mp3",
+      "cena_numero": 85,
+      "titulo_completo": "O hino entre as harpas enquanto Roma caça cristãos",
+      "localizacao": "Parte 3, Capítulo 10 (cena 1/3)",
+      "artifact_id": "dce8cf66-0a1c-45fb-91de-e57910e3540a",
+      "data_geracao": "2026-04-27T20:31:20.863923",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "e550c13d-0175-4dbc-9aa5-8d51ace98ecc"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_085_hino_harpas.mp3",
+      "tamanho_bytes": 31853395
+    },
+    {
+      "arquivo": "qv_086_petronio_mata.mp3",
+      "cena_numero": 86,
+      "titulo_completo": "Petrónio mata o gladiador que grita \"aos leões\"",
+      "localizacao": "Parte 3, Capítulo 10 (cena 2/3)",
+      "artifact_id": "0c53812b-d7ec-4fe9-9961-ddb868b612c7",
+      "data_geracao": "2026-04-27T20:33:23.801663",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "e550c13d-0175-4dbc-9aa5-8d51ace98ecc"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_086_petronio_mata.mp3",
+      "tamanho_bytes": 28335808
+    },
+    {
+      "arquivo": "qv_087_canto_cristaos.mp3",
+      "cena_numero": 87,
+      "titulo_completo": "O canto dos cristãos na Mamertina ao amanhecer",
+      "localizacao": "Parte 3, Capítulo 10 (cena 3/3)",
+      "artifact_id": "da2ecf64-a315-4e87-859c-11066a3afb2d",
+      "data_geracao": "2026-04-27T20:35:29.170315",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "e550c13d-0175-4dbc-9aa5-8d51ace98ecc"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_087_canto_cristaos.mp3",
+      "tamanho_bytes": 44665147
+    },
+    {
+      "arquivo": "qv_088_orgia_sangue.mp3",
+      "cena_numero": 88,
+      "titulo_completo": "Orgia de sangue e mercado das feras",
+      "localizacao": "Parte 3, Capítulo 11 (cena 1/2)",
+      "artifact_id": "bcea4339-6ac0-48ac-b44a-2987dbc15250",
+      "data_geracao": "2026-04-27T20:37:34.575697",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "c7b92f1b-1173-40b3-abab-ee89ed777570"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_088_orgia_sangue.mp3",
+      "tamanho_bytes": 28326097
+    },
+    {
+      "arquivo": "qv_089_ele_comparou.mp3",
+      "cena_numero": 89,
+      "titulo_completo": "\"Se ele se comparou a Brutus, está tudo perdido\"",
+      "localizacao": "Parte 3, Capítulo 11 (cena 2/2)",
+      "artifact_id": "05fcfbbb-ef5b-4c2d-bef0-5bd347cd618a",
+      "data_geracao": "2026-04-27T20:39:39.672632",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "c7b92f1b-1173-40b3-abab-ee89ed777570"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_089_ele_comparou.mp3",
+      "tamanho_bytes": 23833277
+    },
+    {
+      "arquivo": "qv_090_noite_milagre.mp3",
+      "cena_numero": 90,
+      "titulo_completo": "A noite do milagre que não veio",
+      "localizacao": "Parte 3, Capítulo 12 (cena 1/2)",
+      "artifact_id": "55c8c109-0ed4-422f-a4b5-ec1117eee373",
+      "data_geracao": "2026-04-27T20:41:43.169123",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "98dc13bf-e5f0-4053-8cdb-b7dfe6e44823"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_090_noite_milagre.mp3",
+      "tamanho_bytes": 32007285
+    },
+    {
+      "arquivo": "qv_091_assim_testemunho.mp3",
+      "cena_numero": 91,
+      "titulo_completo": "\"Assim, em testemunho, edificareis a Igreja sobre os vossos ossos\"",
+      "localizacao": "Parte 3, Capítulo 12 (cena 2/2)",
+      "artifact_id": "c8b0774d-72ae-4f2a-aa96-0a03e2505e65",
+      "data_geracao": "2026-04-27T20:43:46.543983",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "98dc13bf-e5f0-4053-8cdb-b7dfe6e44823"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_091_assim_testemunho.mp3",
+      "tamanho_bytes": 22472340
+    },
+    {
+      "arquivo": "qv_092_reencontro_chilon.mp3",
+      "cena_numero": 92,
+      "titulo_completo": "O reencontro com Chilon na liteira dourada",
+      "localizacao": "Parte 3, Capítulo 13 (cena 1/1)",
+      "artifact_id": "073a41ac-dcd3-4f17-a319-34aaac73a999",
+      "data_geracao": "2026-04-27T20:45:51.104298",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "6565bd49-2ed8-428d-bc6d-26245495e9e1"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_092_reencontro_chilon.mp3",
+      "tamanho_bytes": 38352709
+    },
+    {
+      "arquivo": "qv_093_febre_preserva.mp3",
+      "cena_numero": 93,
+      "titulo_completo": "A febre que preserva a virgem",
+      "localizacao": "Parte 3, Capítulo 14 (cena 1/2)",
+      "artifact_id": "cbb53d65-45a7-45df-8ce1-5193935b8d36",
+      "data_geracao": "2026-04-28T20:24:49.539773",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "791647a0-e9f6-4ac2-a7de-792f37037b58"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_093_febre_preserva.mp3",
+      "tamanho_bytes": 28959070
+    },
+    {
+      "arquivo": "qv_094_estrangulamento_pequeno.mp3",
+      "cena_numero": 94,
+      "titulo_completo": "O estrangulamento do pequeno Rufius",
+      "localizacao": "Parte 3, Capítulo 14 (cena 2/2)",
+      "artifact_id": "fcdf48f2-3317-410d-8fd5-dce65b99339f",
+      "data_geracao": "2026-04-28T20:26:52.513910",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "791647a0-e9f6-4ac2-a7de-792f37037b58"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_094_estrangulamento_pequeno.mp3",
+      "tamanho_bytes": 52904263
+    },
+    {
+      "arquivo": "qv_095_cuniculo_sob.mp3",
+      "cena_numero": 95,
+      "titulo_completo": "No cuniculo, sob as peles de feras",
+      "localizacao": "Parte 3, Capítulo 15 (cena 1/3)",
+      "artifact_id": "304e117e-4172-4970-a926-e64f65c13dea",
+      "data_geracao": "2026-04-28T20:28:56.089019",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "844bf6d5-f3cc-4e8e-b379-4b4750616918"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_095_cuniculo_sob.mp3",
+      "tamanho_bytes": 28369425
+    },
+    {
+      "arquivo": "qv_096_christus_regnat.mp3",
+      "cena_numero": 96,
+      "titulo_completo": "Christus regnat — o hino entre os cães",
+      "localizacao": "Parte 3, Capítulo 15 (cena 2/3)",
+      "artifact_id": "c65a4643-6031-405e-8104-0170f12021ee",
+      "data_geracao": "2026-04-28T20:30:59.123498",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "844bf6d5-f3cc-4e8e-b379-4b4750616918"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_096_christus_regnat.mp3",
+      "tamanho_bytes": 28919361
+    },
+    {
+      "arquivo": "qv_097_nero_canta.mp3",
+      "cena_numero": 97,
+      "titulo_completo": "Nero canta sobre a fossa dos mártires",
+      "localizacao": "Parte 3, Capítulo 15 (cena 3/3)",
+      "artifact_id": "7c87d0be-77a3-424f-b01d-9137e85292d3",
+      "data_geracao": "2026-04-28T20:33:01.994707",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "844bf6d5-f3cc-4e8e-b379-4b4750616918"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_097_nero_canta.mp3",
+      "tamanho_bytes": 28494180
+    },
+    {
+      "arquivo": "qv_098_plano_frustrado.mp3",
+      "cena_numero": 98,
+      "titulo_completo": "O plano frustrado do caixão sob a tempestade",
+      "localizacao": "Parte 3, Capítulo 16 (cena 1/1)",
+      "artifact_id": "e77b3297-b3d2-4f6b-a5e9-c51a5f55bad2",
+      "data_geracao": "2026-04-28T20:35:05.353231",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "4e1914a0-241b-4a82-8d1d-89fecbd418c3"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_098_plano_frustrado.mp3",
+      "tamanho_bytes": 26760471
+    },
+    {
+      "arquivo": "qv_099_cruz_crispus.mp3",
+      "cena_numero": 99,
+      "titulo_completo": "A cruz de Crispus amaldiçoando César",
+      "localizacao": "Parte 3, Capítulo 17 (cena 1/2)",
+      "artifact_id": "2d8d4d98-65e0-4cc8-ac56-56c799854a8c",
+      "data_geracao": "2026-04-28T20:37:08.489230",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "5d34c9e6-9239-4eed-b314-5f9f13d5fbde"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_099_cruz_crispus.mp3",
+      "tamanho_bytes": 36050271
+    },
+    {
+      "arquivo": "qv_100_paulo_converte.mp3",
+      "cena_numero": 100,
+      "titulo_completo": "Paulo converte Crispus na cruz",
+      "localizacao": "Parte 3, Capítulo 17 (cena 2/2)",
+      "artifact_id": "630f301b-48ed-46cc-980b-b10b49054984",
+      "data_geracao": "2026-04-28T20:39:11.718307",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "5d34c9e6-9239-4eed-b314-5f9f13d5fbde"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_100_paulo_converte.mp3",
+      "tamanho_bytes": 26525038
+    },
+    {
+      "arquivo": "qv_101_armam_paciencia.mp3",
+      "cena_numero": 101,
+      "titulo_completo": "\"Armam-se de paciência\"",
+      "localizacao": "Parte 3, Capítulo 18 (cena 1/1)",
+      "artifact_id": "93678376-f770-44df-ade9-b5c0cc2b9577",
+      "data_geracao": "2026-04-28T20:41:14.981662",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "242e87aa-2d51-47d9-bbc6-e6a53b5aebfb"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_101_armam_paciencia.mp3",
+      "tamanho_bytes": 25676054
+    },
+    {
+      "arquivo": "qv_102_coveiros_esquilino.mp3",
+      "cena_numero": 102,
+      "titulo_completo": "Os coveiros do Esquilino",
+      "localizacao": "Parte 3, Capítulo 19 (cena 1/2)",
+      "artifact_id": "cf9a6a1f-d61e-474f-aa45-286adaa397eb",
+      "data_geracao": "2026-04-28T20:43:18.369548",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "267c9c03-8933-40b7-bfef-44bb2779ba21"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_102_coveiros_esquilino.mp3",
+      "tamanho_bytes": 29115201
+    },
+    {
+      "arquivo": "qv_103_sou_tua.mp3",
+      "cena_numero": 103,
+      "titulo_completo": "\"Sou tua mulher\"",
+      "localizacao": "Parte 3, Capítulo 19 (cena 2/2)",
+      "artifact_id": "4e6f5e3c-d5c4-46c4-be2c-df1b55742ce4",
+      "data_geracao": "2026-04-28T20:45:21.654193",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "267c9c03-8933-40b7-bfef-44bb2779ba21"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_103_sou_tua.mp3",
+      "tamanho_bytes": 26455563
+    },
+    {
+      "arquivo": "qv_104_tres_noites.mp3",
+      "cena_numero": 104,
+      "titulo_completo": "Três noites no além-túmulo",
+      "localizacao": "Parte 3, Capítulo 20 (cena 1/2)",
+      "artifact_id": "6fdffad3-b346-4a9e-a533-de5e60293008",
+      "data_geracao": "2026-04-28T20:47:25.035017",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "e5d2c33e-1860-417d-9e01-28d03b39836d"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_104_tres_noites.mp3",
+      "tamanho_bytes": 25310636
+    },
+    {
+      "arquivo": "qv_105_ronda_condenados.mp3",
+      "cena_numero": 105,
+      "titulo_completo": "A ronda dos condenados à luz da lua",
+      "localizacao": "Parte 3, Capítulo 20 (cena 2/2)",
+      "artifact_id": "b1305272-7696-4c59-b02f-5c03095b0137",
+      "data_geracao": "2026-04-28T20:49:28.819569",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "e5d2c33e-1860-417d-9e01-28d03b39836d"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_105_ronda_condenados.mp3",
+      "tamanho_bytes": 29510501
+    },
+    {
+      "arquivo": "qv_106_glaucos_perdoa.mp3",
+      "cena_numero": 106,
+      "titulo_completo": "Glaucos perdoa Chilon no poste",
+      "localizacao": "Parte 3, Capítulo 21 (cena 1/3)",
+      "artifact_id": "0699695d-75f3-456a-a90f-634367b8aab8",
+      "data_geracao": "2026-04-28T20:51:32.032039",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "9bd38f7c-1052-4ab5-83bc-0bd25c591f42"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_106_glaucos_perdoa.mp3",
+      "tamanho_bytes": 28302938
+    },
+    {
+      "arquivo": "qv_107_povo_romano.mp3",
+      "cena_numero": 107,
+      "titulo_completo": "\"Povo romano, o incendiário é ele!\"",
+      "localizacao": "Parte 3, Capítulo 21 (cena 2/3)",
+      "artifact_id": "fc546b58-577f-4e6d-b29b-b815d8619b36",
+      "data_geracao": "2026-04-28T20:53:35.497887",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "9bd38f7c-1052-4ab5-83bc-0bd25c591f42"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_107_povo_romano.mp3",
+      "tamanho_bytes": 23618014
+    },
+    {
+      "arquivo": "qv_108_batismo_chilon.mp3",
+      "cena_numero": 108,
+      "titulo_completo": "O batismo de Chilon à beira da fonte",
+      "localizacao": "Parte 3, Capítulo 21 (cena 3/3)",
+      "artifact_id": "153411ac-d60f-4244-b1ef-da2d4c63dce3",
+      "data_geracao": "2026-04-28T20:55:38.653452",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "9bd38f7c-1052-4ab5-83bc-0bd25c591f42"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_108_batismo_chilon.mp3",
+      "tamanho_bytes": 27016821
+    },
+    {
+      "arquivo": "qv_109_tambem_pertenco.mp3",
+      "cena_numero": 109,
+      "titulo_completo": "\"Também eu pertenço a Cristo\"",
+      "localizacao": "Parte 3, Capítulo 22 (cena 1/2)",
+      "artifact_id": "7f298d67-bc9e-4635-8246-f1ece6c14865",
+      "data_geracao": "2026-04-28T20:57:42.111061",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "50536ea8-622a-4d2f-a5ab-045a36a189dc"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_109_tambem_pertenco.mp3",
+      "tamanho_bytes": 34309722
+    },
+    {
+      "arquivo": "qv_110_cruz_chilon.mp3",
+      "cena_numero": 110,
+      "titulo_completo": "A cruz de Chilon e o urso compassivo",
+      "localizacao": "Parte 3, Capítulo 22 (cena 2/2)",
+      "artifact_id": "e67cb1ea-a0ef-4895-aa7b-adecc64c579c",
+      "data_geracao": "2026-04-28T20:59:45.487347",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "50536ea8-622a-4d2f-a5ab-045a36a189dc"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_110_cruz_chilon.mp3",
+      "tamanho_bytes": 31849659
+    },
+    {
+      "arquivo": "qv_111_espera_serena.mp3",
+      "cena_numero": 111,
+      "titulo_completo": "A espera serena de Lígia e Ursus nos cárceres",
+      "localizacao": "Parte 3, Capítulo 23 (cena 1/2)",
+      "artifact_id": "32002ffa-1fc7-4e22-b41a-13a6966b7b77",
+      "data_geracao": "2026-04-28T21:01:48.740552",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "38250ea8-1576-45f8-8631-e7b74f5c85bf"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_111_espera_serena.mp3",
+      "tamanho_bytes": 28570378
+    },
+    {
+      "arquivo": "qv_112_medo_cacador.mp3",
+      "cena_numero": 112,
+      "titulo_completo": "O medo do caçador diante da própria força",
+      "localizacao": "Parte 3, Capítulo 23 (cena 2/2)",
+      "artifact_id": "104a15c0-af63-4204-9cda-ca17ec587d81",
+      "data_geracao": "2026-04-28T21:03:52.180018",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "38250ea8-1576-45f8-8631-e7b74f5c85bf"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_112_medo_cacador.mp3",
+      "tamanho_bytes": 38612047
+    },
+    {
+      "arquivo": "qv_113_manobra_petronio.mp3",
+      "cena_numero": 113,
+      "titulo_completo": "A manobra de Petrônio no banquete de Nerva",
+      "localizacao": "Parte 3, Capítulo 24 (cena 1/2)",
+      "artifact_id": "9260c56e-e76f-468e-b9d8-ffe3878b02a8",
+      "data_geracao": "2026-04-30T10:36:11.461563",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "fe1ffc9e-f30c-40d2-9cda-6e6798d6814c"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_113_manobra_petronio.mp3",
+      "tamanho_bytes": 23588132
+    },
+    {
+      "arquivo": "qv_114_encomenda_cadaver.mp3",
+      "cena_numero": 114,
+      "titulo_completo": "Encomenda do cadáver ao espoliário",
+      "localizacao": "Parte 3, Capítulo 24 (cena 2/2)",
+      "artifact_id": "50835815-8e0d-4936-8313-bb352b7615ae",
+      "data_geracao": "2026-04-30T10:38:14.555970",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "fe1ffc9e-f30c-40d2-9cda-6e6798d6814c"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_114_encomenda_cadaver.mp3",
+      "tamanho_bytes": 35225940
+    },
+    {
+      "arquivo": "qv_115_vinicio_tentacao.mp3",
+      "cena_numero": 115,
+      "titulo_completo": "Vinício entre a fé e a tentação do regicídio",
+      "localizacao": "Parte 3, Capítulo 25 (cena 1/3)",
+      "artifact_id": "194448cf-db74-411f-bc1e-66aa87244ee6",
+      "data_geracao": "2026-04-30T10:40:18.103162",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "0c3d1cf5-dfdc-401f-a433-fd39027ddda8"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_115_vinicio_tentacao.mp3",
+      "tamanho_bytes": 32602159
+    },
+    {
+      "arquivo": "qv_116_ursus_contra.mp3",
+      "cena_numero": 116,
+      "titulo_completo": "Ursus contra o touro da Germânia",
+      "localizacao": "Parte 3, Capítulo 25 (cena 2/3)",
+      "artifact_id": "397d8cfb-19a7-4c82-92bc-d23ff0c355a9",
+      "data_geracao": "2026-04-30T10:42:21.642378",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "0c3d1cf5-dfdc-401f-a433-fd39027ddda8"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_116_ursus_contra.mp3",
+      "tamanho_bytes": 28234095
+    },
+    {
+      "arquivo": "qv_117_polegar_voltado.mp3",
+      "cena_numero": 117,
+      "titulo_completo": "O polegar voltado para cima — plebe e pretorianos pedem graça",
+      "localizacao": "Parte 3, Capítulo 25 (cena 3/3)",
+      "artifact_id": "366f9850-ec55-4e5f-bf4e-ea3bc9e91190",
+      "data_geracao": "2026-04-30T10:44:25.027721",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "0c3d1cf5-dfdc-401f-a433-fd39027ddda8"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_117_polegar_voltado.mp3",
+      "tamanho_bytes": 25787479
+    },
+    {
+      "arquivo": "qv_118_convalescenca_jardim.mp3",
+      "cena_numero": 118,
+      "titulo_completo": "A convalescença no jardim de Petrônio",
+      "localizacao": "Parte 3, Capítulo 26 (cena 1/1)",
+      "artifact_id": "b5c417e2-7e1e-4453-bb71-248f42644367",
+      "data_geracao": "2026-04-30T10:46:28.089659",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "0acce735-ddda-481d-8f35-e97c770a0489"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_118_convalescenca_jardim.mp3",
+      "tamanho_bytes": 26060264
+    },
+    {
+      "arquivo": "qv_119_petronio_desarma.mp3",
+      "cena_numero": 119,
+      "titulo_completo": "Petrónio desarma Tigelino com um poema",
+      "localizacao": "Parte 3, Capítulo 27 (cena 1/2)",
+      "artifact_id": "583bd572-3f11-4f5f-9c03-d74162b3f275",
+      "data_geracao": "2026-04-30T10:48:31.068759",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "40c4936a-48a5-4d31-81cb-a708fc52ac2b"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_119_petronio_desarma.mp3",
+      "tamanho_bytes": 28879021
+    },
+    {
+      "arquivo": "qv_120_beleza_extinta.mp3",
+      "cena_numero": 120,
+      "titulo_completo": "A beleza extinta e o amor que agora vê a alma",
+      "localizacao": "Parte 3, Capítulo 27 (cena 2/2)",
+      "artifact_id": "ab95dd04-4e94-443c-8838-175d359f8d43",
+      "data_geracao": "2026-04-30T10:50:34.594354",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "40c4936a-48a5-4d31-81cb-a708fc52ac2b"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_120_beleza_extinta.mp3",
+      "tamanho_bytes": 28417235
+    },
+    {
+      "arquivo": "qv_121_rebanho_dispersado.mp3",
+      "cena_numero": 121,
+      "titulo_completo": "O rebanho dispersado e a agonia do pastor",
+      "localizacao": "Parte 3, Capítulo 28 (cena 1/2)",
+      "artifact_id": "149fb0e5-9d81-49e2-9fe9-436864b74fb2",
+      "data_geracao": "2026-04-30T10:52:37.772296",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "dac25f0c-5e43-4714-b0f3-2c9afd323aa7"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_121_rebanho_dispersado.mp3",
+      "tamanho_bytes": 48299388
+    },
+    {
+      "arquivo": "qv_122_decisao_arrancada.mp3",
+      "cena_numero": 122,
+      "titulo_completo": "A decisão arrancada pelas lágrimas de Linus",
+      "localizacao": "Parte 3, Capítulo 28 (cena 2/2)",
+      "artifact_id": "fa81d984-4df5-44e7-8d95-ad9984633271",
+      "data_geracao": "2026-04-30T10:54:41.546318",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "dac25f0c-5e43-4714-b0f3-2c9afd323aa7"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_122_decisao_arrancada.mp3",
+      "tamanho_bytes": 27585433
+    },
+    {
+      "arquivo": "qv_123_quo_vadis.mp3",
+      "cena_numero": 123,
+      "titulo_completo": "Quo vadis, Domine?",
+      "localizacao": "Parte 3, Capítulo 29 (cena 1/1)",
+      "artifact_id": "18f8b270-d7ff-4e14-b07a-1e845d75d9e4",
+      "data_geracao": "2026-04-30T10:56:44.959127",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "3de422ca-0c0b-4d7d-afea-d31277733ca0"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_123_quo_vadis.mp3",
+      "tamanho_bytes": 32135028
+    },
+    {
+      "arquivo": "qv_124_triunfo_pescador.mp3",
+      "cena_numero": 124,
+      "titulo_completo": "O triunfo do pescador na colina do Vaticano",
+      "localizacao": "Parte 3, Capítulo 30 (cena 1/2)",
+      "artifact_id": "02ecfe83-3dc7-49d6-9ab3-1ada9dc9fb8c",
+      "data_geracao": "2026-04-30T10:58:48.289879",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "dcfc5d49-67ba-4125-b647-1eb2f90e55a1"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_124_triunfo_pescador.mp3",
+      "tamanho_bytes": 25634967
+    },
+    {
+      "arquivo": "qv_125_paulo_caminho.mp3",
+      "cena_numero": 125,
+      "titulo_completo": "Paulo a caminho das Águas Salvianas",
+      "localizacao": "Parte 3, Capítulo 30 (cena 2/2)",
+      "artifact_id": "b11e2f36-e2b3-4b58-83f2-3e807b199af5",
+      "data_geracao": "2026-04-30T11:00:51.805692",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "dcfc5d49-67ba-4125-b647-1eb2f90e55a1"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_125_paulo_caminho.mp3",
+      "tamanho_bytes": 30765242
+    },
+    {
+      "arquivo": "qv_126_ceifa_cabecas.mp3",
+      "cena_numero": 126,
+      "titulo_completo": "A ceifa das cabeças altaneiras",
+      "localizacao": "Parte 3, Capítulo 31 (cena 1/1)",
+      "artifact_id": "ca4da7d7-d9e2-4e9d-967b-e3b5c021a16d",
+      "data_geracao": "2026-04-30T11:02:55.050543",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "d14b8a7f-787d-4546-a386-0a3cdeeb97fd"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_126_ceifa_cabecas.mp3",
+      "tamanho_bytes": 25249379
+    },
+    {
+      "arquivo": "qv_127_carta_sicilia.mp3",
+      "cena_numero": 127,
+      "titulo_completo": "Carta da Sicília — a felicidade na paz",
+      "localizacao": "Parte 3, Capítulo 32 (cena 1/2)",
+      "artifact_id": "0a475d66-0481-4950-9588-8b664bbc9c04",
+      "data_geracao": "2026-04-30T11:04:58.249559",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "733bc1a8-65dd-4550-a342-6e8520fa34d7"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_127_carta_sicilia.mp3",
+      "tamanho_bytes": 24883214
+    },
+    {
+      "arquivo": "qv_128_replica_petronio.mp3",
+      "cena_numero": 128,
+      "titulo_completo": "A réplica de Petrônio — pagão até o fim",
+      "localizacao": "Parte 3, Capítulo 32 (cena 2/2)",
+      "artifact_id": "791e2b10-0451-4d89-a4c8-75278dd2b457",
+      "data_geracao": "2026-04-30T11:07:01.028629",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "733bc1a8-65dd-4550-a342-6e8520fa34d7"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_128_replica_petronio.mp3",
+      "tamanho_bytes": 20879821
+    },
+    {
+      "arquivo": "qv_129_festim_adeus.mp3",
+      "cena_numero": 129,
+      "titulo_completo": "O festim de adeus e a carta a Nero",
+      "localizacao": "Parte 3, Capítulo 33 (cena 1/3)",
+      "artifact_id": "33584cd6-7644-4b20-ad02-a2b0ce678d97",
+      "data_geracao": "2026-04-30T11:09:04.306144",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "31c21879-d45f-4b16-932a-6deaca9ca664"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_129_festim_adeus.mp3",
+      "tamanho_bytes": 25457919
+    },
+    {
+      "arquivo": "qv_130_eunice_escolhe.mp3",
+      "cena_numero": 130,
+      "titulo_completo": "Eunice escolhe morrer",
+      "localizacao": "Parte 3, Capítulo 33 (cena 2/3)",
+      "artifact_id": "c9600be2-9f90-4a52-9425-f5242c1c8ca0",
+      "data_geracao": "2026-04-30T11:11:07.780747",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "31c21879-d45f-4b16-932a-6deaca9ca664"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_130_eunice_escolhe.mp3",
+      "tamanho_bytes": 43051711
+    },
+    {
+      "arquivo": "qv_131_connosco_perece.mp3",
+      "cena_numero": 131,
+      "titulo_completo": "\"Connosco perece…\"",
+      "localizacao": "Parte 3, Capítulo 33 (cena 3/3)",
+      "artifact_id": "2c216ef7-732e-4cfe-a46e-4b28e14131bc",
+      "data_geracao": "2026-04-30T11:13:11.032842",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "31c21879-d45f-4b16-932a-6deaca9ca664"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_131_connosco_perece.mp3",
+      "tamanho_bytes": 25741909
+    },
+    {
+      "arquivo": "qv_132_nero_fuga.mp3",
+      "cena_numero": 132,
+      "titulo_completo": "Nero em fuga pela Via Nomentana",
+      "localizacao": "Epílogo (cena 1/3)",
+      "artifact_id": "2637d36d-4bc4-4619-9646-5f7d909e1e62",
+      "data_geracao": "2026-04-30T11:15:14.565188",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "8de42b28-c3a9-4c92-95f3-22f9fcb62124"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_132_nero_fuga.mp3",
+      "tamanho_bytes": 33096815
+    },
+    {
+      "arquivo": "qv_133_qualis_artifex.mp3",
+      "cena_numero": 133,
+      "titulo_completo": "\"Qualis artifex pereo\"",
+      "localizacao": "Epílogo (cena 2/3)",
+      "artifact_id": "fe4ebab4-8baa-4979-98ee-7e03a46d5e05",
+      "data_geracao": "2026-05-01T15:29:07.090948",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "8de42b28-c3a9-4c92-95f3-22f9fcb62124"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_133_qualis_artifex.mp3",
+      "tamanho_bytes": 27444990
+    },
+    {
+      "arquivo": "qv_134_basilica_sobre.mp3",
+      "cena_numero": 134,
+      "titulo_completo": "A basílica sobre as colinas do Vaticano",
+      "localizacao": "Epílogo (cena 3/3)",
+      "artifact_id": "847fb863-e972-44fe-bd71-d63d4ac3ca0e",
+      "data_geracao": "2026-05-01T15:31:10.265820",
+      "focus_topic": "Aja como um Tutor Sênior de Humanidades. Crie um áudio deep-dive instrucional em Português do Brasil fluente e conversacional, para ouvinte **leigo**. Duração-alvo: **15 a 20 minutos** — aplique a téc...",
+      "prompt_type": "custom",
+      "source_ids": [
+        "8de42b28-c3a9-4c92-95f3-22f9fcb62124"
+      ],
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/quo_vadis/audios/qv_134_basilica_sobre.mp3",
+      "tamanho_bytes": 27557046
     }
   ]
 }

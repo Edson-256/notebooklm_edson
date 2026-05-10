@@ -34,3 +34,7 @@ venv/
 # Dolt database files (added by bd init)
 .dolt/
 *.db
+
+# Notre-Dame Formative Reading Original Texts
+projetos/victor_hugo/notre-dame_de_paris/Notre-Dame_de_Paris.md
+projetos/victor_hugo/notre-dame_de_paris/cenas/
