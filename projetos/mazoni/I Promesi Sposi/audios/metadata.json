@@ -1,0 +1,173 @@
+{
+  "obra": "I Promessi Sposi",
+  "obra_slug": "promessi",
+  "notebook_id": "aacfd630-2c19-43ee-9135-c06b042a6351",
+  "profile": "italiano",
+  "audios": [
+    {
+      "seq_global": 1,
+      "scene_identifier": "C_00-Promesi.Sposi_cena001",
+      "cena_filename": "C_00-Promesi.Sposi_cena001.md",
+      "prompt_filename": "C_00-Promesi.Sposi_prompt001.md",
+      "book_id": "C_00-Promesi.Sposi",
+      "status": "skipped_legacy",
+      "legacy_artifacts_ids": [
+        "e1a7fed4-62ac-4552-86cb-3990a183dc85",
+        "6945187b-042b-41bc-b197-bd89f9c02512",
+        "17421a4e-bcb1-418c-9fc2-b0797b8f66e4",
+        "46c7dcd9-c94a-42ef-832b-3526e4d62cfb"
+      ],
+      "skip_reason": "Áudios antigos no studio usaram prompt genérico (Methodology) sem Scene Identifier — não casam com cenas específicas. Usuário optou por continuar a partir de seq 14 (seqs 5-13 estão prontos com prompts cena-by-cena).",
+      "skipped_at": "2026-05-16T13:02:47.493869"
+    },
+    {
+      "seq_global": 2,
+      "scene_identifier": "C_00-Promesi.Sposi_cena002",
+      "cena_filename": "C_00-Promesi.Sposi_cena002.md",
+      "prompt_filename": "C_00-Promesi.Sposi_prompt002.md",
+      "book_id": "C_00-Promesi.Sposi",
+      "status": "skipped_legacy",
+      "legacy_artifacts_ids": [
+        "e1a7fed4-62ac-4552-86cb-3990a183dc85",
+        "6945187b-042b-41bc-b197-bd89f9c02512",
+        "17421a4e-bcb1-418c-9fc2-b0797b8f66e4",
+        "46c7dcd9-c94a-42ef-832b-3526e4d62cfb"
+      ],
+      "skip_reason": "Áudios antigos no studio usaram prompt genérico (Methodology) sem Scene Identifier — não casam com cenas específicas. Usuário optou por continuar a partir de seq 14 (seqs 5-13 estão prontos com prompts cena-by-cena).",
+      "skipped_at": "2026-05-16T13:02:47.493877"
+    },
+    {
+      "seq_global": 3,
+      "scene_identifier": "C_00-Promesi.Sposi_cena003",
+      "cena_filename": "C_00-Promesi.Sposi_cena003.md",
+      "prompt_filename": "C_00-Promesi.Sposi_prompt003.md",
+      "book_id": "C_00-Promesi.Sposi",
+      "status": "skipped_legacy",
+      "legacy_artifacts_ids": [
+        "e1a7fed4-62ac-4552-86cb-3990a183dc85",
+        "6945187b-042b-41bc-b197-bd89f9c02512",
+        "17421a4e-bcb1-418c-9fc2-b0797b8f66e4",
+        "46c7dcd9-c94a-42ef-832b-3526e4d62cfb"
+      ],
+      "skip_reason": "Áudios antigos no studio usaram prompt genérico (Methodology) sem Scene Identifier — não casam com cenas específicas. Usuário optou por continuar a partir de seq 14 (seqs 5-13 estão prontos com prompts cena-by-cena).",
+      "skipped_at": "2026-05-16T13:02:47.493880"
+    },
+    {
+      "seq_global": 4,
+      "scene_identifier": "C_00-Promesi.Sposi_cena004",
+      "cena_filename": "C_00-Promesi.Sposi_cena004.md",
+      "prompt_filename": "C_00-Promesi.Sposi_prompt004.md",
+      "book_id": "C_00-Promesi.Sposi",
+      "status": "skipped_legacy",
+      "legacy_artifacts_ids": [
+        "e1a7fed4-62ac-4552-86cb-3990a183dc85",
+        "6945187b-042b-41bc-b197-bd89f9c02512",
+        "17421a4e-bcb1-418c-9fc2-b0797b8f66e4",
+        "46c7dcd9-c94a-42ef-832b-3526e4d62cfb"
+      ],
+      "skip_reason": "Áudios antigos no studio usaram prompt genérico (Methodology) sem Scene Identifier — não casam com cenas específicas. Usuário optou por continuar a partir de seq 14 (seqs 5-13 estão prontos com prompts cena-by-cena).",
+      "skipped_at": "2026-05-16T13:02:47.493882"
+    },
+    {
+      "seq_global": 5,
+      "scene_identifier": "C_00-Promesi.Sposi_cena005",
+      "cena_filename": "C_00-Promesi.Sposi_cena005.md",
+      "prompt_filename": "C_00-Promesi.Sposi_prompt005.md",
+      "artifact_id": "e1ab0562-5467-4172-9646-a98ed0199837",
+      "data_geracao": "2026-05-16T12:49:04.514189",
+      "source": "bootstrap",
+      "status": "created",
+      "arquivo": "promessi_005_c_00_promesi_sposi_cena005.mp3"
+    },
+    {
+      "seq_global": 6,
+      "scene_identifier": "C_00-Promesi.Sposi_cena006",
+      "cena_filename": "C_00-Promesi.Sposi_cena006.md",
+      "prompt_filename": "C_00-Promesi.Sposi_prompt006.md",
+      "artifact_id": "0fb9d3c1-2ec8-4e08-9b3e-5cc37a882f58",
+      "data_geracao": "2026-05-16T12:49:04.514178",
+      "source": "bootstrap",
+      "status": "created",
+      "arquivo": "promessi_006_c_00_promesi_sposi_cena006.mp3"
+    },
+    {
+      "seq_global": 7,
+      "scene_identifier": "C_00-Promesi.Sposi_cena007",
+      "cena_filename": "C_00-Promesi.Sposi_cena007.md",
+      "prompt_filename": "C_00-Promesi.Sposi_prompt007.md",
+      "artifact_id": "11b22f28-d734-4dba-a14a-e87ae9df34ca",
+      "data_geracao": "2026-05-16T12:49:04.514162",
+      "source": "bootstrap",
+      "status": "created",
+      "arquivo": "promessi_007_c_00_promesi_sposi_cena007.mp3"
+    },
+    {
+      "seq_global": 8,
+      "scene_identifier": "C_00-Promesi.Sposi_cena008",
+      "cena_filename": "C_00-Promesi.Sposi_cena008.md",
+      "prompt_filename": "C_00-Promesi.Sposi_prompt008.md",
+      "artifact_id": "f5b5b4fe-4c8a-42d7-b1ba-07679c507ad8",
+      "data_geracao": "2026-05-16T12:49:04.514129",
+      "source": "bootstrap",
+      "status": "created",
+      "arquivo": "promessi_008_c_00_promesi_sposi_cena008.mp3"
+    },
+    {
+      "seq_global": 9,
+      "scene_identifier": "C_00-Promesi.Sposi_cena009",
+      "cena_filename": "C_00-Promesi.Sposi_cena009.md",
+      "prompt_filename": "C_00-Promesi.Sposi_prompt009.md",
+      "artifact_id": "be2b0a65-a333-4a9e-bc65-ee7bf66cb393",
+      "data_geracao": "2026-05-16T12:49:04.514083",
+      "source": "bootstrap",
+      "status": "created",
+      "arquivo": "promessi_009_c_00_promesi_sposi_cena009.mp3"
+    },
+    {
+      "seq_global": 10,
+      "scene_identifier": "C_00-Promesi.Sposi_cena010",
+      "cena_filename": "C_00-Promesi.Sposi_cena010.md",
+      "prompt_filename": "C_00-Promesi.Sposi_prompt010.md",
+      "artifact_id": "8e8ce1aa-b8cb-41c3-96a5-62181d0ed2c9",
+      "data_geracao": "2026-05-16T12:49:04.514068",
+      "source": "bootstrap",
+      "status": "created",
+      "arquivo": "promessi_010_c_00_promesi_sposi_cena010.mp3"
+    },
+    {
+      "seq_global": 11,
+      "scene_identifier": "C_01-Promesi Sposi_cena001",
+      "cena_filename": "C_01-Promesi Sposi_cena001.md",
+      "prompt_filename": "C_01-Promesi Sposi_prompt001.md",
+      "artifact_id": "ac23d789-9394-4049-85ea-cab68849cf99",
+      "data_geracao": "2026-05-16T12:49:04.513885",
+      "source": "bootstrap",
+      "status": "created",
+      "arquivo": "promessi_011_c_01_promesi_sposi_cena001.mp3"
+    },
+    {
+      "seq_global": 12,
+      "scene_identifier": "C_01-Promesi Sposi_cena002",
+      "cena_filename": "C_01-Promesi Sposi_cena002.md",
+      "prompt_filename": "C_01-Promesi Sposi_prompt002.md",
+      "artifact_id": "9ecc9e5a-6ba6-4b18-bee0-ad8de4957222",
+      "data_geracao": "2026-05-16T12:49:04.513994",
+      "source": "bootstrap",
+      "status": "created",
+      "arquivo": "promessi_012_c_01_promesi_sposi_cena002.mp3"
+    },
+    {
+      "seq_global": 13,
+      "scene_identifier": "C_01-Promesi Sposi_cena003",
+      "cena_filename": "C_01-Promesi Sposi_cena003.md",
+      "prompt_filename": "C_01-Promesi Sposi_prompt003.md",
+      "artifact_id": "8c33834b-acce-4366-9f73-a68115c9e5ba",
+      "data_geracao": "2026-05-16T12:49:04.513569",
+      "source": "bootstrap",
+      "status": "created",
+      "arquivo": "promessi_013_c_01_promesi_sposi_cena003.mp3"
+    }
+  ],
+  "total_itens_processados": 9,
+  "ultima_atualizacao": "2026-05-16T13:02:47.493885"
+}

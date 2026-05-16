@@ -161,8 +161,9 @@ def upsert_entry(entry: dict) -> None:
 
 
 def get_processed_seqs() -> set[int]:
+    """Inclui created/downloaded (em progresso) e skipped_legacy (deliberadamente pulado)."""
     return {a["seq_global"] for a in load_metadata().get("audios", [])
-            if a.get("status") in ("created", "downloaded")}
+            if a.get("status") in ("created", "downloaded", "skipped_legacy")}
 
 
 # ── nlm wrappers ───────────────────────────────────────────────────────
