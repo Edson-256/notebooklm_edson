@@ -41,3 +41,7 @@ projetos/victor_hugo/notre-dame_de_paris/cenas/
 
 # Manzoni Formative Reading
 projetos/mazoni/I Promesi Sposi/cenas/
+
+# Áudios baixados do NotebookLM (pesados, mantidos só localmente)
+**/audios/*.m4a
+**/audios/*.mp3

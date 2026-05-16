@@ -76,8 +76,10 @@
       "artifact_id": "e1ab0562-5467-4172-9646-a98ed0199837",
       "data_geracao": "2026-05-16T12:49:04.514189",
       "source": "bootstrap",
-      "status": "created",
-      "arquivo": "promessi_005_c_00_promesi_sposi_cena005.mp3"
+      "status": "downloaded",
+      "arquivo": "promessi_005_c_00_promesi_sposi_cena005.m4a",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/mazoni/I Promesi Sposi/audios/promessi_005_c_00_promesi_sposi_cena005.m4a",
+      "tamanho_bytes": 24534231
     },
     {
       "seq_global": 6,
@@ -87,8 +89,10 @@
       "artifact_id": "0fb9d3c1-2ec8-4e08-9b3e-5cc37a882f58",
       "data_geracao": "2026-05-16T12:49:04.514178",
       "source": "bootstrap",
-      "status": "created",
-      "arquivo": "promessi_006_c_00_promesi_sposi_cena006.mp3"
+      "status": "downloaded",
+      "arquivo": "promessi_006_c_00_promesi_sposi_cena006.m4a",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/mazoni/I Promesi Sposi/audios/promessi_006_c_00_promesi_sposi_cena006.m4a",
+      "tamanho_bytes": 43571882
     },
     {
       "seq_global": 7,
@@ -98,8 +102,10 @@
       "artifact_id": "11b22f28-d734-4dba-a14a-e87ae9df34ca",
       "data_geracao": "2026-05-16T12:49:04.514162",
       "source": "bootstrap",
-      "status": "created",
-      "arquivo": "promessi_007_c_00_promesi_sposi_cena007.mp3"
+      "status": "downloaded",
+      "arquivo": "promessi_007_c_00_promesi_sposi_cena007.m4a",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/mazoni/I Promesi Sposi/audios/promessi_007_c_00_promesi_sposi_cena007.m4a",
+      "tamanho_bytes": 31780816
     },
     {
       "seq_global": 8,
@@ -109,8 +115,10 @@
       "artifact_id": "f5b5b4fe-4c8a-42d7-b1ba-07679c507ad8",
       "data_geracao": "2026-05-16T12:49:04.514129",
       "source": "bootstrap",
-      "status": "created",
-      "arquivo": "promessi_008_c_00_promesi_sposi_cena008.mp3"
+      "status": "downloaded",
+      "arquivo": "promessi_008_c_00_promesi_sposi_cena008.m4a",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/mazoni/I Promesi Sposi/audios/promessi_008_c_00_promesi_sposi_cena008.m4a",
+      "tamanho_bytes": 27834313
     },
     {
       "seq_global": 9,
@@ -120,8 +128,10 @@
       "artifact_id": "be2b0a65-a333-4a9e-bc65-ee7bf66cb393",
       "data_geracao": "2026-05-16T12:49:04.514083",
       "source": "bootstrap",
-      "status": "created",
-      "arquivo": "promessi_009_c_00_promesi_sposi_cena009.mp3"
+      "status": "downloaded",
+      "arquivo": "promessi_009_c_00_promesi_sposi_cena009.m4a",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/mazoni/I Promesi Sposi/audios/promessi_009_c_00_promesi_sposi_cena009.m4a",
+      "tamanho_bytes": 45755541
     },
     {
       "seq_global": 10,
@@ -131,8 +141,10 @@
       "artifact_id": "8e8ce1aa-b8cb-41c3-96a5-62181d0ed2c9",
       "data_geracao": "2026-05-16T12:49:04.514068",
       "source": "bootstrap",
-      "status": "created",
-      "arquivo": "promessi_010_c_00_promesi_sposi_cena010.mp3"
+      "status": "downloaded",
+      "arquivo": "promessi_010_c_00_promesi_sposi_cena010.m4a",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/mazoni/I Promesi Sposi/audios/promessi_010_c_00_promesi_sposi_cena010.m4a",
+      "tamanho_bytes": 48075160
     },
     {
       "seq_global": 11,
@@ -142,8 +154,10 @@
       "artifact_id": "ac23d789-9394-4049-85ea-cab68849cf99",
       "data_geracao": "2026-05-16T12:49:04.513885",
       "source": "bootstrap",
-      "status": "created",
-      "arquivo": "promessi_011_c_01_promesi_sposi_cena001.mp3"
+      "status": "downloaded",
+      "arquivo": "promessi_011_c_01_promesi_sposi_cena001.m4a",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/mazoni/I Promesi Sposi/audios/promessi_011_c_01_promesi_sposi_cena001.m4a",
+      "tamanho_bytes": 38950572
     },
     {
       "seq_global": 12,
@@ -153,8 +167,10 @@
       "artifact_id": "9ecc9e5a-6ba6-4b18-bee0-ad8de4957222",
       "data_geracao": "2026-05-16T12:49:04.513994",
       "source": "bootstrap",
-      "status": "created",
-      "arquivo": "promessi_012_c_01_promesi_sposi_cena002.mp3"
+      "status": "downloaded",
+      "arquivo": "promessi_012_c_01_promesi_sposi_cena002.m4a",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/mazoni/I Promesi Sposi/audios/promessi_012_c_01_promesi_sposi_cena002.m4a",
+      "tamanho_bytes": 38410978
     },
     {
       "seq_global": 13,
@@ -164,10 +180,12 @@
       "artifact_id": "8c33834b-acce-4366-9f73-a68115c9e5ba",
       "data_geracao": "2026-05-16T12:49:04.513569",
       "source": "bootstrap",
-      "status": "created",
-      "arquivo": "promessi_013_c_01_promesi_sposi_cena003.mp3"
+      "status": "downloaded",
+      "arquivo": "promessi_013_c_01_promesi_sposi_cena003.m4a",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/mazoni/I Promesi Sposi/audios/promessi_013_c_01_promesi_sposi_cena003.m4a",
+      "tamanho_bytes": 42125151
     }
   ],
-  "total_itens_processados": 9,
-  "ultima_atualizacao": "2026-05-16T13:02:47.493885"
+  "total_itens_processados": 13,
+  "ultima_atualizacao": "2026-05-16T13:09:34.466502"
 }

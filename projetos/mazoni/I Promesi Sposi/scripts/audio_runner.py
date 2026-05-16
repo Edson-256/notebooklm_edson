@@ -126,7 +126,8 @@ def slugify(text: str) -> str:
 
 
 def filename_for(item: dict) -> str:
-    return f"{FILENAME_PREFIX}_{item['seq_global']:03d}_{slugify(item['scene_identifier'])}.mp3"
+    # NLM entrega AAC em MP4 container — extensão .m4a é a correta.
+    return f"{FILENAME_PREFIX}_{item['seq_global']:03d}_{slugify(item['scene_identifier'])}.m4a"
 
 
 # ── Metadata ───────────────────────────────────────────────────────────
