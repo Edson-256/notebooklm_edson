@@ -3,7 +3,7 @@
 Notre Dame de Paris (français) — Audio Runner (fire-and-forget).
 
 Modelado em projetos/cof_v2/scripts/06_audio_runner.py mas simplificado:
-- Single-source (o livro inteiro), source_id auto-detectado.
+- Multi-source: cada cena usa a source do capítulo dela (auto-mapeado por título).
 - Manifest construído do filesystem (cenas/ + prompts/ pareados).
 - Limite free de 3 áudios/dia → --max 3 default.
 - --bootstrap lê studio NLM e popula metadata para áudios criados manualmente.
@@ -81,6 +81,15 @@ PROMPT_RE = re.compile(r"_prompt(\d+)\.md$")
 SCENE_ID_RE = re.compile(r"Scene Identifier:\s*\**\s*([\w\.\- ]+?cena\d+)", re.IGNORECASE)
 
 
+def book_id_of_cena(cena_filename: str) -> str:
+    """Extrai a identidade do capítulo (prefixo) p/ casar com a source.
+
+    Promessi:  C_00-Promesi.Sposi_cena001.md → 'C_00-Promesi.Sposi'
+    Notre Dame: L01-C01-LA_GRANDSALLE_cena001.md → 'L01-C01-LA_GRANDSALLE'
+    """
+    return re.split(r"_cena\d+\.md$", cena_filename)[0]
+
+
 def build_manifest() -> list[dict]:
     """Lê cenas/ e prompts/, pareia, ordena, atribui seq_global 1..N."""
     cenas = sorted(CENAS_DIR.glob("*.md"))
@@ -93,15 +102,13 @@ def build_manifest() -> list[dict]:
 
     items = []
     for seq, (cena, prompt) in enumerate(zip(cenas, prompts), start=1):
-        cena_id = cena.stem.replace("_cena", "_cena_TMP_").rsplit("_cena_TMP_", 1)[0] + "_cena" + cena.stem.split("_cena")[-1]
-        # Identifier = nome do arquivo sem extensão, que é o que o prompt referencia
-        scene_identifier = cena.stem
         items.append({
             "seq_global": seq,
-            "scene_identifier": scene_identifier,
+            "scene_identifier": cena.stem,
             "cena_filename": cena.name,
             "prompt_filename": prompt.name,
             "prompt_path": prompt,
+            "book_id": book_id_of_cena(cena.name),
         })
     return items
 
@@ -173,20 +180,38 @@ def check_auth() -> bool:
         log(f"Erro auth: {e}"); return False
 
 
-def get_source_id() -> str | None:
+def build_source_map() -> dict[str, str] | None:
+    """Mapeia book_id (título sem .md) → source_id. Multi-source: cada cena usa
+    a fonte do seu capítulo."""
     r = run_nlm(["source", "list", NOTEBOOK_ID, "--json", "--profile", PROFILE], timeout=30)
     if r.returncode != 0:
-        log(f"   nlm source list falhou: {r.stderr.strip()[:200]}")
-        return None
+        log(f"   nlm source list falhou: {r.stderr.strip()[:200]}"); return None
     try:
         sources = json.loads(r.stdout)
     except json.JSONDecodeError:
         return None
     if not sources:
         log("ERRO: notebook não tem fontes"); return None
-    if len(sources) > 1:
-        log(f"AVISO: {len(sources)} fontes no notebook. Usando a primeira: {sources[0].get('title','')[:60]}")
-    return sources[0].get("id")
+    smap: dict[str, str] = {}
+    for s in sources:
+        title = (s.get("title") or "").rstrip()
+        key = re.sub(r"\.md$", "", title, flags=re.IGNORECASE)
+        if key:
+            smap[key] = s["id"]
+    return smap
+
+
+def resolve_source_for_item(item: dict, smap: dict[str, str]) -> str | None:
+    """Acha a source pelo book_id da cena. Aceita match exato; senão tenta
+    normalizar variações pontuais (Promesi.Sposi vs Promesi Sposi)."""
+    bid = item["book_id"]
+    if bid in smap:
+        return smap[bid]
+    candidates = {bid.replace(".", " "), bid.replace(" ", ".")}
+    for c in candidates:
+        if c in smap:
+            return smap[c]
+    return None
 
 
 _UUID_RE = re.compile(r"[a-f0-9]{8}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{12}")
@@ -295,16 +320,24 @@ def bootstrap_from_studio(items: list[dict]) -> int:
 # ── Run principal (fire-and-forget) ────────────────────────────────────
 
 def run_create(args, items: list[dict]) -> int:
-    source_id = None
+    smap: dict[str, str] | None = None
     if not args.skip_auth_check:
         if not check_auth():
             log("ERRO: nlm nao autenticado. Execute: nlm login --profile " + PROFILE)
             return 1
         log("Auth OK")
-        source_id = get_source_id()
-        if not source_id:
-            log("ERRO: source_id não detectado"); return 1
-        log(f"Source: {source_id}")
+        smap = build_source_map()
+        if not smap:
+            log("ERRO: source map não pôde ser construído"); return 1
+        log(f"Sources: {len(smap)} fontes mapeadas")
+        missing_books = sorted({it["book_id"] for it in items if it["book_id"] not in smap
+                                and not (it["book_id"].replace(".", " ") in smap
+                                         or it["book_id"].replace(" ", ".") in smap)})
+        if missing_books:
+            log(f"ERRO: {len(missing_books)} book_id sem source no notebook:")
+            for b in missing_books[:5]:
+                log(f"  - {b!r}")
+            return 1
 
     processed = get_processed_seqs()
     pending = [it for it in items if it["seq_global"] not in processed]
@@ -319,18 +352,26 @@ def run_create(args, items: list[dict]) -> int:
 
     if args.dry_run:
         for i, it in enumerate(queue, 1):
-            print(f"  {i:3d}. seq={it['seq_global']:3d}  {it['scene_identifier']}  →  {it['prompt_filename']}")
+            sid = (smap and resolve_source_for_item(it, smap)) or "(skip-auth)"
+            print(f"  {i:3d}. seq={it['seq_global']:3d}  {it['scene_identifier']}")
+            print(f"       prompt={it['prompt_filename']}  source={sid[:8] if sid != '(skip-auth)' else sid}...")
         return 0
 
-    if source_id is None:
-        log("ERRO: --skip-auth-check requer --dry-run para execução parcial"); return 1
+    if smap is None:
+        log("ERRO: --skip-auth-check requer --dry-run"); return 1
 
     session_stats["started_at"] = datetime.now()
     interval = 0 if args.no_wait else INTERVAL_SECONDS
 
     for i, it in enumerate(queue, 1):
         if shutdown_requested: break
+        sid = resolve_source_for_item(it, smap)
+        if not sid:
+            log(f"[{i}/{len(queue)}] seq={it['seq_global']}: sem source para book_id={it['book_id']!r} — PULANDO")
+            session_stats["items_failed"] += 1
+            continue
         log(f"[{i}/{len(queue)}] seq={it['seq_global']}: {it['scene_identifier']}")
+        log(f"   Source: {sid[:8]}... ({it['book_id']})")
         prompt = load_prompt(it)
         log(f"   Prompt: {it['prompt_filename']} ({len(prompt)} chars)")
 
@@ -339,7 +380,7 @@ def run_create(args, items: list[dict]) -> int:
             if attempt > 1:
                 log(f"   Tentativa {attempt}/{MAX_RETRIES}")
                 time.sleep(30 * attempt)
-            artifact_id = create_audio(prompt, source_id)
+            artifact_id = create_audio(prompt, sid)
             if artifact_id:
                 log(f"   Artifact: {artifact_id[:12]}...")
                 upsert_entry({
@@ -349,6 +390,8 @@ def run_create(args, items: list[dict]) -> int:
                     "prompt_filename": it["prompt_filename"],
                     "arquivo": filename_for(it),
                     "artifact_id": artifact_id,
+                    "source_id": sid,
+                    "book_id": it["book_id"],
                     "data_geracao": datetime.now().isoformat(),
                     "prompt_chars": len(prompt),
                     "language": LANGUAGE,
