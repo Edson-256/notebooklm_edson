@@ -33,29 +33,56 @@ python3 scripts/02_clean_raw.py --only etica  # filtra
 python3 scripts/02_clean_raw.py --dry-run
 ```
 
-## Fase 3 — Segmentação por livros/capítulos
+## Fase 3 — Segmentação por livros/capítulos ✅
 
-Cada obra de Aristóteles é dividida em **Livros (Books)** e dentro de cada livro em **Capítulos (Parts/Chapters)**. Algumas obras menores (Categorias, Poética) têm só capítulos.
+**Concluída em 2026-05-16** via `scripts/03_segment_capitulos.py`. Output: **1364 arquivos markdown** em `obras/{cat}/{obra}/capitulos/L{NN}-C{MM}.md`. Manifesto em `_raw/segment_manifest.json`.
 
-**Nomenclatura proposta** (igual notre-dame):
-- `obras/{categoria}/{obra}/capitulos/L01-C01-<titulo_kebab>.md`
-- Para obras de 1 livro só: `obras/{categoria}/{obra}/capitulos/C01-<titulo_kebab>.md`
+**Markers reconhecidos:**
+- `BOOK I`/`BOOK II`/...`BOOK ONE`/`BOOK TWO` (Politics MIT usa palavras), `SECTION 1`/`SECTION 2` — livro.
+- `Part 1`/`Part I`, `CHAPTER 1`/`CHAPTER I` — capítulo.
+- Capítulo numérico isolado (Nicomachean Ethics: `1`, `2`, `3` sozinho com brancos antes/depois) — capítulo, com heurística de sequenciamento.
 
-**Exemplo — Metafísica:**
+**Sanity check:** rejeita números de livro fora de 1-20 (protege contra OCR ruim como `BOOK Ill` virando 99 via conversão romana).
+
+**Distribuição final** (por categoria):
+- 01_organon: 270 capítulos
+- 02_fisica: 173
+- 03_psicologia_biologia: 394 (inclui Parva Naturalia com 7 sub-obras prefixadas)
+- 04_metafisica: 142 (14 livros, ~10 cap cada)
+- 05_etica: 180 (Nicômaco 99 + Eudemo 4 + Magna 76 + Virtues 1)
+- 06_politica: 126 (Política 22 + Const. Atenienses 69 + Econômicos 35)
+- 07_retorica_poetica: 86
+
+**Limitações conhecidas** (issues criadas):
+- **Politics truncado**: o Google cache do MIT só preservou Books I-II (de 8 totais). Issue para baixar de fonte alternativa.
+- **Eudemian Ethics OCR ruim**: Loeb 285 perdeu BOOK IV, V, VI. Segmentado em 4 livros em vez de 8.
+- **Magna Moralia**: arquivo Stock tem múltiplas seções (texto inglês, grego, comentários) que confundem segmentador. 76 capítulos em livros L01/02/07/08 — revisão manual recomendada.
+- **Generation of Animals**: sem CHAPTER markers claros, cada livro virou 1 capítulo único.
+- **Parva Naturalia**: 7 sub-obras compartilham diretório; arquivos prefixados com slug (ex: `on_dreams-L01-C01.md`).
+
+**Comando para regenerar:**
+```bash
+python3 scripts/03_segment_capitulos.py            # tudo
+python3 scripts/03_segment_capitulos.py --only metafisica
+python3 scripts/03_segment_capitulos.py --dry-run
 ```
-obras/04_metafisica/01_metafisica/capitulos/
-├── L01-C01-Sabedoria_e_Experiencia.md
-├── L01-C02-Causas_e_Principios.md
-├── ...
-└── L14-C06-Numeros_e_Formas.md  (14 livros)
-```
 
-**Exemplo — Poética (livro único):**
-```
-obras/07_retorica_poetica/02_poetica/capitulos/
-├── C01-Imitacao_Natureza_Poesia.md
-├── C02-Generos_da_Imitacao.md
-├── ...
+**Exemplo de frontmatter gerado:**
+```yaml
+---
+obra_pt: "Metafísica"
+obra_en: "Metaphysics"
+categoria: 04_metafisica
+obra_slug: 01_metafisica
+fonte: MIT/Oxford-Ross
+livro_num: 1
+livro_marker: "BOOK I"
+total_livros: 14
+capitulo_num: 1
+capitulo_marker: "Part 1"
+total_capitulos_no_livro: 10
+bytes: 5555
+---
 ```
 
 ## Fase 4 — Seleção de cenas e prompts

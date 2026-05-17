@@ -25,6 +25,7 @@ docs/notebooklm/install_log.md
 projetos/*/_raw/
 projetos/aristoteles/obras/**/_raw/
 projetos/aristoteles/obras/**/clean/
+projetos/aristoteles/obras/**/capitulos/
 
 # Python
 __pycache__/

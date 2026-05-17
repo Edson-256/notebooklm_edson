@@ -38,7 +38,7 @@ aristoteles/
 Cada `obras/{categoria}/{obra}/` contém:
 - `_raw/` — texto bruto consolidado (`*.txt`) + metadados (`*.source.json`)
 - `clean/` — texto higienizado pelo `scripts/02_clean_raw.py` (header/footer removidos, OCR parcialmente limpo)
-- (a criar) `capitulos/` — segmentação por livro
+- `capitulos/` — markdown segmentado por livro+capítulo (`L01-C01.md`, `L01-C02.md`, …) via `scripts/03_segment_capitulos.py`. Inclui frontmatter com obra/livro/capítulo/fonte.
 - (a criar) `cenas/` — trechos selecionados para Deep Dive
 - (a criar) `prompts/` — prompts para o NotebookLM
 - (a criar) `audios/` — áudios gerados desta obra
