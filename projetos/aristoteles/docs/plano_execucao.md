@@ -85,22 +85,64 @@ bytes: 5555
 ---
 ```
 
-## Fase 4 — Seleção de cenas e prompts
+## Fase 4-5 — Seleção de cenas e geração de prompts (rotina diária) ✅
 
-Mesmo modelo de notre-dame: extrair 1-5 trechos relevantes por capítulo (cenas), e para cada cena criar um prompt para o NotebookLM.
+**Concluída em 2026-05-16** via 2 scripts:
 
-**Nomenclatura:**
-- Cenas: `obras/{categoria}/{obra}/cenas/L01-C01-<titulo>_cena001.md`
-- Prompts: `obras/{categoria}/{obra}/prompts/L01-C01-<titulo>_prompt001.md`
+### `scripts/04_define_cenas_master.py` (executar 1x ou ao alterar capítulos)
 
-**Template de prompt base** — adaptar o template de notre-dame, mas:
-- Substituir "Notre-Dame de Paris" por nome da obra de Aristóteles
-- Idioma: **Inglês** (o áudio NotebookLM deve sair em inglês, dado que o texto base é traduzido para inglês)
-- Linha pedagógica: adaptar para filosofia clássica — tutor deve aplicar leitura formativa (não exegese acadêmica)
-- Para obras lógicas (Organon): focar na estrutura do argumento, não em "drama"
-- Para obras biológicas: focar na observação e classificação aristotélica
+Percorre os 1364 `obras/*/capitulos/L*-C*.md`, divide capítulos longos (>12k chars)
+em sub-cenas de até ~8k chars (limite prático NotebookLM), ordena por prioridade
+canônica (ver `docs/priority_order.md`) e grava em `_raw/cenas_master.json`.
 
-Decisão pendente: gravar tudo em inglês (mais material disponível) ou tentar versão PT com obras já traduzidas (apenas Física, Sobre o Céu disponíveis em PT em `obrasdearistoteles.net`, que requer login)?
+**Resultado:** 1695 cenas planejadas (1364 capítulos + 331 sub-cenas extras).
+
+**Flag `--force`:** regenera o master preservando o status (`done`/`failed`/`pending`)
+das cenas que já existiam — útil ao re-segmentar uma obra.
+
+### `scripts/05_daily_cenas_runner.py` (chamado pelo cron)
+
+Pega próximas N cenas `pending` em ordem de priority_rank e gera:
+- `obras/{cat}/{obra}/cenas/{slug}_cena01.md` — texto recortado da cena
+- `obras/{cat}/{obra}/prompts/{slug}_cena01.md` — prompt para o NotebookLM
+- Atualiza `status='done'` + `done_at` no master, append em `_raw/cenas_log.jsonl`
+
+**Flags úteis:**
+```bash
+python3 scripts/05_daily_cenas_runner.py             # 100 cenas (default)
+python3 scripts/05_daily_cenas_runner.py --limit 5   # lote menor (teste)
+python3 scripts/05_daily_cenas_runner.py --status    # apenas relatório
+python3 scripts/05_daily_cenas_runner.py --dry-run   # mostra sem gravar
+```
+
+### Cron — automação diária
+
+```cron
+# Aristóteles: gera 100 cenas+prompts/dia em ordem canônica de prioridade
+0 7 * * * /Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/aristoteles/scripts/cron_daily.sh
+```
+
+Wrapper `scripts/cron_daily.sh` chama o runner com limit 100, loga em
+`logs/aristoteles_cron_YYYYMMDD_HHMMSS.log`, notifica via afplay/terminal-notifier
+em caso de falha (e ao concluir tudo).
+
+**Cronograma:** 1695 cenas / 100 por dia = ~17 dias até cobrir todas as obras.
+Ordem segue `docs/priority_order.md` (Ética → Política → Poética → Retórica → …).
+
+### Template do prompt
+
+O prompt está em `scripts/05_daily_cenas_runner.py:PROMPT_TEMPLATE`. Pontos
+principais:
+- **Idioma do áudio**: inglês (todas as 33 obras estão em traduções inglesas).
+- **Pedagogia**: formativa, não acadêmica. Estrutura em 5 blocos:
+  1. Anchor the question.
+  2. Walk the argument.
+  3. Name the method (4 causas, divisão por gênero, dialética, etc.).
+  4. From concept to life (1 exemplo moderno concreto).
+  5. Tie back.
+- **Anti-invenção**: "Do not invent doctrine. If Aristotle is silent on a modern
+  application, say so." — coerente com a regra global.
+- **Recap**: o tutor faz "Previously On" para áudios além do 1º da obra.
 
 ## Fase 5 — Geração de áudios via NotebookLM
 

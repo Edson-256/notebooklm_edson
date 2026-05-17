@@ -26,6 +26,8 @@ projetos/*/_raw/
 projetos/aristoteles/obras/**/_raw/
 projetos/aristoteles/obras/**/clean/
 projetos/aristoteles/obras/**/capitulos/
+projetos/aristoteles/obras/**/cenas/
+projetos/aristoteles/obras/**/prompts/
 
 # Python
 __pycache__/

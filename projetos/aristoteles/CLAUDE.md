@@ -39,9 +39,9 @@ Cada `obras/{categoria}/{obra}/` contém:
 - `_raw/` — texto bruto consolidado (`*.txt`) + metadados (`*.source.json`)
 - `clean/` — texto higienizado pelo `scripts/02_clean_raw.py` (header/footer removidos, OCR parcialmente limpo)
 - `capitulos/` — markdown segmentado por livro+capítulo (`L01-C01.md`, `L01-C02.md`, …) via `scripts/03_segment_capitulos.py`. Inclui frontmatter com obra/livro/capítulo/fonte.
-- (a criar) `cenas/` — trechos selecionados para Deep Dive
-- (a criar) `prompts/` — prompts para o NotebookLM
-- (a criar) `audios/` — áudios gerados desta obra
+- `cenas/` — trechos recortados para Deep Dive NLM (até 8k chars cada), gerados em ritmo de 100/dia pelo cron — ver `docs/plano_execucao.md` Fase 4-5.
+- `prompts/` — prompts para o NotebookLM, gerados junto com as cenas (1 prompt por cena).
+- (a criar) `audios/` — áudios gerados desta obra (Fase 6, separada, respeita limite NLM 20/dia)
 
 ## Padrão de nomenclatura (a aplicar quando segmentar)
 
