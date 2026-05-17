@@ -24,6 +24,7 @@ docs/notebooklm/install_log.md
 # Saída bruta de conversão de epub e downloads (regeneráveis via scripts)
 projetos/*/_raw/
 projetos/aristoteles/obras/**/_raw/
+projetos/aristoteles/obras/**/clean/
 
 # Python
 __pycache__/

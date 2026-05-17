@@ -10,20 +10,28 @@
 - Manifesto em `_raw/download_manifest.json`
 - Índice canônico em `docs/corpus_index.md`
 
-## Fase 2 — Limpeza dos textos brutos (TODO)
+## Fase 2 — Limpeza dos textos brutos ✅
 
-**Por que necessária:** Os textos do MIT vêm com cabeçalho da Internet Classics Archive e marcação "Part N" / "BOOK N". Os textos do Archive.org são OCR de DJVU e contêm:
-- Página de rosto da biblioteca (Toronto/Oxford) no topo
-- Números de página intercalados ao texto
-- Caracteres acentuados corrompidos (a tradução é toda em inglês, então acentos são raros)
-- Notas de rodapé em grego antigo coladas no texto
+**Concluída em 2026-05-16** via `scripts/02_clean_raw.py`. Output em `obras/{cat}/{obra}/clean/*.txt`. Manifesto em `_raw/clean_manifest.json`.
 
-**Tarefas:**
-1. Para obras do MIT: extrair apenas o corpo após o separador `---` e remover marcações de navegação.
-2. Para obras do Archive.org (5 obras): limpar OCR (página de rosto, page numbers, notas em grego).
-3. Validar que cada arquivo `.txt` começa com texto efetivo de Aristóteles.
+**Pipelines implementados:**
+- **MIT (28 obras)**: detecta início do corpo (primeira ocorrência de `BOOK N` / `SECTION N` / `Part 1`), trunca em `THE END`, normaliza marcadores `Part N \"` (artefato de aspas escapadas).
+- **Archive.org book_start (3 obras)**: descarta tudo antes da primeira ocorrência de `BOOK I`, remove page headers repetitivos (`GENERATION OF ANIMALS`, `OECONOMICA`, etc.).
+- **Archive.org extract_range (2 obras)**: para Eudemian e Virtues e Vícios — extraem trecho específico do volume Loeb 285 (que contém 3 obras coladas), usando `min_line` para pular a capa e índices.
 
-Sugerido criar `scripts/02_clean_raw.py` com pipeline por categoria.
+**Qualidade observada:**
+- MIT: 95-100% retido após limpeza (apenas header/footer removidos). Excelente.
+- Generation of Animals (Peck Loeb): OCR Loeb com artefatos `_` decorativos e palavras quebradas como `[produc-` `tion]`. Aceitável.
+- Magna Moralia (Stock Oxford): começa com TOC analítico antes do corpo. OK.
+- **Eudemian Ethics (Solomon Loeb 285): OCR muito ruidoso** (ex: `co^^iposed`, `temj,{j`). Pode demandar fonte alternativa (ver issue notebooklm_edson-... a criar).
+- Politics: 1 letra perdida ("Every tate" em vez de "state") — único artefato do Google cache, irreversível, ignorável (108 outras ocorrências íntegras).
+
+**Comando para regenerar:**
+```bash
+python3 scripts/02_clean_raw.py            # tudo
+python3 scripts/02_clean_raw.py --only etica  # filtra
+python3 scripts/02_clean_raw.py --dry-run
+```
 
 ## Fase 3 — Segmentação por livros/capítulos
 

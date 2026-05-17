@@ -37,6 +37,7 @@ aristoteles/
 
 Cada `obras/{categoria}/{obra}/` contém:
 - `_raw/` — texto bruto consolidado (`*.txt`) + metadados (`*.source.json`)
+- `clean/` — texto higienizado pelo `scripts/02_clean_raw.py` (header/footer removidos, OCR parcialmente limpo)
 - (a criar) `capitulos/` — segmentação por livro
 - (a criar) `cenas/` — trechos selecionados para Deep Dive
 - (a criar) `prompts/` — prompts para o NotebookLM

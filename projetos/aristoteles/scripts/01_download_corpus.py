@@ -90,10 +90,12 @@ CORPUS = {
          "https://classics.mit.edu/Aristotle/motion_animals.mb.txt", "MIT/Oxford-Farquharson"),
         ("06_marcha_animais", "Sobre a Marcha dos Animais", "On the Gait of Animals",
          "https://classics.mit.edu/Aristotle/gait_anim.mb.txt", "MIT/Oxford-Farquharson"),
-        # Geração dos Animais não está no MIT — Archive.org (tradução Platt, Oxford 1910)
+        # Geração dos Animais não está no MIT — Archive.org (tradução A. L. Peck, Loeb)
+        # NB: worksofaristotle05arisuoft é PARTS of Animals (vol V Oxford), não Generation!
+        # Usar generationofanim00arisuoft (Peck) que é dedicado à obra.
         ("07_geracao_animais", "Sobre a Geração dos Animais", "On the Generation of Animals",
-         "https://archive.org/download/worksofaristotle05arisuoft/worksofaristotle05arisuoft_djvu.txt",
-         "Archive.org/Oxford-Platt"),
+         "https://archive.org/download/generationofanim00arisuoft/generationofanim00arisuoft_djvu.txt",
+         "Archive.org/Loeb-Peck"),
     ],
     "04_metafisica": [
         ("01_metafisica", "Metafísica", "Metaphysics",
