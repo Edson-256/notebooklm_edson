@@ -144,17 +144,64 @@ principais:
   application, say so." — coerente com a regra global.
 - **Recap**: o tutor faz "Previously On" para áudios além do 1º da obra.
 
-## Fase 5 — Geração de áudios via NotebookLM
+## Fase 6 — Geração de áudios via NotebookLM (híbrido, em standby)
 
-Seguir o padrão de `quo_vadis_runner.py` / `ben_hur_runner.py`:
-- Notebook ID: `de324f7f-25ca-438c-96d5-16ff36a2bddc` (Aristóteles, conta pessoal)
-- Profile: `default`
-- Limite: **20 áudios/dia** (silencioso na CLI nlm — planejar lotes de 18-19)
-- "Completed" é prematuro: janela de 10-40min entre status e download viável
-- Filenames: usar `.m4a` (não `.mp3`)
+**Concluída em 2026-05-17** — infraestrutura pronta, aguardando ativação do cron
+quando o cron do COF v2 (21:00) terminar (~2 semanas).
 
-**Estimativa de volume:**
-Se cada obra gerar ~10 cenas em média (variável: Política tem 8 livros, podem ser 40+ cenas), o total fica em ~330-500 cenas → ~17-25 dias para gerar tudo via NotebookLM.
+### Notebook recriado
+
+O notebook antigo (`de324f7f-...`) tinha sources antigos incompletos (uploads
+dos primeiros downloads de 5KB do MIT). Criamos um **novo notebook limpo**:
+
+- **Título:** Aristóteles (completo)
+- **ID:** `48eb1ca3-5f9b-484a-be94-fe959c3e40dc`
+- **Sources:** 33 obras canônicas em ordem do Corpus Aristotelicum (Bekker)
+- Via `scripts/06_create_notebook_and_upload.py`. Manifest em
+  `_raw/notebook_aristoteles.json` mapeia `obra_idx` → `source_id`.
+
+### Workflow híbrido
+
+Documentação completa em `docs/workflow_audio.md`. Resumo:
+
+| Canal | Limite/dia | Uso |
+|---|---|---|
+| CLI (`nlm studio create`) | 20 | Cron noturno (standby) |
+| UI manual | ~50 | Acelerar enquanto outros crons rodam |
+
+Cada cena tem `audio_title` e `audio_filename` canônicos no master e impressos
+no **cabeçalho do prompt** — operador apenas renomeia o áudio gerado no Studio
+para o título exato, e o script `--harvest` baixa em lote.
+
+### Comandos principais
+
+```bash
+python3 scripts/07_audio_runner.py --status
+python3 scripts/07_audio_runner.py --list-pending 10
+python3 scripts/07_audio_runner.py --show-prompt <cena_id>
+python3 scripts/07_audio_runner.py --harvest    # baixa áudios prontos
+python3 scripts/07_audio_runner.py --create 20  # dispara 20 via CLI (stub atual)
+python3 scripts/07_audio_runner.py --claim <artifact_id> <cena_id>
+```
+
+### Ativar o cron
+
+```bash
+cp scripts/cron_audio.sh.template scripts/cron_audio.sh
+chmod +x scripts/cron_audio.sh
+crontab -e   # adicionar: 0 7 * * * .../cron_audio.sh
+```
+
+**Nota:** comando `--create` está em modo stub (não invoca `nlm studio create`
+ainda). Validar a sintaxe exata antes de ativar o cron — ver
+`07_audio_runner.py:cmd_create`.
+
+### Estimativa de volume
+
+- 1695 cenas totais
+- @ 20/dia CLI: ~85 dias (3 meses)
+- @ 20 CLI + ~30 manual: ~34 dias (~5 semanas)
+- Pode escalar: lotes manuais de fim de semana, etc.
 
 ## Fase 6 — Distribuição
 

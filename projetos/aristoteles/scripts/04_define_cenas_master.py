@@ -36,6 +36,57 @@ MAX_CHARS_PER_CENA = 8000   # ~2k palavras ~12-18min de áudio NLM
 MIN_CHARS_TO_SPLIT = 12000  # só divide se justifica (não criar muitas sub-cenas curtas)
 
 
+# Ordem canônica do Corpus Aristotelicum (Bekker) — usada para o número
+# da obra no nome de arquivo do áudio (aristoteles_NN_...). Reflete a ordem
+# de upload no notebook 'Aristóteles (completo)'.
+# Chave: (categoria, obra_slug) → idx da obra (1-33).
+# Para Parva Naturalia (7 sub-obras compartilhando obra_slug), uso um sub-mapping
+# por capitulo_path para distinguir.
+CANONICAL_OBRA_IDX: dict[tuple[str, str], int] = {
+    ("01_organon", "01_categorias"): 1,
+    ("01_organon", "02_da_interpretacao"): 2,
+    ("01_organon", "03_analiticos_anteriores"): 3,
+    ("01_organon", "04_analiticos_posteriores"): 4,
+    ("01_organon", "05_topicos"): 5,
+    ("01_organon", "06_refutacoes_sofisticas"): 6,
+    ("02_fisica", "01_fisica"): 7,
+    ("02_fisica", "02_sobre_o_ceu"): 8,
+    ("02_fisica", "03_geracao_corrupcao"): 9,
+    ("02_fisica", "04_meteorologia"): 10,
+    ("03_psicologia_biologia", "01_de_anima"): 11,
+    # 12-18: Parva Naturalia (resolvido por sub_slug abaixo)
+    ("03_psicologia_biologia", "03_historia_animais"): 19,
+    ("03_psicologia_biologia", "04_partes_animais"): 20,
+    ("03_psicologia_biologia", "05_movimento_animais"): 21,
+    ("03_psicologia_biologia", "06_marcha_animais"): 22,
+    ("03_psicologia_biologia", "07_geracao_animais"): 23,
+    ("04_metafisica", "01_metafisica"): 24,
+    ("05_etica", "01_etica_nicomaco"): 25,
+    ("05_etica", "02_etica_eudemo"): 26,
+    # 27-28: Magna Moralia + Virtues (compartilham obra_slug — resolvidos por sub_slug)
+    ("06_politica", "01_politica"): 29,
+    ("06_politica", "02_constituicao_atenienses"): 30,
+    ("06_politica", "03_economicos"): 31,
+    ("07_retorica_poetica", "01_retorica"): 32,
+    ("07_retorica_poetica", "02_poetica"): 33,
+}
+
+# Para diretórios compartilhados, mapear sub_slug (prefixo do nome do arquivo) → obra_idx.
+SUB_OBRA_IDX: dict[str, int] = {
+    # Parva Naturalia (12-18)
+    "on_sense_and_the_sensible": 12,
+    "on_memory_and_reminiscence": 13,
+    "on_sleep_and_sleeplessness": 14,
+    "on_dreams": 15,
+    "on_prophesying_by_dreams": 16,
+    "on_longevity_and_shortness_of_life": 17,
+    "on_youth_and_old_age_on_life_and_death_on_breathing": 18,
+    # Magna Moralia compartilhado (27-28)
+    "magna_moralia": 27,
+    "on_virtues_and_vices": 28,
+}
+
+
 # Ordem canônica das obras (priority_rank menor = maior prioridade).
 # Tier definido em docs/priority_order.md. Chave: (categoria, obra_slug).
 # Se uma obra não estiver listada, recebe rank alto (no fim).
@@ -153,6 +204,27 @@ def last_sentence(text: str, max_len: int = 200) -> str:
     return re.sub(r"\s+", " ", s).strip()[:max_len]
 
 
+def resolve_obra_idx(categoria: str, obra_slug: str, base_filename: str) -> int:
+    """Devolve o índice canônico (1-33) da obra correspondente.
+    Trata diretórios compartilhados (Parva Naturalia, Magna+Virtues) via sub_slug."""
+    # Caso simples: obra única no dir
+    if (categoria, obra_slug) in CANONICAL_OBRA_IDX:
+        return CANONICAL_OBRA_IDX[(categoria, obra_slug)]
+    # Caso compartilhado: sub_slug é prefixo do filename
+    for sub_slug, idx in SUB_OBRA_IDX.items():
+        if base_filename.startswith(sub_slug + "-"):
+            return idx
+    return 99  # desconhecido — usar slot alto
+
+
+def build_audio_filename(obra_idx: int, livro_num: int, capitulo_num: int,
+                         sub_cena_num: int, slug_obra: str) -> str:
+    """Nome de arquivo canônico para o áudio gerado.
+    Ex: 'aristoteles_25_l01_c01_cena01_nicomachean_ethics.m4a'."""
+    return (f"aristoteles_{obra_idx:02d}_l{livro_num:02d}_"
+            f"c{capitulo_num:02d}_cena{sub_cena_num:02d}_{slug_obra}.m4a")
+
+
 def collect_capitulos() -> list[dict]:
     """Percorre todos os .md em obras/*/*/capitulos/ e devolve list de cenas
     já expandidas em sub-cenas."""
@@ -173,16 +245,29 @@ def collect_capitulos() -> list[dict]:
         base = cap_path.stem  # ex: 'L01-C01' ou 'on_dreams-L01-C01'
         obra_dir = cap_path.parent.parent  # obras/cat/obra/
 
+        obra_idx = resolve_obra_idx(categoria, obra_slug, base)
+        # slug humano-legível para o filename: usa sub_slug se houver,
+        # senão obra_slug com prefixo numérico (ex: '01_etica_nicomaco') removido.
+        slug_humano = re.sub(r"^\d+_", "", obra_slug)
+        for sub in SUB_OBRA_IDX:
+            if base.startswith(sub + "-"):
+                slug_humano = sub
+                break
+
         for i, chunk in enumerate(chunks, 1):
             sub_slug = f"{base}_cena{i:02d}"
             cena_path = obra_dir / "cenas" / f"{sub_slug}.md"
             prompt_path = obra_dir / "prompts" / f"{sub_slug}.md"
+            audio_filename = build_audio_filename(
+                obra_idx, fm.get("livro_num", 0), fm.get("capitulo_num", 0),
+                i, slug_humano)
             cenas.append({
                 "cena_id": f"{categoria}/{obra_slug}/{sub_slug}",
                 "categoria": categoria,
                 "obra_pt": fm.get("obra_pt", ""),
                 "obra_en": fm.get("obra_en", ""),
                 "obra_slug": obra_slug,
+                "obra_idx": obra_idx,
                 "fonte": fm.get("fonte", ""),
                 "livro_num": fm.get("livro_num", 0),
                 "livro_marker": fm.get("livro_marker", ""),
@@ -197,6 +282,8 @@ def collect_capitulos() -> list[dict]:
                 "capitulo_path": str(cap_path.relative_to(PROJECT_ROOT)),
                 "cena_path": str(cena_path.relative_to(PROJECT_ROOT)),
                 "prompt_path": str(prompt_path.relative_to(PROJECT_ROOT)),
+                "audio_filename": audio_filename,
+                "audio_title": audio_filename.removesuffix(".m4a"),
                 "first_sentence": first_sentence(chunk),
                 "last_sentence": last_sentence(chunk),
                 "_chunk_text": chunk,  # privado — usado pelo runner; removido no JSON final

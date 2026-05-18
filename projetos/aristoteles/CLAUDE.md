@@ -6,11 +6,16 @@ Aplicar a metodologia de Leitura Formativa (mesmo padrão de `quo_vadis`, `victo
 
 ## Conta NotebookLM
 
-Usar `--profile default` (conta pessoal `edson.michalkiewicz@gmail.com`). Notebook canônico do autor:
+Conta pessoal `edson.michalkiewicz@gmail.com` (profile `default`). Notebook ativo:
 
-- **Aristóteles**: `de324f7f-25ca-438c-96d5-16ff36a2bddc` (cadastrado em `docs/notebooklm/notebooks_conta_pessoal.md` do projeto pai)
+- **Aristóteles (completo)**: `48eb1ca3-5f9b-484a-be94-fe959c3e40dc`
+  — criado em 2026-05-17 com 33 sources canônicas em ordem do Corpus Aristotelicum (Bekker).
+  Manifest em `_raw/notebook_aristoteles.json`. URL:
+  https://notebooklm.google.com/notebook/48eb1ca3-5f9b-484a-be94-fe959c3e40dc
 
-Verificar se o ID atual ainda é o canônico antes de uso intensivo (notebooks podem ser recriados).
+> **Notebook antigo** (`de324f7f-25ca-438c-96d5-16ff36a2bddc`) ficou descontinuado —
+> tinha sources incompletos de upload pre-2026, mistura papers Stanford com
+> trechos de 5KB. NÃO usar.
 
 ## Estrutura
 

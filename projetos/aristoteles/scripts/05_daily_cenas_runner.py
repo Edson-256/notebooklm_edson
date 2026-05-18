@@ -35,6 +35,14 @@ LOG_PATH = PROJECT_ROOT / "_raw" / "cenas_log.jsonl"
 # ---------------------------------------------------------------------------
 
 PROMPT_TEMPLATE = """\
+═══════════════════════════════════════════════════════════════════════════════
+ AUDIO TITLE — rename the generated audio in NLM Studio to exactly this:
+
+    {audio_title}
+
+ (Final filename on disk: {audio_filename})
+═══════════════════════════════════════════════════════════════════════════════
+
 Act as a Senior Humanities Tutor specializing in the formative reading of \
 Aristotle. Your goal is to orchestrate an instructional audio deep-dive based \
 on a specific passage from Aristotle's *{obra_en}*.
@@ -94,6 +102,8 @@ def make_prompt(cena: dict) -> str:
     fonte = cena.get("fonte", "")
     translator = fonte.split("-", 1)[-1] if "-" in fonte else fonte or "Oxford"
     return PROMPT_TEMPLATE.format(
+        audio_title=cena.get("audio_title", "?"),
+        audio_filename=cena.get("audio_filename", "?"),
         obra_en=cena["obra_en"],
         obra_pt=cena["obra_pt"],
         translator=translator,
