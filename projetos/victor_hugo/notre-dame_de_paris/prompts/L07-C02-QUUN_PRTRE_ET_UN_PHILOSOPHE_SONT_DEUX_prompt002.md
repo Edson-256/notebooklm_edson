@@ -12,17 +12,15 @@ The sources uploaded to NotebookLM contain the full chapters. For this specific 
 **Ends at:** "Je conviens, mon maître, qu’il vaut mieux philosopher et poétiser, souffler la flamme dans le fourneau ou la recevoir du ciel, que de porter des chats sur le pavois. Aussi quand vous m’avez apostrophé ai-je été aussi sot qu’un âne devant un tourne-broche. Mais que voulez-vous, messire ? il faut vivre tous les jours, et les plus beaux vers alexandrins ne valent pas sous la dent un morceau de fromage de Brie. Or, j’ai fait pour Madame Marguerite de Flandre ce fameux épithalame que vous savez, et la ville ne me le paie pas, sous prétexte qu’il n’était pas excellent, comme si l’on pouvait donner pour quatre écus une tragédie de Sophoclès. J’allais donc mourir de faim. Heureusement je me suis trouvé un peu fort du côté de la mâchoire, et je lui ai dit à cette mâchoire : « Fais des tours de force et d’équilibre, nourris-toi toi-même. Ale te ipsam{7 6}. » Un tas de gueux, qui sont devenus mes bons amis, m’ont appris vingt sortes de tours herculéens, et maintenant je donne tous les soirs à mes dents le pain qu’elles ont gagné dans la journée à la sueur de mon front. Après tout, concedo, je concède que c’est un triste emploi de mes facultés intellectuelles, et que l’homme n’est pas fait pour passer sa vie à tambouriner et à mordre des chaises. Mais, révérend maître, il ne suffit pas de passer sa vie, il faut la gagner. »"
 
 **Task:**
-Analyze the bounded scene. Use this passage to demonstrate the practical application of the four pillars of the "Methodology for Reading Novels".
+Analyze the bounded scene through the Formative Reading approach already established in this series. Apply the technique directly — do not re-explain it.
 
 **Script Structure & Instructions:**
-1. **Introduction:** Briefly explain that we are performing a "Formative Reading" to break the "Individual Capsule" and map the world through Hugo's eyes.
-2. **The Preliminary Attitude:** Describe how to "believe in the work" and achieve "impregnation" using this scene.
-3. **Practical Application of the 4 Pillars:**
-   - **Primacy of Intuition:** Show how to experience the scene directly. What is the "Inner Form" of this moment?
-   - **Existential Sincerity:** Analyze the raw human drama or moral dilemma. Forget modern political agendas.
-   - **Affective and Imaginative Memory:** Explain how to store this scene as a living image to be evoked in real life.
-   - **Literature as a Means:** How does this scene serve as a stepping stone toward a higher philosophical understanding?
-4. **The Vicarious Experience:** Instruct the listener on how to "inhabit the skin" of the characters in this passage.
+1. **Brief Anchor (1–2 sentences max):** Recall that this series uses the Formative Reading technique — impregnation, the four pillars, and vicarious experience — introduced in the opening audios. Do not re-explain the concepts; go directly into the scene.
+2. **Primacy of Intuition:** What is the "Inner Form" of this moment? Let the scene speak first, before any analysis.
+3. **Existential Sincerity:** What raw human drama or moral tension is at stake? What is Hugo revealing about the human condition here?
+4. **Affective and Imaginative Memory:** How to carry this scene as a living image. In what real-life situations does this moment recur?
+5. **Literature as a Means:** What philosophical horizon does this scene open? What truth does it point toward beyond itself?
+6. **Vicarious Inhabitation:** Draw the listener fully into the skin of the characters — no methodological instruction, pure immersion.
 
 **Technical & Linguistic Constraints:**
 - **Language:** The final NotebookLM audio output MUST be entirely in **French**.

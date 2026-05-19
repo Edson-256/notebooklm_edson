@@ -12,17 +12,15 @@ The sources uploaded to NotebookLM contain the full chapters. For this specific 
 **Ends at:** "Tout à coup, en laissant tomber son regard entre les larges écailles ardoisées qui recouvrent à une certaine hauteur le mur à pic du clocher, il vit dans la place une jeune fille bizarrement accoutrée, qui s’arrêtait, qui développait à terre un tapis où une petite chèvre venait se poser, et un groupe de spectateurs qui s’arrondissait à l’entour. Cette vue changea subitement le cours de ses idées, et figea son enthousiasme musical comme un souffle d’air fige une résine en fusion. Il s’arrêta, tourna le dos au carillon, et s’accroupit derrière l’auvent d’ardoise, en fixant sur la danseuse ce regard rêveur, tendre et doux, qui avait déjà une fois étonné l’archidiacre. Cependant les cloches oubliées s’éteignirent brusquement toutes à la fois, au grand désappointement des amateurs de sonnerie, lesquels écoutaient de bonne foi le carillon de dessus le Pont-au- Change, et s’en allèrent stupéfaits comme un chien à qui l’on a montré un os et à qui l’on donne une pierre."
 
 **Task:**
-Analyze the bounded scene. Use this passage to demonstrate the practical application of the four pillars of the "Methodology for Reading Novels".
+Analyze the bounded scene through the Formative Reading approach already established in this series. Apply the technique directly — do not re-explain it.
 
 **Script Structure & Instructions:**
-1. **Introduction:** Briefly explain that we are performing a "Formative Reading" to break the "Individual Capsule" and map the world through Hugo's eyes.
-2. **The Preliminary Attitude:** Describe how to "believe in the work" and achieve "impregnation" using this scene.
-3. **Practical Application of the 4 Pillars:**
-   - **Primacy of Intuition:** Show how to experience the scene directly. What is the "Inner Form" of this moment?
-   - **Existential Sincerity:** Analyze the raw human drama or moral dilemma. Forget modern political agendas.
-   - **Affective and Imaginative Memory:** Explain how to store this scene as a living image to be evoked in real life.
-   - **Literature as a Means:** How does this scene serve as a stepping stone toward a higher philosophical understanding?
-4. **The Vicarious Experience:** Instruct the listener on how to "inhabit the skin" of the characters in this passage.
+1. **Brief Anchor (1–2 sentences max):** Recall that this series uses the Formative Reading technique — impregnation, the four pillars, and vicarious experience — introduced in the opening audios. Do not re-explain the concepts; go directly into the scene.
+2. **Primacy of Intuition:** What is the "Inner Form" of this moment? Let the scene speak first, before any analysis.
+3. **Existential Sincerity:** What raw human drama or moral tension is at stake? What is Hugo revealing about the human condition here?
+4. **Affective and Imaginative Memory:** How to carry this scene as a living image. In what real-life situations does this moment recur?
+5. **Literature as a Means:** What philosophical horizon does this scene open? What truth does it point toward beyond itself?
+6. **Vicarious Inhabitation:** Draw the listener fully into the skin of the characters — no methodological instruction, pure immersion.
 
 **Technical & Linguistic Constraints:**
 - **Language:** The final NotebookLM audio output MUST be entirely in **French**.

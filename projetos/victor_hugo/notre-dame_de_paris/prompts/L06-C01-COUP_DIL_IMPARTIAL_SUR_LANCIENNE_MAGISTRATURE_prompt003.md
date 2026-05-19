@@ -12,17 +12,15 @@ The sources uploaded to NotebookLM contain the full chapters. For this specific 
 **Ends at:** "prévues, et parvenait à se tirer de toutes les sinuosités de l’interrogatoire, sans trop laisser deviner sa surdité. Le dossier du procès était pour lui le chien de l’aveugle. S’il arrivait par hasard que son infirmité se trahît çà et là par quelque apostrophe incohérente ou quelque question inintelligible, cela passait pour profondeur parmi les uns, et pour imbécillité parmi les autres. Dans les deux cas, l’honneur de la magistrature ne recevait aucune atteinte ; car il vaut encore mieux qu’un juge soit réputé imbécile ou profond, que sourd. Il mettait donc grand soin à dissimuler sa surdité aux yeux de tous, et il y réussissait d’ordinaire si bien qu’il était arrivé à se faire illusion à lui-même. Ce qui est du reste plus facile qu’on ne le croit. Tous les bossus vont tête haute, tous les bègues pérorent, tous les sourds parlent bas. Quant à lui, il se croyait tout au plus l’oreille un peu rebelle. C’était la seule concession qu’il fît sur ce point à l’opinion publique, dans ses moments de franchise et d’examen de conscience."
 
 **Task:**
-Analyze the bounded scene. Use this passage to demonstrate the practical application of the four pillars of the "Methodology for Reading Novels".
+Analyze the bounded scene through the Formative Reading approach already established in this series. Apply the technique directly — do not re-explain it.
 
 **Script Structure & Instructions:**
-1. **Introduction:** Briefly explain that we are performing a "Formative Reading" to break the "Individual Capsule" and map the world through Hugo's eyes.
-2. **The Preliminary Attitude:** Describe how to "believe in the work" and achieve "impregnation" using this scene.
-3. **Practical Application of the 4 Pillars:**
-   - **Primacy of Intuition:** Show how to experience the scene directly. What is the "Inner Form" of this moment?
-   - **Existential Sincerity:** Analyze the raw human drama or moral dilemma. Forget modern political agendas.
-   - **Affective and Imaginative Memory:** Explain how to store this scene as a living image to be evoked in real life.
-   - **Literature as a Means:** How does this scene serve as a stepping stone toward a higher philosophical understanding?
-4. **The Vicarious Experience:** Instruct the listener on how to "inhabit the skin" of the characters in this passage.
+1. **Brief Anchor (1–2 sentences max):** Recall that this series uses the Formative Reading technique — impregnation, the four pillars, and vicarious experience — introduced in the opening audios. Do not re-explain the concepts; go directly into the scene.
+2. **Primacy of Intuition:** What is the "Inner Form" of this moment? Let the scene speak first, before any analysis.
+3. **Existential Sincerity:** What raw human drama or moral tension is at stake? What is Hugo revealing about the human condition here?
+4. **Affective and Imaginative Memory:** How to carry this scene as a living image. In what real-life situations does this moment recur?
+5. **Literature as a Means:** What philosophical horizon does this scene open? What truth does it point toward beyond itself?
+6. **Vicarious Inhabitation:** Draw the listener fully into the skin of the characters — no methodological instruction, pure immersion.
 
 **Technical & Linguistic Constraints:**
 - **Language:** The final NotebookLM audio output MUST be entirely in **French**.
