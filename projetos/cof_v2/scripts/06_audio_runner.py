@@ -286,18 +286,27 @@ def create_audio(focus: str, source_id: str, fmt: str) -> str | None:
     return m.group(0) if m else None
 
 
-def poll_status(artifact_id: str) -> str | None:
+_POLL_ERROR = "__poll_error__"
+_POLL_MISSING = "__poll_missing__"
+
+
+def poll_status(artifact_id: str) -> str:
+    """Status do artifact no studio. Distingue 3 casos que antes colapsavam em None:
+      - _POLL_ERROR  → nlm studio status falhou (rede/auth) — retry depois
+      - _POLL_MISSING → artifact não está no studio (perdido/apagado)
+      - "<status>"   → string que o studio retornou ("completed", "failed", ...)
+    """
     try:
         result = run_nlm(["studio", "status", NOTEBOOK_ID, "--json",
                           "--profile", PROFILE], timeout=30)
         if result.returncode != 0:
-            return None
+            return _POLL_ERROR
         for a in json.loads(result.stdout):
             if a.get("id") == artifact_id:
-                return a.get("status")
+                return a.get("status") or _POLL_MISSING
     except Exception:
-        return None
-    return None
+        return _POLL_ERROR
+    return _POLL_MISSING
 
 
 def download_audio(artifact_id: str, output_path: Path) -> bool:
@@ -428,7 +437,7 @@ def download_pending() -> int:
     log(f"Encontrados {len(pending)} artifacts para baixar")
     print()
 
-    downloaded = failed = still = 0
+    downloaded = failed = still = lost = poll_err = 0
     for i, audio in enumerate(pending, 1):
         if shutdown_requested:
             break
@@ -450,6 +459,14 @@ def download_pending() -> int:
             audio["status"] = "server_failed"
             save_metadata_entry(audio)
             failed += 1
+        elif status == _POLL_MISSING:
+            log("   Artifact ausente do studio (perdido) — marcando lost_in_studio")
+            audio["status"] = "lost_in_studio"
+            save_metadata_entry(audio)
+            lost += 1
+        elif status == _POLL_ERROR:
+            log("   Falha ao consultar studio (rede/auth) — tentar de novo depois")
+            poll_err += 1
         else:
             log(f"   Ainda processando (status: {status})")
             still += 1
@@ -461,8 +478,10 @@ def download_pending() -> int:
     print(f"  Baixados:          {downloaded}")
     print(f"  Ainda processando: {still}")
     print(f"  Falhas:            {failed}")
+    print(f"  Perdidos (studio): {lost}")
+    print(f"  Erro de polling:   {poll_err}")
     print("=" * 60)
-    return 0 if failed == 0 else 1
+    return 0 if failed == 0 and lost == 0 else 1
 
 
 # ── Logs / resumos ─────────────────────────────────────────────────────

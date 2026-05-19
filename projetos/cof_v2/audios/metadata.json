@@ -6061,7 +6061,9 @@
       "focus_preview": "[ID]: aula-323\n[CATEGORIA]: Aula COF\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 319/781\n[ANTERIOR]: aula-322\n[PRÓXIMA]: aula-324\n\nINSTRUÇÕES PARA O ÁUDIO\n\nORIGEM E IDENTIFICAÇÃO\nEste áudio integra a série...",
       "source_id": "f11f8c32-49b2-4ae3-b0b2-5f31889b3794",
       "source_title": "COF-Aulas-2016-a.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/cof_v2/audios/cof_319_323.m4a",
+      "tamanho_bytes": 24476709
     },
     {
       "arquivo": "cof_320_324.m4a",
@@ -6078,7 +6080,9 @@
       "focus_preview": "[ID]: aula-324\n[CATEGORIA]: Aula COF\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 320/781\n[ANTERIOR]: aula-323\n[PRÓXIMA]: aula-325\n\nINSTRUÇÕES PARA O ÁUDIO\n\nORIGEM E IDENTIFICAÇÃO\nEste áudio integra a série...",
       "source_id": "f11f8c32-49b2-4ae3-b0b2-5f31889b3794",
       "source_title": "COF-Aulas-2016-a.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/cof_v2/audios/cof_320_324.m4a",
+      "tamanho_bytes": 22994752
     },
     {
       "arquivo": "cof_321_325.m4a",
@@ -6095,7 +6099,9 @@
       "focus_preview": "[ID]: aula-325\n[CATEGORIA]: Aula COF\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 321/781\n[ANTERIOR]: aula-324\n[PRÓXIMA]: aula-326\n\nINSTRUÇÕES PARA O ÁUDIO\n\nORIGEM E IDENTIFICAÇÃO\nEste áudio integra a série...",
       "source_id": "f11f8c32-49b2-4ae3-b0b2-5f31889b3794",
       "source_title": "COF-Aulas-2016-a.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/cof_v2/audios/cof_321_325.m4a",
+      "tamanho_bytes": 41072110
     },
     {
       "arquivo": "cof_322_326.m4a",
@@ -6112,7 +6118,9 @@
       "focus_preview": "[ID]: aula-326\n[CATEGORIA]: Aula COF\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 322/781\n[ANTERIOR]: aula-325\n[PRÓXIMA]: aula-327\n\nINSTRUÇÕES PARA O ÁUDIO\n\nORIGEM E IDENTIFICAÇÃO\nEste áudio integra a série...",
       "source_id": "f11f8c32-49b2-4ae3-b0b2-5f31889b3794",
       "source_title": "COF-Aulas-2016-a.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/cof_v2/audios/cof_322_326.m4a",
+      "tamanho_bytes": 46124694
     },
     {
       "arquivo": "cof_323_327.m4a",
@@ -6129,7 +6137,9 @@
       "focus_preview": "[ID]: aula-327\n[CATEGORIA]: Aula COF\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 323/781\n[ANTERIOR]: aula-326\n[PRÓXIMA]: aula-328\n\nINSTRUÇÕES PARA O ÁUDIO\n\nORIGEM E IDENTIFICAÇÃO\nEste áudio integra a série...",
       "source_id": "f11f8c32-49b2-4ae3-b0b2-5f31889b3794",
       "source_title": "COF-Aulas-2016-a.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/cof_v2/audios/cof_323_327.m4a",
+      "tamanho_bytes": 36152615
     },
     {
       "arquivo": "cof_324_328.m4a",
@@ -6388,5 +6398,5 @@
     }
   ],
   "total_itens_processados": 338,
-  "ultima_atualizacao": "2026-05-18T21:44:01.552457"
+  "ultima_atualizacao": "2026-05-19T12:25:43.289183"
 }
