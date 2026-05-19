@@ -5,7 +5,7 @@ COF v2 Audio Runner (fire-and-forget) — análogo ao quo_vadis_runner.py.
 Lê _sources_map.json (782 itens, seq_global 1–782) e dispara áudios no
 NotebookLM com prompt customizado por item. Status:
     created    → artifact_id obtido, áudio em processamento no servidor
-    downloaded → .mp3 baixado e validado em audios/<filename>.mp3
+    downloaded → .m4a baixado e validado em audios/<filename>.m4a
 
 Uso (sempre dry-run primeiro!):
     python3 scripts/06_audio_runner.py --dry-run
@@ -332,7 +332,7 @@ def download_audio(artifact_id: str, output_path: Path) -> bool:
 
 def filename_for(item: dict) -> str:
     kw = slugify_keyword(item["titulo"])
-    return f"cof_{item['seq_global']:03d}_{kw}.mp3"
+    return f"cof_{item['seq_global']:03d}_{kw}.m4a"
 
 
 def process_item(item: dict) -> bool:
@@ -410,6 +410,15 @@ def process_item(item: dict) -> bool:
 # ── Download posterior ────────────────────────────────────────────────
 
 def download_pending() -> int:
+    # nlm download audio não aceita --profile; precisa que o profile ativo
+    # seja o correto antes da chamada. Sem este switch, downloads falham
+    # silenciosamente com "Error: Download failed for audio." mesmo com
+    # artifact completed e baixável manualmente.
+    try:
+        run_nlm(["login", "switch", PROFILE], timeout=15)
+    except Exception as e:
+        log(f"AVISO: nlm login switch falhou: {e}")
+
     md = load_metadata()
     pending = [a for a in md.get("audios", [])
                if a.get("status") == "created" and a.get("artifact_id")]

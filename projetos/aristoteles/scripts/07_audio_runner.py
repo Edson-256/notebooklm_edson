@@ -60,6 +60,7 @@ AUDIOS_DIR = PROJECT_ROOT / "audios"
 LOG_PATH = PROJECT_ROOT / "_raw" / "audio_log.jsonl"
 
 DEFAULT_DAILY_LIMIT = 20  # NLM CLI silent limit
+PROFILE = "default"  # conta pessoal edson.michalkiewicz@gmail.com (notebook em CLAUDE.md)
 
 
 # ───────────────────────────── helpers ─────────────────────────────
@@ -98,6 +99,16 @@ def append_log(entry: dict) -> None:
 
 def run_nlm(args: list[str], timeout: int = 120) -> subprocess.CompletedProcess:
     return subprocess.run(["nlm", *args], capture_output=True, text=True, timeout=timeout)
+
+
+def ensure_profile() -> None:
+    # 'nlm download audio' não aceita --profile; sem switch explícito o
+    # download falha silenciosamente com 'Error: Download failed for audio.'
+    # mesmo com artifact completed. Garante que o profile ativo é o correto.
+    try:
+        run_nlm(["login", "switch", PROFILE], timeout=15)
+    except Exception as exc:  # noqa: BLE001
+        print(f"AVISO: nlm login switch {PROFILE} falhou: {exc}")
 
 
 def get_state(audio_meta: dict, cena_id: str) -> str:
@@ -364,6 +375,7 @@ def main() -> int:
     # Comandos que precisam do notebook_meta
     if args.create is not None or args.harvest or args.claim:
         notebook_meta = load_notebook_meta()
+        ensure_profile()
         if args.create is not None:
             return cmd_create(master, audio_meta, notebook_meta, args.create,
                               dry_run=args.dry_run)
