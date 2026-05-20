@@ -320,8 +320,53 @@
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/mazoni/I Promesi Sposi/audios/promessi_021_c_02_promesi_sposi_cena001.m4a",
       "tamanho_bytes": 35989645
+    },
+    {
+      "seq_global": 22,
+      "scene_identifier": "C_02-Promesi Sposi_cena002",
+      "cena_filename": "C_02-Promesi Sposi_cena002.md",
+      "prompt_filename": "C_02-Promesi Sposi_prompt002.md",
+      "arquivo": "promessi_022_c_02_promesi_sposi_cena002.m4a",
+      "artifact_id": "fca767c8-769f-405c-81fc-54c17c03fc11",
+      "source_id": "41c48196-3d9d-4155-b613-bc9e87f6829b",
+      "book_id": "C_02-Promesi Sposi",
+      "data_geracao": "2026-05-20T08:00:07.450709",
+      "prompt_chars": 2958,
+      "language": "it-IT",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 23,
+      "scene_identifier": "C_02-Promesi Sposi_cena003",
+      "cena_filename": "C_02-Promesi Sposi_cena003.md",
+      "prompt_filename": "C_02-Promesi Sposi_prompt003.md",
+      "arquivo": "promessi_023_c_02_promesi_sposi_cena003.m4a",
+      "artifact_id": "23e23677-7573-442f-bc6a-da2726cb4215",
+      "source_id": "41c48196-3d9d-4155-b613-bc9e87f6829b",
+      "book_id": "C_02-Promesi Sposi",
+      "data_geracao": "2026-05-20T08:02:27.745141",
+      "prompt_chars": 2844,
+      "language": "it-IT",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 24,
+      "scene_identifier": "C_02-Promesi Sposi_cena004",
+      "cena_filename": "C_02-Promesi Sposi_cena004.md",
+      "prompt_filename": "C_02-Promesi Sposi_prompt004.md",
+      "arquivo": "promessi_024_c_02_promesi_sposi_cena004.m4a",
+      "artifact_id": "9afaa34a-0c96-42b4-b643-7490afedfe43",
+      "source_id": "41c48196-3d9d-4155-b613-bc9e87f6829b",
+      "book_id": "C_02-Promesi Sposi",
+      "data_geracao": "2026-05-20T08:04:48.150620",
+      "prompt_chars": 2843,
+      "language": "it-IT",
+      "audio_format": "deep_dive",
+      "status": "created"
     }
   ],
-  "total_itens_processados": 21,
-  "ultima_atualizacao": "2026-05-19T10:05:11.870299"
+  "total_itens_processados": 24,
+  "ultima_atualizacao": "2026-05-20T08:04:48.151669"
 }
