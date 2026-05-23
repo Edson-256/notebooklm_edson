@@ -395,14 +395,14 @@
       "cena_filename": "C_02-Promesi Sposi_cena006.md",
       "prompt_filename": "C_02-Promesi Sposi_prompt006.md",
       "arquivo": "promessi_026_c_02_promesi_sposi_cena006.m4a",
-      "artifact_id": "cd9afe6f-e7aa-4420-81c5-8e9b77149d48",
+      "artifact_id": "db3e06e9-ce45-4983-9e95-82ee7b24cf32",
       "source_id": "41c48196-3d9d-4155-b613-bc9e87f6829b",
       "book_id": "C_02-Promesi Sposi",
-      "data_geracao": "2026-05-21T08:02:23.383249",
+      "data_geracao": "2026-05-22T22:25:21.938759",
       "prompt_chars": 2794,
       "language": "it-IT",
       "audio_format": "deep_dive",
-      "status": "failed"
+      "status": "created"
     },
     {
       "seq_global": 27,
@@ -471,8 +471,38 @@
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/mazoni/I Promesi Sposi/audios/promessi_030_c_03_promesi_sposi_cena003.m4a",
       "tamanho_bytes": 22175014
+    },
+    {
+      "seq_global": 31,
+      "scene_identifier": "C_03-Promesi Sposi_cena004",
+      "cena_filename": "C_03-Promesi Sposi_cena004.md",
+      "prompt_filename": "C_03-Promesi Sposi_prompt004.md",
+      "arquivo": "promessi_031_c_03_promesi_sposi_cena004.m4a",
+      "artifact_id": "d67c92a7-67ba-4347-b6f4-24393226259c",
+      "source_id": "cf2d1d4b-7619-45be-9986-01ba3818e47a",
+      "book_id": "C_03-Promesi Sposi",
+      "data_geracao": "2026-05-22T22:27:24.909034",
+      "prompt_chars": 2958,
+      "language": "it-IT",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 32,
+      "scene_identifier": "C_03-Promesi Sposi_cena005",
+      "cena_filename": "C_03-Promesi Sposi_cena005.md",
+      "prompt_filename": "C_03-Promesi Sposi_prompt005.md",
+      "arquivo": "promessi_032_c_03_promesi_sposi_cena005.m4a",
+      "artifact_id": "e51b2468-9773-4f47-9c2f-a91c0f2ae967",
+      "source_id": "cf2d1d4b-7619-45be-9986-01ba3818e47a",
+      "book_id": "C_03-Promesi Sposi",
+      "data_geracao": "2026-05-22T22:29:28.023713",
+      "prompt_chars": 2958,
+      "language": "it-IT",
+      "audio_format": "deep_dive",
+      "status": "created"
     }
   ],
-  "total_itens_processados": 30,
-  "ultima_atualizacao": "2026-05-22T12:12:09.961164"
+  "total_itens_processados": 32,
+  "ultima_atualizacao": "2026-05-22T22:29:28.024594"
 }
