@@ -240,7 +240,10 @@ def save_metadata_entry(entry: dict) -> None:
 # ── nlm wrappers ───────────────────────────────────────────────────────
 
 def run_nlm(args: list[str], timeout: int = 120) -> subprocess.CompletedProcess:
-    return subprocess.run(["nlm", *args], capture_output=True, text=True, timeout=timeout)
+    import os
+    env = os.environ.copy()
+    env["NLM_PROFILE"] = PROFILE
+    return subprocess.run(["nlm", *args], env=env, capture_output=True, text=True, timeout=timeout)
 
 
 def check_auth() -> bool:

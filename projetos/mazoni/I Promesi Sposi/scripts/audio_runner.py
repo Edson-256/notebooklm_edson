@@ -170,7 +170,10 @@ def get_processed_seqs() -> set[int]:
 # ── nlm wrappers ───────────────────────────────────────────────────────
 
 def run_nlm(args: list[str], timeout: int = 120) -> subprocess.CompletedProcess:
-    return subprocess.run(["nlm", *args], capture_output=True, text=True, timeout=timeout)
+    import os
+    env = os.environ.copy()
+    env["NLM_PROFILE"] = PROFILE
+    return subprocess.run(["nlm", *args], env=env, capture_output=True, text=True, timeout=timeout)
 
 
 def check_auth() -> bool:
@@ -451,6 +454,8 @@ def run_download(items: list[dict]) -> int:
             log(f"   status studio: {st!r}")
             if st is None:
                 a["status"] = "lost_in_studio"; upsert_entry(a)
+            else:
+                a["status"] = "failed"; upsert_entry(a)
             fail += 1
         else:
             log(f"   ainda processando ({st})"); still += 1

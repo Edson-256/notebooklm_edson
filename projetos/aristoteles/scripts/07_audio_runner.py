@@ -98,7 +98,10 @@ def append_log(entry: dict) -> None:
 
 
 def run_nlm(args: list[str], timeout: int = 120) -> subprocess.CompletedProcess:
-    return subprocess.run(["nlm", *args], capture_output=True, text=True, timeout=timeout)
+    import os
+    env = os.environ.copy()
+    env["NLM_PROFILE"] = PROFILE
+    return subprocess.run(["nlm", *args], env=env, capture_output=True, text=True, timeout=timeout)
 
 
 def ensure_profile() -> None:

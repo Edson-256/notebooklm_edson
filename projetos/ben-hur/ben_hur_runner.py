@@ -148,8 +148,11 @@ def get_processed_scenes() -> set:
 
 def run_nlm(args: List[str], timeout: int = 120) -> subprocess.CompletedProcess:
     """Executa comando nlm."""
+    import os
+    env = os.environ.copy()
+    env["NLM_PROFILE"] = PROFILE
     cmd = ["nlm"] + args
-    return subprocess.run(cmd, capture_output=True, text=True, timeout=timeout)
+    return subprocess.run(cmd, env=env, capture_output=True, text=True, timeout=timeout)
 
 
 def check_auth() -> bool:
