@@ -21,17 +21,15 @@ O currículo foca na decodificação fonética imediata e na aquisição das 1.0
 
 #### Fase 1: Calibração Fonética e Descondicionamento (Semanas 1 a 2)
 
-A fricção fonética deve ser tratada como um alvo de treinamento antecipatório rigoroso para evitar a fossilização de erros que comprometem a inteligibilidade.
+A fricção fonética deve ser tratada como um alvo de treinamento antecipatório rigoroso para evitar a fossilização de erros que comprometem a inteligibilidade. Toda a calibração física dos fonemas e descondicionamento do PT-BR está detalhada no novo [Manual de Calibração Articulatória Alemã](file:///Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/idiomas/alemao/plano_fonetica_alemao.md), que deve ser seu guia principal nesta fase.
 
-* **Lição 1.1: Erradicação da Epêntese Vocálica**
-  * *Foco:* Eliminar a inserção involuntária da vogal /i/ ao pronunciar clusters consonantais no início ou fim de sílabas.
-  * *Alvos de Treino:* Treinar o ataque e o fechamento seco em palavras de alta frequência como  *Psychologie* , *Herbst* e  *du fährst* .
-* **Lição 1.2: Bloqueio da Coarticulação Nasal**
-  * *Foco:* "Desaprender" a nasalização automática do português brasileiro.
-  * *Alvos de Treino:* Garantir que vogais posicionadas antes de consoantes nasais (/m/, /n/) permaneçam estritamente orais durante a articulação.
-* **Lição 1.3: Consciência de Duração Vocálica**
-  * *Foco:* Dominar a distinção entre vogais longas e curtas como uma característica fonêmica independente e pilar de inteligibilidade.
-  * *Ferramenta:* Utilizar ferramentas de reconhecimento de voz da IA para obter correção visual imediata sobre a precisão da articulação de vogais e do fonema  *ich-laut* .
+* **Lição 1.1: Erradicação da Epêntese Vocálica & Falsos Amigos**
+  * *Foco:* Eliminar a inserção involuntária da vogal /i/ em clusters consonantais (*Psychologie*, *Herbst*) e calibrar letras com sons inesperados (`W` $\rightarrow$ [v], `V` $\rightarrow$ [f], `Z` $\rightarrow$ [ts]). Veja a Tabela de Falsos Amigos no manual de fonética.
+* **Lição 1.2: Bloqueio da Coarticulação Nasal & As Vogais Aliens**
+  * *Foco:* Desaprender a nasalização automática brasileira e treinar as vogais modificadas (`ä`, `ö`, `ü`, `y`) usando a fisiologia articulatória ("língua de [i] + lábios de [u]" para `ü`).
+* **Lição 1.3: Duração Vocálica, Fricativas "ch", o "R" e o Glottal Stop**
+  * *Foco:* Distinguir vogais longas/curtas, dominar o *ich-laut* [ç] vs. *ach-laut* [x], articular o R consonantal [ʁ] vs. R vocálico [eːɐ], e aplicar o *Knacklaut* [ʔ] (glottal stop) antes de vogais tônicas iniciais.
+  * *Ferramenta:* Configurar o Tutor de Voz da IA usando o prompt disponibilizado na Seção 6 do [manual de fonética](file:///Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/idiomas/alemao/plano_fonetica_alemao.md).
 
 #### Fase 2: Fundações do Nominativo e Realce Visual (Semanas 3 a 5)
 
