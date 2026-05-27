@@ -38,6 +38,16 @@ notify() {
   echo "=== $TAG cron run @ $(date) ==="
   echo "PWD=$PROJECT_DIR"
   cd "$PROJECT_DIR" || { notify "$TAG cron ERRO" "cd falhou" "Basso"; exit 1; }
+
+  # Fase 1: baixar itens criados em dias anteriores (limpa fila studio antes de criar novos)
+  echo "--- FASE DOWNLOAD ---"
+  /opt/homebrew/bin/python3 "$RUNNER" --download
+  dl_rc=$?
+  echo "download exit: $dl_rc"
+  echo
+
+  # Fase 2: criar novos áudios
+  echo "--- FASE CRIAÇÃO ---"
   /opt/homebrew/bin/python3 "$RUNNER" --max 3
   rc=$?
   echo
