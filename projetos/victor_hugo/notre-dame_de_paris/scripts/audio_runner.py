@@ -178,7 +178,6 @@ def run_nlm(args: list[str], timeout: int = 120) -> subprocess.CompletedProcess:
 
 def check_auth() -> bool:
     try:
-        run_nlm(["login", "switch", PROFILE], timeout=15)
         r = run_nlm(["login", "--check", "--profile", PROFILE], timeout=30)
         return r.returncode == 0
     except Exception as e:

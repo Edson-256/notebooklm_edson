@@ -248,7 +248,6 @@ def run_nlm(args: list[str], timeout: int = 120) -> subprocess.CompletedProcess:
 
 def check_auth() -> bool:
     try:
-        run_nlm(["login", "switch", PROFILE], timeout=15)
         result = run_nlm(["login", "--check", "--profile", PROFILE], timeout=30)
         return result.returncode == 0
     except Exception as e:
@@ -422,15 +421,7 @@ def process_item(item: dict) -> bool:
 # ── Download posterior ────────────────────────────────────────────────
 
 def download_pending() -> int:
-    # nlm download audio não aceita --profile; precisa que o profile ativo
-    # seja o correto antes da chamada. Sem este switch, downloads falham
-    # silenciosamente com "Error: Download failed for audio." mesmo com
-    # artifact completed e baixável manualmente.
-    try:
-        run_nlm(["login", "switch", PROFILE], timeout=15)
-    except Exception as e:
-        log(f"AVISO: nlm login switch falhou: {e}")
-
+    # NLM_PROFILE env var (já setado em run_nlm) é suficiente — login switch não é necessário.
     md = load_metadata()
     pending = [a for a in md.get("audios", [])
                if a.get("status") == "created" and a.get("artifact_id")]
