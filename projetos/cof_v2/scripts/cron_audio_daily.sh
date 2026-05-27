@@ -1,6 +1,6 @@
 #!/bin/bash
 # Cron wrapper: dispara próximo lote de 20 áudios COF v2 no NotebookLM.
-# Roda 21h00 local (cron entry em `crontab -l`). Downloads ficam manuais.
+# Roda 21h00 local (cron entry em `crontab -l`). Baixa pendentes antes de criar novos.
 # Runner auto-detecta o próximo seq pendente via metadata.json — sem --from/--to.
 #
 # Notificação em camadas (cron não tem identidade de app no macOS, então
@@ -52,6 +52,16 @@ notify() {
   echo "PATH=$PATH"
   echo
   cd "$COF_DIR" || { notify "COF cron ERRO" "cd $COF_DIR falhou" "Basso"; exit 1; }
+
+  # Fase 1: baixar itens criados em dias anteriores
+  echo "--- FASE DOWNLOAD ---"
+  "$VENV_PY" "$RUNNER" --download
+  dl_rc=$?
+  echo "download exit: $dl_rc"
+  echo
+
+  # Fase 2: criar novos áudios
+  echo "--- FASE CRIAÇÃO ---"
   "$VENV_PY" "$RUNNER" --max 20
   rc=$?
   echo
