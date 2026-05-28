@@ -98,6 +98,29 @@ def log(message: str):
     print(f"[{ts}] {message}")
 
 
+def _sync_to_dell(slug: str, file: Path) -> None:
+    """Chama sync_to_dell.py --project <slug> --apply após cada download. Silencioso em falha."""
+    sync_script = Path(__file__).resolve().parents[4] / "dell_server/podcast_system/sync/sync_to_dell.py"
+    if not sync_script.exists():
+        return
+    try:
+        import os
+        env = os.environ.copy()
+        secrets = Path.home() / ".secrets"
+        if secrets.exists():
+            for line in secrets.read_text().splitlines():
+                line = line.strip()
+                if line.startswith("export ") and "=" in line:
+                    k, v = line[len("export "):].split("=", 1)
+                    env.setdefault(k.strip(), v.strip())
+        subprocess.run(
+            [sys.executable, str(sync_script), "--project", slug, "--apply"],
+            timeout=120, env=env, capture_output=True,
+        )
+    except Exception:
+        pass
+
+
 def slugify_keyword(text: str) -> str:
     """Gera keyword curta para filename. Pega 1-2 palavras significativas."""
     stop = {"o", "a", "os", "as", "do", "da", "dos", "das", "de", "e", "para",
@@ -446,6 +469,7 @@ def download_pending() -> int:
                 audio["tamanho_bytes"] = out.stat().st_size
                 save_metadata_entry(audio)
                 downloaded += 1
+                _sync_to_dell("cof", out)
             else:
                 failed += 1
         elif status == "failed":

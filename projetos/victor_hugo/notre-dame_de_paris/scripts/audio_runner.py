@@ -74,6 +74,29 @@ def log(msg: str):
     print(f"[{datetime.now().strftime('%H:%M:%S')}] {msg}")
 
 
+def _sync_to_dell(slug: str, file: Path) -> None:
+    """Chama sync_to_dell.py --project <slug> --apply após cada download. Silencioso em falha."""
+    sync_script = Path(__file__).resolve().parents[5] / "dell_server/podcast_system/sync/sync_to_dell.py"
+    if not sync_script.exists():
+        return
+    try:
+        import os
+        env = os.environ.copy()
+        secrets = Path.home() / ".secrets"
+        if secrets.exists():
+            for line in secrets.read_text().splitlines():
+                line = line.strip()
+                if line.startswith("export ") and "=" in line:
+                    k, v = line[len("export "):].split("=", 1)
+                    env.setdefault(k.strip(), v.strip())
+        subprocess.run(
+            [sys.executable, str(sync_script), "--project", slug, "--apply"],
+            timeout=120, env=env, capture_output=True,
+        )
+    except Exception:
+        pass
+
+
 # ── Manifest (cenas + prompts → items com seq_global) ──────────────────
 
 SCENE_RE = re.compile(r"_cena(\d+)\.md$")
@@ -444,6 +467,7 @@ def run_download(items: list[dict]) -> int:
                 a["output_path"] = str(out)
                 a["tamanho_bytes"] = out.stat().st_size
                 upsert_entry(a); ok += 1
+                _sync_to_dell("victor-hugo", out)
             else:
                 fail += 1
         elif st in ("failed", None):
