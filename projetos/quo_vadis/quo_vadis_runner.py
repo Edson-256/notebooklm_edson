@@ -5,11 +5,12 @@ Dispara criação dos áudios no NotebookLM sem esperar processamento.
 Adaptado do Ben-Hur Runner para 134 cenas em 3 partes + epílogo.
 
 Uso:
-    python3 projetos/quo_vadis/quo_vadis_runner.py              # Fire-and-forget
-    python3 projetos/quo_vadis/quo_vadis_runner.py --dry-run    # Mostrar plano
+    python3 projetos/quo_vadis/quo_vadis_runner.py                          # Fire-and-forget
+    python3 projetos/quo_vadis/quo_vadis_runner.py --dry-run                # Mostrar plano
     python3 projetos/quo_vadis/quo_vadis_runner.py --max-scenes 5
-    python3 projetos/quo_vadis/quo_vadis_runner.py --parte 1    # Só a Parte 1
-    python3 projetos/quo_vadis/quo_vadis_runner.py --download   # Baixar áudios prontos
+    python3 projetos/quo_vadis/quo_vadis_runner.py --parte 1                # Só a Parte 1
+    python3 projetos/quo_vadis/quo_vadis_runner.py --from-scene 35 --to-scene 52   # Intervalo
+    python3 projetos/quo_vadis/quo_vadis_runner.py --download               # Baixar áudios prontos
 """
 
 import subprocess
@@ -332,6 +333,28 @@ def wait_for_completion(artifact_id: str) -> bool:
     return False
 
 
+def _sync_to_dell(file: Path) -> None:
+    sync_script = Path(__file__).resolve().parents[3] / "dell_server/podcast_system/sync/sync_to_dell.py"
+    if not sync_script.exists():
+        return
+    try:
+        import os
+        env = os.environ.copy()
+        secrets = Path.home() / ".secrets"
+        if secrets.exists():
+            for line in secrets.read_text().splitlines():
+                line = line.strip()
+                if line.startswith("export ") and "=" in line:
+                    k, v = line[len("export "):].split("=", 1)
+                    env.setdefault(k.strip(), v.strip())
+        subprocess.run(
+            [sys.executable, str(sync_script), "--project", "quo-vadis", "--apply"],
+            timeout=120, env=env, capture_output=True,
+        )
+    except Exception:
+        pass
+
+
 def download_audio(artifact_id: str, output_path: Path) -> bool:
     try:
         result = run_nlm([
@@ -414,7 +437,7 @@ def save_session_log():
 
 def process_scene(scene: Dict) -> bool:
     keyword = extract_keyword(scene['title'])
-    filename = f"qv_{scene['number']:03d}_{keyword}.mp3"
+    filename = f"qv_{scene['number']:03d}_{keyword}.m4a"
 
     custom_prompt = load_scene_prompt(scene['number'])
     if custom_prompt:
@@ -533,6 +556,7 @@ def download_pending_audios():
                 audio['output_path'] = str(output_path)
                 audio['tamanho_bytes'] = output_path.stat().st_size
                 save_metadata(audio)
+                _sync_to_dell(output_path)
                 downloaded += 1
             else:
                 failed += 1
@@ -600,6 +624,10 @@ def main():
                         help='Sem intervalo entre cenas (apenas para testes)')
     parser.add_argument('--download', action='store_true',
                         help='Baixar audios ja criados (status=created)')
+    parser.add_argument('--from-scene', type=int, default=0,
+                        help='Iniciar a partir desta cena (global, inclusivo)')
+    parser.add_argument('--to-scene', type=int, default=0,
+                        help='Parar nesta cena (global, inclusivo)')
     args = parser.parse_args()
 
     print()
@@ -641,6 +669,14 @@ def main():
     elif args.parte != -1:
         log(f"Parte invalida: {args.parte} (use 1, 2, 3 ou 0)")
         return 1
+
+    # Filtrar por intervalo de cenas (--from-scene / --to-scene)
+    if args.from_scene > 0:
+        all_scenes = [s for s in all_scenes if s['number'] >= args.from_scene]
+        log(f"Filtro: a partir da cena {args.from_scene}")
+    if args.to_scene > 0:
+        all_scenes = [s for s in all_scenes if s['number'] <= args.to_scene]
+        log(f"Filtro: ate a cena {args.to_scene}")
 
     processed = get_processed_scenes()
     pending = [s for s in all_scenes if s['number'] not in processed]
