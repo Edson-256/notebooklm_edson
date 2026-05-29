@@ -81,4 +81,31 @@ if [ "${rc:-1}" -ne 0 ]; then
   fi
 fi
 
+# ── Notificação Telegram (sempre — sucesso e falha) ─────────────────────
+# COF v2 usa print_summary com formato diferente: "Criados OK: N" / "Falhas: N"
+_tg_report() {
+  local _dl _dlp _crt _fal _status _rc _sum
+  _dl=$(  awk '/Baixados:/{print $2+0}'                        "$LOG" | tail -1)
+  _dlp=$( awk '/processando:/{for(i=1;i<NF;i++) if($i=="processando:") print $(i+1)+0}' "$LOG" | tail -1)
+  _crt=$( awk '/Criados OK:/{print $NF+0}'                    "$LOG" | tail -1)
+  _fal=$( awk '/Falhas:/ && !/Baixados:/{print $NF+0}'        "$LOG" | tail -1)
+
+  if grep -q "nlm nao autenticado" "$LOG" 2>/dev/null; then
+    _status="auth_expired"
+  elif [ "${rc:-1}" -ne 0 ]; then
+    _status="failed"; _rc="${rc:-1}"
+    _sum="$(grep -E 'ERRO|FALHOU' "$LOG" | tail -2 | tr '\n' ' ' | cut -c1-200)"
+  else
+    _status="ok"
+  fi
+
+  /opt/homebrew/bin/python3 "$PROJECT_DIR/scripts/tg_notify.py" report \
+    --project "COF v2" --profile "default" --status "$_status" \
+    --dl "${_dl:-0}" --dl-proc "${_dlp:-0}" \
+    --created "${_crt:-0}" --failed "${_fal:-0}" \
+    --rc "${_rc:-}" --summary "${_sum:-}" \
+    >/dev/null 2>&1 || true
+}
+_tg_report
+
 exit "${rc:-1}"
