@@ -70,6 +70,7 @@ session_stats = {
     "items_attempted": 0,
     "items_created": 0,
     "items_failed": 0,
+    "items_deferred": 0,
     "current_item": None,
 }
 session_results: list[dict] = []
@@ -280,8 +281,13 @@ def check_auth() -> bool:
 
 _UUID_RE = re.compile(r"[a-f0-9]{8}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{12}")
 
+# Sentinela: create_audio devolve isto quando o NotebookLM responde com
+# rate-limit (API error code 8 / "wait a few minutes"). Tratado como
+# "adiado" (item fica pendente p/ o dia seguinte), não como falha.
+_RATE_LIMITED = object()
 
-def create_audio(focus: str, source_id: str, fmt: str) -> str | None:
+
+def create_audio(focus: str, source_id: str, fmt: str) -> "str | None | object":
     cmd = [
         "create", "audio", NOTEBOOK_ID,
         "--format", fmt,
@@ -298,10 +304,15 @@ def create_audio(focus: str, source_id: str, fmt: str) -> str | None:
         log("   Timeout ao criar audio (180s)")
         return None
     if result.returncode != 0:
-        if result.stderr.strip():
-            log(f"   nlm stderr: {result.stderr.strip()[:500]}")
-        if result.stdout.strip():
-            log(f"   nlm stdout: {result.stdout.strip()[:300]}")
+        err = (result.stderr or "").strip()
+        out = (result.stdout or "").strip()
+        if err:
+            log(f"   nlm stderr: {err[:500]}")
+        if out:
+            log(f"   nlm stdout: {out[:300]}")
+        low = (err + " " + out).lower()
+        if "rate limited" in low or "code 8" in low or "wait a few minutes" in low:
+            return _RATE_LIMITED
         return None
     m = re.search(r"(?:Artifact|Audio)\s*(?:ID)?[:\s]+([a-f0-9-]{20,})",
                   result.stdout, re.IGNORECASE)
@@ -395,18 +406,24 @@ def process_item(item: dict) -> bool:
         "timestamp": datetime.now().isoformat(),
     }
 
+    last_rate_limited = False
+    backoff = [0, 180, 300]  # rate-limit do NLM pede "alguns minutos"
     for attempt in range(1, MAX_RETRIES + 1):
         if shutdown_requested:
             result_entry["status"] = "interrupted"
             session_results.append(result_entry)
             return False
         if attempt > 1:
-            wait = 30 * attempt
+            wait = backoff[min(attempt - 1, len(backoff) - 1)]
             log(f"   Tentativa {attempt}/{MAX_RETRIES} (aguardando {wait}s)...")
             time.sleep(wait)
 
         log("   Disparando criacao...")
         artifact_id = create_audio(prompt_text, item["source_id"], fmt)
+        if artifact_id is _RATE_LIMITED:
+            last_rate_limited = True
+            continue
+        last_rate_limited = False
         if not artifact_id:
             continue
 
@@ -435,6 +452,13 @@ def process_item(item: dict) -> bool:
         session_results.append(result_entry)
         session_stats["items_created"] += 1
         return True
+
+    if last_rate_limited:
+        result_entry["status"] = "deferred"
+        session_results.append(result_entry)
+        session_stats["items_deferred"] += 1
+        log("   ADIADO (rate-limit NotebookLM — será retentado amanhã)")
+        return False
 
     session_results.append(result_entry)
     session_stats["items_failed"] += 1
@@ -517,6 +541,7 @@ def save_session_log():
         "items_attempted": session_stats["items_attempted"],
         "items_created": session_stats["items_created"],
         "items_failed": session_stats["items_failed"],
+        "items_deferred": session_stats["items_deferred"],
         "results": session_results,
     }
     path.write_text(json.dumps(data, indent=2, ensure_ascii=False, default=str),
@@ -539,6 +564,7 @@ def print_summary():
     print(f"  Itens tentados:    {s['items_attempted']}")
     print(f"  Criados OK:        {s['items_created']}")
     print(f"  Falhas:            {s['items_failed']}")
+    print(f"  Adiados (rate):    {s['items_deferred']}")
     print("=" * 60)
 
 
@@ -667,7 +693,9 @@ def main() -> int:
         if ok:
             log(f"   OK ({session_stats['items_created']}/{len(queue)} criados, {remaining} restantes)")
         elif not shutdown_requested:
-            log("   FALHOU (continuando...)")
+            last_status = session_results[-1]["status"] if session_results else ""
+            if last_status != "deferred":
+                log("   FALHOU (continuando...)")
         if not shutdown_requested and i < len(queue) and not args.no_wait:
             log(f"   Aguardando {INTERVAL_SECONDS // 60}min...")
             for _ in range(INTERVAL_SECONDS):
