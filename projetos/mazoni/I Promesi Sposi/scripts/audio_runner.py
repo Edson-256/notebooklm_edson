@@ -49,11 +49,15 @@ METADATA_FILE = AUDIOS_DIR / "metadata.json"
 INTERVAL_SECONDS = 120
 MAX_FOCUS_CHARS = 10000
 MAX_RETRIES = 3
+# Sentinela: create_audio devolve isto quando o NotebookLM responde com
+# rate-limit (API error code 8 / "wait a few minutes"). Tratado como
+# "adiado" (a cena fica pendente p/ o dia seguinte), não como falha.
+_RATE_LIMITED = object()
 DEFAULT_MAX_DAILY = 3
 
 # ── Estado ─────────────────────────────────────────────────────────────
 shutdown_requested = False
-session_stats = {"started_at": None, "items_attempted": 0, "items_created": 0, "items_failed": 0}
+session_stats = {"started_at": None, "items_attempted": 0, "items_created": 0, "items_failed": 0, "items_deferred": 0}
 session_results: list[dict] = []
 
 
@@ -256,7 +260,11 @@ def create_audio(focus: str, source_id: str) -> str | None:
     except subprocess.TimeoutExpired:
         log("   Timeout (180s)"); return None
     if r.returncode != 0:
-        log(f"   nlm err: {(r.stderr or r.stdout).strip()[:300]}")
+        err = (r.stderr or r.stdout).strip()
+        log(f"   nlm err: {err[:300]}")
+        low = err.lower()
+        if "rate limited" in low or "code 8" in low or "wait a few minutes" in low:
+            return _RATE_LIMITED
         return None
     m = re.search(r"(?:Artifact|Audio)\s*(?:ID)?[:\s]+([a-f0-9-]{20,})", r.stdout, re.IGNORECASE)
     if m: return m.group(1)
@@ -406,11 +414,19 @@ def run_create(args, items: list[dict]) -> int:
         log(f"   Prompt: {it['prompt_filename']} ({len(prompt)} chars)")
 
         ok = False
+        last_rate_limited = False
+        backoff = [0, 180, 300]  # rate-limit do NLM pede "alguns minutos"
         for attempt in range(1, MAX_RETRIES + 1):
             if attempt > 1:
-                log(f"   Tentativa {attempt}/{MAX_RETRIES}")
-                time.sleep(30 * attempt)
-            artifact_id = create_audio(prompt, sid)
+                wait = backoff[min(attempt - 1, len(backoff) - 1)]
+                log(f"   Tentativa {attempt}/{MAX_RETRIES} (aguardando {wait}s)")
+                time.sleep(wait)
+            result = create_audio(prompt, sid)
+            if result is _RATE_LIMITED:
+                last_rate_limited = True
+                continue
+            last_rate_limited = False
+            artifact_id = result
             if artifact_id:
                 log(f"   Artifact: {artifact_id[:12]}...")
                 upsert_entry({
@@ -432,7 +448,11 @@ def run_create(args, items: list[dict]) -> int:
                 ok = True; break
 
         if not ok:
-            log("   FALHOU"); session_stats["items_failed"] += 1
+            if last_rate_limited:
+                log("   ADIADO (rate-limit NotebookLM — será retentado amanhã)")
+                session_stats["items_deferred"] += 1
+            else:
+                log("   FALHOU"); session_stats["items_failed"] += 1
 
         if i < len(queue) and not shutdown_requested and not args.no_wait:
             log(f"   Aguardando {interval//60}min...")
@@ -442,7 +462,7 @@ def run_create(args, items: list[dict]) -> int:
 
     print()
     print("=" * 60)
-    print(f"  Criados: {session_stats['items_created']}  Falhas: {session_stats['items_failed']}")
+    print(f"  Criados: {session_stats['items_created']}  Falhas: {session_stats['items_failed']}  Adiados: {session_stats['items_deferred']}")
     print("=" * 60)
     return 0 if session_stats["items_failed"] == 0 else 1
 
