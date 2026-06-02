@@ -197,8 +197,10 @@ class AudioGenerator:
             log(f"Excecao ao deletar artifact: {e}", "WARNING")
             return False
 
-    def download_audio(self, artifact_id: str, output_path: Path, delete_after: bool = True) -> bool:
-        """Baixa áudio gerado e opcionalmente deleta artifact"""
+    def download_audio(self, artifact_id: str, output_path: Path, delete_after: bool = False) -> bool:
+        """Baixa áudio gerado. delete_after=False por padrão: mantemos o artifact
+        no NotebookLM para acesso via app mesmo sem o podcast (preferência do usuário,
+        2026-06-02). Passe delete_after=True explicitamente se quiser apagar do studio."""
         try:
             log(f"Baixando audio para: {output_path}")
 
