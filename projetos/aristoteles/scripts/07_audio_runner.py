@@ -47,6 +47,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import subprocess
 import sys
 import time
@@ -61,6 +62,18 @@ LOG_PATH = PROJECT_ROOT / "_raw" / "audio_log.jsonl"
 
 DEFAULT_DAILY_LIMIT = 20  # NLM CLI silent limit
 PROFILE = "default"  # conta pessoal edson.michalkiewicz@gmail.com (notebook em CLAUDE.md)
+
+AUDIO_FORMAT = "deep_dive"   # prompts pedem deep-dive
+LANGUAGE = "en"              # prompts exigem áudio 100% em inglês
+AUDIO_LENGTH = "long"
+MAX_FOCUS_CHARS = 10000      # teto empírico do focus do NLM
+INTERVAL_SECONDS = 120       # espaçamento entre criações (reduz rate-limit)
+MAX_RETRIES = 3
+# create_audio devolve isto em rate-limit (API code 8) → cena fica pending p/ amanhã
+_RATE_LIMITED = object()
+_POLL_MISSING = "__poll_missing__"  # artifact sumiu do studio
+_POLL_ERROR = "__poll_error__"      # consulta falhou (rede/auth)
+_UUID_RE = re.compile(r"[a-f0-9]{8}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{12}")
 
 
 # ───────────────────────────── helpers ─────────────────────────────
@@ -119,6 +132,67 @@ def get_state(audio_meta: dict, cena_id: str) -> str:
     if not rec:
         return "pending"
     return rec.get("status", "pending")
+
+
+def extract_focus(prompt_text: str) -> str:
+    """Remove o cabeçalho 'AUDIO TITLE — rename...' (entre as cercas ═) e
+    devolve só o corpo instrucional. Esse cabeçalho serve ao fluxo manual de
+    UI; no CLI casamos o áudio pelo artifact_id, então é ruído no --focus."""
+    lines = prompt_text.splitlines()
+    fences = [i for i, l in enumerate(lines) if l.strip().startswith("═")]
+    if len(fences) >= 2:
+        body = "\n".join(lines[fences[1] + 1:]).strip()
+        if body:
+            return body
+    return prompt_text.strip()
+
+
+def create_audio(notebook_id: str, focus: str, source_id: str):
+    """Dispara um Audio Overview (fire-and-forget). Devolve artifact_id (str),
+    _RATE_LIMITED (rate-limit code 8 → adiar) ou None (erro real)."""
+    cmd = ["create", "audio", notebook_id,
+           "--format", AUDIO_FORMAT, "--length", AUDIO_LENGTH,
+           "--language", LANGUAGE, "--focus", focus[:MAX_FOCUS_CHARS],
+           "--source-ids", source_id, "--profile", PROFILE, "--confirm"]
+    try:
+        r = run_nlm(cmd, timeout=180)
+    except subprocess.TimeoutExpired:
+        print("   Timeout (180s) ao criar áudio")
+        return None
+    if r.returncode != 0:
+        err = ((r.stderr or "") + " " + (r.stdout or "")).strip()
+        print(f"   nlm err: {err[:300]}")
+        low = err.lower()
+        if "rate limited" in low or "code 8" in low or "wait a few minutes" in low:
+            return _RATE_LIMITED
+        return None
+    m = re.search(r"(?:Artifact|Audio)\s*(?:ID)?[:\s]+([a-f0-9-]{20,})",
+                  r.stdout, re.IGNORECASE)
+    if m:
+        return m.group(1)
+    m = _UUID_RE.search(r.stdout)
+    return m.group(0) if m else None
+
+
+def poll_status(notebook_id: str, artifact_id: str) -> str:
+    """Status do artifact no studio. _POLL_MISSING se sumiu da lista,
+    _POLL_ERROR se a consulta falhou (rede/auth)."""
+    try:
+        r = run_nlm(["studio", "status", notebook_id, "--json"], timeout=30)
+    except Exception:
+        return _POLL_ERROR
+    if r.returncode != 0:
+        return _POLL_ERROR
+    try:
+        arts = json.loads(r.stdout)
+    except Exception:
+        return _POLL_ERROR
+    if isinstance(arts, dict):
+        arts = arts.get("value", arts.get("artifacts", []))
+    for a in arts:
+        if (a.get("artifact_id") or a.get("id")) == artifact_id:
+            return a.get("status", "unknown")
+    return _POLL_MISSING
 
 
 # ───────────────────────────── commands ─────────────────────────────
@@ -188,28 +262,70 @@ def cmd_create(master: dict, audio_meta: dict, notebook_meta: dict, n: int,
 
     ok = 0
     failed = 0
+    deferred = 0
     for i, cena in enumerate(batch, 1):
         title = cena["audio_title"]
         source_id = source_by_title.get(cena["obra_idx"])
         prompt_path = PROJECT_ROOT / cena["prompt_path"]
         prompt_text = prompt_path.read_text(encoding="utf-8")
+        focus = extract_focus(prompt_text)
 
         print(f"[{i}/{len(batch)}] {cena['cena_id']}")
         print(f"   title={title}")
-        print(f"   source_id={source_id}")
+        print(f"   source_id={source_id}  focus={len(focus)} chars")
+
+        if not source_id:
+            print(f"   FAIL: sem source_id para obra_idx={cena.get('obra_idx')}")
+            failed += 1
+            continue
 
         if dry_run:
             print("   → dry_run")
             continue
 
-        # NOTA: comando 'nlm studio create' exato pode variar por versão.
-        # Ver scripts/cron_audio.sh.template para a invocação atual.
-        # Por enquanto deixamos um stub que apenas registra.
-        print("   → SKIP (--create ainda em standby — usar UI manual + --harvest)")
-        append_log({"ts": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
-                    "action": "create_stub", "cena_id": cena["cena_id"]})
+        # Cria com retry/backoff. Rate-limit (code 8) → adia (fica pending).
+        backoff = [0, 180, 300]
+        artifact_id = None
+        rate_limited = False
+        for attempt in range(1, MAX_RETRIES + 1):
+            if attempt > 1:
+                wait = backoff[min(attempt - 1, len(backoff) - 1)]
+                print(f"   Tentativa {attempt}/{MAX_RETRIES} (aguardando {wait}s)...")
+                time.sleep(wait)
+            result = create_audio(notebook_id, focus, source_id)
+            if result is _RATE_LIMITED:
+                rate_limited = True
+                continue
+            rate_limited = False
+            artifact_id = result
+            break
 
-    print(f"\nResultado: ok={ok}, failed={failed}")
+        if artifact_id:
+            rec = audio_meta["audios"].setdefault(cena["cena_id"], {})
+            rec["artifact_id"] = artifact_id
+            rec["audio_title"] = title
+            rec["audio_filename"] = cena["audio_filename"]
+            rec["status"] = "created"
+            rec["created_at"] = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
+            save_audio_meta(audio_meta)
+            append_log({"ts": rec["created_at"], "action": "created",
+                        "cena_id": cena["cena_id"], "artifact_id": artifact_id})
+            print(f"   ✓ created (artifact={artifact_id[:8]}...)")
+            ok += 1
+        elif rate_limited:
+            print("   ⏸ ADIADO (rate-limit NotebookLM — fica pending p/ amanhã)")
+            deferred += 1
+        else:
+            print("   FAIL (erro ao criar)")
+            append_log({"ts": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+                        "action": "create_fail", "cena_id": cena["cena_id"]})
+            failed += 1
+
+        # Espaçamento entre criações (reduz rate-limit), exceto na última.
+        if i < len(batch):
+            time.sleep(INTERVAL_SECONDS)
+
+    print(f"\nResultado: ok={ok}, adiados={deferred}, failed={failed}")
     return 0
 
 
@@ -292,13 +408,55 @@ def cmd_harvest(master: dict, audio_meta: dict, notebook_meta: dict,
             append_log({"ts": rec["downloaded_at"], "action": "downloaded",
                         "cena_id": cena_id, "bytes": rec["bytes"]})
 
+    # ── Download de áudios criados via CLI (--create) ──────────────────
+    # Esses têm título auto-gerado (não 'aristoteles_*'), então o laço por
+    # título acima não os pega. Casamos pelo artifact_id guardado no metadata.
+    cli_downloaded = 0
+    for cena in master["cenas"]:
+        cena_id = cena["cena_id"]
+        rec = audio_meta["audios"].get(cena_id)
+        if not rec or rec.get("status") != "created" or not rec.get("artifact_id"):
+            continue
+        artifact_id = rec["artifact_id"]
+        out_path = AUDIOS_DIR / cena["audio_filename"]
+        st = poll_status(notebook_id, artifact_id)
+        if st == _POLL_ERROR:
+            print(f"  ⚠ {cena_id}: consulta studio falhou (rede/auth) — tenta depois")
+            continue
+        if st == _POLL_MISSING:
+            print(f"  ⚠ {cena_id}: artifact {artifact_id[:8]} sumiu do studio")
+            rec["status"] = "lost_in_studio"
+            continue
+        if st != "completed":
+            print(f"  … {cena_id}: ainda processando ({st})")
+            continue
+        if dry_run:
+            print(f"  ↓ {cena_id} dry_run download (CLI)")
+            continue
+        print(f"  ↓ baixando {cena['audio_filename']} (CLI)...")
+        dr = run_nlm(["download", "audio", notebook_id, "--id", artifact_id,
+                      "-o", str(out_path), "--no-progress"], timeout=600)
+        if dr.returncode != 0 or not out_path.exists():
+            print(f"     FAIL: {(dr.stderr or dr.stdout)[:200]}")
+            append_log({"ts": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+                        "action": "download_fail", "cena_id": cena_id,
+                        "error": (dr.stderr or "")[:300]})
+            continue
+        rec["status"] = "downloaded"
+        rec["downloaded_at"] = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
+        rec["bytes"] = out_path.stat().st_size
+        cli_downloaded += 1
+        append_log({"ts": rec["downloaded_at"], "action": "downloaded",
+                    "cena_id": cena_id, "bytes": rec["bytes"]})
+
     if not dry_run:
         save_audio_meta(audio_meta)
 
     print(f"\n=== Harvest concluído ===")
-    print(f"  novos 'created':    {new_created}")
-    print(f"  novos 'downloaded': {new_downloaded}")
-    print(f"  unmatched:          {unmatched}")
+    print(f"  novos 'created':       {new_created}")
+    print(f"  baixados (título UI):  {new_downloaded}")
+    print(f"  baixados (CLI):        {cli_downloaded}")
+    print(f"  unmatched:             {unmatched}")
     return 0
 
 

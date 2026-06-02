@@ -46,6 +46,15 @@ notify() {
   fi
 }
 
+# Alternância diária com Aristóteles (mesma conta 'default', limite ~20/dia
+# compartilhado): COF roda em dias PARES do ano; Aristóteles em ÍMPARES.
+# (10# força base decimal — evita erro de octal em 008/009.)
+DOY=$(( 10#$(date +%j) ))
+if [ $(( DOY % 2 )) -ne 0 ]; then
+  echo "$(date '+%Y-%m-%d %H:%M') — dia ímpar (DOY=$DOY): vez do Aristóteles, COF pula." >>"$LOG"
+  exit 0
+fi
+
 {
   echo "=== COF cron run @ $(date) ==="
   echo "PWD=$COF_DIR"
