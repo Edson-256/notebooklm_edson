@@ -127,6 +127,31 @@ def ensure_profile() -> None:
         print(f"AVISO: nlm login switch {PROFILE} falhou: {exc}")
 
 
+def _sync_to_dell(slug: str, file: Path) -> None:
+    """Chama sync_to_dell.py --project <slug> --apply após cada download
+    (Mac → dell:/srv/podcasts/<slug>). Silencioso em falha."""
+    sync_script = (Path(__file__).resolve().parents[4]
+                   / "dell_server/podcast_system/sync/sync_to_dell.py")
+    if not sync_script.exists():
+        return
+    try:
+        import os
+        env = os.environ.copy()
+        secrets = Path.home() / ".secrets"
+        if secrets.exists():
+            for line in secrets.read_text().splitlines():
+                line = line.strip()
+                if line.startswith("export ") and "=" in line:
+                    k, v = line[len("export "):].split("=", 1)
+                    env.setdefault(k.strip(), v.strip())
+        subprocess.run(
+            [sys.executable, str(sync_script), "--project", slug, "--apply"],
+            timeout=120, env=env, capture_output=True,
+        )
+    except Exception:
+        pass
+
+
 def get_state(audio_meta: dict, cena_id: str) -> str:
     rec = audio_meta["audios"].get(cena_id)
     if not rec:
@@ -407,6 +432,7 @@ def cmd_harvest(master: dict, audio_meta: dict, notebook_meta: dict,
             new_downloaded += 1
             append_log({"ts": rec["downloaded_at"], "action": "downloaded",
                         "cena_id": cena_id, "bytes": rec["bytes"]})
+            _sync_to_dell("aristoteles", out_path)
 
     # ── Download de áudios criados via CLI (--create) ──────────────────
     # Esses têm título auto-gerado (não 'aristoteles_*'), então o laço por
@@ -448,6 +474,7 @@ def cmd_harvest(master: dict, audio_meta: dict, notebook_meta: dict,
         cli_downloaded += 1
         append_log({"ts": rec["downloaded_at"], "action": "downloaded",
                     "cena_id": cena_id, "bytes": rec["bytes"]})
+        _sync_to_dell("aristoteles", out_path)
 
     if not dry_run:
         save_audio_meta(audio_meta)
