@@ -64,7 +64,7 @@ DEFAULT_DAILY_LIMIT = 20  # NLM CLI silent limit
 PROFILE = "default"  # conta pessoal edson.michalkiewicz@gmail.com (notebook em CLAUDE.md)
 
 AUDIO_FORMAT = "deep_dive"   # prompts pedem deep-dive
-LANGUAGE = "en"              # prompts exigem áudio 100% em inglês
+LANGUAGE = "pt-BR"           # prompts exigem áudio 100% em português brasileiro
 AUDIO_LENGTH = "long"
 MAX_FOCUS_CHARS = 10000      # teto empírico do focus do NLM
 INTERVAL_SECONDS = 120       # espaçamento entre criações (reduz rate-limit)

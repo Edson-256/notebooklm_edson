@@ -30,8 +30,11 @@ LOG_PATH = PROJECT_ROOT / "_raw" / "cenas_log.jsonl"
 
 
 # ---------------------------------------------------------------------------
-# Template do prompt (English — NotebookLM Audio Overview deve sair em inglês,
-# já que as 33 obras estão em traduções inglesas Oxford/Loeb).
+# Template do prompt — a SAÍDA de áudio do NotebookLM deve ser em PORTUGUÊS
+# BRASILEIRO. As 33 obras estão em traduções inglesas Oxford/Loeb, então as
+# âncoras de localização do trecho ({first_sentence}/{last_sentence}) permanecem
+# em inglês (é assim que o NLM localiza o trecho na fonte); apenas o áudio final
+# é falado em pt-BR. O runner 07_audio_runner.py também passa --language pt-BR.
 # ---------------------------------------------------------------------------
 
 PROMPT_TEMPLATE = """\
@@ -43,55 +46,57 @@ PROMPT_TEMPLATE = """\
  (Final filename on disk: {audio_filename})
 ═══════════════════════════════════════════════════════════════════════════════
 
-Act as a Senior Humanities Tutor specializing in the formative reading of \
-Aristotle. Your goal is to orchestrate an instructional audio deep-dive based \
-on a specific passage from Aristotle's *{obra_en}*.
+Aja como um Tutor Sênior de Humanidades especializado na leitura formativa de \
+Aristóteles. Seu objetivo é orquestrar um áudio instrucional de aprofundamento \
+(deep-dive) a partir de uma passagem específica da obra *{obra_pt}* de Aristóteles.
 
-**Context & Anchoring:**
-- **Work:** {obra_en} ({obra_pt}), translated by {translator}.
-- **Passage Identifier:** {livro_marker}, {capitulo_marker} \
-(sub-cena {sub_cena_num} of {sub_cena_total}).
-- **Audio Position in This Work:** This is audio {audio_in_obra_idx} of \
-{audio_in_obra_total} for *{obra_en}*.
-- **Previously On:** If this is not the first audio of *{obra_en}*, give a 30-second \
-recap that briefly summarises the line of argument established by the previous \
-chapter, so the listener picks up the thread. If this IS the first audio, instead \
-introduce *{obra_en}* in two sentences: where it sits in the Aristotelian corpus \
-and what question it is trying to answer.
+**Contexto e Ancoragem:**
+- **Obra:** {obra_pt} (*{obra_en}*), na tradução de {translator}.
+- **Identificação da passagem:** {livro_marker}, {capitulo_marker} \
+(sub-cena {sub_cena_num} de {sub_cena_total}).
+- **Posição do áudio nesta obra:** este é o áudio {audio_in_obra_idx} de \
+{audio_in_obra_total} de *{obra_pt}*.
+- **Anteriormente:** Se este NÃO for o primeiro áudio de *{obra_pt}*, faça uma \
+retomada de 30 segundos que resuma brevemente a linha de argumento estabelecida no \
+capítulo anterior, para o ouvinte retomar o fio. Se ESTE for o primeiro áudio, em \
+vez disso apresente *{obra_pt}* em duas frases: onde ela se situa no corpus \
+aristotélico e qual questão procura responder.
 
-**Task:**
-Analyse the passage below in the spirit of *formative reading* — not academic \
-exegesis. The goal is to train the listener's mind to think Aristotelically, not \
-to display erudition.
+**Tarefa:**
+Analise a passagem abaixo no espírito da *leitura formativa* — não da exegese \
+acadêmica. O objetivo é treinar a mente do ouvinte para pensar aristotelicamente, \
+não exibir erudição.
 
-**Script Structure (target 12-18 minutes of audio):**
-1. **Anchor the question.** State, in one sentence, the central thesis or \
-definition Aristotle is advancing in this passage. What problem is he addressing?
-2. **Walk the argument.** Reconstruct Aristotle's reasoning step by step in plain \
-English, naming any technical terms (e.g. *ousia*, *energeia*, *phronesis*) the \
-first time they appear and translating them. Quote sparingly.
-3. **Name the method.** Identify the methodological move Aristotle is making \
-(e.g. dialectical examination of received opinions, division by genus and species, \
-search for first principles, the four causes, the doctrine of the mean). Explain \
-why he uses this move *here*.
-4. **From concept to life.** Offer ONE concrete modern example — a personal \
-decision, a recurring social situation, a practical craft — where this distinction \
-or insight clarifies how to act or perceive. Keep it specific, not generic.
-5. **Tie back.** Close by re-stating the central insight in one sentence the \
-listener can carry into their day.
+**Estrutura do roteiro (alvo de 12 a 18 minutos de áudio):**
+1. **Ancore a questão.** Enuncie, em uma frase, a tese central ou a definição que \
+Aristóteles está propondo nesta passagem. Que problema ele está enfrentando?
+2. **Percorra o argumento.** Reconstrua o raciocínio de Aristóteles passo a passo \
+em português claro, nomeando os termos técnicos (ex.: *ousia*, *energeia*, \
+*phronesis*) na primeira vez que aparecem e traduzindo-os. Cite com parcimônia.
+3. **Nomeie o método.** Identifique o movimento metodológico que Aristóteles faz \
+(ex.: exame dialético das opiniões recebidas, divisão por gênero e espécie, busca \
+dos primeiros princípios, as quatro causas, a doutrina do meio-termo). Explique por \
+que ele emprega esse movimento *aqui*.
+4. **Do conceito à vida.** Ofereça UM exemplo moderno concreto — uma decisão \
+pessoal, uma situação social recorrente, um ofício prático — em que essa distinção \
+ou percepção esclareça como agir ou perceber. Mantenha-o específico, não genérico.
+5. **Amarre de volta.** Encerre reafirmando a percepção central em uma frase que o \
+ouvinte possa levar consigo para o dia.
 
-**Technical & Linguistic Constraints:**
-- **Language:** the final NotebookLM audio output MUST be entirely in English.
-- **Tone:** calm, insightful, like an Oxford tutor in a one-to-one. No academic \
-jargon unless absolutely necessary for the analogy.
-- **Do NOT read the passage verbatim.** Paraphrase, quote selectively (≤ 3 short \
-quotes), and prioritise comprehension.
-- **Do not invent doctrine.** If Aristotle is silent on a modern application, say so.
+**Restrições técnicas e linguísticas:**
+- **Idioma:** o áudio final do NotebookLM DEVE ser inteiramente em português \
+brasileiro (pt-BR).
+- **Tom:** calmo, perspicaz, como um tutor de Oxford numa conversa a sós. Sem jargão \
+acadêmico, a menos que seja absolutamente necessário para a analogia.
+- **NÃO leia a passagem literalmente.** Parafraseie, cite seletivamente (≤ 3 citações \
+curtas) e priorize a compreensão.
+- **Não invente doutrina.** Se Aristóteles for silente sobre uma aplicação moderna, \
+diga isso.
 
-**Passage Selection (Focus of this Audio):**
-The sources uploaded to NotebookLM contain the full text of *{obra_en}*. For this \
-specific audio, focus EXCLUSIVELY on the passage from {livro_marker}, \
-{capitulo_marker}, bounded by:
+**Seleção da passagem (foco deste áudio):**
+As fontes enviadas ao NotebookLM contêm o texto integral de *{obra_en}* (em inglês). \
+Para este áudio específico, concentre-se EXCLUSIVAMENTE na passagem de {livro_marker}, \
+{capitulo_marker}, delimitada por (âncoras no texto-fonte em inglês):
 
 **Starts at:** "{first_sentence}"
 **Ends at:** "{last_sentence}"
@@ -235,6 +240,11 @@ def main() -> int:
     parser.add_argument("--dry-run", action="store_true")
     parser.add_argument("--status", action="store_true",
                         help="Apenas mostra progresso e sai.")
+    parser.add_argument("--regen-prompts", action="store_true",
+                        help="Re-renderiza TODOS os arquivos de prompt a partir do "
+                             "master usando o template atual, sem mexer no status "
+                             "das cenas nem nos arquivos de cena. Usado p.ex. ao "
+                             "trocar o idioma do prompt (en → pt-BR).")
     args = parser.parse_args()
 
     if not MASTER_PATH.exists():
@@ -247,6 +257,26 @@ def main() -> int:
     if args.status:
         print_status(master)
         return 0
+
+    if args.regen_prompts:
+        total = len(cenas)
+        print(f"=== Re-renderizando {total} prompts (template atual) ===")
+        regen = 0
+        missing = 0
+        for c in cenas:
+            if args.dry_run:
+                continue
+            try:
+                write_prompt_file(c)
+                regen += 1
+            except KeyError as exc:
+                missing += 1
+                print(f"  {c.get('cena_id', '?'):60s}  → faltou campo {exc}")
+        if args.dry_run:
+            print(f"dry-run: re-renderizaria {total} prompts.")
+        else:
+            print(f"=== Concluído: {regen} prompts reescritos, {missing} com erro ===")
+        return 0 if missing == 0 else 1
 
     pending = [c for c in cenas if c["status"] == "pending"]
     if not pending:
