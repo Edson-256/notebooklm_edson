@@ -24,6 +24,9 @@ LOG="$LOG_DIR/cof_cron_${TS}.log"
 # Cron tem PATH minimalista
 export PATH="/Users/edsonmichalkiewicz/.local/bin:/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin"
 export HOME="/Users/edsonmichalkiewicz"
+# Credenciais do StudioM4_bot (Telegram). tg_notify.py também faz fallback
+# lendo ~/.secrets, mas sourcear aqui mantém o padrão do lifecycle.
+source "$HOME/.secrets" 2>/dev/null || true
 
 mkdir -p "$LOG_DIR"
 
@@ -113,6 +116,7 @@ _tg_report() {
     --dl "${_dl:-0}" --dl-proc "${_dlp:-0}" \
     --created "${_crt:-0}" --failed "${_fal:-0}" \
     --rc "${_rc:-}" --summary "${_sum:-}" \
+    --run-cmd "$COF_DIR/scripts/cron_audio_daily.sh" \
     >/dev/null 2>&1 || true
 }
 _tg_report

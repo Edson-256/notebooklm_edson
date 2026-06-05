@@ -19,24 +19,72 @@ Module usage (from Python):
     from tg_notify import send
     send("mensagem")
 
-Environment variables required:
-    TELEGRAM_BOT_TOKEN  — bot token from @BotFather
-    TELEGRAM_CHAT_ID    — target chat or channel ID
+Credentials (StudioM4_bot — mesmo bot do lifecycle purge):
+    Resolve, em ordem de precedência, das env vars
+        STUDIOM4_TELEGRAM_BOT_TOKEN / STUDIOM4_TELEGRAM_CHAT_ID   (nomes do ~/.secrets)
+        TELEGRAM_BOT_TOKEN          / TELEGRAM_CHAT_ID            (nomes legados)
+    Se nenhuma estiver no ambiente (caso típico de cron, que não dá
+    `source ~/.secrets`), faz fallback lendo ~/.secrets diretamente.
 """
 import argparse
 import json
 import os
+import re
 import sys
 import urllib.request
 from datetime import datetime
+from pathlib import Path
+
+# Pares de nomes aceitos, em ordem de precedência.
+_TOKEN_NAMES = ("STUDIOM4_TELEGRAM_BOT_TOKEN", "TELEGRAM_BOT_TOKEN")
+_CHAT_NAMES = ("STUDIOM4_TELEGRAM_CHAT_ID", "TELEGRAM_CHAT_ID")
+
+
+def _parse_secrets_file(path: Path) -> dict:
+    """Lê um arquivo estilo shell (KEY=val / export KEY=val) SEM executá-lo."""
+    out: dict = {}
+    try:
+        text = path.read_text(encoding="utf-8")
+    except OSError:
+        return out
+    for raw in text.splitlines():
+        line = raw.strip()
+        if not line or line.startswith("#"):
+            continue
+        m = re.match(r"^(?:export\s+)?([A-Za-z_][A-Za-z0-9_]*)=(.*)$", line)
+        if not m:
+            continue
+        key, val = m.group(1), m.group(2).strip()
+        if len(val) >= 2 and val[0] == val[-1] and val[0] in "'\"":
+            val = val[1:-1]
+        out[key] = val
+    return out
+
+
+def _resolve_credentials() -> tuple:
+    """Resolve (token, chat_id) do ambiente; se faltar, do ~/.secrets."""
+    def pick(names, source):
+        for n in names:
+            v = (source.get(n) or "").strip()
+            if v:
+                return v
+        return ""
+
+    token = pick(_TOKEN_NAMES, os.environ)
+    chat_id = pick(_CHAT_NAMES, os.environ)
+    if not token or not chat_id:
+        secrets = _parse_secrets_file(Path.home() / ".secrets")
+        token = token or pick(_TOKEN_NAMES, secrets)
+        chat_id = chat_id or pick(_CHAT_NAMES, secrets)
+    return token, chat_id
 
 
 def send(text: str, parse_mode: str = "HTML") -> bool:
     """Send a Telegram message. Returns True on success, False otherwise."""
-    token = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
-    chat_id = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
+    token, chat_id = _resolve_credentials()
     if not token or not chat_id:
-        print("tg_notify: TELEGRAM_BOT_TOKEN ou TELEGRAM_CHAT_ID ausentes", file=sys.stderr)
+        print("tg_notify: credenciais Telegram ausentes (env STUDIOM4_TELEGRAM_* "
+              "ou ~/.secrets)", file=sys.stderr)
         return False
     url = f"https://api.telegram.org/bot{token}/sendMessage"
     payload = json.dumps({
@@ -61,6 +109,12 @@ def _format_report(args) -> str:
     project = args.project
     profile = args.profile or ""
     status = args.status
+    run_cmd = (getattr(args, "run_cmd", "") or "").strip()
+
+    def with_rerun(lines: list) -> str:
+        if run_cmd:
+            lines.append(f"▶️ Rodar manual: <code>{run_cmd}</code>")
+        return "\n".join(lines)
 
     if status == "ok":
         dl = int(args.dl or 0)
@@ -79,23 +133,29 @@ def _format_report(args) -> str:
         if failed > 0:
             created_line += f"  ⚠️ Falhas: {failed}"
 
-        lines = [f"✅ <b>{project}</b> — {now}"]
-        lines.append(dl_line)
-        lines.append(created_line)
+        # "Sucesso" mas sem nada criado nem baixado = suspeito (rate-limit,
+        # nada pendente, etc). Sinaliza como aviso e sugere re-rodar manual.
+        zero_activity = (created == 0 and dl == 0 and dl_proc == 0)
+        head = (f"⚠️ <b>{project}</b> — rodou mas 0 criados/baixados ({now})"
+                if zero_activity else f"✅ <b>{project}</b> — {now}")
+
+        lines = [head, dl_line, created_line]
         if pending is not None:
             lines.append(f"📊 Pendentes: {pending}")
-        return "\n".join(lines)
+        return with_rerun(lines) if zero_activity else "\n".join(lines)
 
     elif status == "auth_expired":
-        return (
-            f"🔐 <b>{project}</b> — AUTH EXPIRADO ({now})\n"
-            f"Rode: <code>nlm login --profile {profile}</code>"
-        )
+        lines = [
+            f"🔐 <b>{project}</b> — AUTH EXPIRADO ({now})",
+            f"Rode: <code>nlm login --profile {profile}</code>",
+        ]
+        return with_rerun(lines)
 
     else:  # failed
         rc = args.rc or "?"
         summary = (args.summary or f"exit code {rc}").strip()
-        return f"❌ <b>{project}</b> FALHOU rc={rc} — {now}\n{summary[:300]}"
+        lines = [f"❌ <b>{project}</b> FALHOU rc={rc} — {now}", summary[:300]]
+        return with_rerun(lines)
 
 
 def _cmd_send(args):
@@ -127,6 +187,9 @@ def main():
     p_rep.add_argument("--pending",  default="",    help="Total pendente no projeto")
     p_rep.add_argument("--rc",       default="",    help="Exit code (status=failed)")
     p_rep.add_argument("--summary",  default="",    help="Resumo de erro (status=failed)")
+    p_rep.add_argument("--run-cmd",  default="",    dest="run_cmd",
+                       help="Comando para re-rodar manualmente (incluído em "
+                            "falha/auth/0-criados como lembrete)")
     p_rep.set_defaults(func=_cmd_report)
 
     args = ap.parse_args()
