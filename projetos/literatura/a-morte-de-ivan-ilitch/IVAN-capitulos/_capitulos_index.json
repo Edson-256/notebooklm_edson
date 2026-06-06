@@ -1,0 +1,120 @@
+{
+  "sigla": "IVAN",
+  "ppm": 130,
+  "width": 2,
+  "excluidos": [
+    "C013-Notas",
+    "C014-Biografia-do-autor",
+    "C015-Creditos"
+  ],
+  "capitulos": [
+    {
+      "arquivo": "01_cap-01.md",
+      "seq": 1,
+      "cap_label": "1",
+      "titulo": "",
+      "palavras": 3154,
+      "minutos_est": 24,
+      "parte_de": "01_cap-01"
+    },
+    {
+      "arquivo": "02_cap-02.md",
+      "seq": 2,
+      "cap_label": "2",
+      "titulo": "",
+      "palavras": 2964,
+      "minutos_est": 23,
+      "parte_de": "02_cap-02"
+    },
+    {
+      "arquivo": "03_cap-03.md",
+      "seq": 3,
+      "cap_label": "3",
+      "titulo": "",
+      "palavras": 2775,
+      "minutos_est": 21,
+      "parte_de": "03_cap-03"
+    },
+    {
+      "arquivo": "04_cap-04.md",
+      "seq": 4,
+      "cap_label": "4",
+      "titulo": "",
+      "palavras": 2811,
+      "minutos_est": 22,
+      "parte_de": "04_cap-04"
+    },
+    {
+      "arquivo": "05_cap-05.md",
+      "seq": 5,
+      "cap_label": "5",
+      "titulo": "",
+      "palavras": 1505,
+      "minutos_est": 12,
+      "parte_de": "05_cap-05"
+    },
+    {
+      "arquivo": "06_cap-06.md",
+      "seq": 6,
+      "cap_label": "6",
+      "titulo": "",
+      "palavras": 1098,
+      "minutos_est": 8,
+      "parte_de": "06_cap-06"
+    },
+    {
+      "arquivo": "07_cap-07.md",
+      "seq": 7,
+      "cap_label": "7",
+      "titulo": "",
+      "palavras": 1601,
+      "minutos_est": 12,
+      "parte_de": "07_cap-07"
+    },
+    {
+      "arquivo": "08_cap-08.md",
+      "seq": 8,
+      "cap_label": "8",
+      "titulo": "",
+      "palavras": 2493,
+      "minutos_est": 19,
+      "parte_de": "08_cap-08"
+    },
+    {
+      "arquivo": "09_cap-09.md",
+      "seq": 9,
+      "cap_label": "9",
+      "titulo": "",
+      "palavras": 994,
+      "minutos_est": 8,
+      "parte_de": "09_cap-09"
+    },
+    {
+      "arquivo": "10_cap-10.md",
+      "seq": 10,
+      "cap_label": "10",
+      "titulo": "",
+      "palavras": 770,
+      "minutos_est": 6,
+      "parte_de": "10_cap-10"
+    },
+    {
+      "arquivo": "11_cap-11.md",
+      "seq": 11,
+      "cap_label": "11",
+      "titulo": "",
+      "palavras": 963,
+      "minutos_est": 7,
+      "parte_de": "11_cap-11"
+    },
+    {
+      "arquivo": "12_cap-12.md",
+      "seq": 12,
+      "cap_label": "12",
+      "titulo": "",
+      "palavras": 775,
+      "minutos_est": 6,
+      "parte_de": "12_cap-12"
+    }
+  ]
+}

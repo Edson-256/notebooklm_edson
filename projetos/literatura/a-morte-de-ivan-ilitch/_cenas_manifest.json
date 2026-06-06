@@ -1,0 +1,186 @@
+{
+  "obra": "A Morte de Ivan Ilitch",
+  "autor": "Liev Tolstói",
+  "slug": "a-morte-de-ivan-ilitch",
+  "idioma_obra": "pt-BR",
+  "width": 2,
+  "total_cenas": 22,
+  "cenas": [
+    {
+      "seq_global": 1, "cap": 1, "cena_local": 1,
+      "titulo": "A notícia da morte e o cálculo das promoções",
+      "localizacao": "Cap. 1, abertura — o gabinete do Tribunal",
+      "resumo": "Os colegas recebem a morte de Ivan Ilitch pensando primeiro em transferências e salários, e cada um sente o secreto alívio de que 'foi ele quem morreu, e não eu'.",
+      "justificativa_cof": "Expõe o egoísmo automático que o leitor reconhece em si — entrar na pele dessa indiferença é exercício de sinceridade existencial.",
+      "pilar_foco": "sinceridade", "source_chapter": "01_cap-01.md"
+    },
+    {
+      "seq_global": 2, "cap": 1, "cena_local": 2,
+      "titulo": "Diante do caixão: a advertência no rosto do morto",
+      "localizacao": "Cap. 1, no quarto do defunto",
+      "resumo": "Piotr Ivanovich vê no rosto do morto uma reprovação e uma advertência; sente por um instante 'isso pode acontecer comigo', e logo sufoca o pensamento.",
+      "justificativa_cof": "O lampejo de intuição da própria mortalidade, imediatamente recalcado — material puro para a primazia da intuição.",
+      "pilar_foco": "intuicao", "source_chapter": "01_cap-01.md"
+    },
+    {
+      "seq_global": 3, "cap": 1, "cena_local": 3,
+      "titulo": "A viúva, o pufe e a pensão",
+      "localizacao": "Cap. 1, conversa com Praskovya; saída com Gerassim",
+      "resumo": "Sob o luto, a viúva quer saber como extrair mais dinheiro do governo; a cena fecha com Gerassim: 'É a vontade de Deus, todos vamos passar por isso.'",
+      "justificativa_cof": "Contraste entre a hipocrisia do decoro e a verdade simples do criado — sinceridade existencial.",
+      "pilar_foco": "sinceridade", "source_chapter": "01_cap-01.md"
+    },
+    {
+      "seq_global": 4, "cap": 2, "cena_local": 1,
+      "titulo": "A vida mais simples e comum — e por isso mais terrível",
+      "localizacao": "Cap. 2, abertura e ascensão social",
+      "resumo": "A biografia de Ivan Ilitch como subida confortável guiada só pelo 'comme il faut' e pela aprovação das classes altas.",
+      "justificativa_cof": "Espelho da vida automática e respeitável que nunca se examina — a literatura como meio de ver a própria existência.",
+      "pilar_foco": "meio", "source_chapter": "02_cap-02.md"
+    },
+    {
+      "seq_global": 5, "cap": 2, "cena_local": 2,
+      "titulo": "O casamento e o muro do trabalho",
+      "localizacao": "Cap. 2, casamento e primeiros conflitos",
+      "resumo": "Diante do casamento difícil, Ivan transfere o centro de gravidade da vida para o trabalho, erguendo um muro entre si e a família.",
+      "justificativa_cof": "Vestir a pele de quem foge da intimidade refugiando-se na função — experiência vicária.",
+      "pilar_foco": "sinceridade", "source_chapter": "02_cap-02.md"
+    },
+    {
+      "seq_global": 6, "cap": 3, "cena_local": 1,
+      "titulo": "A injustiça da carreira e o cargo de cinco mil rublos",
+      "localizacao": "Cap. 3, a crise de 1880 e a viagem a Petersburgo",
+      "resumo": "Preterido, Ivan sente-se vítima da maior das injustiças e parte para Petersburgo decidido a 'punir a todos' conseguindo um cargo melhor.",
+      "justificativa_cof": "A vaidade ferida tomada como medida de toda a vida — sinceridade existencial.",
+      "pilar_foco": "sinceridade", "source_chapter": "03_cap-03.md"
+    },
+    {
+      "seq_global": 7, "cap": 3, "cena_local": 2,
+      "titulo": "A decoração do apartamento e a queda da escada",
+      "localizacao": "Cap. 3, o novo apartamento",
+      "resumo": "Absorto em cortinas e antiguidades 'comme il faut', cai da escada e bate o flanco — o machucado de que, ironicamente, nascerá a doença.",
+      "justificativa_cof": "Imagem-chave que organiza todo o romance: a vida gasta em ninharias e o golpe trivial que mata. Memória afetiva e imaginativa.",
+      "pilar_foco": "memoria", "source_chapter": "03_cap-03.md"
+    },
+    {
+      "seq_global": 8, "cap": 4, "cena_local": 1,
+      "titulo": "A consulta: o médico que o trata como ele tratava os réus",
+      "localizacao": "Cap. 4, primeira consulta médica",
+      "resumo": "O médico ignora a única pergunta que importa ('é grave?') e exibe o mesmo ar de autoridade impessoal que Ivan usava no Tribunal.",
+      "justificativa_cof": "A justiça impessoal que ele servia volta-se contra ele — literatura como meio; experiência vicária da impotência.",
+      "pilar_foco": "meio", "source_chapter": "04_cap-04.md"
+    },
+    {
+      "seq_global": 9, "cap": 4, "cena_local": 2,
+      "titulo": "O veneno que contamina o jogo e a casa",
+      "localizacao": "Cap. 4, o whist arruinado e as noites de dor",
+      "resumo": "A doença envenena cada prazer; ele percebe que está envenenando também a vida dos outros, sozinho à beira do precipício.",
+      "justificativa_cof": "A intuição da solidão radical irrompendo no meio do cotidiano — primazia da intuição.",
+      "pilar_foco": "intuicao", "source_chapter": "04_cap-04.md"
+    },
+    {
+      "seq_global": 10, "cap": 5, "cena_local": 1,
+      "titulo": "O olhar do cunhado e o espelho",
+      "localizacao": "Cap. 5, a chegada do cunhado",
+      "resumo": "O olhar mudo do cunhado ('ele está morto') leva Ivan ao espelho a comparar-se com uma velha fotografia; a diferença é assombrosa.",
+      "justificativa_cof": "O reconhecimento súbito do próprio declínio no olhar do outro — intuição e memória afetiva.",
+      "pilar_foco": "intuicao", "source_chapter": "05_cap-05.md"
+    },
+    {
+      "seq_global": 11, "cap": 5, "cena_local": 2,
+      "titulo": "Não é o apêndice nem o rim: é a vida ou a morte",
+      "localizacao": "Cap. 5, a noite no quarto",
+      "resumo": "Sozinho, irrompe a verdade: 'não é apêndice ou rim, é vida ou morte'; 'eu não vou aceitar isso!' — e o ódio ao beijo da esposa.",
+      "justificativa_cof": "O instante em que a abstração 'morte' se torna minha morte — sinceridade existencial no auge.",
+      "pilar_foco": "sinceridade", "source_chapter": "05_cap-05.md"
+    },
+    {
+      "seq_global": 12, "cap": 6, "cena_local": 1,
+      "titulo": "O silogismo de Caio: 'mas eu não sou Caio'",
+      "localizacao": "Cap. 6, a reflexão sobre o silogismo",
+      "resumo": "Ivan revira o 'Caio é mortal' da Lógica: válido para o abstrato Caio, intolerável para o pequeno Vanya, único, com seus cheiros e amores de infância.",
+      "justificativa_cof": "Cena emblemática: a distância entre saber-se mortal e senti-lo — primazia da intuição e memória afetiva.",
+      "pilar_foco": "intuicao", "source_chapter": "06_cap-06.md"
+    },
+    {
+      "seq_global": 13, "cap": 7, "cena_local": 1,
+      "titulo": "Gerassim sustenta suas pernas",
+      "localizacao": "Cap. 7, os cuidados de Gerassim",
+      "resumo": "O criado camponês cuida do corpo doente com simplicidade e sem nojo; sua vitalidade, ao contrário da dos outros, consola.",
+      "justificativa_cof": "A verdade humilde do servo que não mente — vestir a pele de Gerassim e de Ivan ao mesmo tempo; literatura como meio.",
+      "pilar_foco": "meio", "source_chapter": "07_cap-07.md"
+    },
+    {
+      "seq_global": 14, "cap": 7, "cena_local": 2,
+      "titulo": "A tortura da mentira: 'parem de mentir'",
+      "localizacao": "Cap. 7, a farsa coletiva",
+      "resumo": "O que mais o atormenta é o fingimento de que está só doente; anseia ser compadecido como uma criança e quase grita para que parem de mentir.",
+      "justificativa_cof": "O grito reprimido pela verdade contra o decoro — sinceridade existencial.",
+      "pilar_foco": "sinceridade", "source_chapter": "07_cap-07.md"
+    },
+    {
+      "seq_global": 15, "cap": 8, "cena_local": 1,
+      "titulo": "A farsa do médico e o 'faço isso por mim'",
+      "localizacao": "Cap. 8, a visita do médico e da esposa",
+      "resumo": "O médico repete sua fórmula vazia; a esposa diz fazer 'por si' o que faz por si mesma, e Ivan sente-se preso numa rede de falsidade.",
+      "justificativa_cof": "A mentira social como segunda pele — sinceridade existencial.",
+      "pilar_foco": "sinceridade", "source_chapter": "08_cap-08.md"
+    },
+    {
+      "seq_global": 16, "cap": 8, "cena_local": 2,
+      "titulo": "A família a caminho do teatro",
+      "localizacao": "Cap. 8, a saída para ver Sarah Bernhardt",
+      "resumo": "A filha exibe a carne jovem e saudável enquanto o pai sofre; só o filho Vassya, com olhos de pena, parece compreendê-lo.",
+      "justificativa_cof": "Contraste entre a vida que segue indiferente e o sofrimento — experiência vicária e memória afetiva.",
+      "pilar_foco": "memoria", "source_chapter": "08_cap-08.md"
+    },
+    {
+      "seq_global": 17, "cap": 9, "cena_local": 1,
+      "titulo": "O choro de criança e a voz interior",
+      "localizacao": "Cap. 9, a noite após o ópio",
+      "resumo": "Chora como uma criança por sua solidão; uma voz interior pergunta 'o que você quer?' e desmonta a certeza de ter vivido 'bem e agradavelmente'.",
+      "justificativa_cof": "O primeiro diálogo honesto consigo mesmo — primazia da intuição e sinceridade.",
+      "pilar_foco": "intuicao", "source_chapter": "09_cap-09.md"
+    },
+    {
+      "seq_global": 18, "cap": 10, "cena_local": 1,
+      "titulo": "A pedra que cai: a vida escurecendo rumo ao fim",
+      "localizacao": "Cap. 10, a solidão no sofá",
+      "resumo": "Só as lembranças da infância guardam luz; o resto escurece. A vida lhe surge como uma pedra que acelera a queda rumo ao pior sofrimento.",
+      "justificativa_cof": "A imagem da queda e o brilho da infância — memória afetiva e imaginativa.",
+      "pilar_foco": "memoria", "source_chapter": "10_cap-10.md"
+    },
+    {
+      "seq_global": 19, "cap": 11, "cena_local": 1,
+      "titulo": "E se toda a minha vida tiver sido errada?",
+      "localizacao": "Cap. 11, as torturas mentais à noite",
+      "resumo": "Pela primeira vez admite o impensável: que talvez só os impulsos de rebeldia que sufocou fossem verdadeiros, e todo o resto — carreira, decoro, família — falso.",
+      "justificativa_cof": "O núcleo moral do livro: a revisão radical da vida — sinceridade existencial.",
+      "pilar_foco": "sinceridade", "source_chapter": "11_cap-11.md"
+    },
+    {
+      "seq_global": 20, "cap": 11, "cena_local": 2,
+      "titulo": "A confissão e a falsa esperança",
+      "localizacao": "Cap. 11, a confissão ao padre",
+      "resumo": "Confessa-se, sente alívio momentâneo e quer viver; mas o rosto da esposa devolve-lhe o veredito 'tudo foi mentira', e ele grita para que saia.",
+      "justificativa_cof": "A oscilação entre o desejo de viver e a verdade que não cede — literatura como meio.",
+      "pilar_foco": "meio", "source_chapter": "11_cap-11.md"
+    },
+    {
+      "seq_global": 21, "cap": 12, "cena_local": 1,
+      "titulo": "Três dias de grito e o saco negro",
+      "localizacao": "Cap. 12, os três últimos dias",
+      "resumo": "Grita por três dias lutando contra o buraco negro; o que o impede de passar é a insistência em dizer que sua vida foi boa.",
+      "justificativa_cof": "A falsa crença como último obstáculo — primazia da intuição.",
+      "pilar_foco": "intuicao", "source_chapter": "12_cap-12.md"
+    },
+    {
+      "seq_global": 22, "cap": 12, "cena_local": 2,
+      "titulo": "O beijo do filho, a compaixão e a luz",
+      "localizacao": "Cap. 12, o instante final",
+      "resumo": "A mão cai sobre a cabeça do filho que a beija; nasce a compaixão, ele quer libertar os seus do sofrimento, o medo e a morte desaparecem — 'em seu lugar havia luz'.",
+      "justificativa_cof": "O desfecho: a vida que se reorganiza no amor a outrem — literatura como meio e memória afetiva.",
+      "pilar_foco": "meio", "source_chapter": "12_cap-12.md"
+    }
+  ]
+}

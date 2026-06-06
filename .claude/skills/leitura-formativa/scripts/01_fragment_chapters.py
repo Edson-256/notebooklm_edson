@@ -46,15 +46,13 @@ def strip_accents_lower(s: str) -> str:
     return s.lower().strip()
 
 
-def slugify(s: str, keep_accents: bool = True) -> str:
-    """Slug legivel: espacos/barras -> hifen; remove pontuacao perigosa. Mantem acentos (NFC)."""
-    s = s.strip()
+def slugify(s: str) -> str:
+    """Slug ASCII para filenames: remove acentos, espacos/barras -> hifen (conteudo mantem acentos)."""
+    s = unicodedata.normalize("NFKD", s.strip()).encode("ascii", "ignore").decode("ascii")
     s = re.sub(r"[\s/\\]+", "-", s)
-    s = re.sub(r"[^\w\-]", "", s, flags=re.UNICODE)
+    s = re.sub(r"[^\w\-]", "", s)
     s = re.sub(r"-{2,}", "-", s).strip("-")
-    if keep_accents:
-        return unicodedata.normalize("NFC", s)
-    return strip_accents_lower(s)
+    return s
 
 
 def word_count(text: str) -> int:
