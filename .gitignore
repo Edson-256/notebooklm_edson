@@ -9,7 +9,9 @@ Thumbs.db
 
 # Beads, Claude, logs
 .beads/
-.claude/
+# versiona as skills do projeto; settings.local.json segue ignorado
+.claude/*
+!.claude/skills/
 logs/
 
 # Credenciais e configs locais

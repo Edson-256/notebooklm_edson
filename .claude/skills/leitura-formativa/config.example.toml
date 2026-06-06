@@ -1,0 +1,54 @@
+# Config de um projeto do nlm-audio-pipeline.
+# Copie para <projeto>/projeto.toml e ajuste. O runner lê TUDO daqui.
+
+[obra]
+titulo   = "Quo Vadis"            # nome de exibição
+autor    = "Henryk Sienkiewicz"
+slug     = "quo_vadis"            # usado em filenames, pasta no dell-server e feed do podcast
+sigla    = "QV"                   # prefixo dos fragmentos de capitulo (QV-capitulos/)
+idioma_obra = "pt-BR"             # idioma do TEXTO-BASE (conteudo das cenas fica nesse idioma)
+
+[notebooklm]
+notebook_id = "c7f86c97-bf9b-4087-bcc2-2945fb18ee93"
+profile     = "default"           # NLM_PROFILE FIXO deste projeto (guard anti-colisao)
+# conta associada (so referencia/humano): edson.michalkiewicz@gmail.com
+language    = "pt-BR"             # OUTPUT do audio (BCP-47). Default segue a regra global;
+                                  # pode sobrepor por prompt. Perfis de idioma: it-IT/fr-FR/es-ES/de-DE
+format      = "deep_dive"         # deep_dive | brief | debate | critique
+length      = "long"             # short | default | long
+
+[cota]
+por_dia = 20                      # pro=20, free=3
+margem  = 1                       # nao disparar o ultimo N da cota (seguranca)
+
+[fragmentacao]
+min_audio_min   = 15              # alvo de duracao por audio
+max_audio_min   = 30              # alvo maximo
+hard_max_min    = 35              # acima disto, split do capitulo em N partes
+palavras_por_min = 130            # 130 ppm = mesmo ritmo do Docling (tempo-leitura.md); ler de la se existir
+
+[docling]                          # fonte dos fragmentos (Fase 1 consome, nao re-fragmenta)
+# Livros movidos do Docling para DENTRO do projeto (2026-06-06). Caminho relativo ao repo:
+src_dir = "projetos/literatura/a-morte-de-ivan-ilitch/output"
+usar    = "chapters"              # 'chapters' (1-5 cenas por capitulo) | 'segments' (ja balanceado por tempo)
+
+[cenas]
+min_por_capitulo = 1
+max_por_capitulo = 5
+
+[paths]
+# relativos a pasta do projeto, salvo absolutos
+capitulos    = "QV-capitulos"
+cenas        = "cenas"
+prompts      = "prompts_cenas"
+audios       = "audios"
+manifest     = "_cenas_manifest.json"
+
+[lifecycle]
+dell_sync   = true                # Mac -> dell-server -> DROBO
+dell_slug   = "quo-vadis"         # slug da pasta/feed no dell (pode diferir do slug interno)
+# senha do feed: no SplashID (a skill NUNCA embute a senha na notificacao)
+
+[telegram]
+enabled = true                    # StudioM4_bot; credenciais em ~/.secrets
+projeto_label = "Quo Vadis"       # nome exibido no relatorio
