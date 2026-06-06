@@ -1,0 +1,39 @@
+# Config do projeto leitura-formativa — A Morte de Ivan Ilitch
+
+[obra]
+titulo   = "A Morte de Ivan Ilitch"
+autor    = "Liev Tolstói"
+slug     = "a-morte-de-ivan-ilitch"
+sigla    = "IVAN"
+idioma_obra = "pt-BR"
+
+[notebooklm]
+notebook_id = "8ad9e40c-e471-4e1c-b723-0f1075fc7ce1"
+source_ids  = ["286c6a95-d38b-44ef-80e4-26c863c848b2"]  # 1 fonte unica (obra inteira delimitada)
+profile     = "default"          # conta pessoal (edson.michalkiewicz@gmail.com)
+language    = "pt-BR"
+format      = "deep_dive"
+length      = "long"
+
+[cota]
+por_dia = 20                     # pro; ATENCAO: compartilhada com COF-2/Aristoteles na mesma conta
+margem  = 1
+
+[cenas]
+total = 22                       # 22 cenas em _cenas_manifest.json
+
+[paths]
+capitulos = "IVAN-capitulos"
+cenas     = "cenas"
+prompts   = "prompts_cenas"
+audios    = "audios"
+manifest  = "_cenas_manifest.json"
+fonte_nlm = "a-morte-de-ivan-ilitch_fonte_nlm.md"
+
+[lifecycle]
+dell_sync = true
+dell_slug = "ivan-ilitch"
+
+[telegram]
+enabled = true
+projeto_label = "Ivan Ilitch"
