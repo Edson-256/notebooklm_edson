@@ -1,0 +1,228 @@
+### III
+
+O general Ivan Fiódorovitch Iepántchin estava em pé no centro do seu gabinete e olhava com extrema curiosidade para o príncipe que entrava, até deu dois passos em direção a ele. O príncipe aproximou-se a apresentou-se.
+
+— Então—disse o general—,em que posso servi-lo?
+
+— Assunto inadiável eu nunca tenho; meu objetivo era simplesmente conhecê-lo. Não gostaria de incomodá-lo, uma vez que não conheço a sua agenda nem as suas ordens... Mas é que acabei de sair do trem... de chegar da Suíça...
+
+O general quase deu um risinho, no entanto refletiu e parou; depois tornou a refletir, franziu o cenho, examinou mais uma vez seu visitante da cabeça aos pés, em seguida lhe indicou rapidamente uma cadeira, sentou-se ele mesmo um tanto de lado e virou-se para o príncipe numa expectativa impaciente. Gánia estava em pé em um canto do gabinete, ao lado da secretária, mexendo em uns papéis.
+
+— Para visitas com fins de travar conhecimento eu tenho pouco tempo,—disse o general—,mas como o senhor, é claro, tem o seu objetivo, neste caso...
+
+— Eu bem que tinha pressentido—interrompeu o príncipe—que o senhor veria forçosamente em minha visita algum objetivo especial. No entanto, juro, a não ser o prazer de conhecê-lo não tenho nenhum objetivo particular.
+
+— É claro que para mim também é um prazer extraordinário, mas nem tudo são entretenimentos, e, o senhor sabe, às vezes acontecem coisas... Além do mais, até agora não estou conseguindo perceber o que há de comum entre nós... por assim dizer, a causa...
+
+— Causa não existe, isso é indiscutível, e comum entre nós há pouca coisa, é claro. Porque se eu sou o príncipe Míchkin e sua esposa é da nossa estirpe, isso, está entendido, ainda não é causa. Isso eu compreendo muito bem. Mas, não obstante, é só nisso que consiste todo o meu motivo. Faz uns quatro anos e tanto que não venho à Rússia; e demais, de que jeito eu saí: quase sem regular bem! Na ocasião eu não conhecia nada, e agora ainda menos. Estou precisando de gente boa; veja, estou até com um problema e não sei onde me meter. Ainda em Berlim eu pensei: “Eles são quase meus parentes, vou começar por eles; pode ser que venhamos a servir uns aos outros, eles a mim, eu a eles—se eles forem gente boa”. E eu ouvi dizer que os senhores são uma gente boa.
+
+— Fico muito grato—admirou-se o general—,permita-me perguntar: onde está hospedado?
+
+— Eu ainda não me hospedei em lugar nenhum.
+
+— Então veio direto do trem me procurar? E... com a bagagem?
+
+— Sim, mas toda a minha bagagem é uma pequena trouxinha com roupa branca e só; eu costumo levá-la na mão. Até à noitinha terei tempo de arranjar um quarto.
+
+— Então o senhor ainda tem a intenção de arranjar um quarto?
+
+— Ah, sim, é claro.
+
+— A julgar pelas suas palavras, quase pensei que o senhor tivesse mesmo vindo direto para a minha casa.
+
+— Isso poderia acontecer, mas não sem que o senhor me convidasse. Eu mesmo, confesso, não ficaria nem que fosse convidado, não que exista algum motivo, mas assim... por uma questão de caráter.
+
+— Bem então isso até vem a propósito, porque eu não o convidei e nem convido. Permita-me mais uma coisa, príncipe, para que tudo fique esclarecido de uma vez: já que nós dois acabamos de concluir que entre nós não pode haver sequer uma palavra sobre parentesco—embora para mim fosse, certamente, muito lisonjeiro—,então...
+
+— Então é eu me levantar e sair?—soergueu-se o príncipe, rindo de um jeito até alegre, apesar de toda a visível dificuldade de sua situação.—Veja, general, palavra que mesmo sem eu conhecer na prática coisíssima nenhuma nem dos costumes daqui, nem de como aqui se vive, ainda assim eu achava justamente que entre nós ia acontecer sem falta exatamente o que está acontecendo agora. Que fazer, vai ver que a coisa tinha de dar nisso mesmo... Além do mais, nem me responderam à minha carta naquela ocasião... Bem, adeus e desculpe o incômodo.
+
+Nesse instante havia tanta doçura no olhar do príncipe, seu sorriso estava tão isento de qualquer matiz, por ínfimo que fosse, de antipatia oculta, que o general parou de súbito e meio repentinamente olhou de outro jeito para o seu visitante; toda a mudança do olhar se deu em um abrir e fechar de olhos.
+
+— Sabe, príncipe—disse ele com uma voz de todo diferente—,todavia eu não o conheço, e Ielisavieta Prokófievna possivelmente pode querer ver alguém do mesmo sobrenome... Aguarde, se desejar, caso tenha tempo.
+
+— Oh, eu tenho tempo; o meu tempo é inteiramente meu (e no mesmo instante o príncipe pôs na mesa o seu chapéu macio de abas redondas.). Eu, confesso, estava mesmo contando que Ielisavieta Prokófievna talvez se lembrasse de que eu lhe havia escrito. Há pouco, quando eu estava lá fora à espera do senhor, seu criado desconfiou de que eu tivesse vindo para cá pedir por causa de minha pobreza; isso eu percebi, mas o senhor deve ter instruções rigorosas a esse respeito; no entanto, palavra, não vim por isso mas apenas para fazer amizade com as pessoas, palavra. Só que acho que o incomodei um pouco, e isso me preocupa.
+
+— Veja só, príncipe—disse o general com um sorriso alegre—,se o senhor for mesmo o que parece, acho que será até agradável travar conhecimento com o senhor; só que, veja, eu sou um homem ocupado, e agora mesmo vou tornar a me sentar para examinar e assinar umas coisas, depois vou despachar com sua Alteza o príncipe, logo após o serviço, de sorte que, mesmo que eu fique feliz com a companhia das pessoas... isto é, boas... no entanto... Aliás, estou tão convencido de que o senhor tem uma educação magnífica, de que... No entanto, quantos anos o senhor tem, príncipe?
+
+— Vinte e seis.
+
+— Ah! Eu pensava que fosse bem menos.
+
+— É verdade, dizem que o meu rosto aparenta menos idade do que tenho. Mas logo vou entender e aprender a não atrapalhá-lo, porque eu mesmo detesto atrapalhar... Enfim, tenho a impressão de que somos pessoas muito diferentes na aparência... pelas muitas circunstâncias de que, entre nós, é possível, não pode haver muitos pontos em comum, no entanto, sabe, eu mesmo não acredito nessa última ideia, porque com muita frequência apenas parece que não há pontos em comum, no entanto eles existem muito... é por causa da indolência humana que as pessoas se classificam umas às outras a olho e não conseguem chegar a nada... Mas, pensando bem, eu talvez tenha começado de um jeito chato, não? É como se o senhor...
+
+— Duas palavras: o senhor tem ao menos alguns bens? Ou, talvez, tem a intenção de assumir alguma ocupação? Desculpe o meu jeito...
+
+— Ora, eu aprecio muito e compreendo a sua pergunta. Por enquanto eu não tenho quaisquer bens e nenhuma ocupação também por enquanto, mas bem que precisaria. Quanto ao dinheiro, o que eu tinha até agora era alheio, me foi dado por Schneider, meu professor, com quem eu estava me tratando e estudando na Suíça, e me deu a quantia certa para a viagem, de sorte que agora, por exemplo, tudo o que me resta são alguns copeques. É verdade que tenho uma questão, e preciso de um conselho, porém...
+
+— Diga-me, de que o senhor pretende viver por ora e quais eram as suas intenções?—interrompeu o general.
+
+— Gostaria de trabalhar com alguma coisa.
+
+— Ah, sim, o senhor é um filósofo; mas, pensando bem... o senhor se acha com talento, com aptidões, ao menos algumas, isto é, daquelas que dão o pão de cada dia? Desculpe mais uma vez...
+
+— Oh, não precisa se desculpar. Não, acho que não tenho nenhum talento, nem aptidões especiais; é até o contrário, porque sou um homem doente e não estudei corretamente. Quanto ao pão, parece-me...
+
+O general tornou a interromper e tornou a interrogar. O príncipe voltou a contar tudo o que já havia contado. Verificou-se que o general ouvira falar do falecido Pavlischov e até o conhecera pessoalmente. Por que Pavlischov se interessara por sua educação o próprio príncipe não conseguiu explicar—pensando bem, pode ter sido por causa da velha amizade com o falecido pai dele. O príncipe ficara sem os pais ainda criancinha, vivera a vida toda e crescera pelas aldeias, uma vez que sua saúde exigia o ar do campo. Pavlischov o confiou a umas fazendeiras velhas, parentas suas; a princípio contrataram para ele uma preceptora, depois um preceptor; ele, aliás, anunciou que, mesmo se lembrando de tudo, ainda assim pouco conseguia explicar satisfatoriamente porque não se dava conta de muita coisa. As frequentes crises de sua doença fizeram dele um idiota quase completo (foi “idiota” mesmo que o príncipe disse). Por último, contou que Pavlischov se encontrara certa vez em Berlim com o professor Schneider, suíço, que se dedica precisamente a essas doenças, possui um estabelecimento na Suíça, no cantão de Wally, trata por seu método especial com água fria, ginástica, trata da idiotice e da loucura, ao mesmo tempo leciona e se dedica em geral ao desenvolvimento intelectual; que Pavlischov o havia enviado para tratar-se com ele na Suíça uns cinco anos antes, e o próprio havia morrido há dois anos, de repente, sem deixar deliberações; que Schneider o sustentara e tratara dele por mais dois anos; que ele não o havia curado mas o ajudara muito e que, por fim, pela própria vontade dele e em função de uma circunstância surgida, agora o enviava para a Rússia.
+
+O general ficou muito admirado.
+
+— E o senhor não tem ninguém, terminantemente ninguém na Rússia?—perguntou ele.
+
+— Hoje ninguém, mas tenho esperança... de mais a mais, recebi uma carta...
+
+— Ao menos—interrompeu o general sem ter ouvido sobre a carta—,o senhor aprendeu alguma coisa, e sua doença não lhe impede de ocupar um emprego qualquer, por exemplo, um emprego fácil em algum serviço?
+
+— Oh, certamente não impede. E quanto ao emprego, eu até o desejaria muito, porque eu mesmo preciso ver de que sou capaz. Estudei durante todos os quatro anos e de modo permanente, ainda que de forma não inteiramente regular, mas assim, assim, pelo sistema especial dele, e nesse período consegui ler muitos livros russos.
+
+— Livros russos? Então sabe ler e consegue escrever corretamente?
+
+— Oh, muito.
+
+— Ótimo; e a letra?
+
+— A letra é magnífica. Eis aí onde, é de crer, eu tenho talento; nisso eu sou simplesmente um calígrafo. Deixe que eu escreva agora mesmo alguma coisa para teste—disse o príncipe com entusiasmo.
+
+— Faça esse obséquio. E isso é até preciso... Estou gostando dessa sua disposição, príncipe, o senhor, palavra, é muito gentil.
+
+— O senhor tem uns artigos para escrita tão magníficos, e quanto lápis, quanta pena, que papel encorpado, esplêndido... E que excelente gabinete! Veja essa paisagem, eu a conheço; é uma paisagem da Suíça. Estou certo de que o pintor pintou ao natural, e estou seguro de já vi esse lugar: fica no cantão de Uri...
+
+— É muito possível, embora isso tenha sido comprado aqui. Gánia, dê papel ao príncipe; aqui tem penas e papel, olhe, fique nessa mesinha, por favor. O que é isso?—dirigiu-se o general a Gánia, que nesse ínterim tirou da pasta e lhe entregou uma fotografia em formato grande.—Bah! Nastácia Filíppovna! Foi ela mesma, ela mesma que te mandou, em pessoa?—perguntou animadamente e com grande curiosidade a Gánia.
+
+— Deu-me agora mesmo, quando estive lá para felicitá-la. Eu já vinha pedindo há muito tempo. Não sei se não terá sido uma insinuação da parte dela por eu mesmo ter chegado lá de mãos abanando, sem presente, em um dia como esse—acrescentou Gánia, rindo de um jeito desagradável.
+
+— Isso, não—interrompeu convicto o general—,e veja só que maneira de pensar essa tua! Iria lá ela insinuar... e além do mais não é nem um pouco interesseira. De mais a mais, com que tu irias presenteá-la: porque aí precisarias de milhares de rublos! Por acaso irias lhe dar um retrato? A propósito, ela ainda não te pediu um retrato?
+
+— Não, ainda não pediu; talvez nunca peça. O senhor, Ivan Fiódorovitch, está lembrado, é claro, da noite de hoje, não? Porque o senhor é dos expressamente convidados.
+
+— Estou, estou lembrado, é claro, e vou comparecer. Pudera, o dia do aniversário, vinte e cinco anos! Hum!... Sabes, Gánia, vou te fazer uma revelação, que jeito, prepara-te. Ela prometeu a Afanassi Ivánovitch e a mim que hoje à noite, em sua casa, dará a última palavra: ser ou não ser! Portanto, abre o olho, vê lá.
+
+Gánia ficou subitamente confuso, a ponto de até empalidecer um pouco.
+
+— Ela disse isso com certeza?—perguntou ele, e sua voz pareceu tremer.
+
+— Anteontem deu a palavra. Nós dois importunamos tanto que acabamos por forçá-la. Só que pediu para não te dizer por enquanto.
+
+O general examinava Gánia fixamente; pelo visto não estava gostando do seu embaraço.
+
+— Lembre-se, Ivan Fiódorovitch—disse Gánia de modo inquieto e vacilante—,de que ela me deu plena liberdade de decidir enquanto ela mesma não resolver a questão, e mesmo depois disso minha palavra ainda continuará comigo...
+
+— Então será que tu... então será que tu...—o general ficou subitamente assustado.
+
+— Eu não fiz nada.
+
+— Ora, o que estás querendo fazer conosco?
+
+— Acontece que eu não desisto. Pode ser que eu não tenha me expressado direito...
+
+— Pudera tu desistires!—pronunciou com despeito o general, sem desejar sequer conter o despeito.—A questão aí, meu caro, não está no fato de que tu não abres mão, mas em tua disposição, no prazer, na alegria com que irás receber as palavras dela... Como andam as coisas em tua casa?
+
+— Que importa a minha casa? Em casa tudo está conforme a minha vontade, só meu pai, como sempre, continua com as suas bobagens, mas ele já virou mesmo um completo bagunceiro; eu já nem falo mais com ele, no entanto o mantenho sob meu cerco, e se não fosse minha mãe já lhe teria mostrado a porta da rua. Minha mãe não para de chorar, é claro; minha irmã fica furiosa, por fim eu disse francamente a eles que sou dono do meu destino e desejo que em casa me... obedeçam. Pelo menos minha irmã destacou tudo isso com todas as letras perante minha mãe.
+
+— Mas eu, meu caro, continuo sem atinar—observou o general com ar meditativo, levantando um pouco os ombros e abrindo de leve os braços.—Nina Alieksándrovna, quando andou por aqui há poucos dias, estás lembrado? Também estava cheia de queixumes e não me toques; “o que a senhora tem?”—pergunto. Quer dizer que para elas isso seria uma desonra. Que desonra pode haver aí, dá licença de perguntar? Quem pode censurar Nastácia Filíppovna por alguma coisa ou apontar algo contra ela? Será porque ela andou com Totski? Só que isso é uma grande besteira, sobretudo em certas circunstâncias! “O senhor, diz ela, não vai permitir o acesso dela às suas filhas, vai?” Que coisa! Ora essa! Ai, ai, ai, Nina Alieksándrovna! Como não entender isso, como não entender isso...
+
+— E a sua situação?—sugeriu Gánia ao embaraçado general.—Ela entende; não fique zangado com ela. Aliás, na mesma ocasião eu passei um sabão nelas para que não metam o bedelho em assuntos alheios. E mesmo assim, a única coisa que está segurando a situação lá em casa é o fato de que a última palavra ainda não foi dita, mas a tempestade vai desabar. Se hoje for dita a última palavra, então tudo se revelará.
+
+O príncipe ouvia toda essa conversa em um canto, ocupado com o seu teste de caligrafia. Terminou, foi à escrivaninha e entregou a folha de papel.
+
+— Então esta é Nastácia Filíppovna?—proferiu ele, depois de lançar ao retrato um olhar atento e curioso.—É surpreendentemente bela!—acrescentou no mesmo instante, com entusiasmo. No retrato havia uma mulher de uma beleza realmente incomum. Havia sido fotografada em um vestido de seda preta, de um feitio sumamente simples e gracioso; cabelos pelo visto de cor tirante a um ruivo escuro, arrumados à moda caseira, com simplicidade; olhos escuros, fundos, fronte pensativa; rosto de expressão apaixonada e com um quê de arrogante. Era de rosto um pouco magro, talvez até pálida... Gánia e o general olharam surpresos para o príncipe.
+
+— Como, Nastácia Filíppovna? Por acaso o senhor também já conhece Nastácia Filíppovna?—perguntou o general.
+
+— Sim; faz apenas um dia que estou na Rússia, mas já conheço essa beldade—respondeu o príncipe, e no mesmo instante narrou o seu encontro com Rogójin e transmitiu toda a história contada por ele.
+
+— Ainda mais essa novidade!—tornou a inquietar-se o general, que ouvira a história com extrema atenção e lançou a Gánia um olhar escrutador.
+
+— É provável que só tenha contado indecência—resmungou Gánia também um tanto perturbado—,o filhote do comerciante vive farreando. Já ouvi falar alguma coisa a respeito dele.
+
+— E eu também ouvi, meu caro—secundou o general.—Naquela ocasião, depois dos brincos, Nastácia Filíppovna repetiu toda a anedota. Só que agora a história já é outra. Agora é possível que realmente esteja em jogo um milhão e... paixão, uma paixão indecente, admitamos, mas ainda assim cheira a paixão, e olhe que se sabe do que esses senhores são capazes em estado de total embriaguez! Hum!... Não terão feito piada com alguém?—concluiu pensativo o general.
+
+— O senhor está com receio desse um milhão?—sorriu largo Gánia.
+
+— E tu evidentemente não!?
+
+— O que o senhor achou daquele homem, príncipe—Gánia se dirigiu subitamente a ele—,é alguém sério ou apenas um desordeiro? Qual é sua opinião pessoal?
+
+Em Gánia havia qualquer coisa de especial quando ele fez essa pergunta. Era como se alguma ideia nova e especial lhe iluminasse o cérebro e brilhasse nos olhos. O general, que estava sincera e candidamente preocupado, também olhou de esguelha para o príncipe, mas como quem não espera muito de sua resposta.
+
+— Não sei como lhe dizer—respondeu o príncipe—,eu apenas achei que havia nele muita paixão, e até mesmo alguma paixão doentia. Além do mais, ele mesmo ainda parecia inteiramente enfermo. É muito possível que já nos seus primeiros dias em Petersburgo ele volte a adoecer, principalmente se cair na farra.
+
+— Foi isso? Foi isso que o senhor achou?—agarrou-se o general a essa ideia.
+
+— Sim, achei.
+
+— E, não obstante, anedotas desse tipo podem ter acontecido não só há alguns dias mas inclusive anteontem, hoje mesmo pode acontecer alguma coisa—riu Gánia para o general.
+
+— Hum!... É claro... É possível, e então tudo vai ser do jeito que ela decidir—disse o general.
+
+— Mas o senhor sabe como às vezes ela é.
+
+— Ou seja, como é ela?—tornou a exclamar o general, que chegara à suprema perturbação.—Escuta, Gánia, talvez hoje seja o caso de tu não a contrariares muito e procura, sabes como é, ser... numa palavra, ser agradável... Hum!... Por que estás torcendo a boca desse jeito? Escuta, Gavrila Ardaliónitch, a propósito, vem até muito a propósito te dizer isso agora: por que nós vamos nos bater? Tu entendes que no tocante ao meu proveito próprio, que está aqui à vista, eu já estou garantido há muito tempo; de uma forma ou de outra vou resolver a coisa de acordo com o meu proveito. Totski tomou uma decisão inabalável, logo, eu também estou absolutamente seguro. É por isso que se neste momento eu desejo alguma coisa é unicamente o teu proveito. Julga tu mesmo; será que não confias em mim? Ademais és uma pessoa... uma pessoa... em suma, uma pessoa inteligente, e eu contava contigo... mas nesse caso isso, isso... isso...
+
+— Isso é o mais importante—completou Gánia, mais uma vez ajudando o embaraçado general e torcendo os lábios com um sorriso ultravenenoso, que ele já não queria esconder. Fitava diretamente os olhos do general com seu olhar inflamado, como se até quisesse que o outro lesse em seu olhar todo o seu pensamento. O general enrubesceu e teve um acesso de cólera.
+
+— Pois é, a inteligência é o mais importante!—fez coro o general, olhando com severidade para Gánia.—Mas também és uma pessoa engraçada, Gavrila Ardaliónitch (Variação íntima do sobrenome Ardaliónovitch. (N. do T.))! Ora, como estou observando, tu estás deveras contente com esse comerciantezinho como uma saída para ti. Só que neste caso seria necessário usar a inteligência desde o início; justo aí é necessário entender e... e agir de ambas as partes de forma honesta e franca, se não... prevenir de antemão para evitar comprometer os outros, ainda mais porque houve bastante tempo para isso e esse tempo ainda continua bastante (o general ergueu as sobrancelhas num gesto significativo), mesmo considerando que só restam algumas horas... Entendeste? Entendeste? Tu realmente queres ou não queres? Se não queres, diz, tem a bondade. Ninguém o (o general mistura os pronomes de segunda e terceira pessoa do singular. (N. do T.)) está segurando, Gavrila Ardaliónitch, ninguém o está arrastando à força para uma armadilha, se é que o senhor está vendo nisso uma armadilha.
+
+— Eu quero—Gánia proferiu a meia-voz mas com firmeza, baixou a vista e fez um silêncio lúgubre.
+
+O general ficou satisfeito. Excitara-se, mas já se via que estava arrependido, que havia ido longe. Voltou-se de repente para o príncipe, e pelo seu rosto pareceu passar o pensamento inquietante de que o príncipe estava ali e ouvira tudo. Mas a tranquilidade lhe veio num ai: com um simples olhar para o príncipe podia ficar plenamente tranquilo.
+
+— Vejam só!—exclamou o general olhando para o modelo de caligrafia apresentado pelo príncipe.—Isso é que é modelo de caligrafia! E de uma caligrafia rara! Olha só, Gánia, que talento!
+
+Em uma grossa folha de vélin (Pergaminho de couro de bezerro (em francês). (N. do T.)), o príncipe havia escrito em caracteres russos medievais a frase:
+
+ 
+
+“O humilde igúmeno (Superior de convento. (N. do T.)) Pafnuti (Trata-se do fundador da ermida superior no rio Viga (século XIV). (N. da E.)) subscreveu.”
+
+ 
+
+— Esta aqui—esclareceu o príncipe com supremo prazer e inspiração—é a própria assinatura do igúmeno Pafnuti a partir de uma cópia do século XIV. Eles, todos esses nossos velhos igúmenos e metropolitanos, tinham uma letra magnífica, e com que gosto às vezes se assinavam, com que empenho! Será possível que o senhor não tenha ao menos uma edição de Pogódin, general (Tem-se em vista o álbum “Modelos de escrita russo-eslava antiga”, cadernos 1-2, editado por M. P. Pogódin (Moscou, 1840-1841), no qual estão representados 44 modelos de caracteres de manuscritos (do século IX ao XVIII). (N. da E.))? Além disso, veja o que eu escrevi com outros caracteres: são caracteres franceses do século passado, redondos e maiúsculos, umas letras diferentes que até se escreviam de maneira diferente, caracteres grosseiros, caracteres dos escrivães públicos, copiados de modelos (eu tinha um deles)—convenha o senhor que não são desprovidos de mérito. Observe esse a e esse d arredondados. Eu transferi o caráter francês para as letras russas, o que é muito difícil, mas deu certo. Veja mais esses caracteres belos e originais, veja esta frase: “O zelo vence tudo” (Essas palavras foram impressas por ordem de Nicolau I, em 1838, em uma medalha em homenagem ao conde P. A. Klainmichel (1793-1869) depois da reconstrução do Palácio de Inverno por ele dirigida. No contexto do episódio acima, a sentença serve para caracterizar o general Iepántchin e ilustra a perspicácia de Míchkin (observe-se, a propósito, que Klainmichel era general de campo). (N. da E.)). É letra russa, letra de escrivão, ou, se quiser, de escrivão militar. É assim que se lavra papel oficial endereçado a uma pessoa importante, também com caracteres redondos, magníficos, em negrito, em negro, mas com um gosto notável. Um calígrafo não permitiria esses traços de pena, ou melhor, essas tentativas de lavrar nossa própria assinatura com traços de pena, por exemplo, esses semirrabiscos inacabados—observe—,só que no conjunto, veja, isso forma um caráter e, palavra, aqui aparece toda a alma da escrituração militar: a gente tem vontade de soltar-se, o talento pede passagem, mas a gola militar está fortemente presa a um gancho, a disciplina aparece até na caligrafia, uma maravilha! Não faz muito um modelo desse tipo me impressionou, eu o encontrei por acaso, e ainda por cima onde? Na Suíça! Bem, veja, estes aqui são caracteres simples, comuns e os mais genuinamente ingleses: a graça não poderia ir além, aqui tudo é beleza, miçanga, pérola; é o consumado; mas veja também esta variação, e novamente francesa, eu a copiei de um caixeiro-viajante (No original, Dostoiévski usa o termo commis voyageur russificado. (N. do T.)) francês: são os mesmos caracteres ingleses, porém a linha em negrito está um pinguinho mais escura e mais espessa que os caracteres ingleses, e de repente a proporção de luz foi até violada, observe também: o oval foi modificado, está um pinguinho mais arredondado, e para completar permitiu-se um traço de pena, e traço de pena é coisa sumamente perigosa! O traço de pena exige um gosto fora do comum; mas se dá certo, se a gente acha a proporção, então esses caracteres não se comparam a nada, e de tal forma que a gente pode até se apaixonar por eles.
+
+— Vejam só! Em que pormenores o senhor entra—ria o general—,e o senhor, meu caro, não é simplesmente um calígrafo, o senhor, meu caro, é um artista, não é, Gánia?
+
+— É admirável—disse Gánia—,e inclusive feito com a consciência do próprio destino—acrescentou com um riso de galhofa.
+
+— Ria, ria, mas acontece que nisso aqui há uma carreira—disse o general.—O senhor sabe, príncipe, para que personalidade nós agora vamos lhe dar papéis para escrever? De saída, o senhor pode francamente embolsar trinta e cinco rublos por mês. No entanto já é uma e meia (No original está “já são uma e meia”; em casos semelhantes, foi feita a correção gramatical. (N. do R.))—concluiu ele, olhando para o relógio—,vamos ao que interessa, príncipe, porque preciso apressar-me, e hoje nós dois talvez não nos vejamos mais. Sente-se por um instante; eu já lhe expliquei que não estou em condição de recebê-lo com muita frequência; no entanto desejo sinceramente lhe dar um pinguinho de ajuda, um pinguinho mesmo, isto é, na forma do indispensável, depois já será como o senhor quiser. Vou procurar um empreguinho na chancelaria para o senhor, não é uma coisa tensa mas exige esmero. Agora, quanto ao mais: na casa, isto é, na família de Gavrila Ardaliónitch Ívolguin, este meu jovem amigo aqui que quero que o senhor conheça, a mãezinha e a irmãzinha desocuparam dois ou três quartos mobiliados e os estão alugando a inquilinos portadores de referências excelentes, com cama e mesa. Estou certo de que minhas referências Nina Alieksándrovna aceitará. Para o senhor, príncipe, isso é até mais que um tesouro, primeiro porque o senhor não estará só, mas, por assim dizer, no seio de uma família, e, em meu ponto de vista, não deve logo aos primeiros passos ficar só em uma capital como Petersburgo. Nina Alieksándrovna, a mãezinha, e Varvara Ardaliónovna, a irmãzinha de Gavrila Ardaliónitch, são damas de minha extrema consideração. Nina Alieksándrovna é esposa de Ardalion Alieksándrovitch, general reformado, meu ex-colega no início do serviço, mas com quem certas circunstâncias me levaram a interromper as relações, o que, por outro lado, não me impede de lhe ter consideração, de certo ponto de vista. Toda essa explicação, príncipe, é para que o senhor compreenda que, por assim dizer, eu o estou recomendando pessoalmente, portanto, com isso respondo de certo modo pelo senhor. O preço do aluguel é o mais módico e, espero, seus vencimentos logo serão de todo suficientes para isso. É verdade que uma pessoa precisa também de um bolsinho, pelo menos algum, mas não se zangue, príncipe, se eu lhe observar que seria melhor o senhor evitar esse bolsinho ou qualquer dinheiro no bolso. Estou falando isso pela opinião que tenho sobre o senhor. Mas como neste momento sua carteira está completamente vazia, para começar permita que eu lhe ofereça esses vinte e cinco rublos. É claro que haveremos de nos entender, e se o senhor for a pessoa tão sincera e afetuosa que parece ser, então entre nós não poderá haver dificuldades. Se estou tão interessado no senhor é porque tenho até um certo objetivo em relação ao senhor; posteriormente saberá de tudo. Como vê, estou sendo totalmente simples com o senhor; espero, Gánia, que não tenhas nada contra hospedar o príncipe em seu apartamento, não é?
+
+— Oh, ao contrário! Mamãe também vai ter um grande prazer...—confirmou Gánia em tom polido e atencioso.
+
+— No apartamento de vocês parece que só tem mais um quarto alugado. Aquele, como se chama, Fierd... Fier...
+
+— Fierdischenko.
+
+— Pois é; não gosto desse seu Fierdischenko: um palhaço sebento. Não compreendo por que Nastácia Filíppovna o incentiva tanto. E ele é parente dela de verdade?
+
+— Oh, não, é tudo brincadeira! Não tem nem cheiro de parente.
+
+— Então o diabo que o carregue! Como é, príncipe, está satisfeito ou não?
+
+— E lhe sou grato, general, o senhor agiu em relação a mim como um homem de extrema bondade, ainda mais porque eu nem cheguei a pedir; não estou dizendo isso por orgulho; eu realmente não sabia onde encostar a cabeça. É verdade que há pouco Rogójin me convidou para sua casa.
+
+— Rogójin? Ah, não; eu o aconselharia como pai ou, se preferir, como amigo a esquecer o senhor Rogójin. E ainda o aconselharia a agarrar-se à família em que vier ingressar.
+
+— Se o senhor é tão bondoso—articulou o príncipe—,eu estou com essa questão aqui. Fui notificado...
+
+— Não, desculpe—interrompeu o general—,agora não disponho de mais nem um minuto. Neste instante vou falar sobre o senhor com Lisavieta Prokófievna: se ela quiser recebê-lo agora mesmo (e neste aspecto vou me empenhar para recomendá-lo), eu o aconselho a aproveitar a ocasião e cair no agrado dela, porque Lisavieta Prokófievna pode lhe vir a ser muito útil; vocês têm o mesmo sobrenome. Se ela não quiser, não se ofenda, deixe para uma outra ocasião. Quanto a ti, Gánia, dá uma olhada nestas contas, há pouco eu e Fiedossiêiev quebramos a cabeça. Seria bom não esquecer de incluí-las...
+
+O general saiu, e o príncipe acabou não conseguindo falar do seu problema, depois de tentar esboçá-lo pela quarta vez. Gánia acendeu um cigarro e ofereceu outro ao príncipe; este o aceitou mas não entabulou conversa para não atrapalhar, e ficou a observar o gabinete; no entanto, Gánia mal olhou para a folha de papel com os números indicada pelo general. Estava alheio; o sorriso, o olhar, e o ar contemplativo de Gánia ficaram ainda mais pesados na visão do príncipe, quando os dois ficaram a sós. De repente ele se chegou ao príncipe, que no momento estava debruçado sobre o retrato de Nastácia Filíppovna e o examinava.
+
+— Então, príncipe, esta mulher o agrada?—perguntou-lhe subitamente, lançando sobre ele um olhar penetrante. Era mesmo como se estivesse com alguma intenção extraordinária.
+
+— É um rosto admirável!—respondeu o príncipe.—E estou certo de que seu destino não é dos comuns. O rosto é alegre, e não obstante ela sofreu terrivelmente, não? É o que dizem os olhos, veja esses dois ossinhos, esses dois pontos sob os olhos no começo das faces. É um rosto altivo, terrivelmente altivo, só que eu não sei se ela é bondosa ou não. Ah, mas se fosse! Tudo estaria salvo.
+
+— E o senhor se casaria com uma mulher dessas?—continuou Gánia, sem desviar dele o olhar inflamado.
+
+— Eu não posso me casar com ninguém, não tenho saúde—disse o príncipe.
+
+— E Rogójin, casaria? O que o senhor acha?
+
+— Ora se casaria, acho que amanhã mesmo; casaria, e uma semana depois possivelmente a degolaria.
+
+Mal o príncipe pronunciou essas palavras, Gánia estremeceu de tal forma que o príncipe por pouco não deu um grito.
+
+— O que o senhor tem?—pronunciou ele, agarrando-lhe as mãos.
+
+— Alteza! Sua excelência pede que vá à outra excelência—anunciou um criado que apareceu à porta. O príncipe o seguiu.
+
+
+

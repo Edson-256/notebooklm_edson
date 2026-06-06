@@ -1,0 +1,7 @@
+#### \
+
+“Em verdade, em verdade vos digo: Se o grão de trigo, caindo na terra, não morrer, fica ele só; mas se morrer, produz muito fruto.”
+
+\
+
+João, 12, 24

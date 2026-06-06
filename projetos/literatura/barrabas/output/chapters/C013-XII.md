@@ -1,0 +1,168 @@
+# XII
+
+Sobre o destino de Barrabás, por onde andou e o que fez desde então, enquanto ainda estava na força da idade, nada se sabe ao certo. Há quem acredite que, após seu desaparecimento, ele se retirou e foi viver em completa solidão no deserto da Judeia ou do Sinai, entregue a meditação sobre o mundo de Deus e dos homens. Outros afirmam ter-se ele unido aos samaritanos, que detestavam o Templo de Jerusalém, seus sacerdotes e sábios versados nas escrituras, e ter sido visto, nas solenidades da Páscoa, na montanha sagrada, ao sacrificar-se a ovelha, esperando de joelhos pelo nascer do sol sobre o Gerizim. Outros, ainda, consideram um fato comprovado ter ele simplesmente chefiado, durante a maior parte do tempo, uma quadrilha de bandidos que operava nos contrafortes do Líbano, na estrada da Síria, tratando com a mesma crueldade os judeus e cristãos que lhe caíam às garras.
+
+Como ficou dito, não se pode saber o que há de verdadeiro em tudo isso. Sabe-se, porém, com absoluta certeza que Barrabás, quando andava pelos cinquenta anos, chegou como escravo à casa do governador romano de Paphos, após ter passado vários anos nas minas de cobre de Chipre, administradas por aquela autoridade. As causas que determinaram sua prisão e condenação às minas, o mais tremendo castigo que se possa imaginar, não são conhecidas. O extraordinário é que, tendo descido àquele inferno, pôde ainda retornar à vida, embora como escravo. Na verdade, só o pôde graças a circunstâncias excepcionais.
+
+Era então um homem grisalho, com profundos sulcos no rosto, mas singularmente bem conservado, depois de passar por tanta coisa. Recuperou, com rapidez surpreendente, grande parte de suas forças. Ao deixar as minas parecia um cadáver — o corpo descarnado, as órbitas sem luz lembrando poços vazios. A claridade dos olhos foi voltando aos poucos, mas sua expressão, antes inquieta, era humilde e tímida como a de um cão manso. Só muito raramente brilhava em seu olhar o ódio que a mãe, ao pô-lo no mundo, nutrira contra toda a criação. A cicatriz sob o olho, descorada durante longo tempo, punha-lhe de novo, na face, uma estria sanguínea que se perdia na barba grisalha.
+
+Se não fosse de têmpera rija, não teria sobrevivido. Devia agradecer isso a Eliahu e à mulher moabita, que lhe tinham dado a vida uma segunda vez, embora ambos o tivessem detestado ao invés de amá-lo. Também não se haviam amado um ao outro, o que prova quão pouco significa o amor. Mas, nada sabendo da vil união deles, Barrabás também ignorava o que a eles devia.
+
+A casa onde morava, agora, era grande e tinha muitos escravos. Entre estes havia um homem alto, muito magro e desengonçado, um armênio de nome Sahak. Era tão alto que sempre andava um pouco curvado. Seus olhos grandes, ligeiramente salientes e muito abertos, causavam de certo modo a impressão de que o homem estava em estado de exaltação. Seu rosto, que parecia ter sido destruído pelo fogo, e seus cabelos brancos e curtos faziam-no parecer um velho, mas, na realidade, pouco tinha ele passado dos quarenta. Vinha também das minas. Barrabás e Sahak haviam estado juntos durante longos anos e juntos haviam conseguido sair das minas. Sahak, porém, não se restabeleceu como seu companheiro. Conservou-se incrivelmente magro, os cabelos de neve e o rosto (que parecia devastado pelo fogo) marcado com profundos sinais. Dir-se-ia ter passado por algo horrível, que Barrabás, apesar de tudo, não experimentara. E assim fora, de fato.
+
+Os dois, tendo escapado do lugar de onde não se saía com vida, eram objeto da curiosidade dos outros escravos, que muito teriam gostado de os ouvir contar suas aventuras. Mas pouco conseguiam saber acerca do seu passado. Juntos, os dois se mantinham afastados dos outros, embora também entre si não falassem muito, parecendo nada terem em comum. Causavam, entretanto, de certo modo, a impressão de que eram inseparáveis. Era esquisito. Nos momentos de folga e durante o repasto, sentavam-se sempre ao lado um do outro, e, à noite, deitavam-se lado a lado na palha. É que nas minas tinham sido acorrentados juntos.
+
+Ao chegarem às minas, na mesma leva, vinda do continente, tinham sido logo acorrentados um ao outro. Os escravos eram sempre agrilhoados de dois em dois, para trabalharem juntos. Um homem nunca era separado de seu co-prisioneiro, e tais escravos gêmeos tinham tudo em comum, acabando por se conhecerem completamente um ao outro e, às vezes, por se odiarem. Acontecia atirarem-se um sobre o outro, numa fúria selvagem, sem razão alguma, simplesmente por estarem reunidos naquele inferno.
+
+Mas os dois pareciam adaptar-se bem um ao outro e até auxiliar-se mutuamente no sentido de suportarem o suplício a que estavam condenados. Iam bem entre si e podiam conversar para distrair-se um pouco durante o pesado trabalho. Barrabás, pouco comunicativo, gostava de ouvir falar do outro. No começo, não falavam de si mesmos. Pareciam querer evitá-lo; cada um tinha segredos que não queria divulgar. Demorou, por isso, muito tempo, até chegarem a se conhecer melhor. Por acaso, Sahak veio um dia a saber que Barrabás era hebreu, nascido num lugar chamado Jerusalém. Mostrou-se singularmente interessado e pôs-se a fazer perguntas sobre diversas coisas. Dir-se-ia que ele conhecia bem a cidade embora nunca houvesse estado lá. Finalmente, perguntou se Barrabás sabia algo a respeito de um rabi que ali tinha vivido e cumprido sua missão, um grande profeta em quem muita gente acreditava. Barrabás compreendeu de quem se tratava e disse que já ouvira falar nele. Sahak teria gostado de saber mais; Barrabás, porém, respondeu evasivamente que não sabia muita coisa a respeito. Ele mesmo, Barrabás, já o vira alguma vez? Sim, já o tinha visto. Sahak, com certeza, dava muito valor ao fato de Barrabás ter visto o rabi, pois, ao cabo de algum tempo, tornou a perguntar se realmente o tinha visto. Barrabás respondeu que sim, mas sem grande entusiasmo.
+
+Sahak deixou cair a picareta e ficou pasmo, como arrebatado pelo que ouvira. Tudo para ele se tornara tão diferente, mal o podia compreender. O poço da mina tinha outro aspecto, tudo estava transformado, nada era mais como antes. Estava acorrentado a um homem que tinha visto Deus.
+
+Nesse momento, ouviu sibilar atrás de si o azorrague do vigia, que então passava. Encolheu-se todo, como se assim pudesse fugir aos golpes, e pôs-se a brandir com afã a picareta. Quando, finalmente, o algoz se afastou, deixou-o com as costas ensanguentadas e todo o seu grande corpo tremia em consequência das vergastadas. Demorou muito até que pudesse falar outra vez. Depois, pediu a Barrabás que lhe contasse em que circunstâncias vira o rabi. Tinha sido no Templo, no lugar sagrado? Ou quando o profeta falara de seu reinado futuro? Ou em qualquer outra ocasião? Barrabás, a princípio, nada quis revelar. Por fim, respondeu, contra a vontade, que fora no Gólgota.
+
+— Gólgota? Que é isso?
+
+Barrabás explicou-lhe que era o lugar onde se crucificavam os criminosos.
+
+Sahak calou-se e baixou os olhos. Contentou-se em murmurar, depois:
+
+— Ah... Então foi no momento em que…
+
+Foi assim que falaram pela primeira vez no rabi crucificado — o que, daí por diante, iriam fazer muitas vezes.
+
+Sahak queria muito ouvir falar a respeito, sobretudo nas palavras sagradas que o profeta pronunciara e nos grandes milagres que havia realizado. Sabia que o tinham crucificado, certamente, mas teria preferido ouvir Barrabás falar de outra coisa.
+
+Gólgota... Gólgota… Nome tão esquisito, estranho, relacionado com algo que lhe era tão familiar, pois já ouvira muitas vezes falar que o Redentor fora crucificado, e igualmente do grande milagre que então se operara. Perguntou se Barrabás tinha visto o véu do Templo depois de fendido. A montanha também se fendera; ele o devia ter visto, pois se encontrava lá na ocasião.
+
+Barrabás respondeu que tudo aquilo poderia ter acontecido, mas que ele nada vira.
+
+— E os mortos que se tinham erguido dos túmulos? Que tinham saído do reino da morte para dar testemunho do Senhor, de seu poder e sua glória?
+
+— Sim... — disse Barrabás.
+
+— E as trevas que tinham invadido toda a terra quando ele entregava o espírito?
+
+Aí estava uma coisa que Barrabás tinha visto. Aquela escuridão, sim...
+
+Sahak parecia muito feliz ao ouvi-lo, embora sentisse, ao mesmo tempo, certa inquietação ao pensar no lugar do suplício e julgasse ver em sua frente a montanha fendida e a cruz com o filho de Deus nela pregado para o sacrifício. Naturalmente, o Redentor tivera de sofrer e morrer; assim era necessário para que ele nos pudesse salvar. Era assim, embora não fosse nada fácil de compreender. Sahak preferia imaginá-lo em seu esplendor, em seu próprio reino, onde tudo era tão diferente da terra. Lamentou que Barrabás, companheiro de corrente, só o tivesse visto no Gólgota, e em nenhuma outra vez. Por que o tinha visto justamente lá?
+
+— Que o tenhas visto exatamente naquele momento — disse ele a Barrabás — é bem estranho. Por que te encontravas lá?
+
+Barrabás nada respondeu.
+
+Certa vez, Sahak perguntou-lhe se, de fato, não o vira em outro lugar. Barrabás custou um pouco a responder; depois disse que tinha estado presente na corte do palácio onde o rabi fora julgado, e contou como tudo se passara. Descreveu também a estranha auréola de luz que parecia envolvê-lo. Notando o quanto Sahak ficara encantado ao ouvir falar da auréola, não mencionou que seus olhos deviam estar ofuscados pela luz solar, por ter saído ele diretamente de um calabouço escuro. Por que mencioná-lo? Por que privar o outro daquela satisfação, se isso não causaria benefício a ninguém? O simples gesto de omitir a explicação do prodígio causara a Sahak tanta felicidade que ele sempre queria ouvir de novo a narração. Seu rosto ficou radiante e Barrabás sentiu também, dentro de si, um pouco da ventura do outro, como se eles a repartissem. Cada vez que Sahak o pedia, Barrabás falava acerca de sua maravilhosa visão naquele dia distante, e parecia revê-la muito nitidamente.
+
+Algum tempo depois, contou a Sahak que também assistira à ressurreição do Mestre. Não o tinha visto propriamente ressuscitar, isso ninguém tinha visto. Vira, apenas, um anjo precipitar-se das alturas, o braço estendido como ponta de lança e o manto ondulando como chamas. A ponta de lança, penetrando entre a rocha e a laje que fechava o sepulcro, tinha-as separado. Verificara, então, que o sepulcro estava vazio…
+
+Sahak escutava maravilhado, seus grandes e crédulos olhos fixados em Barrabás. Seria possível? Seria realmente possível que aquele pobre e sujo escravo vira tudo aquilo? Estivera presente quando se realizava o maior de todos os milagres? Quem era ele, então? E como ele mesmo, Sahak, poderia ter merecido tal graça, ser acorrentado a alguém que assistira a tudo aquilo e que tinha estado tão perto do Senhor?
+
+Radiante e transportado com o que acabava de ouvir, compreendeu que devia confiar o seu segredo ao companheiro, pois não podia mais retê-lo para si. Cauteloso, olhou em volta, para certificar-se de que não vinha ninguém, e disse baixinho a Barrabás que tinha algo para lhe mostrar. Levou-o até perto do lampião a óleo que ardia sobre um rebordo da parede de rocha, e, à fraca claridade da bruxuleante chama, mostrou-lhe a placa de escravo que trazia pendurada ao pescoço. Todos os escravos tinham a sua placa, na qual estava gravada a marca do dono de cada um deles. Os escravos das minas traziam a marca do Estado Romano, pois a este pertenciam. No reverso da placa de Sahak, porém, ambos viram uns estranhos sinais místicos, indecifráveis para eles, mas que, explicou Sahak, significavam o nome do crucificado, do Redentor, do próprio filho de Deus. Barrabás olhou admirado para os curiosos entalhes, que pareciam ter mágico poder, e Sahak lhe disse, em voz baixa, que aquilo queria dizer que ele pertencia ao filho de Deus, de quem era escravo. Deixou Barrabás tomar a placa entre as mãos e segurá-la por longo tempo.
+
+Houve um momento em que lhes pareceu ouvir os passos do feitor, mas, vendo que era engano, curvaram-se de novo sobre a inscrição. Sahak contou que um escravo grego a tinha gravado. Era cristão e lhe falara do Salvador e de seu reino que não tardaria a vir; fora quem lhe ensinara a crer. Sahak o tinha encontrado nos fornos de fundição, aos quais ninguém resistia por mais de um ano. O grego nem esse prazo resistira; ao morrer no abrasado inferno das fornalhas, as últimas palavras que Sahak o ouvira murmurar foram estas: “Senhor, não me abandones”. Depois, tinham cortado os pés do escravo para mais facilmente lhe tirarem os ferros, e lhe haviam lançado o corpo ao fogo, como era costume fazer na fundição. Sahak não esperara que sua própria vida terminasse de outro modo. Mas, algum tempo depois, um lote de escravos, entre os quais ele se achava, fora transferido para ali, pois precisavam deles nas minas.
+
+Agora Barrabás sabia que também ele, Sahak, era cristão, era escravo de Deus — concluiu, fixando no companheiro seus olhos leais.
+
+Nos dias que se seguiram, Barrabás permaneceu silencioso e taciturno. Depois perguntou, com voz estranha e titubeante, se Sahak não queria gravar a mesma inscrição na sua placa de escravo.
+
+Sahak gostaria muito de fazê-lo, se fosse capaz. Não conhecia os sinais secretos, mas ia tomar os de sua própria placa como modelo.
+
+Esperaram que o vigia passasse por eles e, à luz mortiça do lampião, Sahak pôs-se a desenhar os sinais o melhor que podia, com uma aguda lasca de pedra. Sua mão, sem experiência, tinha dificuldade em copiar aqueles traços estranhos, mas esforçou-se por reproduzi-los o mais fielmente possível. Interrompiam-se muitas vezes, quando alguém se aproximava, ou quando assim lhes parecia. Finalmente, terminaram o trabalho, e ambos acharam que a semelhança era perfeita. Contemplaram em silêncio as inscrições, os sinais misteriosos que não compreendiam, mas que sabiam significar o nome do crucificado e indicar que a ele pertenciam. Subitamente, ambos caíram de joelhos e dirigiram ardente oração ao seu Senhor, ao Redentor e Deus de todos os oprimidos.
+
+O vigia os viu de longe por estarem embaixo do lampião. Absorvidos em sua prece, não perceberam a aproximação do outro. O carrasco atirou-se com ímpeto sobre eles e quase os matou a chicotadas. Quando, finalmente, o homem se retirou, Sahak caiu prostrado. O algoz volveu imediatamente e, à custa de mais açoitadas, forçou-o a erguer-se. Cambaleando um contra o outro, os dois companheiros retomaram o trabalho.
+
+Era a primeira vez que Barrabás sofria pelo crucificado, por aquele rabi de rosto pálido e peito sem pelos, que fora supliciado em seu lugar.
+
+Assim passavam os anos. Um dia era como o outro, não saberiam distinguir os dias se, à noite, não fossem levados a dormir, em companhia de centenas de outros escravos, derreados e exaustos como eles. Isso os fazia perceber que a noite havia chegado. Nunca saiam da mina. Exangues, como sombras errantes, viviam constantemente, ano após ano, na mesma semiescuridão, nas profundezas daquele reino da morte, guiados pela frouxa luz dos lampiões que tremeluziam de espaço a espaço, e, às vezes, por um fogo de lenha. Pela entrada da mina penetrava tênue réstia de luz solar; de lá se via, muito alto, qualquer coisa que talvez fosse o céu. Mas da terra, do mundo ao qual tinham pertencido antes, nada podiam ver. Pela abertura da mina descia também a comida dos escravos, em cestos e cochos imundos, nos quais eram alimentados como animais.
+
+O grande desgosto de Sahak era que Barrabás nunca mais orava com ele. Depois que pedira para ter o nome do Senhor gravado em sua placa, fizera-o umas poucas vezes, mas acabara deixando-o por completo. Tornara-se cada vez mais esquivo e estranho, impossível de se compreender. Sahak não entendia mais nada; aquela atitude lhe era enigmática. Ele mesmo continuava com suas orações, mas Barrabás, vendo-o orar, virava o rosto como se não o quisesse ver. Costumava, todavia, tomar posição de forma que o protegesse durante suas preces, para o caso de chegar alguém, como se quisesse impedir que o companheiro fosse perturbado em sua oração. Ajudava Sahak a orar, mas ele mesmo não orava.
+
+Por quê? Como explicá-lo? Sahak não tinha a menor ideia. O próprio Barrabás, além do seu modo de proceder, era-lhe um verdadeiro enigma. Chegara a acreditar que o conhecia bem, e que ali, em seu mundo subterrâneo e na condenação comum, se tivessem aproximado muito um do outro, sobretudo nas poucas vezes que tinham orado juntos. E, subitamente, compreendia nada saber a respeito de Barrabás, absolutamente nada, embora a ele estivesse agrilhoado. Às vezes sentia que, de algum modo, aquele homem a seu lado lhe era singularmente estranho.
+
+Quem era ele, afinal?
+
+Continuavam a falar um com o outro, mas não como antes, e Barrabás tinha um jeito todo peculiar de virar o rosto para o lado enquanto conversava. Sahak nunca mais chegara a ver-lhe os olhos. Mas já os vira de todo alguma vez? Pensando melhor nisso, acaso já os vira realmente?
+
+A quem estava ele, afinal, unido por meio de grilhões?
+
+Barrabás nunca mais falara de suas visões. O que isso significava para Sahak, o vácuo que em consequência sentia, não é difícil de imaginar. Ele próprio tinha de idear as visões, colocá-las à sua frente, recordá-las o melhor possível, o que não era nada fácil. Nem era a mesma coisa, nem podia ser. Ele nunca estivera ao lado daquele que era todo amor, nunca se deslumbrara com a auréola de luz que o cercava. Ele nunca tinha visto Deus.
+
+Tinha de contentar-se com a lembrança de algo maravilhoso que vira outrora pelos olhos de Barrabás.
+
+Amava sobretudo a visão da manhã de Páscoa, o anjo chamejante precipitando-se do céu à terra para libertar o Senhor do reino da morte. Vendo nitidamente à sua frente esta imagem, sabia que o Redentor tinha ressuscitado, que vivia, e que logo viria estabelecer o seu reino sobre a terra, tal como tantas vezes prometera. Sahak não o duvidava, estava absolutamente convencido de que aquilo ia acontecer. Então, todos os que definhavam ali, na mina, seriam chamados à luz. O próprio Senhor estaria à entrada para receber os escravos e livrá-los de seus ferros à medida que fossem subindo. E todos entrariam em seu reino.
+
+Sahak ansiava por esse dia. Cada vez que chegava a hora da ração, erguia os olhos para a abertura, a ver se o milagre se realizara. Mas não se via absolutamente nada do mundo lá em cima, não se podia saber o que, possivelmente, se tinha passado. As maiores coisas podiam acontecer lá em cima sem que delas se tivesse a menor ideia. No entanto, se houvesse acontecido, realmente, algo tão importante, se ele de fato já tivesse chegado, os escravos certamente teriam sido retirados da mina. Ele não os iria esquecer, com certeza, não iria esquecer os seus, que mourejavam no reino das sombras.
+
+Certo dia em que Sahak, de joelhos ao lado da parede de rocha, fazia sua oração, aconteceu algo extraordinário. O novo vigia da mina, que viera substituir o antigo algoz, aproximou-se deles por detrás, de maneira que Sahak não o viu nem ouviu. Mas, Barrabás, ao lado do companheiro que orava, sem tomar parte na prece, viu-o na penumbra, e, alvoroçadamente, avisou em voz baixa o companheiro que alguém se aproximava. Sahak abandonou imediatamente a oração e a posição genuflexa, e apressou-se a manejar a picareta. Esperava pelo pior, e suas costas se encolhiam de antemão, como se já sentissem as chicotadas. No entanto, para grande estupefação dos dois homens, não houve castigo algum. O vigia se deteve, mas para perguntar, amavelmente, a Sahak por que estivera de joelhos e o que significava aquilo. Sahak respondeu gaguejando que estivera orando a seu deus.
+
+— Que deus? — perguntou o homem.
+
+Quando Sahak explicou de que deus se tratava, o vigia fez, em silêncio, um sinal com a cabeça, dando a entender que o compreendia. Pôs-se a interrogá-lo sobre o “Salvador” crucificado do qual já ouvira falar, e o assunto, evidentemente, o interessava muito. Era verdade que ele se tinha deixado crucificar? Que tivera a desprezível morte de um escravo? E que, ainda assim, fazia os homens adorá-lo como a um deus? Extraordinário, realmente extraordinário... E por que o chamavam de Salvador? Estranho nome para um deus... Que significava? Ele ia salvar a todos? Salvar nossa alma? Estranho... Por que faria ele isso?
+
+Sahak tentou explicar tudo o melhor que pôde. O homem escutou-o de boa vontade, apesar de não haver muita ordem nem clareza na exposição daquele escravo ignorante. Às vezes meneava a cabeça. Mas não deixou de ouvir atentamente, como se as palavras ingênuas o interessassem de fato. Por fim, disse que existiam muitos deuses, o que era natural, pois deviam mesmo existir. E que era bom oferecer sacrifícios a todos para sentir-se bem seguro.
+
+Sahak respondeu que o crucificado não exigia sacrifício algum. Queria, apenas, que cada um se sacrificasse a si mesmo.
+
+— Sacrificar-se a si mesmo? Que queres dizer com isso?
+
+— Que a gente se sacrifique em sua grande fornalha — disse Sahak.
+
+— Em sua fornalha?
+
+E o vigia sacudia a cabeça.
+
+— És um simples escravo ignorante — continuou — e falas de acordo com tua limitada inteligência. Que ideias esquisitas! Onde foste buscar noções tão absurdas?
+
+— Ouvia-as de um escravo grego — explicou Sahak — que costumava falar assim. Eu mesmo não sei muito bem o que tudo isso quer dizer.
+
+— Não, certamente não o sabes. E ninguém o sabe. Sacrificar-se a si mesmo... Em sua fornalha... em sua fornalha.
+
+E assim, sempre murmurando qualquer coisa que eles não mais puderam entender, o feitor desapareceu no espaço escuro entre os lampiões, como um homem em vias de se perder nas entranhas da terra.
+
+Sahak e Barrabás muito se admiraram desse singular incidente ocorrido em sua existência, tão inesperado que mal conseguiam compreender o que se passara. Como poderia o homem ter-se aproximado a tal ponto deles? Seria realmente um vigia comum? Como procedera daquele modo, interrogando-os acerca do crucificado, do Salvador? Como era possível? Naturalmente, porém, estavam satisfeitos com o que acontecera.
+
+Desde então o vigia se deteve muitas vezes ao passar por eles, para falar com Sahak. Mas nunca se dirigia a Barrabás. Fazia Sahak contar sempre mais acerca de seu Senhor, de sua vida, seus milagres e seu estranho preceito, segundo o qual todos deviam amar uns aos outros. Certa vez, quando Sahak terminou sua prédica, o vigia declarou:
+
+— Estou pensando há muito tempo em acreditar nesse deus. Mas como o poderei? Como me será possível crer em coisas tão estranhas? Como poderei eu, guarda de escravos, adorar um escravo crucificado?
+
+Sahak respondeu que seu Senhor de fato tivera a morte de um escravo, mas que era o próprio Deus, o único Deus. Acreditando-se nele não se podia acreditar em outro.
+
+— O único Deus! E crucificado como um escravo! Que pretensão! Não existir senão um deus, e os homens o terem crucificado!
+
+— Sim — disse Sahak. — É assim.
+
+O homem o encarou com espanto, sem nada responder. Meneando a cabeça, como era costume, continuou o seu caminho e se perdeu na escuridão das galerias.
+
+Seguiram-no com os olhos enquanto ele se afastava. Seu vulto ainda surgiu à claridade mortiça do lampião seguinte, e depois desapareceu.
+
+No entanto, o vigia andava pensando nesse deus desconhecido que se lhe tornava tanto mais incompreensível quanto mais nele ouvia falar. E se, de fato, fosse o único deus? Se fosse mesmo o que se devia adorar e não os outros? Imaginem, se só existisse um único deus poderoso, reinando sobre o céu e a terra, pregando sua doutrina por toda a parte, inclusive naquele mundo subterrâneo? Uma doutrina tão estranha e tão pouco clara! “Amais-vos uns aos outros… Amai-vos uns aos outros…” Quem poderia conceber tal coisa?
+
+Parou em plena sombra, entre dois lampiões, para refletir melhor na solidão. E, de repente, foi iluminado por uma ideia. Ocorreu-lhe, como uma inspiração, o que devia fazer. Devia retirar da mina, onde todos sucumbiam, o escravo que acreditava no deus desconhecido; devia pô-lo em qualquer outro trabalho, lá no alto, ao sol. Não compreendia aquele deus e muito menos sua doutrina, isso lhe era impossível, mas assim mesmo iria agir. Tinha a nítida impressão de que esta era a vontade do deus.
+
+Na primeira ocasião em que subiu ao solo, encontrou-se com o vigia dos escravos que trabalhavam nas terras pertencentes à mina. Este, um camponês típico de grande boca grosseira, ao saber de que se tratava, bem pouco encantado se mostrou com a proposta; não queria escravos da mina. Podia ocupar muito bem alguns homens a mais, principalmente agora, com os trabalhos da primavera, pois os bois, como de costume, não eram em número suficiente para a tração. Mas gente da mina não o tentava. Eram uns homens imprestáveis, não tinham força, e, além disso, os outros escravos não gostavam deles; que tinham a fazer lá em cima?... Deixou-se, entretanto, convencer pelo colega mais idoso, que tinha bastante talento para conseguir sempre o que queria. E este retornou à mina.
+
+No dia seguinte, demorou-se mais do que qualquer outra vez, conversando com Sahak a respeito de seu deus. Disse-lhe, depois, o que tinha feito em seu favor, mandando-o apresentar-se ao guarda à entrada da mina para ser libertado das grilhetas e separado de seu co-prisioneiro. Depois seria levado para cima, para fora da mina, e seu novo chefe o tomaria a seu serviço.
+
+Sahak encarou-o, sem poder compreender o que ouvia. Seria verdade? O vigia lhe respondeu que sim, acrescentando que, provavelmente, a ideia lhe fora inspirada pelo deus de Sahak, cuja vontade devia ser cumprida.
+
+Sahak comprimiu as mãos contra o peito e ficou um momento em silêncio. Depois disse que não queria ser separado de seu companheiro, pois tinham o mesmo deus e a mesma fé.
+
+O vigia olhou muito admirado para Barrabás.
+
+— A mesma fé? Ele? Ele não tem orado como tu, de joelhos!
+
+— Não… — disse Sahak, um pouco inseguro — Pode ser que não. Mas esteve muito mais perto do Salvador do que eu, estava junto à sua cruz enquanto ele sofria e morria, viu uma auréola de luz em torno dele e o anjo de fogo que tirou a pedra de seu sepulcro para que ele pudesse ressuscitar do reino da morte. Foi meu companheiro quem me abriu os olhos para a magnificência do Senhor.
+
+O vigia, desorientado ante tanta coisa enigmática, sacudiu a cabeça e olhou, desconfiado, para Barrabás, o homem com a cicatriz na face, que nunca fitava alguém diretamente, e que, mesmo agora, olhava para o lado. Aquele homem pertencia ao deus de Sahak? Não era possível! O vigia não o achava nada simpático.
+
+Não tinha a menor vontade de fazê-lo sair da mina. Sahak, porém, repetiu que não podia separar-se dele. O vigia murmurou qualquer coisa e de novo fitou Barrabás, desta vez longamente. E cedeu, afinal, embora contra a vontade, ao desejo de Sahak; os dois sairiam juntos da mina. Depois os deixou e mergulhou na solidão.
+
+Quando Sahak e Barrabás, à hora convencionada, se apresentaram ao guarda, foram libertados das grilhetas e levados para fora da mina. Chegando à luz do dia, vendo o sol brilhar nas encostas das montanhas perfumadas de mirtos e lavandas, e vendo os verdejantes campos primaveris estendendo-se pelo vale abaixo e, mais ao longe, o mar, Sahak caiu de joelhos e gritou em êxtase:
+
+— Ele veio! Ele veio! Seu reino aí está!
+
+O feitor de escravos, que viera para os conduzir, olhou, estupefato, para o homem ajoelhado. Tocou-o, depois, com o pé, para fazê-lo erguer-se.
+
+— Vamos! — disse ele.
+
+
+

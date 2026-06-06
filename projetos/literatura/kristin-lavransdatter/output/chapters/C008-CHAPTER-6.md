@@ -1,0 +1,354 @@
+#  Capítulo 6
+
+<div class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+ARNE ESTAVA EM CASA, em Finsbrekken, pela última vez antes de partir para Hamar. A mãe e as irmãs preparavam suas roupas para a viagem.
+
+</div>
+
+<div class="calibre4">
+
+Na véspera do dia em que deveria seguir para o sul, ele foi a Jørundgaard despedir-se. Ali perguntou a Kristin, num sussurro, se ela o encontraria na estrada ao sul de Laugarbru na noite seguinte.
+
+</div>
+
+<div class="calibre4">
+
+— Eu gostaria que ficássemos a sós, só nós dois, na última vez em que nos virmos — disse ele. — Você acha que é pedir demais? Nós, que crescemos juntos como irmão e irmã? — acrescentou, quando Kristin hesitou um instante antes de responder.
+
+</div>
+
+<div class="calibre4">
+
+Então ela prometeu ir, se conseguisse escapar de casa sem ser vista.
+
+</div>
+
+<div class="calibre4">
+
+Na manhã seguinte nevou, mas mais tarde começou a chover, e logo as estradas e os campos não passavam de lama cinzenta. Mechas de neblina pairavam e flutuavam ao longo das cristas das montanhas, descendo de vez em quando e enroscando-se em bruma branca ao pé delas, mas depois o tempo voltava a fechar.
+
+</div>
+
+<div class="calibre4">
+
+Sira Eirik veio ajudar Lavrans a organizar algumas caixas de documentos. Foram para a casa da lareira, mais aconchegante naquele tipo de tempo do que a casa maior, onde o fogo enchia o cômodo de fumaça. Ragnfrid estava em Laugarbru, onde Ramborg se recuperava de uma doença com febre que tivera no começo daquele outono.
+
+</div>
+
+<div class="calibre4">
+
+Por isso não foi difícil para Kristin sair da fazenda sem ser notada; não se atreveu a pegar um cavalo, então foi a pé. A estrada era um atoleiro de neve derretida e folhas secas; o ar tinha um cheiro tristonho, cru, morto e mofado, e de tempos em tempos uma rajada de vento jogava a chuva bem no rosto dela. Kristin puxou o capuz sobre a cabeça e segurou a capa fechada com as duas mãos enquanto caminhava depressa. Estava um pouco apreensiva — o estrondo do rio soava tão abafado naquele ar pesado, e as nuvens se desfiavam negras, à deriva acima dos picos das montanhas. De vez em quando ela parava e ficava à escuta, achando que talvez ouvisse Arne chegando.
+
+</div>
+
+<div class="calibre4">
+
+Depois de um tempo, percebeu o som de cascos de cavalo na estrada encharcada, e então parou, pois havia chegado a um trecho bem ermo e achou que seria um bom lugar para se despedirem sem serem perturbados. Um momento depois viu o cavaleiro surgir atrás dela, e Arne saltou do cavalo, conduzindo-o pela rédea enquanto caminhava em sua direção.
+
+</div>
+
+<div class="calibre4">
+
+— Que bom que você veio — disse ele —, com este tempo horrível.
+
+</div>
+
+<div class="calibre4">
+
+— É pior para você, que vai ter de cavalgar tão longe. Mas por que está partindo tão tarde da noite?
+
+</div>
+
+<div class="calibre4">
+
+— Jon me convidou para passar a noite em Loptsgaard — disse Arne. — E pensei que seria mais fácil para você vir até aqui a esta hora do dia.
+
+</div>
+
+<div class="calibre4">
+
+Ficaram em silêncio por um momento. Kristin pensou que nunca antes havia percebido como Arne era bonito. Ele usava um elmo de aço reluzente e, sob ele, um capuz de lã marrom que emoldurava seu rosto e se espalhava sobre os ombros; por baixo, o rosto magro parecia tão claro e belo. A couraça de couro era velha, manchada de ferrugem e arranhada pela cota de malha que se usara por cima dela — o pai de Arne a havia dado a ele —, mas assentava bem em seu corpo esguio, ágil e forte. Levava uma espada à cintura e uma lança na mão; as outras armas pendiam da sela. Era um homem feito e tinha um porte imponente.
+
+</div>
+
+<div class="calibre4">
+
+Kristin pôs a mão no ombro dele e disse:
+
+— Você se lembra, Arne, de que uma vez me perguntou se eu achava que você era um rapaz tão admirável quanto Simon Andressøn? Quero lhe dizer uma coisa agora, antes de nos separarmos. Você me parece tanto superior a ele em aparência e em porte quanto ele é tido acima de você em linhagem e riqueza pelas pessoas que mais prezam essas coisas.
+
+</div>
+
+<div class="calibre4">
+
+— Por que está me dizendo isso? — perguntou Arne, sem fôlego.
+
+</div>
+
+<div class="calibre4">
+
+— Porque o irmão Edvin gravou no meu coração que devemos agradecer a Deus por Seus bons dons e não ser como a mulher que chorou por não ter tigelas quando São Olav multiplicou a carne para ela. Então você não deveria se afligir por Ele não lhe ter dado tanta riqueza quanto dons físicos...
+
+</div>
+
+<div class="calibre4">
+
+— Era isso que você queria dizer? — perguntou Arne. E como Kristin não respondeu, ele continuou: — Eu estava me perguntando se você queria dizer que preferiria ter se casado comigo do que com aquele outro homem.
+
+</div>
+
+<div class="calibre4">
+
+— Acho que sim, no fim das contas — disse ela baixinho. — Pois conheço você muito melhor.
+
+</div>
+
+<div class="calibre4">
+
+Arne a envolveu nos braços com tanta força que tirou os pés dela do chão. Beijou-lhe o rosto muitas vezes, mas depois a pôs no chão de novo.
+
+</div>
+
+<div class="calibre4">
+
+— Deus nos ajude, Kristin. Você é tão criança ainda!
+
+</div>
+
+<div class="calibre4">
+
+Ela ficou ali, de cabeça baixa, mas manteve as mãos sobre os ombros dele. Ele lhe segurou os pulsos e os apertou com força.
+
+</div>
+
+<div class="calibre4">
+
+— Vejo agora que você não percebe, minha querida, como meu coração dói por eu estar prestes a perdê-la. Kristin, nós crescemos juntos como duas maçãs no mesmo galho. Eu já a amava antes de começar a entender que um dia outro chegaria e a arrancaria de mim. Tão certo quanto Deus teve de morrer por todos nós, não sei como poderei voltar a ser feliz neste mundo depois de hoje.
+
+</div>
+
+<div class="calibre4">
+
+Kristin chorava amargamente e ergueu o rosto para que ele pudesse beijá-la.
+
+</div>
+
+<div class="calibre4">
+
+— Não fale assim, meu Arne — implorou ela, dando tapinhas no braço dele.
+
+</div>
+
+<div class="calibre4">
+
+— Kristin — disse Arne em voz contida, tomando-a nos braços de novo. — Será que você não poderia pensar em pedir ao seu pai... Lavrans é um homem tão bom, jamais a forçaria contra a sua vontade. Será que você não poderia pedir a ele que espere alguns anos? Ninguém sabe como minha sorte pode mudar... nós dois somos tão jovens.
+
+</div>
+
+<div class="calibre4">
+
+— Tenho de fazer o que os meus em casa querem que eu faça — soluçou ela.
+
+</div>
+
+<div class="calibre4">
+
+Então as lágrimas tomaram conta de Arne também.
+
+</div>
+
+<div class="calibre4">
+
+— Você não faz ideia, Kristin, de quanto eu a amo. — Ele escondeu o rosto no ombro dela. — Se fizesse, e se também me amasse, então iria até Lavrans e lhe suplicaria com doçura...
+
+</div>
+
+<div class="calibre4">
+
+— Não posso fazer isso — soluçou a moça. — Acho que jamais conseguiria amar tanto um homem a ponto de contrariar a vontade dos meus pais por causa dele. — Ela deslizou as mãos por baixo do capuz e do pesado elmo de aço de Arne para tocar-lhe o rosto. — Você não deve chorar assim, Arne, meu amigo querido.
+
+</div>
+
+<div class="calibre4">
+
+— Quero que você fique com isto — disse ele depois de um instante, entregando-lhe um pequeno broche. — E pense em mim de vez em quando, pois eu nunca a esquecerei, nem à minha tristeza.
+
+</div>
+
+<div class="calibre4">
+
+ \
+
+</div>
+
+<div class="calibre4">
+
+Já estava quase totalmente escuro quando Kristin e Arne se despediram pela última vez. Ela ficou olhando para ele quando finalmente partiu a cavalo. Uma luz amarela brilhou através das nuvens, e essa luz se refletia nas pegadas deles, onde haviam caminhado e parado na lama da estrada; pareceu tão fria e desolada, pensou ela. Puxou o pano de linho que cobria o corpete e enxugou o rosto banhado de lágrimas; então deu meia-volta e seguiu rumo a casa.
+
+</div>
+
+<div class="calibre4">
+
+Estava molhada e com frio e caminhava depressa. Depois de um tempo, ouviu alguém se aproximando na estrada atrás dela. Assustou-se um pouco; era possível que estranhos estivessem viajando por aquela estrada principal, mesmo numa noite como aquela, e ela tinha um trecho solitário pela frente. De um lado, erguia-se um íngreme paredão de pedras soltas e escuras; do outro, havia uma queda abrupta, coberta de pinheiros até lá embaixo, junto ao rio pálido e plúmbeo (cor de chumbo) no fundo do vale. Por isso ficou aliviada quando a pessoa atrás dela a chamou pelo nome; parou e esperou.
+
+</div>
+
+<div class="calibre4">
+
+Quem se aproximava era um homem alto e magro, vestindo uma túnica escura com mangas de cor mais clara. Quando chegou mais perto, Kristin viu que ele estava trajado como padre e carregava uma mochila vazia nas costas. Reconheceu então Bentein Prestesøn, como o chamavam — o neto de Sira Eirik. Percebeu na mesma hora que ele estava bem embriagado.
+
+</div>
+
+<div class="calibre4">
+
+— Pois é, um vai e outro chega — disse ele, rindo, depois de se cumprimentarem. — Encontrei Arne de Brekken agora há pouco... e vejo que você vem caminhando e chorando. Então, que tal me dar um sorrisinho por eu ter voltado para casa? Nós dois também somos amigos desde a infância, não é?
+
+</div>
+
+<div class="calibre4">
+
+— É um péssimo negócio ter você de volta ao vale no lugar dele — disse Kristin, irritada. Nunca havia gostado de Bentein. — Muita gente vai dizer o mesmo, eu receio. E seu avô estava tão contente por você estar se saindo tão bem lá no sul, em Oslo.
+
+</div>
+
+<div class="calibre4">
+
+— Ah, sim — disse Bentein com um risinho de escárnio. — Então você acha que eu estava me saindo bem, é? Como porco em campo de trigo, foi assim que foi para mim, Kristin... e o resultado no fim foi o mesmo. Fui enxotado com gritos e uma vara comprida. Pois é. Pouca alegria ele tem dos próprios descendentes, meu avô. Por que você está andando tão depressa?
+
+</div>
+
+<div class="calibre4">
+
+— Estou com frio — respondeu Kristin secamente.
+
+</div>
+
+<div class="calibre4">
+
+— Não mais do que eu — disse o padre. — A única roupa que tenho para vestir é essa que você está vendo. Tive de vender minha capa por comida e cerveja em Lillehammer. Mas você ainda deve ter algum calor no corpo de tanto se despedir de Arne. Acho que você devia me deixar entrar debaixo das suas peles. — E ele agarrou a capa dela, jogou-a sobre os próprios ombros e enlaçou o braço molhado em volta da cintura dela.
+
+</div>
+
+<div class="calibre4">
+
+Kristin ficou tão pasma com a ousadia dele que levou um instante para recobrar os sentidos — então tentou se desvencilhar, mas ele segurava a capa, presa por um robusto fecho de prata. Bentein a abraçou de novo e tentou beijá-la, encostando a boca no queixo dela. Ela tentou golpeá-lo, mas ele lhe segurava os braços perto dos ombros.
+
+</div>
+
+<div class="calibre4">
+
+— Acho que você perdeu o juízo — sibilou ela, lutando contra ele. — Como se atreve a me tratar à força como se eu fosse uma... Você vai se arrepender amargamente disto amanhã, seu miserável.
+
+</div>
+
+<div class="calibre4">
+
+— Ah, amanhã você não vai ser tão tola — disse Bentein, passando-lhe a perna na frente para derrubá-la, de modo que ela caiu de joelhos na lama da estrada. Então ele apertou a mão sobre a boca dela.
+
+</div>
+
+<div class="calibre4">
+
+E mesmo assim Kristin ainda não pensou em gritar. Agora finalmente entendia o que ele pretendia fazer com ela, mas a fúria a dominou com tamanha violência que ela mal sentiu medo. Rosnou como um animal em combate e lutou contra aquele homem que a mantinha presa ao chão, de modo que a água gelada da neve atravessou suas roupas e alcançou sua carne em brasa.
+
+</div>
+
+<div class="calibre4">
+
+— Amanhã você vai saber muito bem que é melhor ficar calada — disse Bentein. — E se não der para esconder, sempre pode pôr a culpa em Arne; as pessoas vão acreditar nisso mais facilmente...
+
+</div>
+
+<div class="calibre4">
+
+Ele havia enfiado um dedo na boca dela, então ela o mordeu com toda a força, e Bentein gritou e afrouxou o aperto. Veloz como um relâmpago, Kristin soltou uma das mãos e a cravou no rosto dele, enterrando o polegar com toda a força que pôde no olho dele. Ele berrou e ergueu-se sobre um joelho. Ela se contorceu para se livrar como um gato, empurrou o padre de modo que ele caiu de costas e então saiu correndo estrada abaixo, com a lama esguichando atrás dela a cada passo.
+
+</div>
+
+<div class="calibre4">
+
+Correu e correu sem olhar para trás. Ouviu Bentein vindo atrás dela e disparou com o coração martelando na garganta, gemendo baixinho e perscrutando o caminho à frente — será que nunca chegaria a Laugarbru? Por fim Kristin alcançou o trecho da estrada onde ela atravessava os campos. Viu as construções agrupadas na encosta e, de repente, percebeu que não tinha coragem de procurar a mãe — não daquele jeito, coberta de lama e folhas secas dos pés à cabeça, com as roupas rasgadas.
+
+</div>
+
+<div class="calibre4">
+
+Sentia Bentein chegando cada vez mais perto. Abaixou-se e apanhou duas grandes pedras e, quando ele estava perto o bastante, atirou-as; uma delas o acertou com tanta força que o derrubou. Então recomeçou a correr e não parou até estar em pé sobre a ponte.
+
+</div>
+
+<div class="calibre4">
+
+Tremendo, ficou ali agarrada ao parapeito; tudo escureceu diante dela e teve medo de desmaiar — mas então pensou em Bentein. E se ele chegasse e a encontrasse assim? Trêmula de vergonha e amargura, seguiu em frente, mas as pernas mal a sustentavam, e agora sentia o rosto ardendo dos arranhões das unhas dele, e havia machucado as costas e os braços. As lágrimas vieram, ardentes como fogo.
+
+</div>
+
+<div class="calibre4">
+
+Desejou que Bentein estivesse morto pela pedra que arremessara; desejou ter voltado para acabar com ele, ter sacado a faca, mas notou que devia tê-la perdido.
+
+</div>
+
+<div class="calibre4">
+
+Então percebeu de novo que não ousava ser vista assim em casa; ocorreu-lhe que poderia ir a Romundgaard. Queixar-se-ia a Sira Eirik.
+
+</div>
+
+<div class="calibre4">
+
+Mas o padre ainda não havia voltado de Jørundgaard. Na cozinha encontrou Gunhild, a mãe de Bentein. A mulher estava sozinha, e então Kristin lhe contou como o filho dela a havia tratado. Mas não mencionou que tinha saído para encontrar Arne. Quando percebeu que Gunhild achava que ela estivera em Laugarbru, não a tirou desse engano.
+
+</div>
+
+<div class="calibre4">
+
+Gunhild disse muito pouco, mas chorou bastante enquanto lavava as roupas de Kristin e remendava os piores rasgões. E a jovem estava tão abalada que não notou os olhares que Gunhild lhe lançava às escondidas.
+
+</div>
+
+<div class="calibre4">
+
+Quando Kristin ia saindo, Gunhild vestiu a própria capa e a acompanhou até a porta, mas depois se dirigiu ao estábulo. Kristin perguntou-lhe aonde ia.
+
+</div>
+
+<div class="calibre4">
+
+— Por certo me é permitido ir até lá cuidar do meu filho — disse a mulher —, para ver se você o matou com aquela pedra ou o que foi que aconteceu com ele.
+
+</div>
+
+<div class="calibre4">
+
+Kristin não teve nada a responder, então apenas disse a Gunhild que fizesse com que Bentein deixasse o povoado o quanto antes; ela nunca mais queria pôr os olhos nele.
+
+— Ou então conto isto a Lavrans, e aí você bem pode imaginar o que vai acontecer.
+
+</div>
+
+<div class="calibre4">
+
+ \
+
+</div>
+
+<div class="calibre4">
+
+Bentein partiu rumo ao sul pouco mais de uma semana depois; levava cartas de Sira Eirik ao bispo de Hamar, pedindo ao bispo que arranjasse alguma ocupação para Bentein ou lhe desse alguma ajuda.
+
+</div>
+
+<div class="calibre4">
+
+</div>
+
+<div id="Kristin_Lavransdatter_split_014.html_calibre_pb_14" class="calibre12">
+
+</div>
+

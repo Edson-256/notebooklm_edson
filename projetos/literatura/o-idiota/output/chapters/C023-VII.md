@@ -1,0 +1,214 @@
+### VII
+
+O jovem que acompanhava o general tinha uns vinte e oito anos, era alto, esbelto de um rosto belo e inteligente, olhos negros e graúdos e um olhar brilhante, cheio de espírito e galhofa. Aglaia nem chegou a olhar para ele, continuou a declamar uns versos e a olhar com afetação apenas para o príncipe e só a ele se dirigindo. Para o príncipe ficou claro que ela fazia tudo isso com alguma intenção particular. Mas ao menos os novos visitantes consertaram um pouco a situação embaraçosa dele. Ao vê-los, ele soergueu-se, fez gentilmente um sinal de cabeça de longe para o general, dando a entender que não interrompesse a declamação, e ele mesmo conseguiu retirar-se para trás da poltrona, onde, apoiado com a mão esquerda no encosto, continuou a ouvir a balada numa posição já, por assim dizer, mais cômoda e não tão “cômica” como aquela em que estivera sentado na poltrona. Por sua vez, Lisavieta Prokófievna fez aos recém-chegados um gesto imperioso com a mão para que eles parassem. Enquanto isso, o príncipe se interessava demasiadamente pelo seu novo visitante que acompanhava o general; adivinhou nitidamente nele Ievguiêni Pávlovitch Radomski, sobre quem muito já ouvira falar e em quem pensara mais de uma vez. A única coisa que o confundia era a roupa de civil; ouvira falar que Ievguiêni Pávlovitch era militar. Um sorriso de galhofa percorria os lábios do novo visitante durante toda a declamação do poema, como se ele já tivesse ouvido falar alguma coisa a respeito do “cavaleiro pobre”.
+
+“Pode ser que ele mesmo tenha inventado”—pensou o príncipe de si para si.
+
+Com Aglaia, porém, a coisa era bem diferente. Toda a afetação inicial e a grandiloquência com que começara a declamar ela mascarava com tamanha seriedade e tamanha penetração no espírito e no sentido da obra poética, pronunciava com tamanho sentido cada palavra dos versos, proferia-os com uma simplicidade tão superior que no final da declamação não só atraiu a atenção geral como ainda, com a transmissão do espírito elevado da balada, como que justificou em parte a imponência intensa e artificial com que fora ao centro do terraço com ar tão triunfal. Agora, poder-se-ia ver nessa imponência a infinitude e, talvez, até a ingenuidade do seu respeito por aquilo que assumira transmitir. Seus olhos brilhavam, e a convulsão mal percebida da inspiração e do êxtase lhe percorreu o belo rosto umas duas vezes.
+
+Ela declamou:
+
+ 
+
+Houve um pobre cavaleiro (Esta é uma versão incompleta do poema de Púchkin, a única a que Dostoiévski teve acesso em vida. Uma versão integral o leitor pode encontrar em A dama de espadas: prosa e poemas, de Púchkin, com tradução de Boris Schnaiderman e Nelson Ascher (São Paulo, Editora 34, 1999). As iniciais citadas no poema correspondem a Ave Mater Dei, mas Dostoiévski cria várias outras com sentido cifrado (A.N.B., A.N.D. e N.F.B.). (N. do T.))
+
+Natural e taciturno,
+
+De alma audaz e verdadeiro,
+
+De ar pálido e soturno.
+
+ 
+
+Ele tinha uma visão,
+
+Inconcebível à mente -,
+
+E cravou-se em seu coração
+
+Uma impressão fundamente.
+
+ 
+
+De alma em chamas, entrementes,
+
+Não olhou para mulheres,
+
+Foi à morte renitente
+
+Sem falar com nenhuma delas.
+
+ 
+
+O cachecol no pescoço
+
+Por um rosário trocou
+
+A máscara de aço do rosto
+
+P’ra ninguém jamais tirou.
+
+ 
+
+Cheio de um puro amor,
+
+A um sonho doce fiel,
+
+A.M.D. ele gravou
+
+Com seu sangue em seu broquel.
+
+ 
+
+Enquanto pelos penhascos,
+
+Dos desertos palestinos,
+
+Nomes das damas bradavam,
+
+Na batalha os paladinos,
+
+ 
+
+Lumen Coelum, Sancta Rosa!
+
+Feroz, zeloso exclamava,
+
+Qual um raio sua ameaça
+
+O muçulmano acertava.
+
+ 
+
+Longe ao castelo tornando,
+
+Dura reclusão viveu,
+
+Sempre mudo, e tristonho
+
+Como louco ele morreu.
+
+ 
+
+Rememorando depois todo esse instante, o príncipe ficava horas em excessivo embaraço, atormentado com uma questão que para ele não estava resolvida: como era possível juntar um sentimento tão verdadeiro e belo com uma zombaria tão evidente e maldosa? De que era zombaria ele não tinha nem dúvida; isso ele compreendera claramente e para tanto tinha motivos: durante a declamação Aglaia se permitiu substituir as iniciais A.M.D. pela iniciais N.F.B. De que ele não se equivocara nem ouvira mal ele não podia duvidar (posteriormente isso ficou demonstrado). Em todo caso, a extravagância de Aglaia—evidentemente, uma brincadeira ainda que demasiado forte e leviana—fora premeditada. Do “cavaleiro pobre” todos haviam falado (e “rido”) ainda um mês antes. Entretanto, por mais que o príncipe forçasse mais tarde a memória, verificava-se que Aglaia pronunciara aquelas iniciais não só sem qualquer aspecto de brincadeira, ou qualquer riso, ou mesmo sem qualquer realce dessas letras com o fito de lhe revelar mais o sentido oculto, como, ao contrário, fizera-o com uma seriedade tão inalterada, com uma simplicidade tão ingênua e inocente que se poderia pensar que as iniciais estivessem mesmo na balada e assim houvessem sido impressas no livro. Alguma coisa grave e desagradável como que feria o príncipe. Lisavieta Prokófievna, é claro, não entendeu e não notou nem a substituição das letras nem a insinuação. O general Ivan Fiódorovitch compreendeu apenas que estavam declamando versos. Entre os outros ouvintes muitos compreenderam e se surpreenderam com a ousadia da extravagância e a intenção, mas permaneceram calados e procurararam não aparentar. Mas Ievguiêni Pávlovitch (o príncipe estava até disposto a apostar) não só compreendeu como procurou mostrar que havia compreendido: deu um sorriso demasiadamente zombeteiro.
+
+— Mas que maravilha!—exclamou a generala num verdadeiro êxtase mal terminou a declamação.—De quem é este poema!?
+
+— De Púchkin, maman, não nos envergonhe, isso é uma vergonha!—exclamou Adelaida.
+
+— Na companhia de vocês a gente ainda fica até mais imbecil!—respondeu amargamente Lisavieta Prokófievna.—Vergonha! Assim que a gente chegar em casa vocês me passem esse poema de Púchkin!
+
+— Aliás, parece que nós não temos nada de Púchkin em casa.
+
+— Desde tempos imemoriais—acrescentou Alieksandra—,há uns dois volumes gastos rolando por lá.
+
+— Mandar imediatamente comprar na cidade, Fiódor ou Alieksiêi, no primeiro trem—melhor Alieksiêi. Aglaia, vem cá! Me dá um beijo, tu declamaste maravilhosamente, mas se tu declamaste sinceramente—acrescentou quase murmurando—tenho pena de ti; se tu declamaste para zombar dele eu não aprovo os teus sentimentos, portanto, o melhor mesmo é que não tivesses declamado. Estás entendendo? Vai, senhorinha, ainda terei de conversar contigo, e já estamos demorando demais aqui.
+
+Enquanto isso o príncipe cumprimentava o general Ivan Fiódorovitch, e o general lhe apresentava Ievguiêni Pávlovitch Radomski.
+
+— Eu o apanhei a caminho, ele acaba de chegar de trem; soube que eu vinha para cá e que todos os nossos estavam aqui...
+
+— Sabia que o senhor também estava aqui—interrompeu Ievguiêni Pávlovitch—,e como há muito tempo supunha forçosamente procurar não só conhecê-lo mas ganhar também a sua amizade, então não quis perder tempo. O senhor anda sem saúde? Acabei de saber...
+
+— Cheio de saúde e muito feliz em conheçê-lo, ouvi falar muito a seu respeito e até conversei sobre o senhor com o príncipe Sch.—respondeu Liev Nikoláievitch, estendendo-lhe a mão.
+
+As cortesias mútuas foram pronunciadas, os dois se apertaram as mãos e se olharam fixamente nos olhos. Num átimo, a conversa de fez geral. O príncipe observou (agora ele observava tudo com rapidez e avidez, e talvez até o que absolutamente não havia acontecido) que o traje civil de Ievguiêni Pávlovitch provocara uma admiração forte, geral e incomum, a tal ponto que as demais impressões até foram esquecidas e apagadas temporariamente. Poder-se-ia pensar que nessa mudança de traje havia algo importante. Adelaida e Alieksandra interrogavam Ievguiêni Pávlovitch com perplexidade. O príncipe Sch., seu parente, o fez até com grande inquietação; o general falava quase agitado. Só Aglaia olhou cerca de um minuto com jeito curioso mas com absoluta tranquilidade para Ievguiêni Pávlovitch, como se quisesse apenas comparar se lhe caía melhor o traje militar ou civil, mas um minuto depois deu as costas e não olhou mais para ele. Lisavieta Prokófievna também não quis perguntar nada, embora fosse possível que também estivesse um tanto preocupada. O príncipe teve a impressão de que Ievguiêni Pávlovitch não parecia estar nas graças dela.
+
+— Ele me deixou pasmo!—afirmava Ivan Fiódorovitch respondendo a todas as perguntas.—Eu não quis acreditar quando ainda há pouco o encontrei em Petersburgo. E por que tão de repente, é essa a questão? O primeiro que ele mesmo fez foi gritar que não é preciso quebrar as cadeiras (Essas palavras remontam ao primeiro ato de O inspetor geral, de Gógol (1809-1852), onde o governador da cidade diz: “É claro que Alexandre Magno foi um herói, mas para quê quebrar cadeiras?”. (N. da E.)).
+
+Pelas conversas que se levantaram verificou-se que Ievguiêni Pávlovitch já anunciara essa baixa há muito e muito tempo; mas sempre falava com tamanha falta de seriedade que não dava nem para acreditar nele. Ademais, ele sempre falava de coisas sérias com um ar tão brincalhão que não havia meio de entendê-lo, sobretudo se ele queria não ser entendido.
+
+— Ora, eu estou na reserva temporariamente, por alguns meses, o máximo por um ano!—ria Radomski.
+
+— Mas não há nenhuma necessidade, pelo menos o quanto estou a par das suas atividades—continuava inflamado o general.
+
+— E as fazendas, é para percorrer? O senhor mesmo aconselhou; além do mais, quero ir ao estrangeiro...
+
+Aliás, logo mudaram de assunto; mas a excessiva intranquilidade, que teimava em persistir, segundo observação do príncipe, saía da medida apesar de tudo, e ali certamente havia qualquer coisa de especial.
+
+— Quer dizer então que o “cavaleiro pobre” está novamente em cena?—esboçou perguntar Ievguiêni Pávlovitch, aproximando-se de Aglaia.
+
+Para surpresa do príncipe, ela o olhou perplexa e interrogativa, como se quisesse lhe fazer saber que entre eles não se poderia nem falar de “cavaleiro pobre” e que ela sequer estava entendendo a pergunta.
+
+— Mas é tarde, agora é tarde para mandar alguém à cidade comprar Púchkin!—discutia Kólia com Lisavieta Prokófievna, totalmente esgotado.—Eu lhe digo três mil vezes: é tarde.
+
+— É, realmente é tarde para mandar alguém para a cidade agora—interveio também aí Ievguiêni Pávlovitch, deixando Aglaia depressa—,eu acho que até as lojas em Petersburgo estão fechadas, já passa das oito—repetiu ele, tirando o relógio.
+
+— Esperamos tanto, não aproveitamos, dá para aguentar até amanhã—interveio Adelaida.
+
+— Além do mais não fica bem—acrescentou Kólia—gente da alta sociedade se interessar muito por literatura. Perguntem a Ievguiêni Pávlovitch. É muito mais decente um cabriolé amarelo com rodas vermelhas.
+
+— Outra vez tirando coisas de livros, Kólia—observou Adelaida.
+
+— Aliás ele não consegue falar de outra maneira a não ser tirando de livros—secundou Ievguiêni Pávlovitch—,ele se exprime por frases inteiras tiradas de resenhas críticas. Há muito tempo venho tendo o prazer de conhecer a conversa de Nikolai Ardaliónovitch, mas desta vez ele não está falando através de livro. Nikolai Ardaliónovitch está aludindo nitidamente ao meu cabriolé amarelo com rodas vermelhas. Só que eu já o troquei, você está atrasado.
+
+O príncipe prestava atenção ao que dizia Radomski... Achava que o outro se comportava magnificamente, com modéstia, alegre, e gostou particularmente de vê-lo conversar com absoluta igualdade e de forma amistosa com Kólia, que implicava com ele.
+
+— O que é isso?—perguntou Lisavieta Prokófievna a Vera, filha de Liébediev, que estava à sua frente com alguns livros nas mãos, de formato grande, magnificamente encadernados e quase novos.
+
+— É Púchkin—disse Vera. O nosso Púchkin. Meu pai mandou que eu trouxesse para a senhora.
+
+— Como assim? Como é que pode?—surpreendeu-se Lisavieta Prokófievna.
+
+— Não é presente, não é presente! Eu não me atreveria!—brotou Liébediev de trás dos ombros da filha.—Pelo seu próprio preço. Esse é o nosso próprio Púchkin, da família, edição de Ánnienkov (Pável Vassílievitch Ánnienkov (1813-1887), crítico literário e memorialista russo, foi o responsável, entre 1855 e 1857, pela primeira edição das obras de Púchkin em sete volumes. (N. do T.)), que agora não se consegue encontrar—pelo seu próprio preço. Eu lhe ofereço com reverência, desejando vender e com isso saciar a nobre impaciência dos mais nobres sentimentos literários de vossa excelência.
+
+— Já que estás vendendo, obrigada. Não vais sair perdendo, podes estar certo; só que faz o favor de largar esses trejeitos, meu caro. Ouvi falar a teu respeito, dizem que tu és uma pessoa sumamente lida, algum dia falaremos disso; e tu mesmo vais levá-lo à minha casa?
+
+— Com reverência e... respeito!—desmanchava-se Liébediev em trejeitos, com uma satisfação fora do comum, arrancando os livros das mãos da filha.
+
+— Vê se não o perdes quando fores levá-lo para minha casa, podes até dispensar o respeito, mas com uma condição—acrescentou ela, observando-o fixamente—,só te permitirei chegar até a porta, hoje não tenho a intenção de receber-te. Podes mandar a tua filha Vera até mesmo agora, gostei muito dela.
+
+— Por que o senhor não diz nada daquelas pessoas?—Vera se dirigiu intranquila ao pai.—Porque, já que é assim, elas mesmas vão acabar entrando; já estão fazendo barulho. Liev Nikoláievitch—ela se dirigiu ao príncipe, que já havia apanhado o seu gorro de pele—,faz muito tempo que umas pessoas vieram vê-lo, quatro homens, estão esperando lá em casa e xingando, mas meu pai não deixou que viessem para cá.
+
+— Que visitantes são esses?—perguntou o príncipe.
+
+— Dizem que vêm tratar de negócios, só que eles são um tipo de gente que se não deixarem entrar agora são capazes de ficar parados no caminho. O melhor é deixá-los entrar, Liev Nikoláievitch, e depois mandá-los embora. Gavrila Ardaliónovitch e Ptítzin estão tentando convencê-los, mas eles não obedecem.
+
+— O filho de Pavlischov! O filho de Pavlischov! Não vale a pena, não vale a pena!—agitava os braços Liébediev.—Não vale a pena nem ouvi-los; não é nem decente, suma alteza príncipe, preocupar-se por causa deles. É isso. Eles não merecem...
+
+— O filho de Pavlischov! Meu Deus!—exclamou o príncipe com extremo embaraço.—Eu sei... mas acontece que eu... eu incumbi Gavrila Ardaliónovitch do caso dele. Gavrila Ardaliónovitch acabou de me dizer...
+
+Mas Gavrila Ardaliónovitch já saíra dos cômodos para a varanda; Ptítzin vinha atrás dele. No cômodo vizinho ouviu-se um barulho e a voz alta do general Ívolguin, como se quisesse abafar várias vozes. Kólia correu no mesmo instante na direção do barulho.
+
+— Isso é muito interessante!—observou em voz alta Ievguiêni Pávlovitch.
+
+“Quer dizer que estão sabendo do caso!”—pensou o príncipe.
+
+— Que filho de Pavlischov? E... qual pode ser o filho de Pavlischov?—perguntou perplexo o general Ivan Fiódorovitch, olhando com curiosidade para todos os rostos e observando surpreso que só ele desconhecia essa nova história. De fato, a excitação e a expectativa eram gerais. O príncipe ficou profundamente surpreso que esse seu assunto absolutamente pessoal já tivesse suscitado tão forte interesse em todos ali.
+
+— Será muito bom se agora mesmo você encerrar pessoalmente esse caso—disse Aglaia, chegando-se ao príncipe com uma seriedade especial—e permitir que todos nós sejamos as suas testemunhas. Estão querendo difamá-lo, príncipe, você precisa absolver solenemente a si mesmo, e de antemão estou muitíssimo feliz por você.
+
+— Eu também quero que essa monstruosa pretensão termine—bradou a generala—,dá um jeitinho neles, príncipe, não os poupe! Já me encheram os ouvidos com esse caso e gastei muito nervo por ti. Além do mais, será curioso ver. Manda chamá-los, enquanto isso ficaremos aqui sentadas. Aglaia pensou bem. O senhor ouviu falar alguma coisa a esse respeito, príncipe?—perguntou ela ao príncipe Sch.
+
+— É claro que ouvi, em sua casa mesmo. Mas eu desejo particularmente olhar para esse jovens—respondeu o príncipe Sch.
+
+— Esses é que serão os tais niilistas?
+
+— Não, não é que eles sejam niilistas—deu um passo adiante Liébediev, que por pouco não tremia de inquietação—,são outros tipos, especiais, meu sobrinho me disse que eles foram além dos niilistas. É inútil o senhor pensar em desconcertá-los com o vosso testemunho, excelência; eles não se deixam desconcertar. Os niilistas, apesar de tudo, às vezes são uma gente entendida, até científica, mas esses foram além porque antes de mais nada são homens de ação. Eles são, propriamente falando, uma certa consequência do niilismo, não por via direta mas indireta e por terem ouvido falar, e não se revelam em algum artiguinho de revista mas diretamente na ação; não se trata da insensatez, por exemplo, de algum Púchkin (As expressões mais nítidas da interpretação “niilista” de Púchkin na década de1860 foram as leituras de A. Záitzev e D. I. Píssariev. Dostoiévski teve ativa participação na discussão da herança de Púchkin. (N. da E.)) qualquer, e nem, por exemplo, da necessidade da desintegração da Rússia em partes (Referência a uma das ideias proclamadas por P. G. Zaitchnievski em A jovem Rússia (1862). (N. da E.)); não, agora já se considera francamente que é um direito de alguém que deseje muito alguma coisa não se deter diante de quaisquer obstáculos, mesmo que para isto tenha de liquidar oito pessoas. No entanto, príncipe, apesar de tudo eu não o aconselharia...
+
+Mas o príncipe já estava saindo para abrir a porta aos visitantes.
+
+— O senhor está caluniando, Liébediev—pronunciou ele sorrindo—,seu sobrinho o deixou muito amargurado. Não acredite nele, Lisavieta Prokófievna. Eu lhe asseguro que os Gorski e os Danílov são apenas acasos e estes só... estão equivocados... Eu só não gostaria que fosse aqui, perante todos. Desculpe, Lisavieta Prokófievna, eles vão entrar, eu vou mostrá-los e depois os conduzo para fora. Por favor, senhores!
+
+Preocupava-o antes outra ideia que o angustiava. Estava com essa impressão: não teria alguém armado essa questão agora, precisamente nesse momento e nessa hora, de antemão, justamente para essas testemunhas e, talvez, visando à sua esperada desonra e não ao triunfo? Mas ele estava demasiadamente triste por sua “cisma monstruosa e maldosa”. Ele morreria, parece, se alguém soubesse que estava com esse pensamento na cabeça, e nesse instante, logo que entraram os novos visitantes, estava sinceramente disposto a se considerar o último dos últimos no sentido moral entre todos os que estavam ao seu redor.
+
+Entraram cinco homens, quatro novos visitantes e o quinto atrás deles era o general Ívolguin, excitado, inquieto e no mais forte acesso de eloquência. “Este está forçosamente do meu lado!”—pensou com um sorriso o príncipe. Kólia apareceu ao lado de todos: falava excitado com Hippolit, que estava entre os visitantes; Hippolit ouvia e ria.
+
+O príncipe sentou os visitantes em diferentes lugares. Eram todos uma gente tão jovenzinha, tão menor de idade, que dava para admirar-se do acaso e de toda a cerimônia que ele proporcionava. Ivan Fiódorovitch Iepántchin, por exemplo, que nada sabia e nem compreendia dessa “nova causa”, estava até indignado ao olhar para semelhante juventude e certamente protestaria caso não o detivesse o ardor—para ele estranho—da sua esposa pelos interesses particulares do príncipe. Ele, aliás, permaneceu em parte por curiosidade, em parte por bondade do coração, inclusive na esperança de ajudar e, para qualquer eventualidade, ser útil como autoridade; no entanto, a mesura que lhe fez de longe o general Ívolguin ao entrar o pôs de novo indignado; fechou a cara e decidiu ficar obstinadamente calado.
+
+Entre os visitantes jovenzinhos, um, aliás, tinha uns trinta anos, era um “tenente da reserva da turma de Rogójin, lutador de boxe, que dava aulas aos solicitantes a quinze rublos”. Percebia-se que ele acompanhava os demais para impor respeito, na qualidade de amigo sincero e para prestar apoio em caso de necessidade. Entre os demais, o primeiro lugar e o papel principal cabiam ao que se destacava com o nome de “filho de Pavlischov”, embora ele fosse apresentado como Antip Burdovski. Era um jovem vestido de um jeito pobre e relaxado, metido numa sobrecasaca com mangas que de tão sebentas tinham brilho de espelho, num colete engordurado, desabotoado até o alto, numa camisa de um branco que desaparecera, num cachecol de seda preto engordurado ao máximo e torcido feito corda, as mãos sujas, um rosto que era só espinhas, branco e, se é lícita a expressão, com um olhar de um descaramento nunca visto. Não era de estatura baixa, era magro, de uns vinte e dois anos. Seu rosto não expressava a mínima ironia nem a mínima reflexão; expressava, ao contrário, um enlevo completo e obtuso com o próprio direito e, ao mesmo tempo, algo que chegava a uma estranha e constante necessidade de estar e sentir-se permanentemente ofendido. Falava com inquietação, com pressa e atropelando as palavras, como se não as pronunciasse inteiramente, como se fosse um tartamudo ou até um estrangeiro, embora, diga-se de passagem, fosse de origem absolutamente russa.
+
+Acompanhava-os, em primeiro lugar, o sobrinho de Liébediev conhecido dos leitores, em segundo, Hippolit. Hippolit era um rapaz muito jovem de uns dezessete anos, talvez até dezoito, e tinha uma expressão inteligente mas sempre irritada no rosto em que a doença deixara marcas horríveis. Era magro como um esqueleto, de uma palidez amarela, os olhos brilhavam e duas manchas vermelhas ardiam nas faces. Tossia sem cessar; cada palavra, quase todo respiro era acompanhado de um ronco. Via-se a tísica em um grau muito avançado. Parecia que não lhe restavam mais de duas ou três semanas de vida. Estava muito cansado e foi o primeiro a arriar numa cadeira. Os outros ficaram um tanto cerimoniosos e quase envergonhados ao entrarem, no entanto olhavam com imponência e, pelo visto, temiam algum resvalo na dignidade, o que estava em estranha desarmonia com a sua reputação de serem contra todas as insignificâncias inúteis da sociedade, todos os preconceitos e quase tudo no mundo, com exceção dos próprios interesses.
+
+— Antip Burdovski—anunciou com pressa e tartamudeando o “filho de Pavlischov”.
+
+— Vladímir Doktorenko—apresentou-se o sobrinho de Liébediev de forma nítida, clara e até com um quê de vaidade por ser Doktorenko.
+
+— Keller!—proferiu o tenente da reserva.
+
+— Hippolit Tieriêntiev—ganiu inesperadamente o último com voz estridente.
+
+Por fim todos se sentaram em fila nas cadeiras diante do príncipe, todos se apresentaram, imediatamente fecharam a cara e, para ganhar ânimo, trocaram seus bonés de mão, todos se prepararam para falar e todos, não obstante, calaram, aguardando alguma coisa com ar provocante, no qual se lia: “Não, meu caro, estás enganado, não vais nos engazopar!”. Sentia-se que era só alguém pronunciar uma primeira palavra para começar e todos eles começariam imediatamente a falar ao mesmo tempo, interrompendo e atropelando-se uns aos outros.
+
+
+

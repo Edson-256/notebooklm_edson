@@ -1,0 +1,132 @@
+# XVI
+
+Na prisão, sob o Capitólio, foram reunidos todos os cristãos, acusados como responsáveis pelo incêndio, e entre eles encontrava-se Barrabás. Fora preso em flagrante e, após o interrogatório, posto no mesmo cárcere. Ele era um deles.
+
+A masmorra, cavada na rocha viva, era úmida e suas paredes gotejavam. Na penumbra reinante, os prisioneiros apenas se distinguiam vagamente uns aos outros, o que agradou a Barrabás. Sentado a um canto, sobre a palha apodrecida, afastado de todos, virava o rosto para o lado.
+
+Os outros falavam muito no incêndio e na sorte que os esperava. Eram acusados de tê-lo feito lavrar, por se necessitar de um pretexto para prendê-los e condená-los. Os juízes sabiam muito bem que não lhes cabia a culpa. Nenhum deles havia estado no lugar; não tinham saído de suas casas ao serem avisados de que ia haver perseguições e que o local de suas reuniões, nas catacumbas, fora revelado por um traidor. Eram inocentes. Mas de que lhes valia isso? Todos queriam acreditar que eram culpados. Todos queriam crer no que gritava pelas ruas o populacho pago para isso: “Foram os cristãos! Foram os cristãos!”.
+
+— Quem teria pagado? — ouviu-se uma voz na escuridão.
+
+Mas ninguém deu atenção; fingiram não ter ouvido.
+
+Como poderiam os seguidores do Mestre tornar-se culpados do incêndio, de atear fogo a Roma? Como podia haver quem acreditasse em semelhante coisa? Seu Mestre incendiava as almas, não as cidades. Ele era o Senhor e o Deus do mundo, não um malfeitor.
+
+Puseram-se a falar daquele que era o Amor e a Luz e do reino pelo qual esperavam, segundo a promessa feita. Depois entoaram cânticos. Barrabás nunca ouvira palavras tão belas e estranhas. Sentado de cabeça baixa, ouvia-os cantar.
+
+A tranca de ferro foi retirada da porta, os gonzos rangeram e um guarda entrou. Deixou a porta aberta para que houvesse um pouco de luz durante a distribuição da comida aos presos, da qual estava encarregado. Ele mesmo devia ter acabado de jantar àquela hora, e evidentemente tomara vinho em abundância, pois estava muito vermelho e loquaz. Com insultos grosseiros atirava-lhes a comida a que tinham direito, e que era quase intragável. Mas suas injúrias nada significavam; era o calão do ofício, corrente entre guardas de prisão. Seu aspecto era até bonachão. Ao dar com Barrabás que, por acaso, se encontrava na claridade da porta, irrompeu em gargalhadas.
+
+— Temos a este sujeito estabanado! — exclamou. — Corria pelas ruas e incendiava toda Roma! Seu idiota! E vós outros, ainda quereis dizer que não participastes do incêndio? Mentirosos! Pois ele foi preso justamente quando ia lançar um facho aceso no depósito de óleo de Caius Servius.
+
+Barrabás não ergueu os olhos. Seu rosto imóvel nada exprimia; apenas a cicatriz sob o olho tornara-se muito vermelha.
+
+Os outros prisioneiros voltaram-se estupefatos para ele. Nenhum o conhecia. Julgavam tratar-se de um criminoso, um que não fazia parte do grupo, pois não tinha sido interrogado nem conduzido à prisão juntamente com eles.
+
+— Não é possível — murmuraram.
+
+— Que não é possível? — perguntou o guarda.
+
+— Ele não pode ser cristão — responderam. — Se fez o que dizes, não é cristão.
+
+— Não? Pois ele mesmo disse que sim. Os que o prenderam me contaram tudo. E no interrogatório tornou a confessá-lo.
+
+— Nós nem o conhecemos — murmuraram eles, apreensivos. Se fosse dos nossos, devíamos conhecê-lo. Ele nos é completamente estranho.
+
+— Sois todos uns farsantes, isso sim! Esperai um pouco e vereis uma coisa.
+
+Aproximou-se de Barrabás e exibiu a sua placa de escravo:
+
+— Olhai! Não é acaso o nome de vosso deus? Não entendo nada destes rabiscos, mas não é isso mesmo? Lede vós próprios!
+
+Reuniram-se em torno do guarda e de Barrabás e fixaram, pasmados, a inscrição no verso da placa. Em sua maioria, eles não a puderam decifrar, mas alguns murmuraram, receosos e em voz baixa:
+
+— Christus Iesus… Christus Iesus…
+
+O guarda atirou, brutalmente, a placa contra o peito de Barrabás e lançou, em torno de si, um olhar triunfante.
+
+— Que dizeis, hem? Ireis dizer-me ainda que ele não é cristão? Ele mesmo mostrou esta placa ao juiz, dizendo que não pertencia ao imperador, mas ao deus que adorais, àquele que foi crucificado. Quem vai ser crucificado agora é ele mesmo, creio que o posso garantir. E vós todos, aliás... Fizestes vossa parte mais habilmente do que ele, mas não ireis escapar. Foi pena um dos vossos ter sido tão estúpido que se atirou em nossos braços dizendo ser cristão!
+
+E, rindo-se espalhafatosamente daquelas fisionomias perturbadas, o guarda saiu, batendo a porta atrás de si.
+
+Aglomeraram-se de novo em torno de Barrabás e o crivaram de perguntas. Quem era? Era realmente cristão? De que confraria fazia parte? Era verdade que tinha feito lavrar o incêndio?
+
+Barrabás nada respondeu. Seu rosto estava lívido e os olhos escondiam-se o mais possível nas órbitas.
+
+— Cristão! Não vistes que a inscrição foi riscada?
+
+— Riscada! O nome do Senhor foi riscado?
+
+— Mas, sim! Vimos muito bem que sim!
+
+Alguns o tinham notado, mas não haviam refletido no que aquilo poderia significar. De fato, que queria dizer?
+
+Um deles tomou a placa e a examinou. Apesar de a claridade estar mais fraca ainda do que antes, viram que a inscrição estava riscada com dois nítidos traços em cruz, aparentemente feitos com um punhal, por mão vigorosa.
+
+— Por que o nome do Senhor está riscado? — perguntaram, um após outro. — Que significa isso? Não nos ouves? Que significa?
+
+Mas Barrabás continuava sem responder. Abaixou a cabeça, evitando olhar para os que o rodeavam. Deixou-os fazer tudo o que quiseram, mexer à vontade com sua placa de escravo, mas nada respondeu. Com crescente pasmo, e cada vez mais agitados, os outros encaravam o homem singular que se dizia cristão, mas que, evidentemente, não o era. Ninguém compreendia tão estranho procedimento. Alguns procuraram um velho que estava sentado na penumbra, mais ao fundo do cárcere, sem tomar parte no que se passava. Falaram com ele durante algum tempo e, finalmente, o ancião se ergueu e acompanhou-os até junto de Barrabás.
+
+Era um homem de elevada estatura, costas largas, ligeiramente curvadas, mas ainda assim de tamanho acima do normal. A possante cabeça tinha cabelos longos, mas ralos e completamente brancos, como a barba que lhe caía sobre o peito. Tinha aspecto venerável mas muito meigo; seus olhos azuis, muito abertos e límpidos como os de uma criança, revelavam a sabedoria da idade.
+
+Primeiro, olhou longamente para Barrabás, observando-lhe o velho rosto devastado. Depois, pareceu recordar-se de qualquer coisa e fez um sinal afirmativo com a cabeça.
+
+— Já faz muito tempo… — disse ele, num tom de escusa.
+
+E sentou-se na palha, em frente ao outro.
+
+Os que o rodeavam mostraram-se surpresos. O venerável pai conhecia aquele homem?
+
+Evidentemente, sim, a julgar pelo modo com que se pôs a conversar com ele. Perguntou-lhe como tinha vivido e como tinha passado durante tantos anos. Barrabás falou-lhe de sua vida. Não contou tudo — longe disso —, mas o suficiente para que o velho pudesse compreender ou imaginar o essencial. Quando percebia qualquer coisa que Barrabás não queria dizer, meneava a cabeça em silêncio. Conversaram livremente, embora fosse estranho para Barrabás fazer confidências a alguém, o que, aliás, também agora, só fazia em parte. Respondia com voz baixa e cansada as perguntas do outro, fitando-o de vez em quando nos olhos sábios e expressivos que, ao mesmo tempo, lembravam os de uma criança, ou no velho rosto encarquilhado, devastado como o seu, mas de modo bem diverso. Os sulcos naquela face eram profundos, mas a impressão causada era bem diferente; o rosto irradiava grande serenidade. A pele era quase completamente branca, e as faces estavam escaveiradas, sem dúvida por não lhe restarem muitos dentes. Mas, efetivamente, ele não mudara muito. Ainda falava em seu dialeto tranquilo e ingênuo.
+
+O venerando ancião foi sabendo, aos poucos, por que o nome do Senhor havia sido riscado e por que Barrabás tomara parte no incêndio de Roma: ele quisera ajudá-los e ajudar seu Salvador a destruir este mundo. O velho sacudiu tristemente a cabeça branca ao ouvi-lo. Perguntou a Barrabás como podia ter acreditado que os cristãos tivessem ateado fogo à cidade. Fora o próprio César, a fera, que o tinha feito, e era a ele que Barrabás ajudara.
+
+— Ajudaste o soberano deste mundo — disse o velho — o homem ao qual pertences, de acordo com a tua placa de escravo, e não o Senhor cujo nome nela está riscado. Serviste, sem o saber, ao teu verdadeiro senhor. Nosso Deus é o Amor — acrescentou, tranquilo, tomando a placa que pendia entre os pelos grisalhos do peito de Barrabás e olhando, melancolicamente, para o nome riscado do seu Senhor e Mestre.
+
+Seus dedos de ancião tornaram a largar a placa e ele suspirou profundamente. Compreendia que Barrabás era forçado a carregar aquela placa e que em nada o podia ajudar. Compreendeu que o outro o sabia, notou-o em seu olhar esquivo e desolado.
+
+— Quem é ele? Quem é ele? — perguntaram todos ao mesmo tempo, quando o ancião se ergueu.
+
+Este, a princípio, nada quis responder; tentou esquivar-se. Mas premiram-no tanto que se viu forçado a ceder.
+
+— É Barrabás, aquele que foi libertado em lugar do Mestre — disse ele.
+
+Encararam, pasmados, o estranho. Nada os poderia ter surpreendido nem perturbado mais.
+
+— Barrabás… — murmuraram. — Barrabás, o libertado!
+
+Era como se não o pudessem entender. E seus olhos brilharam rancorosos e ameaçadores na penumbra.
+
+O velho, porém, acalmou-os.
+
+— É um homem desgraçado — disse —, e não temos o direito de o julgar. Todos nós estamos cheios de defeitos e falhas, e não foi por merecimento nosso que o Senhor ainda assim teve piedade de nós. Não temos o direito de condenar um homem porque ele não tem deus.
+
+Todos baixaram os olhos e era como se não ousassem mais olhar para Barrabás depois do que se passara, depois daquelas últimas e terríveis palavras. Afastaram-se dele em silêncio e voltaram para onde tinham estado antes. O velho acompanhou-os a passos lentos, suspirando.
+
+Barrabás ficou novamente só.
+
+Permaneceu solitário durante todos os dias de reclusão, afastado dos outros. Ouvia-os cantar seus cânticos de fé e falar, cheios de esperança, da morte e da vida eterna que os aguardava. Principalmente depois de ter sido lida a sentença, falavam muito nisso. Estavam absolutamente confiantes, não existia para eles a mais remota dúvida.
+
+Barrabás escutava, mergulhado em seus próprios pensamentos. Também ele meditava no que estava para vir. Lembrava-se do homem do Monte das Oliveiras, que partilhara com ele o pão e o sal, e que, agora, devia ter morrido outra vez. Fazia já muito tempo, e sua caveira devia estar sorrindo na eterna escuridão.
+
+A vida eterna…
+
+Haveria mesmo qualquer sentido na vida que tinha vivido? Achava que não. Mas, naturalmente, nada sabia. Não competia a ele julgá-lo.
+
+Lá adiante, o velho de barbas brancas permanecia entre os seus. Ele os escutava e lhes dirigia a palavra, com sua honesta e sincera fala galileia. Às vezes, repousava a cabeça na palma da mão e ficava algum tempo calado. Talvez pensasse nas praias de Genesaré, onde tanto tinha desejado viver e morrer. Mas seu destino não lhe pertencia. Encontrara o Mestre em seu caminho e este lhe dissera: “Segue-me”. E tivera de segui-lo. De seus olhos de criança e de seu velho rosto enrugado, com faces escaveiradas, emanava profunda paz.
+
+✠
+
+Foram levados para o suplício, acorrentados de dois em dois. Como seu número não era par, Barrabás ficou por último no cortejo, não sendo acorrentado a ninguém. Assim se deu, por acaso. Do mesmo modo, ficou completamente só no extremo da fileira de cruzes.
+
+Havia muita gente reunida para ver, e demorou muito que tudo se acabasse. Os crucificados dirigiam-se, mutuamente, palavras de consolo e de esperança. Com Barrabás ninguém falava.
+
+À hora do crepúsculo, os espectadores já se tinham retirado, fatigados por ficarem tanto tempo de pé. Além disso, os condenados estavam todos mortos.
+
+Só Barrabás ainda vivia. Sentindo aproximar-se a morte, que sempre temera tanto, disse, na escuridão, como se falasse à noite:
+
+— A ti entrego minha alma.
+
+E rendeu o espírito.
+
+
+

@@ -1,0 +1,31 @@
+
+============================================================
+Anna karenina - Leon Tolstoi.pdf  (workers=6, force-ocr)
+============================================================
+1. Dividindo o PDF com qpdf...
+  Parte 1: páginas 1-135 (135 pág.)
+  Parte 2: páginas 136-270 (135 pág.)
+  Parte 3: páginas 271-405 (135 pág.)
+  Parte 4: páginas 406-540 (135 pág.)
+  Parte 5: páginas 541-675 (135 pág.)
+  Parte 6: páginas 676-807 (132 pág.)
+   6 partes.
+2. Convertendo em paralelo (OCR)...
+  [Worker 1] OCR páginas 1-135 (force)...
+  [Worker 2] OCR páginas 136-270 (force)...
+  [Worker 3] OCR páginas 271-405 (force)...
+  [Worker 4] OCR páginas 406-540 (force)...
+  [Worker 5] OCR páginas 541-675 (force)...
+  [Worker 6] OCR páginas 676-807 (force)...
+  [Worker 6] OK (páginas 676-807, 0 imagens)
+  [Worker 1] OK (páginas 1-135, 0 imagens)
+  [Worker 5] OK (páginas 541-675, 0 imagens)
+  [Worker 2] OK (páginas 136-270, 0 imagens)
+  [Worker 4] OK (páginas 406-540, 0 imagens)
+  [Worker 3] OK (páginas 271-405, 0 imagens)
+
+✅ Anna karenina - Leon Tolstoi.pdf
+   Markdown: output/Anna karenina - Leon Tolstoi.md  (1.8 MB)
+   Imagens : 0 em output/images
+/opt/homebrew/Cellar/python@3.14/3.14.3_1/Frameworks/Python.framework/Versions/3.14/lib/python3.14/multiprocessing/resource_tracker.py:396: UserWarning: resource_tracker: There appear to be 6 leaked semaphore objects to clean up at shutdown: {'/mp-r6on83ud', '/mp-pm1l07rg', '/mp-v0dblsr3', '/mp-hpa3pfl6', '/mp-pn8th_5h', '/mp-3nr0nzns'}
+  warnings.warn(

@@ -1,0 +1,196 @@
+# III
+
+No dia seguinte, passeando pela cidade, Barrabás encontrou muita gente conhecida, amigos e inimigos. Pareciam na maioria admirados de o ver, e havia os que estremeciam como se tivessem deparado com um fantasma. Isso causava-lhe uma sensação desagradável. Não sabiam então que ele tinha sido libertado? Quando compreenderiam que não fora ele o crucificado?
+
+O sol estava ardente; como era estranho custarem os olhos a habituar-se àquela forte claridade! Teria contraído realmente algum mal da vista durante a sua longa reclusão? Em todo o caso, achou melhor ficar na sombra. Ao passar pela galeria de colunas da rua que conduzia à praça do Templo, resolveu sentar-se sob a arcada para descansar um pouco os olhos. Na sombra sentiu um grande alívio.
+
+Viu, mais adiante, alguns homens sentados ao longo da parede. Conversavam em voz baixa e não pareceram apreciar muito sua chegada, pois o olhavam de soslaio e abaixaram ainda mais a voz. Ouvia uma ou outra palavra, mas lhe era impossível seguir o fio da conversa. Aliás, esta não o interessava, os segredos daquela gente não eram de sua conta. Um deles, homem de sua idade, tinha também barba vermelha igual à sua, que se fundia completamente nos cabelos ruivos, bastos e desgrenhados. Os olhos azuis tinham qualquer coisa de singularmente ingênuo, e o rosto era largo e cheio. Tudo nele era grande e forte. Era um rapagão desempenado e, a julgar por suas mãos e vestes, devia ser artesão. Pouco importava a Barrabás quem fosse o homem ou qual o seu aspecto, mas era uma dessas pessoas que não se pode deixar de notar, embora nada houvesse nele verdadeiramente fora do comum, a não ser os olhos azuis.
+
+O homem estava evidentemente triste e os outros pareciam partilhar sua tristeza. Deviam estar falando de alguém que tinha morrido, ou de coisa parecida. De vez em quando, todos suspiravam dolorosamente, embora fossem homens adultos. Se, de fato, assim era, se lamentavam a morte de alguém, fariam melhor em deixar seus queixumes às mulheres, a quaisquer carpideiras.
+
+De repente, Barrabás percebeu que o morto do qual falavam tinha sido crucificado — e que o tinha sido ainda ontem. Ontem...?
+
+Apurou o ouvido, mas os homens baixaram de novo a voz e ele nada mais pôde entender.
+
+De quem falariam eles?
+
+Pela rua passava gente e era impossível ouvir alguma coisa mais. Quando, porém, voltou a reinar relativo silêncio, ouviu o suficiente para entender que era mesmo sobre o que pensara. Era dele que estavam falando. Do homem que…
+
+Coisa estranha... Ele mesmo pensara, pouco antes, no homem! Passando por acaso em frente ao portão do palácio, pensara no crucificado. Perto do lugar em que o condenado tinha sucumbido ao peso da cruz, recordara-se outra vez de tudo. E agora aquela gente falava desse mesmo homem… Era estranho. Que teriam que ver com o crucificado? E por que baixavam a voz? Só o moço robusto de cabelos ruivos falava às vezes de modo que se ouvia dali; sua compleição de gigante parecia não se adaptar a cochichos.
+
+Diriam eles qualquer coisa acerca da... da tal escuridão? De ter escurecido no momento de sua morte?
+
+Barrabás pôs-se a ouvir atentamente, com tal exaltação que o deviam ter notado, pois se calaram de repente; ficaram mudos durante muito tempo, e sem proferir palavra o olhavam de esguelha. Depois, murmuraram entre si qualquer coisa que ele não pôde entender. Um pouco mais tarde, despediram-se do moço ruivo e foram embora. Eram quatro e nenhum deles agradou a Barrabás.
+
+Ele continuou ali sentado, a sós com o rapagão atlético. Tinha grande desejo de dirigir-lhe a palavra, mas não atinava com o que dizer para começo. O homem movia os lábios e sacudia às vezes a grande cabeça. Segundo o hábito da gente simples, ele manifestava suas preocupações por gestos. Finalmente, Barrabás perguntou-lhe sem rodeios qual a causa de sua aflição. Ele ergueu, com ar perturbado, os olhos azuis, muito redondos, e nada respondeu. Mas, após ter encarado o desconhecido durante alguns segundos, com expressão ingênua e crédula, perguntou se Barrabás não era de Jerusalém. Não, não era. Mas parecia que falara com o sotaque de gente daquela cidade. Barrabás respondeu que não vinha de muito longe, era das montanhas, vinha do leste. Viu-se claramente que isso inspirou mais confiança ao outro. Não gostava muito do povo de Jerusalém, disse-o diretamente; aquela gente não merecia a mínima confiança. Uns patifes, verdadeiros bandidos, isso sim... Barrabás riu-se e concordou plenamente. E ele, de onde vinha? Ah, vinha de longe, de muito longe! Seus olhos infantis tentaram expressar o quanto era distante o lugar de onde vinha. Confiou abertamente a Barrabás que desejava tanto estar em sua casa, em sua terra natal, por ele preferida a Jerusalém ou a qualquer outro lugar do mundo. Mas não podia já voltar, não podia viver e morrer em sua terra, como queria, como tinha imaginado outrora. Barrabás o estranhou. Por quê? Quem o poderia impedir, se cada um tem o direito de fazer de si o que quiser?
+
+— Oh, não!... Não é assim, não. — respondeu, pensativo, o rapaz.
+
+Barrabás não pôde deixar de perguntar por que então estava ele ali. O outro não respondeu logo. Depois, hesitante, disse que era por causa de seu Mestre.
+
+— Teu Mestre?
+
+— Sim. Não ouviste falar no Mestre?
+
+— Não.
+
+— Naquele que foi crucificado ontem no Gólgota?
+
+—  Ah, foi? Não sabia disso. Por que foi ele crucificado?
+
+— Porque estava determinado que assim tinha de acontecer.
+
+— Determinado? Estava decidido que ele seria crucificado?
+
+— Sim. Está nas escrituras. Além disso, o próprio Mestre o profetizou.
+
+— Ele o predisse? E está nas escrituras? Não as conheço tão bem para estar a par do que elas dizem.
+
+—  Nem eu. Mas sei que é assim.
+
+Barrabás não o punha em dúvida. Mas por que motivo tinha o Mestre fatalmente de ser crucificado? De que serviria? Era bem estranho.
+
+— É o que também acho. Não compreendo a razão dessa absoluta necessidade de morrer. E ainda por cima, de maneira tão horrível. Mas as coisas deviam passar-se como ele tinha profetizado. Tudo teve de acontecer como estava determinado, como fora ordenado. E ele mesmo — acrescentou o rapaz, inclinando a grande cabeça — repetiu tantas vezes que ia sofrer e morrer por nós…
+
+Barrabás fitou-o:
+
+— Morrer por nós?
+
+— Sim. Em nosso lugar. Sofrer e morrer inocentemente, por nossa causa. Devemos admitir que somos nós os culpados e não ele.
+
+Barrabás ficou olhando a rua e não perguntou mais nada durante algum tempo.
+
+— Agora que ele morreu, compreende-se muito melhor o que ele costumava dizer — murmurou o outro, como se falasse consigo mesmo.
+
+— Tu o conhecias bem? — perguntou Barrabás.
+
+— Claro. Conheci-o muito bem. Estive com ele, lá em cima, desde o começo, quando estava entre nós.
+
+— Ah, bem. Ele era lá de tua terra.
+
+— E depois o segui sempre, por toda a parte, por onde quer que ele andasse.
+
+— Por quê?
+
+— Por quê? Bem, isso agora ... Por aí se vê bem que não o conheceste…
+
+— Que queres dizer com isso?
+
+— Ele tinha poder sobre a gente, compreendes? Um estranho poder, um domínio... Dizia simplesmente: “Segui-me!”. E tinha-se de segui-lo. Não se podia fazer outra coisa. Se o tivesses conhecido, compreenderias melhor... Também o terias seguido.
+
+Barrabás calou-se. Mas, após um momento de silêncio:
+
+— Sim, deve ter sido um homem extraordinário, se o que dizes é verdade. No entanto, o fato de ter sido crucificado não prova que sua força não era, afinal, tão grande assim?
+
+— Não... Não é isso. Eu também pensei assim a princípio e é justamente o que me aflige — ter acreditado em semelhante coisa, ainda que fosse um só momento. Mas agora creio que compreendi o sentido de sua morte ignominiosa, agora que refleti um pouco e falei com os outros, mais versados nas escrituras. Vês, por nossa causa, ele, inocente, teve de sofrer tudo o que sofreu, até mesmo descer ao reino das sombras. Mas ele voltará para dar provas de seu infinito poder. Ele ressuscitará de entre os mortos! Estamos absolutamente certos disso.
+
+— Ressuscitar? Ressurgir depois de morto? Que bobagem!
+
+— Não é bobagem. Ele o fará. E muitos acreditam que será amanhã bem cedo. Amanhã será o terceiro dia. Ele declarou, parece, que ficaria três dias no reino dos mortos. Eu mesmo nunca o ouvi dizê-lo, mas consta que assim o predisse. E amanhã, ao nascer do sol…
+
+Barrabás deu de ombros.
+
+— Não o acreditas? — perguntou o outro.
+
+— Não.
+
+— Não, não... Nem podes acreditar... Nunca o conheceste. Mas muitos entre nós acreditam. E por que não, se ele ressuscitou tantos mortos?
+
+— Ressuscitou mortos? Não é possível!
+
+— É, sim. Eu o vi com meus próprios olhos.
+
+— É verdade mesmo?
+
+— Claro que é. A pura verdade. Seu poder é ilimitado. Pode fazer tudo, é só ele querer. Ah, seria bom se quisesse usar o poder em benefício próprio! Mas nunca o fez antes.
+
+— E por que se deixou então crucificar, se tinha tanto poder?
+
+— Pois, é... Já sei… Não são coisas fáceis de compreender. Sou um homem simples, sabes? Não me é nada fácil compreender tudo isso, podes crer.
+
+— Não estás certo de que ele vai ressuscitar?
+
+— Estou, sim, claro que estou. O que eles dizem é a verdade, estou convencido disso. O Mestre voltará para revelar-se perante nós em toda a sua glória e esplendor. Estou absolutamente certo disso e eles, que o afirmam, conhecem as escrituras muito melhor do que eu. Será um grande dia. Dizem que vai começar então uma nova era, a era da bem-aventurança, em que o Filho do Homem regerá o seu reino.
+
+— O filho do homem?
+
+— Sim. É como ele chamava a si mesmo.
+
+— O filho do homem?
+
+— Assim dizia ele. Mas há quem acredite... Não, não o posso dizer…
+
+Barrabás aproximou-se mais:
+
+— O que acreditam eles?
+
+— Acreditam ... que ele é filho do próprio Deus.
+
+— O filho de Deus!
+
+— É... Mas pode não ser verdade. Quase nos causa inquietação. Eu gostaria mais de vê-lo voltar como ele era antes.
+
+Barrabás não pôde conter sua agitação.
+
+— Como podem eles dizer semelhante absurdo! — gritou, exaltado. — O filho de Deus! O filho de Deus crucificado! Devias compreender que tal coisa é impossível!
+
+— Eu já disse que pode não ser verdade. Tornaria a dizê-lo, se assim o quiseres…
+
+— Quais são os loucos que acreditam nisso? — continuou Barrabás. A cicatriz sob o olho tornou-se mais vermelha, como sempre acontecia nas ocasiões em que se exaltava. — O filho de Deus? Claro que não era! Acreditas que o filho de Deus desceria à terra? E começaria por percorrer sua região natal e pregar?
+
+— Por que não? Seria bem possível. Podia tão bem começar lá como em qualquer outro lugar. É uma cidade pobre e pequena, bem sei. Mas em algum lugar era preciso começar.
+
+O homem era tão ingênuo que Barrabás teve vontade de rir. Mas sua agitação o impedia. Durante todo o tempo arrumava o seu manto de pelo de cabra, como se este se achasse prestes a cair-lhe dos ombros, o que não era o caso.
+
+— E os prodígios que assinalaram sua morte? — disse o outro. — Já pensaste neles?
+
+— Que prodígios?
+
+— Tudo escureceu no momento de sua morte. Não o sabias?
+
+Barrabás virou o rosto e passou as mãos nos olhos.
+
+— Nem que a terra tremeu e a colina do Gólgota se fendeu no lugar onde estava erguida a cruz?
+
+— Isso não é verdade! É pura invenção. Como sabes que a colina se fendeu? Estiveste lá para ver?
+
+Uma completa mudança operou-se subitamente no outro. Olhou para Barrabás, meio titubeante, depois abaixou os olhos:
+
+— Não, não... Eu nada sei ao certo. Não o presenciei, nem o posso atestar — balbuciou ele.
+
+Ficou longo tempo mudo e triste, suspirando dolorosamente. Afinal, pousando a mão no braço de Barrabás, continuou:
+
+— Vês... Eu não estava com meu Mestre quando ele sofria e agonizava. Eu tinha fugido. Abandonei-o e fugi. E antes já o tinha renegado. E aí está o pior de tudo... que o reneguei. Como poderá ele me perdoar, se voltar? Que direi eu, que responderei, se ele me interrogar?
+
+Ocultou com as mãos o rosto cheio e barbado, num gesto de desespero:
+
+— Como pude fazer semelhante coisa? Como é possível que se possa cometer tal erro?...
+
+Seus límpidos olhos azuis estavam úmidos quando ele, afinal, ergueu a cabeça e fitou Barrabás:
+
+— Perguntaste-me o que me afligia. Agora o sabes. Agora sabes como me sinto. E meu Senhor e Mestre o sabe ainda melhor. Sou apenas uma pobre e miserável criatura humana… Crês que ele me perdoará?
+
+Barrabás disse acreditar que sim. Na realidade, o que ouvia não bastava para despertar nele grande interesse, mas em todo o caso disse que sim, para mostrar simpatia e porque sentia pena daquele homem que acusava a si mesmo como criminoso, embora nada tivesse feito de mal. Pois haveria alguém no mundo que nunca tivesse traído, de um modo ou de outro?
+
+O homem tomou-lhe a mão, apertando-a fortemente.
+
+— Achas que sim? Achas que sim? — repetiu, consternado.
+
+Nesse momento, alguns homens passaram na rua. Quando viram o moço ruivo e o homem com quem falava, cuja mão retinha na sua, estremeceram e pararam, não querendo acreditar no que viam. Aproximaram-se depressa e, abordando com profundo respeito o homem malvestido, gritaram alvoroçadamente:
+
+— Não sabes quem é este indivíduo?
+
+— Não — respondeu ele, o que era verdade. — Não sei. Mas é um homem compassivo e nos entendemos muito bem.
+
+— Não sabes então que foi em seu lugar que o Mestre foi crucificado?
+
+O homem largou a mão de Barrabás e olhou de um para outro lado, sem poder ocultar a sua perturbação. Os recém-chegados revelaram ainda mais claramente o que pensavam e sentiam, e ouvia-se-lhes a respiração ofegante, que denotava indignação.
+
+Barrabás se tinha erguido e lhes virara as costas, para que ninguém lhe visse o rosto.
+
+— Fora daqui, maldito! — gritaram os homens com violência.
+
+Ele envolveu-se em seu manto e afastou-se, só, pela rua afora, sem se voltar uma única vez.
+
+
+
