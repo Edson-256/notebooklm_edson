@@ -48,7 +48,7 @@ O nome **completo** aparece no cabeçalho de cada prompt em `obras/*/prompts/*.m
 ### Opção A — Fluxo manual via UI (até ~50 áudios/dia, sem entrar no limite CLI)
 
 ```bash
-cd /Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/aristoteles
+cd /Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/aristoteles
 
 # 1. Ver próximas em ordem de prioridade
 python3 scripts/07_audio_runner.py --list-pending 5
@@ -77,7 +77,7 @@ python3 scripts/07_audio_runner.py --claim <artifact_id> <cena_id>
 cp scripts/cron_audio.sh.template scripts/cron_audio.sh
 chmod +x scripts/cron_audio.sh
 crontab -e
-# Adicionar: 0 7 * * * /Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/aristoteles/scripts/cron_audio.sh
+# Adicionar: 0 7 * * * /Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/aristoteles/scripts/cron_audio.sh
 ```
 
 ## Arquivos-chave

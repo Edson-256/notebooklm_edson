@@ -5,7 +5,7 @@
 
 set -u
 
-PROJECT_DIR="/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/aristoteles"
+PROJECT_DIR="/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/aristoteles"
 RUNNER="$PROJECT_DIR/scripts/05_daily_cenas_runner.py"
 REPO_DIR="/Users/edsonmichalkiewicz/dev/notebooklm_edson"
 LOG_DIR="$REPO_DIR/logs"

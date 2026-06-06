@@ -45,7 +45,7 @@ PROJECTS = [
         "label": "William Shakespeare",
         "repo": REPO_EDSON,
         "type": "obra_multi",
-        "metadata_glob": "projetos/w_shakespeare/*/audios/metadata.json",
+        "metadata_glob": "projetos/literatura/w_shakespeare/*/audios/metadata.json",
         "icloud_folder": "w_shakespeare",
     },
     {
@@ -53,7 +53,7 @@ PROJECTS = [
         "label": "Ben-Hur (Lew Wallace)",
         "repo": REPO_EDSON,
         "type": "obra_single",
-        "metadata_file": "projetos/ben-hur/audios/metadata.json",
+        "metadata_file": "projetos/literatura/ben-hur/audios/metadata.json",
         "icloud_folder": "ben_hur",
     },
     {

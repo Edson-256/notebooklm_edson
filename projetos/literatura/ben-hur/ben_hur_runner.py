@@ -5,10 +5,10 @@ Dispara criação dos áudios no NotebookLM sem esperar processamento.
 Adaptado do Shakespeare Runner v3 para o projeto Ben-Hur (81 cenas).
 
 Uso:
-    python3 projetos/ben-hur/ben_hur_runner.py              # Fire-and-forget
-    python3 projetos/ben-hur/ben_hur_runner.py --dry-run    # Mostrar plano
-    python3 projetos/ben-hur/ben_hur_runner.py --max-scenes 5
-    python3 projetos/ben-hur/ben_hur_runner.py --download   # Baixar áudios prontos
+    python3 projetos/literatura/ben-hur/ben_hur_runner.py              # Fire-and-forget
+    python3 projetos/literatura/ben-hur/ben_hur_runner.py --dry-run    # Mostrar plano
+    python3 projetos/literatura/ben-hur/ben_hur_runner.py --max-scenes 5
+    python3 projetos/literatura/ben-hur/ben_hur_runner.py --download   # Baixar áudios prontos
 """
 
 import subprocess
@@ -24,8 +24,8 @@ import unicodedata
 import argparse
 
 # ── Configurações ──────────────────────────────────────────────────────
-PROJECT_DIR = Path(__file__).parent.parent.parent  # notebooklm_edson/
-BENHUR_DIR = Path(__file__).parent                 # projetos/ben-hur/
+PROJECT_DIR = Path(__file__).parent.parent.parent.parent  # notebooklm_edson/
+BENHUR_DIR = Path(__file__).parent                 # projetos/literatura/ben-hur/
 LOGS_DIR = PROJECT_DIR / "logs"
 NOTEBOOK_ID = "1ecdbff9-2511-4a7f-99a0-10d3eadc1042"
 SOURCE_ID = "37da47f1-7f92-4c3c-b831-faab6e7cdc3d"

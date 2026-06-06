@@ -36,8 +36,8 @@ from datetime import datetime
 from pathlib import Path
 
 # ── Configurações ──────────────────────────────────────────────────────
-COF_DIR = Path(__file__).resolve().parent.parent      # projetos/cof_v2/
-PROJECT_DIR = COF_DIR.parent.parent                   # notebooklm_edson/
+COF_DIR = Path(__file__).resolve().parent.parent      # projetos/filosofia/cof_v2/
+PROJECT_DIR = COF_DIR.parent.parent.parent            # notebooklm_edson/
 LOGS_DIR = PROJECT_DIR / "logs"
 NOTEBOOK_ID = "5508086a-da53-4947-bce4-a1d7d83cf0e2"
 SOURCES_MAP_FILE = COF_DIR / "_sources_map.json"
@@ -101,7 +101,7 @@ def log(message: str):
 
 def _sync_to_dell(slug: str, file: Path) -> None:
     """Chama sync_to_dell.py --project <slug> --apply após cada download. Silencioso em falha."""
-    sync_script = Path(__file__).resolve().parents[4] / "dell_server/podcast_system/sync/sync_to_dell.py"
+    sync_script = Path(__file__).resolve().parents[5] / "dell_server/podcast_system/sync/sync_to_dell.py"
     if not sync_script.exists():
         return
     try:

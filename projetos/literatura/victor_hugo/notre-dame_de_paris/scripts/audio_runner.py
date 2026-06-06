@@ -29,7 +29,7 @@ from pathlib import Path
 
 # ── Configuração do projeto ────────────────────────────────────────────
 PROJECT_DIR = Path(__file__).resolve().parent.parent     # notre-dame_de_paris/
-REPO_DIR = PROJECT_DIR.parents[2]                        # notebooklm_edson/
+REPO_DIR = PROJECT_DIR.parents[3]                        # notebooklm_edson/
 LOGS_DIR = REPO_DIR / "logs"
 
 NOTEBOOK_ID = "9c2b9d88-e6be-4777-9607-56b7f3480e66"
@@ -80,7 +80,7 @@ def log(msg: str):
 
 def _sync_to_dell(slug: str, file: Path) -> None:
     """Chama sync_to_dell.py --project <slug> --apply após cada download. Silencioso em falha."""
-    sync_script = Path(__file__).resolve().parents[5] / "dell_server/podcast_system/sync/sync_to_dell.py"
+    sync_script = Path(__file__).resolve().parents[6] / "dell_server/podcast_system/sync/sync_to_dell.py"
     if not sync_script.exists():
         return
     try:

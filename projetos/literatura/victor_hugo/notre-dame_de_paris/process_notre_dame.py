@@ -1,7 +1,7 @@
 import os
 import re
 
-base_dir = '/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/victor_hugo/notre-dame_de_paris'
+base_dir = '/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris'
 file_path = os.path.join(base_dir, 'Notre-Dame_de_Paris.md')
 
 with open(file_path, 'r', encoding='utf-8') as f:

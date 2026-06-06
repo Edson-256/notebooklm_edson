@@ -130,7 +130,7 @@ chmod +x scripts/cron_audio.sh
 
 crontab -e
 # Adicionar a linha (sugestão 7:00 — convive com Promessi 8:00 / Notre Dame 8:05):
-0 7 * * * /Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/aristoteles/scripts/cron_audio.sh
+0 7 * * * /Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/aristoteles/scripts/cron_audio.sh
 ```
 
 > **Atenção:** O comando `--create` ainda está em modo *stub* (apenas registra, não

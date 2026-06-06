@@ -2,7 +2,7 @@ import os
 import glob
 import re
 
-base_dir = '/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/mazoni/I Promesi Sposi'
+base_dir = '/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/mazoni/I Promesi Sposi'
 capitoli_dir = os.path.join(base_dir, 'capitoli')
 prompts_dir = os.path.join(base_dir, 'prompts')
 cenas_dir = os.path.join(base_dir, 'cenas')

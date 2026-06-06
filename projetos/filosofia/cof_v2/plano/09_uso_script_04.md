@@ -33,7 +33,7 @@ o material textual.
 ## Fluxo recomendado
 
 ```bash
-cd ~/dev/notebooklm_edson/projetos/cof_v2
+cd ~/dev/notebooklm_edson/projetos/filosofia/cof_v2
 
 # 1. Ver estado geral
 python3 scripts/04_generate_prompt_batch.py --list

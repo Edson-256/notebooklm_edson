@@ -14,7 +14,7 @@
 set -u
 
 PROJECT_DIR="/Users/edsonmichalkiewicz/dev/notebooklm_edson"
-COF_DIR="$PROJECT_DIR/projetos/cof_v2"
+COF_DIR="$PROJECT_DIR/projetos/filosofia/cof_v2"
 VENV_PY="$COF_DIR/.venv/bin/python"
 RUNNER="$COF_DIR/scripts/06_audio_runner.py"
 LOG_DIR="$PROJECT_DIR/logs"

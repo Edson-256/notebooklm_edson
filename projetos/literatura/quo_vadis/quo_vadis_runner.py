@@ -5,12 +5,12 @@ Dispara criação dos áudios no NotebookLM sem esperar processamento.
 Adaptado do Ben-Hur Runner para 134 cenas em 3 partes + epílogo.
 
 Uso:
-    python3 projetos/quo_vadis/quo_vadis_runner.py                          # Fire-and-forget
-    python3 projetos/quo_vadis/quo_vadis_runner.py --dry-run                # Mostrar plano
-    python3 projetos/quo_vadis/quo_vadis_runner.py --max-scenes 5
-    python3 projetos/quo_vadis/quo_vadis_runner.py --parte 1                # Só a Parte 1
-    python3 projetos/quo_vadis/quo_vadis_runner.py --from-scene 35 --to-scene 52   # Intervalo
-    python3 projetos/quo_vadis/quo_vadis_runner.py --download               # Baixar áudios prontos
+    python3 projetos/literatura/quo_vadis/quo_vadis_runner.py                          # Fire-and-forget
+    python3 projetos/literatura/quo_vadis/quo_vadis_runner.py --dry-run                # Mostrar plano
+    python3 projetos/literatura/quo_vadis/quo_vadis_runner.py --max-scenes 5
+    python3 projetos/literatura/quo_vadis/quo_vadis_runner.py --parte 1                # Só a Parte 1
+    python3 projetos/literatura/quo_vadis/quo_vadis_runner.py --from-scene 35 --to-scene 52   # Intervalo
+    python3 projetos/literatura/quo_vadis/quo_vadis_runner.py --download               # Baixar áudios prontos
 """
 
 import subprocess
@@ -26,8 +26,8 @@ import unicodedata
 import argparse
 
 # ── Configurações ──────────────────────────────────────────────────────
-PROJECT_DIR = Path(__file__).parent.parent.parent  # notebooklm_edson/
-QV_DIR = Path(__file__).parent                      # projetos/quo_vadis/
+PROJECT_DIR = Path(__file__).parent.parent.parent.parent  # notebooklm_edson/
+QV_DIR = Path(__file__).parent                      # projetos/literatura/quo_vadis/
 LOGS_DIR = PROJECT_DIR / "logs"
 NOTEBOOK_ID = "c7f86c97-bf9b-4087-bcc2-2945fb18ee93"
 SOURCES_MAP_FILE = QV_DIR / "_sources_map.json"     # title → source_id
@@ -334,7 +334,7 @@ def wait_for_completion(artifact_id: str) -> bool:
 
 
 def _sync_to_dell(file: Path) -> None:
-    sync_script = Path(__file__).resolve().parents[3] / "dell_server/podcast_system/sync/sync_to_dell.py"
+    sync_script = Path(__file__).resolve().parents[4] / "dell_server/podcast_system/sync/sync_to_dell.py"
     if not sync_script.exists():
         return
     try:

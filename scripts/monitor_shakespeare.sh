@@ -23,7 +23,7 @@ echo "━━━━━━━━━━━━━━━━━━━━━━━━�
 echo ""
 
 # Verificar arquivos gerados
-AUDIOS_DIR="/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/w_shakespeare/*/audios"
+AUDIOS_DIR="/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/w_shakespeare/*/audios"
 
 echo "📁 Áudios gerados até agora:"
 echo ""

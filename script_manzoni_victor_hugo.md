@@ -24,7 +24,7 @@ Aqui estão os comandos exatos e como utilizá-los:
 Acesse a pasta do projeto:
 
 ```bash
-cd "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/mazoni/I Promesi Sposi"
+cd "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/mazoni/I Promesi Sposi"
 ```
 
 * **Para baixar os áudios prontos e renomeá-los automaticamente:**
@@ -49,7 +49,7 @@ cd "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/mazoni/I Promesi Spo
 Acesse a pasta do projeto:
 
 ```bash
-cd "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/victor_hugo/notre-dame_de_paris"
+cd "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris"
 ```
 
 * **Para baixar os áudios prontos e renomeá-los automaticamente:**

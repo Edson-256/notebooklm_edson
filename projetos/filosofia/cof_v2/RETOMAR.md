@@ -183,5 +183,5 @@ projetos/cof_v2/
 Cole isto no Claude Code novo e ele entra no contexto certo:
 
 ```
-Estou retomando o projeto cof_v2. Leia ~/dev/notebooklm_edson/projetos/cof_v2/RETOMAR.md e me oriente o próximo passo. Estou no diretório certo.
+Estou retomando o projeto cof_v2. Leia ~/dev/notebooklm_edson/projetos/filosofia/cof_v2/RETOMAR.md e me oriente o próximo passo. Estou no diretório certo.
 ```

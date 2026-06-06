@@ -77,7 +77,7 @@ Toda tarefa significativa neste projeto deve ser criada em Beads ANTES de inicia
 ## Re-rodar o download
 
 ```bash
-cd /Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/aristoteles
+cd /Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/aristoteles
 python3 scripts/01_download_corpus.py            # baixa apenas o que falta
 python3 scripts/01_download_corpus.py --force    # re-baixa tudo
 python3 scripts/01_download_corpus.py --only etica  # filtra categoria

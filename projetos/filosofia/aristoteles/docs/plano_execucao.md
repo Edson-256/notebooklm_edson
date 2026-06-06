@@ -119,7 +119,7 @@ python3 scripts/05_daily_cenas_runner.py --dry-run   # mostra sem gravar
 
 ```cron
 # Aristóteles: gera 100 cenas+prompts/dia em ordem canônica de prioridade
-0 7 * * * /Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/aristoteles/scripts/cron_daily.sh
+0 7 * * * /Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/aristoteles/scripts/cron_daily.sh
 ```
 
 Wrapper `scripts/cron_daily.sh` chama o runner com limit 100, loga em

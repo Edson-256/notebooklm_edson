@@ -50,3 +50,11 @@ projetos/mazoni/I Promesi Sposi/cenas/
 # Áudios baixados do NotebookLM (pesados, mantidos só localmente)
 **/audios/*.m4a
 **/audios/*.mp3
+
+# Symlinks de compatibilidade do crontab (bridge nomes antigos -> categorias).
+# Só existem no StudioM4; permitem o crontab atual achar os cron_*.sh sem editá-lo.
+# Recriáveis via logs/fix_symlinks.sh. NÃO apagar sem antes editar o crontab.
+/projetos/aristoteles
+/projetos/cof_v2
+/projetos/mazoni
+/projetos/victor_hugo

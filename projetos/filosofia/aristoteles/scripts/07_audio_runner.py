@@ -130,7 +130,7 @@ def ensure_profile() -> None:
 def _sync_to_dell(slug: str, file: Path) -> None:
     """Chama sync_to_dell.py --project <slug> --apply após cada download
     (Mac → dell:/srv/podcasts/<slug>). Silencioso em falha."""
-    sync_script = (Path(__file__).resolve().parents[4]
+    sync_script = (Path(__file__).resolve().parents[5]
                    / "dell_server/podcast_system/sync/sync_to_dell.py")
     if not sync_script.exists():
         return

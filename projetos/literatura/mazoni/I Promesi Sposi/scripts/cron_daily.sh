@@ -4,7 +4,7 @@
 
 set -u
 
-PROJECT_DIR="/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/mazoni/I Promesi Sposi"
+PROJECT_DIR="/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/mazoni/I Promesi Sposi"
 RUNNER="$PROJECT_DIR/scripts/audio_runner.py"
 REPO_DIR="/Users/edsonmichalkiewicz/dev/notebooklm_edson"
 LOG_DIR="$REPO_DIR/logs"

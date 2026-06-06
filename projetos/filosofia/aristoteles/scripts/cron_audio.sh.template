@@ -4,13 +4,13 @@
 # STATUS: STANDBY. Para ativar quando o cron do COF v2 (21:00) terminar:
 #   1. cp cron_audio.sh.template cron_audio.sh && chmod +x cron_audio.sh
 #   2. Adicionar ao crontab (sugestão: 7:00, mesmo horário das cenas):
-#        0 7 * * * /Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/aristoteles/scripts/cron_audio.sh
+#        0 7 * * * /Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/aristoteles/scripts/cron_audio.sh
 #
 # Notifica em falha (auth expirado etc).
 
 set -u
 
-PROJECT_DIR="/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/aristoteles"
+PROJECT_DIR="/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/aristoteles"
 RUNNER="$PROJECT_DIR/scripts/07_audio_runner.py"
 REPO_DIR="/Users/edsonmichalkiewicz/dev/notebooklm_edson"
 LOG_DIR="$REPO_DIR/logs"

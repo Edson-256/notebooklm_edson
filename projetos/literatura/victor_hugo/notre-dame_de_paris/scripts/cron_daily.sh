@@ -4,7 +4,7 @@
 
 set -u
 
-PROJECT_DIR="/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/victor_hugo/notre-dame_de_paris"
+PROJECT_DIR="/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris"
 RUNNER="$PROJECT_DIR/scripts/audio_runner.py"
 REPO_DIR="/Users/edsonmichalkiewicz/dev/notebooklm_edson"
 LOG_DIR="$REPO_DIR/logs"
