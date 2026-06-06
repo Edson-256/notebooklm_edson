@@ -22,12 +22,12 @@ docs/notebooklm/install_log.md
 *.wav
 
 # Saída bruta de conversão de epub e downloads (regeneráveis via scripts)
-projetos/*/_raw/
-projetos/aristoteles/obras/**/_raw/
-projetos/aristoteles/obras/**/clean/
-projetos/aristoteles/obras/**/capitulos/
-projetos/aristoteles/obras/**/cenas/
-projetos/aristoteles/obras/**/prompts/
+# Padrões category-agnostic (**) — robustos à reorg projetos/<categoria>/<projeto>
+projetos/**/_raw/
+projetos/**/obras/**/clean/
+projetos/**/obras/**/capitulos/
+projetos/**/obras/**/cenas/
+projetos/**/obras/**/prompts/
 
 # Python
 __pycache__/
@@ -41,11 +41,11 @@ venv/
 *.db
 
 # Notre-Dame Formative Reading Original Texts
-projetos/victor_hugo/notre-dame_de_paris/Notre-Dame_de_Paris.md
-projetos/victor_hugo/notre-dame_de_paris/cenas/
+projetos/**/notre-dame_de_paris/Notre-Dame_de_Paris.md
+projetos/**/notre-dame_de_paris/cenas/
 
 # Manzoni Formative Reading
-projetos/mazoni/I Promesi Sposi/cenas/
+projetos/**/I Promesi Sposi/cenas/
 
 # Áudios baixados do NotebookLM (pesados, mantidos só localmente)
 **/audios/*.m4a

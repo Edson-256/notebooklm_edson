@@ -1,3 +1,0 @@
-« Fille bohème, le jour qu’il plaira au roi notre sire, à l’heure de midi, vous serez menée dans un tombereau, en chemise, pieds nus, la corde au cou, devant le grand portail de Notre-Dame, et y ferez amende honorable avec une torche de cire du poids de deux livres à la main, et de là serez menée en place de Grève, où vous serez pendue et étranglée au gibet de la ville ; et cette votre chèvre pareillement ; et paierez à l’official trois lions d’or, en réparation des
-crimes, par vous commis et par vous confessés, de sorcellerie, de magie, de luxure et de meurtre sur la personne du sieur Phœbus de Châteaupers, Dieu ait votre âme !
-Oh ! c’est un rêve ! » murmura-t-elle, et elle sentit de rudes mains qui l’emportaient.

@@ -1,1 +1,0 @@
-Il courut beaucoup de bruits sur cette aventure. On ne douta pas que le jour ne fût venu où, d’après leur pacte, Quasimodo, c’est-à- dire le diable, devait emporter Claude Frollo, c’est-à-dire le sorcier. On présuma qu’il avait brisé le corps en prenant l’âme, comme les singes qui cassent la coquille pour manger la noix.

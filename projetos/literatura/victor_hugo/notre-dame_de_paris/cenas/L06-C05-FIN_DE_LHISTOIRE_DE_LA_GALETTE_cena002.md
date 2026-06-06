@@ -1,2 +1,0 @@
-L’heure était venue de remmener Quasimodo. On le détacha, et la foule se dispersa.
-Près du Grand-Pont, Mahiette, qui s’en revenait avec ses deux compagnes, s’arrêta brusquement : « À propos, Eustache ! qu’as-tu fait de la galette ?

@@ -1,3 +1,0 @@
-Gringoire se pencha à l’oreille de l’archidiacre et lui parla très bas, en jetant un regard inquiet d’un bout à l’autre de la rue où il ne passait pourtant personne. Quand il eut fini, dom Claude lui prit la main et lui dit froidement : « C’est bon. À demain.
-À demain », répéta Gringoire. Et tandis que l’archidiacre s’éloignait d’un côté, il s’en alla de l’autre en se disant à demi-voix :
-« Voilà une fière affaire, monsieur Pierre Gringoire. N’importe. Il n’est pas dit, parce qu’on est petit, qu’on s’effraiera d’une grande entreprise. Biton porta un grand taureau sur ses épaules ; les hochequeues, les fauvettes et les traquets traversent l’océan. »
