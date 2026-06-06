@@ -1,0 +1,25 @@
+-- Lasciati guidare da chi ne sa più di te, -- disse Agnese, con volto grave. -- Che bisogno c'è di chieder pareri? Dio dice: aiutati, ch'io t'aiuto. Al padre racconteremo tutto, a cose fatte.
+-- Lucia, -- disse Renzo, -- volete voi mancarmi ora? Non avevamo noi fatto tutte le cose da buon cristiani? Non dovremmo esser già marito e moglie? Il curato non ci aveva fissato lui il giorno e l'ora? E di chi è la colpa, se dobbiamo ora aiutarci con un po' d'ingegno? No, non mi mancherete. Vado e torno con la risposta. -- E, salutando Lucia, con un atto di preghiera, e Agnese, con un'aria d'intelligenza, partì in fretta.
+Le tribolazioni aguzzano il cervello: e Renzo il quale, nel sentiero retto e piano di vita percorso da lui fin allora, non s'era mai trovato nell'occasione d'assottigliar molto il suo, ne aveva, in questo caso, immaginata una, da far onore a un giureconsulto. Andò addirittura, secondo che aveva disegnato, alla casetta d'un certo Tonio, ch'era lì poco distante; e lo trovò in cucina, che, con un ginocchio sullo scalino del focolare, e tenendo, con una mano, l'orlo d'un paiolo, messo sulle ceneri calde, dimenava, col matterello ricurvo19, una piccola polenta bigia, di gran saraceno20. La madre, un fratello, la moglie di Tonio, erano a tavola; e tre o quattro ragazzetti, ritti accanto al babbo, stavano aspettando, con gli occhi fissi al paiolo, che venisse il momento di scodellare. Ma non c'era quell'allegria che la vista del desinare suol pur dare a chi se l'è meritato con la fatica. La mole della polenta era in ragion dell'annata, e non del numero e della buona voglia de' commensali: e ognun d'essi, fissando, con uno sguardo bieco d'amor rabbioso, la vivanda comune, pareva pensare alla porzione d'appetito che le doveva sopravvivere. Mentre Renzo barattava i saluti con la famiglia, Tonio scodellò la polenta sulla tafferìa21 di faggio, che stava apparecchiata22 a riceverla: e parve una piccola luna, in un gran cerchio di vapori. Nondimeno le donne dissero cortesemente a Renzo: -- volete restar servito? --, complimento che il contadino di Lombardia, e chi sa di quant'altri paesi! non lascia mai di fare a chi lo trovi a mangiare, quand'anche questo fosse un ricco epulone23 alzatosi allora da tavola, e lui fosse all'ultimo boccone.
+-- Vi ringrazio, -- rispose Renzo: -- venivo solamente per dire una parolina a Tonio; e, se vuoi, Tonio, per non disturbar le tue donne, possiamo andar a desinare all'osteria, e lì parleremo. -- La proposta fu per Tonio tanto più gradita, quanto meno aspettata; e le donne, e anche i bimbi (giacché, su questa materia, principian presto a ragionare) non videro mal volentieri che si sottraesse alla polenta un concorrente, e il più formidabile. L'invitato non istette a domandar altro, e andò con Renzo.
+Giunti all'osteria del villaggio; seduti, con tutta libertà, in una perfetta solitudine, giacché la miseria aveva divezzati tutti i frequentatori di quel luogo di delizie; fatto portare quel poco che si trovava; votato un boccale di vino; Renzo, con aria di mistero, disse a Tonio: -- se tu vuoi farmi un piccolo servizio, io te ne voglio fare uno grande.
+-- Parla, parla; comandami pure, -- rispose Tonio, mescendo.
+-- Oggi mi butterei nel fuoco per te.
+-- Tu hai un debito di venticinque lire24 col signor curato per fitto del suo campo, che lavoravi, l'anno passato.
+-- Ah, Renzo, Renzo! tu mi guasti il benefizio. Con che cosa mi vieni fuori? M'hai fatto andar via il buon umore.
+-- Se ti parlo del debito, -- disse Renzo, -- è perché, se tu vuoi, io intendo di darti il mezzo di pagarlo.
+-- Dici davvero?
+-- Davvero. Eh? saresti contento?
+-- Contento? Per diana, se sarei contento! Se non foss'altro, per non veder più que' versacci25, e que' cenni col capo, che mi fa il signor curato, ogni volta che c'incontriamo. E poi sempre: Tonio, ricordatevi: Tonio, quando ci vediamo, per quel negozio? A tal segno che quando, nel predicare, mi fissa quegli occhi addosso, io sto quasi in timore che abbia a dirmi, lì in pubblico: quelle venticinque lire! Che maledette siano le venticinque lire! E poi, m'avrebbe a restituir la collana d'oro di mia moglie, che la baratterei in tanta polenta. Ma...
+-- Ma, ma, se tu mi vuoi fare un servizietto, le venticinque lire son preparate.
+-- Dì su.
+-- Ma...! -- disse Renzo, mettendo il dito alla bocca.
+-- Fa bisogno di queste cose? tu mi conosci.
+-- Il signor curato va cavando fuori certe ragioni senza sugo, per tirare in lungo il mio matrimonio; e io in vece vorrei spicciarmi. Mi dicon di sicuro che, presentandosegli davanti i due sposi, con due testimoni, e dicendo io: questa è mia moglie, e Lucia: questo è mio marito, il matrimonio è bell'e fatto. M'hai tu inteso?
+-- Tu vuoi ch'io venga per testimonio?
+-- Per l'appunto.
+-- E pagherai per me le venticinque lire?
+-- Così l'intendo.
+-- Birba chi manca26.
+-- Ma bisogna trovare un altro testimonio.
+-- L'ho trovato. Quel sempliciotto di mio fratel Gervaso farà quello che gli dirò io. Tu gli pagherai da bere?

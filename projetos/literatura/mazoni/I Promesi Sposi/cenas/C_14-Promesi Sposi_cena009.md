@@ -1,0 +1,2 @@
+32 siés baraòs trapolorum...: «la frase è semplicemente un'eco molto confusa dello spagnuolo di Ferrer (contaminata col latino di don Abbondio) in una mente incolta e offuscata, ma con un principio vago di parodia. Trapolorum, in analogia a latinorum esprime la diffidenza di Renzo per quel benedetto latino di Ferrer, messo lì, come al solito, per far perdere il filo, per confondere le idee ai poveri figliuoli. Trapolorum come chi dicesse "tutte trappole"» (Russo).
+33 più altamente: a fondo.

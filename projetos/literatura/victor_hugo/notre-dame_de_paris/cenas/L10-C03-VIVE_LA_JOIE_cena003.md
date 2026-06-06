@@ -1,0 +1,25 @@
+Il y eut un moment de quasi-silence pendant lequel s’éleva à son tour la voix aigre du duc d’Égypte, enseignant ses bohémiens… « La belette s’appelle Aduine, le renard Pied-Bleu ou le Coureur-des- Bois, le loup Pied-Gris ou Pied-Doré, l’ours le Vieux ou le Grand- Père. – Le bonnet d’un gnome rend invisible, et fait voir les choses invisibles. – Tout crapaud qu’on baptise doit être vêtu de velours rouge ou noir, une sonnette au cou, une sonnette aux pieds. Le parrain tient la tête, la marraine le derrière. – C’est le démon Sidragasum qui a le pouvoir de faire danser les filles toutes nues.
+– Par la messe ! interrompit Jehan, je voudrais être le démon Sidragasum. »
+Cependant les truands continuaient de s’armer en chuchotant à l’autre bout du cabaret.
+« Cette pauvre Esmeralda ! disait un bohémien. C’est notre sœur.
+Il faut la tirer de là.
+Est-elle donc toujours à Notre-Dame ? reprenait un marcandier à mine de juif.
+Oui, pardieu !
+Eh bien ! camarades, s’écria le marcandier, à Notre-Dame ! D’autant mieux qu’il y a à la chapelle des saints Féréol et Ferrution deux statues, l’une de saint Jean-Baptiste, l’autre de saint Antoine, toutes d’or, pesant ensemble dix-sept marcs d’or et quinze estellins, et les sous-pieds d’argent doré dix-sept marcs cinq onces. Je sais cela. Je suis orfèvre. »
+Ici on servit à Jehan son souper. Il s’écria, en s’étalant sur la gorge de la fille sa voisine :
+« Par saint Voult-de-Lucques, que le peuple appelle saint Goguelu, je suis parfaitement heureux. J’ai là devant moi un imbécile qui me regarde avec la mine glabre d’un archiduc. En voici un à ma gauche qui a les dents si longues qu’elles lui cachent le menton. Et puis je suis comme le maréchal de Gié au siège de Pontoise, j’ai ma droite appuyée à un mamelon. – Ventre-Mahom ! camarade ! tu as l’air d’un marchand d’esteufs, et tu viens t’asseoir auprès de moi ! Je suis noble, l’ami. La marchandise est incompatible avec la noblesse ! Va-t’en de là. – Holàhée ! vous autres ! ne vous battez pas ! Comment, Baptiste Croque-Oison, toi qui as un si beau nez, tu vas le risquer contre les gros poings de ce butor ! Imbécile ! Non cuiquam datum est habere nasum{123}. – Tu es vraiment divine, Jacqueline Ronge-Oreille ! c’est dommage que tu n’aies pas de cheveux. – Holà ! je m’appelle Jehan Frollo, et mon frère est archidiacre. Que le diable l’emporte ! Tout ce que je vous dis est la vérité. En me faisant truand, j’ai renoncé de gaieté de cœur à la moitié d’une maison située dans le paradis que mon frère m’avait promise. Dimidiam domum in paradiso. Je cite le texte. J’ai un fief rue Tirechappe, et toutes les femmes sont amoureuses de moi, aussi vrai qu’il est vrai que saint Éloy était un excellent orfèvre, et que les cinq métiers de la bonne ville de Paris sont les tanneurs, les mégissiers, les baudroyeurs, les boursiers et les sueurs, et que saint Laurent a été brûlé avec des coquilles d’œufs. Je vous jure, camarades,
+Que je ne beuvrai de piment Devant un an, si je cy ment !
+Ma charmante, il fait clair de lune, regarde donc là-bas par le soupirail comme le vent chiffonne les nuages ! Ainsi je fais ta gorgerette. – Les filles ! mouchez les enfants et les chandelles. – Christ et Mahom ! qu’est-ce que je mange là, Jupiter ! Ohé ! la matrulle ! les cheveux qu’on ne trouve pas sur la tête de tes ribaudes, on les retrouve dans tes omelettes. La vieille ! j’aime les omelettes chauves. Que le diable te fasse camuse ! – Belle hôtellerie de Belzébuth où les ribaudes se peignent avec les fourchettes ! »
+Cela dit, il brisa son assiette sur le pavé et se mit à chanter à tue- tête :
+Et je n’ai, moi, Par la sang-Dieu !
+Ni foi, ni loi, Ni feu, ni lieu, Ni roi,
+Ni Dieu !
+Cependant, Clopin Trouillefou avait fini sa distribution d’armes. Il s’approcha de Gringoire qui paraissait plongé dans une profonde rêverie, les pieds sur un chenet.
+« L’ami Pierre, dit le roi de Thunes, à quoi diable penses-tu ? » Gringoire se retourna vers lui avec un sourire mélancolique :
+« J’aime le feu, mon cher seigneur. Non par la raison triviale que le feu réchauffe nos pieds ou cuit notre soupe, mais parce qu’il a des étincelles. Quelquefois je passe des heures à regarder les étincelles. Je découvre mille choses dans ces étoiles qui saupoudrent le fond noir de l’âtre. Ces étoiles-là aussi sont des mondes.
+Tonnerre si je te comprends ! dit le truand. Sais-tu quelle heure il est ?
+Je ne sais pas », répondit Gringoire. Clopin s’approcha alors du duc d’Égypte.
+« Camarade Mathias, le quart d’heure n’est pas bon. On dit le roi Louis onzième à Paris.
+Raison de plus pour lui tirer notre sœur des griffes, répondit le vieux bohémien.
+Tu parles en homme, Mathias, dit le roi de Thunes. D’ailleurs nous ferons lestement. Pas de résistance à craindre dans l’église. Les chanoines sont des lièvres, et nous sommes en force. Les gens du parlement seront bien attrapés demain quand ils viendront la chercher ! Boyaux du pape ! je ne veux pas qu’on pende la jolie fille ! »
+Clopin sortit du cabaret.

@@ -1,0 +1,24 @@
+Se una poverella sconosciuta, nel tristo caso di Lucia, avesse chiesto l'aiuto del padre Cristoforo, egli sarebbe corso immediatamente. Trattandosi poi di Lucia, accorse con tanta più sollecitudine, in quanto conosceva e ammirava l'innocenza di lei, era già in pensiero per i suoi pericoli, e sentiva un'indignazione santa per la turpe persecuzione della quale era divenuta l'oggetto. Oltre di ciò, avendola consigliata, per il meno male, di non palesar nulla, e di starsene quieta, temeva ora che il consiglio potesse aver prodotto qualche tristo effetto; e alla sollecitudine di carità, ch'era in lui come ingenita, s'aggiungeva, in questo caso, quell'angustia scrupolosa che spesso tormenta i buoni.
+Ma, intanto che noi siamo stati a raccontare i fatti del padre Cristoforo, è arrivato, s'è affacciato all'uscio; e le donne, lasciando il manico dell'aspo41 che facevan girare e stridere, si sono alzate, dicendo, a una voce: -- oh padre Cristoforo! sia benedetto!
+1 terricciola: piccolo nucleo di case.
+2 del lago: il lago detto, appunto, di Pescarenico.
+3 tramagli: tramaglio, o tremaglio, rete composta da tre fila di reti sovrapposte, usata per pescare pesce minuto, o per prendere uccelli (cfr. I, n. 35, a proposito del cognome di Renzo).
+4 il convento: il convento di Pescarenico; era stato fondato, infatti, nel 1576.
+5 che anche gli uomini potevan vivere: sono le prime manifestazioni della carestia, alla quale seguiranno in breve, con apocalittica progressione, la guerra e la peste. Si noti la lucidità dapprima, poi il commosso accento delle descrizioni.
+6 del padre provinciale: il superiore dei cappuccini di una "provincia".
+7 padre Cristoforo: il contatto meno improbabile con un personaggio storico è quello con un padre Cristoforo Picenardi da Cremona, morto nel 1630 a Milano, nell'assistere al lazzeretto gli ammalati di peste; su lui riferisce nella sua Memoria il La Croce. Non a caso, nel Fermo e Lucia, quando l'iniziale nome di padre Galdino attribuito al futuro padre Cristoforo (e passato poi al frate cercatore) è mutato in quello definitivo, è scritto senza l'asterisco in luogo della città d'origine, «Il padre Cristoforo da Cremona». E non a caso, nella cronaca del La Croce, fra gli altri sacerdoti si trova attribuita al cappuccino da Cremona l'ardente volontà di morire al servizio degli appestati, per amor di Cristo, che il personaggio manzoniano esprimerà nel suo ultimo colloquio (cap. XXXVI). Quanto, poi, al carattere del personaggio e alla sua repentina conversione e scelta dello stato, il D'Ovidio e il Sailer ebbero a richiamare la figura di un duca di Modena, Alfonso III d'Este; che, riferisce il Muratori (Antichità Estensi, parte II), prese la tonaca col nome di Giambattista da Modena nel giugno del 1629, dopo la morte della moglie Isabella di Savoia; e che si distinse per il carattere impetuoso e radicale della predicazione. Avvicinamento, comunque, generico.
+8 dalla circospezione del mio anonimo: a proposito di tale circospezione sui nomi, si veda l'Introduzione.
+9 il fondaco, le balle, il libro, il braccio: la bottega; le balle della mercanzia; il libro mastro dei conti; la misura.
+10 come l'ombra di Banco a Macbeth: nella omonima tragedia shakespeariana Macbeth vede comparire, al posto ch'egli dovrebbe occupare al banchetto, lo spettro di Banco da lui fatto uccidere a tradimento. Anche qui è un segno della ammirazione del Manzoni per il poeta inglese (un'attestazione esplicita troveremo alla fine del cap. VII).
+11 sparecchiare: affrettarsi a divorare il cibo in tavola.
+12 scandolo: scandalo.
+13 di cui allora si vergognava: è nota la stima, di ascendenza illuministica, che il Manzoni ebbe sempre per le occupazioni e dottrine ispirate a concretezza. Quanto all'ambiente secentesco, si consideri che il governo spagnolo aveva escluso dalle cariche politiche i mercanti e, fra essi, quei nobili decaduti che si fossero dedicati al commercio.
+14 imbarcato: avviato.
+15 alla giornata: quotidianamente e con facilità.
+16 di farci stare: far stare a dovere.
+17 L'impiego: l'impegno assunto.
+18 gli era saltata la fantasia: si noti la predeterminazione psicologica del carattere.
+19 maestro di casa: capo della servitù, che dirige l'andamento di una casa.
+20 un signor tale: un tale che si distingueva solo per aver diritto alla qualifica di signore, di nobile.
+21 La diritta è mia: cioè «io ho il diritto di passare lungo il muro, che è sulla mia destra». Simili questioni sussistevano in Italia già prima della dominazione spagnola; ebbero poi elaborazione in trattati come quello del Birago (cfr. capp. v e XXVII).
+22 con le mani alle daghe: la daga è una spada larga e corta a due tagli.

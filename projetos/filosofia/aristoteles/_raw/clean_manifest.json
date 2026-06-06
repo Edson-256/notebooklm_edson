@@ -1,0 +1,73 @@
+{
+  "generated_at": "2026-05-17T01:38:38Z",
+  "total": 6,
+  "ok": 6,
+  "results": [
+    {
+      "obra": "01_etica_nicomaco",
+      "categoria": "05_etica",
+      "titulo_pt": "Ética a Nicômaco",
+      "pipeline": "mit",
+      "in_bytes": 467401,
+      "out_bytes": 466556,
+      "ratio": 0.998,
+      "clean_path": "obras/05_etica/01_etica_nicomaco/clean/nicomachean_ethics.txt",
+      "status": "ok"
+    },
+    {
+      "obra": "02_etica_eudemo",
+      "categoria": "05_etica",
+      "titulo_pt": "Ética a Eudemo",
+      "pipeline": "archive(rule)",
+      "in_bytes": 950464,
+      "out_bytes": 537736,
+      "ratio": 0.566,
+      "clean_path": "obras/05_etica/02_etica_eudemo/clean/eudemian_ethics.txt",
+      "status": "ok"
+    },
+    {
+      "obra": "03_magna_moralia",
+      "categoria": "05_etica",
+      "titulo_pt": "Magna Moralia (Grande Ética, atribuída)",
+      "pipeline": "archive(rule)",
+      "in_bytes": 591432,
+      "out_bytes": 542794,
+      "ratio": 0.918,
+      "clean_path": "obras/05_etica/03_magna_moralia/clean/magna_moralia.txt",
+      "status": "ok"
+    },
+    {
+      "obra": "03_magna_moralia",
+      "categoria": "05_etica",
+      "titulo_pt": "Sobre as Virtudes e os Vícios (atribuído)",
+      "pipeline": "archive(rule)",
+      "in_bytes": 950464,
+      "out_bytes": 34094,
+      "ratio": 0.036,
+      "clean_path": "obras/05_etica/03_magna_moralia/clean/on_virtues_and_vices.txt",
+      "status": "ok"
+    },
+    {
+      "obra": "01_retorica",
+      "categoria": "07_retorica_poetica",
+      "titulo_pt": "Retórica",
+      "pipeline": "mit",
+      "in_bytes": 382663,
+      "out_bytes": 381823,
+      "ratio": 0.998,
+      "clean_path": "obras/07_retorica_poetica/01_retorica/clean/rhetoric.txt",
+      "status": "ok"
+    },
+    {
+      "obra": "02_poetica",
+      "categoria": "07_retorica_poetica",
+      "titulo_pt": "Poética",
+      "pipeline": "mit",
+      "in_bytes": 82725,
+      "out_bytes": 81892,
+      "ratio": 0.99,
+      "clean_path": "obras/07_retorica_poetica/02_poetica/clean/poetics.txt",
+      "status": "ok"
+    }
+  ]
+}

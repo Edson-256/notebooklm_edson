@@ -1,0 +1,13 @@
+-- Se l'ho avuta! Perfida e infame è stata: son qui per miracolo: basta dire che m'ha conciato in questa maniera che vedete. Ora avevo proprio bisogno d'un po' di quiete, per rimettermi in tono: via, cominciavo a stare un po' meglio... In nome del cielo, cosa venite a far qui? Tornate...
+-- Sempre l'ha con questo tornare, lei. Per tornare, tanto n'avevo a non movermi. Dice: cosa venite? cosa venite? Oh bella! vengo, anch'io, a casa mia.
+-- Casa vostra...
+-- Mi dica; ne son morti molti qui?...
+-- Eh eh! -- esclamò don Abbondio; e, cominciando da Perpetua, nominò una filastrocca di persone e di famiglie intere. Renzo s'aspettava pur troppo qualcosa di simile; ma al sentir tanti nomi di persone che conosceva, d'amici, di parenti, stava addolorato, col capo basso, esclamando ogni momento: -- poverino! poverina! poverini!
+-- Vedete! -- continuò don Abbondio: -- e non è finita. Se quelli che restano non metton giudizio questa volta, e scacciar tutti i grilli dalla testa, non c'è più altro che la fine del mondo.
+-- Non dubiti; che già non fo conto di fermarmi qui.
+-- Ah! sia ringraziato il cielo, che la v'è entrata! E, già si intende, fate ben conto di ritornar sul bergamasco.
+-- Di questo non si prenda pensiero.
+-- Che! non vorreste già farmi qualche sproposito peggio di questo?
+-- Lei non ci pensi, dico; tocca a me: non son più un bambino: ho l'uso della ragione. Spero che, a buon conto, non dirà a nessuno d'avermi visto. È sacerdote; sono una sua pecora: non mi vorrà tradire.
+-- Ho inteso, -- disse don Abbondio, sospirando stizzosamente: -- ho inteso. Volete rovinarvi voi, e rovinarmi me. Non vi basta di quelle che avete passato voi; non vi basta di quelle che ho passate io. Ho inteso, ho inteso. -- E, continuando a borbottar tra i denti quest' ultime parole, riprese per la sua strada.
+Renzo rimase lì tristo e scontento44, a pensar dove anderebbe a fermarsi. In quella enumerazion di morti fattagli da don Abbondio, c'era una famiglia di contadini portata via tutta dal contagio, salvo un giovinotto, dell'età di Renzo a un di presso, e suo compagno fin da piccino; la casa era pochi passi fuori del paese. Pensò d'andar lì.

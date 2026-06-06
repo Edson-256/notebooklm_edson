@@ -1,0 +1,23 @@
+Cette exclamation de détresse, loin d’émouvoir les compassions, fut un surcroît d’amusement au bon populaire parisien qui entourait l’échelle, et qui, il faut le dire, pris en masse et comme multitude, n’était alors guère moins cruel et moins abruti que cette horrible tribu des truands chez laquelle nous avons déjà mené le lecteur, et qui était tout simplement la couche la plus inférieure du peuple. Pas une voix ne s’éleva autour du malheureux patient, si ce n’est pour lui faire raillerie de sa soif. Il est certain qu’en ce moment il était grotesque et repoussant plus encore que pitoyable, avec sa face empourprée et ruisselante, son œil égaré, sa bouche écumante de colère et de souffrance, et sa langue à demi tirée. Il faut dire encore que, se fût-il trouvé dans la cohue quelque bonne âme charitable de bourgeois ou de bourgeoise qui eût été tentée d’apporter un verre d’eau à cette misérable créature en peine, il régnait autour des marches infâmes du pilori un tel préjugé de honte et d’ignominie qu’il eût suffi pour repousser le bon Samaritain.
+Au bout de quelques minutes, Quasimodo promena sur la foule un regard désespéré, et répéta d’une voix plus déchirante encore :
+« À boire ! »
+Et tous de rire.
+« Bois ceci ! criait Robin Poussepain en lui jetant par la face une éponge traînée dans le ruisseau. Tiens, vilain sourd ! je suis ton débiteur. »
+Une femme lui lançait une pierre à la tête : « Voilà qui t’apprendra à nous réveiller la nuit avec ton carillon de damné.
+Hé bien ! fils, hurlait un perclus en faisant effort pour l’atteindre de sa béquille, nous jetteras-tu encore des sorts du haut des tours de Notre-Dame ?
+Voici une écuelle pour boire ! reprenait un homme en lui décochant dans la poitrine une cruche cassée. C’est toi qui, rien qu’en passant devant elle, as fait accoucher ma femme d’un enfant à deux têtes !
+Et ma chatte d’un chat à six pattes ! glapissait une vieille en lui lançant une tuile.
+À boire ! » répéta pour la troisième fois Quasimodo pantelant.
+En ce moment, il vit s’écarter la populace. Une jeune fille bizarrement vêtue sortit de la foule. Elle était accompagnée d’une petite chèvre blanche à cornes dorées et portait un tambour de basque à la main.
+L’œil de Quasimodo étincela. C’était la bohémienne qu’il avait essayé d’enlever la nuit précédente, algarade pour laquelle il sentait confusément qu’on le châtiait en cet instant même ; ce qui du reste n’était pas le moins du monde, puisqu’il n’était puni que du malheur d’être sourd et d’avoir été jugé par un sourd. Il ne douta pas qu’elle ne vînt se venger aussi, et lui donner son coup comme tous les autres.
+Il la vit en effet monter rapidement l’échelle. La colère et le dépit le suffoquaient. Il eût voulu pouvoir faire crouler le pilori, et si l’éclair de son œil eût pu foudroyer, l’égyptienne eût été mise en poudre avant d’arriver sur la plate-forme.
+Elle s’approcha, sans dire une parole, du patient qui se tordait vainement pour lui échapper, et, détachant une gourde de sa ceinture, elle la porta doucement aux lèvres arides du misérable.
+Alors, dans cet œil jusque-là si sec et si brûlé, on vit rouler une grosse larme qui tomba lentement le long de ce visage difforme et longtemps contracté par le désespoir. C’était la première peut-être que l’infortuné eût jamais versée.
+Cependant il oubliait de boire. L’égyptienne fit sa petite moue avec impatience, et appuya en souriant le goulot à la bouche dentue de Quasimodo.
+Il but à longs traits. Sa soif était ardente.
+Quand il eut fini, le misérable allongea ses lèvres noires, sans doute pour baiser la belle main qui venait de l’assister. Mais la jeune fille, qui n’était pas sans défiance peut-être et se souvenait de la violente tentative de la nuit, retira sa main avec le geste effrayé d’un enfant qui craint d’être mordu par une bête.
+Alors le pauvre sourd fixa sur elle un regard plein de reproche et d’une tristesse inexprimable.
+C’eût été partout un spectacle touchant que cette belle fille, fraîche, pure, charmante, et si faible en même temps, ainsi pieusement accourue au secours de tant de misère, de difformité et de méchanceté. Sur un pilori, ce spectacle était sublime.
+Tout ce peuple lui-même en fut saisi et se mit à battre des mains en criant : « Noël ! Noël ! »
+C’est dans ce moment que la recluse aperçut, de la lucarne de son trou, l’égyptienne sur le pilori et lui jeta son imprécation sinistre :
+« Maudite sois-tu, fille d’Égypte ! maudite ! maudite ! »

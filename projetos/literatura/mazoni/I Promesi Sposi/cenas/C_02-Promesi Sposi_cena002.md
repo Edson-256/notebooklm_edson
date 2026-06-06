@@ -1,0 +1,38 @@
+-- Bisognerebbe trovarsi nei nostri piedi, per conoscer quanti impicci nascono in queste materie, quanti conti s'ha da rendere. Io son troppo dolce di cuore, non penso che a levar di mezzo gli ostacoli, a facilitar tutto, a far le cose secondo il piacere altrui, e trascuro il mio dovere; e poi mi toccan de' rimproveri, e peggio.
+-- Ma, col nome del cielo, non mi tenga così sulla corda, e mi dica chiaro e netto cosa c'è.
+-- Sapete voi quante e quante formalità ci vogliono per fare un matrimonio in regola?
+-- Bisogna ben ch'io ne sappia qualche cosa, -- disse Renzo, cominciando ad alterarsi, -- poiché me ne ha già rotta bastantemente la testa, questi giorni addietro. Ma ora non s'è sbrigato ogni cosa? non s'è fatto tutto ciò che s'aveva a fare?
+-- Tutto, tutto, pare a voi: perché, abbiate pazienza, la bestia son io, che trascuro il mio dovere, per non far penare la gente. Ma ora... basta, so quel che dico. Noi poveri curati siamo tra l'ancudine e il martello: voi impaziente; vi compatisco, povero giovane; e i superiori... basta, non si può dir tutto. E noi siam quelli che ne andiam di mezzo.
+-- Ma mi spieghi una volta cos'è quest'altra formalità che s'ha a fare, come dice; e sarà subito fatta.
+-- Sapete voi quanti siano gl'impedimenti dirimenti7?
+-- Che vuol ch'io sappia d'impedimenti?
+-- Error, conditio, votum, cognatio, crimen
+Cultus disparitas, vis, ordo, ligamen, honestas,
+Si sis affinis,...8 --cominciava don Abbondio, contando sulla punta delle dita.
+-- Si piglia gioco di me? -- interruppe il giovine. -- Che vuol ch'io faccia del suo latinorum?
+-- Dunque, se non sapete le cose, abbiate pazienza, e rimettetevi a chi le sa.
+-- Orsù!...
+-- Via, caro Renzo, non andate in collera, che son pronto a fare... tutto quello che dipende da me. Io, io vorrei vedervi contento, vi voglio bene io. Eh!... quando penso che stavate così bene; cosa vi mancava? V'è saltato il grillo di maritarvi...
+-- Che discorsi son questi, signor mio? -- proruppe Renzo, con un volto tra l'attonito e l'adirato.
+-- Dico per dire, abbiate pazienza, dico per dire. Vorrei vedervi contento.
+-- In somma...
+-- In somma, figliuol caro, io non ci ho colpa; la legge non l'ho fatta io. E, prima di conchiudere un matrimonio, noi siam proprio obbligati a far molte e molte ricerche, per assicurarci che non ci siano impedimenti.
+-- Ma via, mi dica una volta che impedimento è sopravvenuto?
+-- Abbiate pazienza, non son cose da potersi decifrare così su due piedi. Non ci sarà niente, così spero; ma, non ostante, queste ricerche noi le dobbiam fare. Il testo è chiaro e lampante: antequam matrimonium denunciet9.
+-- Le ho detto che non voglio latino.
+-- Ma bisogna pur che vi spieghi...
+-- Ma non le ha già fatte queste ricerche?-- Non le ho fatte tutte, come avrei dovuto, vi dico.
+-- Perché non le ha fatte a tempo? perché dirmi che tutto era finito? perché aspettare...
+-- Ecco! mi rimproverate la mia troppa bontà. Ho facilitato ogni cosa per servirvi più presto: ma... ma ora mi son venute... basta, so io.
+-- E che vorrebbe ch'io facessi?
+-- Che aveste pazienza per qualche giorno. Figliuol caro, qualche giorno non è poi l'eternità: abbiate pazienza.
+-- Per quanto?
+«Siamo a buon porto», pensò fra sé don Abbondio; e, con un fare più manieroso che mai, -- via, -- disse: -- in quindici giorni cercherò,... procurerò...
+-- Quindici giorni! oh, questa sì ch'è nuova! S'è fatto tutto ciò che ha voluto lei; s'è fissato il giorno; il giorno arriva; e ora lei mi viene a dire che aspetti quindici giorni! Quindici... -- riprese poi, con voce più alta e stizzosa, stendendo il braccio, e battendo il pugno nell'aria; e chi sa qual diavoleria avrebbe attaccata a quel numero, se don Abbondio non l'avesse interrotto, prendendogli l'altra mano, con un'amorevolezza timida e premurosa: -- via, via, non v'alterate, per amor del cielo. Vedrò, cercherò se, in una settimana...10
+-- E a Lucia che devo dire?
+-- Ch'è stato un mio sbaglio.
+-- E i discorsi del mondo?
+-- Dite pure a tutti, che ho sbagliato io, per troppa furia, per troppo buon cuore: gettate tutta la colpa addosso a me. Posso parlar meglio? via, per una settimana.
+-- E poi, non ci sarà più altri impedimenti?
+-- Quando vi dico...
+-- Ebbene: avrò pazienza per una settimana; ma ritenga11 bene che, passata questa, non m'appagherò più di chiacchiere. Intanto la riverisco. -- E così detto, se n'andò, facendo a don Abbondio un inchino men profondo del solito, e dandogli un'occhiata più espressiva che riverente.

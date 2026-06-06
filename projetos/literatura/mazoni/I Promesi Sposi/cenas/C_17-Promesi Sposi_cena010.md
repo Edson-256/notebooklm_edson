@@ -1,0 +1,2 @@
+45 baggiani: "baggiano" da "babbiano", come "baggeo" da "babbeo"; e cioè sciocchi, balordi (contro una diversa interpretazione, cfr. Barbi, Annali manzoniani, I, pp. 201-202).
+46 fosse da farci assegnamento: anche qui un anacoluto per dar speditezza all'espressione.

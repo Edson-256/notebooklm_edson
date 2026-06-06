@@ -1,0 +1,22 @@
+-- A Rimini.
+-- A?
+-- A Rimini.
+-- Dov'è questo paese?
+-- Eh eh eh! -- rispose il frate, trinciando verticalmente l'aria con la mano distesa, per significare una gran distanza.
+-- Oh povera me! Ma perché è andato via così all'improvviso?
+-- Perché ha voluto così il padre provinciale.
+-- E perché mandarlo via? che faceva tanto bene qui? Oh Signore!
+-- Se i superiori dovessero render conto degli ordini che danno, dove sarebbe l'ubbidienza, la mia donna?
+-- Sì; ma questa è la mia rovina.
+-- Sapete cosa sarà? Sarà che a Rimini avranno avuto bisogno d'un buon predicatore (ce n'abbiamo per tutto; ma alle volte ci vuol quell'uomo fatto apposta); il padre provinciale di là avrà scritto al padre provinciale di qui, se aveva un soggetto così e così; e il padre provinciale avrà detto: qui ci vuole il padre Cristoforo. Dev'esser proprio così, vedete.
+-- Oh poveri noi! Quand'è partito?
+-- Ierlaltro.
+-- Ecco! s'io davo retta alla mia ispirazione di venir via qualche giorno prima! E non si sa quando possa tornare? così a un di presso?
+-- Eh la mia donna! lo sa il padre provinciale; se lo sa anche lui. Quando un nostro padre predicatore ha preso il volo, non si può prevedere su che ramo potrà andarsi a posare. Li cercan di qua, li cercan di là: e abbiamo conventi in tutte le quattro parti del mondo20. Supponete che, a Rimini, il padre Cristoforo faccia un gran fracasso col suo quaresimale: perché non predica sempre a braccio21, come faceva qui, per i pescatori e i contadini: per i pulpiti delle città, ha le sue belle prediche scritte; e fior di roba. Si sparge la voce, da quelle parti, di questo gran predicatore; e lo possono cercare da... da che so io? E allora, bisogna mandarlo; perché noi viviamo della carità di tutto il mondo, ed è giusto che serviamo tutto il mondo22.
+-- Oh Signore! Signore -- esclamò di nuovo Agnese, quasi piangendo: -- come devo fare, senza quell'uomo? Era quello che ci faceva da padre! Per noi è una rovina.
+-- Sentite, buona donna; il padre Cristoforo era veramente un uomo; ma ce n'abbiamo degli altri, sapete? pieni di carità e di talento, e che sanno trattare ugualmente co' signori e co' poveri. Volete il padre Atanasio? volete il padre Girolamo? volete il padre Zaccaria? È un uomo di vaglia, vedete, il padre Zaccaria. E non istate a badare, come fanno certi ignoranti, che sia così mingherlino, con una vocina fessa, e una barbetta misera misera: non dico per predicare, perché ognuno ha i suoi doni; ma per dar pareri, è un uomo, sapete?
+-- Oh per carità! -- esclamò Agnese, con quel misto di gratitudine e d'impazienza, che si prova a un'esibizione in cui si trovi più la buona volontà altrui, che la propria convenienza: -- cosa m'importa a me che uomo sia o non sia un altro, quando quel pover'uomo che non c'è più, era quello che sapeva le nostre cose e aveva preparato tutto per aiutarci?
+-- Allora, bisogna aver pazienza.
+-- Questo lo so, -- rispose Agnese: -- scusate dell'incomodo.
+-- Di che cosa, la mia donna? mi dispiace per voi. E se vi risolvete di cercar qualcheduno de' nostri padri, il convento è qui che non si muove. Ehi, mi lascerò poi veder presto, per la cerca dell'olio23.
+-- State bene, -- disse Agnese; e s'incamminò verso il suo paesetto, desolata, confusa, sconcertata24, come il povero cieco che avesse perduto il suo bastone.
