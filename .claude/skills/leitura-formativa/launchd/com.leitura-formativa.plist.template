@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Template launchd da skill leitura-formativa. NAO instalar enquanto em standby.
+
+  Para ATIVAR um projeto (ex.: Ivan Ilitch) quando COF-2/Aristoteles concluirem:
+    1) copie este template trocando __SLUG__ e __PROJECT_PATH__ e o Hour/Minute desejados;
+    2) salve em ~/Library/LaunchAgents/com.leitura-formativa.__SLUG__.plist
+    3) launchctl load -w ~/Library/LaunchAgents/com.leitura-formativa.__SLUG__.plist
+    4) checar: launchctl list | grep leitura-formativa
+  Para desativar: launchctl unload -w ~/Library/LaunchAgents/com.leitura-formativa.__SLUG__.plist
+
+  launchd (vs cron) dispara ao acordar se o Mac estava dormindo no horario.
+  StartCalendarInterval abaixo = 07:00 diario (ajuste para nao colidir com COF 21:00 / Aristoteles 07:00).
+-->
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.leitura-formativa.__SLUG__</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/bash</string>
+    <string>/Users/edsonmichalkiewicz/dev/notebooklm_edson/.claude/skills/leitura-formativa/scripts/run_daily.sh</string>
+    <string>__PROJECT_PATH__</string>
+    <string>19</string>
+  </array>
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Hour</key><integer>8</integer>
+    <key>Minute</key><integer>30</integer>
+  </dict>
+  <key>StandardOutPath</key>
+  <string>/Users/edsonmichalkiewicz/dev/notebooklm_edson/logs/leitura-formativa.__SLUG__.log</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/edsonmichalkiewicz/dev/notebooklm_edson/logs/leitura-formativa.__SLUG__.log</string>
+</dict>
+</plist>

@@ -32,6 +32,9 @@ try:
 except ModuleNotFoundError:
     print("ERRO: requer Python 3.11+ (tomllib).", file=sys.stderr); sys.exit(1)
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import tg  # noqa: E402  (StudioM4_bot, best-effort)
+
 INTERVAL_SECONDS = 120
 DOWNLOAD_BACKOFFS = [0, 90, 240]
 CREATE_BACKOFFS = [0, 180, 300]
@@ -165,6 +168,28 @@ def download_audio(cfg, profile, artifact_id, out_path: Path) -> bool:
     return False
 
 
+def _sync_to_dell(cfg) -> None:
+    """Best-effort: Mac -> dell -> DROBO via podcast_system. Nunca derruba o runner; nunca deleta do studio."""
+    lc = cfg.get("lifecycle", {})
+    if not lc.get("dell_sync"):
+        return
+    script = Path.home() / "dev/dell_server/podcast_system/sync/sync_to_dell.py"
+    if not script.exists():
+        log("   (dell sync: script ausente, pulando)"); return
+    slug = lc.get("dell_slug") or cfg["obra"]["slug"]
+    try:
+        subprocess.run([sys.executable, str(script), "--project", slug, "--apply"],
+                       timeout=180, capture_output=True)
+        log(f"   dell sync disparado ({slug})")
+    except Exception:
+        pass
+
+
+def _feed_url(cfg) -> str:
+    slug = cfg.get("lifecycle", {}).get("dell_slug") or cfg["obra"]["slug"]
+    return f"https://dell-server.tail3f4f14.ts.net/{slug}/feed.xml"
+
+
 # ---- acoes ----
 def cmd_status(proj, cfg, scenes, width, profile):
     meta = {a["seq_global"]: a for a in load_meta(proj, cfg)["audios"]}
@@ -192,6 +217,7 @@ def cmd_create(proj, cfg, scenes, width, profile, n, dry):
         for c in queue: print(f"    cena {c['seq_global']:0{width}d}: {c['titulo']}  -> {scene_filename(c,width,'m4a')}")
         print("\n  [dry-run] nada disparado.\n"); return 0
     created = deferred = failed = 0
+    created_files = []
     for c in queue:
         if quota_used_today(proj, cfg, profile) >= cap:
             log(f"cota diaria atingida ({cap}) — parando; restantes ficam pendentes."); break
@@ -212,31 +238,42 @@ def cmd_create(proj, cfg, scenes, width, profile, n, dry):
             entry["status"] = "deferred"; deferred += 1
         elif art:
             entry.update(status="created", artifact_id=art); quota_bump(proj, cfg, profile); created += 1
+            created_files.append(entry["arquivo"])
             log(f"   criado {art[:12]}...")
         else:
             entry["status"] = "server_failed"; failed += 1
         save_meta_entry(proj, cfg, entry)
         if c is not queue[-1] and art and art is not _RATE_LIMITED: time.sleep(INTERVAL_SECONDS)
     print(f"\n  criados={created} deferred={deferred} falhas={failed}\n")
+    if cfg.get("telegram", {}).get("enabled") and (created_files or deferred or failed):
+        tg.report(cfg["telegram"]["projeto_label"], created=created_files, deferred=deferred, failed=failed)
     return 0
 
 def cmd_download(proj, cfg, profile):
     pend = [a for a in load_meta(proj, cfg)["audios"] if a.get("status") == "created" and a.get("artifact_id")]
     if not pend: log("nada para baixar (status=created)."); return 0
     adir = proj / cfg["paths"]["audios"]; dl = proc = lost = err = 0
+    downloaded_files = []
     for a in pend:
         st = poll_status(cfg, profile, a["artifact_id"])
         if st == "completed":
             out = adir / a["arquivo"]
             if download_audio(cfg, profile, a["artifact_id"], out):
                 a.update(status="downloaded", output_path=str(out), tamanho_bytes=out.stat().st_size)
-                save_meta_entry(proj, cfg, a); dl += 1
+                save_meta_entry(proj, cfg, a); dl += 1; downloaded_files.append(a["arquivo"])
             else: err += 1
         elif st == "failed": a["status"]="server_failed"; save_meta_entry(proj,cfg,a); err+=1
         elif st == _POLL_MISSING: a["status"]="lost_in_studio"; save_meta_entry(proj,cfg,a); lost+=1
         elif st == _POLL_ERROR: err += 1
         else: proc += 1
+    if dl:
+        _sync_to_dell(cfg)
     print(f"\n  baixados={dl} processando={proc} perdidos={lost} erros={err}\n")
+    if cfg.get("telegram", {}).get("enabled"):
+        tg.report(cfg["telegram"]["projeto_label"], downloaded=downloaded_files)
+        if dl:
+            tg.send(f"📡 feed {cfg['telegram']['projeto_label']}: {_feed_url(cfg)} "
+                    f"(login edson / senha no SplashID)")
     return 0
 
 

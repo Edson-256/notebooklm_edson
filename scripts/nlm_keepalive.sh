@@ -15,7 +15,7 @@ set -u
 REPO_DIR="/Users/edsonmichalkiewicz/dev/notebooklm_edson"
 LOG_DIR="$REPO_DIR/logs"
 LOG="$LOG_DIR/nlm_keepalive.log"
-PROFILES=(default italiano frances)
+PROFILES=(default italiano frances espanhol alemao)
 
 export PATH="/Users/edsonmichalkiewicz/.local/bin:/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin"
 export HOME="/Users/edsonmichalkiewicz"
