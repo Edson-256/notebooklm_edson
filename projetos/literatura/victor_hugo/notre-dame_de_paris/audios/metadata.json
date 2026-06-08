@@ -1076,7 +1076,9 @@
       "prompt_chars": 4879,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_066_l06_c03_histoire_dune_galette_au_levain_.m4a",
+      "tamanho_bytes": 25206798
     },
     {
       "seq_global": 67,
@@ -1091,7 +1093,9 @@
       "prompt_chars": 2895,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_067_l06_c03_histoire_dune_galette_au_levain_.m4a",
+      "tamanho_bytes": 24507338
     },
     {
       "seq_global": 68,
@@ -1106,9 +1110,107 @@
       "prompt_chars": 5112,
       "language": "fr-FR",
       "audio_format": "deep_dive",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_068_l06_c03_histoire_dune_galette_au_levain_.m4a",
+      "tamanho_bytes": 23805636
+    },
+    {
+      "seq_global": 69,
+      "scene_identifier": "L06-C04-UNE_LARME_POUR_UNE_GOUTTE_DEAU_cena001",
+      "cena_filename": "L06-C04-UNE_LARME_POUR_UNE_GOUTTE_DEAU_cena001.md",
+      "prompt_filename": "L06-C04-UNE_LARME_POUR_UNE_GOUTTE_DEAU_prompt001.md",
+      "arquivo": "notredame_069_l06_c04_une_larme_pour_une_goutte_deau_c.m4a",
+      "artifact_id": "7b67dd58-51f7-4f0d-8d6f-96c9ca072488",
+      "source_id": "e387b411-5764-4134-8d55-fe32d1ee8e52",
+      "book_id": "L06-C04-UNE_LARME_POUR_UNE_GOUTTE_DEAU",
+      "data_geracao": "2026-06-07T08:11:50.061211",
+      "prompt_chars": 3320,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_069_l06_c04_une_larme_pour_une_goutte_deau_c.m4a",
+      "tamanho_bytes": 21683235
+    },
+    {
+      "seq_global": 70,
+      "scene_identifier": "L06-C04-UNE_LARME_POUR_UNE_GOUTTE_DEAU_cena002",
+      "cena_filename": "L06-C04-UNE_LARME_POUR_UNE_GOUTTE_DEAU_cena002.md",
+      "prompt_filename": "L06-C04-UNE_LARME_POUR_UNE_GOUTTE_DEAU_prompt002.md",
+      "arquivo": "notredame_070_l06_c04_une_larme_pour_une_goutte_deau_c.m4a",
+      "artifact_id": "d46b51d8-c118-4de1-b470-073bfe5f234d",
+      "source_id": "e387b411-5764-4134-8d55-fe32d1ee8e52",
+      "book_id": "L06-C04-UNE_LARME_POUR_UNE_GOUTTE_DEAU",
+      "data_geracao": "2026-06-07T08:14:09.633629",
+      "prompt_chars": 2999,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_070_l06_c04_une_larme_pour_une_goutte_deau_c.m4a",
+      "tamanho_bytes": 23717370
+    },
+    {
+      "seq_global": 71,
+      "scene_identifier": "L06-C04-UNE_LARME_POUR_UNE_GOUTTE_DEAU_cena003",
+      "cena_filename": "L06-C04-UNE_LARME_POUR_UNE_GOUTTE_DEAU_cena003.md",
+      "prompt_filename": "L06-C04-UNE_LARME_POUR_UNE_GOUTTE_DEAU_prompt003.md",
+      "arquivo": "notredame_071_l06_c04_une_larme_pour_une_goutte_deau_c.m4a",
+      "artifact_id": "93226168-90d4-4183-ac8f-86efe8182f99",
+      "source_id": "e387b411-5764-4134-8d55-fe32d1ee8e52",
+      "book_id": "L06-C04-UNE_LARME_POUR_UNE_GOUTTE_DEAU",
+      "data_geracao": "2026-06-07T08:16:28.849015",
+      "prompt_chars": 3415,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_071_l06_c04_une_larme_pour_une_goutte_deau_c.m4a",
+      "tamanho_bytes": 35266280
+    },
+    {
+      "seq_global": 72,
+      "scene_identifier": "L06-C04-UNE_LARME_POUR_UNE_GOUTTE_DEAU_cena004",
+      "cena_filename": "L06-C04-UNE_LARME_POUR_UNE_GOUTTE_DEAU_cena004.md",
+      "prompt_filename": "L06-C04-UNE_LARME_POUR_UNE_GOUTTE_DEAU_prompt004.md",
+      "arquivo": "notredame_072_l06_c04_une_larme_pour_une_goutte_deau_c.m4a",
+      "artifact_id": "51312856-a2de-48ee-a518-d38ca2a34cb9",
+      "source_id": "e387b411-5764-4134-8d55-fe32d1ee8e52",
+      "book_id": "L06-C04-UNE_LARME_POUR_UNE_GOUTTE_DEAU",
+      "data_geracao": "2026-06-08T08:12:10.783647",
+      "prompt_chars": 3695,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 73,
+      "scene_identifier": "L06-C05-FIN_DE_LHISTOIRE_DE_LA_GALETTE_cena001",
+      "cena_filename": "L06-C05-FIN_DE_LHISTOIRE_DE_LA_GALETTE_cena001.md",
+      "prompt_filename": "L06-C05-FIN_DE_LHISTOIRE_DE_LA_GALETTE_prompt001.md",
+      "arquivo": "notredame_073_l06_c05_fin_de_lhistoire_de_la_galette_c.m4a",
+      "artifact_id": "51a86633-1de7-461f-add9-721024eaadc7",
+      "source_id": "67264955-103e-4f69-bb58-36dd94484ad9",
+      "book_id": "L06-C05-FIN_DE_LHISTOIRE_DE_LA_GALETTE",
+      "data_geracao": "2026-06-08T08:14:21.775060",
+      "prompt_chars": 3023,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 74,
+      "scene_identifier": "L06-C05-FIN_DE_LHISTOIRE_DE_LA_GALETTE_cena002",
+      "cena_filename": "L06-C05-FIN_DE_LHISTOIRE_DE_LA_GALETTE_cena002.md",
+      "prompt_filename": "L06-C05-FIN_DE_LHISTOIRE_DE_LA_GALETTE_prompt002.md",
+      "arquivo": "notredame_074_l06_c05_fin_de_lhistoire_de_la_galette_c.m4a",
+      "artifact_id": "1100929a-178a-4100-88ce-f7777953f7e8",
+      "source_id": "67264955-103e-4f69-bb58-36dd94484ad9",
+      "book_id": "L06-C05-FIN_DE_LHISTOIRE_DE_LA_GALETTE",
+      "data_geracao": "2026-06-08T08:16:33.074904",
+      "prompt_chars": 2745,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
       "status": "created"
     }
   ],
-  "total_itens_processados": 68,
-  "ultima_atualizacao": "2026-06-06T08:16:17.182933"
+  "total_itens_processados": 74,
+  "ultima_atualizacao": "2026-06-08T08:16:33.076791"
 }
