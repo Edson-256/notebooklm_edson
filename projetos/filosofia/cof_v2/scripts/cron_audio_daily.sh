@@ -115,4 +115,8 @@ _tg_report() {
 }
 _tg_report
 
+# ── Auto-commit do metadata.json (progresso created->downloaded) ─────────
+bash "$PROJECT_DIR/scripts/git_state_commit.sh" \
+  "projetos/filosofia/cof_v2/audios/metadata.json" "cof" >/dev/null 2>&1 || true
+
 exit "${rc:-1}"

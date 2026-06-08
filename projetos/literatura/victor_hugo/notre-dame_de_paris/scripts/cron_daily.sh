@@ -87,4 +87,8 @@ _tg_report() {
 }
 _tg_report
 
+# ── Auto-commit do metadata.json (progresso created->downloaded) ─────────
+bash "$REPO_DIR/scripts/git_state_commit.sh" \
+  "projetos/literatura/victor_hugo/notre-dame_de_paris/audios/metadata.json" "notredame" >/dev/null 2>&1 || true
+
 exit "${rc:-1}"
