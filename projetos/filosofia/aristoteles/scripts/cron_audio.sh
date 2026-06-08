@@ -105,4 +105,9 @@ _tg_report() {
 }
 _tg_report
 
+# ── Auto-commit do estado de áudio (status created->downloaded) ──────────
+# _raw/audio_metadata.json tem exceção no .gitignore (resto do _raw/ ignorado).
+bash "$REPO_DIR/scripts/git_state_commit.sh" \
+  "projetos/filosofia/aristoteles/_raw/audio_metadata.json" "aristoteles" >/dev/null 2>&1 || true
+
 exit "${rc:-1}"

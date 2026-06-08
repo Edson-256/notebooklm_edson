@@ -31,6 +31,13 @@ projetos/**/obras/**/capitulos/
 projetos/**/obras/**/cenas/
 projetos/**/obras/**/prompts/
 
+# Exceção: versionar o ESTADO de áudio do aristoteles (status created->downloaded),
+# análogo ao metadata.json dos outros projetos. O resto do _raw/ segue ignorado.
+# (precisa re-incluir o dir antes do arquivo — git não recursa em dir ignorado.)
+!projetos/filosofia/aristoteles/_raw/
+projetos/filosofia/aristoteles/_raw/*
+!projetos/filosofia/aristoteles/_raw/audio_metadata.json
+
 # Python
 __pycache__/
 *.py[cod]
