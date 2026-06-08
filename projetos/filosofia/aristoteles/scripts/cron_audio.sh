@@ -83,14 +83,11 @@ if [ "${rc:-1}" -ne 0 ]; then
   fi
 fi
 
-# ── Notificação Telegram (StudioM4_bot — sempre: sucesso, falha, auth, 0 criados) ──
+# ── Notificação Telegram (1 msg consolidada — 3 seções) ─────────────────
+# O runner grava logs/aristoteles_lastrun.json (harvest=download+transferência,
+# create=criados, status=pendentes); aqui só resolvemos o status e mandamos.
 _tg_report() {
-  local _crt _dl _pend _status _rc _sum
-  # created = nº de linhas "✓ created"; downloads = título-UI + CLI
-  _crt=$( grep -c "✓ created" "$LOG" 2>/dev/null | tr -d '[:space:]'); _crt=${_crt:-0}
-  _dl=$(  awk '/baixados \(título UI\):/{a=$NF} /baixados \(CLI\):/{b=$NF} END{print (a+0)+(b+0)}' "$LOG" 2>/dev/null)
-  _pend=$(awk -F'[: ]+' '/pending:.*sem áudio/{print $3}' "$LOG" 2>/dev/null | tail -1)
-
+  local _status _rc _sum
   if grep -qE "nlm.*nao autenticado|auth.*expir|Authentication.*fail" "$LOG" 2>/dev/null; then
     _status="auth_expired"
   elif [ "${rc:-1}" -ne 0 ]; then
@@ -100,9 +97,8 @@ _tg_report() {
     _status="ok"
   fi
 
-  /opt/homebrew/bin/python3 "$REPO_DIR/scripts/tg_notify.py" report \
-    --project "Aristóteles" --profile "default" --status "$_status" \
-    --dl "${_dl:-0}" --created "${_crt:-0}" --pending "${_pend:-}" \
+  /opt/homebrew/bin/python3 "$REPO_DIR/scripts/tg_notify.py" report-state \
+    --slug "aristoteles" --project "Aristóteles" --profile "default" --status "$_status" \
     --rc "${_rc:-}" --summary "${_sum:-}" \
     --run-cmd "$PROJECT_DIR/scripts/cron_audio.sh" \
     >/dev/null 2>&1 || true

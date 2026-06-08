@@ -127,13 +127,16 @@ def ensure_profile() -> None:
         print(f"AVISO: nlm login switch {PROFILE} falhou: {exc}")
 
 
-def _sync_to_dell(slug: str, file: Path) -> None:
-    """Chama sync_to_dell.py --project <slug> --apply após cada download
-    (Mac → dell:/srv/podcasts/<slug>). Silencioso em falha."""
+def _sync_to_dell(slug: str, file: Path) -> bool:
+    """Chama sync_to_dell.py --project <slug> --apply --no-notify após cada download.
+
+    --no-notify silencia o Telegram por-arquivo: o runner manda UM resumo
+    consolidado por sessão. Retorna True se a transferência saiu rc=0.
+    """
     sync_script = (Path(__file__).resolve().parents[5]
                    / "dell_server/podcast_system/sync/sync_to_dell.py")
     if not sync_script.exists():
-        return
+        return False
     try:
         import os
         env = os.environ.copy()
@@ -144,10 +147,21 @@ def _sync_to_dell(slug: str, file: Path) -> None:
                 if line.startswith("export ") and "=" in line:
                     k, v = line[len("export "):].split("=", 1)
                     env.setdefault(k.strip(), v.strip())
-        subprocess.run(
-            [sys.executable, str(sync_script), "--project", slug, "--apply"],
+        r = subprocess.run(
+            [sys.executable, str(sync_script), "--project", slug, "--apply", "--no-notify"],
             timeout=120, env=env, capture_output=True,
         )
+        return r.returncode == 0
+    except Exception:
+        return False
+
+
+def _write_lastrun(slug: str, *, reset: bool = False, **fields) -> None:
+    """Grava resumo da sessão em logs/<slug>_lastrun.json (best-effort)."""
+    try:
+        sys.path.insert(0, str(Path(__file__).resolve().parents[4] / "scripts"))
+        from tg_notify import write_lastrun
+        write_lastrun(slug, reset=reset, **fields)
     except Exception:
         pass
 
@@ -235,6 +249,7 @@ def cmd_status(master: dict, audio_meta: dict) -> int:
     if counts["pending"]:
         days = (counts["pending"] + DEFAULT_DAILY_LIMIT - 1) // DEFAULT_DAILY_LIMIT
         print(f"\n@ {DEFAULT_DAILY_LIMIT}/dia CLI: ~{days} dias para gerar todas")
+    _write_lastrun("aristoteles", pending=counts["pending"])  # merge p/ msg consolidada
     return 0
 
 
@@ -351,6 +366,7 @@ def cmd_create(master: dict, audio_meta: dict, notebook_meta: dict, n: int,
             time.sleep(INTERVAL_SECONDS)
 
     print(f"\nResultado: ok={ok}, adiados={deferred}, failed={failed}")
+    _write_lastrun("aristoteles", created=ok, create_failed=failed)
     return 0
 
 
@@ -384,9 +400,12 @@ def cmd_harvest(master: dict, audio_meta: dict, notebook_meta: dict,
         by_title[c["audio_title"]] = c
 
     AUDIOS_DIR.mkdir(parents=True, exist_ok=True)
+    _write_lastrun("aristoteles", reset=True)  # harvest = 1ª fase do cron
     new_created = 0
     new_downloaded = 0
     unmatched = 0
+    downloaded_names: list[str] = []
+    transferred = transfer_failed = still_proc = 0
 
     for art in audio_arts:
         title = art.get("title", "")
@@ -432,7 +451,11 @@ def cmd_harvest(master: dict, audio_meta: dict, notebook_meta: dict,
             new_downloaded += 1
             append_log({"ts": rec["downloaded_at"], "action": "downloaded",
                         "cena_id": cena_id, "bytes": rec["bytes"]})
-            _sync_to_dell("aristoteles", out_path)
+            downloaded_names.append(out_path.name)
+            if _sync_to_dell("aristoteles", out_path):
+                transferred += 1
+            else:
+                transfer_failed += 1
 
     # ── Download de áudios criados via CLI (--create) ──────────────────
     # Esses têm título auto-gerado (não 'aristoteles_*'), então o laço por
@@ -455,6 +478,7 @@ def cmd_harvest(master: dict, audio_meta: dict, notebook_meta: dict,
             continue
         if st != "completed":
             print(f"  … {cena_id}: ainda processando ({st})")
+            still_proc += 1
             continue
         if dry_run:
             print(f"  ↓ {cena_id} dry_run download (CLI)")
@@ -474,7 +498,11 @@ def cmd_harvest(master: dict, audio_meta: dict, notebook_meta: dict,
         cli_downloaded += 1
         append_log({"ts": rec["downloaded_at"], "action": "downloaded",
                     "cena_id": cena_id, "bytes": rec["bytes"]})
-        _sync_to_dell("aristoteles", out_path)
+        downloaded_names.append(out_path.name)
+        if _sync_to_dell("aristoteles", out_path):
+            transferred += 1
+        else:
+            transfer_failed += 1
 
     if not dry_run:
         save_audio_meta(audio_meta)
@@ -484,6 +512,10 @@ def cmd_harvest(master: dict, audio_meta: dict, notebook_meta: dict,
     print(f"  baixados (título UI):  {new_downloaded}")
     print(f"  baixados (CLI):        {cli_downloaded}")
     print(f"  unmatched:             {unmatched}")
+    print(f"  transferidos dell:     {transferred}")
+    _write_lastrun("aristoteles", downloaded=downloaded_names,
+                   still_processing=still_proc, dl_failed=0,
+                   transferred=transferred, transfer_failed=transfer_failed)
     return 0
 
 

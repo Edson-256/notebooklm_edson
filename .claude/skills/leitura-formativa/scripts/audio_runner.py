@@ -178,7 +178,9 @@ def _sync_to_dell(cfg) -> None:
         log("   (dell sync: script ausente, pulando)"); return
     slug = lc.get("dell_slug") or cfg["obra"]["slug"]
     try:
-        subprocess.run([sys.executable, str(script), "--project", slug, "--apply"],
+        # --no-notify: silencia o Telegram por-arquivo do sync_to_dell; o resumo
+        # consolidado (com nomes) vem da própria tg.report deste runner.
+        subprocess.run([sys.executable, str(script), "--project", slug, "--apply", "--no-notify"],
                        timeout=180, capture_output=True)
         log(f"   dell sync disparado ({slug})")
     except Exception:

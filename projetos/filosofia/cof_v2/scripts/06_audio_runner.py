@@ -99,11 +99,15 @@ def log(message: str):
     print(f"[{ts}] {message}")
 
 
-def _sync_to_dell(slug: str, file: Path) -> None:
-    """Chama sync_to_dell.py --project <slug> --apply após cada download. Silencioso em falha."""
+def _sync_to_dell(slug: str, file: Path) -> bool:
+    """Chama sync_to_dell.py --project <slug> --apply --no-notify após cada download.
+
+    --no-notify silencia o Telegram por-arquivo: o runner manda UM resumo
+    consolidado por sessão. Retorna True se a transferência saiu rc=0.
+    """
     sync_script = Path(__file__).resolve().parents[5] / "dell_server/podcast_system/sync/sync_to_dell.py"
     if not sync_script.exists():
-        return
+        return False
     try:
         import os
         env = os.environ.copy()
@@ -114,10 +118,21 @@ def _sync_to_dell(slug: str, file: Path) -> None:
                 if line.startswith("export ") and "=" in line:
                     k, v = line[len("export "):].split("=", 1)
                     env.setdefault(k.strip(), v.strip())
-        subprocess.run(
-            [sys.executable, str(sync_script), "--project", slug, "--apply"],
+        r = subprocess.run(
+            [sys.executable, str(sync_script), "--project", slug, "--apply", "--no-notify"],
             timeout=120, env=env, capture_output=True,
         )
+        return r.returncode == 0
+    except Exception:
+        return False
+
+
+def _write_lastrun(slug: str, *, reset: bool = False, **fields) -> None:
+    """Grava resumo da sessão em logs/<slug>_lastrun.json (best-effort)."""
+    try:
+        sys.path.insert(0, str(PROJECT_DIR / "scripts"))
+        from tg_notify import write_lastrun
+        write_lastrun(slug, reset=reset, **fields)
     except Exception:
         pass
 
@@ -469,16 +484,22 @@ def process_item(item: dict) -> bool:
 
 def download_pending() -> int:
     # NLM_PROFILE env var (já setado em run_nlm) é suficiente — login switch não é necessário.
+    # Fase download é a 1ª do cron → zera o estado da rodada.
+    _write_lastrun(OBRA_SLUG, reset=True)
     md = load_metadata()
     pending = [a for a in md.get("audios", [])
                if a.get("status") == "created" and a.get("artifact_id")]
     if not pending:
         log("Nenhum artifact pendente de download.")
+        _write_lastrun(OBRA_SLUG, downloaded=[], still_processing=0, dl_failed=0,
+                       transferred=0, transfer_failed=0)
         return 0
     log(f"Encontrados {len(pending)} artifacts para baixar")
     print()
 
     downloaded = failed = still = lost = poll_err = 0
+    downloaded_names: list[str] = []
+    transferred = transfer_failed = 0
     for i, audio in enumerate(pending, 1):
         if shutdown_requested:
             break
@@ -493,7 +514,11 @@ def download_pending() -> int:
                 audio["tamanho_bytes"] = out.stat().st_size
                 save_metadata_entry(audio)
                 downloaded += 1
-                _sync_to_dell("cof", out)
+                downloaded_names.append(out.name)
+                if _sync_to_dell("cof", out):
+                    transferred += 1
+                else:
+                    transfer_failed += 1
             else:
                 failed += 1
         elif status == "failed":
@@ -522,7 +547,11 @@ def download_pending() -> int:
     print(f"  Falhas:            {failed}")
     print(f"  Perdidos (studio): {lost}")
     print(f"  Erro de polling:   {poll_err}")
+    print(f"  Transferidos dell: {transferred}")
     print("=" * 60)
+    _write_lastrun(OBRA_SLUG, downloaded=downloaded_names, still_processing=still,
+                   dl_failed=failed, transferred=transferred,
+                   transfer_failed=transfer_failed)
     return 0 if failed == 0 and lost == 0 else 1
 
 
@@ -705,6 +734,10 @@ def main() -> int:
 
     save_session_log()
     print_summary()
+    pending_after = TOTAL_ITEMS - len(get_processed_seqs())
+    _write_lastrun(OBRA_SLUG, created=session_stats["items_created"],
+                   create_failed=session_stats["items_failed"],
+                   pending=pending_after)
     return 0
 
 

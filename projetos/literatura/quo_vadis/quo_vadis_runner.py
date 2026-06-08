@@ -333,10 +333,12 @@ def wait_for_completion(artifact_id: str) -> bool:
     return False
 
 
-def _sync_to_dell(file: Path) -> None:
+def _sync_to_dell(file: Path) -> bool:
+    """sync_to_dell.py --project quo-vadis --apply --no-notify (1 resumo/sessão).
+    Retorna True se a transferência saiu rc=0."""
     sync_script = Path(__file__).resolve().parents[4] / "dell_server/podcast_system/sync/sync_to_dell.py"
     if not sync_script.exists():
-        return
+        return False
     try:
         import os
         env = os.environ.copy()
@@ -347,10 +349,31 @@ def _sync_to_dell(file: Path) -> None:
                 if line.startswith("export ") and "=" in line:
                     k, v = line[len("export "):].split("=", 1)
                     env.setdefault(k.strip(), v.strip())
-        subprocess.run(
-            [sys.executable, str(sync_script), "--project", "quo-vadis", "--apply"],
+        r = subprocess.run(
+            [sys.executable, str(sync_script), "--project", "quo-vadis", "--apply", "--no-notify"],
             timeout=120, env=env, capture_output=True,
         )
+        return r.returncode == 0
+    except Exception:
+        return False
+
+
+def _write_lastrun(*, reset: bool = False, **fields) -> None:
+    """Grava resumo da sessão em logs/quo_vadis_lastrun.json (best-effort)."""
+    try:
+        sys.path.insert(0, str(PROJECT_DIR / "scripts"))
+        from tg_notify import write_lastrun
+        write_lastrun(BOOK_SLUG, reset=reset, **fields)
+    except Exception:
+        pass
+
+
+def _send_report() -> None:
+    """Sem cron (run manual): o próprio runner manda o resumo consolidado."""
+    try:
+        sys.path.insert(0, str(PROJECT_DIR / "scripts"))
+        from tg_notify import send_report
+        send_report(BOOK_SLUG, BOOK_TITLE, PROFILE)
     except Exception:
         pass
 
@@ -526,10 +549,14 @@ def scan_created_artifacts() -> List[Dict]:
 
 def download_pending_audios():
     log("Escaneando artifacts pendentes de download...")
+    _write_lastrun(reset=True)  # fase download = início da rodada
     pending = scan_created_artifacts()
 
     if not pending:
         log("Nenhum artifact pendente de download.")
+        _write_lastrun(downloaded=[], still_processing=0, dl_failed=0,
+                       transferred=0, transfer_failed=0)
+        _send_report()
         return 0
 
     log(f"Encontrados {len(pending)} artifacts para baixar")
@@ -538,6 +565,8 @@ def download_pending_audios():
     downloaded = 0
     failed = 0
     still_processing = 0
+    downloaded_names: list[str] = []
+    transferred = transfer_failed = 0
 
     for i, audio in enumerate(pending, 1):
         if shutdown_requested:
@@ -556,8 +585,12 @@ def download_pending_audios():
                 audio['output_path'] = str(output_path)
                 audio['tamanho_bytes'] = output_path.stat().st_size
                 save_metadata(audio)
-                _sync_to_dell(output_path)
                 downloaded += 1
+                downloaded_names.append(output_path.name)
+                if _sync_to_dell(output_path):
+                    transferred += 1
+                else:
+                    transfer_failed += 1
             else:
                 failed += 1
         elif status == "failed":
@@ -579,8 +612,12 @@ def download_pending_audios():
     print(f"  Baixados:          {downloaded}")
     print(f"  Ainda processando: {still_processing}")
     print(f"  Falhas:            {failed}")
+    print(f"  Transferidos dell: {transferred}")
     print("=" * 60)
 
+    _write_lastrun(downloaded=downloaded_names, still_processing=still_processing,
+                   dl_failed=failed, transferred=transferred, transfer_failed=transfer_failed)
+    _send_report()
     return 0 if failed == 0 else 1
 
 
@@ -750,6 +787,10 @@ def main():
 
     save_session_log()
     print_summary()
+    pending_after = TOTAL_SCENES - len(get_processed_scenes())
+    _write_lastrun(created=session_stats["scenes_created"],
+                   create_failed=session_stats["scenes_failed"], pending=pending_after)
+    _send_report()
     return 0
 
 

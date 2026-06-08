@@ -78,11 +78,15 @@ def log(msg: str):
     print(f"[{datetime.now().strftime('%H:%M:%S')}] {msg}")
 
 
-def _sync_to_dell(slug: str, file: Path) -> None:
-    """Chama sync_to_dell.py --project <slug> --apply após cada download. Silencioso em falha."""
+def _sync_to_dell(slug: str, file: Path) -> bool:
+    """Chama sync_to_dell.py --project <slug> --apply --no-notify após cada download.
+
+    --no-notify silencia o Telegram por-arquivo: o runner manda UM resumo
+    consolidado por sessão. Retorna True se a transferência saiu rc=0.
+    """
     sync_script = Path(__file__).resolve().parents[6] / "dell_server/podcast_system/sync/sync_to_dell.py"
     if not sync_script.exists():
-        return
+        return False
     try:
         import os
         env = os.environ.copy()
@@ -93,10 +97,21 @@ def _sync_to_dell(slug: str, file: Path) -> None:
                 if line.startswith("export ") and "=" in line:
                     k, v = line[len("export "):].split("=", 1)
                     env.setdefault(k.strip(), v.strip())
-        subprocess.run(
-            [sys.executable, str(sync_script), "--project", slug, "--apply"],
+        r = subprocess.run(
+            [sys.executable, str(sync_script), "--project", slug, "--apply", "--no-notify"],
             timeout=120, env=env, capture_output=True,
         )
+        return r.returncode == 0
+    except Exception:
+        return False
+
+
+def _write_lastrun(slug: str, *, reset: bool = False, **fields) -> None:
+    """Grava resumo da sessão em logs/<slug>_lastrun.json (best-effort)."""
+    try:
+        sys.path.insert(0, str(REPO_DIR / "scripts"))
+        from tg_notify import write_lastrun
+        write_lastrun(slug, reset=reset, **fields)
     except Exception:
         pass
 
@@ -464,20 +479,30 @@ def run_create(args, items: list[dict]) -> int:
     print("=" * 60)
     print(f"  Criados: {session_stats['items_created']}  Falhas: {session_stats['items_failed']}  Adiados: {session_stats['items_deferred']}")
     print("=" * 60)
+    pending_after = len(items) - len(get_processed_seqs())
+    print(f"  Pendentes: {pending_after}")
+    _write_lastrun(OBRA_SLUG, created=session_stats["items_created"],
+                   create_failed=session_stats["items_failed"], pending=pending_after)
     return 0 if session_stats["items_failed"] == 0 else 1
 
 
 def run_download(items: list[dict]) -> int:
     if not check_auth():
         log("ERRO: nlm nao autenticado. Execute: nlm login --profile " + PROFILE); return 1
+    _write_lastrun(OBRA_SLUG, reset=True)  # fase download = 1ª do cron
     md = load_metadata()
     pending = [a for a in md.get("audios", []) if a.get("status") == "created" and a.get("artifact_id")]
     if not pending:
-        log("Nada pendente."); return 0
+        log("Nada pendente.")
+        _write_lastrun(OBRA_SLUG, downloaded=[], still_processing=0, dl_failed=0,
+                       transferred=0, transfer_failed=0)
+        return 0
     log(f"Baixando {len(pending)} artifacts")
     by_seq = {it["seq_global"]: it for it in items}
 
     ok = fail = still = 0
+    downloaded_names: list[str] = []
+    transferred = transfer_failed = 0
     for a in pending:
         if shutdown_requested: break
         seq = a["seq_global"]
@@ -490,7 +515,11 @@ def run_download(items: list[dict]) -> int:
                 a["output_path"] = str(out)
                 a["tamanho_bytes"] = out.stat().st_size
                 upsert_entry(a); ok += 1
-                _sync_to_dell("manzoni", out)
+                downloaded_names.append(out.name)
+                if _sync_to_dell("manzoni", out):
+                    transferred += 1
+                else:
+                    transfer_failed += 1
             else:
                 fail += 1
         elif st in ("failed", None):
@@ -503,7 +532,9 @@ def run_download(items: list[dict]) -> int:
         else:
             log(f"   ainda processando ({st})"); still += 1
 
-    print(f"\nBaixados: {ok}  Ainda processando: {still}  Falhas: {fail}")
+    print(f"\nBaixados: {ok}  Ainda processando: {still}  Falhas: {fail}  Transferidos dell: {transferred}")
+    _write_lastrun(OBRA_SLUG, downloaded=downloaded_names, still_processing=still,
+                   dl_failed=fail, transferred=transferred, transfer_failed=transfer_failed)
     return 0 if fail == 0 else 1
 
 

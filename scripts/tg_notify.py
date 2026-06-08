@@ -158,12 +158,162 @@ def _format_report(args) -> str:
         return with_rerun(lines)
 
 
+# ── Estado por sessão (lastrun) ─────────────────────────────────────────
+# Uma rodada do cron roda o runner em DUAS fases (processos separados):
+#   fase download  → grava downloaded[]/transferred/still_processing
+#   fase criação   → grava created/pending
+# Cada fase faz merge no mesmo JSON; o cron lê tudo e manda UMA mensagem.
+
+def _repo_root() -> Path:
+    return Path(__file__).resolve().parent.parent
+
+
+def _lastrun_path(slug: str) -> Path:
+    return _repo_root() / "logs" / f"{slug}_lastrun.json"
+
+
+def write_lastrun(slug: str, *, reset: bool = False, **fields) -> None:
+    """Merge campos no logs/<slug>_lastrun.json. reset=True zera antes (fase 1).
+
+    Nunca levanta exceção — notificação é best-effort.
+    """
+    try:
+        path = _lastrun_path(slug)
+        path.parent.mkdir(parents=True, exist_ok=True)
+        data = {}
+        if not reset and path.exists():
+            try:
+                data = json.loads(path.read_text(encoding="utf-8"))
+            except (json.JSONDecodeError, OSError):
+                data = {}
+        data["slug"] = slug
+        data.update({k: v for k, v in fields.items() if v is not None})
+        data["updated_at"] = datetime.now().isoformat(timespec="seconds")
+        path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n",
+                        encoding="utf-8")
+    except Exception:
+        pass
+
+
+def load_lastrun(slug: str) -> dict:
+    path = _lastrun_path(slug)
+    if path.exists():
+        try:
+            return json.loads(path.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, OSError):
+            pass
+    return {}
+
+
+_MAX_NAMES = 20  # corta listas muito longas para não estourar a mensagem
+
+
+def _format_state_report(project: str, profile: str, status: str,
+                         state: dict, *, rc: str = "", summary: str = "",
+                         run_cmd: str = "") -> str:
+    """Renderiza UMA mensagem com 3 seções: criação / download / transferência."""
+    now = datetime.now().strftime("%d/%m %H:%M")
+    run_cmd = (run_cmd or "").strip()
+
+    def with_rerun(lines: list) -> str:
+        if run_cmd:
+            lines.append(f"▶️ Rodar manual: <code>{run_cmd}</code>")
+        return "\n".join(lines)
+
+    if status == "auth_expired":
+        return with_rerun([
+            f"🔐 <b>{project}</b> — AUTH EXPIRADO ({now})",
+            f"Rode: <code>nlm login --profile {profile}</code>",
+        ])
+    if status == "failed":
+        rc = rc or "?"
+        summary = (summary or f"exit code {rc}").strip()
+        return with_rerun([f"❌ <b>{project}</b> FALHOU rc={rc} — {now}",
+                           summary[:300]])
+
+    # status == ok ────────────────────────────────────────────────────────
+    created = int(state.get("created", 0) or 0)
+    pending = state.get("pending", None)
+    create_failed = int(state.get("create_failed", 0) or 0)
+
+    downloaded = list(state.get("downloaded", []) or [])
+    still = int(state.get("still_processing", 0) or 0)
+    dl_failed = int(state.get("dl_failed", 0) or 0)
+
+    transferred = int(state.get("transferred", 0) or 0)
+    transfer_failed = int(state.get("transfer_failed", 0) or 0)
+
+    zero_activity = (created == 0 and len(downloaded) == 0)
+    head = (f"⚠️ <b>{project}</b> — rodou, 0 criados/baixados ({now})"
+            if zero_activity else f"✅ <b>{project}</b> — {now}")
+    lines = [head]
+
+    # 1. Criação (resumo: contagens — "o que falta criar" = pendentes)
+    crt = f"🎙 Criados: {created}"
+    if create_failed:
+        crt += f"  ⚠️ Falhas: {create_failed}"
+    if pending is not None and str(pending) != "":
+        crt += f"  ·  📊 Pendentes: {pending}"
+    lines.append(crt)
+
+    # 2. Download (detalhe: nomes + "o que falta baixar" = ainda processando)
+    dl = f"⬇️ Baixados: {len(downloaded)}"
+    extras = []
+    if still:
+        extras.append(f"faltam {still} processando")
+    if dl_failed:
+        extras.append(f"⚠️ {dl_failed} falha(s)")
+    if not downloaded and not still and not dl_failed:
+        extras.append("nada pendente")
+    if extras:
+        dl += "  ·  " + " · ".join(extras)
+    lines.append(dl)
+    shown = downloaded[:_MAX_NAMES]
+    for name in shown:
+        lines.append(f"   • <code>{name}</code>")
+    if len(downloaded) > _MAX_NAMES:
+        lines.append(f"   … +{len(downloaded) - _MAX_NAMES} arquivo(s)")
+
+    # 3. Transferência para o dell (servidor de podcast)
+    tx = f"📤 Dell: {transferred} transferido(s)"
+    if transfer_failed:
+        tx += f"  ·  🔴 {transfer_failed} falhou"
+    elif transferred and transferred >= len(downloaded):
+        tx += "  ·  sincronizado"
+    elif transferred == 0 and not downloaded:
+        tx = "📤 Dell: nada a transferir"
+    lines.append(tx)
+
+    return with_rerun(lines) if zero_activity else "\n".join(lines)
+
+
+def send_report(slug: str, project: str, profile: str = "", status: str = "ok",
+                *, rc: str = "", summary: str = "", run_cmd: str = "") -> bool:
+    """Lê logs/<slug>_lastrun.json e envia a mensagem consolidada (3 seções).
+
+    Para runners SEM cron (manuais) que mandam o resumo eles mesmos.
+    """
+    state = load_lastrun(slug)
+    msg = _format_state_report(project, profile, status, state,
+                               rc=rc, summary=summary, run_cmd=run_cmd)
+    return send(msg)
+
+
 def _cmd_send(args):
     sys.exit(0 if send(args.text) else 1)
 
 
 def _cmd_report(args):
     sys.exit(0 if send(_format_report(args)) else 1)
+
+
+def _cmd_report_state(args):
+    state = load_lastrun(args.slug)
+    msg = _format_state_report(
+        args.project, args.profile, args.status, state,
+        rc=args.rc, summary=args.summary, run_cmd=args.run_cmd,
+    )
+    sys.exit(0 if send(msg) else 1)
 
 
 def main():
@@ -191,6 +341,19 @@ def main():
                        help="Comando para re-rodar manualmente (incluído em "
                             "falha/auth/0-criados como lembrete)")
     p_rep.set_defaults(func=_cmd_report)
+
+    p_st = sub.add_parser("report-state",
+                          help="Relatório consolidado (3 seções) lendo logs/<slug>_lastrun.json")
+    p_st.add_argument("--slug",     required=True, help="Slug do projeto (chave do lastrun.json)")
+    p_st.add_argument("--project",  required=True, help="Nome exibido do projeto")
+    p_st.add_argument("--profile",  default="",    help="Perfil NLM usado")
+    p_st.add_argument("--status",   required=True,
+                      choices=["ok", "failed", "auth_expired"])
+    p_st.add_argument("--rc",       default="",    help="Exit code (status=failed)")
+    p_st.add_argument("--summary",  default="",    help="Resumo de erro (status=failed)")
+    p_st.add_argument("--run-cmd",  default="",    dest="run_cmd",
+                      help="Comando para re-rodar manualmente")
+    p_st.set_defaults(func=_cmd_report_state)
 
     args = ap.parse_args()
     args.func(args)
