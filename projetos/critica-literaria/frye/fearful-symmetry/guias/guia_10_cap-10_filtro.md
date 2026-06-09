@@ -1,0 +1,14 @@
+# Guia de acompanhamento — Cap. 10 · *Comus Agonistes*
+### Áudio D — O Filtro (conceito × símbolo) · ~12 min
+
+> **Para que serve este áudio:** agora que você habitou o argumento, testá-lo. A pergunta decisiva: a categoria de Frye capta uma **estrutura real** ou é uma construção verbal elegante que sobretudo se autojustifica?
+
+**A aposta central sob teste.** Que *Milton* não é nem vingança contra Hayley nem autobiografia, e sim um drama visionário cujo sentido é a *recriação* da visão de Milton em Blake — e que, mais amplamente, a poesia, a tradição e a própria Bíblia se deixam ler como uma só forma imaginativa recriada no "Eterno Agora".
+
+**O ponto cético (a objeção mais forte, no seu melhor).** O método de Frye é uma faca de dois gumes. Ele insiste — com razão — que reduzir a arte à biografia ("raspar a tinta para ver a tela") é filisteísmo. Mas a regra é simétrica? Quando o texto *resiste* à leitura visionária, Frye decreta que a leitura biográfica não vale; quando o texto a *favorece*, ele a mobiliza (Hayley, Felpham, Schofield). Há um risco de que "imaginação não tem nada a ver com memória" funcione como cláusula que blinda a tese contra qualquer contraexemplo. E há um lance mais grave: ao tratar a Bíblia como Palavra de Deus *só* enquanto recriação imaginativa presente — relegando "deve ter sido verdade" ao "apócrifo" a ser rejeitado —, Frye dissolve o plano literal-histórico no plano mítico-estrutural. Isso é precisamente o erro metodológico que uma boa leitura de texto religioso proíbe: anular o literal em nome do simbólico. A existência histórica de Jesus "não é a base do cristianismo" — aqui Frye/Blake decidem a questão por definição, não por demonstração.
+
+**A defesa caridosa (Frye no seu ponto mais forte).** A distinção Orc/Los *capta um nexo real*: há de fato diferença entre um poeta que apenas repete formas (vida que reaparece) e um que reabsorve e clarifica uma visão anterior (Dante com Virgílio, Milton com o Gênesis). E a leitura de *Comus* é genuinamente iluminadora: mostrar que a "castidade" da Lady e o vilão Comus são, no simbolismo blakeano, faces da mesma "vontade feminina", e que falta a Milton a emanação positiva (a noiva, Beatrice, Ololon) — isso descobre uma *estrutura interna* da obra de Milton, não uma grade arbitrária imposta de fora.
+
+**Veredito provisório (e a tensão que fica em aberto).** O capítulo é fértil onde rastreia formas reais (Orc/Los, a emanação ausente, a leitura de *Comus*) e mais frágil onde converte a Revelação em mito autoexplicativo e blinda a tese contra a evidência biográfica. A pergunta a guardar: quando Frye diz "o real é mental e presente, não físico e passado", isso *lê* uma estrutura do texto, ou *impõe* uma metafísica blakeana sobre ele?
+
+**Para fixar.** Suspeita informada, não cinismo: você só ganha o direito a essa objeção depois de ter reconstruído, com caridade, por que imitação é recriação. Não feche a questão — leve-a para *Jerusalem*.

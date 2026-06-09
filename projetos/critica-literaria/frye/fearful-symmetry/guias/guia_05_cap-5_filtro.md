@@ -1,0 +1,14 @@
+# Guia de acompanhamento — Cap. 5 · *The Word Within the Word*
+### Áudio D — O Filtro (conceito × símbolo) · ~12 min
+
+> **Para que serve este áudio:** agora que você habitou o argumento, testá-lo. A pergunta decisiva: a categoria de Frye capta uma **estrutura real** ou é uma construção verbal elegante que sobretudo se autojustifica?
+
+**A aposta central sob teste.** A tese-mãe do capítulo: existe **um único Verbo arquetípico** (criação–queda–redenção–apocalipse) do qual *toda* arte verdadeira é fase ou imagem, e a Bíblia, lida "em sentido infernal", é um poema único e perfeitamente coerente. Sobre essa hipótese repousa o mito central que ocupará o resto do livro.
+
+**O ponto cético (a objeção mais forte, no seu melhor).** O capítulo é o lugar onde a leitura mítica de Frye/Blake corre seu maior risco. Repare no método: Macbeth → Nornas → Parcas; o leão, o morcego e a serpente viram "formas humanas"; Albion = Atlas = Atlântida; Arthur, Leviatã, a Grande Meretriz, Rahab, o "Covering Cherub" de Ezequiel — tudo converge para *um* mito. Mas convergência demais é suspeita: se cada figura, por mais distante, é relida como variante do mesmo arquétipo, nenhuma evidência poderia quebrar o sistema. A pergunta do leitor: a Bíblia *é* "um único poema completamente consistente", ou Blake (e Frye) a *fazem* ser, suspendendo autoria, história e referente? E mais grave: ao recusar "extrair um código moral unificado da Bíblia", Frye dissolve o plano literal-histórico no plano mítico — exatamente o erro de anular um nível em nome do outro. A própria estrutura de "tipos" que tudo abarca pode estar contrabandeando uma moldura que se diz só literária.
+
+**A defesa caridosa (Frye no seu ponto mais forte).** A distinção símile×Identidade não é truque verbal: ela *capta um nexo real*. "O leão é como um homem" diz mais sobre a percepção artística do que "o homem é como um leão", e a recusa do morcego-como-símbolo-de-dúvida ("Blake quer dizer exatamente o que diz") protege a integridade da imagem contra a tradução em conceitos. O próprio Frye, no fim do capítulo, admite o custo: os personagens de Blake são "ideogramas intelectuais", não realidades humanas como Aquiles — e defende que se procure no poeta "o que está lá", não o que ele não tentou fazer.
+
+**Veredito provisório (e a tensão que fica em aberto).** A leitura mítica é **fértil e iluminadora** — revela ressonâncias reais entre Bíblia, Eddas, Spenser, Malory. Mas a hipótese da unidade total não é autoevidente: o teste honesto é rastrear, nos próximos capítulos, se o texto de Blake *sustenta* cada identificação (nexo real) ou se Frye a *impõe* (símbolo autojustificativo). Guarde a pergunta; não a feche aqui.
+
+**Para fixar.** O perigo é exatamente o que o capítulo celebra: a coerência. Suspeita informada — você só tem direito a ela depois de ter reconstruído o sistema com caridade.

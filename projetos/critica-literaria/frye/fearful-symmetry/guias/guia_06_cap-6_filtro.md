@@ -1,0 +1,14 @@
+# Guia de acompanhamento — Cap. 6 · *Tradition and Experiment*
+### Áudio D — O Filtro (conceito × símbolo) · ~12 min
+
+> **Para que serve este áudio:** agora que você habitou o argumento, testá-lo. A pergunta decisiva: a categoria de Frye capta uma **estrutura real** ou é uma construção verbal elegante que sobretudo se autojustifica?
+
+**A aposta central sob teste.** A "tradição visionária" — uma única linhagem que ligaria Agrippa, Boehme, o neoplatonismo italiano, os anabatistas e a geração de Collins, toda convergindo em Blake. Tudo no capítulo se apoia nela: é o pano de fundo que torna Blake legível em vez de bizarro.
+
+**O ponto cético (a objeção mais forte, no seu melhor).** O próprio Frye entrega a munição: avisa que sai do terreno onde "está seguro" para campos de erudição "casual", e que faz "afirmações nuas" cuja prova plena exigiria outro livro. Daí a pergunta-filtro: essa "tradição" é um *nexo real* entre as obras — uma linhagem que os textos sustentam — ou um *universo verbal* costurado a posteriori, em que tudo o que se parece com Blake é declarado "blakeano" e o que não se parece é descartado? Note o gesto recorrente: Frye explica Paracelso, Boehme, o neoplatonismo "em termos blakeanos para mostrar sua relação com Blake" — e admite o risco de o original sair distorcido. Some-se a *caricatura* confessa da Era da Razão: Frye reconhece que está fazendo caricatura ("hurry through this... in short, for caricature"). Uma linhagem construída por afinidade seletiva pode confirmar-se sozinha, sem que evidência alguma a desminta.
+
+**A defesa caridosa (Frye no seu ponto mais forte).** Mesmo assim, o reposicionamento é *fértil e ancorado*: as filiações que Frye traça não são inventadas — Blake de fato ilustrou Young e Blair, leu Ossian e Rowley, citou Milton e Gray, e os *Poetical Sketches* mostram empiricamente Orc e Urizen em germe. A tese de que Blake "não pertence nem aos augustanos nem aos românticos", mas à era de Gray, Collins, Chatterton, Smart, corrige um erro real da crítica (reduzir essa geração a mera "transição"). Onde se via excentricidade, o enquadramento revela continuidade que nenhuma leitura isolada alcançaria.
+
+**Veredito provisório (e a tensão que fica em aberto).** O reenquadramento histórico é **legítimo e iluminador** — mas mistura dois registros que convém não confundir: as filiações *documentadas* (Blake ilustrou, leu, citou) e a *grande linhagem visionária* costurada por semelhança de família. As primeiras o texto sustenta; a segunda é, em parte, imposta por Frye. O teste honesto: a cada elo, perguntar se é nexo verificável ou afinidade projetada. Guarde a pergunta; não a resolva ainda.
+
+**Para fixar.** É o próprio Frye quem confessa a fragilidade do terreno — mas você só tem o direito de cobrá-la depois de ter reconstruído a costura com caridade. Suspeita informada, não cinismo.
