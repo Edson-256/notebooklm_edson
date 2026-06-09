@@ -1173,16 +1173,46 @@
       "cena_filename": "C_08-Promesi Sposi_cena002.md",
       "prompt_filename": "C_08-Promesi Sposi_prompt002.md",
       "arquivo": "promessi_072_c_08_promesi_sposi_cena002.m4a",
-      "artifact_id": "2e02d8aa-c430-4164-8920-04db4ba63d5a",
+      "artifact_id": "ad3ab0f6-a87a-4a36-af63-2d5b24f78d88",
       "source_id": "2703dae4-89f5-4c5d-a9ec-2b72b6d1309e",
       "book_id": "C_08-Promesi Sposi",
-      "data_geracao": "2026-06-08T08:06:36.198998",
+      "data_geracao": "2026-06-09T08:26:58.200864",
+      "prompt_chars": 2958,
+      "language": "it-IT",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 73,
+      "scene_identifier": "C_08-Promesi Sposi_cena003",
+      "cena_filename": "C_08-Promesi Sposi_cena003.md",
+      "prompt_filename": "C_08-Promesi Sposi_prompt003.md",
+      "arquivo": "promessi_073_c_08_promesi_sposi_cena003.m4a",
+      "artifact_id": "078c2a02-99e3-4d76-b0a8-8d66d2c064d8",
+      "source_id": "2703dae4-89f5-4c5d-a9ec-2b72b6d1309e",
+      "book_id": "C_08-Promesi Sposi",
+      "data_geracao": "2026-06-09T08:29:23.197998",
+      "prompt_chars": 2958,
+      "language": "it-IT",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 74,
+      "scene_identifier": "C_08-Promesi Sposi_cena004",
+      "cena_filename": "C_08-Promesi Sposi_cena004.md",
+      "prompt_filename": "C_08-Promesi Sposi_prompt004.md",
+      "arquivo": "promessi_074_c_08_promesi_sposi_cena004.m4a",
+      "artifact_id": "6d3b2a8d-49c9-4f42-92e9-65e09cfa3b48",
+      "source_id": "2703dae4-89f5-4c5d-a9ec-2b72b6d1309e",
+      "book_id": "C_08-Promesi Sposi",
+      "data_geracao": "2026-06-09T08:31:45.506471",
       "prompt_chars": 2958,
       "language": "it-IT",
       "audio_format": "deep_dive",
       "status": "created"
     }
   ],
-  "total_itens_processados": 72,
-  "ultima_atualizacao": "2026-06-08T08:06:36.202433"
+  "total_itens_processados": 74,
+  "ultima_atualizacao": "2026-06-09T08:31:45.508539"
 }
