@@ -165,24 +165,34 @@ def cmd_generate(proj: Path, cfg: dict, *, only: str, max_n: int, confirm: bool,
     fmt = af.get("format", "deep_dive"); length = af.get("length", "long")
     lang = cfg["obra"].get("idioma_saida", "pt-BR")
 
-    done = 0
-    for i, a in enumerate(pend, 1):
+    # ── Fase 1: CRIAR todos (geram em paralelo no servidor) ──────────────
+    created = [a for a in pend if a["status"] == "created" and a.get("artifact_id")]
+    to_create = [a for a in pend if a not in created]
+    quota_hit = False
+    for i, a in enumerate(to_create, 1):
         focus = Path(a["prompt_path"]).read_text(encoding="utf-8")
-        print(f"\n  [{i}/{len(pend)}] {a['id']} — create audio…")
+        print(f"  [criar {i}/{len(to_create)}] {a['id']}…", flush=True)
         try:
             art = nlm.create_audio(nb, focus, PROFILE_PROFISSIONAL, fmt=fmt, length=length, language=lang)
         except nlm.QuotaExhausted:
-            print("  ⛔ cota esgotada (code 8) — parando gracioso; áudio fica pending.")
-            save_state(proj, state); return 0
+            print("  ⛔ cota esgotada (code 8) — paro de criar; baixo o que já foi criado.", flush=True)
+            quota_hit = True; break
         a["artifact_id"] = art or ""
         a["status"] = "created"
         save_state(proj, state)
-        print(f"      artifact={art} — aguardando processar…")
+        created.append(a)
+        print(f"      artifact={art}", flush=True)
+        if i < len(to_create):
+            time.sleep(interval)
+
+    # ── Fase 2: BAIXAR todos os criados (poll + download c/ retry) ───────
+    done = 0
+    for j, a in enumerate(created, 1):
+        art = a["artifact_id"]
+        print(f"\n  [baixar {j}/{len(created)}] {a['id']} — aguardando processar…", flush=True)
         st = _poll_until_ready(nb, art, poll_interval, poll_timeout)
         if st != "completed":
-            print(f"      ⚠ poll: {st} — deixo como created p/ baixar depois.")
-            continue
-        # download com pequena rettry (status completed pode ser prematuro)
+            print(f"      ⚠ poll: {st} — fica created p/ retomar."); continue
         ok = False
         for attempt, backoff in enumerate([0, 90, 240], 1):
             if backoff:
@@ -190,16 +200,15 @@ def cmd_generate(proj: Path, cfg: dict, *, only: str, max_n: int, confirm: bool,
             try:
                 sz = nlm.download_audio(nb, art, a["output_path"], PROFILE_PROFISSIONAL)
                 a["status"] = "downloaded"; save_state(proj, state)
-                print(f"      ✓ baixado ({sz/1e6:.1f} MB) → {Path(a['output_path']).name}")
+                print(f"      ✓ baixado ({sz/1e6:.1f} MB) → {Path(a['output_path']).name}", flush=True)
                 ok = True; done += 1; break
             except nlm.NlmError as e:
-                print(f"      tentativa {attempt} de download falhou: {str(e)[:80]}")
+                print(f"      tentativa {attempt} download falhou: {str(e)[:80]}")
         if not ok:
             print("      ⚠ download não concluído; fica created p/ retomar.")
-        if i < len(pend):
-            time.sleep(interval)
 
-    print(f"\n  Concluídos nesta rodada: {done}/{len(pend)}\n")
+    print(f"\n  Rodada: criados {len(created)} | baixados {done}"
+          + ("  (parou por cota)" if quota_hit else ""), flush=True)
     return 0
 
 

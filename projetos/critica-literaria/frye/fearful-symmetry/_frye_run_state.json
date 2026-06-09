@@ -1,8 +1,8 @@
 {
   "obra": "Fearful Symmetry: A Study of William Blake",
   "slug": "fearful-symmetry",
-  "notebook_pessoal": "",
-  "notebook_profissional": "",
+  "notebook_pessoal": "5185ece4-1f50-4e91-b05c-fb0d9e164f8d",
+  "notebook_profissional": "37a7a048-0bde-49b5-9f34-e1f8d19e0217",
   "audios": [
     {
       "id": "L0_portico_geral",
@@ -11,8 +11,8 @@
       "formato": "portico_geral",
       "prompt_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/critica-literaria/frye/fearful-symmetry/prompts/prompt_L0_portico_geral.md",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/critica-literaria/frye/fearful-symmetry/audios/L0_portico_geral.m4a",
-      "status": "pending",
-      "artifact_id": ""
+      "status": "downloaded",
+      "artifact_id": "bf51aca5-3a66-4ac4-a84c-59c67384037e"
     },
     {
       "id": "L0_lexico_geral",
@@ -21,8 +21,8 @@
       "formato": "lexico_geral",
       "prompt_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/critica-literaria/frye/fearful-symmetry/prompts/prompt_L0_lexico_geral.md",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/critica-literaria/frye/fearful-symmetry/audios/L0_lexico_geral.m4a",
-      "status": "pending",
-      "artifact_id": ""
+      "status": "created",
+      "artifact_id": "bb70df13-15ba-4c99-9dd0-c844df315f22"
     },
     {
       "id": "L0_filtro_tese",
