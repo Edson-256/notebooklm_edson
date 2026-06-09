@@ -1,0 +1,44 @@
+# Config do projeto Frye — Fearful Symmetry (piloto não-ficção).
+# Modelo de processamento: docs/referencia_formatos_audio_naoficcao.md
+
+[obra]
+titulo = "Fearful Symmetry: A Study of William Blake"
+autor = "Northrop Frye"
+slug = "fearful-symmetry"
+sigla = "FS"
+idioma_obra = "en"
+idioma_saida = "pt-BR"
+# Abordagem dominante (linguagem neutra, sem jargão de framework):
+modelo_dominante = "internal reconstruction in a double layer — Frye reconstructs Blake's visionary system, and the listener reconstructs Frye reconstructing Blake; strong biblical/theological undercurrent; this book is the seedbed of Frye's later system"
+
+[notebooklm]
+notebook_id = ""          # VAZIO de propósito — checkpoint: avisar o usuário ANTES de criar
+profile = "default"       # conta pessoal
+format = "deep_dive"
+length = "long"
+
+[formatos]
+# Stack padrão por capítulo. Chaves: portico, reconstrucao, arena, filtro, meditatio, lexico
+default_capitulo = ["portico", "reconstrucao", "filtro"]
+# Áudios da camada-livro (visão de conjunto)
+camada_livro = ["portico_geral", "lexico_geral", "filtro_tese"]
+
+[formatos.overrides]
+# cap (string) -> lista de formatos, p/ capítulos densos. Ex.: "7" = ["portico","reconstrucao","filtro","meditatio"]
+
+[docling]
+chapters_dir = "output/chapters"
+fonte_md = "output/Fearful-Symmetry.md"
+
+[paths]
+unidades = "_unidades_manifest.json"
+prompts = "prompts"
+audios = "audios"
+
+[lifecycle]
+dell_sync = true
+dell_slug = "frye-fearful-symmetry"
+
+[telegram]
+enabled = true
+projeto_label = "Frye — Fearful Symmetry"

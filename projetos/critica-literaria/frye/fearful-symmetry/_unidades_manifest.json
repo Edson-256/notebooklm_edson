@@ -1,0 +1,161 @@
+{
+  "obra": "Fearful Symmetry: A Study of William Blake",
+  "autor": "Northrop Frye",
+  "slug": "fearful-symmetry",
+  "idioma_obra": "en",
+  "idioma_saida": "pt-BR",
+  "modelo_dominante": "internal reconstruction in a double layer — Frye reconstructs Blake's visionary system, and the listener reconstructs Frye reconstructing Blake; strong biblical/theological undercurrent; this book is the seedbed of Frye's later system",
+  "width": 2,
+  "camada_livro": [
+    "portico_geral",
+    "lexico_geral",
+    "filtro_tese"
+  ],
+  "capitulos": [
+    {
+      "seq": 1,
+      "cap": "1",
+      "titulo": "The Case Against Locke",
+      "source_chapter": "C001-1-The-Case-Against-Locke.md",
+      "palavras": 11080,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro"
+      ]
+    },
+    {
+      "seq": 2,
+      "cap": "2",
+      "titulo": "The Rising God",
+      "source_chapter": "C002-2-The-Rising-God.md",
+      "palavras": 10201,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro"
+      ]
+    },
+    {
+      "seq": 3,
+      "cap": "3",
+      "titulo": "Beyond Good and Evil",
+      "source_chapter": "C003-3-Beyond-Good-and-Evil.md",
+      "palavras": 11974,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro"
+      ]
+    },
+    {
+      "seq": 4,
+      "cap": "4",
+      "titulo": "A Literal1st of the Imagination",
+      "source_chapter": "C004-4-A-Literal1st-of-the-Imagination.md",
+      "palavras": 8956,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro"
+      ]
+    },
+    {
+      "seq": 5,
+      "cap": "5",
+      "titulo": "The Word Within the Word",
+      "source_chapter": "C005-5-The-Word-Within-the-Word.md",
+      "palavras": 15228,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro"
+      ]
+    },
+    {
+      "seq": 6,
+      "cap": "6",
+      "titulo": "Tradition and Experiment",
+      "source_chapter": "C006-6-Tradition-and-Experiment.md",
+      "palavras": 15846,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro"
+      ]
+    },
+    {
+      "seq": 7,
+      "cap": "7",
+      "titulo": "The Thief of Fire",
+      "source_chapter": "C007-7-The-Thief-of-Fire.md",
+      "palavras": 16190,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro"
+      ]
+    },
+    {
+      "seq": 8,
+      "cap": "8",
+      "titulo": "The Refiner in Fire",
+      "source_chapter": "C008-8-The-Refiner-in-Fire.md",
+      "palavras": 17792,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro"
+      ]
+    },
+    {
+      "seq": 9,
+      "cap": "9",
+      "titulo": "The Nightmare with her Ninefold",
+      "source_chapter": "C009-9-The-Nightmare-with-her-Ninefold.md",
+      "palavras": 16724,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro"
+      ]
+    },
+    {
+      "seq": 10,
+      "cap": "10",
+      "titulo": "Comus Agonistes",
+      "source_chapter": "C010-10-Comus-Agonistes.md",
+      "palavras": 18337,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro"
+      ]
+    },
+    {
+      "seq": 11,
+      "cap": "11",
+      "titulo": "The City of God",
+      "source_chapter": "C011-11-The-City-of-God.md",
+      "palavras": 20250,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro"
+      ]
+    },
+    {
+      "seq": 12,
+      "cap": "12",
+      "titulo": "The Burden of the Valley of Vision",
+      "source_chapter": "C012-12-The-Burden-of-the-Valley-of-Vision.md",
+      "palavras": 10561,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro"
+      ]
+    }
+  ],
+  "excluidos": []
+}

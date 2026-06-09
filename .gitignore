@@ -67,3 +67,8 @@ projetos/**/I Promesi Sposi/cenas/
 /projetos/cof_v2
 /projetos/mazoni
 /projetos/victor_hugo
+
+# Crítica literária: epubs/PDFs ficam no DROBO; áudios são pesados.
+projetos/critica-literaria/**/source/
+projetos/critica-literaria/**/audios/*.m4a
+projetos/critica-literaria/**/output/images/
