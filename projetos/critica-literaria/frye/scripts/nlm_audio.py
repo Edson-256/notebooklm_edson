@@ -82,10 +82,17 @@ def _extract_artifact_id(text: str) -> str | None:
 # ============================================================================
 
 def check_auth(profile: str) -> None:
-    r = _run(["login", "--check"], profile, timeout=30)
+    # 0.7.2: `login --check` às vezes dá traceback; probe confiável = notebook list --json.
+    r = _run(["notebook", "list", "--json"], profile, timeout=60)
     if r.returncode != 0:
         raise NlmError(
             f"perfil nlm '{profile}' não autenticado. Rode: nlm login -p {profile}\n{_err(r)}"
+        )
+    try:
+        json.loads(r.stdout)
+    except (ValueError, json.JSONDecodeError):
+        raise NlmError(
+            f"perfil nlm '{profile}' não retornou JSON válido (auth?). Rode: nlm login -p {profile}"
         )
 
 
@@ -143,7 +150,7 @@ def create_audio(notebook_id: str, focus: str, profile: str, *,
                  fmt: str = "deep_dive", length: str = "long",
                  language: str = "pt-BR", source_ids: list[str] | None = None,
                  timeout: int = 300) -> str | None:
-    args = ["create", "audio", notebook_id, "-f", fmt, "-l", length,
+    args = ["audio", "create", notebook_id, "-f", fmt, "-l", length,
             "--language", language, "-y"]
     if focus:
         args += ["--focus", focus]
@@ -159,11 +166,14 @@ def create_audio(notebook_id: str, focus: str, profile: str, *,
 
 
 def list_artifacts(notebook_id: str, profile: str, timeout: int = 60) -> dict[str, dict]:
-    r = _run(["list", "artifacts", notebook_id, "--json"], profile, timeout)
+    # 0.7.2: `list artifacts` foi removido; usar `studio status <nb> --json`.
+    r = _run(["studio", "status", notebook_id, "--json"], profile, timeout)
     if r.returncode != 0:
-        raise NlmError(f"list artifacts falhou: {_err(r)}")
+        raise NlmError(f"studio status falhou: {_err(r)}")
     arts = json.loads(r.stdout)
-    return {a["id"]: a for a in arts}
+    if isinstance(arts, dict):
+        arts = arts.get("artifacts", arts.get("value", []))
+    return {a["id"]: a for a in arts if a.get("id")}
 
 
 def download_audio(notebook_id: str, artifact_id: str | None, out_path: str | Path,
