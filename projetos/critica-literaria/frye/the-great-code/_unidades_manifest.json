@@ -1,0 +1,130 @@
+{
+  "obra": "The Great Code: The Bible and Literature",
+  "autor": "Northrop Frye",
+  "slug": "the-great-code",
+  "idioma_obra": "en",
+  "idioma_saida": "pt-BR",
+  "modelo_dominante": "Frye's system at its theological apex — the Bible as the 'great code' of Western imagination, read through language, myth, metaphor and typology in two passes; the master test is whether 'levels of meaning' and typology disclose a real structure of the biblical imagination or impose a literary grid on Scripture",
+  "width": 2,
+  "camada_livro": [
+    "portico_geral",
+    "lexico_geral",
+    "filtro_tese"
+  ],
+  "capitulos": [
+    {
+      "seq": 1,
+      "cap": "0",
+      "titulo": "Introduction",
+      "source_chapter": "C001-0-Introduction.md",
+      "palavras": 5615,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro",
+        "arena"
+      ]
+    },
+    {
+      "seq": 2,
+      "cap": "1",
+      "titulo": "Language I",
+      "source_chapter": "C002-1-Language-I.md",
+      "palavras": 12180,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro",
+        "arena"
+      ]
+    },
+    {
+      "seq": 3,
+      "cap": "2",
+      "titulo": "Myth I",
+      "source_chapter": "C003-2-Myth-I.md",
+      "palavras": 9736,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro"
+      ]
+    },
+    {
+      "seq": 4,
+      "cap": "3",
+      "titulo": "Metaphor I",
+      "source_chapter": "C004-3-Metaphor-I.md",
+      "palavras": 10767,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro"
+      ]
+    },
+    {
+      "seq": 5,
+      "cap": "4",
+      "titulo": "Typology I",
+      "source_chapter": "C005-4-Typology-I.md",
+      "palavras": 10754,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro",
+        "meditatio"
+      ]
+    },
+    {
+      "seq": 6,
+      "cap": "5",
+      "titulo": "Typology II Phases of Revelation",
+      "source_chapter": "C006-5-Typology-II-Phases-of-Revelation.md",
+      "palavras": 15500,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro",
+        "meditatio"
+      ]
+    },
+    {
+      "seq": 7,
+      "cap": "6",
+      "titulo": "Metaphor II Imagery",
+      "source_chapter": "C007-6-Metaphor-II-Imagery.md",
+      "palavras": 13232,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro"
+      ]
+    },
+    {
+      "seq": 8,
+      "cap": "7",
+      "titulo": "Myth II Narrative",
+      "source_chapter": "C008-7-Myth-II-Narrative.md",
+      "palavras": 13309,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro"
+      ]
+    },
+    {
+      "seq": 9,
+      "cap": "8",
+      "titulo": "Language II Rhetoric",
+      "source_chapter": "C009-8-Language-II-Rhetoric.md",
+      "palavras": 15692,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro",
+        "meditatio"
+      ]
+    }
+  ],
+  "excluidos": []
+}

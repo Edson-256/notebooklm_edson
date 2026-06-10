@@ -1,0 +1,56 @@
+{
+  "obra": "Creation and Recreation",
+  "autor": "Northrop Frye",
+  "slug": "creation-and-recreation",
+  "idioma_obra": "en",
+  "idioma_saida": "pt-BR",
+  "modelo_dominante": "short programmatic lectures on the mythology of creation — why every culture builds a 'created order' and how criticism recreates it; anthropological undercurrent (the human need to make and remake worlds); a compact gateway to The Great Code, so the meditatio confronts the creation-myth claim with lived experience",
+  "width": 2,
+  "camada_livro": [
+    "portico_geral",
+    "lexico_geral",
+    "filtro_tese"
+  ],
+  "capitulos": [
+    {
+      "seq": 1,
+      "cap": "1",
+      "titulo": "Part One",
+      "source_chapter": "C001-1-Part-One.md",
+      "palavras": 7241,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro",
+        "meditatio"
+      ]
+    },
+    {
+      "seq": 2,
+      "cap": "2",
+      "titulo": "Part Two",
+      "source_chapter": "C002-2-Part-Two.md",
+      "palavras": 7122,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro",
+        "meditatio"
+      ]
+    },
+    {
+      "seq": 3,
+      "cap": "3",
+      "titulo": "Part Three",
+      "source_chapter": "C003-3-Part-Three.md",
+      "palavras": 7364,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro",
+        "meditatio"
+      ]
+    }
+  ],
+  "excluidos": []
+}

@@ -4,7 +4,7 @@ SERIES: This is the CRITICAL audio — "O Filtro" — for Chapter 11, "Third Ess
 
 SOURCE FOCUS: In the source document, focus ONLY on the chapter "Third Essay Theory of Myths Introduction". It opens near: "THIRD ESSAY\ Archetypal Criticism: Theory of Myths Third Essay ARCHETYPAL CRITICISM: THEORY OF MYTHS INTRODUCTION IN THE ART of painting it is easy to see both " and closes near: "It is often, however, the factor which lifts a work of literature out of the category of the merely historical.". Do not summarize other chapters.
 
-GOAL — apply the decisive test: do Frye's categories (his archetypes, myths, symbols, typologies) capture a REAL structure in literature/Blake/the Bible — a genuine connection between real things — or are they an elegant, self-referential verbal universe that mainly justifies itself?
+GOAL — apply the decisive test: do Frye's categories (his archetypes, myths, symbols, typologies) capture a REAL structure in literature, art, and scripture — a genuine connection between real things — or are they an elegant, self-referential verbal universe that mainly justifies itself?
 1. Pick the 1–2 central categories or claims the chapter rests on.
 2. The skeptical voice presses: where might this be a grid IMPOSED on the material rather than read OUT of it? Use the chapter's own examples to test the fit.
 3. The charitable voice answers at full strength — steel-man Frye, never a straw man; show why the move is compelling, and where it genuinely lands.

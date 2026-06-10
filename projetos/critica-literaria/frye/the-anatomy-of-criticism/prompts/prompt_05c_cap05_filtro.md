@@ -4,7 +4,7 @@ SERIES: This is the CRITICAL audio — "O Filtro" — for Chapter 5, "Thematic M
 
 SOURCE FOCUS: In the source document, focus ONLY on the chapter "Thematic Modes". It opens near: "THEMATIC MODES Aristotle lists six aspects of poetry: three of them, melody, diction, and spectacle, form a group by themselves, and we shall consider them in d" and closes near: "On the other hand, the lack of emotional involvement in Lycidas has been thought by some, including Johnson, to be a failure in that poem, but surely the correc". Do not summarize other chapters.
 
-GOAL — apply the decisive test: do Frye's categories (his archetypes, myths, symbols, typologies) capture a REAL structure in literature/Blake/the Bible — a genuine connection between real things — or are they an elegant, self-referential verbal universe that mainly justifies itself?
+GOAL — apply the decisive test: do Frye's categories (his archetypes, myths, symbols, typologies) capture a REAL structure in literature, art, and scripture — a genuine connection between real things — or are they an elegant, self-referential verbal universe that mainly justifies itself?
 1. Pick the 1–2 central categories or claims the chapter rests on.
 2. The skeptical voice presses: where might this be a grid IMPOSED on the material rather than read OUT of it? Use the chapter's own examples to test the fit.
 3. The charitable voice answers at full strength — steel-man Frye, never a straw man; show why the move is compelling, and where it genuinely lands.

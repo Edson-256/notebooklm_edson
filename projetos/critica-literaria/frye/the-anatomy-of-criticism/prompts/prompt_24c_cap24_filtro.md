@@ -4,7 +4,7 @@ SERIES: This is the CRITICAL audio — "O Filtro" — for Chapter 24, "Specific 
 
 SOURCE FOCUS: In the source document, focus ONLY on the chapter "Specific Continuous Forms Prose Fiction". It opens near: "SPECIFIC CONTINUOUS FORMS\ (PROSE FICTION) In assigning the term fiction to the genre of the written word, in which prose tends to become the predominating rhyt" and closes near: "The Bible is the definitive example of it; the Egyptian Book of the Dead and the Icelandic Prose Edda, both of which have left deep imprints on Finnegans Wake, ". Do not summarize other chapters.
 
-GOAL — apply the decisive test: do Frye's categories (his archetypes, myths, symbols, typologies) capture a REAL structure in literature/Blake/the Bible — a genuine connection between real things — or are they an elegant, self-referential verbal universe that mainly justifies itself?
+GOAL — apply the decisive test: do Frye's categories (his archetypes, myths, symbols, typologies) capture a REAL structure in literature, art, and scripture — a genuine connection between real things — or are they an elegant, self-referential verbal universe that mainly justifies itself?
 1. Pick the 1–2 central categories or claims the chapter rests on.
 2. The skeptical voice presses: where might this be a grid IMPOSED on the material rather than read OUT of it? Use the chapter's own examples to test the fit.
 3. The charitable voice answers at full strength — steel-man Frye, never a straw man; show why the move is compelling, and where it genuinely lands.

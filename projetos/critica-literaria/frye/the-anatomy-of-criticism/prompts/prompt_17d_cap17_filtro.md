@@ -4,7 +4,7 @@ SERIES: This is the CRITICAL audio — "O Filtro" — for Chapter 17, "Fourth Es
 
 SOURCE FOCUS: In the source document, focus ONLY on the chapter "Fourth Essay Theory of Genres Introduction". It opens near: "FOURTH ESSAY\ Rhetorical Criticism: Theory of Genres Fourth Essay RHETORICAL CRITICISM: THEORY OF GENRES INTRODUCTION THE PRESENT BOOK employs a diagrammatic fr" and closes near: "As in what immediately follows we are largely concerned with diction and linguistic elements, we must limit our survey mainly to a specific language, which will". Do not summarize other chapters.
 
-GOAL — apply the decisive test: do Frye's categories (his archetypes, myths, symbols, typologies) capture a REAL structure in literature/Blake/the Bible — a genuine connection between real things — or are they an elegant, self-referential verbal universe that mainly justifies itself?
+GOAL — apply the decisive test: do Frye's categories (his archetypes, myths, symbols, typologies) capture a REAL structure in literature, art, and scripture — a genuine connection between real things — or are they an elegant, self-referential verbal universe that mainly justifies itself?
 1. Pick the 1–2 central categories or claims the chapter rests on.
 2. The skeptical voice presses: where might this be a grid IMPOSED on the material rather than read OUT of it? Use the chapter's own examples to test the fit.
 3. The charitable voice answers at full strength — steel-man Frye, never a straw man; show why the move is compelling, and where it genuinely lands.

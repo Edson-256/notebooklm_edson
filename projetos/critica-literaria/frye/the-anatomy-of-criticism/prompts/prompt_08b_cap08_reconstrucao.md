@@ -8,8 +8,8 @@ GOAL — rebuild Frye's argument FROM THE INSIDE, charitably, so the listener ca
 1. State the chapter's thesis in one clean sentence.
 2. Define Frye's key terms AS HE USES THEM (not the dictionary sense) — make the redefinition explicit each time.
 3. Walk the architecture of the reasoning step by step: premise → move → consequence. Show how each step follows, granting his premises provisionally.
-4. Anchor each abstract move in the concrete examples Frye himself uses (Blake's poems/figures, the Bible, Milton), so the idea is never left floating.
-5. Because this book is double-layered, keep two planes distinct and visible: what BLAKE actually holds, and what FRYE attributes to Blake / builds on top.
+4. Anchor each abstract move in the concrete examples Frye himself uses in THIS chapter (the poems, plays, scriptural passages, or critics he cites), so the idea is never left floating.
+5. Keep distinct what Frye is RECONSTRUCTING from what Frye is ASSERTING: where he speaks for another mind — an author, a tradition, scripture — versus where he advances his own claim built on top. (When the book reconstructs another thinker's system, hold those two planes visibly apart.)
 
 TONE & METHOD: Maximum interpretive charity. Provisionally accept his premises and follow the logic on its own terms; explicitly SUSPEND judgment — no critique, no "but is he right?" here (that is the next audio). If something is hard, slow down and re-explain with a fresh analogy rather than skipping it. Close by handing off to the "Filtro", where you will finally test whether his categories grasp something real.
 

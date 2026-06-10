@@ -1,0 +1,44 @@
+# Config: Frye — Creation and Recreation (Larkin-Stuart Lectures, 1980; 3 partes).
+# Obra-pórtico curta: a antropologia da criação/recriação como chave do projeto de Frye.
+# Stack por reference matrix: A·B·D·§2(antropologia) → §2 mapeado em meditatio (confronto
+# antropológico). 3 unidades → full stack/cap ok.
+# Modelo: docs/referencia_formatos_audio_naoficcao.md
+
+[obra]
+titulo = "Creation and Recreation"
+autor = "Northrop Frye"
+slug = "creation-and-recreation"
+sigla = "CR"
+idioma_obra = "en"
+idioma_saida = "pt-BR"
+modelo_dominante = "short programmatic lectures on the mythology of creation — why every culture builds a 'created order' and how criticism recreates it; anthropological undercurrent (the human need to make and remake worlds); a compact gateway to The Great Code, so the meditatio confronts the creation-myth claim with lived experience"
+
+[notebooklm]
+notebook_id = ""          # checkpoint: avisar antes de criar (conta pessoal)
+profile = "default"
+format = "deep_dive"
+length = "default"        # médio
+
+[formatos]
+default_capitulo = ["portico", "reconstrucao", "filtro", "meditatio"]
+camada_livro = ["portico_geral", "lexico_geral", "filtro_tese"]
+
+[formatos.overrides]
+# obra curta (3 partes); default A·B·D·E em todas.
+
+[docling]
+chapters_dir = "output/chapters"
+fonte_md = "output/creation-and-recreation_fonte_nlm.md"
+
+[paths]
+unidades = "_unidades_manifest.json"
+prompts = "prompts"
+audios = "audios"
+
+[lifecycle]
+dell_sync = true
+dell_slug = "frye-creation-and-recreation"
+
+[telegram]
+enabled = true
+projeto_label = "Frye — Creation and Recreation"

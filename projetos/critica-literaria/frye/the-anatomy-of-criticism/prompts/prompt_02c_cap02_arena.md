@@ -5,7 +5,7 @@ SERIES: This is the "Arena" audio (an EXTRA, used on denser chapters) for Chapte
 SOURCE FOCUS: In the source document, focus ONLY on the chapter "First Essay Fictional Modes Introduction". It opens near: "FIRST ESSAY\ Historical Criticism: Theory of Modes First Essay HISTORICAL CRITICISM: THEORY OF MODES FICTIONAL MODES: INTRODUCTION IN THE SECOND paragraph of th" and closes near: "This distinction is expressed by the words “tragic” and “comic” when they refer to aspects of plot in general and not simply to forms of drama.". Do not summarize other chapters.
 
 GOAL — map the field of forces around this chapter, in three clear beats:
-1. THE INHERITANCE — what the prevailing view said before Frye: the positions, vocabulary and assumptions he received from the critical/scholarly tradition (here especially the readings of Blake, of Romanticism, and the epistemology in the background).
+1. THE INHERITANCE — what the prevailing view said before Frye: the positions, vocabulary and assumptions he received from the critical and scholarly tradition he was writing into and against (draw these from THIS chapter and the book's own frame — see the approach note above).
 2. THE LIVE DEADLOCK — the knot: the contradiction or gap where that inherited debate stalled, the unsolved problem that left an opening. State it as a sharp tension.
 3. FRYE'S MOVE — the intervention: how Frye repositions himself to cut the knot — what he proposes that the prior debate could not. Be precise about WHAT is new.
 

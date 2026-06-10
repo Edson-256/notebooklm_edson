@@ -1,0 +1,43 @@
+# Config: Frye — Fools of Time (Shakespeare's tragedies; 3 Alexander Lectures, 1967).
+# Stack por reference matrix: A·B·D·E (meditatio FORTE) — obra aplicada, leitura tem
+# de confrontar a teoria com a experiência das peças. Só 3 unidades → full stack/cap ok.
+# Modelo: docs/referencia_formatos_audio_naoficcao.md
+
+[obra]
+titulo = "Fools of Time: Studies in Shakespearean Tragedy"
+autor = "Northrop Frye"
+slug = "fools-of-time"
+sigla = "FT"
+idioma_obra = "en"
+idioma_saida = "pt-BR"
+modelo_dominante = "Frye's system APPLIED to Shakespearean tragedy — three lectures on the tragedy of order, of passion, and of isolation; the master test is whether the taxonomy illuminates the actual plays or flattens them, so the meditatio (confronting theory with the experience of the tragedies) carries real weight"
+
+[notebooklm]
+notebook_id = ""          # checkpoint: avisar antes de criar (conta pessoal)
+profile = "default"
+format = "deep_dive"
+length = "default"        # médio
+
+[formatos]
+default_capitulo = ["portico", "reconstrucao", "filtro", "meditatio"]
+camada_livro = ["portico_geral", "lexico_geral", "filtro_tese"]
+
+[formatos.overrides]
+# obra curta (3 palestras); default A·B·D·E em todas.
+
+[docling]
+chapters_dir = "output/chapters"
+fonte_md = "output/fools-of-time_fonte_nlm.md"
+
+[paths]
+unidades = "_unidades_manifest.json"
+prompts = "prompts"
+audios = "audios"
+
+[lifecycle]
+dell_sync = true
+dell_slug = "frye-fools-of-time"
+
+[telegram]
+enabled = true
+projeto_label = "Frye — Fools of Time"

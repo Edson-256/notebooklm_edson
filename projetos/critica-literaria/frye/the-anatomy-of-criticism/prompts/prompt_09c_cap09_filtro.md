@@ -4,7 +4,7 @@ SERIES: This is the CRITICAL audio — "O Filtro" — for Chapter 9, "Mythical P
 
 SOURCE FOCUS: In the source document, focus ONLY on the chapter "Mythical Phase Symbol as Archetype". It opens near: "MYTHICAL PHASE: SYMBOL AS ARCHETYPE In the formal phase the poem belongs neither to the class “art,” nor to the class “verbal”: it represents its own class." and closes near: "We need still another phase where we can pass from civilization, where poetry is still useful and functional, to culture, where it is disinterested and liberal,". Do not summarize other chapters.
 
-GOAL — apply the decisive test: do Frye's categories (his archetypes, myths, symbols, typologies) capture a REAL structure in literature/Blake/the Bible — a genuine connection between real things — or are they an elegant, self-referential verbal universe that mainly justifies itself?
+GOAL — apply the decisive test: do Frye's categories (his archetypes, myths, symbols, typologies) capture a REAL structure in literature, art, and scripture — a genuine connection between real things — or are they an elegant, self-referential verbal universe that mainly justifies itself?
 1. Pick the 1–2 central categories or claims the chapter rests on.
 2. The skeptical voice presses: where might this be a grid IMPOSED on the material rather than read OUT of it? Use the chapter's own examples to test the fit.
 3. The charitable voice answers at full strength — steel-man Frye, never a straw man; show why the move is compelling, and where it genuinely lands.

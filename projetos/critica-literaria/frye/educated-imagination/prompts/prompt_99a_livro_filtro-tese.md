@@ -4,7 +4,7 @@ SERIES: This is the BOOK-LEVEL "Filtro" — the central thesis test — for the 
 
 SOURCE FOCUS: Use the WHOLE source document. Aim at the book's master claim, not chapter details.
 
-GOAL — apply the decisive question to the entire system: does Frye's overarching framework capture a REAL structure — a genuine connection between real things in Blake, in literature, in the Bible — or is it an elegant, self-referential verbal universe that mainly justifies itself?
+GOAL — apply the decisive question to the entire system: does Frye's overarching framework capture a REAL structure — a genuine connection between real things in literature, art, and scripture — or is it an elegant, self-referential verbal universe that mainly justifies itself?
 1. State the book's single biggest claim as plainly as possible — the wager everything rests on.
 2. The skeptical voice presses the strongest version of the standard worry: that the unifying system is imposed from above and smooths over what is specific and resistant in the actual texts.
 3. The charitable voice answers at full strength — steel-man Frye; show where the system genuinely illuminates what no piecemeal reading could.

@@ -6,7 +6,7 @@ SOURCE FOCUS: In the source document, focus ONLY on the chapter "{titulo}". It o
 
 GOAL — confront Frye's claim with REAL, intuitive experience, to convert verbal learning into something genuinely understood:
 1. Distill the chapter's deepest claim into one human question — what is really at stake for a reader, not just for criticism.
-2. Test it against ordinary experience of reading and of life: when you actually read Blake, or a poem, or scripture, does Frye's account match what happens in you? Where does it ring true? Where does it feel thin?
+2. Test it against ordinary experience of reading and of life: when you actually read a poem, a play, or scripture, does Frye's account match what happens in you? Where does it ring true? Where does it feel thin?
 3. Hold the tension between the theory as a beautiful verbal structure and the reality it points to — without forcing a neat resolution.
 4. Leave the listener with a question to carry, not a conclusion to memorize.
 

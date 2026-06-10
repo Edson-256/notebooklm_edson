@@ -4,7 +4,7 @@ SERIES: This is the CRITICAL audio — "O Filtro" — for Chapter 23, "Specific 
 
 SOURCE FOCUS: In the source document, focus ONLY on the chapter "Specific Thematic Forms Lyric and Epos". It opens near: "SPECIFIC THEMATIC FORMS\ (LYRIC AND EPOS) We said that the drama was an external and the lyric an internal mimesis of sound and imagery, both genres avoiding th" and closes near: "The rhythm is approaching a form in which the lyrical associative rhythm, the epos line and the prose sentence are becoming much the same unit, a tendency that ". Do not summarize other chapters.
 
-GOAL — apply the decisive test: do Frye's categories (his archetypes, myths, symbols, typologies) capture a REAL structure in literature/Blake/the Bible — a genuine connection between real things — or are they an elegant, self-referential verbal universe that mainly justifies itself?
+GOAL — apply the decisive test: do Frye's categories (his archetypes, myths, symbols, typologies) capture a REAL structure in literature, art, and scripture — a genuine connection between real things — or are they an elegant, self-referential verbal universe that mainly justifies itself?
 1. Pick the 1–2 central categories or claims the chapter rests on.
 2. The skeptical voice presses: where might this be a grid IMPOSED on the material rather than read OUT of it? Use the chapter's own examples to test the fit.
 3. The charitable voice answers at full strength — steel-man Frye, never a straw man; show why the move is compelling, and where it genuinely lands.

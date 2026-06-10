@@ -1,0 +1,51 @@
+# Config: Frye — The Great Code: The Bible and Literature (1982). Ápice teológico.
+# Introdução + 8 capítulos pareados (Language/Myth/Metaphor/Typology I e II).
+# Stack MODULADO (memória project_frye_stack_modulacao): A·B·D padrão; Arena onde a
+# tese é mais contestada (Intro programática + Language I); Meditatio nos núcleos
+# teológicos (Typology I/II + Language II/Rhetoric, a síntese). Léxico só camada-livro.
+# Cap "0" = Introduction (ordena primeiro no naming, DD=00). ~35 áudios.
+
+[obra]
+titulo = "The Great Code: The Bible and Literature"
+autor = "Northrop Frye"
+slug = "the-great-code"
+sigla = "GC"
+idioma_obra = "en"
+idioma_saida = "pt-BR"
+modelo_dominante = "Frye's system at its theological apex — the Bible as the 'great code' of Western imagination, read through language, myth, metaphor and typology in two passes; the master test is whether 'levels of meaning' and typology disclose a real structure of the biblical imagination or impose a literary grid on Scripture"
+
+[notebooklm]
+notebook_id = ""          # checkpoint: avisar antes de criar (conta pessoal)
+profile = "default"
+format = "deep_dive"
+length = "default"        # médio
+
+[formatos]
+default_capitulo = ["portico", "reconstrucao", "filtro"]
+camada_livro = ["portico_geral", "lexico_geral", "filtro_tese"]
+
+[formatos.overrides]
+# Arena (status quaestionis) onde a tese é mais disputada:
+"0" = ["portico", "reconstrucao", "filtro", "arena"]      # Introduction — programa contestado
+"1" = ["portico", "reconstrucao", "filtro", "arena"]      # Language I — a linguística de Frye
+# Meditatio nos núcleos teológicos (tipologia + síntese retórica):
+"4" = ["portico", "reconstrucao", "filtro", "meditatio"]  # Typology I
+"5" = ["portico", "reconstrucao", "filtro", "meditatio"]  # Typology II — Phases of Revelation
+"8" = ["portico", "reconstrucao", "filtro", "meditatio"]  # Language II — Rhetoric (síntese)
+
+[docling]
+chapters_dir = "output/chapters"
+fonte_md = "output/the-great-code_fonte_nlm.md"
+
+[paths]
+unidades = "_unidades_manifest.json"
+prompts = "prompts"
+audios = "audios"
+
+[lifecycle]
+dell_sync = true
+dell_slug = "frye-the-great-code"
+
+[telegram]
+enabled = true
+projeto_label = "Frye — The Great Code"
