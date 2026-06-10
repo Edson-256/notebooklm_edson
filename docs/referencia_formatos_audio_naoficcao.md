@@ -59,6 +59,13 @@ conforme a densidade e o modelo dominante. Exemplo (projeto Frye):
 | Notebooks (oficina genética) | formato próprio "laboratório", em paralelo com a obra-mãe |
 
 ## Notas de aplicação
+- **Modular por densidade — NÃO aplicar o leque completo a cada unidade fina.** Quando a obra é
+  segmentada em muitas unidades (ex.: seções), o full-leque-por-unidade sobre-cobre (Léxico repete
+  vocabulário; Meditatio em tudo cansa; Arena rende mais por *ensaio* que por seção). Padrão: **A·B·D
+  por unidade** + extras (C/E/F) só onde rendem (Arena por ensaio, Meditatio nas seções ricas, Léxico
+  1×/ensaio ou na camada-livro). Seleção por unidade via config. (Ex.: Anatomy 27 seções → ~100–110
+  áudios em vez de 165.)
+- **Tamanho do áudio: médio** (`length = "default"` no NLM) costuma ser mais digerível que `long`.
 - **Idioma:** por padrão prompts em inglês, saída em pt-BR (regra global). Confirmar por projeto.
 - **Cada formato = um template de prompt próprio** (a construir no projeto específico).
 - **Operação-mestra transversal:** o filtro **conceito vs. símbolo autojustificativo** atravessa

@@ -15,7 +15,7 @@ modelo_dominante = "internal reconstruction in a double layer — Frye reconstru
 notebook_id = ""          # VAZIO de propósito — checkpoint: avisar o usuário ANTES de criar
 profile = "default"       # conta pessoal
 format = "deep_dive"
-length = "long"
+length = "default"   # médio (default NLM); mais digerível que "long"
 
 [formatos]
 # Stack padrão por capítulo. Chaves: portico, reconstrucao, arena, filtro, meditatio, lexico
