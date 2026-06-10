@@ -19,6 +19,9 @@ import tomllib
 import unicodedata
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import naming
+
 # formato (manifesto) -> arquivo de template
 TEMPLATE_FILE = {
     "portico": "fmt_portico.md",
@@ -110,7 +113,7 @@ def main() -> int:
                 cap="", titulo="", seq=0, total=total_audios,
                 ancora_inicio="", ancora_fim="",
             )
-            fname = f"prompt_L0_{fmt}.md"
+            fname = f"prompt_{naming.stem(None, fmt, [], width)}.md"
             if args.dry_run:
                 print(f"\n{'='*78}\n{fname}\n{'='*78}\n{prompt}")
             else:
@@ -135,7 +138,7 @@ def main() -> int:
                 cap=c["cap"], titulo=c["titulo"], seq=c["seq"],
                 total=total_audios, ancora_inicio=ini, ancora_fim=fim,
             )
-            fname = f"prompt_{c['seq']:0{width}d}_cap-{c['cap']}_{fmt}.md"
+            fname = f"prompt_{naming.stem(c['cap'], fmt, c['formatos'], width)}.md"
             if args.dry_run:
                 print(f"\n{'='*78}\n{fname}\n{'='*78}\n{prompt}")
             else:

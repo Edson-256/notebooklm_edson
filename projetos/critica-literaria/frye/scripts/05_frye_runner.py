@@ -24,6 +24,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import nlm_audio as nlm  # cópia local dos wrappers
+import naming           # nomes ordenados (sequência de audição)
 
 STATE_FILE = "_frye_run_state.json"
 PROFILE_PESSOAL = "default"
@@ -55,19 +56,18 @@ def build_audio_list(proj: Path, cfg: dict) -> list[dict]:
     out = []
     # camada-livro
     for fmt in man["camada_livro"]:
-        pf = prompts / f"prompt_L0_{fmt}.md"
-        out.append({"id": f"L0_{fmt}", "cap": "L0", "seq": 0, "formato": fmt,
-                    "prompt_path": str(pf),
-                    "output_path": str(proj / audios_dir / f"L0_{fmt}.m4a"),
+        st = naming.stem(None, fmt, [], width)
+        out.append({"id": st, "cap": "L0", "seq": 0, "formato": fmt,
+                    "prompt_path": str(prompts / f"prompt_{st}.md"),
+                    "output_path": str(proj / audios_dir / f"{st}.m4a"),
                     "status": "pending", "artifact_id": ""})
     # por capítulo
     for c in man["capitulos"]:
         for fmt in c["formatos"]:
-            stem = f"{c['seq']:0{width}d}_cap-{c['cap']}_{fmt}"
-            pf = prompts / f"prompt_{stem}.md"
-            out.append({"id": stem, "cap": c["cap"], "seq": c["seq"], "formato": fmt,
-                        "prompt_path": str(pf),
-                        "output_path": str(proj / audios_dir / f"{stem}.m4a"),
+            st = naming.stem(c["cap"], fmt, c["formatos"], width)
+            out.append({"id": st, "cap": c["cap"], "seq": c["seq"], "formato": fmt,
+                        "prompt_path": str(prompts / f"prompt_{st}.md"),
+                        "output_path": str(proj / audios_dir / f"{st}.m4a"),
                         "status": "pending", "artifact_id": ""})
     return out
 
