@@ -1,0 +1,16 @@
+# Guia de acompanhamento — Cap. 6 · *Metaphor II — Imagery*
+### Áudio C — O Filtro (estrutura real × grade imposta) · ~12 min
+
+> **Para que serve este áudio:** agora que você habitou o argumento, testá-lo. A pergunta decisiva: a tabela de imagens de Frye capta uma **estrutura real** da imaginação bíblica — ou é uma grade elegante *imposta* sobre o texto, que sobretudo se autojustifica?
+
+**As apostas centrais sob teste.** Duas, ligadas:
+1. A **tabela** (apocalíptico × demoníaco, do divino ao mineral) seria o desenho real das imagens da Bíblia.
+2. A **metáfora real**: a ideia de que tudo — Pastor, Cordeiro, árvore, água, cidade, pedra — se identifica metaforicamente no corpo de Cristo.
+
+**O ponto cético (a objeção mais forte, no seu melhor).** A própria mecânica do sistema levanta suspeita. Quando Frye precisa de uma figura **materna demoníaca** e a Bíblia não a fornece, ele admite que "a lenda posterior provavelmente suprirá uma" — e de fato recorre a Lilith, mencionada *uma vez* (Isaías 34:14). Isto é, quando a casa da tabela está vazia, ela é preenchida com material extrabíblico para que o sistema feche. Some-se a isso o reconhecimento dele de que "nenhuma imagem é em si boa ou má, apocalíptica ou demoníaca: depende do contexto" — o que dá enorme flexibilidade: a serpente é sinistra no Éden, mas sabedoria em Mateus 10:16 e cura em Números 21:9. Se a mesma imagem pode ir para qualquer faixa conforme convém, a grade corre o risco de **nunca poder ser desmentida** — ela acomoda tudo. O serpente erguido da "Kundalini Yoga", confessadamente, "não é dado no Gênesis".
+
+**A defesa caridosa (Frye no seu ponto mais forte).** Há lugares onde a estrutura claramente *brota do texto*, não é colada nele. O arco árvore-e-água da vida abre o Gênesis (2:9) e fecha o Apocalipse (22:1-2) — Frye não inventou esses dois pontos. A fonte que brota do Templo em Ezequiel 47 corre para o **leste**, para o Mar Morto, "e as águas serão curadas" (47:8): aqui a oposição água viva/água morta é literalmente o que o profeta escreve. O Novo Testamento *ele mesmo* trata o Dilúvio (I Pedro 3:21) e o Mar Vermelho (I Coríntios 10:2) como tipos do batismo, e cita Zacarias 12:10 ("olharão para aquele que traspassaram") em João 19:37 — a tipologia que Frye descreve é, em parte, exibida pelos próprios autores bíblicos. E a flexibilidade que parece fraqueza pode ser a **honestidade** do método: Frye repetidamente avisa onde está reconstruindo (Lilith, a "Kundalini") em vez de afirmar que está no texto.
+
+**Veredito provisório (e a tensão que fica em aberto).** Onde os dois extremos do arco e as tipologias são *citados pela própria Escritura*, a estrutura de Frye parece **ler algo real**. Onde ele preenche casas vazias com lenda posterior ou imagens de outras tradições para completar a simetria da tabela, o risco de **grade imposta** é genuíno — e a regra "depende do contexto" enfraquece a falseabilidade. O honesto é não fechar: rastrear, caso a caso, quando a Bíblia *fornece* a oposição e quando Frye a *fabrica* para a tabela fechar.
+
+**Para fixar.** Esta é exatamente a objeção que os críticos de Frye levantam — o sistema disclosa a estrutura da imaginação bíblica ou impõe uma grade literária sobre a Escritura? Você só tem direito a essa pergunta depois de ter reconstruído o mapa com caridade. Suspeita informada, não cinismo.
