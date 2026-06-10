@@ -1,0 +1,349 @@
+{
+  "obra": "Anatomy of Criticism: Four Essays",
+  "autor": "Northrop Frye",
+  "slug": "anatomy-of-criticism",
+  "idioma_obra": "en",
+  "idioma_saida": "pt-BR",
+  "modelo_dominante": "Frye's system — internal reconstruction at maximum; the four essays (modes, symbols, myths, genres) build a 'science' of criticism; the master test is whether his taxonomy captures a real structure of literature or is self-referential",
+  "width": 2,
+  "camada_livro": [
+    "portico_geral",
+    "lexico_geral",
+    "filtro_tese"
+  ],
+  "capitulos": [
+    {
+      "seq": 1,
+      "cap": "1",
+      "titulo": "Polemical Introduction",
+      "source_chapter": "C001-Polemical-Introduction.md",
+      "palavras": 11548,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro"
+      ]
+    },
+    {
+      "seq": 2,
+      "cap": "2",
+      "titulo": "First Essay Fictional Modes Introduction",
+      "source_chapter": "C002-First-Essay-Fictional-Modes-Introduction.md",
+      "palavras": 1240,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro",
+        "arena"
+      ]
+    },
+    {
+      "seq": 3,
+      "cap": "3",
+      "titulo": "Tragic Fictional Modes",
+      "source_chapter": "C003-Tragic-Fictional-Modes.md",
+      "palavras": 3168,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro"
+      ]
+    },
+    {
+      "seq": 4,
+      "cap": "4",
+      "titulo": "Comic Fictional Modes",
+      "source_chapter": "C004-Comic-Fictional-Modes.md",
+      "palavras": 3959,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro"
+      ]
+    },
+    {
+      "seq": 5,
+      "cap": "5",
+      "titulo": "Thematic Modes",
+      "source_chapter": "C005-Thematic-Modes.md",
+      "palavras": 6390,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro"
+      ]
+    },
+    {
+      "seq": 6,
+      "cap": "6",
+      "titulo": "Second Essay Theory of Symbols Introduction",
+      "source_chapter": "C006-Second-Essay-Theory-of-Symbols-Introduction.md",
+      "palavras": 967,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro",
+        "arena"
+      ]
+    },
+    {
+      "seq": 7,
+      "cap": "7",
+      "titulo": "Literal and Descriptive Phases",
+      "source_chapter": "C007-Literal-and-Descriptive-Phases.md",
+      "palavras": 3955,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro"
+      ]
+    },
+    {
+      "seq": 8,
+      "cap": "8",
+      "titulo": "Formal Phase Symbol as Image",
+      "source_chapter": "C008-Formal-Phase-Symbol-as-Image.md",
+      "palavras": 5325,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro"
+      ]
+    },
+    {
+      "seq": 9,
+      "cap": "9",
+      "titulo": "Mythical Phase Symbol as Archetype",
+      "source_chapter": "C009-Mythical-Phase-Symbol-as-Archetype.md",
+      "palavras": 9126,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro"
+      ]
+    },
+    {
+      "seq": 10,
+      "cap": "10",
+      "titulo": "Anagogic Phase Symbol as Monad",
+      "source_chapter": "C010-Anagogic-Phase-Symbol-as-Monad.md",
+      "palavras": 5389,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro"
+      ]
+    },
+    {
+      "seq": 11,
+      "cap": "11",
+      "titulo": "Third Essay Theory of Myths Introduction",
+      "source_chapter": "C011-Third-Essay-Theory-of-Myths-Introduction.md",
+      "palavras": 11516,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro",
+        "arena"
+      ]
+    },
+    {
+      "seq": 12,
+      "cap": "12",
+      "titulo": "Theory of Mythos Introduction",
+      "source_chapter": "C012-Theory-of-Mythos-Introduction.md",
+      "palavras": 1985,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro"
+      ]
+    },
+    {
+      "seq": 13,
+      "cap": "13",
+      "titulo": "Mythos of Spring Comedy",
+      "source_chapter": "C013-Mythos-of-Spring-Comedy.md",
+      "palavras": 10207,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro",
+        "meditatio"
+      ]
+    },
+    {
+      "seq": 14,
+      "cap": "14",
+      "titulo": "Mythos of Summer Romance",
+      "source_chapter": "C014-Mythos-of-Summer-Romance.md",
+      "palavras": 8942,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro",
+        "meditatio"
+      ]
+    },
+    {
+      "seq": 15,
+      "cap": "15",
+      "titulo": "Mythos of Autumn Tragedy",
+      "source_chapter": "C015-Mythos-of-Autumn-Tragedy.md",
+      "palavras": 7489,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro",
+        "meditatio"
+      ]
+    },
+    {
+      "seq": 16,
+      "cap": "16",
+      "titulo": "Mythos of Winter Irony and Satire",
+      "source_chapter": "C016-Mythos-of-Winter-Irony-and-Satire.md",
+      "palavras": 6990,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro",
+        "meditatio"
+      ]
+    },
+    {
+      "seq": 17,
+      "cap": "17",
+      "titulo": "Fourth Essay Theory of Genres Introduction",
+      "source_chapter": "C017-Fourth-Essay-Theory-of-Genres-Introduction.md",
+      "palavras": 3530,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro",
+        "arena"
+      ]
+    },
+    {
+      "seq": 18,
+      "cap": "18",
+      "titulo": "Rhythm of Recurrence Epos",
+      "source_chapter": "C018-Rhythm-of-Recurrence-Epos.md",
+      "palavras": 3783,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro"
+      ]
+    },
+    {
+      "seq": 19,
+      "cap": "19",
+      "titulo": "Rhythm of Continuity Prose",
+      "source_chapter": "C019-Rhythm-of-Continuity-Prose.md",
+      "palavras": 2259,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro"
+      ]
+    },
+    {
+      "seq": 20,
+      "cap": "20",
+      "titulo": "Rhythm of Decorum Drama",
+      "source_chapter": "C020-Rhythm-of-Decorum-Drama.md",
+      "palavras": 998,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro"
+      ]
+    },
+    {
+      "seq": 21,
+      "cap": "21",
+      "titulo": "Rhythm of Association Lyric",
+      "source_chapter": "C021-Rhythm-of-Association-Lyric.md",
+      "palavras": 4529,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro"
+      ]
+    },
+    {
+      "seq": 22,
+      "cap": "22",
+      "titulo": "Specific Forms of Drama",
+      "source_chapter": "C022-Specific-Forms-of-Drama.md",
+      "palavras": 4847,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro"
+      ]
+    },
+    {
+      "seq": 23,
+      "cap": "23",
+      "titulo": "Specific Thematic Forms Lyric and Epos",
+      "source_chapter": "C023-Specific-Thematic-Forms-Lyric-and-Epos.md",
+      "palavras": 4169,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro"
+      ]
+    },
+    {
+      "seq": 24,
+      "cap": "24",
+      "titulo": "Specific Continuous Forms Prose Fiction",
+      "source_chapter": "C024-Specific-Continuous-Forms-Prose-Fiction.md",
+      "palavras": 5047,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro"
+      ]
+    },
+    {
+      "seq": 25,
+      "cap": "25",
+      "titulo": "Specific Encyclopaedic Forms",
+      "source_chapter": "C025-Specific-Encyclopaedic-Forms.md",
+      "palavras": 4980,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro"
+      ]
+    },
+    {
+      "seq": 26,
+      "cap": "26",
+      "titulo": "Rhetoric of Non Literary Prose",
+      "source_chapter": "C026-Rhetoric-of-Non-Literary-Prose.md",
+      "palavras": 4712,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro"
+      ]
+    },
+    {
+      "seq": 27,
+      "cap": "27",
+      "titulo": "Tentative Conclusion",
+      "source_chapter": "C027-Tentative-Conclusion.md",
+      "palavras": 6062,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro"
+      ]
+    }
+  ],
+  "excluidos": []
+}

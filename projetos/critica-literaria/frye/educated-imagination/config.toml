@@ -1,0 +1,41 @@
+# Config: Frye — The Educated Imagination (obra de entrada, 6 palestras Massey).
+# Modelo: docs/referencia_formatos_audio_naoficcao.md
+
+[obra]
+titulo = "The Educated Imagination"
+autor = "Northrop Frye"
+slug = "educated-imagination"
+sigla = "EI"
+idioma_obra = "en"
+idioma_saida = "pt-BR"
+modelo_dominante = "accessible programmatic lectures (Massey, 1962) on why literature educates the imagination — the gentle entry point to Frye; lighter analysis, strong on confronting the thesis with real reading experience"
+
+[notebooklm]
+notebook_id = ""          # checkpoint: avisar antes de criar (conta pessoal)
+profile = "default"
+format = "deep_dive"
+length = "default"        # médio
+
+[formatos]
+default_capitulo = ["portico", "reconstrucao", "filtro"]
+camada_livro = ["portico_geral", "lexico_geral", "filtro_tese"]
+
+[formatos.overrides]
+# obra curta/acessível; default A·B·D em todas as 6 palestras.
+
+[docling]
+chapters_dir = "output/chapters"
+fonte_md = "output/educated-imagination_fonte_nlm.md"
+
+[paths]
+unidades = "_unidades_manifest.json"
+prompts = "prompts"
+audios = "audios"
+
+[lifecycle]
+dell_sync = true
+dell_slug = "frye-educated-imagination"
+
+[telegram]
+enabled = true
+projeto_label = "Frye — Educated Imagination"

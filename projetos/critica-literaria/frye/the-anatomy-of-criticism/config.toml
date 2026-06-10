@@ -1,0 +1,52 @@
+# Config: Frye — Anatomy of Criticism (o sistema; 27 seções).
+# Stack MODULADO por densidade (memória project_frye_stack_modulacao):
+#   A·B·D padrão; Arena nas INTRODUÇÕES de ensaio; Meditatio nos 4 mythoi.
+#   Léxico só na camada-livro (não por seção). ~92 áudios.
+
+[obra]
+titulo = "Anatomy of Criticism: Four Essays"
+autor = "Northrop Frye"
+slug = "anatomy-of-criticism"
+sigla = "AC"
+idioma_obra = "en"
+idioma_saida = "pt-BR"
+modelo_dominante = "Frye's system — internal reconstruction at maximum; the four essays (modes, symbols, myths, genres) build a 'science' of criticism; the master test is whether his taxonomy captures a real structure of literature or is self-referential"
+
+[notebooklm]
+notebook_id = ""          # checkpoint: avisar antes de criar (conta pessoal)
+profile = "default"
+format = "deep_dive"
+length = "default"        # médio
+
+[formatos]
+default_capitulo = ["portico", "reconstrucao", "filtro"]
+camada_livro = ["portico_geral", "lexico_geral", "filtro_tese"]
+
+[formatos.overrides]
+# Arena (status quaestionis) nas introduções de ensaio:
+"2"  = ["portico", "reconstrucao", "filtro", "arena"]   # First Essay — Modes intro
+"6"  = ["portico", "reconstrucao", "filtro", "arena"]   # Second Essay — Symbols intro
+"11" = ["portico", "reconstrucao", "filtro", "arena"]   # Third Essay — Myths intro
+"17" = ["portico", "reconstrucao", "filtro", "arena"]   # Fourth Essay — Genres intro
+# Meditatio nos quatro mythoi (seções mais ricas):
+"13" = ["portico", "reconstrucao", "filtro", "meditatio"]  # Mythos of Spring — Comedy
+"14" = ["portico", "reconstrucao", "filtro", "meditatio"]  # Mythos of Summer — Romance
+"15" = ["portico", "reconstrucao", "filtro", "meditatio"]  # Mythos of Autumn — Tragedy
+"16" = ["portico", "reconstrucao", "filtro", "meditatio"]  # Mythos of Winter — Irony/Satire
+
+[docling]
+chapters_dir = "output/chapters"
+fonte_md = "output/anatomy-of-criticism_fonte_nlm.md"
+
+[paths]
+unidades = "_unidades_manifest.json"
+prompts = "prompts"
+audios = "audios"
+
+[lifecycle]
+dell_sync = true
+dell_slug = "frye-anatomy-of-criticism"
+
+[telegram]
+enabled = true
+projeto_label = "Frye — Anatomy of Criticism"

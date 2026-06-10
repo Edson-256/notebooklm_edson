@@ -1,0 +1,89 @@
+{
+  "obra": "The Educated Imagination",
+  "autor": "Northrop Frye",
+  "slug": "educated-imagination",
+  "idioma_obra": "en",
+  "idioma_saida": "pt-BR",
+  "modelo_dominante": "accessible programmatic lectures (Massey, 1962) on why literature educates the imagination — the gentle entry point to Frye; lighter analysis, strong on confronting the thesis with real reading experience",
+  "width": 2,
+  "camada_livro": [
+    "portico_geral",
+    "lexico_geral",
+    "filtro_tese"
+  ],
+  "capitulos": [
+    {
+      "seq": 1,
+      "cap": "1",
+      "titulo": "The Motive for Metaphor",
+      "source_chapter": "C001-1-The-Motive-for-Metaphor.md",
+      "palavras": 4272,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro"
+      ]
+    },
+    {
+      "seq": 2,
+      "cap": "2",
+      "titulo": "The Singing School",
+      "source_chapter": "C002-2-The-Singing-School.md",
+      "palavras": 4122,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro"
+      ]
+    },
+    {
+      "seq": 3,
+      "cap": "3",
+      "titulo": "Giants in Time",
+      "source_chapter": "C003-3-Giants-in-Time.md",
+      "palavras": 4171,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro"
+      ]
+    },
+    {
+      "seq": 4,
+      "cap": "4",
+      "titulo": "The Keys to Dreamland",
+      "source_chapter": "C004-4-The-Keys-to-Dreamland.md",
+      "palavras": 4445,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro"
+      ]
+    },
+    {
+      "seq": 5,
+      "cap": "5",
+      "titulo": "Verticals of Adam",
+      "source_chapter": "C005-5-Verticals-of-Adam.md",
+      "palavras": 4473,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro"
+      ]
+    },
+    {
+      "seq": 6,
+      "cap": "6",
+      "titulo": "The Vocation of Eloquence",
+      "source_chapter": "C006-6-The-Vocation-of-Eloquence.md",
+      "palavras": 5073,
+      "formatos": [
+        "portico",
+        "reconstrucao",
+        "filtro"
+      ]
+    }
+  ],
+  "excluidos": []
+}
