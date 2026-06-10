@@ -1,0 +1,252 @@
+{
+  "obra": "Spartacus",
+  "autor": "Howard Fast",
+  "slug": "spartacus",
+  "idioma_obra": "pt-BR",
+  "width": 2,
+  "total_cenas": 22,
+  "cenas": [
+    {
+      "seq_global": 1,
+      "cap": 1,
+      "cena_local": 1,
+      "titulo": "A estrada dos crucificados e o homem gordo que conta os mortos",
+      "localizacao": "Primeira Parte — a Via Ápia, rumo a Cápua",
+      "resumo": "Caio Crasso e as duas moças param diante do primeiro crucifixo e ouvem do guardião gordo o número exato de seis mil quatrocentos e setenta e dois corpos, e a última frase do gaulês: 'Voltarei e serei milhões.'",
+      "pilar_foco": "memoria",
+      "justificativa_cof": "A imagem do corpo enegrecido sobre a estrada e a contabilidade fria da morte gravam-se como cena fundadora — memória afetiva e imaginativa.",
+      "source_chapter": "C001-PRIMEIRA-PARTE.md"
+    },
+    {
+      "seq_global": 2,
+      "cap": 1,
+      "cena_local": 2,
+      "titulo": "As salsichas de carne humana e quem sabe ouvir a verdade",
+      "localizacao": "Primeira Parte — a estalagem de estilo grego, no almoço",
+      "resumo": "Na estalagem, o fabricante de salsichas Sênvio revela com precisão que comprou cento e vinte mil quilos de escravos crucificados e os transformou em salsichas; Helena percebe que ele diz a verdade, enquanto Caio insiste que é mentira para chocar.",
+      "pilar_foco": "sinceridade",
+      "justificativa_cof": "Fast contrasta o decoro patrício com a verdade nua sobre o destino dos corpos — exercício de sinceridade existencial: distinguir a verdade humana do escândalo de superfície.",
+      "source_chapter": "C001-PRIMEIRA-PARTE.md"
+    },
+    {
+      "seq_global": 3,
+      "cap": 1,
+      "cena_local": 3,
+      "titulo": "O banho de Crasso e o jantar dos donos do mundo",
+      "localizacao": "Primeira Parte — a Villa Salaria, banho e jantar",
+      "resumo": "Caio partilha o banho com o general Crasso, que confessa ter composto peça por peça a imagem de Spartacus sem nunca o ter visto; ao jantar, Cícero classifica os escravos como instrumentum vocale e justifica as seis mil cruzes como necessidade.",
+      "pilar_foco": "meio",
+      "justificativa_cof": "Entrar na conversa dos senhores — sua lógica, seu tédio, seu vazio moral — faz a literatura servir de meio para o leitor crescer, vendo por dentro a banalidade do poder.",
+      "source_chapter": "C001-PRIMEIRA-PARTE.md"
+    },
+    {
+      "seq_global": 4,
+      "cap": 2,
+      "cena_local": 1,
+      "titulo": "Baciato no acampamento: o lanista diante do general",
+      "localizacao": "Segunda Parte — o acampamento de Crasso, na Gália Cisalpina",
+      "resumo": "Sob a chuva fina, o gordo lanista Lêntulo Baciato chega ao acampamento de Crasso; o general, que sonha lutar de olhos vendados contra um inimigo desconhecido, pede-lhe que descreva a natureza de Spartacus.",
+      "pilar_foco": "sinceridade",
+      "justificativa_cof": "O ressentimento de classe de Baciato e a confissão de impotência de Crasso revelam a verdade humana por trás dos papéis sociais — sinceridade existencial.",
+      "source_chapter": "C002-SEGUNDA-PARTE.md"
+    },
+    {
+      "seq_global": 5,
+      "cap": 2,
+      "cena_local": 2,
+      "titulo": "As minas de ouro da Núbia: o inferno sobre a terra",
+      "localizacao": "Segunda Parte — as minas de ouro da Núbia, no deserto",
+      "resumo": "Baciato narra como Spartacus, koruu trácio acorrentado, chega às escarpas negras da Núbia, trabalha nu sob o chicote e a sede, canta para confortar os outros e beija nos lábios um jovem que morre pedindo para lhe dar a alma.",
+      "pilar_foco": "memoria",
+      "justificativa_cof": "As imagens do deserto branco, da rocha negra e dos corpos desidratados constroem a paisagem afetiva do horror onde nasce a dignidade de Spartacus — memória imaginativa.",
+      "source_chapter": "C002-SEGUNDA-PARTE.md"
+    },
+    {
+      "seq_global": 6,
+      "cap": 2,
+      "cena_local": 3,
+      "titulo": "Como se compra um gladiador — e Varínia",
+      "localizacao": "Segunda Parte — a tenda do praetorium, à noite",
+      "resumo": "Embriagado, Baciato conta como retirou Spartacus das minas para a escola de Cápua e descreve Varínia, a germana indomável que entregou ao trácio por brincadeira; o silêncio do lanista revela ódio, raiva e desejo, e ambos pressentem que ninguém pode destruir Spartacus.",
+      "pilar_foco": "intuicao",
+      "justificativa_cof": "O agouro partilhado entre lanista e general — sentido antes de ser raciocinado — encena a primazia da intuição sobre a lógica militar.",
+      "source_chapter": "C002-SEGUNDA-PARTE.md"
+    },
+    {
+      "seq_global": 7,
+      "cap": 3,
+      "cena_local": 1,
+      "titulo": "A compra de duas mortes na escola de Cápua",
+      "localizacao": "Terceira Parte — a escola de gladiadores de Baciato, em Cápua",
+      "resumo": "Quatro anos antes, Braco e o jovem Caio negociam com Baciato uma exibição privada de dois pares de trácios até à morte, lutando nus; no pátio de exercícios Caio vê pela primeira vez Spartacus, escolhido para lutar contra o gigante negro Draba.",
+      "pilar_foco": "meio",
+      "justificativa_cof": "Ver pelos olhos de Caio a frivolidade que compra vidas humanas faz a literatura servir de meio para medir a distância entre o entretenimento e a carnificina.",
+      "source_chapter": "C003-TERCEIRA-PARTE.md"
+    },
+    {
+      "seq_global": 8,
+      "cap": 3,
+      "cena_local": 2,
+      "titulo": "Varínia na cela: amor à beira da morte",
+      "localizacao": "Terceira Parte — a cela de Spartacus, na manhã da luta",
+      "resumo": "Na noite que vira manhã do combate, Varínia vela o sono de Spartacus e relembra a primeira noite em que ele, sem tocá-la, lhe empurrou a esteira; ao despertar, ele a toma nos braços e ela se entrega chorando em silêncio.",
+      "pilar_foco": "memoria",
+      "justificativa_cof": "A ternura na cela de pedra e a lembrança do primeiro gesto de bondade compõem a memória afetiva que humaniza o gladiador e a escrava.",
+      "source_chapter": "C003-TERCEIRA-PARTE.md"
+    },
+    {
+      "seq_global": 9,
+      "cap": 3,
+      "cena_local": 3,
+      "titulo": "A luta dos pares e a loucura de Draba",
+      "localizacao": "Terceira Parte — a arena particular de Baciato",
+      "resumo": "Diante dos romanos reclinados, o judeu David recusa-se a desferir o golpe mortal no jovem trácio e é açoitado, enquanto a vítima é morta a martelo; depois Draba, em vez de matar Spartacus, atira a rede e arremete contra o camarote, sendo trespassado por lanças até tocar o parapeito.",
+      "pilar_foco": "sinceridade",
+      "justificativa_cof": "A recusa de matar — 'estou cansado de viver, não te matarei, companheiro' — é o gesto humano verdadeiro que rompe a lógica da arena: sinceridade existencial.",
+      "source_chapter": "C003-TERCEIRA-PARTE.md"
+    },
+    {
+      "seq_global": 10,
+      "cap": 4,
+      "cena_local": 1,
+      "titulo": "Cícero, Helena e a justiça que não é moral",
+      "localizacao": "Quarta Parte — o quarto de Cícero, na Villa Salaria",
+      "resumo": "Cícero, que escreve uma monografia fria sobre as Guerras Servis, explica a Helena que justiça é instrumento dos fortes e moralidade é ilusão dos fracos; ela percebe, com horror, o ódio e a crueldade no rosto do amante.",
+      "pilar_foco": "meio",
+      "justificativa_cof": "Acompanhar o cálculo gélido de Cícero, que se interessa sem se comover, faz a literatura servir de meio para reconhecer a frieza que sustenta a opressão.",
+      "source_chapter": "C004-QUARTA-PARTE.md"
+    },
+    {
+      "seq_global": 11,
+      "cap": 4,
+      "cena_local": 2,
+      "titulo": "A manhã do ódio e a decisão de Spartacus",
+      "localizacao": "Quarta Parte — a paliçada e o refeitório da escola de Cápua",
+      "resumo": "Furioso com o prejuízo, Baciato crucifica africanos para intimidar; entre os gladiadores enfileirados, Spartacus compreende que não lutará mais e, no refeitório, ergue-se para falar — e os gladiadores matam os treinadores em poucos instantes.",
+      "pilar_foco": "intuicao",
+      "justificativa_cof": "A compreensão que 'se solidifica em realidade' nasce como intuição antes de qualquer plano — a primazia da intuição precede a revolta.",
+      "source_chapter": "C004-QUARTA-PARTE.md"
+    },
+    {
+      "seq_global": 12,
+      "cap": 4,
+      "cena_local": 3,
+      "titulo": "Homens livres: o sonho de destruir Roma",
+      "localizacao": "Quarta Parte — as colinas ao sul de Cápua, primeira noite livres",
+      "resumo": "Após derrotarem duas vezes os soldados, os gladiadores e os escravos que se lhes juntam formam uma tribo sem amos nem escravos; à luz das fogueiras, Spartacus, com a cabeça no colo de Varínia, sonha em destruir Roma e edificar um mundo novo.",
+      "pilar_foco": "meio",
+      "justificativa_cof": "A passagem do escravo a homem livre e a partilha de leis simples e iguais oferecem ao leitor um meio de crescer na imaginação da dignidade e da fraternidade.",
+      "source_chapter": "C004-QUARTA-PARTE.md"
+    },
+    {
+      "seq_global": 13,
+      "cap": 5,
+      "cena_local": 1,
+      "titulo": "Graco e Júlia no jardim: a inveja de uma escrava",
+      "localizacao": "Quinta Parte — jardim de Villa Solaria, à noite",
+      "resumo": "Sem conseguir dormir, Graco encontra Júlia chorando à luz do luar e ela confessa que inveja Varínia, a mulher de Spartacus, porque odeia a si mesma.",
+      "pilar_foco": "sinceridade",
+      "justificativa_cof": "A matrona romana que inveja uma escrava bárbara revela a verdade humana sob o decoro — entrar nessa confissão é exercício de sinceridade existencial.",
+      "source_chapter": "C005-QUINTA-PARTE.md"
+    },
+    {
+      "seq_global": 14,
+      "cap": 5,
+      "cena_local": 2,
+      "titulo": "A noite das coortes: Graco recorda a decisão do Senado",
+      "localizacao": "Quinta Parte — quarto de Graco e memória de Roma",
+      "resumo": "Sozinho, Graco compreende num lampejo que toda a sociedade se ergue sobre as costas dos escravos e recorda como o Senado, tomado pelo medo, decidiu enviar seis coortes contra a revolta.",
+      "pilar_foco": "memoria",
+      "justificativa_cof": "A memória afetiva e imaginativa de Graco reconstrói o passado e revela o ódio íntimo que toda Roma nutre por Spartacus.",
+      "source_chapter": "C005-QUINTA-PARTE.md"
+    },
+    {
+      "seq_global": 15,
+      "cap": 5,
+      "cena_local": 3,
+      "titulo": "O testemunho do soldado e a mensagem de Spartacus ao Senado",
+      "localizacao": "Quinta Parte — câmara do Senado, no relato recordado",
+      "resumo": "Diante do Senado, o único soldado sobrevivente conta como os escravos aniquilaram as coortes adormecidas e transmite, palavra por palavra, a mensagem em que Spartacus declara a Roma que o mundo está cansado da canção do chicote.",
+      "pilar_foco": "meio",
+      "justificativa_cof": "Através das palavras do soldado o leitor vê Spartacus emergir do nada e abalar o mundo — a literatura como meio de tornar real o que os anais apagaram.",
+      "source_chapter": "C005-QUINTA-PARTE.md"
+    },
+    {
+      "seq_global": 16,
+      "cap": 6,
+      "cena_local": 1,
+      "titulo": "A viagem a Cápua e Crasso com Helena na escola de Baciato",
+      "localizacao": "Sexta Parte — Via Ápia e a arena abandonada de Baciato",
+      "resumo": "Crasso conduz Caio, Helena e Cláudia a Cápua para as cerimônias do fim da revolta; à noite, na arena em ruínas onde tudo começou, Helena o provoca, Crasso a esbofeteia e a possui sem paixão.",
+      "pilar_foco": "sinceridade",
+      "justificativa_cof": "A frieza brutal de Crasso e o desejo doentio de Helena expõem a verdade existencial de uma classe que confunde diversão com felicidade.",
+      "source_chapter": "C006-SEXTA-PARTE.md"
+    },
+    {
+      "seq_global": 17,
+      "cap": 6,
+      "cena_local": 2,
+      "titulo": "A crucificação do último gladiador",
+      "localizacao": "Sexta Parte — Portão Ápio de Cápua, ao amanhecer",
+      "resumo": "Crasso assiste à crucificação do último sobrevivente da munera, o judeu David, que não pronuncia palavra enquanto lhe cravam os pregos, e o general recorda a justiça e a vingança que já não o comovem.",
+      "pilar_foco": "meio",
+      "justificativa_cof": "A cena põe o leitor diante do corpo crucificado e do general embotado, fazendo da literatura o meio de sentir o que a história oficial encobre.",
+      "source_chapter": "C006-SEXTA-PARTE.md"
+    },
+    {
+      "seq_global": 18,
+      "cap": 6,
+      "cena_local": 3,
+      "titulo": "As quatro épocas de David e o sonho de Spartacus",
+      "localizacao": "Sexta Parte — na cruz, entre a memória e a agonia",
+      "resumo": "Na agonia da cruz, a mente de David refaz sua vida — a infância na Galileia, o ódio, o encontro com Spartacus e a esperança — até a lucidez final em que, fitando Crasso, partilha o segredo da vida e morre.",
+      "pilar_foco": "memoria",
+      "justificativa_cof": "A vida inteira de um escravo revivida em lampejos de dor é memória afetiva e imaginativa levada ao limite, espelho da humanidade comum dos seis mil crucificados.",
+      "source_chapter": "C006-SEXTA-PARTE.md"
+    },
+    {
+      "seq_global": 19,
+      "cap": 7,
+      "cena_local": 1,
+      "titulo": "Graco e Cícero na estrada: a verdade sobre a política",
+      "localizacao": "Sétima Parte — Via Ápia, de volta a Roma",
+      "resumo": "A caminho de Roma, Graco conta a Cícero a lenda do filho que arranca o coração da mãe e expõe, sem ilusões, que a política é a arte de convencer os pobres a morrer pela propriedade dos ricos.",
+      "pilar_foco": "sinceridade",
+      "justificativa_cof": "A confissão cínica e lúcida de Graco sobre o que sustenta Roma é sinceridade existencial despida de toda autoilusão.",
+      "source_chapter": "C007-SETIMA-PARTE.md"
+    },
+    {
+      "seq_global": 20,
+      "cap": 7,
+      "cena_local": 2,
+      "titulo": "Crasso e Varínia: por que Spartacus era puro",
+      "localizacao": "Sétima Parte — casa de Crasso, à mesa do jantar",
+      "resumo": "Crasso ostenta seu poder e suas riquezas e tenta arrancar de Varínia o amor que comprou, mas ela responde que só amou Spartacus, um homem simples e puro porque nunca transigiu com o mal.",
+      "pilar_foco": "intuicao",
+      "justificativa_cof": "A intuição direta de Varínia sobre a pureza de Spartacus, que Crasso jamais alcança pela razão, encarna a primazia da intuição sobre o cálculo.",
+      "source_chapter": "C007-SETIMA-PARTE.md"
+    },
+    {
+      "seq_global": 21,
+      "cap": 7,
+      "cena_local": 3,
+      "titulo": "A noite de Graco e Varínia e a morte do velho político",
+      "localizacao": "Sétima Parte — casa de Graco, da noite à madrugada",
+      "resumo": "Graco compra Varínia para libertá-la e pede apenas uma noite de conversa; ao amanhecer, manda-a para o Norte com o filho, alforria suas escravas e, recusando fugir de Roma, mata-se com a espada espanhola.",
+      "pilar_foco": "memoria",
+      "justificativa_cof": "O único ato de amor da vida de Graco e sua despedida de Roma, sua mãe-prostituta, fazem da memória afetiva a chave que reorganiza e encerra sua existência.",
+      "source_chapter": "C007-SETIMA-PARTE.md"
+    },
+    {
+      "seq_global": 22,
+      "cap": 8,
+      "cena_local": 1,
+      "titulo": "Varínia encontra a liberdade — e o nome de Spartacus perdura",
+      "localizacao": "Oitava Parte — a aldeia gaulesa ao pé dos Alpes",
+      "resumo": "Varínia chega livre a uma aldeia de camponeses gauleses, refaz a vida e cria o jovem Spartacus contando-lhe quem foi seu pai; gerações depois, na luta dos oprimidos contra os opressores, o nome de Spartacus não pereceu.",
+      "pilar_foco": "meio",
+      "justificativa_cof": "O desfecho silencioso, em que a história vivida se torna lenda e símbolo transmitido pela luta comum, deixa todo o arco do romance ressoar como literatura que se faz meio de esperança.",
+      "source_chapter": "C008-OITAVA-PARTE.md"
+    }
+  ]
+}
