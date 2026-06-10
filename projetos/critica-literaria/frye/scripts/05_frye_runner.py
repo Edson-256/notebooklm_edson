@@ -17,6 +17,7 @@ NÃO altera o overflow_runner do michalk; reusa o nlm_audio.py (cópia local).
 from __future__ import annotations
 import argparse
 import json
+import subprocess
 import sys
 import time
 import tomllib
@@ -207,9 +208,28 @@ def cmd_generate(proj: Path, cfg: dict, *, only: str, max_n: int, confirm: bool,
         if not ok:
             print("      ⚠ download não concluído; fica created p/ retomar.")
 
+    if done:
+        _sync_to_dell(cfg)
     print(f"\n  Rodada: criados {len(created)} | baixados {done}"
           + ("  (parou por cota)" if quota_hit else ""), flush=True)
     return 0
+
+
+def _sync_to_dell(cfg: dict) -> None:
+    """Empurra os áudios baixados p/ o dell (feed de podcast). Best-effort, --no-notify."""
+    lc = cfg.get("lifecycle", {})
+    if not lc.get("dell_sync"):
+        return
+    slug = lc.get("dell_slug") or cfg["obra"]["slug"]
+    script = Path.home() / "dev/dell_server/podcast_system/sync/sync_to_dell.py"
+    if not script.exists():
+        return
+    try:
+        subprocess.run([sys.executable, str(script), "--project", slug, "--apply", "--no-notify"],
+                       timeout=900, capture_output=True)
+        print(f"  dell sync: {slug}", flush=True)
+    except Exception:
+        pass
 
 
 # ── teardown ───────────────────────────────────────────────────────────
