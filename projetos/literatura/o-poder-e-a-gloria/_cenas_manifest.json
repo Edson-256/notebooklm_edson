@@ -1,0 +1,219 @@
+{
+  "obra": "O Poder e a Glória",
+  "autor": "Graham Greene",
+  "slug": "o-poder-e-a-gloria",
+  "idioma_obra": "pt-BR",
+  "width": 2,
+  "total_cenas": 19,
+  "cenas": [
+    {
+      "seq_global": 1,
+      "cap": 1,
+      "cena_local": 1,
+      "titulo": "O dentista, o forasteiro e o chamado que não se pode recusar",
+      "localizacao": "Parte 1, Cap. 1 — O Porto",
+      "resumo": "No porto tórrido, o sr. Tench bebe aguardente com um forasteiro magro e amedrontado que carrega remédios e um romance em latim; quando um menino vem buscar médico para a mãe moribunda, o desconhecido perde o vapor e parte de mula para o interior, rezando para ser logo apanhado.",
+      "pilar_foco": "intuicao",
+      "justificativa_cof": "O leitor sente, antes de saber, que o forasteiro humilde e bêbado é o padre caçado — a primazia da intuição precede qualquer explicação.",
+      "source_chapter": "C001-Capitulo-1-O-porto.md"
+    },
+    {
+      "seq_global": 2,
+      "cap": 2,
+      "cena_local": 1,
+      "titulo": "O tenente faz seu voto: a província limpa de Deus",
+      "localizacao": "Parte 1, Cap. 2 — A Capital",
+      "resumo": "No quartel, o tenente idealista propõe ao chefe caçar o último padre tomando reféns nas aldeias e fuzilando-os; em casa, deitado no escuro, sonha em murar a própria infância e extirpar da terra toda lembrança da Igreja.",
+      "pilar_foco": "sinceridade",
+      "justificativa_cof": "Vestir a pele do perseguidor — um asceta sincero que ama o povo e por isso quer destruir a fé — força o leitor a reconhecer humanidade no inimigo.",
+      "source_chapter": "C002-Capitulo-2-A-capital.md"
+    },
+    {
+      "seq_global": 3,
+      "cap": 2,
+      "cena_local": 2,
+      "titulo": "Os mártires do livro e os padres reais: Brígida e José",
+      "localizacao": "Parte 1, Cap. 2 — A Capital",
+      "resumo": "Uma mãe lê aos filhos a piedosa hagiografia do jovem Juan, mártir perfeito, enquanto na mesma cidade o padre José, velho, casado e ridicularizado por crianças, se debate entre o dom sacrílego que ainda carrega e o desejo dos mortos.",
+      "pilar_foco": "sinceridade",
+      "justificativa_cof": "O contraste entre o santo idealizado do livro e os padres reais, falhos e humilhados, expõe a verdade humana contra a ideia pronta — núcleo da sinceridade existencial.",
+      "source_chapter": "C002-Capitulo-2-A-capital.md"
+    },
+    {
+      "seq_global": 4,
+      "cap": 3,
+      "cena_local": 1,
+      "titulo": "Coral esconde o padre no celeiro de bananas",
+      "localizacao": "Parte 1, Cap. 3 — O Rio",
+      "resumo": "Na fazenda dos Fellows, a menina Coral mente ao tenente para protegê-lo e esconde o padre no celeiro; ela, que perdeu a fé aos dez anos, lhe leva cerveja e comida e promete um código de batidas, enquanto ele só consegue oferecer-lhe rezar e um truque de cartas.",
+      "pilar_foco": "meio",
+      "justificativa_cof": "A criança lúcida que abriga o fugitivo e o homem que dela recebe cuidado mostram a literatura como meio de crescer em compaixão para além de qualquer credo.",
+      "source_chapter": "C003-Capitulo-3-O-rio.md"
+    },
+    {
+      "seq_global": 5,
+      "cap": 3,
+      "cena_local": 2,
+      "titulo": "Confissões à força na aldeia dos índios",
+      "localizacao": "Parte 1, Cap. 3 — O Rio",
+      "resumo": "Exausto, o padre chega à clareira dos índios, troca a batina por roupa de peão e quer apenas dormir; o velho insiste, e ele, chorando de cansaço, ouve as confissões acumuladas de cinco anos enquanto uma mulher canta sobre uma rosa murcha.",
+      "pilar_foco": "sinceridade",
+      "justificativa_cof": "O sacerdote relutante, irritado e bêbado que ainda assim cumpre o dever revela a verdade nua do vaso indigno da graça.",
+      "source_chapter": "C003-Capitulo-3-O-rio.md"
+    },
+    {
+      "seq_global": 6,
+      "cap": 4,
+      "cena_local": 1,
+      "titulo": "O padre José recusa uma oração no Jardim de Deus",
+      "localizacao": "Parte 1, Cap. 4 — As Testemunhas",
+      "resumo": "No cemitério, uma família suplica ao padre José apenas uma oração sobre o caixão de uma criança de cinco anos; tomado de medo e de orgulho ferido, ele esboça o sinal da cruz, mas tomba de joelhos suplicando que o deixem, confessando-se um covarde no desespero sem remissão.",
+      "pilar_foco": "sinceridade",
+      "justificativa_cof": "O padre que se vê a si mesmo gordo, velho e aviltado, incapaz da própria vocação, encarna a verdade humana do covarde — não a ideia pronta do santo.",
+      "source_chapter": "C004-Capitulo-4-As-testemunhas.md"
+    },
+    {
+      "seq_global": 7,
+      "cap": 4,
+      "cena_local": 2,
+      "titulo": "Plenos poderes e o revólver na mão do menino",
+      "localizacao": "Parte 1, Cap. 4 — As Testemunhas",
+      "resumo": "O tenente arranca do chefe a autorização tácita para tomar reféns e fuzilar até apanhar o padre; depois, na praça, mostra a um menino o seu Colt carregado, sonhando refazer o mundo com aquelas crianças, e afasta-se como um pequeno vulto de ódio carregando seu segredo de amor.",
+      "pilar_foco": "intuicao",
+      "justificativa_cof": "O leitor pressente, sob a frieza do programa político, o amor frustrado e triste que move o tenente — intuição do humano antes do julgamento.",
+      "source_chapter": "C004-Capitulo-4-As-testemunhas.md"
+    },
+    {
+      "seq_global": 8,
+      "cap": 5,
+      "cena_local": 1,
+      "titulo": "De volta à aldeia natal: Brígida e o amor abominável",
+      "localizacao": "Parte 2, Cap. 1 — A aldeia de Maria",
+      "resumo": "O padre regressa à aldeia onde tem uma filha; mal acolhido porque sua presença traz reféns fuzilados, reencontra Brígida, a menina de sete anos com olhar de mulher adulta, e sente por ela um amor envergonhado e todo-poderoso, fruto do seu pecado mortal.",
+      "pilar_foco": "memoria",
+      "justificativa_cof": "A imagem da filha encostada à árvore, junto ao monturo, fixa-se como memória afetiva que organiza todo o resto da fuga.",
+      "source_chapter": "C005-Capitulo-1.md"
+    },
+    {
+      "seq_global": 9,
+      "cap": 5,
+      "cena_local": 2,
+      "titulo": "A missa interrompida e o refém escolhido",
+      "localizacao": "Parte 2, Cap. 1 — A aldeia de Maria",
+      "resumo": "Ao amanhecer, o padre celebra missa às pressas; a polícia cerca a aldeia, a própria Brígida nega conhecer-lhe o nome para salvá-lo, e o tenente, diante do silêncio dos aldeões, leva o jovem Miguel como refém enquanto o padre, indigno, oferece-se em vão.",
+      "pilar_foco": "sinceridade",
+      "justificativa_cof": "O padre que reza a missa em pecado mortal e se sabe pior que os fiéis que o protegem expõe sem hipocrisia a verdade do vaso indigno da graça.",
+      "source_chapter": "C005-Capitulo-1.md"
+    },
+    {
+      "seq_global": 10,
+      "cap": 5,
+      "cena_local": 3,
+      "titulo": "A noite com Judas a caminho de Carmen",
+      "localizacao": "Parte 2, Cap. 1 — A estrada para Carmen",
+      "resumo": "Um mestiço de dois caninos amarelos passa a seguir o padre, oferecendo-se como guia mas farejando a recompensa; numa cabana à noite o padre o reconhece como Judas e, ao amanhecer, manda a mula com o traidor para Carmen, recusando entrar na própria aldeia natal.",
+      "pilar_foco": "meio",
+      "justificativa_cof": "Ver o mundo pelos olhos do padre — que ampara o próprio delator febril e nele reconhece a imagem de Deus — é exercício de crescer como pessoa pela literatura.",
+      "source_chapter": "C005-Capitulo-1.md"
+    },
+    {
+      "seq_global": 11,
+      "cap": 6,
+      "cena_local": 1,
+      "titulo": "O vinho comprado e bebido por todos, a fuga e a porta de José",
+      "localizacao": "Parte 2, Cap. 2 — A Capital",
+      "resumo": "Na capital, o padre compra clandestinamente uma garrafa de vinho que o primo do governador e o chefe de polícia bebem todinha diante dele, até as lágrimas; perseguido por achar-se com aguardente, suplica abrigo ao padre José, que o repele aos gritos, e acaba lançado na cela imunda.",
+      "pilar_foco": "meio",
+      "justificativa_cof": "A cena tragicômica do vinho perdido e da rejeição de José leva o leitor, pela ironia e pela dor, a sentir de dentro a degradação do padre — literatura como meio.",
+      "source_chapter": "C006-Capitulo-2.md"
+    },
+    {
+      "seq_global": 12,
+      "cap": 7,
+      "cena_local": 1,
+      "titulo": "A noite na cela: a beleza dos pecados e a moeda do tenente",
+      "localizacao": "Parte 2, Cap. 3 — A prisão",
+      "resumo": "Na escuridão apinhada da cela, o padre confessa aos prisioneiros que é um padre bêbado e indigno, sente por aquela gente uma ternura fraterna desconhecida, discute com a devota a beleza do sofrimento; ao amanhecer, sem ser denunciado, o tenente o solta dando-lhe uma moeda de cinco pesos.",
+      "pilar_foco": "meio",
+      "justificativa_cof": "Vestir a pele do padre que se descobre criminoso entre criminosos e ali encontra fraternidade e graça é o coração da experiência vicária — crescer como pessoa.",
+      "source_chapter": "C007-Capitulo-3.md"
+    },
+    {
+      "seq_global": 13,
+      "cap": 8,
+      "cena_local": 1,
+      "titulo": "A casa abandonada e a disputa do osso com a cadela",
+      "localizacao": "Parte 2, Cap. 4 — O Entreposto de Bananas",
+      "resumo": "Faminto, o padre vasculha a casa deserta dos Fellows, lê os deveres escolares de Coral com triste curiosidade, disputa um osso com uma cadela de espinha quebrada e devora a carne; depois acha um livro de versos ingleses e repete, no calor, “Minha filha, ó minha filha!”.",
+      "pilar_foco": "memoria",
+      "justificativa_cof": "A imagem grotesca e comovente do padre disputando um osso à cadela, e o verso sobre a filha, gravam-se como memória afetiva da degradação e do amor.",
+      "source_chapter": "C008-Capitulo-4.md"
+    },
+    {
+      "seq_global": 14,
+      "cap": 8,
+      "cena_local": 2,
+      "titulo": "A travessia com a índia e a criança morta nas cruzes",
+      "localizacao": "Parte 2, Cap. 4 — O planalto das cruzes",
+      "resumo": "O padre acha numa choça uma índia com o filho baleado, que morre em seus braços; juntos atravessam dois dias de chuva e fome até um planalto de estranhas cruzes, onde a mãe encosta o cadáver à madeira à espera de um milagre; febril e só, ele cruza a fronteira e adormece encostado a uma igreja.",
+      "pilar_foco": "meio",
+      "justificativa_cof": "A peregrinação com a mãe muda e o filho morto, rumo às cruzes da fé indígena, faz o leitor sentir a violência e a esperança do mundo — crescer pela literatura.",
+      "source_chapter": "C008-Capitulo-4.md"
+    },
+    {
+      "seq_global": 15,
+      "cap": 9,
+      "cena_local": 1,
+      "titulo": "O refúgio dos Lehr e a recaída na voz paroquial",
+      "localizacao": "Parte 3, Cap. 1 — A fazenda dos Lehr",
+      "resumo": "Acolhido pelos luteranos Lehr do outro lado da fronteira, em paz e luxo, o padre recai nos velhos hábitos: regateia o preço de batizados, aceita aguardente, retoma o tom de autoridade de Concepción e sente com vergonha que a devoção virada hábito o afasta da graça mais que o pecado.",
+      "pilar_foco": "sinceridade",
+      "justificativa_cof": "A facilidade da recaída na vaidade clerical, vista por dentro, expõe a verdade incômoda de que o hábito devoto pode corromper mais que o pecado — sinceridade existencial.",
+      "source_chapter": "C009-Capitulo-1.md"
+    },
+    {
+      "seq_global": 16,
+      "cap": 9,
+      "cena_local": 2,
+      "titulo": "O bilhete do moribundo e a volta deliberada à armadilha",
+      "localizacao": "Parte 3, Cap. 1 — A partida da fazenda",
+      "resumo": "Na manhã da partida para a segurança de Las Casas, o mestiço reaparece com um bilhete do ianque ferido pedindo um padre; sabendo que é uma cilada, o padre dá suas economias ao mestre-escola e faz a mula dar meia-volta rumo à fronteira, estranhamente feliz por cumprir o dever.",
+      "pilar_foco": "sinceridade",
+      "justificativa_cof": "A escolha de abrir mão da paz e voltar à morte por um dever que ele mesmo despreza em si é o ato mais sincero do homem falho que faz o que deve.",
+      "source_chapter": "C009-Capitulo-1.md"
+    },
+    {
+      "seq_global": 17,
+      "cap": 10,
+      "cena_local": 1,
+      "titulo": "A morte do ianque que quis salvá-lo",
+      "localizacao": "Parte 3, Cap. 2 — A choça do americano",
+      "resumo": "Na aldeia deserta o padre encontra o pistoleiro americano agonizante, que se recusa a confessar-se e usa o pouco fôlego que lhe resta para tentar dar ao padre sua faca e arma, querendo salvá-lo; ele murmura a absolvição condicional sobre uma alma que partiu ainda buscando a violência.",
+      "pilar_foco": "intuicao",
+      "justificativa_cof": "O leitor sente, na recusa e no gesto do bandido, a graça obscura de um homem que morre pensando em salvar outro — intuição do amor onde menos se espera.",
+      "source_chapter": "C010-Capitulo-2.md"
+    },
+    {
+      "seq_global": 18,
+      "cap": 11,
+      "cena_local": 1,
+      "titulo": "A volta com o tenente: fé contra revolução",
+      "localizacao": "Parte 3, Cap. 3 — A cavalgada de volta",
+      "resumo": "Capturado, o padre faz a longa viagem de volta com o tenente e, entre truques de cartas, trava com ele o debate central do livro — pobreza, sofrimento, amor de Deus — confessando que ficou por orgulho, não por amor, e que se uma só alma se perder, ele também estará condenado.",
+      "pilar_foco": "sinceridade",
+      "justificativa_cof": "No confronto com o adversário sincero, o padre revisa sem disfarce a própria vida e culpa — a verdade humana contra as ideias prontas dos dois lados.",
+      "source_chapter": "C011-Capitulo-3.md"
+    },
+    {
+      "seq_global": 19,
+      "cap": 12,
+      "cena_local": 1,
+      "titulo": "A última noite: de mãos vazias diante de Deus",
+      "localizacao": "Parte 3, Cap. 4 — A véspera do fuzilamento",
+      "resumo": "O tenente não consegue trazer o padre José, impedido pela mulher, e o padre passa sozinho a última noite na cela, bebendo a aguardente do próprio carrasco, incapaz de sentir contrição verdadeira; ao amanhecer compreende, chorando, que no fim só uma coisa conta — ter sido santo — e que falhou por questão de segundos.",
+      "pilar_foco": "sinceridade",
+      "justificativa_cof": "O desfecho — o homem indigno que se descobre santo apesar de si, lamentando comparecer de mãos vazias — é o ápice da sinceridade existencial do romance.",
+      "source_chapter": "C012-Capitulo-4.md"
+    }
+  ]
+}
