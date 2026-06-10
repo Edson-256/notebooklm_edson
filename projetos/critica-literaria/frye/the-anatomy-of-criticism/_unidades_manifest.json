@@ -21,6 +21,7 @@
       "formatos": [
         "portico",
         "reconstrucao",
+        "arena",
         "filtro"
       ]
     },
@@ -33,8 +34,7 @@
       "formatos": [
         "portico",
         "reconstrucao",
-        "filtro",
-        "arena"
+        "filtro"
       ]
     },
     {
@@ -82,7 +82,6 @@
       "formatos": [
         "portico",
         "reconstrucao",
-        "filtro",
         "arena"
       ]
     },
@@ -119,6 +118,7 @@
       "formatos": [
         "portico",
         "reconstrucao",
+        "arena",
         "filtro"
       ]
     },
@@ -131,7 +131,8 @@
       "formatos": [
         "portico",
         "reconstrucao",
-        "filtro"
+        "filtro",
+        "meditatio"
       ]
     },
     {
@@ -256,8 +257,7 @@
       "palavras": 998,
       "formatos": [
         "portico",
-        "reconstrucao",
-        "filtro"
+        "reconstrucao"
       ]
     },
     {

@@ -1,7 +1,11 @@
 # Config: Frye — Anatomy of Criticism (o sistema; 27 seções).
-# Stack MODULADO por densidade (memória project_frye_stack_modulacao):
-#   A·B·D padrão; Arena nas INTRODUÇÕES de ensaio; Meditatio nos 4 mythoi.
-#   Léxico só na camada-livro (não por seção). ~92 áudios.
+# Stack MODULADO por CONTEÚDO (reavaliação crítica 2026-06-10 — o modelo é
+# DIRETRIZ, não regra: cada seção recebe o stack que o texto realmente pede).
+#   Base A·B·D. Arena onde Frye POLEMIZA contra uma tradição (campo de forças real),
+#   não mecanicamente em toda intro de ensaio. Meditatio onde o conteúdo é
+#   experiência vivida (4 mythoi + ápice anagógico). Reduções onde a seção é
+#   conectiva/fina demais p/ filtro. Léxico só na camada-livro. 92 áudios (realoca,
+#   não infla). Ver [formatos.overrides] p/ a razão de cada desvio do padrão.
 
 [obra]
 titulo = "Anatomy of Criticism: Four Essays"
@@ -23,16 +27,24 @@ default_capitulo = ["portico", "reconstrucao", "filtro"]
 camada_livro = ["portico_geral", "lexico_geral", "filtro_tese"]
 
 [formatos.overrides]
-# Arena (status quaestionis) nas introduções de ensaio:
-"2"  = ["portico", "reconstrucao", "filtro", "arena"]   # First Essay — Modes intro
-"6"  = ["portico", "reconstrucao", "filtro", "arena"]   # Second Essay — Symbols intro
-"11" = ["portico", "reconstrucao", "filtro", "arena"]   # Third Essay — Myths intro
-"17" = ["portico", "reconstrucao", "filtro", "arena"]   # Fourth Essay — Genres intro
-# Meditatio nos quatro mythoi (seções mais ricas):
+# +Arena (campo de forças real — Frye polemiza contra uma tradição):
+"1"  = ["portico", "reconstrucao", "arena", "filtro"]   # Polemical Intro — o MANIFESTO; todo o campo de forças do livro (parasita/arte-pela-arte/determinismos/Ruskin vs Arnold)
+"9"  = ["portico", "reconstrucao", "arena", "filtro"]   # Mythical Phase — define "arquétipo"; polemiza contra o culto romântico da originalidade
+"11" = ["portico", "reconstrucao", "arena", "filtro"]   # Third Essay intro — contra a falácia representacional (analogia pintura/música)
+"17" = ["portico", "reconstrucao", "arena", "filtro"]   # Fourth Essay intro — teoria dos gêneros vs tradição
+# Arena NO LUGAR de filtro (intro de campo; pouco a "testar" ainda — os testes vêm nas fases):
+"6"  = ["portico", "reconstrucao", "arena"]             # Second Essay intro — a arena das escolas críticas (Freud/Jung/Marx/New Criticism)
+# +Meditatio (experiência vivida): 4 mythoi + ápice anagógico:
+"10" = ["portico", "reconstrucao", "filtro", "meditatio"]  # Anagogic Phase — ápice contemplativo/visionário (desejo infinito, o "centro imóvel")
 "13" = ["portico", "reconstrucao", "filtro", "meditatio"]  # Mythos of Spring — Comedy
 "14" = ["portico", "reconstrucao", "filtro", "meditatio"]  # Mythos of Summer — Romance
 "15" = ["portico", "reconstrucao", "filtro", "meditatio"]  # Mythos of Autumn — Tragedy
 "16" = ["portico", "reconstrucao", "filtro", "meditatio"]  # Mythos of Winter — Irony/Satire
+# −filtro (seção conectiva/fina; sem tese contestável p/ teste adversarial):
+"20" = ["portico", "reconstrucao"]                      # Rhythm of Decorum — Drama (998 pal.; descritiva)
+# Nota: cap 2 (tabela dos 5 modos) fica em A·B·D — central, mas a posição histórica é
+# leve demais p/ arena (a arena de campo está no cap 1). cap 12 (deriva os 4 mythoi)
+# fica em A·B·D mas é KEYSTONE: reconstrução+filtro devem ser especialmente fortes.
 
 [docling]
 chapters_dir = "output/chapters"
