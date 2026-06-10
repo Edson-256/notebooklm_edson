@@ -1,0 +1,14 @@
+# Guia de acompanhamento — Cap. 22 · *Formas Específicas do Drama*
+### Áudio C — O Filtro (conceito × símbolo) · ~12 min
+
+> **Para que serve este áudio:** agora que você habitou o argumento, testá-lo. A pergunta decisiva: a categoria de Frye capta uma **estrutura real** ou é uma construção verbal elegante que sobretudo se autojustifica?
+
+**A aposta central sob teste.** O **círculo de quatro pontos cardeais** (mímica, auto, comédia, epifania) e a tese de que cada forma — tragédia, history-play, masque, ópera, cinema — ocupa um lugar *contínuo* nele, com vizinhos que se fundem gradualmente um no outro.
+
+**O ponto cético (a objeção mais forte, no seu melhor).** Frye admite a continuidade tão suave que "muitas vezes não dá para saber quando a comunhão virou catarse" — *Ricardo II* "inclina-se" para a tragédia, *Hamlet* "inclina-se" mas Fortinbras puxa para a história. Se *todo* limite é gradiente e nenhuma peça cai limpa numa casa, a grade explica qualquer coisa — e por isso talvez não explique nada. Pior: o círculo só fecha com lances de força. Pôr o **cinema** como descendente do *puppet-play* e o **Nô** no mesmo eixo que a peça do Corpus Christi; chamar Platão de *symposium* dramático; tratar o Livro de Jó como "epifania" — não seriam encaixes *lidos no material* mas um molde geométrico *imposto sobre* ele, com o termo "epifania" emprestado de Nietzsche e "arquétipo" de Jung para costurar o vão?
+
+**A defesa caridosa (Frye no seu ponto mais forte).** O gradiente é *o ponto*, não um defeito: as formas reais de fato migram, e o mapa **prevê os híbridos** que a velha dicotomia tragédia/comédia não conseguia nomear — o history-play, o auto secular, o masque. E ele faz trabalho real: explica por que o porteiro de *Macbeth* e os coveiros de *Hamlet* "desconcertavam" os críticos clássicos (são o satyr-play sobrevivente); por que o Nô atraiu Yeats (comunhão corpórea); por que *Figaro* e *Don Giovanni* nos exaltam *acima* de comédia e tragédia (a música). Onde a crítica via "miscelânea" a ser descartada, o círculo encontra um princípio — comunhão × catarse — que liga peça bíblica e cinema.
+
+**Veredito provisório (e a tensão que fica em aberto).** O eixo **comunhão × catarse** parece captar algo real: a diferença entre uma plateia que *possui* o mito (auto, masque) e uma que é *purgada* por ele (tragédia, comédia) ilumina obras concretas. Já o **fechamento circular** — a simetria perfeita de quatro pontos cardeais, com mímica oposta à epifania — corre mais risco de ser elegância geométrica que se autojustifica: bonito demais para ser lido *de fora*. O teste honesto não fecha aqui; é ver, capítulo a capítulo, se o texto *sustenta* o nexo ou se Frye *impõe* a figura.
+
+**Para fixar.** Esta é precisamente a objeção que os próprios críticos de Frye levantam — mas você só tem o direito de fazê-la depois de ter reconstruído o sistema com caridade. Suspeita informada, não cinismo.
