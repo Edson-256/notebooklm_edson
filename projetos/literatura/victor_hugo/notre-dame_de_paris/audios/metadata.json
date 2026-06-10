@@ -1178,7 +1178,9 @@
       "prompt_chars": 3695,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_072_l06_c04_une_larme_pour_une_goutte_deau_c.m4a",
+      "tamanho_bytes": 24599223
     },
     {
       "seq_global": 73,
@@ -1193,7 +1195,9 @@
       "prompt_chars": 3023,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_073_l06_c05_fin_de_lhistoire_de_la_galette_c.m4a",
+      "tamanho_bytes": 22068076
     },
     {
       "seq_global": 74,
@@ -1208,9 +1212,56 @@
       "prompt_chars": 2745,
       "language": "fr-FR",
       "audio_format": "deep_dive",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_074_l06_c05_fin_de_lhistoire_de_la_galette_c.m4a",
+      "tamanho_bytes": 19951767
+    },
+    {
+      "seq_global": 75,
+      "scene_identifier": "L06-C05-FIN_DE_LHISTOIRE_DE_LA_GALETTE_cena003",
+      "cena_filename": "L06-C05-FIN_DE_LHISTOIRE_DE_LA_GALETTE_cena003.md",
+      "prompt_filename": "L06-C05-FIN_DE_LHISTOIRE_DE_LA_GALETTE_prompt003.md",
+      "arquivo": "notredame_075_l06_c05_fin_de_lhistoire_de_la_galette_c.m4a",
+      "artifact_id": "b6d0f894-6691-43e3-8318-85c6e1a4420e",
+      "source_id": "67264955-103e-4f69-bb58-36dd94484ad9",
+      "book_id": "L06-C05-FIN_DE_LHISTOIRE_DE_LA_GALETTE",
+      "data_geracao": "2026-06-10T08:11:10.800356",
+      "prompt_chars": 3104,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 76,
+      "scene_identifier": "L07-C01-DU_DANGER_DE_CONFIER_SON_SECRET__UNE_CHVRE_cena001",
+      "cena_filename": "L07-C01-DU_DANGER_DE_CONFIER_SON_SECRET__UNE_CHVRE_cena001.md",
+      "prompt_filename": "L07-C01-DU_DANGER_DE_CONFIER_SON_SECRET__UNE_CHVRE_prompt001.md",
+      "arquivo": "notredame_076_l07_c01_du_danger_de_confier_son_secret_.m4a",
+      "artifact_id": "efcbe899-d4c3-49ae-8152-4bef9f4fda9a",
+      "source_id": "7d0c7755-bd0d-4efd-bd20-931e00ae2b49",
+      "book_id": "L07-C01-DU_DANGER_DE_CONFIER_SON_SECRET__UNE_CHVRE",
+      "data_geracao": "2026-06-10T08:13:22.233998",
+      "prompt_chars": 3112,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 77,
+      "scene_identifier": "L07-C01-DU_DANGER_DE_CONFIER_SON_SECRET__UNE_CHVRE_cena002",
+      "cena_filename": "L07-C01-DU_DANGER_DE_CONFIER_SON_SECRET__UNE_CHVRE_cena002.md",
+      "prompt_filename": "L07-C01-DU_DANGER_DE_CONFIER_SON_SECRET__UNE_CHVRE_prompt002.md",
+      "arquivo": "notredame_077_l07_c01_du_danger_de_confier_son_secret_.m4a",
+      "artifact_id": "60cf4a9c-1dc9-455e-bc2d-1c982b7e4a53",
+      "source_id": "7d0c7755-bd0d-4efd-bd20-931e00ae2b49",
+      "book_id": "L07-C01-DU_DANGER_DE_CONFIER_SON_SECRET__UNE_CHVRE",
+      "data_geracao": "2026-06-10T08:15:34.024382",
+      "prompt_chars": 3544,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
       "status": "created"
     }
   ],
-  "total_itens_processados": 74,
-  "ultima_atualizacao": "2026-06-09T08:17:50.111466"
+  "total_itens_processados": 77,
+  "ultima_atualizacao": "2026-06-10T08:15:34.025743"
 }
