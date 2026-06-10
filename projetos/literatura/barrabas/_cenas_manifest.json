@@ -1,0 +1,252 @@
+{
+  "obra": "Barrabás",
+  "autor": "Pär Lagerkvist",
+  "slug": "barrabas",
+  "idioma_obra": "pt-BR",
+  "width": 2,
+  "total_cenas": 22,
+  "cenas": [
+    {
+      "seq_global": 1,
+      "cap": 1,
+      "cena_local": 1,
+      "titulo": "O libertado contempla a cruz sob as trevas",
+      "localizacao": "Seção I — o Gólgota, do meio-dia ao entardecer",
+      "resumo": "Solto enquanto o outro foi crucificado em seu lugar, Barrabás permanece no monte impuro acompanhando toda a agonia; quando as trevas envolvem a colina e o crucificado morre, ele segue de longe o cortejo até o sepulcro.",
+      "pilar_foco": "intuicao",
+      "justificativa_cof": "O leitor é convidado a sentir antes de explicar a cena fundadora — a luz que Barrabás julga ver e a escuridão sobre o Gólgota tocam a intuição antes de qualquer doutrina.",
+      "source_chapter": "C002-I.md"
+    },
+    {
+      "seq_global": 2,
+      "cap": 2,
+      "cena_local": 1,
+      "titulo": "Na casa da mulher gorda: 'tu vives, Barrabás!'",
+      "localizacao": "Seção II — uma casa em Jerusalém, e o terraço à noite",
+      "resumo": "Reencontrando a mulher de lábio leporino e os companheiros bêbados que festejam sua libertação, Barrabás ouve falar do rabi crucificado e pergunta pela escuridão que ninguém mais viu, deitado depois a remoer se aquilo foi só imaginação.",
+      "pilar_foco": "sinceridade",
+      "justificativa_cof": "O contraste entre a festa fácil dos amigos e a inquietação muda de Barrabás expõe a verdade humana de quem não consegue alegrar-se por ter escapado.",
+      "source_chapter": "C003-II.md"
+    },
+    {
+      "seq_global": 3,
+      "cap": 3,
+      "cena_local": 1,
+      "titulo": "O discípulo ruivo: 'morreu por nós'",
+      "localizacao": "Seção III — a galeria de colunas junto ao Templo",
+      "resumo": "Sob as arcadas, Barrabás conversa com o galileu de barba vermelha que confessa ter renegado e abandonado o Mestre, e que afirma que ele sofreu inocente em lugar dos culpados; quando outros revelam quem é Barrabás, expulsam-no.",
+      "pilar_foco": "sinceridade",
+      "justificativa_cof": "A confissão do discípulo que traiu e o asco que recai sobre o libertado pedem ao leitor que encare a verdade nua da culpa, sem ideias prontas de redenção.",
+      "source_chapter": "C004-III.md"
+    },
+    {
+      "seq_global": 4,
+      "cap": 4,
+      "cena_local": 1,
+      "titulo": "A vigília da mulher de lábio leporino",
+      "localizacao": "Seção IV — a vala junto à Porta do Monturo, na última noite",
+      "resumo": "Deitada entre doentes e leprosos, a mulher de lábio leporino espera o nascer do sol e a nova era prometida, rememora o encontro em que o Mestre lhe tocou os lábios e pediu que desse testemunho, e parte ao surgir a estrela-d'alva.",
+      "pilar_foco": "meio",
+      "justificativa_cof": "Vestir a pele da mulher excluída que espera e ama em meio à miséria faz da leitura um meio de crescer em compaixão.",
+      "source_chapter": "C005-IV.md"
+    },
+    {
+      "seq_global": 5,
+      "cap": 4,
+      "cena_local": 2,
+      "titulo": "Diante do sepulcro vazio: 'amai-vos uns aos outros'",
+      "localizacao": "Seção IV — o jardim do sepulcro, ao amanhecer",
+      "resumo": "Escondido atrás das tamargas, Barrabás vê o túmulo vazio e conclui que os discípulos levaram o corpo; encontra a mulher ajoelhada e extasiada com a ressurreição, e ao despedir-se ela lhe revela a doutrina do Mestre: 'amai-vos uns aos outros'.",
+      "pilar_foco": "intuicao",
+      "justificativa_cof": "O choque entre a explicação fria que Barrabás dá e o êxtase da mulher faz sentir, antes de julgar, o mistério que ele não consegue alcançar.",
+      "source_chapter": "C005-IV.md"
+    },
+    {
+      "seq_global": 6,
+      "cap": 5,
+      "cena_local": 1,
+      "titulo": "Por que não consigo crer: 'Libertai Barrabás'",
+      "localizacao": "Seção V — os becos dos artesãos e a olaria",
+      "resumo": "Vagando pela cidade, Barrabás procura os crentes mas não consegue crer no homem que viu morto na cruz; convence-se de que foi por ele, e não por todos, que o crucificado quis morrer, dizendo 'Libertai Barrabás e crucificai a mim'.",
+      "pilar_foco": "sinceridade",
+      "justificativa_cof": "É o coração do livro: a pele do homem que não pode acreditar e se sabe o eleito incômodo — exercício máximo de sinceridade existencial.",
+      "source_chapter": "C006-V.md"
+    },
+    {
+      "seq_global": 7,
+      "cap": 5,
+      "cena_local": 2,
+      "titulo": "O ressuscitado: 'a morte é o nada'",
+      "localizacao": "Seção V — uma aldeia no Monte das Oliveiras, à noite",
+      "resumo": "Levado a ver um homem que o Mestre ressuscitou, Barrabás pergunta como é o reino da morte e ouve que é o nada; come pão e sal com aquele rosto de deserto, e dias depois toda Jerusalém descobre que ele é Barrabás, o libertado.",
+      "pilar_foco": "memoria",
+      "justificativa_cof": "O rosto em ruínas e o gosto de cadáver no pão são imagens vivas que ficam gravadas e organizam todo o terror do livro diante da morte.",
+      "source_chapter": "C006-V.md"
+    },
+    {
+      "seq_global": 8,
+      "cap": 6,
+      "cena_local": 1,
+      "titulo": "A teoria da mulher gorda: o espírito do crucificado",
+      "localizacao": "Seção VI — a casa da mulher gorda",
+      "resumo": "Vendo Barrabás arredio e transformado, deitado dias inteiros olhando o teto, a mulher gorda conclui que o espírito do crucificado entrou nele para se vingar, e chora sozinha por amar um homem que nem ao menos a vê.",
+      "pilar_foco": "meio",
+      "justificativa_cof": "Ler pelos olhos simples da mulher que ama sem ser correspondida amplia a compaixão do leitor por figuras que a história costuma ignorar.",
+      "source_chapter": "C007-VI.md"
+    },
+    {
+      "seq_global": 9,
+      "cap": 7,
+      "cena_local": 1,
+      "titulo": "A assembleia secreta e o testemunho desajeitado",
+      "localizacao": "Seção VII — um curtume abandonado, reunião dos crentes",
+      "resumo": "Encolhido a um canto, Barrabás observa a oração extática dos fiéis e vê a mulher de lábio leporino dar, gaguejando e ridicularizada, o testemunho que o Mestre lhe ordenara, e sai dali sentindo apenas aversão.",
+      "pilar_foco": "sinceridade",
+      "justificativa_cof": "A fidelidade humilde da mulher que cumpre o pedido mesmo sob o desprezo de todos confronta o leitor com a verdade de uma fé sincera e sem brilho.",
+      "source_chapter": "C008-VII.md"
+    },
+    {
+      "seq_global": 10,
+      "cap": 8,
+      "cena_local": 1,
+      "titulo": "O cego denuncia a mulher ao Tribunal",
+      "localizacao": "Seção VIII — a casa do promotor do Sinédrio",
+      "resumo": "O velho cego procura o magistrado para acusar a mulher de lábio leporino de espalhar heresias sobre um salvador que curaria até os leprosos, e o promotor decide intimá-la a comparecer ao Tribunal.",
+      "pilar_foco": "sinceridade",
+      "justificativa_cof": "A delação fria e o medo mesquinho de perder os sinais que separam os leprosos revelam a verdade dura do coração humano que rejeita a esperança alheia.",
+      "source_chapter": "C009-VIII.md"
+    },
+    {
+      "seq_global": 11,
+      "cap": 8,
+      "cena_local": 2,
+      "titulo": "O apedrejamento: 'Ele veio! Eu o vejo!'",
+      "localizacao": "Seção VIII — o fosso do apedrejamento, ao sul da cidade",
+      "resumo": "No fosso, o cego não acerta as pedras e um ortodoxo atira a primeira que fere a mulher; enquanto ela morre clamando que vê o Senhor, Barrabás crava a faca no ortodoxo e foge entre as oliveiras.",
+      "pilar_foco": "intuicao",
+      "justificativa_cof": "A morte extática da mulher e a facada inútil de Barrabás devem ser sentidas em sua brutalidade e ternura antes de qualquer explicação moral.",
+      "source_chapter": "C009-VIII.md"
+    },
+    {
+      "seq_global": 12,
+      "cap": 9,
+      "cena_local": 1,
+      "titulo": "Carregar a morta até o deserto",
+      "localizacao": "Seção IX — do fosso ao túmulo no deserto da Judeia",
+      "resumo": "À noite Barrabás recolhe o corpo dilacerado e o carrega por horas pelo deserto até o túmulo do filho natimorto da mulher, depositando-a ao lado da criança enquanto repete consigo o 'amai-vos uns aos outros'.",
+      "pilar_foco": "meio",
+      "justificativa_cof": "O gesto silencioso de cuidado de um homem que se diz indiferente faz da leitura um meio de ver o amor onde menos se espera.",
+      "source_chapter": "C010-IX.md"
+    },
+    {
+      "seq_global": 13,
+      "cap": 10,
+      "cena_local": 1,
+      "titulo": "De volta ao bando: o homem mudado e o pai desconhecido",
+      "localizacao": "Seção X — a caverna dos salteadores, sobre o Mar Morto",
+      "resumo": "Reintegrado ao bando, Barrabás já não é o chefe audaz de antes; os companheiros recordam que só se tornou homem após o golpe de Eliahu, sem saber que Eliahu, que ele matara, era seu próprio pai.",
+      "pilar_foco": "memoria",
+      "justificativa_cof": "A história oculta da mãe moabita amaldiçoando o filho no ventre e do pai morto pela mão dele fixa a imagem-raiz do ódio que pesa sobre Barrabás.",
+      "source_chapter": "C011-X.md"
+    },
+    {
+      "seq_global": 14,
+      "cap": 11,
+      "cena_local": 1,
+      "titulo": "O desaparecimento sem vestígios",
+      "localizacao": "Seção XI — a caverna no flanco da montanha",
+      "resumo": "Incomodados com o rosto sombrio que lhes tira o prazer de tudo, os companheiros não ousam expulsá-lo; certa manhã Barrabás simplesmente desaparece sem deixar rastro, e eles sentem alívio.",
+      "pilar_foco": "sinceridade",
+      "justificativa_cof": "O sumiço mudo de um homem que já não pertence a lugar nenhum encara o leitor com a verdade da solidão radical.",
+      "source_chapter": "C012-XI.md"
+    },
+    {
+      "seq_global": 15,
+      "cap": 12,
+      "cena_local": 1,
+      "titulo": "Acorrentado a Sahak, que viu Deus por seus olhos",
+      "localizacao": "Seção XII — as minas de cobre de Chipre",
+      "resumo": "Escravo grisalho nas minas, Barrabás é agrilhoado ao armênio Sahak, que se maravilha por estar preso a um homem que viu o rabi; Barrabás lhe narra a auréola de luz e a ressurreição, omitindo as explicações que apagariam o milagre.",
+      "pilar_foco": "memoria",
+      "justificativa_cof": "As visões que Barrabás recria para Sahak mostram como a imagem viva, ainda que ambígua, sustenta e alimenta a alma de outro.",
+      "source_chapter": "C013-XII.md"
+    },
+    {
+      "seq_global": 16,
+      "cap": 12,
+      "cena_local": 2,
+      "titulo": "O nome de Deus na placa e a saída da mina",
+      "localizacao": "Seção XII — as galerias da mina e a luz do dia",
+      "resumo": "Barrabás pede que Sahak grave também na sua placa o nome do crucificado; o novo vigia, comovido pela fé de Sahak, decide tirá-lo da mina, e Sahak exige que Barrabás suba junto, saindo ambos à luz com o grito 'Ele veio!'.",
+      "pilar_foco": "sinceridade",
+      "justificativa_cof": "O desejo de Barrabás de pertencer àquele nome que não consegue crer é a tensão sincera entre a sede de fé e a incapacidade de tê-la.",
+      "source_chapter": "C013-XII.md"
+    },
+    {
+      "seq_global": 17,
+      "cap": 13,
+      "cena_local": 1,
+      "titulo": "O moinho e o escravo de um olho só",
+      "localizacao": "Seção XIII — os campos e a casa do moinho",
+      "resumo": "Atrelados ao arado e depois às mós, os dois conservam o hábito da corrente que já não existe; o escravo de um olho só sonda Sahak sobre o deus invisível e descobre o segredo da inscrição na placa, aproximando-se com falsa amizade.",
+      "pilar_foco": "memoria",
+      "justificativa_cof": "A corrente ausente que ambos ainda buscam à noite é imagem que guarda viva a estranha ligação entre os dois homens.",
+      "source_chapter": "C014-XIII.md"
+    },
+    {
+      "seq_global": 18,
+      "cap": 13,
+      "cena_local": 2,
+      "titulo": "Diante do governador: 'eu bem gostaria de crer'",
+      "localizacao": "Seção XIII — a residência do governador romano",
+      "resumo": "Interrogado pelo governador, Sahak recusa renegar seu Deus e é condenado; Barrabás declara não ter deus algum, mas confessa que trazia o nome gravado 'porque bem gostaria de crer', e o romano risca o 'Christus Iesus' de sua placa.",
+      "pilar_foco": "sinceridade",
+      "justificativa_cof": "A divisão entre a fé entregue de Sahak e o 'gostaria de crer' de Barrabás é o ponto em que o leitor mede sua própria sinceridade diante da fé.",
+      "source_chapter": "C014-XIII.md"
+    },
+    {
+      "seq_global": 19,
+      "cap": 14,
+      "cena_local": 1,
+      "titulo": "A crucificação de Sahak",
+      "localizacao": "Seção XIV — uma colina florida fora da cidade",
+      "resumo": "Escondido atrás dos hibiscos, Barrabás assiste à morte de Sahak na cruz, sentindo como se ainda estivessem acorrentados; quando o amigo expira sem trevas nem prodígios, ele se ajoelha, não ora, e provavelmente chora.",
+      "pilar_foco": "intuicao",
+      "justificativa_cof": "A agonia comum e sem milagre, sentida no próprio corpo de Barrabás, pede do leitor a intuição da dor partilhada antes de qualquer sentido.",
+      "source_chapter": "C015-XIV.md"
+    },
+    {
+      "seq_global": 20,
+      "cap": 15,
+      "cena_local": 1,
+      "titulo": "Roma e o labirinto das catacumbas",
+      "localizacao": "Seção XV — Roma e as catacumbas da Via Ápia",
+      "resumo": "Escravo solitário em Roma, Barrabás desce às catacumbas em busca dos cristãos reunidos, mas só encontra luzes que se apagam e galerias de mortos; sai apavorado do reino da morte para a noite que cobre a terra.",
+      "pilar_foco": "memoria",
+      "justificativa_cof": "A luz que aparece e se apaga nas galerias retoma a primeira visão do Gólgota e fixa, em imagem, o homem para sempre fechado em seu próprio reino da morte.",
+      "source_chapter": "C016-XV.md"
+    },
+    {
+      "seq_global": 21,
+      "cap": 15,
+      "cena_local": 2,
+      "titulo": "O incêndio de Roma: 'seu reino chegou!'",
+      "localizacao": "Seção XV — as ruas de Roma em chamas",
+      "resumo": "Voltando à cidade tomado pela solidão, Barrabás vê o fogo e ouve o grito 'são os cristãos!'; convencido de que o Salvador veio destruir o mundo prometido, apanha fachos e ajuda a incendiar Roma para não trair o Senhor.",
+      "pilar_foco": "intuicao",
+      "justificativa_cof": "O equívoco ardente de Barrabás, querendo enfim servir e não trair, deve ser sentido em sua tragédia antes de ser julgado como crime.",
+      "source_chapter": "C016-XV.md"
+    },
+    {
+      "seq_global": 22,
+      "cap": 16,
+      "cena_local": 1,
+      "titulo": "A prisão, o velho discípulo e a entrega final",
+      "localizacao": "Seção XVI — a masmorra sob o Capitólio e o último suplício",
+      "resumo": "Preso com os cristãos que não atearam o fogo, Barrabás é reconhecido pelo velho discípulo galileu, que o defende dizendo não caber a ninguém julgá-lo; levado por último à cruz, sozinho, ele entrega seu espírito às trevas: 'A ti entrego minha alma'.",
+      "pilar_foco": "sinceridade",
+      "justificativa_cof": "A última palavra ambígua do homem que nunca pôde crer, dirigida à noite, deixa o leitor diante do mistério de sua própria sinceridade ante a morte.",
+      "source_chapter": "C017-XVI.md"
+    }
+  ]
+}

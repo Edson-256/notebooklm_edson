@@ -1,0 +1,91 @@
+{
+  "_nota": "Ancoras reais (substrings do texto do capitulo) que delimitam cada cena. Usadas no prompt (citacao) e nos marcadores de cena do arquivo-fonte NLM. Chave = seq_global.",
+  "1": {
+    "inicio": "Todos sabem como ele foi crucificado, juntamente com dois outros, e quais as pessoas que se achavam em volta dele.",
+    "fim": "E depois tomou o caminho de Jerusalém."
+  },
+  "2": {
+    "inicio": "Entrou pela Porta de Davi e, mal tinha andado um pouco pelas ruas, encontrou a mulher de lábio leporino.",
+    "fim": "A escuridão que reinava sobre o Gólgota e sobre o mundo."
+  },
+  "3": {
+    "inicio": "No dia seguinte, passeando pela cidade, Barrabás encontrou muita gente conhecida, amigos e inimigos.",
+    "fim": "Ele envolveu-se em seu manto e afastou-se, só, pela rua afora, sem se voltar uma única vez."
+  },
+  "4": {
+    "inicio": "A mulher de lábio leporino não conseguia dormir.",
+    "fim": "Depois se levantou precipitadamente e partiu, desaparecendo na escuridão."
+  },
+  "5": {
+    "inicio": "Ele estava acocorado atrás de um arbusto de tamargas, do outro lado da estrada, exatamente em frente à sepultura.",
+    "fim": "Mas Barrabás parou e seguiu-a com os olhos, durante longo tempo."
+  },
+  "6": {
+    "inicio": "Às vezes, Barrabás perguntava a si mesmo por que permanecia em Jerusalém, onde nada tinha que fazer.",
+    "fim": "E deixou a largos passos a olaria do Beco dos Oleiros, onde tão claramente lhe haviam demonstrado que não queriam tê-lo em seu meio."
+  },
+  "7": {
+    "inicio": "Mas quando, no dia seguinte, passou por lá outra vez, perguntaram-lhe quais as dúvidas que encontrava na fé que professavam, mostrando-se arrependidos por não o ter acolhido carinhosamente",
+    "fim": "Barrabás, o libertado! Barrabás, o libertado!"
+  },
+  "8": {
+    "inicio": "Barrabás tornou-se arredio, encerrou-se em si mesmo, não falava com pessoa alguma.",
+    "fim": "Ao pensar nisso, chorava e sentia-se terrivelmente desgraçada."
+  },
+  "9": {
+    "inicio": "Barrabás andou algumas vezes pela cidade enquanto morava na casa da mulher gorda.",
+    "fim": "Só podia sentir aversão por tudo aquilo."
+  },
+  "10": {
+    "inicio": "Quando as perseguições começaram, o velho cego, conduzido pelo jovem que sempre arquejava, procurou um dos promotores do Sinédrio e lhe disse:",
+    "fim": "Apalpando, o velho tomou-lhe a mão e, juntos, voltaram para a Porta do Monturo."
+  },
+  "11": {
+    "inicio": "A mulher de lábio leporino foi condenada e conduzida ao fosso do apedrejamento, situado no sul da cidade.",
+    "fim": "Dir-se-ia que a terra o tragara."
+  },
+  "12": {
+    "inicio": "Quando anoiteceu, Barrabás voltou, avançando cautelosamente até o fosso do apedrejamento, e desceu por ele adentro.",
+    "fim": "Amai-vos uns aos outros…"
+  },
+  "13": {
+    "inicio": "Quando Barrabás voltou para junto de seus companheiros, estes mal o reconheceram; acharam-no muito mudado.",
+    "fim": "E ele viu a escuridão ir envolvendo-as lentamente e a noite descer sobre o país dos moabitas."
+  },
+  "14": {
+    "inicio": "Preocupava muito os companheiros a maneira pela qual se poderiam desfazer de Barrabás.",
+    "fim": "Sentiram grande alívio e voltaram ao seu ninho de águias no flanco abrasado da montanha, atingido pelos raios inclementes do sol."
+  },
+  "15": {
+    "inicio": "Sobre o destino de Barrabás, por onde andou e o que fez desde então, enquanto ainda estava na força da idade, nada se sabe ao certo.",
+    "fim": "Era a primeira vez que Barrabás sofria pelo crucificado, por aquele rabi de rosto pálido e peito sem pelos, que fora supliciado em seu lugar."
+  },
+  "16": {
+    "inicio": "Assim passavam os anos.",
+    "fim": "— Vamos! — disse ele."
+  },
+  "17": {
+    "inicio": "Os dois escravos serviam muito bem para ser atrelados juntos ao arado, pois já viviam tanto tempo emparelhados, que estavam perfeitamente habituados um ao outro, como um par de mulas.",
+    "fim": "Devia ser uma ação inspirada pelo próprio Deus."
+  },
+  "18": {
+    "inicio": "Causou enorme admiração na casa do moinho quando o vigia anunciou, certa manhã, que Sahak e Barrabás deviam comparecer perante o governador a determinada hora do mesmo dia.",
+    "fim": "Barrabás retirou-se, em seguida, para cumprir as ordens que recebera."
+  },
+  "19": {
+    "inicio": "Quando Sahak foi crucificado, Barrabás ficou escondido atrás de uns arbustos de hibisco, a certa distância, para que o amigo na cruz não o visse.",
+    "fim": "Assim aconteceu quando crucificaram Sahak, e Barrabás, o libertado, assistiu à sua morte."
+  },
+  "20": {
+    "inicio": "Quando o governador deixou o cargo e voltou a Roma para ali viver seus últimos anos de vida, tinha acumulado maior fortuna do que qualquer de seus antecessores na ilha",
+    "fim": "A escuridão, agora, tudo envolvia, cobria o céu e a terra…"
+  },
+  "21": {
+    "inicio": "Quando Barrabás voltou à cidade, pela Via Ápia, sentiu pesar em si a solidão.",
+    "fim": "Vede, o seu reino aí está! Seu reino chegou!"
+  },
+  "22": {
+    "inicio": "Na prisão, sob o Capitólio, foram reunidos todos os cristãos, acusados como responsáveis pelo incêndio, e entre eles encontrava-se Barrabás.",
+    "fim": "E rendeu o espírito."
+  }
+}
