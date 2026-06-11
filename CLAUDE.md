@@ -199,3 +199,14 @@ bd sync
 - **Autenticação:** Consulte `docs/notebooklm/como_authenticar.md` para configuração
 - **IDs dos notebooks:** Sempre use os IDs documentados em `docs/notebooklm/notebooks_conta_pessoal.md`
 - **Backup:** O Beads sincroniza automaticamente para `issues.jsonl` no Git
+
+## 📓 Vault Obsidian — registro de sessão OBRIGATÓRIO
+
+Todo encerramento de sessão de trabalho neste projeto DEVE gravar log no vault Obsidian:
+
+- **Destino:** `~/Projetos_Ob_Vault/Projects/04-Education-Content/notebooklm_edson/Log-YYYY-MM-DD-<slug>.md`
+- **Frontmatter obrigatório:** `title:` no formato `"Log · <Tema> YYYY-MM-DD"` (sem ele a nota quebra o graph do Obsidian) + `session_id`, `session_name`, `resume_cmd`, `cwd`, `date`
+- **Indexação:** adicionar o link do novo log na linha do projeto **notebooklm_edson** em `~/Projetos_Ob_Vault/INDEX.md` (sem isso o log fica órfão)
+- **Commit do vault:** `cd ~/Projetos_Ob_Vault && git add -A && git commit -m "log(notebooklm_edson): <resumo>" && git push`
+
+Padrões completos: `~/Projetos_Ob_Vault/CLAUDE.md` e `~/Projetos_Ob_Vault/INDEX.md`.
