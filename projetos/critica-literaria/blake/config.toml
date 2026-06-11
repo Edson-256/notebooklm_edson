@@ -1,0 +1,26 @@
+# Blake — Companion do Fearful Symmetry (Frye)
+# Áudio = EXPLICAÇÃO em pt-BR (não leitura). Guia pt-BR. Lente = Frye.
+
+[projeto]
+nome = "Blake — Companion do Fearful Symmetry"
+slug = "blake-companion-frye"
+idioma_guia = "pt-BR"
+idioma_audio = "pt-BR"
+idioma_fontes = "en"
+modelo = "explicacao"   # NAO leitura: usuario le os versos em ingles; audio explica
+
+[fontes]
+blake_dir = "fontes_blake"
+frye_chapters_dir = "../frye/fearful-symmetry/output/chapters"
+
+[audio]
+# Um deep-dive explicativo por unidade (sem split portico/reconstrucao/filtro do Frye).
+formato = "deep-dive-explicativo"
+duracao_alvo = "15-20 min"   # orientacao (1,2) e profecias maiores podem ser maiores
+language_flag = "pt-BR"      # nlm audio create --language pt-BR
+
+[metodo]
+# A lente de Frye é NOMEADA explicitamente (diferente da trilha COF, onde o método é invisível).
+# Cada áudio sobe a obra Blake (fonte 1) + o capítulo do Fearful Symmetry (fonte 2).
+nomear_frye = true
+ler_poemas_verbatim = false  # o usuario le os versos em ingles por conta propria

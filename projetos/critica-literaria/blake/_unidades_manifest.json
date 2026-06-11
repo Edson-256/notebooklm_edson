@@ -1,0 +1,175 @@
+{
+  "projeto": "Blake — Companion do Fearful Symmetry (Frye)",
+  "idioma_guia": "pt-BR",
+  "idioma_audio": "pt-BR",
+  "idioma_fontes": "en",
+  "modelo": "explicacao (NAO leitura): usuario le os versos em ingles; audio explica em pt-BR sob a lente de Frye",
+  "total_unidades": 13,
+  "unidades": [
+    {
+      "seq": 1,
+      "slug": "vida-de-blake",
+      "titulo": "A vida de Blake: o visionário gravador",
+      "camada": "orientacao",
+      "tipo": "orientacao",
+      "blake_sources": [
+        "C025-biography-langridge-pt1.md",
+        "C028-biography-gardner-pt1.md"
+      ],
+      "frye_source": null,
+      "descricao": "Vida essencial: visões desde a infância, o método iluminado, pobreza e fidelidade, Felpham, o julgamento por sedição, a morte cantando."
+    },
+    {
+      "seq": 2,
+      "slug": "sistema-mitologico",
+      "titulo": "O sistema mitológico de Blake, decodificado",
+      "camada": "orientacao",
+      "tipo": "orientacao",
+      "blake_sources": [
+        "C013-first-book-of-urizen.md",
+        "C018-the-four-zoas.md"
+      ],
+      "frye_source": "C009-9-The-Nightmare-with-her-Ninefold.md",
+      "descricao": "A queda de Albion, os Quatro Zoas (Urizen/Los/Luvah/Tharmas), Emanações e Espectros, Inocência->Experiência->reintegração apocalíptica."
+    },
+    {
+      "seq": 3,
+      "slug": "como-frye-le-blake",
+      "titulo": "Como Frye lê Blake: imaginação contra Locke",
+      "camada": "orientacao",
+      "tipo": "orientacao",
+      "blake_sources": [
+        "C003-all-religions-are-one.md",
+        "C004-there-is-no-natural-religion.md"
+      ],
+      "frye_source": "C001-1-The-Case-Against-Locke.md",
+      "descricao": "A tese de Fearful Symmetry: Blake é sistema, não caos; a imaginação como percepção verdadeira contra o empirismo de Locke."
+    },
+    {
+      "seq": 4,
+      "slug": "songs-of-innocence",
+      "titulo": "Songs of Innocence: o estado da inocência",
+      "camada": "lirica",
+      "tipo": "lirica",
+      "blake_sources": [
+        "C006-songs-of-innocence.md"
+      ],
+      "frye_source": "C006-6-Tradition-and-Experiment.md",
+      "descricao": "The Lamb, The Echoing Green, The Divine Image, Holy Thursday, Infant Joy — a visão pastoral protegida."
+    },
+    {
+      "seq": 5,
+      "slug": "songs-of-experience",
+      "titulo": "Songs of Experience: a queda na experiência",
+      "camada": "lirica",
+      "tipo": "lirica",
+      "blake_sources": [
+        "C014-songs-of-experience.md"
+      ],
+      "frye_source": "C006-6-Tradition-and-Experiment.md",
+      "descricao": "The Tyger, London, The Sick Rose, The Chimney Sweeper, Holy Thursday II — a alma sob a repressão e a lei."
+    },
+    {
+      "seq": 6,
+      "slug": "pares-contrarios",
+      "titulo": "Os pares contrários: a dialética dos dois estados",
+      "camada": "lirica",
+      "tipo": "lirica",
+      "blake_sources": [
+        "C006-songs-of-innocence.md",
+        "C014-songs-of-experience.md"
+      ],
+      "frye_source": "C003-3-Beyond-Good-and-Evil.md",
+      "descricao": "The Lamb/The Tyger, as duas Holy Thursday, os dois Chimney Sweeper — os 'two contrary states of the human soul'."
+    },
+    {
+      "seq": 7,
+      "slug": "manifestos-marriage",
+      "titulo": "Os manifestos e The Marriage of Heaven and Hell",
+      "camada": "lirica",
+      "tipo": "manifesto",
+      "blake_sources": [
+        "C003-all-religions-are-one.md",
+        "C004-there-is-no-natural-religion.md",
+        "C008-marriage-of-heaven-and-hell.md"
+      ],
+      "frye_source": "C003-3-Beyond-Good-and-Evil.md",
+      "descricao": "All Religions Are One, No Natural Religion, os Proverbs of Hell, 'the doors of perception' — energia, contrários e a porta das profecias."
+    },
+    {
+      "seq": 8,
+      "slug": "ciclo-de-orc",
+      "titulo": "O ciclo de Orc: America e Europe",
+      "camada": "profecia",
+      "tipo": "profecia",
+      "blake_sources": [
+        "C011-america-a-prophecy.md",
+        "C012-europe-a-prophecy.md"
+      ],
+      "frye_source": "C007-7-The-Thief-of-Fire.md",
+      "descricao": "Orc, a revolução e o fogo — 'The Thief of Fire': a energia que se levanta contra Urizen."
+    },
+    {
+      "seq": 9,
+      "slug": "urizen",
+      "titulo": "The Book of Urizen: a queda e a criação",
+      "camada": "profecia",
+      "tipo": "profecia",
+      "blake_sources": [
+        "C013-first-book-of-urizen.md"
+      ],
+      "frye_source": "C008-8-The-Refiner-in-Fire.md",
+      "descricao": "A 'Bíblia do Inferno' de Blake: Urizen se separa, e Los forja o mundo caído — a paródia do Gênesis."
+    },
+    {
+      "seq": 10,
+      "slug": "four-zoas-1",
+      "titulo": "The Four Zoas (I): a estrutura e a queda",
+      "camada": "profecia",
+      "tipo": "profecia",
+      "blake_sources": [
+        "C018-the-four-zoas.md"
+      ],
+      "frye_source": "C009-9-The-Nightmare-with-her-Ninefold.md",
+      "descricao": "As nove 'Nights'; a queda de Albion e a divisão dos Zoas — expedição guiada (estrutura + passagens-chave)."
+    },
+    {
+      "seq": 11,
+      "slug": "four-zoas-2",
+      "titulo": "The Four Zoas (II): o juízo e a reintegração",
+      "camada": "profecia",
+      "tipo": "profecia",
+      "blake_sources": [
+        "C018-the-four-zoas.md"
+      ],
+      "frye_source": "C009-9-The-Nightmare-with-her-Ninefold.md",
+      "descricao": "As Nights finais: o Juízo Final e o despertar — a recomposição do homem total."
+    },
+    {
+      "seq": 12,
+      "slug": "milton",
+      "titulo": "Milton: a descida e a auto-aniquilação",
+      "camada": "profecia",
+      "tipo": "profecia",
+      "blake_sources": [
+        "C019-milton-a-poem.md"
+      ],
+      "frye_source": "C010-10-Comus-Agonistes.md",
+      "descricao": "Milton desce para corrigir seu próprio erro; o Bardo, a auto-aniquilação, 'And did those feet'."
+    },
+    {
+      "seq": 13,
+      "slug": "jerusalem",
+      "titulo": "Jerusalem: a visão quádrupla e o despertar de Albion",
+      "camada": "profecia",
+      "tipo": "profecia",
+      "blake_sources": [
+        "C020-jerusalem-pt1.md",
+        "C021-jerusalem-pt2.md"
+      ],
+      "frye_source": "C011-11-The-City-of-God.md",
+      "frye_source_extra": "C012-12-The-Burden-of-the-Valley-of-Vision.md",
+      "descricao": "A epopeia final: a visão quádrupla, 'I give you the end of a golden string', o despertar de Albion e o apocalipse."
+    }
+  ]
+}
