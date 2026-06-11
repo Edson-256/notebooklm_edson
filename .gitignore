@@ -1,3 +1,6 @@
+# Runtime state files
+.nlm_quota_default_ts
+
 # OS generated files
 .DS_Store
 .DS_Store?

@@ -1,10 +1,9 @@
 #!/bin/bash
-# Cron wrapper: Aristóteles — gera 20 áudios/dia via NLM CLI + harvest dos prontos.
+# Cron wrapper: Aristóteles — gera 20 áudios por janela via NLM CLI + harvest dos prontos.
 #
-# STATUS: STANDBY. Para ativar quando o cron do COF v2 (21:00) terminar:
-#   1. cp cron_audio.sh.template cron_audio.sh && chmod +x cron_audio.sh
-#   2. Adicionar ao crontab (sugestão: 7:00, mesmo horário das cenas):
-#        0 7 * * * /Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/aristoteles/scripts/cron_audio.sh
+# Roda a cada 2h (crontab: 0 */2 * * *). Só dispara criações quando o quota guard
+# confirma >= 25h desde o último lote da conta 'default' (compartilhada com COF).
+# O incremento natural de ~2h/rodada garante que COF e Aristóteles nunca colidam.
 #
 # Notifica em falha (auth expirado etc).
 
@@ -41,14 +40,18 @@ notify() {
   fi
 }
 
-# Alternância diária com o COF (mesma conta 'default', limite ~20/dia
-# compartilhado): Aristóteles roda em dias ÍMPARES do ano; COF em PARES.
+# Alternância diária com o COF (mesma conta 'default'):
+# Aristóteles roda em dias ÍMPARES do ano; COF em PARES.
 # (10# força base decimal — evita erro de octal em 008/009.)
 DOY=$(( 10#$(date +%j) ))
 if [ $(( DOY % 2 )) -eq 0 ]; then
   echo "$(date '+%Y-%m-%d %H:%M') — dia par (DOY=$DOY): vez do COF, Aristóteles pula." >>"$LOG"
   exit 0
 fi
+
+# Quota guard: só roda se >= 25h desde o último lote da conta 'default' (COF ou Aristóteles).
+source "$REPO_DIR/scripts/nlm_quota_guard.sh"
+nlm_quota_check >>"$LOG" || exit 0
 
 {
   echo "=== $TAG cron run @ $(date) ==="
@@ -62,6 +65,7 @@ fi
 
   echo
   echo "--- CREATE (dispara novos áudios via CLI, respeitando limite $LIMIT) ---"
+  nlm_quota_mark  # registra início do lote (impede próxima rodada por 25h)
   /opt/homebrew/bin/python3 "$RUNNER" --create "$LIMIT"
   rc_create=$?
 

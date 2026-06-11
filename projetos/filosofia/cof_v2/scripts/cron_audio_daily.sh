@@ -1,6 +1,7 @@
 #!/bin/bash
 # Cron wrapper: dispara próximo lote de 20 áudios COF v2 no NotebookLM.
-# Roda 21h00 local (cron entry em `crontab -l`). Baixa pendentes antes de criar novos.
+# Roda a cada 2h (crontab: 5 */2 * * *). Só dispara criações quando o quota guard
+# confirma >= 25h desde o último lote da conta 'default' (compartilhada com Aristóteles).
 # Runner auto-detecta o próximo seq pendente via metadata.json — sem --from/--to.
 #
 # Notificação em camadas (cron não tem identidade de app no macOS, então
@@ -49,14 +50,18 @@ notify() {
   fi
 }
 
-# Alternância diária com Aristóteles (mesma conta 'default', limite ~20/dia
-# compartilhado): COF roda em dias PARES do ano; Aristóteles em ÍMPARES.
+# Alternância diária com Aristóteles (mesma conta 'default'):
+# COF roda em dias PARES do ano; Aristóteles em ÍMPARES.
 # (10# força base decimal — evita erro de octal em 008/009.)
 DOY=$(( 10#$(date +%j) ))
 if [ $(( DOY % 2 )) -ne 0 ]; then
   echo "$(date '+%Y-%m-%d %H:%M') — dia ímpar (DOY=$DOY): vez do Aristóteles, COF pula." >>"$LOG"
   exit 0
 fi
+
+# Quota guard: só roda se >= 25h desde o último lote da conta 'default' (COF ou Aristóteles).
+source "$PROJECT_DIR/scripts/nlm_quota_guard.sh"
+nlm_quota_check >>"$LOG" || exit 0
 
 {
   echo "=== COF cron run @ $(date) ==="
@@ -74,6 +79,7 @@ fi
 
   # Fase 2: criar novos áudios
   echo "--- FASE CRIAÇÃO ---"
+  nlm_quota_mark  # registra início do lote (impede próxima rodada por 25h)
   "$VENV_PY" "$RUNNER" --max 20
   rc=$?
   echo
