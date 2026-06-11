@@ -84,69 +84,69 @@ Este guia correlaciona os capítulos do livro com os respectivos áudios (gerado
 
 ### Capítulo 22
 * **[Áudio 34]** `qv_034_rapto_frustrado.mp3` - O rapto frustrado e o murro do lígio *(Cena 1/2)*
-* **[Áudio 35]** `qv_035_sou_tua.mp3` - A fuga animal de Chilon pelos becos *(Cena 2/2)*
+* **[Áudio 35]** `qv_035_fuga_animal.m4a` - A fuga animal de Chilon pelos becos *(Cena 2/2)*
 
 ## Parte 2
 
 ### Capítulo 1
-* **[Áudio 36]** `qv_036_tres_noites.mp3` - A misericórdia que desarma o vingador *(Cena 1/2)*
-* **[Áudio 37]** `qv_037_ronda_condenados.mp3` - Lígia sacerdotisa: o primeiro respeito do pagão *(Cena 2/2)*
+* **[Áudio 36]** `qv_036_misericordia_desarma.m4a` - A misericórdia que desarma o vingador *(Cena 1/2)*
+* **[Áudio 37]** `qv_037_ligia_sacerdotisa.m4a` - Lígia sacerdotisa: o primeiro respeito do pagão *(Cena 2/2)*
 
 ### Capítulo 2
-* **[Áudio 38]** `qv_038_glaucos_perdoa.mp3` - "Enterrem-no no jardim": o perdão que paralisa Chilon *(Cena 1/1)*
+* **[Áudio 38]** `qv_038_enterrem_jardim.m4a` - "Enterrem-no no jardim": o perdão que paralisa Chilon *(Cena 1/1)*
 
 ### Capítulo 3
-* **[Áudio 39]** `qv_039_povo_romano.mp3` - O pagão tenta em vão compreender o perdão *(Cena 1/2)*
-* **[Áudio 40]** `qv_040_batismo_chilon.mp3` - A vigília de Lígia e a beleza nova *(Cena 2/2)*
+* **[Áudio 39]** `qv_039_pagao_tenta.m4a` - O pagão tenta em vão compreender o perdão *(Cena 1/2)*
+* **[Áudio 40]** `qv_040_vigilia_ligia.m4a` - A vigília de Lígia e a beleza nova *(Cena 2/2)*
 
 ### Capítulo 4
-* **[Áudio 41]** `qv_041_tambem_pertenco.mp3` - Ursus, a marmita e o Cristo na floresta lígia *(Cena 1/2)*
-* **[Áudio 42]** `qv_042_cruz_chilon.mp3` - "Vi a tua alma no meu sonho" *(Cena 2/2)*
+* **[Áudio 41]** `qv_041_ursus_marmita.m4a` - Ursus, a marmita e o Cristo na floresta lígia *(Cena 1/2)*
+* **[Áudio 42]** `qv_042_tua_alma.m4a` - "Vi a tua alma no meu sonho" *(Cena 2/2)*
 
 ### Capítulo 5
-* **[Áudio 43]** `qv_043_espera_serena.mp3` - A fuga como única defesa: Lígia reconhece o amor *(Cena 1/2)*
-* **[Áudio 44]** `qv_044_medo_cacador.mp3` - Dois pastores reconduzem o velho zeloso *(Cena 2/2)*
+* **[Áudio 43]** `qv_043_fuga_como.m4a` - A fuga como única defesa: Lígia reconhece o amor *(Cena 1/2)*
+* **[Áudio 44]** `qv_044_dois_pastores.m4a` - Dois pastores reconduzem o velho zeloso *(Cena 2/2)*
 
 ### Capítulo 6
-* **[Áudio 45]** `qv_045_manobra_petronio.mp3` - A carta confessa: soberania romana versus Cristo *(Cena 1/2)*
-* **[Áudio 46]** `qv_046_encomenda_cadaver.mp3` - Os escravos perdoados e o túmulo de Gulon *(Cena 2/2)*
+* **[Áudio 45]** `qv_045_carta_confessa.m4a` - A carta confessa: soberania romana versus Cristo *(Cena 1/2)*
+* **[Áudio 46]** `qv_046_escravos_perdoados.m4a` - Os escravos perdoados e o túmulo de Gulon *(Cena 2/2)*
 
 ### Capítulo 7
-* **[Áudio 47]** `qv_047_vinicio_tentacao.mp3` - A recaída com Crisótemis e a derrota do prazer *(Cena 1/2)*
-* **[Áudio 48]** `qv_048_ursus_contra.mp3` - Petrônio, Eunice e os dois mapas do mundo *(Cena 2/2)*
+* **[Áudio 47]** `qv_047_recaida_crisotemis.m4a` - A recaída com Crisótemis e a derrota do prazer *(Cena 1/2)*
+* **[Áudio 48]** `qv_048_petronio_eunice.m4a` - Petrônio, Eunice e os dois mapas do mundo *(Cena 2/2)*
 
 ### Capítulo 8
-* **[Áudio 49]** `qv_049_polegar_voltado.mp3` - O desmaio perante Vesta *(Cena 1/2)*
-* **[Áudio 50]** `qv_050_convalescenca_jardim.mp3` - "Que pode dar à luz essa doutrina?" *(Cena 2/2)*
+* **[Áudio 49]** `qv_049_desmaio_perante.m4a` - O desmaio perante Vesta *(Cena 1/2)*
+* **[Áudio 50]** `qv_050_pode_dar.m4a` - "Que pode dar à luz essa doutrina?" *(Cena 2/2)*
 
 ### Capítulo 9
-* **[Áudio 51]** `qv_051_petronio_desarma.mp3` - A orgia do lago Agripa e a Diana falsa *(Cena 1/2)*
-* **[Áudio 52]** `qv_052_beleza_extinta.mp3` - "Ainda não, infelizmente! Ainda não!" *(Cena 2/2)*
+* **[Áudio 51]** `qv_051_orgia_lago.m4a` - A orgia do lago Agripa e a Diana falsa *(Cena 1/2)*
+* **[Áudio 52]** `qv_052_ainda_nao.m4a` - "Ainda não, infelizmente! Ainda não!" *(Cena 2/2)*
 
 ### Capítulo 10
-* **[Áudio 53]** `qv_053_rebanho_dispersado.mp3` - A tentação oferecida por Chilon *(Cena 1/2)*
-* **[Áudio 54]** `qv_054_trezentas_vergastadas.mp3` - As trezentas vergastadas e o perdão em nome de Cristo *(Cena 2/2)*
+* **[Áudio 53]** `qv_053_tentacao_oferecida.m4a` - A tentação oferecida por Chilon *(Cena 1/2)*
+* **[Áudio 54]** `qv_054_trezentas_vergastadas.m4a` - As trezentas vergastadas e o perdão em nome de Cristo *(Cena 2/2)*
 
 ### Capítulo 11
-* **[Áudio 55]** `qv_055_quo_vadis.mp3` - A súplica do tribuno na casa de Pedro *(Cena 1/2)*
-* **[Áudio 56]** `qv_056_triunfo_pescador.mp3` - "Continuas a amá-lo?" — a confissão aos pés do Apóstolo *(Cena 2/2)*
+* **[Áudio 55]** `qv_055_suplica_tribuno.m4a` - A súplica do tribuno na casa de Pedro *(Cena 1/2)*
+* **[Áudio 56]** `qv_056_continuas_ama.m4a` - "Continuas a amá-lo?" — a confissão aos pés do Apóstolo *(Cena 2/2)*
 
 ### Capítulo 12
-* **[Áudio 57]** `qv_057_paulo_caminho.mp3` - O jardim dos mirtos e o "Onde tu estiveres, Caius" *(Cena 1/1)*
+* **[Áudio 57]** `qv_057_jardim_mirtos.m4a` - O jardim dos mirtos e o "Onde tu estiveres, Caius" *(Cena 1/1)*
 
 ### Capítulo 13
-* **[Áudio 58]** `qv_058_ceifa_cabecas.mp3` - A libertação dos escravos pelo sinal do peixe *(Cena 1/2)*
-* **[Áudio 59]** `qv_059_carta_sicilia.mp3` - O credo frio de Petrônio: pedras preciosas contra a eternidade *(Cena 2/2)*
+* **[Áudio 58]** `qv_058_libertacao_escravos.m4a` - A libertação dos escravos pelo sinal do peixe *(Cena 1/2)*
+* **[Áudio 59]** `qv_059_credo_frio.m4a` - O credo frio de Petrônio: pedras preciosas contra a eternidade *(Cena 2/2)*
 
 ### Capítulo 14
-* **[Áudio 60]** `qv_060_replica_petronio.mp3` - O olhar que se cruza: dois senhores do universo *(Cena 1/2)*
-* **[Áudio 61]** `qv_061_festim_adeus.mp3` - Roma banhada em fogo: "A cólera de Deus está suspensa sobre ela" *(Cena 2/2)*
+* **[Áudio 60]** `qv_060_olhar_cruza.m4a` - O olhar que se cruza: dois senhores do universo *(Cena 1/2)*
+* **[Áudio 61]** `qv_061_roma_banhada.m4a` - Roma banhada em fogo: "A cólera de Deus está suspensa sobre ela" *(Cena 2/2)*
 
 ### Capítulo 15
-* **[Áudio 62]** `qv_062_eunice_escolhe.mp3` - O olhar mau de Popeia sobre o mar azul *(Cena 1/1)*
+* **[Áudio 62]** `qv_062_olhar_mau.m4a` - O olhar mau de Popeia sobre o mar azul *(Cena 1/1)*
 
 ### Capítulo 16
-* **[Áudio 63]** `qv_063_connosco_perece.mp3` - "Como é possível a terra conter ao mesmo tempo..." *(Cena 1/1)*
+* **[Áudio 63]** `qv_063_como_possivel.m4a` - "Como é possível a terra conter ao mesmo tempo..." *(Cena 1/1)*
 
 ### Capítulo 17
 * **[Áudio 64]** `qv_064_rugidos_leoes.mp3` - Os rugidos dos leões no jardim de Linus *(Cena 1/1)*
