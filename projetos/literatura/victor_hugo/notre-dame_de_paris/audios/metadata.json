@@ -1280,7 +1280,9 @@
       "prompt_chars": 3093,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_078_l07_c01_du_danger_de_confier_son_secret_.m4a",
+      "tamanho_bytes": 17797990
     },
     {
       "seq_global": 79,
@@ -1295,7 +1297,9 @@
       "prompt_chars": 2733,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_079_l07_c01_du_danger_de_confier_son_secret_.m4a",
+      "tamanho_bytes": 31478149
     },
     {
       "seq_global": 80,
@@ -1310,9 +1314,56 @@
       "prompt_chars": 2848,
       "language": "fr-FR",
       "audio_format": "deep_dive",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_080_l07_c01_du_danger_de_confier_son_secret_.m4a",
+      "tamanho_bytes": 36032342
+    },
+    {
+      "seq_global": 81,
+      "scene_identifier": "L07-C02-QUUN_PRTRE_ET_UN_PHILOSOPHE_SONT_DEUX_cena001",
+      "cena_filename": "L07-C02-QUUN_PRTRE_ET_UN_PHILOSOPHE_SONT_DEUX_cena001.md",
+      "prompt_filename": "L07-C02-QUUN_PRTRE_ET_UN_PHILOSOPHE_SONT_DEUX_prompt001.md",
+      "arquivo": "notredame_081_l07_c02_quun_prtre_et_un_philosophe_sont.m4a",
+      "artifact_id": "de9a5618-606f-4267-9a12-440510df95ee",
+      "source_id": "72035263-ba7c-47fa-a005-5c24f52257ed",
+      "book_id": "L07-C02-QUUN_PRTRE_ET_UN_PHILOSOPHE_SONT_DEUX",
+      "data_geracao": "2026-06-12T08:11:04.219072",
+      "prompt_chars": 2952,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 82,
+      "scene_identifier": "L07-C02-QUUN_PRTRE_ET_UN_PHILOSOPHE_SONT_DEUX_cena002",
+      "cena_filename": "L07-C02-QUUN_PRTRE_ET_UN_PHILOSOPHE_SONT_DEUX_cena002.md",
+      "prompt_filename": "L07-C02-QUUN_PRTRE_ET_UN_PHILOSOPHE_SONT_DEUX_prompt002.md",
+      "arquivo": "notredame_082_l07_c02_quun_prtre_et_un_philosophe_sont.m4a",
+      "artifact_id": "292e25a1-082d-47aa-a2a6-937edbab3477",
+      "source_id": "72035263-ba7c-47fa-a005-5c24f52257ed",
+      "book_id": "L07-C02-QUUN_PRTRE_ET_UN_PHILOSOPHE_SONT_DEUX",
+      "data_geracao": "2026-06-12T08:13:24.378842",
+      "prompt_chars": 4404,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 83,
+      "scene_identifier": "L07-C02-QUUN_PRTRE_ET_UN_PHILOSOPHE_SONT_DEUX_cena003",
+      "cena_filename": "L07-C02-QUUN_PRTRE_ET_UN_PHILOSOPHE_SONT_DEUX_cena003.md",
+      "prompt_filename": "L07-C02-QUUN_PRTRE_ET_UN_PHILOSOPHE_SONT_DEUX_prompt003.md",
+      "arquivo": "notredame_083_l07_c02_quun_prtre_et_un_philosophe_sont.m4a",
+      "artifact_id": "717ae680-a298-4673-a6a1-c232c3fd1806",
+      "source_id": "72035263-ba7c-47fa-a005-5c24f52257ed",
+      "book_id": "L07-C02-QUUN_PRTRE_ET_UN_PHILOSOPHE_SONT_DEUX",
+      "data_geracao": "2026-06-12T08:15:44.049463",
+      "prompt_chars": 2913,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
       "status": "created"
     }
   ],
-  "total_itens_processados": 80,
-  "ultima_atualizacao": "2026-06-11T08:15:31.074268"
+  "total_itens_processados": 83,
+  "ultima_atualizacao": "2026-06-12T08:15:44.052641"
 }
