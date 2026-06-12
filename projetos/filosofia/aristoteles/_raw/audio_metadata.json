@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T10:00:06Z",
+  "updated_at": "2026-06-12T07:40:38Z",
   "audios": {
     "05_etica/01_etica_nicomaco/L01-C01_cena01": {
       "artifact_id": "46097252-f46f-41a0-b77f-86b89e4b0945",
@@ -360,6 +360,146 @@
       "created_at": "2026-06-06T10:12:18Z",
       "downloaded_at": "2026-06-08T10:00:19Z",
       "bytes": 52352717
+    },
+    "05_etica/01_etica_nicomaco/L05-C01_cena01": {
+      "artifact_id": "4d5e89f3-084d-4a7b-9b10-02029d54e4a8",
+      "audio_title": "aristoteles_25_l05_c01_cena01_etica_nicomaco",
+      "audio_filename": "aristoteles_25_l05_c01_cena01_etica_nicomaco.m4a",
+      "status": "created",
+      "created_at": "2026-06-12T07:00:16Z"
+    },
+    "05_etica/01_etica_nicomaco/L05-C02_cena01": {
+      "artifact_id": "ba93b336-c120-44ce-a0be-496ff568f502",
+      "audio_title": "aristoteles_25_l05_c02_cena01_etica_nicomaco",
+      "audio_filename": "aristoteles_25_l05_c02_cena01_etica_nicomaco.m4a",
+      "status": "created",
+      "created_at": "2026-06-12T07:02:23Z"
+    },
+    "05_etica/01_etica_nicomaco/L05-C03_cena01": {
+      "artifact_id": "7268e8df-5b88-4c70-a071-1043a6f3f664",
+      "audio_title": "aristoteles_25_l05_c03_cena01_etica_nicomaco",
+      "audio_filename": "aristoteles_25_l05_c03_cena01_etica_nicomaco.m4a",
+      "status": "created",
+      "created_at": "2026-06-12T07:04:31Z"
+    },
+    "05_etica/01_etica_nicomaco/L05-C03_cena02": {
+      "artifact_id": "cba129b7-793e-4a43-9634-18b63804dda3",
+      "audio_title": "aristoteles_25_l05_c03_cena02_etica_nicomaco",
+      "audio_filename": "aristoteles_25_l05_c03_cena02_etica_nicomaco.m4a",
+      "status": "created",
+      "created_at": "2026-06-12T07:06:38Z"
+    },
+    "05_etica/01_etica_nicomaco/L05-C03_cena03": {
+      "artifact_id": "dee1cd42-9ebe-41a2-8afa-a93afb01e937",
+      "audio_title": "aristoteles_25_l05_c03_cena03_etica_nicomaco",
+      "audio_filename": "aristoteles_25_l05_c03_cena03_etica_nicomaco.m4a",
+      "status": "created",
+      "created_at": "2026-06-12T07:08:45Z"
+    },
+    "05_etica/01_etica_nicomaco/L05-C03_cena04": {
+      "artifact_id": "69924d81-780f-4c9b-903b-0c7a6d8912d5",
+      "audio_title": "aristoteles_25_l05_c03_cena04_etica_nicomaco",
+      "audio_filename": "aristoteles_25_l05_c03_cena04_etica_nicomaco.m4a",
+      "status": "created",
+      "created_at": "2026-06-12T07:10:53Z"
+    },
+    "05_etica/01_etica_nicomaco/L05-C03_cena05": {
+      "artifact_id": "18e950cc-3062-417f-9ea6-e1880159ca6e",
+      "audio_title": "aristoteles_25_l05_c03_cena05_etica_nicomaco",
+      "audio_filename": "aristoteles_25_l05_c03_cena05_etica_nicomaco.m4a",
+      "status": "created",
+      "created_at": "2026-06-12T07:13:00Z"
+    },
+    "05_etica/01_etica_nicomaco/L05-C03_cena06": {
+      "artifact_id": "bbafc33a-80c1-47d2-815a-25a6143f38c5",
+      "audio_title": "aristoteles_25_l05_c03_cena06_etica_nicomaco",
+      "audio_filename": "aristoteles_25_l05_c03_cena06_etica_nicomaco.m4a",
+      "status": "created",
+      "created_at": "2026-06-12T07:15:07Z"
+    },
+    "05_etica/01_etica_nicomaco/L05-C03_cena07": {
+      "artifact_id": "f7c1108e-c7e1-4b44-b8a3-1dc0bebdd229",
+      "audio_title": "aristoteles_25_l05_c03_cena07_etica_nicomaco",
+      "audio_filename": "aristoteles_25_l05_c03_cena07_etica_nicomaco.m4a",
+      "status": "created",
+      "created_at": "2026-06-12T07:17:15Z"
+    },
+    "05_etica/01_etica_nicomaco/L06-C01_cena01": {
+      "artifact_id": "a057f087-4f24-44b0-925c-014f6f51c262",
+      "audio_title": "aristoteles_25_l06_c01_cena01_etica_nicomaco",
+      "audio_filename": "aristoteles_25_l06_c01_cena01_etica_nicomaco.m4a",
+      "status": "created",
+      "created_at": "2026-06-12T07:19:22Z"
+    },
+    "05_etica/01_etica_nicomaco/L06-C02_cena01": {
+      "artifact_id": "a9bd38a5-2ea4-4c38-8b88-3b4fc6d3a841",
+      "audio_title": "aristoteles_25_l06_c02_cena01_etica_nicomaco",
+      "audio_filename": "aristoteles_25_l06_c02_cena01_etica_nicomaco.m4a",
+      "status": "created",
+      "created_at": "2026-06-12T07:21:31Z"
+    },
+    "05_etica/01_etica_nicomaco/L06-C03_cena01": {
+      "artifact_id": "b901f8c0-31e0-40f9-8387-ee761be6f8a9",
+      "audio_title": "aristoteles_25_l06_c03_cena01_etica_nicomaco",
+      "audio_filename": "aristoteles_25_l06_c03_cena01_etica_nicomaco.m4a",
+      "status": "created",
+      "created_at": "2026-06-12T07:23:38Z"
+    },
+    "05_etica/01_etica_nicomaco/L06-C04_cena01": {
+      "artifact_id": "0a3c1ee3-64b5-4b4b-a0aa-476c44e1994e",
+      "audio_title": "aristoteles_25_l06_c04_cena01_etica_nicomaco",
+      "audio_filename": "aristoteles_25_l06_c04_cena01_etica_nicomaco.m4a",
+      "status": "created",
+      "created_at": "2026-06-12T07:25:45Z"
+    },
+    "05_etica/01_etica_nicomaco/L06-C05_cena01": {
+      "artifact_id": "e49fce0c-6705-46b8-801f-bf0a5b03a23b",
+      "audio_title": "aristoteles_25_l06_c05_cena01_etica_nicomaco",
+      "audio_filename": "aristoteles_25_l06_c05_cena01_etica_nicomaco.m4a",
+      "status": "created",
+      "created_at": "2026-06-12T07:27:53Z"
+    },
+    "05_etica/01_etica_nicomaco/L06-C06_cena01": {
+      "artifact_id": "166551de-546b-4874-b045-dd93c337ec98",
+      "audio_title": "aristoteles_25_l06_c06_cena01_etica_nicomaco",
+      "audio_filename": "aristoteles_25_l06_c06_cena01_etica_nicomaco.m4a",
+      "status": "created",
+      "created_at": "2026-06-12T07:30:00Z"
+    },
+    "05_etica/01_etica_nicomaco/L06-C07_cena01": {
+      "artifact_id": "26c34555-2876-43b0-aada-7f3f9f9c3687",
+      "audio_title": "aristoteles_25_l06_c07_cena01_etica_nicomaco",
+      "audio_filename": "aristoteles_25_l06_c07_cena01_etica_nicomaco.m4a",
+      "status": "created",
+      "created_at": "2026-06-12T07:32:08Z"
+    },
+    "05_etica/01_etica_nicomaco/L06-C08_cena01": {
+      "artifact_id": "99dbd611-6e93-4d11-8c79-c64ff3120af2",
+      "audio_title": "aristoteles_25_l06_c08_cena01_etica_nicomaco",
+      "audio_filename": "aristoteles_25_l06_c08_cena01_etica_nicomaco.m4a",
+      "status": "created",
+      "created_at": "2026-06-12T07:34:15Z"
+    },
+    "05_etica/01_etica_nicomaco/L06-C09_cena01": {
+      "artifact_id": "f410b573-403d-4c8f-b63e-e2c4fc001a61",
+      "audio_title": "aristoteles_25_l06_c09_cena01_etica_nicomaco",
+      "audio_filename": "aristoteles_25_l06_c09_cena01_etica_nicomaco.m4a",
+      "status": "created",
+      "created_at": "2026-06-12T07:36:23Z"
+    },
+    "05_etica/01_etica_nicomaco/L06-C10_cena01": {
+      "artifact_id": "5c8e5922-a50d-4314-9d72-2952e69a155d",
+      "audio_title": "aristoteles_25_l06_c10_cena01_etica_nicomaco",
+      "audio_filename": "aristoteles_25_l06_c10_cena01_etica_nicomaco.m4a",
+      "status": "created",
+      "created_at": "2026-06-12T07:38:30Z"
+    },
+    "05_etica/01_etica_nicomaco/L06-C11_cena01": {
+      "artifact_id": "6d507d18-3138-436d-a999-ba82c3f83816",
+      "audio_title": "aristoteles_25_l06_c11_cena01_etica_nicomaco",
+      "audio_filename": "aristoteles_25_l06_c11_cena01_etica_nicomaco.m4a",
+      "status": "created",
+      "created_at": "2026-06-12T07:40:38Z"
     }
   }
 }
