@@ -13,6 +13,59 @@
 
 ---
 
+## ⭐ Estratégia preferida: `profissional` como motor de alternância (1–2 áudios por vez)
+
+A conta **pessoal (`default`) está comprometida** com COF-2 + Aristóteles (alternância diária, 20/dia).
+Para gerar "um ou outro áudio" sem disputar essa cota, use a conta **`profissional`** (ociosa).
+Duas formas:
+
+### A) Frye — já está nesse esquema, é só disparar (jeito mais fácil) ✅
+O runner do Frye **já gera na `profissional`**. Para fazer **um por vez** (alternância), use `--max`:
+```bash
+cd ~/dev/notebooklm_edson/projetos/critica-literaria/frye
+python3 scripts/05_frye_runner.py generate fearful-symmetry --max 1 --confirm   # 1 áudio
+python3 scripts/05_frye_runner.py generate fearful-symmetry --max 2 --confirm   # ou 2
+```
+Estado atual do *fearful-symmetry*: **29/39 baixados, 10 pendentes** — dá para escoar 1–2 por dia na cota ociosa. Veja sempre antes: `python3 scripts/05_frye_runner.py status fearful-symmetry`.
+
+### B) Qualquer projeto (Blake, ficção, etc.) — receita crua `nlm` na `profissional`
+Para um projeto **sem runner** (Blake) ou que está na conta pessoal (ficção), gere ad-hoc na `profissional` com `nlm` puro. **Uma vez por livro** você cria o notebook e sobe a(s) fonte(s); depois é 1 áudio por vez.
+
+**Passo 1 — uma vez por livro: criar notebook + subir fonte(s) na `profissional`.**
+```bash
+# (exemplo Blake; ajuste paths/título)
+cd ~/dev/notebooklm_edson/projetos/critica-literaria/blake
+
+# cria o notebook na conta profissional e MOSTRA o id (anote)
+nlm notebook create "Blake (motor profissional)" --profile profissional --json
+
+# sobe as fontes que a unidade usa (Blake + capítulo do Frye). --wait até processar.
+nlm source add <NOTEBOOK_ID> --file fontes_blake/C014-songs-of-experience.md --title "Songs of Experience" --wait --profile profissional
+nlm source add <NOTEBOOK_ID> --file ../frye/fearful-symmetry/output/chapters/C006-6-Tradition-and-Experiment.md --title "Frye c6" --wait --profile profissional
+
+# lista os ids das fontes do notebook (anote os que a unidade usa)
+nlm source list <NOTEBOOK_ID> --profile profissional
+```
+
+**Passo 2 — por áudio: criar (usa o prompt da unidade como `--focus`).**
+```bash
+nlm audio create <NOTEBOOK_ID> -f deep_dive -l long --language pt-BR \
+  --source-ids <ID_BLAKE>,<ID_FRYE> \
+  --focus "$(cat prompts/prompt_05_songs-of-experience.md)" \
+  --confirm --profile profissional
+```
+
+**Passo 3 — baixar (10–40 min depois; o `completed` é prematuro).**
+```bash
+# achar o artifact_id do áudio pronto
+nlm studio status <NOTEBOOK_ID> --json --profile profissional
+# baixar (extensão .m4a — NLM entrega AAC em container MP4)
+nlm download audio <NOTEBOOK_ID> --id <ARTIFACT_ID> --output audios/05_songs-of-experience.m4a --no-progress
+```
+> **Notas:** (1) o `--focus` aceita o prompt inteiro via `"$(cat ...)"`; se o prompt for muito longo, o NLM trunca — os prompts deste projeto já são pensados para caber. (2) crie a pasta `audios/` antes (`mkdir -p audios`). (3) faça `nlm login --check --profile profissional` antes de começar.
+
+---
+
 ## 1. FRYE — funciona hoje (conta profissional) ✅
 
 **Diretório:** `~/dev/notebooklm_edson/projetos/critica-literaria/frye`
