@@ -1,0 +1,52 @@
+# Config do projeto Paradise Lost (Leitura Formativa COF) — lido pelo audio_runner.py da skill.
+# Projeto provisionado em 2026-06-13. NÃO instalar cron automaticamente (cada obra é processada
+# devagar; ativar o agendamento quando liberar a cota).
+
+[obra]
+titulo      = "Paradise Lost"
+autor       = "John Milton"
+slug        = "paradise-lost"
+sigla       = "PL"                 # prefixo dos fragmentos (PL-capitulos/)
+idioma_obra = "en"                 # idioma do TEXTO-BASE (cenas/âncoras ficam em inglês)
+
+[notebooklm]
+notebook_id = "TODO"               # criar notebook NLM (conta pessoal) c/ paradise-lost_fonte_nlm.md e colar o ID
+profile     = "default"            # NLM_PROFILE FIXO (conta pessoal: edson.michalkiewicz@gmail.com)
+language    = "pt-BR"              # OUTPUT do áudio: narração pt-BR CITANDO o verso em inglês
+format      = "deep_dive"
+length      = "long"              # épico denso → áudios longos (ajustável p/ "default" se ficar pesado)
+
+[cota]
+por_dia = 20                       # pro=20/dia (conta pessoal)
+margem  = 1
+
+[fragmentacao]                     # já fragmentado por Livro (12) — runner consome, não re-fragmenta
+min_audio_min    = 15
+max_audio_min    = 30
+hard_max_min     = 35
+palavras_por_min = 130
+
+[docling]
+src_dir = "projetos/literatura/paradise-lost/output"
+usar    = "chapters"               # 1 cena-base por bloco dramático dentro de cada Livro
+
+[cenas]
+min_por_capitulo = 1
+max_por_capitulo = 6               # Livro 9 (clímax) tem 6 cenas
+
+[paths]
+capitulos = "PL-capitulos"
+cenas     = "cenas"
+prompts   = "prompts_cenas"
+audios    = "audios"
+manifest  = "_cenas_manifest.json"
+anchors   = "_anchors.json"
+fonte_nlm = "paradise-lost_fonte_nlm.md"
+
+[lifecycle]
+dell_sync = true
+dell_slug = "paradise-lost"        # slug da pasta/feed no dell-server
+
+[telegram]
+enabled       = true
+projeto_label = "Paradise Lost"

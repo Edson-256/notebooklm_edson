@@ -1,0 +1,66 @@
+{
+  "obra": "Paradise Lost",
+  "autor": "John Milton",
+  "capitulos": [
+    {
+      "arquivo": "01_cap-01_livro-01.md",
+      "cap_label": "1 — Livro 1",
+      "cap": 1
+    },
+    {
+      "arquivo": "02_cap-02_livro-02.md",
+      "cap_label": "2 — Livro 2",
+      "cap": 2
+    },
+    {
+      "arquivo": "03_cap-03_livro-03.md",
+      "cap_label": "3 — Livro 3",
+      "cap": 3
+    },
+    {
+      "arquivo": "04_cap-04_livro-04.md",
+      "cap_label": "4 — Livro 4",
+      "cap": 4
+    },
+    {
+      "arquivo": "05_cap-05_livro-05.md",
+      "cap_label": "5 — Livro 5",
+      "cap": 5
+    },
+    {
+      "arquivo": "06_cap-06_livro-06.md",
+      "cap_label": "6 — Livro 6",
+      "cap": 6
+    },
+    {
+      "arquivo": "07_cap-07_livro-07.md",
+      "cap_label": "7 — Livro 7",
+      "cap": 7
+    },
+    {
+      "arquivo": "08_cap-08_livro-08.md",
+      "cap_label": "8 — Livro 8",
+      "cap": 8
+    },
+    {
+      "arquivo": "09_cap-09_livro-09.md",
+      "cap_label": "9 — Livro 9",
+      "cap": 9
+    },
+    {
+      "arquivo": "10_cap-10_livro-10.md",
+      "cap_label": "10 — Livro 10",
+      "cap": 10
+    },
+    {
+      "arquivo": "11_cap-11_livro-11.md",
+      "cap_label": "11 — Livro 11",
+      "cap": 11
+    },
+    {
+      "arquivo": "12_cap-12_livro-12.md",
+      "cap_label": "12 — Livro 12",
+      "cap": 12
+    }
+  ]
+}
