@@ -2,7 +2,7 @@
   "obra": "Paradise Lost",
   "slug": "paradise-lost",
   "notebook_id": "e79a651a-b2fc-4041-b766-c461b68a65bb",
-  "atualizado": "2026-06-13T09:35:01.262132",
+  "atualizado": "2026-06-13T20:08:58.847182",
   "audios": [
     {
       "seq_global": 1,
@@ -15,6 +15,215 @@
       "artifact_id": "9d43dbce-429b-445f-9357-fb8d6777d119",
       "data": "2026-06-13T09:35:01.262139",
       "nota": "gerado manualmente na conta profissional (cota livre); 1o teste p/ verificacao"
+    },
+    {
+      "seq_global": 2,
+      "arquivo": "02_cap-01_cena-02_Sata-desperta-no-lago-de-fogo-darkness-visible.m4a",
+      "titulo": "Satã desperta no lago de fogo: \"darkness visible\"",
+      "cap": 1,
+      "notebook_profile": "profissional",
+      "notebook_id": "222aaa91-eebd-4a4d-b95d-a2099dc5103a",
+      "data": "2026-06-13T19:31:09.120824",
+      "status": "created",
+      "artifact_id": "a5244f0a-51cc-496b-8669-d8910310fcae"
+    },
+    {
+      "seq_global": 3,
+      "arquivo": "03_cap-01_cena-03_The-mind-is-its-own-place.m4a",
+      "titulo": "\"The mind is its own place\"",
+      "cap": 1,
+      "notebook_profile": "profissional",
+      "notebook_id": "222aaa91-eebd-4a4d-b95d-a2099dc5103a",
+      "data": "2026-06-13T19:33:15.565290",
+      "status": "created",
+      "artifact_id": "aec3b73d-cf5d-4c9a-9fd9-b946b7c91496"
+    },
+    {
+      "seq_global": 4,
+      "arquivo": "04_cap-01_cena-04_Better-to-reign-in-Hell-than-serve-in-Heaven.m4a",
+      "titulo": "\"Better to reign in Hell than serve in Heaven\"",
+      "cap": 1,
+      "notebook_profile": "profissional",
+      "notebook_id": "222aaa91-eebd-4a4d-b95d-a2099dc5103a",
+      "data": "2026-06-13T19:35:21.606984",
+      "status": "created",
+      "artifact_id": "e4a619ae-7e05-4d9e-9796-856d692762d9"
+    },
+    {
+      "seq_global": 5,
+      "arquivo": "05_cap-01_cena-05_Pandmonium-ergue-se-e-o-grande-conselho-e-convocado.m4a",
+      "titulo": "Pandæmonium ergue-se e o grande conselho é convocado",
+      "cap": 1,
+      "notebook_profile": "profissional",
+      "notebook_id": "222aaa91-eebd-4a4d-b95d-a2099dc5103a",
+      "data": "2026-06-13T19:37:28.078914",
+      "status": "created",
+      "artifact_id": "548454fd-864c-4d91-ae54-fab32be457a5"
+    },
+    {
+      "seq_global": 6,
+      "arquivo": "06_cap-02_cena-01_O-Concilio-Infernal-Moloch-Belial-e-Mammon.m4a",
+      "titulo": "O Concílio Infernal: Moloch, Belial e Mammon",
+      "cap": 2,
+      "notebook_profile": "profissional",
+      "notebook_id": "222aaa91-eebd-4a4d-b95d-a2099dc5103a",
+      "data": "2026-06-13T19:39:33.506751",
+      "status": "created",
+      "artifact_id": "fd6b97ad-ac7f-45eb-a95d-05778d4ac0fe"
+    },
+    {
+      "seq_global": 7,
+      "arquivo": "07_cap-02_cena-02_Belzebu-revela-o-plano-contra-o-Homem-Sata-se-oferece.m4a",
+      "titulo": "Belzebu revela o plano contra o Homem; Satã se oferece",
+      "cap": 2,
+      "notebook_profile": "profissional",
+      "notebook_id": "222aaa91-eebd-4a4d-b95d-a2099dc5103a",
+      "data": "2026-06-13T19:41:39.109459",
+      "status": "created",
+      "artifact_id": "0c22bfdd-d8f4-433e-ad5b-f69d4d005e9d"
+    },
+    {
+      "seq_global": 8,
+      "arquivo": "08_cap-02_cena-03_Os-passatempos-dos-caidos-in-wandering-mazes-lost.m4a",
+      "titulo": "Os passatempos dos caídos: \"in wandering mazes lost\"",
+      "cap": 2,
+      "notebook_profile": "profissional",
+      "notebook_id": "222aaa91-eebd-4a4d-b95d-a2099dc5103a",
+      "data": "2026-06-13T19:43:45.543896",
+      "status": "created",
+      "artifact_id": "a1414c36-b53e-4ebc-a222-c20a24f7be05"
+    },
+    {
+      "seq_global": 9,
+      "arquivo": "09_cap-02_cena-04_No-portao-do-Inferno-Pecado-e-Morte-a-alegoria-da-consequencia.m4a",
+      "titulo": "No portão do Inferno: Pecado e Morte, a alegoria da consequência",
+      "cap": 2,
+      "notebook_profile": "profissional",
+      "notebook_id": "222aaa91-eebd-4a4d-b95d-a2099dc5103a",
+      "data": "2026-06-13T19:45:51.943353",
+      "status": "created",
+      "artifact_id": "d6bdbcda-4410-4c25-8573-27c7ef596792"
+    },
+    {
+      "seq_global": 10,
+      "arquivo": "10_cap-02_cena-05_A-travessia-do-Abismo-Sata-o-Caos-e-a-velha-Noite.m4a",
+      "titulo": "A travessia do Abismo: Satã, o Caos e a velha Noite",
+      "cap": 2,
+      "notebook_profile": "profissional",
+      "notebook_id": "222aaa91-eebd-4a4d-b95d-a2099dc5103a",
+      "data": "2026-06-13T19:47:58.021948",
+      "status": "created",
+      "artifact_id": "00ff1aef-8779-407d-9e2b-d555f3fce2fd"
+    },
+    {
+      "seq_global": 11,
+      "arquivo": "11_cap-03_cena-01_Hail-holy-Light-a-cegueira-e-a-luz-interior.m4a",
+      "titulo": "\"Hail, holy Light\" — a cegueira e a luz interior",
+      "cap": 3,
+      "notebook_profile": "profissional",
+      "notebook_id": "222aaa91-eebd-4a4d-b95d-a2099dc5103a",
+      "data": "2026-06-13T19:50:04.381895",
+      "status": "created",
+      "artifact_id": "63924923-805d-4723-8e34-07f54670fdf8"
+    },
+    {
+      "seq_global": 12,
+      "arquivo": "12_cap-03_cena-02_Sufficient-to-have-stood-though-free-to-fall.m4a",
+      "titulo": "\"Sufficient to have stood, though free to fall\"",
+      "cap": 3,
+      "notebook_profile": "profissional",
+      "notebook_id": "222aaa91-eebd-4a4d-b95d-a2099dc5103a",
+      "data": "2026-06-13T19:52:10.832535",
+      "status": "created",
+      "artifact_id": "5db65984-1e76-4553-943e-7fb02425d5f5"
+    },
+    {
+      "seq_global": 13,
+      "arquivo": "13_cap-03_cena-03_Behold-me-then-me-for-him-o-Filho-se-oferece.m4a",
+      "titulo": "\"Behold me then: me for him\" — o Filho se oferece",
+      "cap": 3,
+      "notebook_profile": "profissional",
+      "notebook_id": "222aaa91-eebd-4a4d-b95d-a2099dc5103a",
+      "data": "2026-06-13T19:54:17.149701",
+      "status": "created",
+      "artifact_id": "e23eb05a-0400-4745-b566-021ebfff56cc"
+    },
+    {
+      "seq_global": 14,
+      "arquivo": "14_cap-03_cena-04_The-false-dissembler-unperceived-Sata-engana-Uriel.m4a",
+      "titulo": "\"The false dissembler unperceived\" — Satã engana Uriel",
+      "cap": 3,
+      "notebook_profile": "profissional",
+      "notebook_id": "222aaa91-eebd-4a4d-b95d-a2099dc5103a",
+      "data": "2026-06-13T19:56:23.166119",
+      "status": "created",
+      "artifact_id": "03c15085-f260-4df1-9ceb-6957b7014a86"
+    },
+    {
+      "seq_global": 15,
+      "arquivo": "15_cap-04_cena-01_Myself-am-Hell-o-soliloquio-no-Monte-Niphates.m4a",
+      "titulo": "\"Myself am Hell\" — o solilóquio no Monte Niphates",
+      "cap": 4,
+      "notebook_profile": "profissional",
+      "notebook_id": "222aaa91-eebd-4a4d-b95d-a2099dc5103a",
+      "data": "2026-06-13T19:58:29.555027",
+      "status": "created",
+      "artifact_id": "8508a4d7-cffc-4a78-90a5-776fe3222731"
+    },
+    {
+      "seq_global": 16,
+      "arquivo": "16_cap-04_cena-02_In-naked-majesty-a-primeira-visao-de-Adao-e-Eva.m4a",
+      "titulo": "\"In naked majesty\" — a primeira visão de Adão e Eva",
+      "cap": 4,
+      "notebook_profile": "profissional",
+      "notebook_id": "222aaa91-eebd-4a4d-b95d-a2099dc5103a",
+      "data": "2026-06-13T20:00:35.175293",
+      "status": "created",
+      "artifact_id": "afbd32a1-9f4a-418d-b493-effcf081fa13"
+    },
+    {
+      "seq_global": 17,
+      "arquivo": "17_cap-04_cena-03_Another-sky-Eva-diante-de-sua-imagem-no-lago.m4a",
+      "titulo": "\"Another sky\" — Eva diante de sua imagem no lago",
+      "cap": 4,
+      "notebook_profile": "profissional",
+      "notebook_id": "222aaa91-eebd-4a4d-b95d-a2099dc5103a",
+      "data": "2026-06-13T20:02:41.164878",
+      "status": "created",
+      "artifact_id": "8991e89c-a559-487d-bdfb-aa0be908ef13"
+    },
+    {
+      "seq_global": 18,
+      "arquivo": "18_cap-04_cena-04_Hail-wedded-Love-a-oracao-da-noite-e-o-caramanchao.m4a",
+      "titulo": "\"Hail, wedded Love\" — a oração da noite e o caramanchão",
+      "cap": 4,
+      "notebook_profile": "profissional",
+      "notebook_id": "222aaa91-eebd-4a4d-b95d-a2099dc5103a",
+      "data": "2026-06-13T20:04:47.666626",
+      "status": "created",
+      "artifact_id": "295e09fc-6228-47ec-a78b-44e03eafa1b6"
+    },
+    {
+      "seq_global": 19,
+      "arquivo": "19_cap-04_cena-05_Squat-like-a-toad-Sata-descoberto-e-pesado-nas-balancas.m4a",
+      "titulo": "\"Squat like a toad\" — Satã descoberto e pesado nas balanças",
+      "cap": 4,
+      "notebook_profile": "profissional",
+      "notebook_id": "222aaa91-eebd-4a4d-b95d-a2099dc5103a",
+      "data": "2026-06-13T20:06:53.342749",
+      "status": "created",
+      "artifact_id": "4eec60a7-8e6b-4c20-87f5-ceb43abf0cad"
+    },
+    {
+      "seq_global": 20,
+      "arquivo": "20_cap-05_cena-01_O-sonho-de-Eva-of-offence-and-trouble.m4a",
+      "titulo": "O sonho de Eva: \"of offence and trouble\"",
+      "cap": 5,
+      "notebook_profile": "profissional",
+      "notebook_id": "222aaa91-eebd-4a4d-b95d-a2099dc5103a",
+      "data": "2026-06-13T20:08:58.845255",
+      "status": "created",
+      "artifact_id": "0384c48c-e002-4f13-a837-878e13f5f302"
     }
   ]
 }
