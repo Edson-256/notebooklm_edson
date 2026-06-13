@@ -54,6 +54,13 @@ def load_cfg(proj: Path) -> dict:
     return cfg
 
 
+def notebook_for(cfg, profile) -> str:
+    """Notebook desta conta. Mapa opcional [notebooklm.accounts] perfil->notebook_id;
+    fallback p/ notebooklm.notebook_id (compat. projetos mono-conta)."""
+    accts = cfg["notebooklm"].get("accounts") or {}
+    return accts.get(profile) or cfg["notebooklm"]["notebook_id"]
+
+
 def run_nlm(args, profile, timeout=180):
     env = os.environ.copy()
     env["NLM_PROFILE"] = profile
@@ -125,8 +132,8 @@ def load_prompt(proj, cfg, c, width):
 
 
 # ---- NLM ops ----
-def create_audio(cfg, profile, focus) -> object:
-    nb = cfg["notebooklm"]["notebook_id"]
+def create_audio(cfg, profile, focus, notebook_id) -> object:
+    nb = notebook_id
     cmd = ["audio", "create", nb, "--format", cfg["notebooklm"]["format"],
            "--language", cfg["notebooklm"]["language"], "--length", cfg["notebooklm"]["length"],
            "--focus", focus, "--profile", profile, "--confirm"]
@@ -145,9 +152,9 @@ def create_audio(cfg, profile, focus) -> object:
     m = re.search(r"([a-f0-9]{8}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{12})", out)
     return m.group(1) if m else None
 
-def poll_status(cfg, profile, artifact_id):
+def poll_status(cfg, profile, artifact_id, notebook_id):
     try:
-        r = run_nlm(["studio", "status", cfg["notebooklm"]["notebook_id"], "--json", "--profile", profile], profile, timeout=30)
+        r = run_nlm(["studio", "status", notebook_id, "--json", "--profile", profile], profile, timeout=30)
         if r.returncode != 0: return _POLL_ERROR
         for a in json.loads(r.stdout):
             if a.get("id") == artifact_id: return a.get("status") or _POLL_MISSING
@@ -155,11 +162,11 @@ def poll_status(cfg, profile, artifact_id):
     except Exception:
         return _POLL_ERROR
 
-def download_audio(cfg, profile, artifact_id, out_path: Path) -> bool:
+def download_audio(cfg, profile, artifact_id, out_path: Path, notebook_id) -> bool:
     for i, wait in enumerate(DOWNLOAD_BACKOFFS, 1):
         if wait: log(f"   aguardando {wait}s (tentativa {i}/{len(DOWNLOAD_BACKOFFS)})..."); time.sleep(wait)
         try:
-            r = run_nlm(["download", "audio", cfg["notebooklm"]["notebook_id"], "--id", artifact_id,
+            r = run_nlm(["download", "audio", notebook_id, "--id", artifact_id,
                          "--output", str(out_path), "--no-progress"], profile, timeout=300)
             if r.returncode == 0 and out_path.exists() and out_path.stat().st_size > 1_000_000:
                 log(f"   download OK ({out_path.stat().st_size/1e6:.1f} MB)"); return True
@@ -218,6 +225,8 @@ def cmd_create(proj, cfg, scenes, width, profile, n, dry):
     if dry:
         for c in queue: print(f"    cena {c['seq_global']:0{width}d}: {c['titulo']}  -> {scene_filename(c,width,'m4a')}")
         print("\n  [dry-run] nada disparado.\n"); return 0
+    nb = notebook_for(cfg, profile)
+    log(f"  conta ativa: perfil '{profile}' -> notebook {nb[:12]}…")
     created = deferred = failed = 0
     created_files = []
     for c in queue:
@@ -228,14 +237,14 @@ def cmd_create(proj, cfg, scenes, width, profile, n, dry):
         log(f"cena {c['seq_global']}: {c['titulo'][:50]}")
         art = None
         for attempt in range(1, MAX_RETRIES+1):
-            art = create_audio(cfg, profile, focus)
+            art = create_audio(cfg, profile, focus, nb)
             if art is _RATE_LIMITED:
                 log("   rate-limited -> deferred"); break
             if art: break
             if attempt < MAX_RETRIES: time.sleep(CREATE_BACKOFFS[min(attempt-1, len(CREATE_BACKOFFS)-1)])
         entry = {"seq_global": c["seq_global"], "arquivo": scene_filename(c, width, "m4a"),
                  "titulo": c["titulo"], "cap": c["cap"], "notebook_profile": profile,
-                 "data": datetime.now().isoformat()}
+                 "notebook_id": nb, "data": datetime.now().isoformat()}
         if art is _RATE_LIMITED:
             entry["status"] = "deferred"; deferred += 1
         elif art:
@@ -251,16 +260,23 @@ def cmd_create(proj, cfg, scenes, width, profile, n, dry):
         tg.report(cfg["telegram"]["projeto_label"], created=created_files, deferred=deferred, failed=failed)
     return 0
 
-def cmd_download(proj, cfg, profile):
+def cmd_download(proj, cfg, default_profile):
     pend = [a for a in load_meta(proj, cfg)["audios"] if a.get("status") == "created" and a.get("artifact_id")]
     if not pend: log("nada para baixar (status=created)."); return 0
     adir = proj / cfg["paths"]["audios"]; dl = proc = lost = err = 0
     downloaded_files = []
+    auth_ck = {}
     for a in pend:
-        st = poll_status(cfg, profile, a["artifact_id"])
+        # cada cena é baixada na conta em que foi criada (dual-conta)
+        p = a.get("notebook_profile") or default_profile
+        nb = a.get("notebook_id") or notebook_for(cfg, p)
+        if p not in auth_ck: auth_ck[p] = check_auth(p)
+        if not auth_ck[p]:
+            log(f"   cena {a['seq_global']}: perfil '{p}' nao autenticado, pulando"); err += 1; continue
+        st = poll_status(cfg, p, a["artifact_id"], nb)
         if st == "completed":
             out = adir / a["arquivo"]
-            if download_audio(cfg, profile, a["artifact_id"], out):
+            if download_audio(cfg, p, a["artifact_id"], out, nb):
                 a.update(status="downloaded", output_path=str(out), tamanho_bytes=out.stat().st_size)
                 save_meta_entry(proj, cfg, a); dl += 1; downloaded_files.append(a["arquivo"])
             else: err += 1
@@ -287,18 +303,20 @@ def main():
     ap.add_argument("--create", type=int, metavar="N", help="disparar criacao de ate N cenas pendentes")
     ap.add_argument("--all", action="store_true", help="criar todas as pendentes (respeita cota)")
     ap.add_argument("--download", action="store_true")
+    ap.add_argument("--profile", help="conta/perfil NLM para ESTA run (default: notebooklm.profile). "
+                                      "Preferir 'default' (pessoal); usar a profissional só p/ agilizar.")
     ap.add_argument("--force", action="store_true", help="ignora guard de perfil")
     args = ap.parse_args()
 
     proj = Path(args.project).expanduser()
     cfg = load_cfg(proj)
-    profile = cfg["notebooklm"]["profile"]
+    profile = args.profile or cfg["notebooklm"]["profile"]  # perfil ATIVO desta run
     scenes, width = load_scenes(proj, cfg)
 
-    # guard anti-colisao de perfil
+    # guard anti-colisao: NLM_PROFILE do ambiente deve bater com o perfil ATIVO
     env_p = os.environ.get("NLM_PROFILE")
     if env_p and env_p != profile and not args.force:
-        log(f"ABORTADO: NLM_PROFILE={env_p} != perfil do projeto '{profile}' (use --force)."); return 1
+        log(f"ABORTADO: NLM_PROFILE={env_p} != perfil ativo '{profile}' (use --profile/--force)."); return 1
 
     # acoes que NAO tocam a conta
     if args.dry_run:
@@ -306,10 +324,11 @@ def main():
     if not (args.create or args.all or args.download):
         return cmd_status(proj, cfg, scenes, width, profile)  # standby: so status
 
-    if not check_auth(profile):
-        log(f"ERRO: nlm nao autenticado no perfil {profile}. Rode: nlm login -p {profile}"); return 1
+    # download: cada cena é baixada na conta em que foi criada (auth checada por-conta dentro)
     if args.download:
         return cmd_download(proj, cfg, profile)
+    if not check_auth(profile):
+        log(f"ERRO: nlm nao autenticado no perfil {profile}. Rode: nlm login -p {profile}"); return 1
     return cmd_create(proj, cfg, scenes, width, profile, 0 if args.all else args.create, dry=False)
 
 

@@ -16,6 +16,14 @@ language    = "pt-BR"              # OUTPUT do áudio: narração pt-BR CITANDO 
 format      = "deep_dive"
 length      = "long"              # épico denso → áudios longos (ajustável p/ "default" se ficar pesado)
 
+# DUAL-CONTA: literatura RESIDE na pessoal (casa = notebook permanente). A profissional é cota
+# livre TEMPORÁRIA p/ agilizar (áudios baixados p/ dell/DROBO; artifact no studio é descartável).
+# Escolha por run: audio_runner.py --profile default (preferido) | --profile profissional (agilizar).
+# O metadata.json registra POR CENA qual conta/notebook/artifact rodou → nunca regera em outra conta.
+[notebooklm.accounts]
+default      = "e79a651a-b2fc-4041-b766-c461b68a65bb"   # PESSOAL — casa definitiva (preferida)
+profissional = "222aaa91-eebd-4a4d-b95d-a2099dc5103a"   # PROFISSIONAL — cota livre temporária
+
 [cota]
 por_dia = 20                       # pro=20/dia (conta pessoal)
 margem  = 1

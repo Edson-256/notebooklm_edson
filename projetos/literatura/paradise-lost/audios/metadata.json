@@ -1,0 +1,20 @@
+{
+  "obra": "Paradise Lost",
+  "slug": "paradise-lost",
+  "notebook_id": "e79a651a-b2fc-4041-b766-c461b68a65bb",
+  "atualizado": "2026-06-13T09:35:01.262132",
+  "audios": [
+    {
+      "seq_global": 1,
+      "arquivo": "01_cap-01_cena-01_A-invocacao-justify-the-ways-of-God-to-men.m4a",
+      "titulo": "A invocação: \"justify the ways of God to men\"",
+      "cap": 1,
+      "notebook_profile": "profissional",
+      "notebook_id": "222aaa91-eebd-4a4d-b95d-a2099dc5103a",
+      "status": "created",
+      "artifact_id": "9d43dbce-429b-445f-9357-fb8d6777d119",
+      "data": "2026-06-13T09:35:01.262139",
+      "nota": "gerado manualmente na conta profissional (cota livre); 1o teste p/ verificacao"
+    }
+  ]
+}

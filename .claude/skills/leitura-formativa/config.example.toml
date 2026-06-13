@@ -17,6 +17,15 @@ language    = "pt-BR"             # OUTPUT do audio (BCP-47). Default segue a re
 format      = "deep_dive"         # deep_dive | brief | debate | critique
 length      = "long"             # short | default | long
 
+# DUAL-CONTA (opcional). Se presente, mapeia perfil->notebook (a MESMA fonte subida em cada conta).
+# 'profile' acima = conta preferida/casa (permanente). Rodar em outra conta p/ agilizar:
+#   audio_runner.py --profile profissional --create N   (usa cota livre; artifact descartavel)
+# O metadata.json grava POR CENA o (notebook_profile, notebook_id, artifact_id); download busca na
+# conta certa e cena 'created' em QUALQUER conta nao e regerada. Sem este bloco = projeto mono-conta.
+# [notebooklm.accounts]
+# default      = "<notebook-id-conta-pessoal>"
+# profissional = "<notebook-id-conta-profissional>"
+
 [cota]
 por_dia = 20                      # pro=20, free=3
 margem  = 1                       # nao disparar o ultimo N da cota (seguranca)
