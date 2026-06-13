@@ -10,7 +10,7 @@ sigla       = "PL"                 # prefixo dos fragmentos (PL-capitulos/)
 idioma_obra = "en"                 # idioma do TEXTO-BASE (cenas/âncoras ficam em inglês)
 
 [notebooklm]
-notebook_id = "TODO"               # criar notebook NLM (conta pessoal) c/ paradise-lost_fonte_nlm.md e colar o ID
+notebook_id = "e79a651a-b2fc-4041-b766-c461b68a65bb"  # NotebookLM (conta pessoal); fonte única já subida (source 7d8c6de5)
 profile     = "default"            # NLM_PROFILE FIXO (conta pessoal: edson.michalkiewicz@gmail.com)
 language    = "pt-BR"              # OUTPUT do áudio: narração pt-BR CITANDO o verso em inglês
 format      = "deep_dive"
