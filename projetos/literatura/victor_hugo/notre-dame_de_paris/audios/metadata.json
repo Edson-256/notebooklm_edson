@@ -1331,7 +1331,9 @@
       "prompt_chars": 2952,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_081_l07_c02_quun_prtre_et_un_philosophe_sont.m4a",
+      "tamanho_bytes": 28956829
     },
     {
       "seq_global": 82,
@@ -1346,7 +1348,9 @@
       "prompt_chars": 4404,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_082_l07_c02_quun_prtre_et_un_philosophe_sont.m4a",
+      "tamanho_bytes": 33469819
     },
     {
       "seq_global": 83,
@@ -1361,9 +1365,11 @@
       "prompt_chars": 2913,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_083_l07_c02_quun_prtre_et_un_philosophe_sont.m4a",
+      "tamanho_bytes": 26321727
     }
   ],
   "total_itens_processados": 83,
-  "ultima_atualizacao": "2026-06-12T08:15:44.052641"
+  "ultima_atualizacao": "2026-06-13T08:10:53.690397"
 }
