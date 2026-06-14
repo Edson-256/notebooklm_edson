@@ -1368,8 +1368,53 @@
       "status": "downloaded",
       "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_083_l07_c02_quun_prtre_et_un_philosophe_sont.m4a",
       "tamanho_bytes": 26321727
+    },
+    {
+      "seq_global": 84,
+      "scene_identifier": "L07-C02-QUUN_PRTRE_ET_UN_PHILOSOPHE_SONT_DEUX_cena004",
+      "cena_filename": "L07-C02-QUUN_PRTRE_ET_UN_PHILOSOPHE_SONT_DEUX_cena004.md",
+      "prompt_filename": "L07-C02-QUUN_PRTRE_ET_UN_PHILOSOPHE_SONT_DEUX_prompt004.md",
+      "arquivo": "notredame_084_l07_c02_quun_prtre_et_un_philosophe_sont.m4a",
+      "artifact_id": "ba539420-6eb7-42ed-849c-a53a06ab1ff6",
+      "source_id": "72035263-ba7c-47fa-a005-5c24f52257ed",
+      "book_id": "L07-C02-QUUN_PRTRE_ET_UN_PHILOSOPHE_SONT_DEUX",
+      "data_geracao": "2026-06-14T08:10:15.984865",
+      "prompt_chars": 5085,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 85,
+      "scene_identifier": "L07-C02-QUUN_PRTRE_ET_UN_PHILOSOPHE_SONT_DEUX_cena005",
+      "cena_filename": "L07-C02-QUUN_PRTRE_ET_UN_PHILOSOPHE_SONT_DEUX_cena005.md",
+      "prompt_filename": "L07-C02-QUUN_PRTRE_ET_UN_PHILOSOPHE_SONT_DEUX_prompt005.md",
+      "arquivo": "notredame_085_l07_c02_quun_prtre_et_un_philosophe_sont.m4a",
+      "artifact_id": "54156e7a-4ca7-4b08-9631-9199d9205141",
+      "source_id": "72035263-ba7c-47fa-a005-5c24f52257ed",
+      "book_id": "L07-C02-QUUN_PRTRE_ET_UN_PHILOSOPHE_SONT_DEUX",
+      "data_geracao": "2026-06-14T08:12:36.329745",
+      "prompt_chars": 2942,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 86,
+      "scene_identifier": "L07-C03-LES_CLOCHES_cena001",
+      "cena_filename": "L07-C03-LES_CLOCHES_cena001.md",
+      "prompt_filename": "L07-C03-LES_CLOCHES_prompt001.md",
+      "arquivo": "notredame_086_l07_c03_les_cloches_cena001.m4a",
+      "artifact_id": "f6202fd0-98db-46ad-adac-94bd1c31d8e8",
+      "source_id": "7960c1bf-b076-43be-b8f0-6053be12d6c8",
+      "book_id": "L07-C03-LES_CLOCHES",
+      "data_geracao": "2026-06-14T08:14:56.455928",
+      "prompt_chars": 4367,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
     }
   ],
-  "total_itens_processados": 83,
-  "ultima_atualizacao": "2026-06-13T08:10:53.690397"
+  "total_itens_processados": 86,
+  "ultima_atualizacao": "2026-06-14T08:14:56.459167"
 }
