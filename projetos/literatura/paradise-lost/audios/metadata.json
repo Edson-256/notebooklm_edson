@@ -2,7 +2,7 @@
   "obra": "Paradise Lost",
   "slug": "paradise-lost",
   "notebook_id": "e79a651a-b2fc-4041-b766-c461b68a65bb",
-  "atualizado": "2026-06-13T20:08:58.847182",
+  "atualizado": "2026-06-13T22:22:10.902126",
   "audios": [
     {
       "seq_global": 1,
@@ -11,10 +11,12 @@
       "cap": 1,
       "notebook_profile": "profissional",
       "notebook_id": "222aaa91-eebd-4a4d-b95d-a2099dc5103a",
-      "status": "created",
+      "status": "downloaded",
       "artifact_id": "9d43dbce-429b-445f-9357-fb8d6777d119",
       "data": "2026-06-13T09:35:01.262139",
-      "nota": "gerado manualmente na conta profissional (cota livre); 1o teste p/ verificacao"
+      "nota": "gerado manualmente na conta profissional (cota livre); 1o teste p/ verificacao",
+      "output_path": "projetos/literatura/paradise-lost/audios/01_cap-01_cena-01_A-invocacao-justify-the-ways-of-God-to-men.m4a",
+      "tamanho_bytes": 24517796
     },
     {
       "seq_global": 2,
@@ -24,8 +26,10 @@
       "notebook_profile": "profissional",
       "notebook_id": "222aaa91-eebd-4a4d-b95d-a2099dc5103a",
       "data": "2026-06-13T19:31:09.120824",
-      "status": "created",
-      "artifact_id": "a5244f0a-51cc-496b-8669-d8910310fcae"
+      "status": "downloaded",
+      "artifact_id": "a5244f0a-51cc-496b-8669-d8910310fcae",
+      "output_path": "projetos/literatura/paradise-lost/audios/02_cap-01_cena-02_Sata-desperta-no-lago-de-fogo-darkness-visible.m4a",
+      "tamanho_bytes": 35432985
     },
     {
       "seq_global": 3,
@@ -35,8 +39,10 @@
       "notebook_profile": "profissional",
       "notebook_id": "222aaa91-eebd-4a4d-b95d-a2099dc5103a",
       "data": "2026-06-13T19:33:15.565290",
-      "status": "created",
-      "artifact_id": "aec3b73d-cf5d-4c9a-9fd9-b946b7c91496"
+      "status": "downloaded",
+      "artifact_id": "aec3b73d-cf5d-4c9a-9fd9-b946b7c91496",
+      "output_path": "projetos/literatura/paradise-lost/audios/03_cap-01_cena-03_The-mind-is-its-own-place.m4a",
+      "tamanho_bytes": 40315128
     },
     {
       "seq_global": 4,
@@ -46,8 +52,10 @@
       "notebook_profile": "profissional",
       "notebook_id": "222aaa91-eebd-4a4d-b95d-a2099dc5103a",
       "data": "2026-06-13T19:35:21.606984",
-      "status": "created",
-      "artifact_id": "e4a619ae-7e05-4d9e-9796-856d692762d9"
+      "status": "downloaded",
+      "artifact_id": "e4a619ae-7e05-4d9e-9796-856d692762d9",
+      "output_path": "projetos/literatura/paradise-lost/audios/04_cap-01_cena-04_Better-to-reign-in-Hell-than-serve-in-Heaven.m4a",
+      "tamanho_bytes": 25820348
     },
     {
       "seq_global": 5,
@@ -57,8 +65,10 @@
       "notebook_profile": "profissional",
       "notebook_id": "222aaa91-eebd-4a4d-b95d-a2099dc5103a",
       "data": "2026-06-13T19:37:28.078914",
-      "status": "created",
-      "artifact_id": "548454fd-864c-4d91-ae54-fab32be457a5"
+      "status": "downloaded",
+      "artifact_id": "548454fd-864c-4d91-ae54-fab32be457a5",
+      "output_path": "projetos/literatura/paradise-lost/audios/05_cap-01_cena-05_Pandmonium-ergue-se-e-o-grande-conselho-e-convocado.m4a",
+      "tamanho_bytes": 21774374
     },
     {
       "seq_global": 6,
@@ -68,8 +78,10 @@
       "notebook_profile": "profissional",
       "notebook_id": "222aaa91-eebd-4a4d-b95d-a2099dc5103a",
       "data": "2026-06-13T19:39:33.506751",
-      "status": "created",
-      "artifact_id": "fd6b97ad-ac7f-45eb-a95d-05778d4ac0fe"
+      "status": "downloaded",
+      "artifact_id": "fd6b97ad-ac7f-45eb-a95d-05778d4ac0fe",
+      "output_path": "projetos/literatura/paradise-lost/audios/06_cap-02_cena-01_O-Concilio-Infernal-Moloch-Belial-e-Mammon.m4a",
+      "tamanho_bytes": 37860925
     },
     {
       "seq_global": 7,
@@ -79,8 +91,10 @@
       "notebook_profile": "profissional",
       "notebook_id": "222aaa91-eebd-4a4d-b95d-a2099dc5103a",
       "data": "2026-06-13T19:41:39.109459",
-      "status": "created",
-      "artifact_id": "0c22bfdd-d8f4-433e-ad5b-f69d4d005e9d"
+      "status": "downloaded",
+      "artifact_id": "0c22bfdd-d8f4-433e-ad5b-f69d4d005e9d",
+      "output_path": "projetos/literatura/paradise-lost/audios/07_cap-02_cena-02_Belzebu-revela-o-plano-contra-o-Homem-Sata-se-oferece.m4a",
+      "tamanho_bytes": 35006194
     },
     {
       "seq_global": 8,
@@ -90,8 +104,10 @@
       "notebook_profile": "profissional",
       "notebook_id": "222aaa91-eebd-4a4d-b95d-a2099dc5103a",
       "data": "2026-06-13T19:43:45.543896",
-      "status": "created",
-      "artifact_id": "a1414c36-b53e-4ebc-a222-c20a24f7be05"
+      "status": "downloaded",
+      "artifact_id": "a1414c36-b53e-4ebc-a222-c20a24f7be05",
+      "output_path": "projetos/literatura/paradise-lost/audios/08_cap-02_cena-03_Os-passatempos-dos-caidos-in-wandering-mazes-lost.m4a",
+      "tamanho_bytes": 41022059
     },
     {
       "seq_global": 9,
@@ -101,8 +117,10 @@
       "notebook_profile": "profissional",
       "notebook_id": "222aaa91-eebd-4a4d-b95d-a2099dc5103a",
       "data": "2026-06-13T19:45:51.943353",
-      "status": "created",
-      "artifact_id": "d6bdbcda-4410-4c25-8573-27c7ef596792"
+      "status": "downloaded",
+      "artifact_id": "d6bdbcda-4410-4c25-8573-27c7ef596792",
+      "output_path": "projetos/literatura/paradise-lost/audios/09_cap-02_cena-04_No-portao-do-Inferno-Pecado-e-Morte-a-alegoria-da-consequencia.m4a",
+      "tamanho_bytes": 35312596
     },
     {
       "seq_global": 10,
@@ -112,8 +130,10 @@
       "notebook_profile": "profissional",
       "notebook_id": "222aaa91-eebd-4a4d-b95d-a2099dc5103a",
       "data": "2026-06-13T19:47:58.021948",
-      "status": "created",
-      "artifact_id": "00ff1aef-8779-407d-9e2b-d555f3fce2fd"
+      "status": "downloaded",
+      "artifact_id": "00ff1aef-8779-407d-9e2b-d555f3fce2fd",
+      "output_path": "projetos/literatura/paradise-lost/audios/10_cap-02_cena-05_A-travessia-do-Abismo-Sata-o-Caos-e-a-velha-Noite.m4a",
+      "tamanho_bytes": 38560386
     },
     {
       "seq_global": 11,
@@ -123,8 +143,10 @@
       "notebook_profile": "profissional",
       "notebook_id": "222aaa91-eebd-4a4d-b95d-a2099dc5103a",
       "data": "2026-06-13T19:50:04.381895",
-      "status": "created",
-      "artifact_id": "63924923-805d-4723-8e34-07f54670fdf8"
+      "status": "downloaded",
+      "artifact_id": "63924923-805d-4723-8e34-07f54670fdf8",
+      "output_path": "projetos/literatura/paradise-lost/audios/11_cap-03_cena-01_Hail-holy-Light-a-cegueira-e-a-luz-interior.m4a",
+      "tamanho_bytes": 25214268
     },
     {
       "seq_global": 12,
@@ -134,8 +156,10 @@
       "notebook_profile": "profissional",
       "notebook_id": "222aaa91-eebd-4a4d-b95d-a2099dc5103a",
       "data": "2026-06-13T19:52:10.832535",
-      "status": "created",
-      "artifact_id": "5db65984-1e76-4553-943e-7fb02425d5f5"
+      "status": "downloaded",
+      "artifact_id": "5db65984-1e76-4553-943e-7fb02425d5f5",
+      "output_path": "projetos/literatura/paradise-lost/audios/12_cap-03_cena-02_Sufficient-to-have-stood-though-free-to-fall.m4a",
+      "tamanho_bytes": 24304027
     },
     {
       "seq_global": 13,
@@ -145,8 +169,10 @@
       "notebook_profile": "profissional",
       "notebook_id": "222aaa91-eebd-4a4d-b95d-a2099dc5103a",
       "data": "2026-06-13T19:54:17.149701",
-      "status": "created",
-      "artifact_id": "e23eb05a-0400-4745-b566-021ebfff56cc"
+      "status": "downloaded",
+      "artifact_id": "e23eb05a-0400-4745-b566-021ebfff56cc",
+      "output_path": "projetos/literatura/paradise-lost/audios/13_cap-03_cena-03_Behold-me-then-me-for-him-o-Filho-se-oferece.m4a",
+      "tamanho_bytes": 18266499
     },
     {
       "seq_global": 14,
@@ -156,8 +182,10 @@
       "notebook_profile": "profissional",
       "notebook_id": "222aaa91-eebd-4a4d-b95d-a2099dc5103a",
       "data": "2026-06-13T19:56:23.166119",
-      "status": "created",
-      "artifact_id": "03c15085-f260-4df1-9ceb-6957b7014a86"
+      "status": "downloaded",
+      "artifact_id": "03c15085-f260-4df1-9ceb-6957b7014a86",
+      "output_path": "projetos/literatura/paradise-lost/audios/14_cap-03_cena-04_The-false-dissembler-unperceived-Sata-engana-Uriel.m4a",
+      "tamanho_bytes": 30980506
     },
     {
       "seq_global": 15,
@@ -167,8 +195,10 @@
       "notebook_profile": "profissional",
       "notebook_id": "222aaa91-eebd-4a4d-b95d-a2099dc5103a",
       "data": "2026-06-13T19:58:29.555027",
-      "status": "created",
-      "artifact_id": "8508a4d7-cffc-4a78-90a5-776fe3222731"
+      "status": "downloaded",
+      "artifact_id": "8508a4d7-cffc-4a78-90a5-776fe3222731",
+      "output_path": "projetos/literatura/paradise-lost/audios/15_cap-04_cena-01_Myself-am-Hell-o-soliloquio-no-Monte-Niphates.m4a",
+      "tamanho_bytes": 20505438
     },
     {
       "seq_global": 16,
@@ -178,8 +208,10 @@
       "notebook_profile": "profissional",
       "notebook_id": "222aaa91-eebd-4a4d-b95d-a2099dc5103a",
       "data": "2026-06-13T20:00:35.175293",
-      "status": "created",
-      "artifact_id": "afbd32a1-9f4a-418d-b493-effcf081fa13"
+      "status": "downloaded",
+      "artifact_id": "afbd32a1-9f4a-418d-b493-effcf081fa13",
+      "output_path": "projetos/literatura/paradise-lost/audios/16_cap-04_cena-02_In-naked-majesty-a-primeira-visao-de-Adao-e-Eva.m4a",
+      "tamanho_bytes": 19166281
     },
     {
       "seq_global": 17,
@@ -189,8 +221,10 @@
       "notebook_profile": "profissional",
       "notebook_id": "222aaa91-eebd-4a4d-b95d-a2099dc5103a",
       "data": "2026-06-13T20:02:41.164878",
-      "status": "created",
-      "artifact_id": "8991e89c-a559-487d-bdfb-aa0be908ef13"
+      "status": "downloaded",
+      "artifact_id": "8991e89c-a559-487d-bdfb-aa0be908ef13",
+      "output_path": "projetos/literatura/paradise-lost/audios/17_cap-04_cena-03_Another-sky-Eva-diante-de-sua-imagem-no-lago.m4a",
+      "tamanho_bytes": 24170307
     },
     {
       "seq_global": 18,
@@ -200,8 +234,10 @@
       "notebook_profile": "profissional",
       "notebook_id": "222aaa91-eebd-4a4d-b95d-a2099dc5103a",
       "data": "2026-06-13T20:04:47.666626",
-      "status": "created",
-      "artifact_id": "295e09fc-6228-47ec-a78b-44e03eafa1b6"
+      "status": "downloaded",
+      "artifact_id": "295e09fc-6228-47ec-a78b-44e03eafa1b6",
+      "output_path": "projetos/literatura/paradise-lost/audios/18_cap-04_cena-04_Hail-wedded-Love-a-oracao-da-noite-e-o-caramanchao.m4a",
+      "tamanho_bytes": 29830349
     },
     {
       "seq_global": 19,
@@ -211,8 +247,10 @@
       "notebook_profile": "profissional",
       "notebook_id": "222aaa91-eebd-4a4d-b95d-a2099dc5103a",
       "data": "2026-06-13T20:06:53.342749",
-      "status": "created",
-      "artifact_id": "4eec60a7-8e6b-4c20-87f5-ceb43abf0cad"
+      "status": "downloaded",
+      "artifact_id": "4eec60a7-8e6b-4c20-87f5-ceb43abf0cad",
+      "output_path": "projetos/literatura/paradise-lost/audios/19_cap-04_cena-05_Squat-like-a-toad-Sata-descoberto-e-pesado-nas-balancas.m4a",
+      "tamanho_bytes": 24754671
     },
     {
       "seq_global": 20,
@@ -222,8 +260,10 @@
       "notebook_profile": "profissional",
       "notebook_id": "222aaa91-eebd-4a4d-b95d-a2099dc5103a",
       "data": "2026-06-13T20:08:58.845255",
-      "status": "created",
-      "artifact_id": "0384c48c-e002-4f13-a837-878e13f5f302"
+      "status": "downloaded",
+      "artifact_id": "0384c48c-e002-4f13-a837-878e13f5f302",
+      "output_path": "projetos/literatura/paradise-lost/audios/20_cap-05_cena-01_O-sonho-de-Eva-of-offence-and-trouble.m4a",
+      "tamanho_bytes": 34007803
     }
   ]
 }
