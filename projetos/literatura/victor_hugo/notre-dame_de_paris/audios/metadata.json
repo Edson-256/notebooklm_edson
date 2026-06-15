@@ -1382,7 +1382,9 @@
       "prompt_chars": 5085,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_084_l07_c02_quun_prtre_et_un_philosophe_sont.m4a",
+      "tamanho_bytes": 22538946
     },
     {
       "seq_global": 85,
@@ -1397,7 +1399,9 @@
       "prompt_chars": 2942,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_085_l07_c02_quun_prtre_et_un_philosophe_sont.m4a",
+      "tamanho_bytes": 31139625
     },
     {
       "seq_global": 86,
@@ -1412,9 +1416,56 @@
       "prompt_chars": 4367,
       "language": "fr-FR",
       "audio_format": "deep_dive",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_086_l07_c03_les_cloches_cena001.m4a",
+      "tamanho_bytes": 25628990
+    },
+    {
+      "seq_global": 87,
+      "scene_identifier": "L07-C03-LES_CLOCHES_cena002",
+      "cena_filename": "L07-C03-LES_CLOCHES_cena002.md",
+      "prompt_filename": "L07-C03-LES_CLOCHES_prompt002.md",
+      "arquivo": "notredame_087_l07_c03_les_cloches_cena002.m4a",
+      "artifact_id": "55ede98d-b2fd-4362-a4de-2a5292d183df",
+      "source_id": "7960c1bf-b076-43be-b8f0-6053be12d6c8",
+      "book_id": "L07-C03-LES_CLOCHES",
+      "data_geracao": "2026-06-15T08:10:53.158216",
+      "prompt_chars": 4491,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 88,
+      "scene_identifier": "L07-C03-LES_CLOCHES_cena003",
+      "cena_filename": "L07-C03-LES_CLOCHES_cena003.md",
+      "prompt_filename": "L07-C03-LES_CLOCHES_prompt003.md",
+      "arquivo": "notredame_088_l07_c03_les_cloches_cena003.m4a",
+      "artifact_id": "cfaafc89-b527-45db-a0d7-9dda49963c57",
+      "source_id": "7960c1bf-b076-43be-b8f0-6053be12d6c8",
+      "book_id": "L07-C03-LES_CLOCHES",
+      "data_geracao": "2026-06-15T08:13:09.267406",
+      "prompt_chars": 4776,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 89,
+      "scene_identifier": "L07-C04-NAKH_cena001",
+      "cena_filename": "L07-C04-NAKH_cena001.md",
+      "prompt_filename": "L07-C04-NAKH_prompt001.md",
+      "arquivo": "notredame_089_l07_c04_nakh_cena001.m4a",
+      "artifact_id": "29ded9cd-a8ac-45d6-a9f2-914a2f7020f9",
+      "source_id": "c62b9c91-3a83-4ae5-ab8e-68faa409b683",
+      "book_id": "L07-C04-NAKH",
+      "data_geracao": "2026-06-15T08:15:26.130846",
+      "prompt_chars": 3778,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
       "status": "created"
     }
   ],
-  "total_itens_processados": 86,
-  "ultima_atualizacao": "2026-06-14T08:14:56.459167"
+  "total_itens_processados": 89,
+  "ultima_atualizacao": "2026-06-15T08:15:26.132402"
 }
