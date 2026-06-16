@@ -1433,7 +1433,9 @@
       "prompt_chars": 4491,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_087_l07_c03_les_cloches_cena002.m4a",
+      "tamanho_bytes": 15117366
     },
     {
       "seq_global": 88,
@@ -1448,7 +1450,9 @@
       "prompt_chars": 4776,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_088_l07_c03_les_cloches_cena003.m4a",
+      "tamanho_bytes": 32628306
     },
     {
       "seq_global": 89,
@@ -1463,9 +1467,56 @@
       "prompt_chars": 3778,
       "language": "fr-FR",
       "audio_format": "deep_dive",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_089_l07_c04_nakh_cena001.m4a",
+      "tamanho_bytes": 33013146
+    },
+    {
+      "seq_global": 90,
+      "scene_identifier": "L07-C04-NAKH_cena002",
+      "cena_filename": "L07-C04-NAKH_cena002.md",
+      "prompt_filename": "L07-C04-NAKH_prompt002.md",
+      "arquivo": "notredame_090_l07_c04_nakh_cena002.m4a",
+      "artifact_id": "802db50a-171d-4141-b765-9be3e1fbbcde",
+      "source_id": "c62b9c91-3a83-4ae5-ab8e-68faa409b683",
+      "book_id": "L07-C04-NAKH",
+      "data_geracao": "2026-06-16T08:11:00.778753",
+      "prompt_chars": 3888,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 91,
+      "scene_identifier": "L07-C04-NAKH_cena003",
+      "cena_filename": "L07-C04-NAKH_cena003.md",
+      "prompt_filename": "L07-C04-NAKH_prompt003.md",
+      "arquivo": "notredame_091_l07_c04_nakh_cena003.m4a",
+      "artifact_id": "3a2e4064-ee33-425c-9cbd-02f739947aea",
+      "source_id": "c62b9c91-3a83-4ae5-ab8e-68faa409b683",
+      "book_id": "L07-C04-NAKH",
+      "data_geracao": "2026-06-16T08:13:19.207383",
+      "prompt_chars": 4404,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 92,
+      "scene_identifier": "L07-C04-NAKH_cena004",
+      "cena_filename": "L07-C04-NAKH_cena004.md",
+      "prompt_filename": "L07-C04-NAKH_prompt004.md",
+      "arquivo": "notredame_092_l07_c04_nakh_cena004.m4a",
+      "artifact_id": "6def7000-06fb-4f27-a773-05d190f5aad9",
+      "source_id": "c62b9c91-3a83-4ae5-ab8e-68faa409b683",
+      "book_id": "L07-C04-NAKH",
+      "data_geracao": "2026-06-16T08:15:37.102334",
+      "prompt_chars": 2881,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
       "status": "created"
     }
   ],
-  "total_itens_processados": 89,
-  "ultima_atualizacao": "2026-06-15T08:15:26.132402"
+  "total_itens_processados": 92,
+  "ultima_atualizacao": "2026-06-16T08:15:37.105073"
 }
