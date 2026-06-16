@@ -211,8 +211,8 @@
       "formato": "filtro",
       "prompt_path": "projetos/critica-literaria/frye/fearful-symmetry/prompts/prompt_06c_cap06_filtro.md",
       "output_path": "projetos/critica-literaria/frye/fearful-symmetry/audios/06c_cap06_filtro.m4a",
-      "status": "pending",
-      "artifact_id": ""
+      "status": "downloaded",
+      "artifact_id": "3a88ea98-a2a4-4891-ba0d-9f78102b1b7b"
     },
     {
       "id": "07a_cap07_portico",
@@ -221,8 +221,8 @@
       "formato": "portico",
       "prompt_path": "projetos/critica-literaria/frye/fearful-symmetry/prompts/prompt_07a_cap07_portico.md",
       "output_path": "projetos/critica-literaria/frye/fearful-symmetry/audios/07a_cap07_portico.m4a",
-      "status": "pending",
-      "artifact_id": ""
+      "status": "downloaded",
+      "artifact_id": "8aa45254-1cc3-4adf-b2ca-7dfcb995d633"
     },
     {
       "id": "07b_cap07_reconstrucao",
@@ -231,8 +231,8 @@
       "formato": "reconstrucao",
       "prompt_path": "projetos/critica-literaria/frye/fearful-symmetry/prompts/prompt_07b_cap07_reconstrucao.md",
       "output_path": "projetos/critica-literaria/frye/fearful-symmetry/audios/07b_cap07_reconstrucao.m4a",
-      "status": "pending",
-      "artifact_id": ""
+      "status": "downloaded",
+      "artifact_id": "f940ea73-9749-45ca-ab93-e9529432d617"
     },
     {
       "id": "07c_cap07_filtro",
@@ -241,8 +241,8 @@
       "formato": "filtro",
       "prompt_path": "projetos/critica-literaria/frye/fearful-symmetry/prompts/prompt_07c_cap07_filtro.md",
       "output_path": "projetos/critica-literaria/frye/fearful-symmetry/audios/07c_cap07_filtro.m4a",
-      "status": "pending",
-      "artifact_id": ""
+      "status": "downloaded",
+      "artifact_id": "5d64a470-4414-4910-bb89-37c42106ee46"
     },
     {
       "id": "08a_cap08_portico",
@@ -251,8 +251,8 @@
       "formato": "portico",
       "prompt_path": "projetos/critica-literaria/frye/fearful-symmetry/prompts/prompt_08a_cap08_portico.md",
       "output_path": "projetos/critica-literaria/frye/fearful-symmetry/audios/08a_cap08_portico.m4a",
-      "status": "pending",
-      "artifact_id": ""
+      "status": "downloaded",
+      "artifact_id": "96d20313-c1bd-46cb-8442-a1bac7a1966c"
     },
     {
       "id": "08b_cap08_reconstrucao",
@@ -261,8 +261,8 @@
       "formato": "reconstrucao",
       "prompt_path": "projetos/critica-literaria/frye/fearful-symmetry/prompts/prompt_08b_cap08_reconstrucao.md",
       "output_path": "projetos/critica-literaria/frye/fearful-symmetry/audios/08b_cap08_reconstrucao.m4a",
-      "status": "pending",
-      "artifact_id": ""
+      "status": "downloaded",
+      "artifact_id": "4e555137-9da8-4f9a-b3fc-5ef8a8fec48c"
     },
     {
       "id": "08c_cap08_filtro",
@@ -271,8 +271,8 @@
       "formato": "filtro",
       "prompt_path": "projetos/critica-literaria/frye/fearful-symmetry/prompts/prompt_08c_cap08_filtro.md",
       "output_path": "projetos/critica-literaria/frye/fearful-symmetry/audios/08c_cap08_filtro.m4a",
-      "status": "pending",
-      "artifact_id": ""
+      "status": "downloaded",
+      "artifact_id": "408b52da-77a2-4d0f-abc6-1083ec6dd70e"
     },
     {
       "id": "09a_cap09_portico",
@@ -281,8 +281,8 @@
       "formato": "portico",
       "prompt_path": "projetos/critica-literaria/frye/fearful-symmetry/prompts/prompt_09a_cap09_portico.md",
       "output_path": "projetos/critica-literaria/frye/fearful-symmetry/audios/09a_cap09_portico.m4a",
-      "status": "pending",
-      "artifact_id": ""
+      "status": "downloaded",
+      "artifact_id": "7f6e284a-2e5b-498e-a00a-c6aaef07a994"
     },
     {
       "id": "09b_cap09_reconstrucao",
@@ -291,8 +291,8 @@
       "formato": "reconstrucao",
       "prompt_path": "projetos/critica-literaria/frye/fearful-symmetry/prompts/prompt_09b_cap09_reconstrucao.md",
       "output_path": "projetos/critica-literaria/frye/fearful-symmetry/audios/09b_cap09_reconstrucao.m4a",
-      "status": "pending",
-      "artifact_id": ""
+      "status": "downloaded",
+      "artifact_id": "f811192e-8a86-4223-b261-1d623c9ae2dd"
     },
     {
       "id": "09c_cap09_filtro",
@@ -301,8 +301,8 @@
       "formato": "filtro",
       "prompt_path": "projetos/critica-literaria/frye/fearful-symmetry/prompts/prompt_09c_cap09_filtro.md",
       "output_path": "projetos/critica-literaria/frye/fearful-symmetry/audios/09c_cap09_filtro.m4a",
-      "status": "pending",
-      "artifact_id": ""
+      "status": "downloaded",
+      "artifact_id": "7f4303de-e4be-4f7b-b339-32089ca1eb3a"
     },
     {
       "id": "10a_cap10_portico",
@@ -311,8 +311,8 @@
       "formato": "portico",
       "prompt_path": "projetos/critica-literaria/frye/fearful-symmetry/prompts/prompt_10a_cap10_portico.md",
       "output_path": "projetos/critica-literaria/frye/fearful-symmetry/audios/10a_cap10_portico.m4a",
-      "status": "pending",
-      "artifact_id": ""
+      "status": "downloaded",
+      "artifact_id": "3878673b-fda5-4b2b-ac54-1d6e7edb3b17"
     },
     {
       "id": "10b_cap10_reconstrucao",
@@ -321,8 +321,8 @@
       "formato": "reconstrucao",
       "prompt_path": "projetos/critica-literaria/frye/fearful-symmetry/prompts/prompt_10b_cap10_reconstrucao.md",
       "output_path": "projetos/critica-literaria/frye/fearful-symmetry/audios/10b_cap10_reconstrucao.m4a",
-      "status": "pending",
-      "artifact_id": ""
+      "status": "downloaded",
+      "artifact_id": "66758e9a-2958-4f6d-a94d-3c5ec673b299"
     },
     {
       "id": "10c_cap10_filtro",
@@ -331,8 +331,8 @@
       "formato": "filtro",
       "prompt_path": "projetos/critica-literaria/frye/fearful-symmetry/prompts/prompt_10c_cap10_filtro.md",
       "output_path": "projetos/critica-literaria/frye/fearful-symmetry/audios/10c_cap10_filtro.m4a",
-      "status": "pending",
-      "artifact_id": ""
+      "status": "downloaded",
+      "artifact_id": "995915b9-1311-4602-a897-407da5b11215"
     },
     {
       "id": "11a_cap11_portico",
@@ -341,8 +341,8 @@
       "formato": "portico",
       "prompt_path": "projetos/critica-literaria/frye/fearful-symmetry/prompts/prompt_11a_cap11_portico.md",
       "output_path": "projetos/critica-literaria/frye/fearful-symmetry/audios/11a_cap11_portico.m4a",
-      "status": "pending",
-      "artifact_id": ""
+      "status": "downloaded",
+      "artifact_id": "c49ab7d9-6df0-4091-aa7c-9938b5c322bc"
     },
     {
       "id": "11b_cap11_reconstrucao",
@@ -351,8 +351,8 @@
       "formato": "reconstrucao",
       "prompt_path": "projetos/critica-literaria/frye/fearful-symmetry/prompts/prompt_11b_cap11_reconstrucao.md",
       "output_path": "projetos/critica-literaria/frye/fearful-symmetry/audios/11b_cap11_reconstrucao.m4a",
-      "status": "pending",
-      "artifact_id": ""
+      "status": "downloaded",
+      "artifact_id": "6d875ea1-3757-4447-b32b-6179c9599f0a"
     },
     {
       "id": "11c_cap11_filtro",
@@ -361,8 +361,8 @@
       "formato": "filtro",
       "prompt_path": "projetos/critica-literaria/frye/fearful-symmetry/prompts/prompt_11c_cap11_filtro.md",
       "output_path": "projetos/critica-literaria/frye/fearful-symmetry/audios/11c_cap11_filtro.m4a",
-      "status": "pending",
-      "artifact_id": ""
+      "status": "downloaded",
+      "artifact_id": "ee59225e-e3e5-4dfc-9aca-2577256b072b"
     },
     {
       "id": "12a_cap12_portico",
@@ -371,8 +371,8 @@
       "formato": "portico",
       "prompt_path": "projetos/critica-literaria/frye/fearful-symmetry/prompts/prompt_12a_cap12_portico.md",
       "output_path": "projetos/critica-literaria/frye/fearful-symmetry/audios/12a_cap12_portico.m4a",
-      "status": "pending",
-      "artifact_id": ""
+      "status": "downloaded",
+      "artifact_id": "032c74ab-d825-4ea5-9626-ee97c56323cb"
     },
     {
       "id": "12b_cap12_reconstrucao",
@@ -381,8 +381,8 @@
       "formato": "reconstrucao",
       "prompt_path": "projetos/critica-literaria/frye/fearful-symmetry/prompts/prompt_12b_cap12_reconstrucao.md",
       "output_path": "projetos/critica-literaria/frye/fearful-symmetry/audios/12b_cap12_reconstrucao.m4a",
-      "status": "pending",
-      "artifact_id": ""
+      "status": "downloaded",
+      "artifact_id": "cca92d38-cf65-46be-9690-e380715af0cf"
     },
     {
       "id": "12c_cap12_filtro",
@@ -391,8 +391,8 @@
       "formato": "filtro",
       "prompt_path": "projetos/critica-literaria/frye/fearful-symmetry/prompts/prompt_12c_cap12_filtro.md",
       "output_path": "projetos/critica-literaria/frye/fearful-symmetry/audios/12c_cap12_filtro.m4a",
-      "status": "pending",
-      "artifact_id": ""
+      "status": "downloaded",
+      "artifact_id": "94b1cfc4-d1a6-4ea0-8c9f-012afa8afe24"
     }
   ]
 }
