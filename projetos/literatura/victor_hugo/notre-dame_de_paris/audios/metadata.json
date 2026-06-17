@@ -1484,7 +1484,9 @@
       "prompt_chars": 3888,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_090_l07_c04_nakh_cena002.m4a",
+      "tamanho_bytes": 20489750
     },
     {
       "seq_global": 91,
@@ -1499,7 +1501,9 @@
       "prompt_chars": 4404,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_091_l07_c04_nakh_cena003.m4a",
+      "tamanho_bytes": 19275349
     },
     {
       "seq_global": 92,
@@ -1514,9 +1518,56 @@
       "prompt_chars": 2881,
       "language": "fr-FR",
       "audio_format": "deep_dive",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_092_l07_c04_nakh_cena004.m4a",
+      "tamanho_bytes": 24236047
+    },
+    {
+      "seq_global": 93,
+      "scene_identifier": "L07-C04-NAKH_cena005",
+      "cena_filename": "L07-C04-NAKH_cena005.md",
+      "prompt_filename": "L07-C04-NAKH_prompt005.md",
+      "arquivo": "notredame_093_l07_c04_nakh_cena005.m4a",
+      "artifact_id": "6031683e-8dad-41a5-9783-370ce7388aed",
+      "source_id": "c62b9c91-3a83-4ae5-ab8e-68faa409b683",
+      "book_id": "L07-C04-NAKH",
+      "data_geracao": "2026-06-17T08:10:59.840008",
+      "prompt_chars": 2765,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 94,
+      "scene_identifier": "L07-C05-LES_DEUX_HOMMES_VTUS_DE_NOIR_cena001",
+      "cena_filename": "L07-C05-LES_DEUX_HOMMES_VTUS_DE_NOIR_cena001.md",
+      "prompt_filename": "L07-C05-LES_DEUX_HOMMES_VTUS_DE_NOIR_prompt001.md",
+      "arquivo": "notredame_094_l07_c05_les_deux_hommes_vtus_de_noir_cen.m4a",
+      "artifact_id": "7079f27c-9b2c-4dba-b35f-78dc0bcacad9",
+      "source_id": "a68200cb-5012-48ed-b3e7-71db36bf01f9",
+      "book_id": "L07-C05-LES_DEUX_HOMMES_VTUS_DE_NOIR",
+      "data_geracao": "2026-06-17T08:13:18.218048",
+      "prompt_chars": 3468,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 95,
+      "scene_identifier": "L07-C05-LES_DEUX_HOMMES_VTUS_DE_NOIR_cena002",
+      "cena_filename": "L07-C05-LES_DEUX_HOMMES_VTUS_DE_NOIR_cena002.md",
+      "prompt_filename": "L07-C05-LES_DEUX_HOMMES_VTUS_DE_NOIR_prompt002.md",
+      "arquivo": "notredame_095_l07_c05_les_deux_hommes_vtus_de_noir_cen.m4a",
+      "artifact_id": "a44e10c1-1194-41d1-8a16-5f08ae69b5f4",
+      "source_id": "a68200cb-5012-48ed-b3e7-71db36bf01f9",
+      "book_id": "L07-C05-LES_DEUX_HOMMES_VTUS_DE_NOIR",
+      "data_geracao": "2026-06-17T08:15:36.563415",
+      "prompt_chars": 3302,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
       "status": "created"
     }
   ],
-  "total_itens_processados": 92,
-  "ultima_atualizacao": "2026-06-16T08:15:37.105073"
+  "total_itens_processados": 95,
+  "ultima_atualizacao": "2026-06-17T08:15:36.565925"
 }
