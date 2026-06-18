@@ -1535,7 +1535,9 @@
       "prompt_chars": 2765,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_093_l07_c04_nakh_cena005.m4a",
+      "tamanho_bytes": 34794782
     },
     {
       "seq_global": 94,
@@ -1550,7 +1552,9 @@
       "prompt_chars": 3468,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_094_l07_c05_les_deux_hommes_vtus_de_noir_cen.m4a",
+      "tamanho_bytes": 23960273
     },
     {
       "seq_global": 95,
@@ -1565,9 +1569,56 @@
       "prompt_chars": 3302,
       "language": "fr-FR",
       "audio_format": "deep_dive",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_095_l07_c05_les_deux_hommes_vtus_de_noir_cen.m4a",
+      "tamanho_bytes": 20192313
+    },
+    {
+      "seq_global": 96,
+      "scene_identifier": "L07-C05-LES_DEUX_HOMMES_VTUS_DE_NOIR_cena003",
+      "cena_filename": "L07-C05-LES_DEUX_HOMMES_VTUS_DE_NOIR_cena003.md",
+      "prompt_filename": "L07-C05-LES_DEUX_HOMMES_VTUS_DE_NOIR_prompt003.md",
+      "arquivo": "notredame_096_l07_c05_les_deux_hommes_vtus_de_noir_cen.m4a",
+      "artifact_id": "16c5543c-07e9-4282-8a23-3267693ed131",
+      "source_id": "a68200cb-5012-48ed-b3e7-71db36bf01f9",
+      "book_id": "L07-C05-LES_DEUX_HOMMES_VTUS_DE_NOIR",
+      "data_geracao": "2026-06-18T08:11:15.440141",
+      "prompt_chars": 2888,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 97,
+      "scene_identifier": "L07-C06-EFFET_QUE_PEUVENT_PRODUIRE_cena001",
+      "cena_filename": "L07-C06-EFFET_QUE_PEUVENT_PRODUIRE_cena001.md",
+      "prompt_filename": "L07-C06-EFFET_QUE_PEUVENT_PRODUIRE_prompt001.md",
+      "arquivo": "notredame_097_l07_c06_effet_que_peuvent_produire_cena0.m4a",
+      "artifact_id": "67bf17ce-2df7-4dda-8d14-6cd8452f9d82",
+      "source_id": "52ad435a-8e65-4378-b162-5ff2dd9a9430",
+      "book_id": "L07-C06-EFFET_QUE_PEUVENT_PRODUIRE",
+      "data_geracao": "2026-06-18T08:13:35.064544",
+      "prompt_chars": 2636,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 98,
+      "scene_identifier": "L07-C06-EFFET_QUE_PEUVENT_PRODUIRE_cena002",
+      "cena_filename": "L07-C06-EFFET_QUE_PEUVENT_PRODUIRE_cena002.md",
+      "prompt_filename": "L07-C06-EFFET_QUE_PEUVENT_PRODUIRE_prompt002.md",
+      "arquivo": "notredame_098_l07_c06_effet_que_peuvent_produire_cena0.m4a",
+      "artifact_id": "e64f5592-589e-4f85-a4ed-68a6820eb349",
+      "source_id": "52ad435a-8e65-4378-b162-5ff2dd9a9430",
+      "book_id": "L07-C06-EFFET_QUE_PEUVENT_PRODUIRE",
+      "data_geracao": "2026-06-18T08:15:53.767901",
+      "prompt_chars": 2820,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
       "status": "created"
     }
   ],
-  "total_itens_processados": 95,
-  "ultima_atualizacao": "2026-06-17T08:15:36.565925"
+  "total_itens_processados": 98,
+  "ultima_atualizacao": "2026-06-18T08:15:53.769661"
 }
