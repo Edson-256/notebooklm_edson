@@ -1586,7 +1586,9 @@
       "prompt_chars": 2888,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_096_l07_c05_les_deux_hommes_vtus_de_noir_cen.m4a",
+      "tamanho_bytes": 37476085
     },
     {
       "seq_global": 97,
@@ -1601,7 +1603,9 @@
       "prompt_chars": 2636,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_097_l07_c06_effet_que_peuvent_produire_cena0.m4a",
+      "tamanho_bytes": 22894648
     },
     {
       "seq_global": 98,
@@ -1616,9 +1620,56 @@
       "prompt_chars": 2820,
       "language": "fr-FR",
       "audio_format": "deep_dive",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_098_l07_c06_effet_que_peuvent_produire_cena0.m4a",
+      "tamanho_bytes": 28718408
+    },
+    {
+      "seq_global": 99,
+      "scene_identifier": "L07-C06-EFFET_QUE_PEUVENT_PRODUIRE_cena003",
+      "cena_filename": "L07-C06-EFFET_QUE_PEUVENT_PRODUIRE_cena003.md",
+      "prompt_filename": "L07-C06-EFFET_QUE_PEUVENT_PRODUIRE_prompt003.md",
+      "arquivo": "notredame_099_l07_c06_effet_que_peuvent_produire_cena0.m4a",
+      "artifact_id": "3d2c3432-a70f-44e5-85a7-54eb48f65e73",
+      "source_id": "52ad435a-8e65-4378-b162-5ff2dd9a9430",
+      "book_id": "L07-C06-EFFET_QUE_PEUVENT_PRODUIRE",
+      "data_geracao": "2026-06-19T08:11:20.250636",
+      "prompt_chars": 3664,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 100,
+      "scene_identifier": "L07-C07-LE_MOINE_BOURRU_cena001",
+      "cena_filename": "L07-C07-LE_MOINE_BOURRU_cena001.md",
+      "prompt_filename": "L07-C07-LE_MOINE_BOURRU_prompt001.md",
+      "arquivo": "notredame_100_l07_c07_le_moine_bourru_cena001.m4a",
+      "artifact_id": "c22b31ba-6253-4ffe-bf0f-ff1d196a725c",
+      "source_id": "1e26e0ed-9c9c-4003-948f-ade2ac72a9da",
+      "book_id": "L07-C07-LE_MOINE_BOURRU",
+      "data_geracao": "2026-06-19T08:13:39.297764",
+      "prompt_chars": 3249,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 101,
+      "scene_identifier": "L07-C07-LE_MOINE_BOURRU_cena002",
+      "cena_filename": "L07-C07-LE_MOINE_BOURRU_cena002.md",
+      "prompt_filename": "L07-C07-LE_MOINE_BOURRU_prompt002.md",
+      "arquivo": "notredame_101_l07_c07_le_moine_bourru_cena002.m4a",
+      "artifact_id": "0fad7f93-5e6a-4e24-86d4-7ed812cdc78b",
+      "source_id": "1e26e0ed-9c9c-4003-948f-ade2ac72a9da",
+      "book_id": "L07-C07-LE_MOINE_BOURRU",
+      "data_geracao": "2026-06-19T08:15:57.474092",
+      "prompt_chars": 2679,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
       "status": "created"
     }
   ],
-  "total_itens_processados": 98,
-  "ultima_atualizacao": "2026-06-18T08:15:53.769661"
+  "total_itens_processados": 101,
+  "ultima_atualizacao": "2026-06-19T08:15:57.475886"
 }
