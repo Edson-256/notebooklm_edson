@@ -50,12 +50,17 @@ def _creds():
     return pick(_TOKEN_KEYS), pick(_CHAT_KEYS)
 
 
+# Identidade do bot — 1ª linha de toda mensagem (preview da notificação). Sem
+# tags HTML porque este send() envia texto puro (sem parse_mode).
+BOT_IDENTITY = "🎧 [Leitura Formativa · StudioM4]"
+
+
 def send(text: str) -> bool:
     token, chat = _creds()
     if not token or not chat:
         return False
     try:
-        data = urllib.parse.urlencode({"chat_id": chat, "text": text,
+        data = urllib.parse.urlencode({"chat_id": chat, "text": f"{BOT_IDENTITY}\n{text}",
                                        "disable_web_page_preview": "true"}).encode()
         req = urllib.request.Request(f"https://api.telegram.org/bot{token}/sendMessage", data=data)
         with urllib.request.urlopen(req, timeout=20) as r:

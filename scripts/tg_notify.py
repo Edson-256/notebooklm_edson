@@ -79,6 +79,12 @@ def _resolve_credentials() -> tuple:
     return token, chat_id
 
 
+# Identidade do bot — 1ª linha de toda mensagem (visível no preview da
+# notificação). O bot StudioM4 é compartilhado com outros projetos; esta linha
+# diz que a mensagem veio do pipeline de áudio de leitura formativa.
+BOT_IDENTITY = "🎧 <b>[Leitura Formativa · StudioM4]</b>"
+
+
 def send(text: str, parse_mode: str = "HTML") -> bool:
     """Send a Telegram message. Returns True on success, False otherwise."""
     token, chat_id = _resolve_credentials()
@@ -89,7 +95,7 @@ def send(text: str, parse_mode: str = "HTML") -> bool:
     url = f"https://api.telegram.org/bot{token}/sendMessage"
     payload = json.dumps({
         "chat_id": chat_id,
-        "text": text,
+        "text": f"{BOT_IDENTITY}\n{text}",
         "parse_mode": parse_mode,
         "disable_web_page_preview": True,
     }).encode()
