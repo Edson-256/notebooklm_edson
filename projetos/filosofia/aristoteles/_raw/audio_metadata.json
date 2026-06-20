@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T19:45:42Z",
+  "updated_at": "2026-06-20T23:45:01Z",
   "audios": {
     "05_etica/01_etica_nicomaco/L01-C01_cena01": {
       "artifact_id": "46097252-f46f-41a0-b77f-86b89e4b0945",
@@ -905,141 +905,321 @@
       "artifact_id": "529bb6c9-c406-425d-996c-f9ddebc58410",
       "audio_title": "aristoteles_25_l09_c11_cena01_etica_nicomaco",
       "audio_filename": "aristoteles_25_l09_c11_cena01_etica_nicomaco.m4a",
-      "status": "created",
-      "created_at": "2026-06-18T19:06:02Z"
+      "status": "downloaded",
+      "created_at": "2026-06-18T19:06:02Z",
+      "downloaded_at": "2026-06-20T23:00:22Z",
+      "bytes": 23176398
     },
     "05_etica/01_etica_nicomaco/L09-C12_cena01": {
       "artifact_id": "6ab4a070-71fa-4e22-9377-91f1685b0472",
       "audio_title": "aristoteles_25_l09_c12_cena01_etica_nicomaco",
       "audio_filename": "aristoteles_25_l09_c12_cena01_etica_nicomaco.m4a",
-      "status": "created",
-      "created_at": "2026-06-18T19:08:10Z"
+      "status": "downloaded",
+      "created_at": "2026-06-18T19:08:10Z",
+      "downloaded_at": "2026-06-20T23:00:40Z",
+      "bytes": 51154866
     },
     "05_etica/01_etica_nicomaco/L10-C01_cena01": {
       "artifact_id": "091ea506-265b-4ea4-b715-15e50a3960cb",
       "audio_title": "aristoteles_25_l10_c01_cena01_etica_nicomaco",
       "audio_filename": "aristoteles_25_l10_c01_cena01_etica_nicomaco.m4a",
-      "status": "created",
-      "created_at": "2026-06-18T19:10:16Z"
+      "status": "downloaded",
+      "created_at": "2026-06-18T19:10:16Z",
+      "downloaded_at": "2026-06-20T23:00:57Z",
+      "bytes": 27189387
     },
     "05_etica/01_etica_nicomaco/L10-C02_cena01": {
       "artifact_id": "d29246e6-0bb0-4a4e-be70-ca0e689df905",
       "audio_title": "aristoteles_25_l10_c02_cena01_etica_nicomaco",
       "audio_filename": "aristoteles_25_l10_c02_cena01_etica_nicomaco.m4a",
-      "status": "created",
-      "created_at": "2026-06-18T19:12:24Z"
+      "status": "downloaded",
+      "created_at": "2026-06-18T19:12:24Z",
+      "downloaded_at": "2026-06-20T23:01:14Z",
+      "bytes": 42710946
     },
     "05_etica/01_etica_nicomaco/L10-C03_cena01": {
       "artifact_id": "602815dd-b823-4166-826c-da4d6d8b8253",
       "audio_title": "aristoteles_25_l10_c03_cena01_etica_nicomaco",
       "audio_filename": "aristoteles_25_l10_c03_cena01_etica_nicomaco.m4a",
-      "status": "created",
-      "created_at": "2026-06-18T19:14:31Z"
+      "status": "downloaded",
+      "created_at": "2026-06-18T19:14:31Z",
+      "downloaded_at": "2026-06-20T23:01:31Z",
+      "bytes": 24987799
     },
     "05_etica/01_etica_nicomaco/L10-C04_cena01": {
       "artifact_id": "e78e8ce8-66dc-4ec5-a10b-3fb2758d61fb",
       "audio_title": "aristoteles_25_l10_c04_cena01_etica_nicomaco",
       "audio_filename": "aristoteles_25_l10_c04_cena01_etica_nicomaco.m4a",
-      "status": "created",
-      "created_at": "2026-06-18T19:16:39Z"
+      "status": "downloaded",
+      "created_at": "2026-06-18T19:16:39Z",
+      "downloaded_at": "2026-06-20T23:01:47Z",
+      "bytes": 25096983
     },
     "05_etica/01_etica_nicomaco/L10-C05_cena01": {
       "artifact_id": "67eee683-b98f-4692-8a12-6ff7b51c6f53",
       "audio_title": "aristoteles_25_l10_c05_cena01_etica_nicomaco",
       "audio_filename": "aristoteles_25_l10_c05_cena01_etica_nicomaco.m4a",
-      "status": "created",
-      "created_at": "2026-06-18T19:18:47Z"
+      "status": "downloaded",
+      "created_at": "2026-06-18T19:18:47Z",
+      "downloaded_at": "2026-06-20T23:02:03Z",
+      "bytes": 31334718
     },
     "05_etica/01_etica_nicomaco/L10-C06_cena01": {
       "artifact_id": "29618d44-e718-4f60-92cf-4a82f13f6377",
       "audio_title": "aristoteles_25_l10_c06_cena01_etica_nicomaco",
       "audio_filename": "aristoteles_25_l10_c06_cena01_etica_nicomaco.m4a",
-      "status": "created",
-      "created_at": "2026-06-18T19:20:54Z"
+      "status": "downloaded",
+      "created_at": "2026-06-18T19:20:54Z",
+      "downloaded_at": "2026-06-20T23:02:22Z",
+      "bytes": 46192674
     },
     "05_etica/01_etica_nicomaco/L10-C07_cena01": {
       "artifact_id": "6f9589c0-8cb5-4ec5-988d-471c0a3fdb22",
       "audio_title": "aristoteles_25_l10_c07_cena01_etica_nicomaco",
       "audio_filename": "aristoteles_25_l10_c07_cena01_etica_nicomaco.m4a",
-      "status": "created",
-      "created_at": "2026-06-18T19:23:02Z"
+      "status": "downloaded",
+      "created_at": "2026-06-18T19:23:02Z",
+      "downloaded_at": "2026-06-20T23:02:39Z",
+      "bytes": 37502231
     },
     "05_etica/01_etica_nicomaco/L10-C08_cena01": {
       "artifact_id": "2bf458c2-780e-424d-9e47-5371776c36ce",
       "audio_title": "aristoteles_25_l10_c08_cena01_etica_nicomaco",
       "audio_filename": "aristoteles_25_l10_c08_cena01_etica_nicomaco.m4a",
-      "status": "created",
-      "created_at": "2026-06-18T19:25:09Z"
+      "status": "downloaded",
+      "created_at": "2026-06-18T19:25:09Z",
+      "downloaded_at": "2026-06-20T23:02:58Z",
+      "bytes": 51915583
     },
     "05_etica/01_etica_nicomaco/L10-C09_cena01": {
       "artifact_id": "244d597a-85ba-4c47-b2f7-5df1e0480960",
       "audio_title": "aristoteles_25_l10_c09_cena01_etica_nicomaco",
       "audio_filename": "aristoteles_25_l10_c09_cena01_etica_nicomaco.m4a",
-      "status": "created",
-      "created_at": "2026-06-18T19:27:17Z"
+      "status": "downloaded",
+      "created_at": "2026-06-18T19:27:17Z",
+      "downloaded_at": "2026-06-20T23:03:15Z",
+      "bytes": 21147376
     },
     "06_politica/01_politica/L01-C01_cena01": {
       "artifact_id": "44ace7dc-eaf9-4fd3-91ba-59af933c3193",
       "audio_title": "aristoteles_29_l01_c01_cena01_politica",
       "audio_filename": "aristoteles_29_l01_c01_cena01_politica.m4a",
-      "status": "created",
-      "created_at": "2026-06-18T19:29:19Z"
+      "status": "downloaded",
+      "created_at": "2026-06-18T19:29:19Z",
+      "downloaded_at": "2026-06-20T23:03:34Z",
+      "bytes": 30606870
     },
     "06_politica/01_politica/L01-C02_cena01": {
       "artifact_id": "6810c05d-b3e9-4c2e-b250-ede60a209bd6",
       "audio_title": "aristoteles_29_l01_c02_cena01_politica",
       "audio_filename": "aristoteles_29_l01_c02_cena01_politica.m4a",
-      "status": "created",
-      "created_at": "2026-06-18T19:31:22Z"
+      "status": "downloaded",
+      "created_at": "2026-06-18T19:31:22Z",
+      "downloaded_at": "2026-06-20T23:03:50Z",
+      "bytes": 27415856
     },
     "06_politica/01_politica/L01-C03_cena01": {
       "artifact_id": "1b9f225d-112b-4b9f-b731-5a6d3bd0f5c2",
       "audio_title": "aristoteles_29_l01_c03_cena01_politica",
       "audio_filename": "aristoteles_29_l01_c03_cena01_politica.m4a",
-      "status": "created",
-      "created_at": "2026-06-18T19:33:25Z"
+      "status": "downloaded",
+      "created_at": "2026-06-18T19:33:25Z",
+      "downloaded_at": "2026-06-20T23:04:08Z",
+      "bytes": 48613260
     },
     "06_politica/01_politica/L01-C04_cena01": {
       "artifact_id": "58da4d3d-4d0d-4325-b02b-c1e6ea32cfe9",
       "audio_title": "aristoteles_29_l01_c04_cena01_politica",
       "audio_filename": "aristoteles_29_l01_c04_cena01_politica.m4a",
-      "status": "created",
-      "created_at": "2026-06-18T19:35:28Z"
+      "status": "downloaded",
+      "created_at": "2026-06-18T19:35:28Z",
+      "downloaded_at": "2026-06-20T23:04:27Z",
+      "bytes": 40599119
     },
     "06_politica/01_politica/L01-C05_cena01": {
       "artifact_id": "1c9cc6cd-6480-46d5-beb9-8a9db6ba8e15",
       "audio_title": "aristoteles_29_l01_c05_cena01_politica",
       "audio_filename": "aristoteles_29_l01_c05_cena01_politica.m4a",
-      "status": "created",
-      "created_at": "2026-06-18T19:37:31Z"
+      "status": "downloaded",
+      "created_at": "2026-06-18T19:37:31Z",
+      "downloaded_at": "2026-06-20T23:04:45Z",
+      "bytes": 34620606
     },
     "06_politica/01_politica/L01-C06_cena01": {
       "artifact_id": "985f4632-36d6-4372-b7ec-7a3d253efea7",
       "audio_title": "aristoteles_29_l01_c06_cena01_politica",
       "audio_filename": "aristoteles_29_l01_c06_cena01_politica.m4a",
-      "status": "created",
-      "created_at": "2026-06-18T19:39:34Z"
+      "status": "downloaded",
+      "created_at": "2026-06-18T19:39:34Z",
+      "downloaded_at": "2026-06-20T23:05:04Z",
+      "bytes": 49815677
     },
     "06_politica/01_politica/L01-C07_cena01": {
       "artifact_id": "f6d09e10-0d08-4906-82ce-f2deb59ef99f",
       "audio_title": "aristoteles_29_l01_c07_cena01_politica",
       "audio_filename": "aristoteles_29_l01_c07_cena01_politica.m4a",
-      "status": "created",
-      "created_at": "2026-06-18T19:41:36Z"
+      "status": "downloaded",
+      "created_at": "2026-06-18T19:41:36Z",
+      "downloaded_at": "2026-06-20T23:05:22Z",
+      "bytes": 32457234
     },
     "06_politica/01_politica/L01-C08_cena01": {
       "artifact_id": "ef3c891e-de3a-407c-8cd0-31e14a7cf127",
       "audio_title": "aristoteles_29_l01_c08_cena01_politica",
       "audio_filename": "aristoteles_29_l01_c08_cena01_politica.m4a",
-      "status": "created",
-      "created_at": "2026-06-18T19:43:39Z"
+      "status": "downloaded",
+      "created_at": "2026-06-18T19:43:39Z",
+      "downloaded_at": "2026-06-20T23:05:39Z",
+      "bytes": 25246391
     },
     "06_politica/01_politica/L01-C09_cena01": {
       "artifact_id": "b4e04c46-a485-451e-8f0f-d82513f7461c",
       "audio_title": "aristoteles_29_l01_c09_cena01_politica",
       "audio_filename": "aristoteles_29_l01_c09_cena01_politica.m4a",
+      "status": "downloaded",
+      "created_at": "2026-06-18T19:45:42Z",
+      "downloaded_at": "2026-06-20T23:05:57Z",
+      "bytes": 42660147
+    },
+    "06_politica/01_politica/L01-C10_cena01": {
+      "artifact_id": "c445cff3-c47f-41e4-bf79-e041612c4416",
+      "audio_title": "aristoteles_29_l01_c10_cena01_politica",
+      "audio_filename": "aristoteles_29_l01_c10_cena01_politica.m4a",
       "status": "created",
-      "created_at": "2026-06-18T19:45:42Z"
+      "created_at": "2026-06-20T23:06:04Z"
+    },
+    "06_politica/01_politica/L01-C11_cena01": {
+      "artifact_id": "7dc90392-3c79-4adb-b803-c6415cb1727b",
+      "audio_title": "aristoteles_29_l01_c11_cena01_politica",
+      "audio_filename": "aristoteles_29_l01_c11_cena01_politica.m4a",
+      "status": "created",
+      "created_at": "2026-06-20T23:08:07Z"
+    },
+    "06_politica/01_politica/L01-C12_cena01": {
+      "artifact_id": "3deb2f60-e9f2-4368-9d1d-a52291fc2e61",
+      "audio_title": "aristoteles_29_l01_c12_cena01_politica",
+      "audio_filename": "aristoteles_29_l01_c12_cena01_politica.m4a",
+      "status": "created",
+      "created_at": "2026-06-20T23:10:10Z"
+    },
+    "06_politica/01_politica/L01-C13_cena01": {
+      "artifact_id": "a628bdaa-3441-4bea-a8f1-cb9e057ef3a0",
+      "audio_title": "aristoteles_29_l01_c13_cena01_politica",
+      "audio_filename": "aristoteles_29_l01_c13_cena01_politica.m4a",
+      "status": "created",
+      "created_at": "2026-06-20T23:12:13Z"
+    },
+    "06_politica/01_politica/L02-C01_cena01": {
+      "artifact_id": "ae5f2ce0-9891-4071-8d4d-7e7ef8dfc765",
+      "audio_title": "aristoteles_29_l02_c01_cena01_politica",
+      "audio_filename": "aristoteles_29_l02_c01_cena01_politica.m4a",
+      "status": "created",
+      "created_at": "2026-06-20T23:14:16Z"
+    },
+    "06_politica/01_politica/L02-C02_cena01": {
+      "artifact_id": "fdeb169a-5494-4f05-9b34-a3add1b56d4a",
+      "audio_title": "aristoteles_29_l02_c02_cena01_politica",
+      "audio_filename": "aristoteles_29_l02_c02_cena01_politica.m4a",
+      "status": "created",
+      "created_at": "2026-06-20T23:16:19Z"
+    },
+    "06_politica/01_politica/L02-C03_cena01": {
+      "artifact_id": "1997ebf6-ad16-4ff1-9f38-b7f727b21471",
+      "audio_title": "aristoteles_29_l02_c03_cena01_politica",
+      "audio_filename": "aristoteles_29_l02_c03_cena01_politica.m4a",
+      "status": "created",
+      "created_at": "2026-06-20T23:18:22Z"
+    },
+    "06_politica/01_politica/L02-C04_cena01": {
+      "artifact_id": "163d73eb-1ec9-41fb-aa4a-74eb69f5c2b9",
+      "audio_title": "aristoteles_29_l02_c04_cena01_politica",
+      "audio_filename": "aristoteles_29_l02_c04_cena01_politica.m4a",
+      "status": "created",
+      "created_at": "2026-06-20T23:20:25Z"
+    },
+    "06_politica/01_politica/L02-C05_cena01": {
+      "artifact_id": "e4d83aa8-9386-49f9-9389-ae7a18a90c09",
+      "audio_title": "aristoteles_29_l02_c05_cena01_politica",
+      "audio_filename": "aristoteles_29_l02_c05_cena01_politica.m4a",
+      "status": "created",
+      "created_at": "2026-06-20T23:22:28Z"
+    },
+    "06_politica/01_politica/L02-C06_cena01": {
+      "artifact_id": "b5592789-35f4-474d-a304-ef5103466a9a",
+      "audio_title": "aristoteles_29_l02_c06_cena01_politica",
+      "audio_filename": "aristoteles_29_l02_c06_cena01_politica.m4a",
+      "status": "created",
+      "created_at": "2026-06-20T23:24:31Z"
+    },
+    "06_politica/01_politica/L02-C07_cena01": {
+      "artifact_id": "91429318-acdd-4598-81cf-7d990088f548",
+      "audio_title": "aristoteles_29_l02_c07_cena01_politica",
+      "audio_filename": "aristoteles_29_l02_c07_cena01_politica.m4a",
+      "status": "created",
+      "created_at": "2026-06-20T23:26:34Z"
+    },
+    "06_politica/01_politica/L02-C08_cena01": {
+      "artifact_id": "2a5575c9-9f05-46d3-95f6-e33b4487b688",
+      "audio_title": "aristoteles_29_l02_c08_cena01_politica",
+      "audio_filename": "aristoteles_29_l02_c08_cena01_politica.m4a",
+      "status": "created",
+      "created_at": "2026-06-20T23:28:38Z"
+    },
+    "06_politica/01_politica/L02-C09_cena01": {
+      "artifact_id": "001cba91-95e8-4496-b42f-08dbd57c7537",
+      "audio_title": "aristoteles_29_l02_c09_cena01_politica",
+      "audio_filename": "aristoteles_29_l02_c09_cena01_politica.m4a",
+      "status": "created",
+      "created_at": "2026-06-20T23:30:41Z"
+    },
+    "07_retorica_poetica/02_poetica/L01-C01_cena01": {
+      "artifact_id": "1b868915-5e41-4855-a926-bce3453d5997",
+      "audio_title": "aristoteles_33_l01_c01_cena01_poetica",
+      "audio_filename": "aristoteles_33_l01_c01_cena01_poetica.m4a",
+      "status": "created",
+      "created_at": "2026-06-20T23:32:44Z"
+    },
+    "07_retorica_poetica/02_poetica/L01-C02_cena01": {
+      "artifact_id": "060dbc6a-c075-4f2d-8aa2-f9b421f66082",
+      "audio_title": "aristoteles_33_l01_c02_cena01_poetica",
+      "audio_filename": "aristoteles_33_l01_c02_cena01_poetica.m4a",
+      "status": "created",
+      "created_at": "2026-06-20T23:34:46Z"
+    },
+    "07_retorica_poetica/02_poetica/L01-C03_cena01": {
+      "artifact_id": "5a07f0e0-6c72-4f74-a18d-6c96a88028f8",
+      "audio_title": "aristoteles_33_l01_c03_cena01_poetica",
+      "audio_filename": "aristoteles_33_l01_c03_cena01_poetica.m4a",
+      "status": "created",
+      "created_at": "2026-06-20T23:36:49Z"
+    },
+    "07_retorica_poetica/02_poetica/L01-C04_cena01": {
+      "artifact_id": "0b42568f-6b1f-4920-a860-3c5a4c2993a7",
+      "audio_title": "aristoteles_33_l01_c04_cena01_poetica",
+      "audio_filename": "aristoteles_33_l01_c04_cena01_poetica.m4a",
+      "status": "created",
+      "created_at": "2026-06-20T23:38:52Z"
+    },
+    "07_retorica_poetica/02_poetica/L01-C05_cena01": {
+      "artifact_id": "f460b458-2bbb-4daf-b5d8-b3840c8ebce1",
+      "audio_title": "aristoteles_33_l01_c05_cena01_poetica",
+      "audio_filename": "aristoteles_33_l01_c05_cena01_poetica.m4a",
+      "status": "created",
+      "created_at": "2026-06-20T23:40:55Z"
+    },
+    "07_retorica_poetica/02_poetica/L01-C06_cena01": {
+      "artifact_id": "881c8972-98fb-40bd-a340-0d94ff87fdf0",
+      "audio_title": "aristoteles_33_l01_c06_cena01_poetica",
+      "audio_filename": "aristoteles_33_l01_c06_cena01_poetica.m4a",
+      "status": "created",
+      "created_at": "2026-06-20T23:42:58Z"
+    },
+    "07_retorica_poetica/02_poetica/L01-C07_cena01": {
+      "artifact_id": "df33fa4d-1d5a-4e74-9505-163c5999e132",
+      "audio_title": "aristoteles_33_l01_c07_cena01_poetica",
+      "audio_filename": "aristoteles_33_l01_c07_cena01_poetica.m4a",
+      "status": "created",
+      "created_at": "2026-06-20T23:45:01Z"
     }
   }
 }
