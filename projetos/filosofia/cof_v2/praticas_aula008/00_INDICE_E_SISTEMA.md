@@ -100,8 +100,24 @@ não a vida à cadência.
 - **Ficção (4 pilares) × não-ficção (A–F).** A **ficção** usa a skill `leitura-formativa`
   (educação da imaginação, leitura de cena, áudio deep-dive por cena — ver Quo Vadis). A
   **não-ficção** usa os formatos A–F. São dois aparatos distintos; não confundir.
-- **Círculo de latência.** Termo de procedência **a confirmar** (coinagem de Olavo? tradução
-  de Lavelle/Husserl?). Pergunta e comando `nlm` para resolver: ver §6.
+- **Círculo de latência.** Procedência **resolvida** (grep nas fontes COF locais + consulta
+  `nlm` ao acervo Lavelle, 2026-06-20). A **expressão e o exemplo são do próprio Olavo de
+  Carvalho**, no curso extracurricular *"Simbolismo e ordem cósmica ontem e hoje"*: "Eu sempre
+  dou o exemplo do que eu chamo de círculo de latência." O **conceito** ancora em **Lavelle** —
+  *présence totale*, *intimité universelle*, *cercle de lumière* ("círculo de luz" que envolve a
+  consciência), *puissance*, *virtualité* — mas a locução literal *não* é de Lavelle: re-verificado
+  no acervo **completo (49 fontes, 2026-06-20)**, a expressão "cercle de latence/círculo de
+  latência" não ocorre em nenhuma obra dele.
+  **Definição (com o exemplo de Olavo):** perceber um objeto é perceber, junto, o feixe de
+  possibilidades reais que ele traz — o cachorro deitado *pode* morder, latir, correr, abanar,
+  dormir; e você *sabe* que ele **não** vai recitar Píndaro nem voar. Esse halo de possíveis
+  reais, dado **na própria percepção** (não é conjetura/interpretação posterior — "isso é
+  percepção física"), é o círculo de latência; nunca o percebemos inteiro, mas sabemos que está
+  lá. Olavo chama o ato de **antecipação**. É o oposto do **signo/significado de dicionário**
+  (representação finita e recortada): é o *referente vivo* que a definição não dá. Liga-se ao
+  horizonte/apresentação de Husserl (o não-visto co-dado com o visto). Ref.:
+  `compiladas/extracurriculares/COF Extracurricular — Simbolismo e ordem cósmica ontem e hoje.md`
+  (linhas ~147–201).
 - **Auto-imagem × autoconhecimento (item 7).** *Auto-imagem* = a representação que faço de
   mim (papéis, ideal, máscara); *autoconhecimento* = contato com o que de fato sou,
   inclusive o que a auto-imagem encobre. A formação visa migrar de uma para o outro.
