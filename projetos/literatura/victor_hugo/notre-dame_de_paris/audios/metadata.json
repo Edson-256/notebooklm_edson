@@ -1688,7 +1688,9 @@
       "prompt_chars": 2791,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_102_l07_c07_le_moine_bourru_cena003.m4a",
+      "tamanho_bytes": 18615482
     },
     {
       "seq_global": 103,
@@ -1703,7 +1705,9 @@
       "prompt_chars": 3581,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_103_l07_c07_le_moine_bourru_cena004.m4a",
+      "tamanho_bytes": 19672258
     },
     {
       "seq_global": 104,
@@ -1718,9 +1722,56 @@
       "prompt_chars": 3550,
       "language": "fr-FR",
       "audio_format": "deep_dive",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_104_l07_c08_utilit_des_fentres_qui_donnent_s.m4a",
+      "tamanho_bytes": 31594803
+    },
+    {
+      "seq_global": 105,
+      "scene_identifier": "L07-C08-UTILIT_DES_FENTRES_QUI_DONNENT_SUR_LA_RIVIRE_cena002",
+      "cena_filename": "L07-C08-UTILIT_DES_FENTRES_QUI_DONNENT_SUR_LA_RIVIRE_cena002.md",
+      "prompt_filename": "L07-C08-UTILIT_DES_FENTRES_QUI_DONNENT_SUR_LA_RIVIRE_prompt002.md",
+      "arquivo": "notredame_105_l07_c08_utilit_des_fentres_qui_donnent_s.m4a",
+      "artifact_id": "5c031c66-b9dc-4bd1-ba9d-3b275e74dbb0",
+      "source_id": "6aa99e5c-b37e-4070-8130-d9e830eeebf7",
+      "book_id": "L07-C08-UTILIT_DES_FENTRES_QUI_DONNENT_SUR_LA_RIVIRE",
+      "data_geracao": "2026-06-21T08:11:05.447299",
+      "prompt_chars": 3205,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 106,
+      "scene_identifier": "L07-C08-UTILIT_DES_FENTRES_QUI_DONNENT_SUR_LA_RIVIRE_cena003",
+      "cena_filename": "L07-C08-UTILIT_DES_FENTRES_QUI_DONNENT_SUR_LA_RIVIRE_cena003.md",
+      "prompt_filename": "L07-C08-UTILIT_DES_FENTRES_QUI_DONNENT_SUR_LA_RIVIRE_prompt003.md",
+      "arquivo": "notredame_106_l07_c08_utilit_des_fentres_qui_donnent_s.m4a",
+      "artifact_id": "1e43aacc-c832-46c6-8f7c-171a6026a841",
+      "source_id": "6aa99e5c-b37e-4070-8130-d9e830eeebf7",
+      "book_id": "L07-C08-UTILIT_DES_FENTRES_QUI_DONNENT_SUR_LA_RIVIRE",
+      "data_geracao": "2026-06-21T08:13:22.249596",
+      "prompt_chars": 3004,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 107,
+      "scene_identifier": "L07-C08-UTILIT_DES_FENTRES_QUI_DONNENT_SUR_LA_RIVIRE_cena004",
+      "cena_filename": "L07-C08-UTILIT_DES_FENTRES_QUI_DONNENT_SUR_LA_RIVIRE_cena004.md",
+      "prompt_filename": "L07-C08-UTILIT_DES_FENTRES_QUI_DONNENT_SUR_LA_RIVIRE_prompt004.md",
+      "arquivo": "notredame_107_l07_c08_utilit_des_fentres_qui_donnent_s.m4a",
+      "artifact_id": "2a702c18-dc4c-4bad-b940-9dae88c7c062",
+      "source_id": "6aa99e5c-b37e-4070-8130-d9e830eeebf7",
+      "book_id": "L07-C08-UTILIT_DES_FENTRES_QUI_DONNENT_SUR_LA_RIVIRE",
+      "data_geracao": "2026-06-21T08:15:39.271355",
+      "prompt_chars": 4227,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
       "status": "created"
     }
   ],
-  "total_itens_processados": 104,
-  "ultima_atualizacao": "2026-06-20T08:15:38.868180"
+  "total_itens_processados": 107,
+  "ultima_atualizacao": "2026-06-21T08:15:39.274408"
 }
