@@ -151,6 +151,10 @@ praticas_aula008/
   templates/
     nlm_focus_*.md   suno_style_*.md   diario_*.md
     PROMPT_gerador_musica_dual_perspectiva.md   ← gerador canônico de canções (2 perspectivas)
+  musicas/
+    boa_nova/
+      Agora Posso Respirar.md      ← sertanejo raiz · paciente (alegre)
+      A Tua Vitória.md             ← pastoral folk · médico (alegre)
 ```
 
 Infra reusada (não recriar): `scripts/06_audio_runner.py`, notebook COF
