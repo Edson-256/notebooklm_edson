@@ -156,9 +156,13 @@ praticas_aula008/
       Agora Posso Respirar.md      ← sertanejo raiz · paciente (alegre)
       A Tua Vitória.md             ← pastoral folk · médico (alegre)
   exercicios/
-    02_linguagem/
+    02_linguagem/                  ← programa crônico de enriquecimento da linguagem
       00_paladar_literario.md      ← vocabulário do estilo (lição-a-lição)
-      imitacoes.md                 ← imitação estilística (modelo + tentativas)
+      00_diario_de_bordo.md        ← 1 linha/sessão + mapa de autores (ciclo aberto)
+      imitacoes.md                 ← rodada-modelo seminal (Machado/Rosa/Graciliano)
+      autores/<autor>.md           ← por autor: degustação + tentativas + gramática
+      quo_vadis.md                 ← trilha QV (degustações oportunistas)
+      gramatica.md                 ← log de gramática sob demanda
 ```
 
 Infra reusada (não recriar): `scripts/06_audio_runner.py`, notebook COF

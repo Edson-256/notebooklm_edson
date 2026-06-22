@@ -1,0 +1,13 @@
+# Quo Vadis — degustações oportunistas (trilha QV)
+
+> Após a leitura aos pais, degustar **uma cena**. Obra estrangeira traduzida — as dimensões de
+> estilo aparecem na prosa da tradução (e cruzam com o item 1 e com as músicas do Quo Vadis).
+> Registrar: trecho curto + dimensão observada + (opcional) uma tentativa de frase sua.
+
+## Sessões
+*(a preencher)*
+
+- **[data] · cap./cena:** …
+  **trecho:** …
+  **dimensão(ões):** …
+  **tentativa (opcional):** …
