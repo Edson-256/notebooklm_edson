@@ -155,6 +155,10 @@ praticas_aula008/
     boa_nova/
       Agora Posso Respirar.md      ← sertanejo raiz · paciente (alegre)
       A Tua Vitória.md             ← pastoral folk · médico (alegre)
+  exercicios/
+    02_linguagem/
+      00_paladar_literario.md      ← vocabulário do estilo (lição-a-lição)
+      imitacoes.md                 ← imitação estilística (modelo + tentativas)
 ```
 
 Infra reusada (não recriar): `scripts/06_audio_runner.py`, notebook COF
