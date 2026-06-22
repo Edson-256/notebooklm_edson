@@ -92,6 +92,21 @@ Suno converges on a similar pattern — deliberately break its default attractor
   distinctive lead timbre; asymmetric form.
 - The TWO songs must differ in tempo, meter, instrumentation, and vocal style — no shared
   sonic fingerprint.
+- MELODIC IDENTITY (critical — Suno's STRONGEST convergence): Suno reuses a similar SUNG
+  MELODY/vocal phrasing across songs even when instrumentation, genre and meter differ. Beating
+  instrumentation alone is NOT enough. Therefore:
+  • Give each song a DISTINCT, explicitly-stated vocal-melodic identity — contour (rising /
+    falling / arch / static-chant), rhythm (clipped syllabic vs. flowing melismatic vs.
+    syncopated patter vs. long sustained held notes), range (narrow chant-like vs. wide leaping),
+    attack (declamatory-parlando vs. lyrical-legato). The two songs' melodic identities MUST
+    contrast (e.g., Song 1 = syllabic, clipped, mid-range; Song 2 = melismatic, wide, soaring).
+  • Drive melody through LYRIC METER, not just adjectives: make verse vs. chorus differ in
+    syllable count and line length (so one melodic shape can't be reused), and make the two
+    songs' line-lengths/meters clearly different from each other.
+  • Direct melody per section with metatags: e.g. [Refrão: long sustained held notes, wide leaps],
+    [Verso: rapid syllabic patter, conversational], [Ponte: free recitative, no fixed pulse],
+    call-and-response. State the melodic identity in the "DISPOSITIVO ANTIMESMICE" line.
+  • If Suno still converges, CHANGE THE LYRIC'S METER (not the style words) and re-roll.
 - Atemporality: no datable/branded/geographic/technological anchors; one aphoristic hook built
   to resonate in 50–100 years; emotional truth over fashion.
 </anti_sameness_and_timelessness>
