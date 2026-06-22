@@ -145,8 +145,12 @@ praticas_aula008/
   integracao/
     PILOTO_presenca_vs_representacao.md
     diagnostico_representacao_vs_presenca_workflows.md   ← gabarito (preencher local)
+    musicas_piloto/
+      Mais Que o Meu Nome.md       ← sertanejo raiz · perspectiva paciente
+      Através de Ti.md             ← art song/lied · perspectiva médico
   templates/
-    nlm_focus_*.md      suno_style_*.md      diario_*.md
+    nlm_focus_*.md   suno_style_*.md   diario_*.md
+    PROMPT_gerador_musica_dual_perspectiva.md   ← gerador canônico de canções (2 perspectivas)
 ```
 
 Infra reusada (não recriar): `scripts/06_audio_runner.py`, notebook COF
