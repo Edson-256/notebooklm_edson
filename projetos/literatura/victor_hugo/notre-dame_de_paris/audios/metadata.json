@@ -1739,7 +1739,9 @@
       "prompt_chars": 3205,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_105_l07_c08_utilit_des_fentres_qui_donnent_s.m4a",
+      "tamanho_bytes": 35214734
     },
     {
       "seq_global": 106,
@@ -1754,7 +1756,9 @@
       "prompt_chars": 3004,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_106_l07_c08_utilit_des_fentres_qui_donnent_s.m4a",
+      "tamanho_bytes": 21766903
     },
     {
       "seq_global": 107,
@@ -1769,9 +1773,56 @@
       "prompt_chars": 4227,
       "language": "fr-FR",
       "audio_format": "deep_dive",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_107_l07_c08_utilit_des_fentres_qui_donnent_s.m4a",
+      "tamanho_bytes": 21792303
+    },
+    {
+      "seq_global": 108,
+      "scene_identifier": "L08-C01-SUITE_DE_LCU_CHANG_EN_FEUILLE_SCHE_cena001",
+      "cena_filename": "L08-C01-SUITE_DE_LCU_CHANG_EN_FEUILLE_SCHE_cena001.md",
+      "prompt_filename": "L08-C01-SUITE_DE_LCU_CHANG_EN_FEUILLE_SCHE_prompt001.md",
+      "arquivo": "notredame_108_l08_c01_suite_de_lcu_chang_en_feuille_sc.m4a",
+      "artifact_id": "36fb640f-d0aa-47f8-a60b-140a75b6eb4b",
+      "source_id": "dd7e23a9-9fac-45df-bb2f-38ee234ed865",
+      "book_id": "L08-C01-SUITE_DE_LCU_CHANG_EN_FEUILLE_SCHE",
+      "data_geracao": "2026-06-22T08:11:02.691186",
+      "prompt_chars": 4451,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 109,
+      "scene_identifier": "L08-C01-SUITE_DE_LCU_CHANG_EN_FEUILLE_SCHE_cena002",
+      "cena_filename": "L08-C01-SUITE_DE_LCU_CHANG_EN_FEUILLE_SCHE_cena002.md",
+      "prompt_filename": "L08-C01-SUITE_DE_LCU_CHANG_EN_FEUILLE_SCHE_prompt002.md",
+      "arquivo": "notredame_109_l08_c01_suite_de_lcu_chang_en_feuille_sc.m4a",
+      "artifact_id": "ff4ba24d-bec2-4d21-af25-a64080090645",
+      "source_id": "dd7e23a9-9fac-45df-bb2f-38ee234ed865",
+      "book_id": "L08-C01-SUITE_DE_LCU_CHANG_EN_FEUILLE_SCHE",
+      "data_geracao": "2026-06-22T08:13:19.522859",
+      "prompt_chars": 3558,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 110,
+      "scene_identifier": "L08-C01-SUITE_DE_LCU_CHANG_EN_FEUILLE_SCHE_cena003",
+      "cena_filename": "L08-C01-SUITE_DE_LCU_CHANG_EN_FEUILLE_SCHE_cena003.md",
+      "prompt_filename": "L08-C01-SUITE_DE_LCU_CHANG_EN_FEUILLE_SCHE_prompt003.md",
+      "arquivo": "notredame_110_l08_c01_suite_de_lcu_chang_en_feuille_sc.m4a",
+      "artifact_id": "a891019f-dbd8-4e7e-84ec-cb510ca6e116",
+      "source_id": "dd7e23a9-9fac-45df-bb2f-38ee234ed865",
+      "book_id": "L08-C01-SUITE_DE_LCU_CHANG_EN_FEUILLE_SCHE",
+      "data_geracao": "2026-06-22T08:15:36.709003",
+      "prompt_chars": 4512,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
       "status": "created"
     }
   ],
-  "total_itens_processados": 107,
-  "ultima_atualizacao": "2026-06-21T08:15:39.274408"
+  "total_itens_processados": 110,
+  "ultima_atualizacao": "2026-06-22T08:15:36.711664"
 }
