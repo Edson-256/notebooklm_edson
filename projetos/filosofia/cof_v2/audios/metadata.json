@@ -13051,7 +13051,9 @@
       "focus_preview": "[ID]: extra-princ-pios-e-m-todos-da-auto-educa-o-aula-06\n[CATEGORIA]: Extracurricular\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 687/781\n[ANTERIOR]: extra-princ-pios-e-m-todos-da-auto-educa-o-aula-05\n[PRÓ...",
       "source_id": "159fb6b5-2a38-4bea-a5d4-2ae3de99f334",
       "source_title": "COF Extracurricular — Princípios e métodos da auto-educação.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_687_principios_metodos.m4a",
+      "tamanho_bytes": 43846161
     },
     {
       "arquivo": "cof_688_ser_poder.m4a",
@@ -13068,7 +13070,9 @@
       "focus_preview": "[ID]: extra-ser-e-poder-princ-pios-e-m-todos-da-ci-n-aula-01\n[CATEGORIA]: Extracurricular\n[FORMATO]: The Debate\n[POSIÇÃO MESTRA]: 688/781\n[ANTERIOR]: extra-princ-pios-e-m-todos-da-auto-educa-o-aula-06...",
       "source_id": "1fc45737-fc9f-48ee-a8f9-63de2d43a4f1",
       "source_title": "COF Extracurricular — Ser e Poder Princípios e Métodos da Ciência Política.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_688_ser_poder.m4a",
+      "tamanho_bytes": 53708425
     },
     {
       "arquivo": "cof_689_ser_poder.m4a",
@@ -13085,7 +13089,9 @@
       "focus_preview": "[ID]: extra-ser-e-poder-princ-pios-e-m-todos-da-ci-n-aula-02\n[CATEGORIA]: Extracurricular\n[FORMATO]: The Debate\n[POSIÇÃO MESTRA]: 689/781\n[ANTERIOR]: extra-ser-e-poder-princ-pios-e-m-todos-da-ci-n-aul...",
       "source_id": "1fc45737-fc9f-48ee-a8f9-63de2d43a4f1",
       "source_title": "COF Extracurricular — Ser e Poder Princípios e Métodos da Ciência Política.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_689_ser_poder.m4a",
+      "tamanho_bytes": 55652915
     },
     {
       "arquivo": "cof_690_ser_poder.m4a",
@@ -13102,7 +13108,9 @@
       "focus_preview": "[ID]: extra-ser-e-poder-princ-pios-e-m-todos-da-ci-n-aula-03\n[CATEGORIA]: Extracurricular\n[FORMATO]: The Debate\n[POSIÇÃO MESTRA]: 690/781\n[ANTERIOR]: extra-ser-e-poder-princ-pios-e-m-todos-da-ci-n-aul...",
       "source_id": "1fc45737-fc9f-48ee-a8f9-63de2d43a4f1",
       "source_title": "COF Extracurricular — Ser e Poder Princípios e Métodos da Ciência Política.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_690_ser_poder.m4a",
+      "tamanho_bytes": 46082113
     },
     {
       "arquivo": "cof_691_ser_poder.m4a",
@@ -13119,7 +13127,9 @@
       "focus_preview": "[ID]: extra-ser-e-poder-princ-pios-e-m-todos-da-ci-n-aula-04\n[CATEGORIA]: Extracurricular\n[FORMATO]: The Debate\n[POSIÇÃO MESTRA]: 691/781\n[ANTERIOR]: extra-ser-e-poder-princ-pios-e-m-todos-da-ci-n-aul...",
       "source_id": "1fc45737-fc9f-48ee-a8f9-63de2d43a4f1",
       "source_title": "COF Extracurricular — Ser e Poder Princípios e Métodos da Ciência Política.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_691_ser_poder.m4a",
+      "tamanho_bytes": 48023615
     },
     {
       "arquivo": "cof_692_ser_poder.m4a",
@@ -13136,7 +13146,9 @@
       "focus_preview": "[ID]: extra-ser-e-poder-princ-pios-e-m-todos-da-ci-n-aula-05\n[CATEGORIA]: Extracurricular\n[FORMATO]: The Debate\n[POSIÇÃO MESTRA]: 692/781\n[ANTERIOR]: extra-ser-e-poder-princ-pios-e-m-todos-da-ci-n-aul...",
       "source_id": "1fc45737-fc9f-48ee-a8f9-63de2d43a4f1",
       "source_title": "COF Extracurricular — Ser e Poder Princípios e Métodos da Ciência Política.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_692_ser_poder.m4a",
+      "tamanho_bytes": 78459274
     },
     {
       "arquivo": "cof_693_simbolismo_ordem.m4a",
@@ -13146,8 +13158,8 @@
       "titulo_completo": "Simbolismo e ordem cósmica ontem e hoje — Aula 01",
       "audio_format": "Deep Dive",
       "nlm_format": "deep_dive",
-      "artifact_id": "5586cab5-9afd-462e-bf65-5464549cbdba",
-      "data_geracao": "2026-06-21T22:35:00.399783",
+      "artifact_id": "e091f656-2e6f-4fe7-bf01-790f0477ca22",
+      "data_geracao": "2026-06-23T00:19:59.820041",
       "prompt_filename": "extra-simbolismo-e-ordem-c-smica-ontem-e-hoje-aula-01.md",
       "prompt_chars": 2196,
       "focus_preview": "[ID]: extra-simbolismo-e-ordem-c-smica-ontem-e-hoje-aula-01\n[CATEGORIA]: Extracurricular\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 693/781\n[ANTERIOR]: extra-ser-e-poder-princ-pios-e-m-todos-da-ci-n-aula-...",
@@ -13170,7 +13182,9 @@
       "focus_preview": "[ID]: extra-simbolismo-e-ordem-c-smica-ontem-e-hoje-aula-02\n[CATEGORIA]: Extracurricular\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 694/781\n[ANTERIOR]: extra-simbolismo-e-ordem-c-smica-ontem-e-hoje-aula-0...",
       "source_id": "7dcf2d62-df58-4df2-9924-b21fec5ab659",
       "source_title": "COF Extracurricular — Simbolismo e ordem cósmica ontem e hoje.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_694_simbolismo_ordem.m4a",
+      "tamanho_bytes": 54107460
     },
     {
       "arquivo": "cof_695_simbolismo_ordem.m4a",
@@ -13187,7 +13201,9 @@
       "focus_preview": "[ID]: extra-simbolismo-e-ordem-c-smica-ontem-e-hoje-aula-03\n[CATEGORIA]: Extracurricular\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 695/781\n[ANTERIOR]: extra-simbolismo-e-ordem-c-smica-ontem-e-hoje-aula-0...",
       "source_id": "7dcf2d62-df58-4df2-9924-b21fec5ab659",
       "source_title": "COF Extracurricular — Simbolismo e ordem cósmica ontem e hoje.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_695_simbolismo_ordem.m4a",
+      "tamanho_bytes": 33223927
     },
     {
       "arquivo": "cof_696_simbolismo_ordem.m4a",
@@ -13204,7 +13220,9 @@
       "focus_preview": "[ID]: extra-simbolismo-e-ordem-c-smica-ontem-e-hoje-aula-04\n[CATEGORIA]: Extracurricular\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 696/781\n[ANTERIOR]: extra-simbolismo-e-ordem-c-smica-ontem-e-hoje-aula-0...",
       "source_id": "7dcf2d62-df58-4df2-9924-b21fec5ab659",
       "source_title": "COF Extracurricular — Simbolismo e ordem cósmica ontem e hoje.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_696_simbolismo_ordem.m4a",
+      "tamanho_bytes": 52925928
     },
     {
       "arquivo": "cof_697_simbolismo_ordem.m4a",
@@ -13221,7 +13239,9 @@
       "focus_preview": "[ID]: extra-simbolismo-e-ordem-c-smica-ontem-e-hoje-aula-05\n[CATEGORIA]: Extracurricular\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 697/781\n[ANTERIOR]: extra-simbolismo-e-ordem-c-smica-ontem-e-hoje-aula-0...",
       "source_id": "7dcf2d62-df58-4df2-9924-b21fec5ab659",
       "source_title": "COF Extracurricular — Simbolismo e ordem cósmica ontem e hoje.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_697_simbolismo_ordem.m4a",
+      "tamanho_bytes": 42253642
     },
     {
       "arquivo": "cof_698_sociologia_filosofia.m4a",
@@ -13238,7 +13258,9 @@
       "focus_preview": "[ID]: extra-sociologia-da-filosofia-aula-01\n[CATEGORIA]: Extracurricular\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 698/781\n[ANTERIOR]: extra-simbolismo-e-ordem-c-smica-ontem-e-hoje-aula-05\n[PRÓXIMA]: ext...",
       "source_id": "a20572c0-f93a-499b-b4f1-fe1b911c42f0",
       "source_title": "COF Extracurricular — Sociologia da filosofia.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_698_sociologia_filosofia.m4a",
+      "tamanho_bytes": 36827423
     },
     {
       "arquivo": "cof_699_sociologia_filosofia.m4a",
@@ -13255,7 +13277,9 @@
       "focus_preview": "[ID]: extra-sociologia-da-filosofia-aula-02\n[CATEGORIA]: Extracurricular\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 699/781\n[ANTERIOR]: extra-sociologia-da-filosofia-aula-01\n[PRÓXIMA]: extra-sociologia-da...",
       "source_id": "a20572c0-f93a-499b-b4f1-fe1b911c42f0",
       "source_title": "COF Extracurricular — Sociologia da filosofia.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_699_sociologia_filosofia.m4a",
+      "tamanho_bytes": 33841960
     },
     {
       "arquivo": "cof_700_sociologia_filosofia.m4a",
@@ -13272,7 +13296,9 @@
       "focus_preview": "[ID]: extra-sociologia-da-filosofia-aula-03\n[CATEGORIA]: Extracurricular\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 700/781\n[ANTERIOR]: extra-sociologia-da-filosofia-aula-02\n[PRÓXIMA]: extra-sociologia-da...",
       "source_id": "a20572c0-f93a-499b-b4f1-fe1b911c42f0",
       "source_title": "COF Extracurricular — Sociologia da filosofia.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_700_sociologia_filosofia.m4a",
+      "tamanho_bytes": 33116354
     },
     {
       "arquivo": "cof_701_sociologia_filosofia.m4a",
@@ -13289,7 +13315,9 @@
       "focus_preview": "[ID]: extra-sociologia-da-filosofia-aula-04\n[CATEGORIA]: Extracurricular\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 701/781\n[ANTERIOR]: extra-sociologia-da-filosofia-aula-03\n[PRÓXIMA]: extra-sociologia-da...",
       "source_id": "a20572c0-f93a-499b-b4f1-fe1b911c42f0",
       "source_title": "COF Extracurricular — Sociologia da filosofia.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_701_sociologia_filosofia.m4a",
+      "tamanho_bytes": 52031374
     },
     {
       "arquivo": "cof_702_sociologia_filosofia.m4a",
@@ -13306,7 +13334,9 @@
       "focus_preview": "[ID]: extra-sociologia-da-filosofia-aula-05\n[CATEGORIA]: Extracurricular\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 702/781\n[ANTERIOR]: extra-sociologia-da-filosofia-aula-04\n[PRÓXIMA]: extra-sociologia-da...",
       "source_id": "a20572c0-f93a-499b-b4f1-fe1b911c42f0",
       "source_title": "COF Extracurricular — Sociologia da filosofia.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_702_sociologia_filosofia.m4a",
+      "tamanho_bytes": 48976437
     },
     {
       "arquivo": "cof_703_sociologia_filosofia.m4a",
@@ -13323,7 +13353,9 @@
       "focus_preview": "[ID]: extra-sociologia-da-filosofia-aula-06\n[CATEGORIA]: Extracurricular\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 703/781\n[ANTERIOR]: extra-sociologia-da-filosofia-aula-05\n[PRÓXIMA]: — (última da catego...",
       "source_id": "a20572c0-f93a-499b-b4f1-fe1b911c42f0",
       "source_title": "COF Extracurricular — Sociologia da filosofia.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_703_sociologia_filosofia.m4a",
+      "tamanho_bytes": 42456953
     },
     {
       "arquivo": "cof_704_vontade.m4a",
@@ -13340,7 +13372,9 @@
       "focus_preview": "[ID]: livro-a-aula-da-vontade\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 704/781\n[ANTERIOR]: — (primeira da categoria)\n[PRÓXIMA]: livro-a-consci-ncia-da-consci-ncia-olavo-de-carvalho\n\nI...",
       "source_id": "b846fa20-f5f2-4cc2-84ed-4d5345d9b108",
       "source_title": "A aula da Vontade.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_704_vontade.m4a",
+      "tamanho_bytes": 3774707
     },
     {
       "arquivo": "cof_705_consciencia_consciencia.m4a",
@@ -13357,9 +13391,334 @@
       "focus_preview": "[ID]: livro-a-consci-ncia-da-consci-ncia-olavo-de-carvalho\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 705/781\n[ANTERIOR]: livro-a-aula-da-vontade\n[PRÓXIMA]: livro-a-consci-ncia-sem-cons...",
       "source_id": "f3666431-98e7-4a22-be21-a498edd17bc3",
       "source_title": "A consciência da consciência - Olavo de Carvalho.md",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_705_consciencia_consciencia.m4a",
+      "tamanho_bytes": 4096797
+    },
+    {
+      "arquivo": "cof_706_consciencia_sem.m4a",
+      "cena_numero": 706,
+      "slug": "livro-a-consci-ncia-sem-consci-ncia-oiavo-de-carvalho",
+      "kind": "livro",
+      "titulo_completo": "A consciência sem consciência - OIavo de Carvalho",
+      "audio_format": "The Brief",
+      "nlm_format": "brief",
+      "artifact_id": "8f27d019-495d-40f0-a2d0-ef5433515b93",
+      "data_geracao": "2026-06-23T00:22:09.965133",
+      "prompt_filename": "livro-a-consci-ncia-sem-consci-ncia-oiavo-de-carvalho.md",
+      "prompt_chars": 2033,
+      "focus_preview": "[ID]: livro-a-consci-ncia-sem-consci-ncia-oiavo-de-carvalho\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 706/781\n[ANTERIOR]: livro-a-consci-ncia-da-consci-ncia-olavo-de-carvalho\n[PRÓXIMA]...",
+      "source_id": "de1e8e62-dabd-4630-9dfe-98c8e19e410e",
+      "source_title": "A consciência sem consciência - OIavo de Carvalho.md",
+      "status": "created"
+    },
+    {
+      "arquivo": "cof_707_criminalidade_ascensao.m4a",
+      "cena_numero": 707,
+      "slug": "livro-a-criminalidade-em-ascens-o-uma-vis-o-civilizacion",
+      "kind": "livro",
+      "titulo_completo": "A Criminalidade em Ascensão uma Visão Civilizacional",
+      "audio_format": "Deep Dive",
+      "nlm_format": "deep_dive",
+      "artifact_id": "8f5f1378-6e75-40b8-8253-505967956724",
+      "data_geracao": "2026-06-23T00:24:20.269388",
+      "prompt_filename": "livro-a-criminalidade-em-ascens-o-uma-vis-o-civilizacion.md",
+      "prompt_chars": 2114,
+      "focus_preview": "[ID]: livro-a-criminalidade-em-ascens-o-uma-vis-o-civilizacion\n[CATEGORIA]: Livro\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 707/781\n[ANTERIOR]: livro-a-consci-ncia-sem-consci-ncia-oiavo-de-carvalho\n[PRÓX...",
+      "source_id": "d9680801-9141-465f-a6f1-2baeb95f1cef",
+      "source_title": "A Criminalidade em Ascensão uma Visão Civilizacional.md.md",
+      "status": "created"
+    },
+    {
+      "arquivo": "cof_708_depreciacao_humanidade.m4a",
+      "cena_numero": 708,
+      "slug": "livro-a-deprecia-o-da-humanidade",
+      "kind": "livro",
+      "titulo_completo": "A depreciação da humanidade",
+      "audio_format": "The Brief",
+      "nlm_format": "brief",
+      "artifact_id": "6078a411-0429-404b-b01b-c9974ca3a365",
+      "data_geracao": "2026-06-23T00:26:31.104313",
+      "prompt_filename": "livro-a-deprecia-o-da-humanidade.md",
+      "prompt_chars": 1976,
+      "focus_preview": "[ID]: livro-a-deprecia-o-da-humanidade\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 708/781\n[ANTERIOR]: livro-a-criminalidade-em-ascens-o-uma-vis-o-civilizacion\n[PRÓXIMA]: livro-a-filosof...",
+      "source_id": "35b375d7-3b3a-4982-b75e-45811cd37277",
+      "source_title": "A depreciação da humanidade.md.md",
+      "status": "created"
+    },
+    {
+      "arquivo": "cof_709_filosofia_mario.m4a",
+      "cena_numero": 709,
+      "slug": "livro-a-filosofia-de-m-rio-ferreira-dos-santos",
+      "kind": "livro",
+      "titulo_completo": "A filosofia de Mário Ferreira dos Santos",
+      "audio_format": "The Debate",
+      "nlm_format": "debate",
+      "artifact_id": "421da95a-4079-44b9-aa08-3bf43deee576",
+      "data_geracao": "2026-06-23T00:28:41.268642",
+      "prompt_filename": "livro-a-filosofia-de-m-rio-ferreira-dos-santos.md",
+      "prompt_chars": 2032,
+      "focus_preview": "[ID]: livro-a-filosofia-de-m-rio-ferreira-dos-santos\n[CATEGORIA]: Livro\n[FORMATO]: The Debate\n[POSIÇÃO MESTRA]: 709/781\n[ANTERIOR]: livro-a-deprecia-o-da-humanidade\n[PRÓXIMA]: livro-a-imortalidade-com...",
+      "source_id": "deb6afe9-b011-4502-9a32-809eb0f2c7c8",
+      "source_title": "A filosofia de Mário Ferreira dos Santos.md.md",
+      "status": "created"
+    },
+    {
+      "arquivo": "cof_710_imortalidade_como.m4a",
+      "cena_numero": 710,
+      "slug": "livro-a-imortalidade-como-premissa-do-m-todo-filos-fico",
+      "kind": "livro",
+      "titulo_completo": "A imortalidade como premissa do método filosófico",
+      "audio_format": "The Brief",
+      "nlm_format": "brief",
+      "artifact_id": "3db98bb5-4234-4879-b463-aaafe057b9a8",
+      "data_geracao": "2026-06-23T00:30:51.660593",
+      "prompt_filename": "livro-a-imortalidade-como-premissa-do-m-todo-filos-fico.md",
+      "prompt_chars": 1963,
+      "focus_preview": "[ID]: livro-a-imortalidade-como-premissa-do-m-todo-filos-fico\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 710/781\n[ANTERIOR]: livro-a-filosofia-de-m-rio-ferreira-dos-santos\n[PRÓXIMA]: li...",
+      "source_id": "8a62324e-f358-4f02-baa2-362cf69fd763",
+      "source_title": "A imortalidade como premissa do método filosófico.md.md",
+      "status": "created"
+    },
+    {
+      "arquivo": "cof_711_leitura_hermeneutica.m4a",
+      "cena_numero": 711,
+      "slug": "livro-a-leitura-hermen-utica",
+      "kind": "livro",
+      "titulo_completo": "A leitura Hermenêutica",
+      "audio_format": "The Brief",
+      "nlm_format": "brief",
+      "artifact_id": "e5cd6e7b-d8bf-499e-a16c-9e157ad8714c",
+      "data_geracao": "2026-06-23T00:33:02.190716",
+      "prompt_filename": "livro-a-leitura-hermen-utica.md",
+      "prompt_chars": 1976,
+      "focus_preview": "[ID]: livro-a-leitura-hermen-utica\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 711/781\n[ANTERIOR]: livro-a-imortalidade-como-premissa-do-m-todo-filos-fico\n[PRÓXIMA]: livro-a-nova-era-e-a...",
+      "source_id": "4ac52ac3-8d72-42f9-9eed-9942fffbac9f",
+      "source_title": "A leitura Hermenêutica.md.md",
+      "status": "created"
+    },
+    {
+      "arquivo": "cof_712_nova_era.m4a",
+      "cena_numero": 712,
+      "slug": "livro-a-nova-era-e-a-revolu-o-cultural",
+      "kind": "livro",
+      "titulo_completo": "A Nova era e a revolução cultural",
+      "audio_format": "Deep Dive",
+      "nlm_format": "deep_dive",
+      "artifact_id": "c83d545d-43b6-4feb-a1ed-2ab3f30133e9",
+      "data_geracao": "2026-06-23T00:35:12.937980",
+      "prompt_filename": "livro-a-nova-era-e-a-revolu-o-cultural.md",
+      "prompt_chars": 2017,
+      "focus_preview": "[ID]: livro-a-nova-era-e-a-revolu-o-cultural\n[CATEGORIA]: Livro\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 712/781\n[ANTERIOR]: livro-a-leitura-hermen-utica\n[PRÓXIMA]: livro-a-organiza-o-econ-mica\n\nINSTRUÇ...",
+      "source_id": "1c22650a-3ed6-4363-a0d7-59620a27ec84",
+      "source_title": "A Nova era e a revolução cultural.md.md",
+      "status": "created"
+    },
+    {
+      "arquivo": "cof_713_organizacao_economica.m4a",
+      "cena_numero": 713,
+      "slug": "livro-a-organiza-o-econ-mica",
+      "kind": "livro",
+      "titulo_completo": "A Organização Econômica",
+      "audio_format": "The Brief",
+      "nlm_format": "brief",
+      "artifact_id": "fb76dda7-8817-4a26-9c61-39289c7f0faf",
+      "data_geracao": "2026-06-23T00:37:23.181484",
+      "prompt_filename": "livro-a-organiza-o-econ-mica.md",
+      "prompt_chars": 1884,
+      "focus_preview": "[ID]: livro-a-organiza-o-econ-mica\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 713/781\n[ANTERIOR]: livro-a-nova-era-e-a-revolu-o-cultural\n[PRÓXIMA]: livro-a-tripla-intui-o\n\nINSTRUÇÕES PA...",
+      "source_id": "60a92efe-1532-4228-ac08-99ee388e3566",
+      "source_title": "A Organização Econômica.md.md",
+      "status": "created"
+    },
+    {
+      "arquivo": "cof_714_tripla_intuicao.m4a",
+      "cena_numero": 714,
+      "slug": "livro-a-tripla-intui-o",
+      "kind": "livro",
+      "titulo_completo": "A tripla intuição",
+      "audio_format": "Deep Dive",
+      "nlm_format": "deep_dive",
+      "artifact_id": "ef4aec66-fd5e-4e81-bd6a-31ac916bbb22",
+      "data_geracao": "2026-06-23T00:39:33.503416",
+      "prompt_filename": "livro-a-tripla-intui-o.md",
+      "prompt_chars": 2055,
+      "focus_preview": "[ID]: livro-a-tripla-intui-o\n[CATEGORIA]: Livro\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 714/781\n[ANTERIOR]: livro-a-organiza-o-econ-mica\n[PRÓXIMA]: livro-apresenta-o-do-livro-reflex-es-autobiogr-ficas-...",
+      "source_id": "7fc0de2a-dd47-4dbf-9642-4092c554de65",
+      "source_title": "A tripla intuição.md.md",
+      "status": "created"
+    },
+    {
+      "arquivo": "cof_715_apresentacao_livro.m4a",
+      "cena_numero": 715,
+      "slug": "livro-apresenta-o-do-livro-reflex-es-autobiogr-ficas-de",
+      "kind": "livro",
+      "titulo_completo": "Apresentação do livro Reflexões Autobiográficas_ de Eric Voegelin",
+      "audio_format": "The Brief",
+      "nlm_format": "brief",
+      "artifact_id": "116e4083-3d24-4d2f-a235-0044cf9d4b0d",
+      "data_geracao": "2026-06-23T00:41:44.012768",
+      "prompt_filename": "livro-apresenta-o-do-livro-reflex-es-autobiogr-ficas-de.md",
+      "prompt_chars": 1945,
+      "focus_preview": "[ID]: livro-apresenta-o-do-livro-reflex-es-autobiogr-ficas-de\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 715/781\n[ANTERIOR]: livro-a-tripla-intui-o\n[PRÓXIMA]: livro-arte-sacra-estudipez...",
+      "source_id": "b5ae1aad-9073-4ec6-9e2c-29e0636f37bf",
+      "source_title": "Apresentação do livro Reflexões Autobiográficas_ de Eric Voegelin.md.md",
+      "status": "created"
+    },
+    {
+      "arquivo": "cof_716_arte_sacra_.m4a",
+      "cena_numero": 716,
+      "slug": "livro-arte-sacra-estudipez-profana",
+      "kind": "livro",
+      "titulo_completo": "Arte sacra_ estudipez profana",
+      "audio_format": "The Brief",
+      "nlm_format": "brief",
+      "artifact_id": "dfaabe13-07ce-4ffc-905c-13214ed34acd",
+      "data_geracao": "2026-06-23T00:43:54.337699",
+      "prompt_filename": "livro-arte-sacra-estudipez-profana.md",
+      "prompt_chars": 1976,
+      "focus_preview": "[ID]: livro-arte-sacra-estudipez-profana\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 716/781\n[ANTERIOR]: livro-apresenta-o-do-livro-reflex-es-autobiogr-ficas-de\n[PRÓXIMA]: livro-as-doze-...",
+      "source_id": "54e3d53a-928c-45c1-9b31-026863acfbc5",
+      "source_title": "Arte sacra_ estudipez profana.md.md",
+      "status": "created"
+    },
+    {
+      "arquivo": "cof_717_doze_camadas.m4a",
+      "cena_numero": 717,
+      "slug": "livro-as-doze-camadas-da-personalidade",
+      "kind": "livro",
+      "titulo_completo": "As doze camadas da personalidade",
+      "audio_format": "The Brief",
+      "nlm_format": "brief",
+      "artifact_id": "f8839098-e490-4bb8-b47a-854733acf42c",
+      "data_geracao": "2026-06-23T00:46:04.684840",
+      "prompt_filename": "livro-as-doze-camadas-da-personalidade.md",
+      "prompt_chars": 1974,
+      "focus_preview": "[ID]: livro-as-doze-camadas-da-personalidade\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 717/781\n[ANTERIOR]: livro-arte-sacra-estudipez-profana\n[PRÓXIMA]: livro-como-estudar-a-obra-de-ol...",
+      "source_id": "a4db5cdd-4eb2-4255-bdd1-6ef474d47d2c",
+      "source_title": "As doze camadas da personalidade.md.md",
+      "status": "created"
+    },
+    {
+      "arquivo": "cof_718_como_estudar.m4a",
+      "cena_numero": 718,
+      "slug": "livro-como-estudar-a-obra-de-olavo-de-carvalho",
+      "kind": "livro",
+      "titulo_completo": "Como estudar a obra de Olavo de Carvalho",
+      "audio_format": "Deep Dive",
+      "nlm_format": "deep_dive",
+      "artifact_id": "8e98aca1-23d3-41d7-8ca6-725c0bc9eb2b",
+      "data_geracao": "2026-06-23T00:48:14.870013",
+      "prompt_filename": "livro-como-estudar-a-obra-de-olavo-de-carvalho.md",
+      "prompt_chars": 2083,
+      "focus_preview": "[ID]: livro-como-estudar-a-obra-de-olavo-de-carvalho\n[CATEGORIA]: Livro\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 718/781\n[ANTERIOR]: livro-as-doze-camadas-da-personalidade\n[PRÓXIMA]: livro-como-tornar-s...",
+      "source_id": "ec1286f1-1893-4589-a5b7-bd86f1349f15",
+      "source_title": "Como estudar a obra de Olavo de Carvalho.md",
+      "status": "created"
+    },
+    {
+      "arquivo": "cof_719_como_tornar.m4a",
+      "cena_numero": 719,
+      "slug": "livro-como-tornar-se-um-gostos-o-intelectual",
+      "kind": "livro",
+      "titulo_completo": "Como tornar-se um gostosão intelectual",
+      "audio_format": "The Brief",
+      "nlm_format": "brief",
+      "artifact_id": "a092df83-54ec-455f-b8bf-4db099cc894a",
+      "data_geracao": "2026-06-23T00:50:24.487972",
+      "prompt_filename": "livro-como-tornar-se-um-gostos-o-intelectual.md",
+      "prompt_chars": 2023,
+      "focus_preview": "[ID]: livro-como-tornar-se-um-gostos-o-intelectual\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 719/781\n[ANTERIOR]: livro-como-estudar-a-obra-de-olavo-de-carvalho\n[PRÓXIMA]: livro-como-to...",
+      "source_id": "be3a52e9-495c-4d9b-b635-af02afe7fe97",
+      "source_title": "Como tornar-se um gostosão intelectual.md.md",
+      "status": "created"
+    },
+    {
+      "arquivo": "cof_720_como_tornar_.m4a",
+      "cena_numero": 720,
+      "slug": "livro-como-tornar-se-um-buscador-da-verdade-introdu-o-ze",
+      "kind": "livro",
+      "titulo_completo": "Como tornar_-se um buscador da verdade _Introdução à Zetologia",
+      "audio_format": "The Brief",
+      "nlm_format": "brief",
+      "artifact_id": "6979be69-e80d-45f3-a882-f287356b10e3",
+      "data_geracao": "2026-06-23T00:52:34.738368",
+      "prompt_filename": "livro-como-tornar-se-um-buscador-da-verdade-introdu-o-ze.md",
+      "prompt_chars": 2003,
+      "focus_preview": "[ID]: livro-como-tornar-se-um-buscador-da-verdade-introdu-o-ze\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 720/781\n[ANTERIOR]: livro-como-tornar-se-um-gostos-o-intelectual\n[PRÓXIMA]: liv...",
+      "source_id": "b47777b7-5841-4c5b-bee4-6169b93d8aaa",
+      "source_title": "Como tornar_-se um buscador da verdade _Introdução à Zetologia.md.md",
+      "status": "created"
+    },
+    {
+      "arquivo": "cof_721_conselhos_aos.m4a",
+      "cena_numero": 721,
+      "slug": "livro-conselhos-aos-estudantes-de-filosofia",
+      "kind": "livro",
+      "titulo_completo": "Conselhos aos Estudantes de Filosofia",
+      "audio_format": "The Brief",
+      "nlm_format": "brief",
+      "artifact_id": "4293ae22-9b43-4730-be29-f759d473125a",
+      "data_geracao": "2026-06-23T00:54:45.119009",
+      "prompt_filename": "livro-conselhos-aos-estudantes-de-filosofia.md",
+      "prompt_chars": 2014,
+      "focus_preview": "[ID]: livro-conselhos-aos-estudantes-de-filosofia\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 721/781\n[ANTERIOR]: livro-como-tornar-se-um-buscador-da-verdade-introdu-o-ze\n[PRÓXIMA]: livr...",
+      "source_id": "0e1d3114-10ed-4221-8b6f-5f910ea74a48",
+      "source_title": "Conselhos aos Estudantes de Filosofia.md.md",
+      "status": "created"
+    },
+    {
+      "arquivo": "cof_722_consideracoes_sobre.m4a",
+      "cena_numero": 722,
+      "slug": "livro-considera-es-sobre-o-semin-rio-de-filosofia",
+      "kind": "livro",
+      "titulo_completo": "Considerações sobre o Seminário de Filosofia",
+      "audio_format": "Deep Dive",
+      "nlm_format": "deep_dive",
+      "artifact_id": "01caa884-ccdc-4f3d-9647-2e7b90147737",
+      "data_geracao": "2026-06-23T00:56:55.161506",
+      "prompt_filename": "livro-considera-es-sobre-o-semin-rio-de-filosofia.md",
+      "prompt_chars": 2056,
+      "focus_preview": "[ID]: livro-considera-es-sobre-o-semin-rio-de-filosofia\n[CATEGORIA]: Livro\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 722/781\n[ANTERIOR]: livro-conselhos-aos-estudantes-de-filosofia\n[PRÓXIMA]: livro-cren-...",
+      "source_id": "125d2eed-d126-40df-9306-9ddc8a149f64",
+      "source_title": "Considerações sobre o Seminário de Filosofia.md.md",
+      "status": "created"
+    },
+    {
+      "arquivo": "cof_723_crenca_sistema.m4a",
+      "cena_numero": 723,
+      "slug": "livro-cren-a-e-sistema",
+      "kind": "livro",
+      "titulo_completo": "Crença e sistema",
+      "audio_format": "The Brief",
+      "nlm_format": "brief",
+      "artifact_id": "3ebcb982-51a1-4088-8ae2-b4a68db1d831",
+      "data_geracao": "2026-06-23T00:59:05.622024",
+      "prompt_filename": "livro-cren-a-e-sistema.md",
+      "prompt_chars": 1958,
+      "focus_preview": "[ID]: livro-cren-a-e-sistema\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 723/781\n[ANTERIOR]: livro-considera-es-sobre-o-semin-rio-de-filosofia\n[PRÓXIMA]: livro-debate-entre-alexandre-dug...",
+      "source_id": "49deda2d-b6d4-4192-b30f-50d89a6c97dc",
+      "source_title": "Crença e sistema.md.md",
+      "status": "created"
+    },
+    {
+      "arquivo": "cof_724_debate_alexandre.m4a",
+      "cena_numero": 724,
+      "slug": "livro-debate-entre-alexandre-duguin-e-olavo-de-carvalho",
+      "kind": "livro",
+      "titulo_completo": "Debate entre Alexandre Duguin e Olavo de Carvalho",
+      "audio_format": "The Critique",
+      "nlm_format": "critique",
+      "artifact_id": "ba08f71c-d274-4b02-9498-8111a2f6996c",
+      "data_geracao": "2026-06-23T01:01:15.580303",
+      "prompt_filename": "livro-debate-entre-alexandre-duguin-e-olavo-de-carvalho.md",
+      "prompt_chars": 2031,
+      "focus_preview": "[ID]: livro-debate-entre-alexandre-duguin-e-olavo-de-carvalho\n[CATEGORIA]: Livro\n[FORMATO]: The Critique\n[POSIÇÃO MESTRA]: 724/781\n[ANTERIOR]: livro-cren-a-e-sistema\n[PRÓXIMA]: livro-dedu-es-metaf-sic...",
+      "source_id": "24c04176-312e-4135-8a02-cbc7c084c47d",
+      "source_title": "Debate entre Alexandre Duguin e Olavo de Carvalho.md.md",
       "status": "created"
     }
   ],
-  "total_itens_processados": 705,
-  "ultima_atualizacao": "2026-06-21T23:01:39.314535"
+  "total_itens_processados": 724,
+  "ultima_atualizacao": "2026-06-23T01:01:15.589081"
 }
