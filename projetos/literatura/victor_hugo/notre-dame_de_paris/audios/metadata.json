@@ -1841,7 +1841,9 @@
       "prompt_chars": 3166,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_111_l08_c02_fin_de_lcu_chang_en_feuille_sche.m4a",
+      "tamanho_bytes": 13911250
     },
     {
       "seq_global": 112,
@@ -1856,7 +1858,9 @@
       "prompt_chars": 3140,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_112_l08_c02_fin_de_lcu_chang_en_feuille_sche.m4a",
+      "tamanho_bytes": 27207316
     },
     {
       "seq_global": 113,
@@ -1871,9 +1875,56 @@
       "prompt_chars": 4266,
       "language": "fr-FR",
       "audio_format": "deep_dive",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_113_l08_c02_fin_de_lcu_chang_en_feuille_sche.m4a",
+      "tamanho_bytes": 18014000
+    },
+    {
+      "seq_global": 114,
+      "scene_identifier": "L08-C03-LASCIATE_OGNI_SPERANZAI_cena001",
+      "cena_filename": "L08-C03-LASCIATE_OGNI_SPERANZAI_cena001.md",
+      "prompt_filename": "L08-C03-LASCIATE_OGNI_SPERANZAI_prompt001.md",
+      "arquivo": "notredame_114_l08_c03_lasciate_ogni_speranzai_cena001.m4a",
+      "artifact_id": "109d57f5-3b7d-47bf-b0c0-eddaffaddf8c",
+      "source_id": "56f8bc15-56ec-4452-81e2-9480df364e89",
+      "book_id": "L08-C03-LASCIATE_OGNI_SPERANZAI",
+      "data_geracao": "2026-06-24T08:11:10.035149",
+      "prompt_chars": 4133,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 115,
+      "scene_identifier": "L08-C03-LASCIATE_OGNI_SPERANZAI_cena002",
+      "cena_filename": "L08-C03-LASCIATE_OGNI_SPERANZAI_cena002.md",
+      "prompt_filename": "L08-C03-LASCIATE_OGNI_SPERANZAI_prompt002.md",
+      "arquivo": "notredame_115_l08_c03_lasciate_ogni_speranzai_cena002.m4a",
+      "artifact_id": "b4de9f27-27c7-4fad-9484-33a83318373f",
+      "source_id": "56f8bc15-56ec-4452-81e2-9480df364e89",
+      "book_id": "L08-C03-LASCIATE_OGNI_SPERANZAI",
+      "data_geracao": "2026-06-24T08:13:19.856363",
+      "prompt_chars": 3091,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 116,
+      "scene_identifier": "L08-C03-LASCIATE_OGNI_SPERANZAI_cena003",
+      "cena_filename": "L08-C03-LASCIATE_OGNI_SPERANZAI_cena003.md",
+      "prompt_filename": "L08-C03-LASCIATE_OGNI_SPERANZAI_prompt003.md",
+      "arquivo": "notredame_116_l08_c03_lasciate_ogni_speranzai_cena003.m4a",
+      "artifact_id": "180fd65c-ff95-4536-87f9-ce0d56c6a57c",
+      "source_id": "56f8bc15-56ec-4452-81e2-9480df364e89",
+      "book_id": "L08-C03-LASCIATE_OGNI_SPERANZAI",
+      "data_geracao": "2026-06-24T08:15:30.037705",
+      "prompt_chars": 3440,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
       "status": "created"
     }
   ],
-  "total_itens_processados": 113,
-  "ultima_atualizacao": "2026-06-23T08:15:45.557490"
+  "total_itens_processados": 116,
+  "ultima_atualizacao": "2026-06-24T08:15:30.039836"
 }
