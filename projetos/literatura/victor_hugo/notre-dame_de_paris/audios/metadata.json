@@ -1943,7 +1943,9 @@
       "prompt_chars": 3960,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_117_l08_c03_lasciate_ogni_speranzai_cena004.m4a",
+      "tamanho_bytes": 23150999
     },
     {
       "seq_global": 118,
@@ -1958,7 +1960,9 @@
       "prompt_chars": 3467,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_118_l08_c03_lasciate_ogni_speranzai_cena005.m4a",
+      "tamanho_bytes": 40140952
     },
     {
       "seq_global": 119,
@@ -1973,9 +1977,56 @@
       "prompt_chars": 5224,
       "language": "fr-FR",
       "audio_format": "deep_dive",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_119_l08_c04_la_mre_cena001.m4a",
+      "tamanho_bytes": 23642666
+    },
+    {
+      "seq_global": 120,
+      "scene_identifier": "L08-C04-LA_MRE_cena002",
+      "cena_filename": "L08-C04-LA_MRE_cena002.md",
+      "prompt_filename": "L08-C04-LA_MRE_prompt002.md",
+      "arquivo": "notredame_120_l08_c04_la_mre_cena002.m4a",
+      "artifact_id": "5893b23d-7afd-4cb2-998a-850d60a383ad",
+      "source_id": "2244372a-9e24-49cd-ade9-e0833af5fdf8",
+      "book_id": "L08-C04-LA_MRE",
+      "data_geracao": "2026-06-26T08:12:03.532188",
+      "prompt_chars": 4623,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 121,
+      "scene_identifier": "L08-C04-LA_MRE_cena003",
+      "cena_filename": "L08-C04-LA_MRE_cena003.md",
+      "prompt_filename": "L08-C04-LA_MRE_prompt003.md",
+      "arquivo": "notredame_121_l08_c04_la_mre_cena003.m4a",
+      "artifact_id": "17e5b6d2-471b-4bce-b331-1e45cbe2e0f0",
+      "source_id": "2244372a-9e24-49cd-ade9-e0833af5fdf8",
+      "book_id": "L08-C04-LA_MRE",
+      "data_geracao": "2026-06-26T08:14:23.299817",
+      "prompt_chars": 3686,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 122,
+      "scene_identifier": "L08-C05-TROIS_CURS_DHOMME_FAITS_DIFFREMMENT_cena001",
+      "cena_filename": "L08-C05-TROIS_CURS_DHOMME_FAITS_DIFFREMMENT_cena001.md",
+      "prompt_filename": "L08-C05-TROIS_CURS_DHOMME_FAITS_DIFFREMMENT_prompt001.md",
+      "arquivo": "notredame_122_l08_c05_trois_curs_dhomme_faits_diffremm.m4a",
+      "artifact_id": "b77c5911-ff90-4bcd-a4c1-40bb6a02ccca",
+      "source_id": "bfd3e09b-8d4f-4d69-8fc9-01a3a2b8d134",
+      "book_id": "L08-C05-TROIS_CURS_DHOMME_FAITS_DIFFREMMENT",
+      "data_geracao": "2026-06-26T08:16:43.116706",
+      "prompt_chars": 3432,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
       "status": "created"
     }
   ],
-  "total_itens_processados": 119,
-  "ultima_atualizacao": "2026-06-25T08:16:36.779414"
+  "total_itens_processados": 122,
+  "ultima_atualizacao": "2026-06-26T08:16:43.118759"
 }
