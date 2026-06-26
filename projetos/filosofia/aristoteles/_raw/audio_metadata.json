@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T05:45:54Z",
+  "updated_at": "2026-06-26T09:54:42Z",
   "audios": {
     "05_etica/01_etica_nicomaco/L01-C01_cena01": {
       "artifact_id": "46097252-f46f-41a0-b77f-86b89e4b0945",
@@ -1265,141 +1265,321 @@
       "artifact_id": "53be7e38-0f44-4840-97a7-47e7b7e30ca4",
       "audio_title": "aristoteles_33_l01_c08_cena01_poetica",
       "audio_filename": "aristoteles_33_l01_c08_cena01_poetica.m4a",
-      "status": "created",
-      "created_at": "2026-06-24T05:06:56Z"
+      "status": "downloaded",
+      "created_at": "2026-06-24T05:06:56Z",
+      "downloaded_at": "2026-06-26T09:00:58Z",
+      "bytes": 41779904
     },
     "07_retorica_poetica/02_poetica/L01-C09_cena01": {
       "artifact_id": "e2362712-bfd8-441c-87cd-0f3d995fbb51",
       "audio_title": "aristoteles_33_l01_c09_cena01_poetica",
       "audio_filename": "aristoteles_33_l01_c09_cena01_poetica.m4a",
-      "status": "created",
-      "created_at": "2026-06-24T05:08:59Z"
+      "status": "downloaded",
+      "created_at": "2026-06-24T05:08:59Z",
+      "downloaded_at": "2026-06-26T09:01:37Z",
+      "bytes": 23220473
     },
     "07_retorica_poetica/02_poetica/L01-C10_cena01": {
       "artifact_id": "421a0aed-8335-4366-8c07-537f362c8226",
       "audio_title": "aristoteles_33_l01_c10_cena01_poetica",
       "audio_filename": "aristoteles_33_l01_c10_cena01_poetica.m4a",
-      "status": "created",
-      "created_at": "2026-06-24T05:11:02Z"
+      "status": "downloaded",
+      "created_at": "2026-06-24T05:11:02Z",
+      "downloaded_at": "2026-06-26T09:02:13Z",
+      "bytes": 29166747
     },
     "07_retorica_poetica/02_poetica/L01-C11_cena01": {
       "artifact_id": "39b58dd8-3e8c-451a-8751-5196c56a9cf7",
       "audio_title": "aristoteles_33_l01_c11_cena01_poetica",
       "audio_filename": "aristoteles_33_l01_c11_cena01_poetica.m4a",
-      "status": "created",
-      "created_at": "2026-06-24T05:13:04Z"
+      "status": "downloaded",
+      "created_at": "2026-06-24T05:13:04Z",
+      "downloaded_at": "2026-06-26T09:02:58Z",
+      "bytes": 38004473
     },
     "07_retorica_poetica/02_poetica/L02-C12_cena01": {
       "artifact_id": "647666a9-454d-4049-85a3-716df92f70fa",
       "audio_title": "aristoteles_33_l02_c12_cena01_poetica",
       "audio_filename": "aristoteles_33_l02_c12_cena01_poetica.m4a",
-      "status": "created",
-      "created_at": "2026-06-24T05:15:07Z"
+      "status": "downloaded",
+      "created_at": "2026-06-24T05:15:07Z",
+      "downloaded_at": "2026-06-26T09:03:35Z",
+      "bytes": 41063893
     },
     "07_retorica_poetica/02_poetica/L02-C13_cena01": {
       "artifact_id": "ebc48281-6333-4318-88e3-433d268e6e16",
       "audio_title": "aristoteles_33_l02_c13_cena01_poetica",
       "audio_filename": "aristoteles_33_l02_c13_cena01_poetica.m4a",
-      "status": "created",
-      "created_at": "2026-06-24T05:17:10Z"
+      "status": "downloaded",
+      "created_at": "2026-06-24T05:17:10Z",
+      "downloaded_at": "2026-06-26T09:04:22Z",
+      "bytes": 63780606
     },
     "07_retorica_poetica/02_poetica/L02-C14_cena01": {
       "artifact_id": "4ec3fdfa-a94f-499f-b83b-efbf5ba7f1bc",
       "audio_title": "aristoteles_33_l02_c14_cena01_poetica",
       "audio_filename": "aristoteles_33_l02_c14_cena01_poetica.m4a",
-      "status": "created",
-      "created_at": "2026-06-24T05:19:13Z"
+      "status": "downloaded",
+      "created_at": "2026-06-24T05:19:13Z",
+      "downloaded_at": "2026-06-26T09:05:01Z",
+      "bytes": 32078253
     },
     "07_retorica_poetica/02_poetica/L02-C15_cena01": {
       "artifact_id": "3533cd16-a94f-4985-8556-0d497882cae8",
       "audio_title": "aristoteles_33_l02_c15_cena01_poetica",
       "audio_filename": "aristoteles_33_l02_c15_cena01_poetica.m4a",
-      "status": "created",
-      "created_at": "2026-06-24T05:21:16Z"
+      "status": "downloaded",
+      "created_at": "2026-06-24T05:21:16Z",
+      "downloaded_at": "2026-06-26T09:05:43Z",
+      "bytes": 25954815
     },
     "07_retorica_poetica/02_poetica/L02-C16_cena01": {
       "artifact_id": "1a9db461-f1c6-4256-a772-2416e2255c79",
       "audio_title": "aristoteles_33_l02_c16_cena01_poetica",
       "audio_filename": "aristoteles_33_l02_c16_cena01_poetica.m4a",
-      "status": "created",
-      "created_at": "2026-06-24T05:23:18Z"
+      "status": "downloaded",
+      "created_at": "2026-06-24T05:23:18Z",
+      "downloaded_at": "2026-06-26T09:06:22Z",
+      "bytes": 49626592
     },
     "07_retorica_poetica/02_poetica/L02-C17_cena01": {
       "artifact_id": "9e40b049-aca6-4e11-8ed2-569cd49c9318",
       "audio_title": "aristoteles_33_l02_c17_cena01_poetica",
       "audio_filename": "aristoteles_33_l02_c17_cena01_poetica.m4a",
-      "status": "created",
-      "created_at": "2026-06-24T05:25:21Z"
+      "status": "downloaded",
+      "created_at": "2026-06-24T05:25:21Z",
+      "downloaded_at": "2026-06-26T09:07:01Z",
+      "bytes": 34794782
     },
     "07_retorica_poetica/02_poetica/L02-C18_cena01": {
       "artifact_id": "7740ea76-6657-4462-94cf-52038aadc4f0",
       "audio_title": "aristoteles_33_l02_c18_cena01_poetica",
       "audio_filename": "aristoteles_33_l02_c18_cena01_poetica.m4a",
-      "status": "created",
-      "created_at": "2026-06-24T05:27:24Z"
+      "status": "downloaded",
+      "created_at": "2026-06-24T05:27:24Z",
+      "downloaded_at": "2026-06-26T09:07:39Z",
+      "bytes": 53126997
     },
     "07_retorica_poetica/02_poetica/L02-C19_cena01": {
       "artifact_id": "e7fdd3f7-cb2a-429a-bf28-045e90a1c135",
       "audio_title": "aristoteles_33_l02_c19_cena01_poetica",
       "audio_filename": "aristoteles_33_l02_c19_cena01_poetica.m4a",
-      "status": "created",
-      "created_at": "2026-06-24T05:29:26Z"
+      "status": "downloaded",
+      "created_at": "2026-06-24T05:29:26Z",
+      "downloaded_at": "2026-06-26T09:08:16Z",
+      "bytes": 15206332
     },
     "07_retorica_poetica/02_poetica/L02-C20_cena01": {
       "artifact_id": "17244625-f7e5-44c7-96a8-3d6e0372d3aa",
       "audio_title": "aristoteles_33_l02_c20_cena01_poetica",
       "audio_filename": "aristoteles_33_l02_c20_cena01_poetica.m4a",
-      "status": "created",
-      "created_at": "2026-06-24T05:31:29Z"
+      "status": "downloaded",
+      "created_at": "2026-06-24T05:31:29Z",
+      "downloaded_at": "2026-06-26T09:08:52Z",
+      "bytes": 27616809
     },
     "07_retorica_poetica/02_poetica/L03-C21_cena01": {
       "artifact_id": "86478829-97ff-4a30-9b21-bf07e4c7985a",
       "audio_title": "aristoteles_33_l03_c21_cena01_poetica",
       "audio_filename": "aristoteles_33_l03_c21_cena01_poetica.m4a",
-      "status": "created",
-      "created_at": "2026-06-24T05:33:32Z"
+      "status": "downloaded",
+      "created_at": "2026-06-24T05:33:32Z",
+      "downloaded_at": "2026-06-26T09:09:31Z",
+      "bytes": 56883005
     },
     "07_retorica_poetica/02_poetica/L03-C22_cena01": {
       "artifact_id": "c3736803-504d-4216-8eb4-f8cd269564c2",
       "audio_title": "aristoteles_33_l03_c22_cena01_poetica",
       "audio_filename": "aristoteles_33_l03_c22_cena01_poetica.m4a",
-      "status": "created",
-      "created_at": "2026-06-24T05:35:34Z"
+      "status": "downloaded",
+      "created_at": "2026-06-24T05:35:34Z",
+      "downloaded_at": "2026-06-26T09:10:08Z",
+      "bytes": 24922060
     },
     "07_retorica_poetica/02_poetica/L03-C23_cena01": {
       "artifact_id": "2fd98883-e14b-456f-9ceb-8e0abbd994ac",
       "audio_title": "aristoteles_33_l03_c23_cena01_poetica",
       "audio_filename": "aristoteles_33_l03_c23_cena01_poetica.m4a",
-      "status": "created",
-      "created_at": "2026-06-24T05:37:37Z"
+      "status": "downloaded",
+      "created_at": "2026-06-24T05:37:37Z",
+      "downloaded_at": "2026-06-26T09:10:46Z",
+      "bytes": 38134458
     },
     "07_retorica_poetica/02_poetica/L03-C24_cena01": {
       "artifact_id": "6f1165ca-7c3c-4e0e-b095-fb7ebf564665",
       "audio_title": "aristoteles_33_l03_c24_cena01_poetica",
       "audio_filename": "aristoteles_33_l03_c24_cena01_poetica.m4a",
-      "status": "created",
-      "created_at": "2026-06-24T05:39:41Z"
+      "status": "downloaded",
+      "created_at": "2026-06-24T05:39:41Z",
+      "downloaded_at": "2026-06-26T09:11:28Z",
+      "bytes": 49241752
     },
     "07_retorica_poetica/02_poetica/L03-C25_cena01": {
       "artifact_id": "d756e0b6-6ed4-4b2e-bbd6-289a3cd86d8f",
       "audio_title": "aristoteles_33_l03_c25_cena01_poetica",
       "audio_filename": "aristoteles_33_l03_c25_cena01_poetica.m4a",
-      "status": "created",
-      "created_at": "2026-06-24T05:41:43Z"
+      "status": "downloaded",
+      "created_at": "2026-06-24T05:41:43Z",
+      "downloaded_at": "2026-06-26T09:12:04Z",
+      "bytes": 30075494
     },
     "07_retorica_poetica/02_poetica/L03-C26_cena01": {
       "artifact_id": "37456776-d803-4b76-b876-da06c9c3e234",
       "audio_title": "aristoteles_33_l03_c26_cena01_poetica",
       "audio_filename": "aristoteles_33_l03_c26_cena01_poetica.m4a",
-      "status": "created",
-      "created_at": "2026-06-24T05:43:46Z"
+      "status": "downloaded",
+      "created_at": "2026-06-24T05:43:46Z",
+      "downloaded_at": "2026-06-26T09:12:42Z",
+      "bytes": 48187216
     },
     "07_retorica_poetica/01_retorica/L01-C01_cena01": {
       "artifact_id": "ccea08b8-2c27-4bc8-b0e6-fef6cc0ea45c",
       "audio_title": "aristoteles_32_l01_c01_cena01_retorica",
       "audio_filename": "aristoteles_32_l01_c01_cena01_retorica.m4a",
+      "status": "downloaded",
+      "created_at": "2026-06-24T05:45:54Z",
+      "downloaded_at": "2026-06-26T09:13:19Z",
+      "bytes": 52206297
+    },
+    "07_retorica_poetica/01_retorica/L01-C02_cena01": {
+      "artifact_id": "adff8652-ef43-4744-89a0-6a52aba62d25",
+      "audio_title": "aristoteles_32_l01_c02_cena01_retorica",
+      "audio_filename": "aristoteles_32_l01_c02_cena01_retorica.m4a",
       "status": "created",
-      "created_at": "2026-06-24T05:45:54Z"
+      "created_at": "2026-06-26T09:13:33Z"
+    },
+    "07_retorica_poetica/01_retorica/L01-C02_cena02": {
+      "artifact_id": "46a38eda-5310-4346-abe1-c96743cf5129",
+      "audio_title": "aristoteles_32_l01_c02_cena02_retorica",
+      "audio_filename": "aristoteles_32_l01_c02_cena02_retorica.m4a",
+      "status": "created",
+      "created_at": "2026-06-26T09:15:44Z"
+    },
+    "07_retorica_poetica/01_retorica/L01-C02_cena03": {
+      "artifact_id": "3479f949-e60e-4e71-9427-badf7726bbd5",
+      "audio_title": "aristoteles_32_l01_c02_cena03_retorica",
+      "audio_filename": "aristoteles_32_l01_c02_cena03_retorica.m4a",
+      "status": "created",
+      "created_at": "2026-06-26T09:17:53Z"
+    },
+    "07_retorica_poetica/01_retorica/L01-C03_cena01": {
+      "artifact_id": "7e5b35b6-d144-4178-baa1-39fc01196cc7",
+      "audio_title": "aristoteles_32_l01_c03_cena01_retorica",
+      "audio_filename": "aristoteles_32_l01_c03_cena01_retorica.m4a",
+      "status": "created",
+      "created_at": "2026-06-26T09:20:02Z"
+    },
+    "07_retorica_poetica/01_retorica/L01-C04_cena01": {
+      "artifact_id": "7ad86222-1143-4270-8c28-0bc4f452ff7b",
+      "audio_title": "aristoteles_32_l01_c04_cena01_retorica",
+      "audio_filename": "aristoteles_32_l01_c04_cena01_retorica.m4a",
+      "status": "created",
+      "created_at": "2026-06-26T09:22:12Z"
+    },
+    "07_retorica_poetica/01_retorica/L01-C05_cena01": {
+      "artifact_id": "d2e44558-d623-4433-89d2-8aacba3a50b5",
+      "audio_title": "aristoteles_32_l01_c05_cena01_retorica",
+      "audio_filename": "aristoteles_32_l01_c05_cena01_retorica.m4a",
+      "status": "created",
+      "created_at": "2026-06-26T09:24:23Z"
+    },
+    "07_retorica_poetica/01_retorica/L01-C06_cena01": {
+      "artifact_id": "265f8dfc-3cff-4c56-8ac6-d6148f20f680",
+      "audio_title": "aristoteles_32_l01_c06_cena01_retorica",
+      "audio_filename": "aristoteles_32_l01_c06_cena01_retorica.m4a",
+      "status": "created",
+      "created_at": "2026-06-26T09:26:39Z"
+    },
+    "07_retorica_poetica/01_retorica/L01-C07_cena01": {
+      "artifact_id": "26b00143-9d71-4a05-9c01-7cfd3c53962f",
+      "audio_title": "aristoteles_32_l01_c07_cena01_retorica",
+      "audio_filename": "aristoteles_32_l01_c07_cena01_retorica.m4a",
+      "status": "created",
+      "created_at": "2026-06-26T09:28:48Z"
+    },
+    "07_retorica_poetica/01_retorica/L01-C07_cena02": {
+      "artifact_id": "eb5cbb6c-cc62-4053-9f77-1aa4fabe0915",
+      "audio_title": "aristoteles_32_l01_c07_cena02_retorica",
+      "audio_filename": "aristoteles_32_l01_c07_cena02_retorica.m4a",
+      "status": "created",
+      "created_at": "2026-06-26T09:30:59Z"
+    },
+    "07_retorica_poetica/01_retorica/L01-C07_cena03": {
+      "artifact_id": "24f93c50-f90f-41ce-af98-96e5d078c594",
+      "audio_title": "aristoteles_32_l01_c07_cena03_retorica",
+      "audio_filename": "aristoteles_32_l01_c07_cena03_retorica.m4a",
+      "status": "created",
+      "created_at": "2026-06-26T09:33:10Z"
+    },
+    "07_retorica_poetica/01_retorica/L01-C08_cena01": {
+      "artifact_id": "62f34622-9679-40c7-9243-75faccc38fff",
+      "audio_title": "aristoteles_32_l01_c08_cena01_retorica",
+      "audio_filename": "aristoteles_32_l01_c08_cena01_retorica.m4a",
+      "status": "created",
+      "created_at": "2026-06-26T09:35:18Z"
+    },
+    "07_retorica_poetica/01_retorica/L01-C09_cena01": {
+      "artifact_id": "e96a6ff7-83cd-4a03-966d-3a55146d1848",
+      "audio_title": "aristoteles_32_l01_c09_cena01_retorica",
+      "audio_filename": "aristoteles_32_l01_c09_cena01_retorica.m4a",
+      "status": "created",
+      "created_at": "2026-06-26T09:37:28Z"
+    },
+    "07_retorica_poetica/01_retorica/L01-C09_cena02": {
+      "artifact_id": "6eb7d435-b39c-4db5-b575-eddca1b94f74",
+      "audio_title": "aristoteles_32_l01_c09_cena02_retorica",
+      "audio_filename": "aristoteles_32_l01_c09_cena02_retorica.m4a",
+      "status": "created",
+      "created_at": "2026-06-26T09:39:37Z"
+    },
+    "07_retorica_poetica/01_retorica/L01-C10_cena01": {
+      "artifact_id": "25a17ee3-5b47-4bc9-9a59-fea8d74e7431",
+      "audio_title": "aristoteles_32_l01_c10_cena01_retorica",
+      "audio_filename": "aristoteles_32_l01_c10_cena01_retorica.m4a",
+      "status": "created",
+      "created_at": "2026-06-26T09:41:47Z"
+    },
+    "07_retorica_poetica/01_retorica/L01-C11_cena01": {
+      "artifact_id": "e296b68c-01a3-4a59-9b4d-e95f7d6dacf0",
+      "audio_title": "aristoteles_32_l01_c11_cena01_retorica",
+      "audio_filename": "aristoteles_32_l01_c11_cena01_retorica.m4a",
+      "status": "created",
+      "created_at": "2026-06-26T09:43:56Z"
+    },
+    "07_retorica_poetica/01_retorica/L01-C12_cena01": {
+      "artifact_id": "8f393d81-bce5-4984-9750-5ab19b10d8c1",
+      "audio_title": "aristoteles_32_l01_c12_cena01_retorica",
+      "audio_filename": "aristoteles_32_l01_c12_cena01_retorica.m4a",
+      "status": "created",
+      "created_at": "2026-06-26T09:46:05Z"
+    },
+    "07_retorica_poetica/01_retorica/L01-C13_cena01": {
+      "artifact_id": "93f8b919-ac45-441f-b578-130af8cf6f7c",
+      "audio_title": "aristoteles_32_l01_c13_cena01_retorica",
+      "audio_filename": "aristoteles_32_l01_c13_cena01_retorica.m4a",
+      "status": "created",
+      "created_at": "2026-06-26T09:48:15Z"
+    },
+    "07_retorica_poetica/01_retorica/L01-C14_cena01": {
+      "artifact_id": "9d23ce7c-fba2-48fc-a5d4-8cb6c9b81026",
+      "audio_title": "aristoteles_32_l01_c14_cena01_retorica",
+      "audio_filename": "aristoteles_32_l01_c14_cena01_retorica.m4a",
+      "status": "created",
+      "created_at": "2026-06-26T09:50:23Z"
+    },
+    "07_retorica_poetica/01_retorica/L01-C15_cena01": {
+      "artifact_id": "f3991e60-9226-427b-8e88-6224912b2d95",
+      "audio_title": "aristoteles_32_l01_c15_cena01_retorica",
+      "audio_filename": "aristoteles_32_l01_c15_cena01_retorica.m4a",
+      "status": "created",
+      "created_at": "2026-06-26T09:52:33Z"
+    },
+    "07_retorica_poetica/01_retorica/L01-C15_cena02": {
+      "artifact_id": "b994c240-7942-445e-99c2-69efafb65bc4",
+      "audio_title": "aristoteles_32_l01_c15_cena02_retorica",
+      "audio_filename": "aristoteles_32_l01_c15_cena02_retorica.m4a",
+      "status": "created",
+      "created_at": "2026-06-26T09:54:42Z"
     }
   }
 }
