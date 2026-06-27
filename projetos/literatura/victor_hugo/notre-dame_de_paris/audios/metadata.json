@@ -1994,7 +1994,9 @@
       "prompt_chars": 4623,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_120_l08_c04_la_mre_cena002.m4a",
+      "tamanho_bytes": 32425742
     },
     {
       "seq_global": 121,
@@ -2009,7 +2011,9 @@
       "prompt_chars": 3686,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_121_l08_c04_la_mre_cena003.m4a",
+      "tamanho_bytes": 18377176
     },
     {
       "seq_global": 122,
@@ -2024,9 +2028,56 @@
       "prompt_chars": 3432,
       "language": "fr-FR",
       "audio_format": "deep_dive",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_122_l08_c05_trois_curs_dhomme_faits_diffremm.m4a",
+      "tamanho_bytes": 20027218
+    },
+    {
+      "seq_global": 123,
+      "scene_identifier": "L08-C05-TROIS_CURS_DHOMME_FAITS_DIFFREMMENT_cena002",
+      "cena_filename": "L08-C05-TROIS_CURS_DHOMME_FAITS_DIFFREMMENT_cena002.md",
+      "prompt_filename": "L08-C05-TROIS_CURS_DHOMME_FAITS_DIFFREMMENT_prompt002.md",
+      "arquivo": "notredame_123_l08_c05_trois_curs_dhomme_faits_diffremm.m4a",
+      "artifact_id": "340949a1-b738-44ee-bf30-a00e13d6dd47",
+      "source_id": "bfd3e09b-8d4f-4d69-8fc9-01a3a2b8d134",
+      "book_id": "L08-C05-TROIS_CURS_DHOMME_FAITS_DIFFREMMENT",
+      "data_geracao": "2026-06-27T08:11:39.535416",
+      "prompt_chars": 2922,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 124,
+      "scene_identifier": "L08-C05-TROIS_CURS_DHOMME_FAITS_DIFFREMMENT_cena003",
+      "cena_filename": "L08-C05-TROIS_CURS_DHOMME_FAITS_DIFFREMMENT_cena003.md",
+      "prompt_filename": "L08-C05-TROIS_CURS_DHOMME_FAITS_DIFFREMMENT_prompt003.md",
+      "arquivo": "notredame_124_l08_c05_trois_curs_dhomme_faits_diffremm.m4a",
+      "artifact_id": "76f27f00-0f89-4c23-b7ca-25ced0edfc44",
+      "source_id": "bfd3e09b-8d4f-4d69-8fc9-01a3a2b8d134",
+      "book_id": "L08-C05-TROIS_CURS_DHOMME_FAITS_DIFFREMMENT",
+      "data_geracao": "2026-06-27T08:13:56.698156",
+      "prompt_chars": 4805,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 125,
+      "scene_identifier": "L08-C05-TROIS_CURS_DHOMME_FAITS_DIFFREMMENT_cena004",
+      "cena_filename": "L08-C05-TROIS_CURS_DHOMME_FAITS_DIFFREMMENT_cena004.md",
+      "prompt_filename": "L08-C05-TROIS_CURS_DHOMME_FAITS_DIFFREMMENT_prompt004.md",
+      "arquivo": "notredame_125_l08_c05_trois_curs_dhomme_faits_diffremm.m4a",
+      "artifact_id": "d878cf4f-8d19-46b2-9fb1-829db28981a9",
+      "source_id": "bfd3e09b-8d4f-4d69-8fc9-01a3a2b8d134",
+      "book_id": "L08-C05-TROIS_CURS_DHOMME_FAITS_DIFFREMMENT",
+      "data_geracao": "2026-06-27T08:16:09.764519",
+      "prompt_chars": 3060,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
       "status": "created"
     }
   ],
-  "total_itens_processados": 122,
-  "ultima_atualizacao": "2026-06-26T08:16:43.118759"
+  "total_itens_processados": 125,
+  "ultima_atualizacao": "2026-06-27T08:16:09.766049"
 }
