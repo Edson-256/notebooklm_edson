@@ -2096,7 +2096,9 @@
       "prompt_chars": 3508,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_126_l08_c05_trois_curs_dhomme_faits_diffremm.m4a",
+      "tamanho_bytes": 21761674
     },
     {
       "seq_global": 127,
@@ -2111,7 +2113,9 @@
       "prompt_chars": 3975,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_127_l09_c01_fivre_cena001.m4a",
+      "tamanho_bytes": 30081470
     },
     {
       "seq_global": 128,
@@ -2126,9 +2130,56 @@
       "prompt_chars": 3364,
       "language": "fr-FR",
       "audio_format": "deep_dive",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_128_l09_c01_fivre_cena002.m4a",
+      "tamanho_bytes": 27236450
+    },
+    {
+      "seq_global": 129,
+      "scene_identifier": "L09-C01-FIVRE_cena003",
+      "cena_filename": "L09-C01-FIVRE_cena003.md",
+      "prompt_filename": "L09-C01-FIVRE_prompt003.md",
+      "arquivo": "notredame_129_l09_c01_fivre_cena003.m4a",
+      "artifact_id": "0aa6dee5-9d91-4d74-a839-3058be906165",
+      "source_id": "f6625b5e-61c8-4af8-9811-9a848fdacd0e",
+      "book_id": "L09-C01-FIVRE",
+      "data_geracao": "2026-06-29T08:12:03.441436",
+      "prompt_chars": 4277,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 130,
+      "scene_identifier": "L09-C01-FIVRE_cena004",
+      "cena_filename": "L09-C01-FIVRE_cena004.md",
+      "prompt_filename": "L09-C01-FIVRE_prompt004.md",
+      "arquivo": "notredame_130_l09_c01_fivre_cena004.m4a",
+      "artifact_id": "11e1b8f7-9b22-4c3d-bbbe-0ee23bde26dd",
+      "source_id": "f6625b5e-61c8-4af8-9811-9a848fdacd0e",
+      "book_id": "L09-C01-FIVRE",
+      "data_geracao": "2026-06-29T08:14:23.693707",
+      "prompt_chars": 3324,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 131,
+      "scene_identifier": "L09-C01-FIVRE_cena005",
+      "cena_filename": "L09-C01-FIVRE_cena005.md",
+      "prompt_filename": "L09-C01-FIVRE_prompt005.md",
+      "arquivo": "notredame_131_l09_c01_fivre_cena005.m4a",
+      "artifact_id": "d0e0e878-ce1e-4071-9092-6b7943d0191a",
+      "source_id": "f6625b5e-61c8-4af8-9811-9a848fdacd0e",
+      "book_id": "L09-C01-FIVRE",
+      "data_geracao": "2026-06-29T08:16:45.150892",
+      "prompt_chars": 3499,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
       "status": "created"
     }
   ],
-  "total_itens_processados": 128,
-  "ultima_atualizacao": "2026-06-28T08:16:42.544386"
+  "total_itens_processados": 131,
+  "ultima_atualizacao": "2026-06-29T08:16:45.154163"
 }
