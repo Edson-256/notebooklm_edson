@@ -40,16 +40,12 @@ notify() {
   fi
 }
 
-# Alternância diária com o COF (mesma conta 'default'):
-# Aristóteles roda em dias ÍMPARES do ano; COF em PARES.
-# (10# força base decimal — evita erro de octal em 008/009.)
-DOY=$(( 10#$(date +%j) ))
-if [ $(( DOY % 2 )) -eq 0 ]; then
-  echo "$(date '+%Y-%m-%d %H:%M') — dia par (DOY=$DOY): vez do COF, Aristóteles pula." >>"$LOG"
-  exit 0
-fi
+# Cadência: COF concluído (782/782 em 2026-06-30) — alternância par/ímpar encerrada.
+# Aristóteles agora roda TODO dia, limitado APENAS pelo quota guard (>=25h).
+# Na prática: 1 lote de 20/dia derivando ~2h para frente por dia (cota NLM rolling 24h).
+# (bd notebooklm_edson-fey)
 
-# Quota guard: só roda se >= 25h desde o último lote da conta 'default' (COF ou Aristóteles).
+# Quota guard: só roda se >= 25h desde o último lote da conta 'default'.
 source "$REPO_DIR/scripts/nlm_quota_guard.sh"
 nlm_quota_check >>"$LOG" || exit 0
 

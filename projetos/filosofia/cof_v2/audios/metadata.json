@@ -13034,7 +13034,9 @@
       "focus_preview": "[ID]: extra-princ-pios-e-m-todos-da-auto-educa-o-aula-05\n[CATEGORIA]: Extracurricular\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 686/781\n[ANTERIOR]: extra-princ-pios-e-m-todos-da-auto-educa-o-aula-04\n[PRÓ...",
       "source_id": "159fb6b5-2a38-4bea-a5d4-2ae3de99f334",
       "source_title": "COF Extracurricular — Princípios e métodos da auto-educação.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_686_principios_metodos.m4a",
+      "tamanho_bytes": 28071988
     },
     {
       "arquivo": "cof_687_principios_metodos.m4a",
@@ -13431,7 +13433,9 @@
       "focus_preview": "[ID]: livro-a-criminalidade-em-ascens-o-uma-vis-o-civilizacion\n[CATEGORIA]: Livro\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 707/781\n[ANTERIOR]: livro-a-consci-ncia-sem-consci-ncia-oiavo-de-carvalho\n[PRÓX...",
       "source_id": "d9680801-9141-465f-a6f1-2baeb95f1cef",
       "source_title": "A Criminalidade em Ascensão uma Visão Civilizacional.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_707_criminalidade_ascensao.m4a",
+      "tamanho_bytes": 58816984
     },
     {
       "arquivo": "cof_708_depreciacao_humanidade.m4a",
@@ -13448,7 +13452,9 @@
       "focus_preview": "[ID]: livro-a-deprecia-o-da-humanidade\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 708/781\n[ANTERIOR]: livro-a-criminalidade-em-ascens-o-uma-vis-o-civilizacion\n[PRÓXIMA]: livro-a-filosof...",
       "source_id": "35b375d7-3b3a-4982-b75e-45811cd37277",
       "source_title": "A depreciação da humanidade.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_708_depreciacao_humanidade.m4a",
+      "tamanho_bytes": 4386017
     },
     {
       "arquivo": "cof_709_filosofia_mario.m4a",
@@ -13465,7 +13471,9 @@
       "focus_preview": "[ID]: livro-a-filosofia-de-m-rio-ferreira-dos-santos\n[CATEGORIA]: Livro\n[FORMATO]: The Debate\n[POSIÇÃO MESTRA]: 709/781\n[ANTERIOR]: livro-a-deprecia-o-da-humanidade\n[PRÓXIMA]: livro-a-imortalidade-com...",
       "source_id": "deb6afe9-b011-4502-9a32-809eb0f2c7c8",
       "source_title": "A filosofia de Mário Ferreira dos Santos.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_709_filosofia_mario.m4a",
+      "tamanho_bytes": 49572059
     },
     {
       "arquivo": "cof_710_imortalidade_como.m4a",
@@ -13482,7 +13490,9 @@
       "focus_preview": "[ID]: livro-a-imortalidade-como-premissa-do-m-todo-filos-fico\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 710/781\n[ANTERIOR]: livro-a-filosofia-de-m-rio-ferreira-dos-santos\n[PRÓXIMA]: li...",
       "source_id": "8a62324e-f358-4f02-baa2-362cf69fd763",
       "source_title": "A imortalidade como premissa do método filosófico.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_710_imortalidade_como.m4a",
+      "tamanho_bytes": 3459341
     },
     {
       "arquivo": "cof_711_leitura_hermeneutica.m4a",
@@ -13499,7 +13509,9 @@
       "focus_preview": "[ID]: livro-a-leitura-hermen-utica\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 711/781\n[ANTERIOR]: livro-a-imortalidade-como-premissa-do-m-todo-filos-fico\n[PRÓXIMA]: livro-a-nova-era-e-a...",
       "source_id": "4ac52ac3-8d72-42f9-9eed-9942fffbac9f",
       "source_title": "A leitura Hermenêutica.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_711_leitura_hermeneutica.m4a",
+      "tamanho_bytes": 3438424
     },
     {
       "arquivo": "cof_712_nova_era.m4a",
@@ -13516,7 +13528,9 @@
       "focus_preview": "[ID]: livro-a-nova-era-e-a-revolu-o-cultural\n[CATEGORIA]: Livro\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 712/781\n[ANTERIOR]: livro-a-leitura-hermen-utica\n[PRÓXIMA]: livro-a-organiza-o-econ-mica\n\nINSTRUÇ...",
       "source_id": "1c22650a-3ed6-4363-a0d7-59620a27ec84",
       "source_title": "A Nova era e a revolução cultural.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_712_nova_era.m4a",
+      "tamanho_bytes": 44690663
     },
     {
       "arquivo": "cof_713_organizacao_economica.m4a",
@@ -13533,7 +13547,9 @@
       "focus_preview": "[ID]: livro-a-organiza-o-econ-mica\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 713/781\n[ANTERIOR]: livro-a-nova-era-e-a-revolu-o-cultural\n[PRÓXIMA]: livro-a-tripla-intui-o\n\nINSTRUÇÕES PA...",
       "source_id": "60a92efe-1532-4228-ac08-99ee388e3566",
       "source_title": "A Organização Econômica.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_713_organizacao_economica.m4a",
+      "tamanho_bytes": 3797865
     },
     {
       "arquivo": "cof_714_tripla_intuicao.m4a",
@@ -13550,7 +13566,9 @@
       "focus_preview": "[ID]: livro-a-tripla-intui-o\n[CATEGORIA]: Livro\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 714/781\n[ANTERIOR]: livro-a-organiza-o-econ-mica\n[PRÓXIMA]: livro-apresenta-o-do-livro-reflex-es-autobiogr-ficas-...",
       "source_id": "7fc0de2a-dd47-4dbf-9642-4092c554de65",
       "source_title": "A tripla intuição.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_714_tripla_intuicao.m4a",
+      "tamanho_bytes": 32596183
     },
     {
       "arquivo": "cof_715_apresentacao_livro.m4a",
@@ -13567,7 +13585,9 @@
       "focus_preview": "[ID]: livro-apresenta-o-do-livro-reflex-es-autobiogr-ficas-de\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 715/781\n[ANTERIOR]: livro-a-tripla-intui-o\n[PRÓXIMA]: livro-arte-sacra-estudipez...",
       "source_id": "b5ae1aad-9073-4ec6-9e2c-29e0636f37bf",
       "source_title": "Apresentação do livro Reflexões Autobiográficas_ de Eric Voegelin.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_715_apresentacao_livro.m4a",
+      "tamanho_bytes": 4406934
     },
     {
       "arquivo": "cof_716_arte_sacra_.m4a",
@@ -13679,7 +13699,9 @@
       "focus_preview": "[ID]: livro-conselhos-aos-estudantes-de-filosofia\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 721/781\n[ANTERIOR]: livro-como-tornar-se-um-buscador-da-verdade-introdu-o-ze\n[PRÓXIMA]: livr...",
       "source_id": "0e1d3114-10ed-4221-8b6f-5f910ea74a48",
       "source_title": "Conselhos aos Estudantes de Filosofia.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_721_conselhos_aos.m4a",
+      "tamanho_bytes": 4664031
     },
     {
       "arquivo": "cof_722_consideracoes_sobre.m4a",
@@ -13696,7 +13718,9 @@
       "focus_preview": "[ID]: livro-considera-es-sobre-o-semin-rio-de-filosofia\n[CATEGORIA]: Livro\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 722/781\n[ANTERIOR]: livro-conselhos-aos-estudantes-de-filosofia\n[PRÓXIMA]: livro-cren-...",
       "source_id": "125d2eed-d126-40df-9306-9ddc8a149f64",
       "source_title": "Considerações sobre o Seminário de Filosofia.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_722_consideracoes_sobre.m4a",
+      "tamanho_bytes": 38945342
     },
     {
       "arquivo": "cof_723_crenca_sistema.m4a",
@@ -13713,7 +13737,9 @@
       "focus_preview": "[ID]: livro-cren-a-e-sistema\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 723/781\n[ANTERIOR]: livro-considera-es-sobre-o-semin-rio-de-filosofia\n[PRÓXIMA]: livro-debate-entre-alexandre-dug...",
       "source_id": "49deda2d-b6d4-4192-b30f-50d89a6c97dc",
       "source_title": "Crença e sistema.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_723_crenca_sistema.m4a",
+      "tamanho_bytes": 4093809
     },
     {
       "arquivo": "cof_724_debate_alexandre.m4a",
@@ -13730,7 +13756,9 @@
       "focus_preview": "[ID]: livro-debate-entre-alexandre-duguin-e-olavo-de-carvalho\n[CATEGORIA]: Livro\n[FORMATO]: The Critique\n[POSIÇÃO MESTRA]: 724/781\n[ANTERIOR]: livro-cren-a-e-sistema\n[PRÓXIMA]: livro-dedu-es-metaf-sic...",
       "source_id": "24c04176-312e-4135-8a02-cbc7c084c47d",
       "source_title": "Debate entre Alexandre Duguin e Olavo de Carvalho.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_724_debate_alexandre.m4a",
+      "tamanho_bytes": 39573834
     },
     {
       "arquivo": "cof_725_deducoes_metafisicas.m4a",
@@ -13747,7 +13775,9 @@
       "focus_preview": "[ID]: livro-dedu-es-metaf-sicas\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 725/781\n[ANTERIOR]: livro-debate-entre-alexandre-duguin-e-olavo-de-carvalho\n[PRÓXIMA]: livro-dois-m-todos\n\nINS...",
       "source_id": "4513317c-aa5e-4c29-84fd-6e9b8a62b34e",
       "source_title": "Deduções Metafísicas.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_725_deducoes_metafisicas.m4a",
+      "tamanho_bytes": 3250917
     },
     {
       "arquivo": "cof_726_dois_metodos.m4a",
@@ -13764,7 +13794,9 @@
       "focus_preview": "[ID]: livro-dois-m-todos\n[CATEGORIA]: Livro\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 726/781\n[ANTERIOR]: livro-dedu-es-metaf-sicas\n[PRÓXIMA]: livro-duas-vis-es-do-destino\n\nINSTRUÇÕES PARA O ÁUDIO\n\nORIGE...",
       "source_id": "15428beb-4f70-46bf-a226-bc4876faa361",
       "source_title": "Dois métodos.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_726_dois_metodos.m4a",
+      "tamanho_bytes": 50282724
     },
     {
       "arquivo": "cof_727_duas_visoes.m4a",
@@ -13781,7 +13813,9 @@
       "focus_preview": "[ID]: livro-duas-vis-es-do-destino\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 727/781\n[ANTERIOR]: livro-dois-m-todos\n[PRÓXIMA]: livro-duvidar-da-d-vida-e-criticar-o-criticismo-prelimin\n...",
       "source_id": "20e83555-c5c5-45f5-9e4f-05d5dca5991e",
       "source_title": "Duas visões do destino.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_727_duas_visoes.m4a",
+      "tamanho_bytes": 3974282
     },
     {
       "arquivo": "cof_728_duvidar_duvida.m4a",
@@ -13798,7 +13832,9 @@
       "focus_preview": "[ID]: livro-duvidar-da-d-vida-e-criticar-o-criticismo-prelimin\n[CATEGORIA]: Livro\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 728/781\n[ANTERIOR]: livro-duas-vis-es-do-destino\n[PRÓXIMA]: livro-elementos-de-...",
       "source_id": "a3cdb5b9-8321-4cd0-b7fd-31759792ad85",
       "source_title": "Duvidar da Dúvida e Criticar o Criticismo_ PRELIMINARES DE UM RETORNO À METAFÍSICA DOGMÁTICA.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_728_duvidar_duvida.m4a",
+      "tamanho_bytes": 45479767
     },
     {
       "arquivo": "cof_729_elementos_tipologia.m4a",
@@ -13815,7 +13851,9 @@
       "focus_preview": "[ID]: livro-elementos-de-tipologia-espiritual\n[CATEGORIA]: Livro\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 729/781\n[ANTERIOR]: livro-duvidar-da-d-vida-e-criticar-o-criticismo-prelimin\n[PRÓXIMA]: livro-en...",
       "source_id": "91ae6644-9979-4034-9a6b-6a7789a1e590",
       "source_title": "Elementos de tipologia espiritual.md (remasterizado).md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_729_elementos_tipologia.m4a",
+      "tamanho_bytes": 70558682
     },
     {
       "arquivo": "cof_730_entrevista_revista.m4a",
@@ -13832,7 +13870,9 @@
       "focus_preview": "[ID]: livro-entrevista-com-olavo-de-carvalho-na-revista-rep-bl\n[CATEGORIA]: Livro\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 730/781\n[ANTERIOR]: livro-elementos-de-tipologia-espiritual\n[PRÓXIMA]: livro-es...",
       "source_id": "f8552ee2-ebb6-4316-b8e6-696defdc4f05",
       "source_title": "Entrevista com Olavo de Carvalho na revista República.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_730_entrevista_revista.m4a",
+      "tamanho_bytes": 33688701
     },
     {
       "arquivo": "cof_731_espirito_personalidade.m4a",
@@ -13849,7 +13889,9 @@
       "focus_preview": "[ID]: livro-esp-rito-e-personalidade\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 731/781\n[ANTERIOR]: livro-entrevista-com-olavo-de-carvalho-na-revista-rep-bl\n[PRÓXIMA]: livro-esp-rito-e-...",
       "source_id": "5cdb8934-87b5-4ee0-949a-98f878f53ba2",
       "source_title": "Espírito e personalidade.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_731_espirito_personalidade.m4a",
+      "tamanho_bytes": 3561054
     },
     {
       "arquivo": "cof_732_espirito_personalidade.m4a",
@@ -13866,7 +13908,9 @@
       "focus_preview": "[ID]: livro-esp-rito-e-personalidade-ii\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 732/781\n[ANTERIOR]: livro-esp-rito-e-personalidade\n[PRÓXIMA]: livro-exist-ncia-e-possibilidade\n\nINSTRU...",
       "source_id": "ef796f08-402d-47f7-8395-4c804193571d",
       "source_title": "Espírito e personalidade II.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_732_espirito_personalidade.m4a",
+      "tamanho_bytes": 3885385
     },
     {
       "arquivo": "cof_733_existencia_possibilidade.m4a",
@@ -13902,7 +13946,9 @@
       "focus_preview": "[ID]: livro-experimento-sociol-gico\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 734/781\n[ANTERIOR]: livro-exist-ncia-e-possibilidade\n[PRÓXIMA]: livro-experi-ncia-e-presen-a\n\nINSTRUÇÕES P...",
       "source_id": "3f8b4864-0d6c-4cea-b833-6d0cea7b38de",
       "source_title": "Experimento sociológico.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_734_experimento_sociologico.m4a",
+      "tamanho_bytes": 4202245
     },
     {
       "arquivo": "cof_735_experiencia_presenca.m4a",
@@ -13938,7 +13984,9 @@
       "focus_preview": "[ID]: livro-fugindo-da-filosofia\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 736/781\n[ANTERIOR]: livro-experi-ncia-e-presen-a\n[PRÓXIMA]: livro-full-man-responsibility\n\nINSTRUÇÕES PARA O ...",
       "source_id": "62e0f16d-5e4a-460d-8096-11d95ed47a9a",
       "source_title": "Fugindo da filosofia.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_736_fugindo_filosofia.m4a",
+      "tamanho_bytes": 4157307
     },
     {
       "arquivo": "cof_737_full_man.m4a",
@@ -13974,7 +14022,9 @@
       "focus_preview": "[ID]: livro-humildade-rid-culo-e-ironia\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 738/781\n[ANTERIOR]: livro-full-man-responsibility\n[PRÓXIMA]: livro-implica-es-para-o-brasil-nos-campos...",
       "source_id": "863a497a-fe68-453b-99fa-f8477001e600",
       "source_title": "Humildade_ Ridículo e Ironia.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_738_humildade__ridiculo.m4a",
+      "tamanho_bytes": 3828494
     },
     {
       "arquivo": "cof_739_implicacoes_brasil_.m4a",
@@ -14010,7 +14060,9 @@
       "focus_preview": "[ID]: livro-influ-ncias-intelectuais-que-recebi-at-a-d-cada-de\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 740/781\n[ANTERIOR]: livro-implica-es-para-o-brasil-nos-campos-pol-tico-e-eco\n[P...",
       "source_id": "d68c9e7b-d974-4204-9f41-69e1ac6bf977",
       "source_title": "Influências intelectuais que recebi até a década de 90.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_740_influencias_intelectuais.m4a",
+      "tamanho_bytes": 3609612
     },
     {
       "arquivo": "cof_741_inteligencia__verdade.m4a",
@@ -14027,7 +14079,9 @@
       "focus_preview": "[ID]: livro-intelig-ncia-verdade-e-certeza\n[CATEGORIA]: Livro\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 741/781\n[ANTERIOR]: livro-influ-ncias-intelectuais-que-recebi-at-a-d-cada-de\n[PRÓXIMA]: livro-intro...",
       "source_id": "5846e4e4-b3b9-4ad5-a8eb-8b576be48b4f",
       "source_title": "Inteligência_ verdade e certeza.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_741_inteligencia__verdade.m4a",
+      "tamanho_bytes": 30387125
     },
     {
       "arquivo": "cof_742_introducao_vida.m4a",
@@ -14044,7 +14098,9 @@
       "focus_preview": "[ID]: livro-introdu-o-vida-intelectual-01\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 742/781\n[ANTERIOR]: livro-intelig-ncia-verdade-e-certeza\n[PRÓXIMA]: livro-introdu-o-vida-intelectual...",
       "source_id": "186de757-3691-48ce-a1e4-81d7aae737db",
       "source_title": "Introdução à vida intelectual 01.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_742_introducao_vida.m4a",
+      "tamanho_bytes": 4079615
     },
     {
       "arquivo": "cof_743_introducao_vida.m4a",
@@ -14061,7 +14117,9 @@
       "focus_preview": "[ID]: livro-introdu-o-vida-intelectual-02\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 743/781\n[ANTERIOR]: livro-introdu-o-vida-intelectual-01\n[PRÓXIMA]: livro-introdu-o-vida-intelectual-...",
       "source_id": "0c782066-437b-450a-8b98-2501018fe26b",
       "source_title": "Introdução à vida intelectual 02.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_743_introducao_vida.m4a",
+      "tamanho_bytes": 4108002
     },
     {
       "arquivo": "cof_744_introducao_vida.m4a",
@@ -14078,7 +14136,9 @@
       "focus_preview": "[ID]: livro-introdu-o-vida-intelectual-03\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 744/781\n[ANTERIOR]: livro-introdu-o-vida-intelectual-02\n[PRÓXIMA]: livro-introdu-o-vida-intelectual-...",
       "source_id": "a46d6614-88ce-4ae2-9fa5-52e19997c9fc",
       "source_title": "Introdução à vida intelectual 03.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_744_introducao_vida.m4a",
+      "tamanho_bytes": 4145354
     },
     {
       "arquivo": "cof_745_introducao_vida.m4a",
@@ -14095,7 +14155,9 @@
       "focus_preview": "[ID]: livro-introdu-o-vida-intelectual-04\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 745/781\n[ANTERIOR]: livro-introdu-o-vida-intelectual-03\n[PRÓXIMA]: livro-introdu-o-vida-intelectual-...",
       "source_id": "17b86a8e-56a8-48b1-8840-2f9d4afee4cc",
       "source_title": "Introdução à vida intelectual 04.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_745_introducao_vida.m4a",
+      "tamanho_bytes": 3546804
     },
     {
       "arquivo": "cof_746_introducao_vida.m4a",
@@ -14112,7 +14174,9 @@
       "focus_preview": "[ID]: livro-introdu-o-vida-intelectual-05\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 746/781\n[ANTERIOR]: livro-introdu-o-vida-intelectual-04\n[PRÓXIMA]: livro-introdu-o-vida-intelectual-...",
       "source_id": "6aa4224e-2fe9-4c5e-824d-cb6b62cfec44",
       "source_title": "Introdução à vida intelectual 05.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_746_introducao_vida.m4a",
+      "tamanho_bytes": 3661157
     },
     {
       "arquivo": "cof_747_introducao_vida.m4a",
@@ -14129,7 +14193,9 @@
       "focus_preview": "[ID]: livro-introdu-o-vida-intelectual-06\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 747/781\n[ANTERIOR]: livro-introdu-o-vida-intelectual-05\n[PRÓXIMA]: livro-jean-brun-filosofia-e-crist...",
       "source_id": "4199ca8e-9461-465f-a9e4-6efb5a01f424",
       "source_title": "Introdução à vida intelectual 06.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_747_introducao_vida.m4a",
+      "tamanho_bytes": 4915152
     },
     {
       "arquivo": "cof_748_jean_brun.m4a",
@@ -14146,7 +14212,9 @@
       "focus_preview": "[ID]: livro-jean-brun-filosofia-e-cristianismo\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 748/781\n[ANTERIOR]: livro-introdu-o-vida-intelectual-06\n[PRÓXIMA]: livro-mais-musicas-redneck\n\n...",
       "source_id": "24b4305b-8cb3-49b6-bea4-f26fd5f95d2f",
       "source_title": "Jean Brun - Filosofia e Cristianismo.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_748_jean_brun.m4a",
+      "tamanho_bytes": 3841194
     },
     {
       "arquivo": "cof_749_mais_musicas.m4a",
@@ -14163,7 +14231,9 @@
       "focus_preview": "[ID]: livro-mais-musicas-redneck\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 749/781\n[ANTERIOR]: livro-jean-brun-filosofia-e-cristianismo\n[PRÓXIMA]: livro-medita-o-e-consci-ncia-olavo-de...",
       "source_id": "f20f10a8-9a8f-4599-9c2f-040f37011428",
       "source_title": "Mais Musicas Redneck.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_749_mais_musicas.m4a",
+      "tamanho_bytes": 4198510
     },
     {
       "arquivo": "cof_750_meditacao_consciencia.m4a",
@@ -14180,7 +14250,9 @@
       "focus_preview": "[ID]: livro-medita-o-e-consci-ncia-olavo-de-carvalho\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 750/781\n[ANTERIOR]: livro-mais-musicas-redneck\n[PRÓXIMA]: livro-melodias-para-guardar\n\nIN...",
       "source_id": "f75b3932-9311-4714-9274-7564503dab39",
       "source_title": "Meditação e consciência - Olavo de Carvalho.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_750_meditacao_consciencia.m4a",
+      "tamanho_bytes": 3509392
     },
     {
       "arquivo": "cof_751_melodias_guardar.m4a",
@@ -14197,7 +14269,9 @@
       "focus_preview": "[ID]: livro-melodias-para-guardar\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 751/781\n[ANTERIOR]: livro-medita-o-e-consci-ncia-olavo-de-carvalho\n[PRÓXIMA]: livro-musicas-favoritas\n\nINSTR...",
       "source_id": "a61437fe-aac4-47a8-ac8f-4a6d772fef29",
       "source_title": "Melodias para guardar.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_751_melodias_guardar.m4a",
+      "tamanho_bytes": 3211955
     },
     {
       "arquivo": "cof_752_musicas_favoritas.m4a",
@@ -14214,7 +14288,9 @@
       "focus_preview": "[ID]: livro-musicas-favoritas\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 752/781\n[ANTERIOR]: livro-melodias-para-guardar\n[PRÓXIMA]: livro-musicas-redneck\n\nINSTRUÇÕES PARA O ÁUDIO\n\nORIGE...",
       "source_id": "3e0f67a8-2a8e-4cd9-a0f3-61669bf32ef0",
       "source_title": "Musicas Favoritas.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_752_musicas_favoritas.m4a",
+      "tamanho_bytes": 3711956
     },
     {
       "arquivo": "cof_753_musicas_redneck.m4a",
@@ -14231,7 +14307,9 @@
       "focus_preview": "[ID]: livro-musicas-redneck\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 753/781\n[ANTERIOR]: livro-musicas-favoritas\n[PRÓXIMA]: livro-nota-sobre-richard-dawkins\n\nINSTRUÇÕES PARA O ÁUDIO\n\n...",
       "source_id": "8a4b8fee-fa2e-4995-a2d6-ce9b0be04498",
       "source_title": "Musicas Redneck.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_753_musicas_redneck.m4a",
+      "tamanho_bytes": 3429459
     },
     {
       "arquivo": "cof_754_nota_sobre.m4a",
@@ -14248,7 +14326,9 @@
       "focus_preview": "[ID]: livro-nota-sobre-richard-dawkins\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 754/781\n[ANTERIOR]: livro-musicas-redneck\n[PRÓXIMA]: livro-nova-lista-de-melodias\n\nINSTRUÇÕES PARA O ÁU...",
       "source_id": "4e5ae574-673c-442c-9d7d-bcb0aac26101",
       "source_title": "Nota sobre Richard Dawkins.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_754_nota_sobre.m4a",
+      "tamanho_bytes": 4017611
     },
     {
       "arquivo": "cof_755_nova_lista.m4a",
@@ -14265,7 +14345,9 @@
       "focus_preview": "[ID]: livro-nova-lista-de-melodias\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 755/781\n[ANTERIOR]: livro-nota-sobre-richard-dawkins\n[PRÓXIMA]: livro-novas-melodias-para-guardar-na-memori...",
       "source_id": "be0e7914-91cc-48ba-bf6f-621beb79ad4e",
       "source_title": "Nova lista de melodias.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_755_nova_lista.m4a",
+      "tamanho_bytes": 3948136
     },
     {
       "arquivo": "cof_756_novas_melodias.m4a",
@@ -14282,7 +14364,9 @@
       "focus_preview": "[ID]: livro-novas-melodias-para-guardar-na-memoria\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 756/781\n[ANTERIOR]: livro-nova-lista-de-melodias\n[PRÓXIMA]: livro-o-criminoso-mentecapto\n\nI...",
       "source_id": "68177aff-f3b9-4abc-8d88-92e7a6632988",
       "source_title": "Novas melodias para guardar na memoria.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_756_novas_melodias.m4a",
+      "tamanho_bytes": 3927966
     },
     {
       "arquivo": "cof_757_criminoso_mentecapto.m4a",
@@ -14299,7 +14383,9 @@
       "focus_preview": "[ID]: livro-o-criminoso-mentecapto\n[CATEGORIA]: Livro\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 757/781\n[ANTERIOR]: livro-novas-melodias-para-guardar-na-memoria\n[PRÓXIMA]: livro-o-falso-div-rcio-de-ci-nc...",
       "source_id": "2d662214-7ffd-46c3-8478-b6cac2ec0ec5",
       "source_title": "O criminoso mentecapto.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_757_criminoso_mentecapto.m4a",
+      "tamanho_bytes": 54283761
     },
     {
       "arquivo": "cof_758_falso_divorcio.m4a",
@@ -14316,7 +14402,9 @@
       "focus_preview": "[ID]: livro-o-falso-div-rcio-de-ci-ncia-e-filosofia\n[CATEGORIA]: Livro\n[FORMATO]: The Critique\n[POSIÇÃO MESTRA]: 758/781\n[ANTERIOR]: livro-o-criminoso-mentecapto\n[PRÓXIMA]: livro-o-mundo-exterior-e-as...",
       "source_id": "1813814f-5dec-459e-a3d5-c43e17d6280a",
       "source_title": "O falso divórcio de ciência e filosofia.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_758_falso_divorcio.m4a",
+      "tamanho_bytes": 40664111
     },
     {
       "arquivo": "cof_759_mundo_exterior.m4a",
@@ -14333,7 +14421,9 @@
       "focus_preview": "[ID]: livro-o-mundo-exterior-e-as-perguntas-c-pticas\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 759/781\n[ANTERIOR]: livro-o-falso-div-rcio-de-ci-ncia-e-filosofia\n[PRÓXIMA]: livro-o-que-...",
       "source_id": "acf295ff-0df3-4bab-bd49-ac0829dff0db",
       "source_title": "O mundo exterior e as perguntas cépticas.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_759_mundo_exterior.m4a",
+      "tamanho_bytes": 3692533
     },
     {
       "arquivo": "cof_760_psique.m4a",
@@ -14350,7 +14440,9 @@
       "focus_preview": "[ID]: livro-o-que-psique\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 760/781\n[ANTERIOR]: livro-o-mundo-exterior-e-as-perguntas-c-pticas\n[PRÓXIMA]: livro-o-que-um-milagre\n\nINSTRUÇÕES PARA...",
       "source_id": "fc32b5ce-d289-48e9-acbe-150f12a3d937",
       "source_title": "O que é psique.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_760_psique.m4a",
+      "tamanho_bytes": 3303210
     },
     {
       "arquivo": "cof_761_milagre.m4a",
@@ -14367,7 +14459,9 @@
       "focus_preview": "[ID]: livro-o-que-um-milagre\n[CATEGORIA]: Livro\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 761/781\n[ANTERIOR]: livro-o-que-psique\n[PRÓXIMA]: livro-o-trauma-da-emerg-ncia-da-raz-o\n\nINSTRUÇÕES PARA O ÁUDIO\n...",
       "source_id": "e47bbb3a-652a-49fe-b389-f31b4ff9e494",
       "source_title": "O que é um milagre.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_761_milagre.m4a",
+      "tamanho_bytes": 61319681
     },
     {
       "arquivo": "cof_762_trauma_emergencia.m4a",
@@ -14384,24 +14478,29 @@
       "focus_preview": "[ID]: livro-o-trauma-da-emerg-ncia-da-raz-o\n[CATEGORIA]: Livro\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 762/781\n[ANTERIOR]: livro-o-que-um-milagre\n[PRÓXIMA]: livro-problemas-de-m-todo-nas-ci-ncias-human...",
       "source_id": "73728ad8-3c38-4269-827a-dc8ea8eec55a",
       "source_title": "O trauma da emergência da razão.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_762_trauma_emergencia.m4a",
+      "tamanho_bytes": 40241918
     },
     {
-      "arquivo": "cof_763_problemas_metodo.m4a",
+      "arquivo": "cof_763_problemas_metodo_ciencias_humanas.m4a",
       "cena_numero": 763,
       "slug": "livro-problemas-de-m-todo-nas-ci-ncias-humanas",
       "kind": "livro",
       "titulo_completo": "Problemas de método nas ciências humanas",
       "audio_format": "Deep Dive",
       "nlm_format": "deep_dive",
-      "artifact_id": "0ff24453-5443-48dd-8cf2-bac3fc30ff77",
-      "data_geracao": "2026-06-27T09:08:46.628427",
+      "artifact_id": "8be21f9a-1b66-4bd4-8c03-a38fc88ef254",
+      "data_geracao": "2026-06-30T09:39:37.418955",
       "prompt_filename": "livro-problemas-de-m-todo-nas-ci-ncias-humanas.md",
       "prompt_chars": 2134,
       "focus_preview": "[ID]: livro-problemas-de-m-todo-nas-ci-ncias-humanas\n[CATEGORIA]: Livro\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 763/781\n[ANTERIOR]: livro-o-trauma-da-emerg-ncia-da-raz-o\n[PRÓXIMA]: livro-quem-gurdjieff...",
       "source_id": "bb597b85-8818-428a-a51c-112b40d50fd5",
       "source_title": "Problemas de método nas ciências humanas.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "audios/cof_763_problemas_metodo_ciencias_humanas.m4a",
+      "tamanho_bytes": 25469124,
+      "downloaded_at": "2026-06-30T10:40:40.464464"
     },
     {
       "arquivo": "cof_764_quem_gurdjieff.m4a",
@@ -14418,7 +14517,9 @@
       "focus_preview": "[ID]: livro-quem-gurdjieff\n[CATEGORIA]: Livro\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 764/781\n[ANTERIOR]: livro-problemas-de-m-todo-nas-ci-ncias-humanas\n[PRÓXIMA]: livro-quem-o-sujeito-da-hist-ria\n\nINS...",
       "source_id": "11285e30-31b1-4f15-bb30-ae40a2c06e7c",
       "source_title": "Quem é Gurdjieff.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_764_quem_gurdjieff.m4a",
+      "tamanho_bytes": 54794220
     },
     {
       "arquivo": "cof_765_quem_sujeito.m4a",
@@ -14435,7 +14536,9 @@
       "focus_preview": "[ID]: livro-quem-o-sujeito-da-hist-ria\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 765/781\n[ANTERIOR]: livro-quem-gurdjieff\n[PRÓXIMA]: livro-quest-es-de-simbolismo-geom-trico\n\nINSTRUÇÕES...",
       "source_id": "21005e02-5edd-4b7f-a818-b383a3b57f17",
       "source_title": "Quem é o sujeito da História.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_765_quem_sujeito.m4a",
+      "tamanho_bytes": 3577489
     },
     {
       "arquivo": "cof_766_questoes_simbolismo.m4a",
@@ -14452,7 +14555,9 @@
       "focus_preview": "[ID]: livro-quest-es-de-simbolismo-geom-trico\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 766/781\n[ANTERIOR]: livro-quem-o-sujeito-da-hist-ria\n[PRÓXIMA]: livro-sistema-filos-fico-olavo-d...",
       "source_id": "228947a1-fd96-475e-b010-4cab3e93140c",
       "source_title": "Questões de Simbolismo Geométrico.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_766_questoes_simbolismo.m4a",
+      "tamanho_bytes": 4025828
     },
     {
       "arquivo": "cof_767_sistema_filosofico.m4a",
@@ -14469,7 +14574,9 @@
       "focus_preview": "[ID]: livro-sistema-filos-fico-olavo-de-carvalho\n[CATEGORIA]: Livro\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 767/781\n[ANTERIOR]: livro-quest-es-de-simbolismo-geom-trico\n[PRÓXIMA]: livro-sobre-a-arte-de-...",
       "source_id": "5d8c14df-8776-484d-9b21-e37f45785479",
       "source_title": "Sistema Filosófico Olavo de Carvalho.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_767_sistema_filosofico.m4a",
+      "tamanho_bytes": 44130899
     },
     {
       "arquivo": "cof_768_sobre_arte.m4a",
@@ -14486,7 +14593,9 @@
       "focus_preview": "[ID]: livro-sobre-a-arte-de-estudar\n[CATEGORIA]: Livro\n[FORMATO]: The Debate\n[POSIÇÃO MESTRA]: 768/781\n[ANTERIOR]: livro-sistema-filos-fico-olavo-de-carvalho\n[PRÓXIMA]: livro-teses-sobre-o-poder\n\nINST...",
       "source_id": "a6b43719-d4ce-43e2-89c7-d0b900b6d96a",
       "source_title": "Sobre a Arte de Estudar.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_768_sobre_arte.m4a",
+      "tamanho_bytes": 42110958
     },
     {
       "arquivo": "cof_769_teses_sobre.m4a",
@@ -14503,7 +14612,9 @@
       "focus_preview": "[ID]: livro-teses-sobre-o-poder\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 769/781\n[ANTERIOR]: livro-sobre-a-arte-de-estudar\n[PRÓXIMA]: livro-um-guia-para-o-cof\n\nINSTRUÇÕES PARA O ÁUDIO...",
       "source_id": "d9f1ed84-cc37-4f7e-a95b-d4930e611426",
       "source_title": "Teses sobre o Poder.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_769_teses_sobre.m4a",
+      "tamanho_bytes": 4483879
     },
     {
       "arquivo": "cof_770_guia_cof.m4a",
@@ -14520,7 +14631,9 @@
       "focus_preview": "[ID]: livro-um-guia-para-o-cof\n[CATEGORIA]: Livro\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 770/781\n[ANTERIOR]: livro-teses-sobre-o-poder\n[PRÓXIMA]: livro-uma-defesa-cr-tica-de-olavo-contra-cantor\n\nINSTR...",
       "source_id": "f21c8068-5538-4eac-8e72-c0b663f27357",
       "source_title": "Um guia para o COF.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_770_guia_cof.m4a",
+      "tamanho_bytes": 26694731
     },
     {
       "arquivo": "cof_771_defesa_critica.m4a",
@@ -14537,7 +14650,9 @@
       "focus_preview": "[ID]: livro-uma-defesa-cr-tica-de-olavo-contra-cantor\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 771/781\n[ANTERIOR]: livro-um-guia-para-o-cof\n[PRÓXIMA]: livro-uma-hist-ria-da-filosofia-...",
       "source_id": "eff04dd2-0ce9-4097-84c2-872c5a04f6d0",
       "source_title": "Uma defesa à crítica de Olavo contra Cantor.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_771_defesa_critica.m4a",
+      "tamanho_bytes": 3764249
     },
     {
       "arquivo": "cof_772_historia_filosofia.m4a",
@@ -14554,7 +14669,9 @@
       "focus_preview": "[ID]: livro-uma-hist-ria-da-filosofia-para-fil-sofos\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 772/781\n[ANTERIOR]: livro-uma-defesa-cr-tica-de-olavo-contra-cantor\n[PRÓXIMA]: livro-uma-...",
       "source_id": "44b7f4aa-85dc-486a-b98f-4494db9347ee",
       "source_title": "Uma história da filosofia para filósofos.md.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_772_historia_filosofia.m4a",
+      "tamanho_bytes": 4323265
     },
     {
       "arquivo": "cof_773_nota_inconclusiva.m4a",
@@ -14571,7 +14688,9 @@
       "focus_preview": "[ID]: livro-uma-nota-inconclusiva\n[CATEGORIA]: Livro\n[FORMATO]: The Brief\n[POSIÇÃO MESTRA]: 773/781\n[ANTERIOR]: livro-uma-hist-ria-da-filosofia-para-fil-sofos\n[PRÓXIMA]: — (última da categoria)\n\nINSTR...",
       "source_id": "f2d6fe6f-489f-4672-b613-e929c0ceb700",
       "source_title": "Uma nota inconclusiva.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_773_nota_inconclusiva.m4a",
+      "tamanho_bytes": 3358491
     },
     {
       "arquivo": "cof_774_apostilas_temos.m4a",
@@ -14588,7 +14707,9 @@
       "focus_preview": "[ID]: apostila-01-n-s-temos-aqui-um-longo-programa-a-cumpr\n[CATEGORIA]: Apostila\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 774/781\n[ANTERIOR]: — (primeira da categoria)\n[PRÓXIMA]: apostila-02-estamos-t-o...",
       "source_id": "58480743-81ab-434c-a2fb-6114483bd056",
       "source_title": "COF-Tematicas-Apostilas.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_774_apostilas_temos.m4a",
+      "tamanho_bytes": 36415689
     },
     {
       "arquivo": "cof_775_apostilas_estamos.m4a",
@@ -14605,7 +14726,9 @@
       "focus_preview": "[ID]: apostila-02-estamos-t-o-acostumados-a-ouvir-cientist\n[CATEGORIA]: Apostila\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 775/781\n[ANTERIOR]: apostila-01-n-s-temos-aqui-um-longo-programa-a-cumpr\n[PRÓXIM...",
       "source_id": "58480743-81ab-434c-a2fb-6114483bd056",
       "source_title": "COF-Tematicas-Apostilas.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_775_apostilas_estamos.m4a",
+      "tamanho_bytes": 48237384
     },
     {
       "arquivo": "cof_776_apostilas_estamos.m4a",
@@ -14622,7 +14745,9 @@
       "focus_preview": "[ID]: apostila-03-estamos-t-o-acostumados-a-ouvir-cientist\n[CATEGORIA]: Apostila\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 776/781\n[ANTERIOR]: apostila-02-estamos-t-o-acostumados-a-ouvir-cientist\n[PRÓXIM...",
       "source_id": "58480743-81ab-434c-a2fb-6114483bd056",
       "source_title": "COF-Tematicas-Apostilas.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_776_apostilas_estamos.m4a",
+      "tamanho_bytes": 52807148
     },
     {
       "arquivo": "cof_777_apostilas_melhor.m4a",
@@ -14639,7 +14764,9 @@
       "focus_preview": "[ID]: apostila-04-a-melhor-maneira-de-entrar-em-qualquer-a\n[CATEGORIA]: Apostila\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 777/781\n[ANTERIOR]: apostila-03-estamos-t-o-acostumados-a-ouvir-cientist\n[PRÓXIM...",
       "source_id": "58480743-81ab-434c-a2fb-6114483bd056",
       "source_title": "COF-Tematicas-Apostilas.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_777_apostilas_melhor.m4a",
+      "tamanho_bytes": 34438329
     },
     {
       "arquivo": "cof_778_apostilas.m4a",
@@ -14656,7 +14783,9 @@
       "focus_preview": "[ID]: apostila-05-1\n[CATEGORIA]: Apostila\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 778/781\n[ANTERIOR]: apostila-04-a-melhor-maneira-de-entrar-em-qualquer-a\n[PRÓXIMA]: apostila-06-a-melhor-maneira-de-ent...",
       "source_id": "58480743-81ab-434c-a2fb-6114483bd056",
       "source_title": "COF-Tematicas-Apostilas.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_778_apostilas.m4a",
+      "tamanho_bytes": 42428513
     },
     {
       "arquivo": "cof_779_apostilas_melhor.m4a",
@@ -14673,7 +14802,9 @@
       "focus_preview": "[ID]: apostila-06-a-melhor-maneira-de-entrar-em-qualquer-a\n[CATEGORIA]: Apostila\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 779/781\n[ANTERIOR]: apostila-05-1\n[PRÓXIMA]: apostila-07-a-quest-o-da-defini-o-d...",
       "source_id": "58480743-81ab-434c-a2fb-6114483bd056",
       "source_title": "COF-Tematicas-Apostilas.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_779_apostilas_melhor.m4a",
+      "tamanho_bytes": 52120388
     },
     {
       "arquivo": "cof_780_apostilas_questao.m4a",
@@ -14690,7 +14821,9 @@
       "focus_preview": "[ID]: apostila-07-a-quest-o-da-defini-o-da-psique\n[CATEGORIA]: Apostila\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 780/781\n[ANTERIOR]: apostila-06-a-melhor-maneira-de-entrar-em-qualquer-a\n[PRÓXIMA]: — (úl...",
       "source_id": "58480743-81ab-434c-a2fb-6114483bd056",
       "source_title": "COF-Tematicas-Apostilas.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_780_apostilas_questao.m4a",
+      "tamanho_bytes": 53680037
     },
     {
       "arquivo": "cof_781_artigos_artigo.m4a",
@@ -14707,7 +14840,9 @@
       "focus_preview": "[ID]: artigo-01-artigo\n[CATEGORIA]: Artigo\n[FORMATO]: Deep Dive\n[POSIÇÃO MESTRA]: 781/781\n[ANTERIOR]: — (primeira da categoria)\n[PRÓXIMA]: — (última da categoria)\n\nINSTRUÇÕES PARA O ÁUDIO\n\nORIGEM E ID...",
       "source_id": "72bf8cdb-c044-4532-9807-47d3c5ff872c",
       "source_title": "COF-Tematicas-Artigos.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_781_artigos_artigo.m4a",
+      "tamanho_bytes": 60375823
     },
     {
       "arquivo": "cof_782_teoria_estado.m4a",
@@ -14724,9 +14859,11 @@
       "focus_preview": "[ID]: teoria-estado-01-teoria-do-estado\n[CATEGORIA]: Teoria do Estado\n[FORMATO]: The Debate\n[POSIÇÃO MESTRA]: 782/781\n[ANTERIOR]: — (primeira da categoria)\n[PRÓXIMA]: — (última da categoria)\n\nINSTRUÇÕ...",
       "source_id": "0300a3d6-26b3-413d-bc98-e32bc16ee344",
       "source_title": "COF-Tematicas-Teoria-do-estado.md",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/filosofia/cof_v2/audios/cof_782_teoria_estado.m4a",
+      "tamanho_bytes": 48789561
     }
   ],
   "total_itens_processados": 782,
-  "ultima_atualizacao": "2026-06-29T13:32:20.744034"
+  "ultima_atualizacao": "2026-06-30T09:39:37.422390"
 }

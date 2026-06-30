@@ -50,14 +50,12 @@ notify() {
   fi
 }
 
-# Alternância diária com Aristóteles (mesma conta 'default'):
-# COF roda em dias PARES do ano; Aristóteles em ÍMPARES.
-# (10# força base decimal — evita erro de octal em 008/009.)
-DOY=$(( 10#$(date +%j) ))
-if [ $(( DOY % 2 )) -ne 0 ]; then
-  echo "$(date '+%Y-%m-%d %H:%M') — dia ímpar (DOY=$DOY): vez do Aristóteles, COF pula." >>"$LOG"
-  exit 0
-fi
+# COF v2 CONCLUÍDO — 782/782 baixados e auditados no dell em 2026-06-30.
+# Cron DESATIVADO: nada mais a criar/baixar. Sai ANTES do nlm_quota_mark, então
+# NÃO consome a cota da conta 'default' — libera a conta inteira para o Aristóteles
+# (que agora roda todo dia). Para reativar, remover este bloco. (bd notebooklm_edson-fey)
+echo "$(date '+%Y-%m-%d %H:%M') — COF completo 782/782: cron desativado, saindo." >>"$LOG"
+exit 0
 
 # Quota guard: só roda se >= 25h desde o último lote da conta 'default' (COF ou Aristóteles).
 source "$PROJECT_DIR/scripts/nlm_quota_guard.sh"
