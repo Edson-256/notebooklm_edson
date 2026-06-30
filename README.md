@@ -1,9 +1,9 @@
-# NotebookLM Michalk — Sistema de Geração de Áudios Educativos
+# NotebookLM Edson — Sistema de Geração de Áudios Educativos (humanidades)
 
-Sistema automatizado de geração de **áudios educativos deep-dive** a partir de notebooks do Google NotebookLM, utilizando a CLI `nlm` e arquitetura fire-and-forget.
+Sistema automatizado de geração de **áudios educativos deep-dive** a partir de notebooks do Google NotebookLM, utilizando a CLI `nlm` e arquitetura fire-and-forget. Conteúdo: filosofia, teologia, literatura, história, idiomas.
 
-**Conta:** `edson@michalkcare.com` (técnica/científica/médica)
-**Perfil nlm:** `profissional`
+**Conta:** `edson.michalkiewicz@gmail.com` (pessoal — humanidades)
+**Perfil nlm:** `default`
 **Plano Google:** NotebookLM Pro (50 áudios/dia)
 
 ---
