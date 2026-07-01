@@ -2198,7 +2198,9 @@
       "prompt_chars": 4209,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_132_l10_c01_gringoire_a_plusieurs_bonnes_ide.m4a",
+      "tamanho_bytes": 26486192
     },
     {
       "seq_global": 133,
@@ -2213,7 +2215,9 @@
       "prompt_chars": 3305,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_133_l10_c01_gringoire_a_plusieurs_bonnes_ide.m4a",
+      "tamanho_bytes": 24248746
     },
     {
       "seq_global": 134,
@@ -2228,9 +2232,56 @@
       "prompt_chars": 3373,
       "language": "fr-FR",
       "audio_format": "deep_dive",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_134_l10_c01_gringoire_a_plusieurs_bonnes_ide.m4a",
+      "tamanho_bytes": 34587737
+    },
+    {
+      "seq_global": 135,
+      "scene_identifier": "L10-C01-GRINGOIRE_A_PLUSIEURS_BONNES_IDES_DE_SUITE_RUE_DES_BERNARDINS_cena004",
+      "cena_filename": "L10-C01-GRINGOIRE_A_PLUSIEURS_BONNES_IDES_DE_SUITE_RUE_DES_BERNARDINS_cena004.md",
+      "prompt_filename": "L10-C01-GRINGOIRE_A_PLUSIEURS_BONNES_IDES_DE_SUITE_RUE_DES_BERNARDINS_prompt004.md",
+      "arquivo": "notredame_135_l10_c01_gringoire_a_plusieurs_bonnes_ide.m4a",
+      "artifact_id": "98080d61-94b5-409c-9913-433827af7f79",
+      "source_id": "998ea3f4-2cdf-4347-a2bc-22055833e27c",
+      "book_id": "L10-C01-GRINGOIRE_A_PLUSIEURS_BONNES_IDES_DE_SUITE_RUE_DES_BERNARDINS",
+      "data_geracao": "2026-07-01T08:12:16.945742",
+      "prompt_chars": 3441,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 136,
+      "scene_identifier": "L10-C01-GRINGOIRE_A_PLUSIEURS_BONNES_IDES_DE_SUITE_RUE_DES_BERNARDINS_cena005",
+      "cena_filename": "L10-C01-GRINGOIRE_A_PLUSIEURS_BONNES_IDES_DE_SUITE_RUE_DES_BERNARDINS_cena005.md",
+      "prompt_filename": "L10-C01-GRINGOIRE_A_PLUSIEURS_BONNES_IDES_DE_SUITE_RUE_DES_BERNARDINS_prompt005.md",
+      "arquivo": "notredame_136_l10_c01_gringoire_a_plusieurs_bonnes_ide.m4a",
+      "artifact_id": "dace4963-f33d-4f27-b50d-5bcfddeba6fc",
+      "source_id": "998ea3f4-2cdf-4347-a2bc-22055833e27c",
+      "book_id": "L10-C01-GRINGOIRE_A_PLUSIEURS_BONNES_IDES_DE_SUITE_RUE_DES_BERNARDINS",
+      "data_geracao": "2026-07-01T08:14:37.853343",
+      "prompt_chars": 3164,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 137,
+      "scene_identifier": "L10-C02-FAITES-VOUS_TRUAND_cena001",
+      "cena_filename": "L10-C02-FAITES-VOUS_TRUAND_cena001.md",
+      "prompt_filename": "L10-C02-FAITES-VOUS_TRUAND_prompt001.md",
+      "arquivo": "notredame_137_l10_c02_faites_vous_truand_cena001.m4a",
+      "artifact_id": "bb0a9b11-ca19-4b69-862f-992c69343c09",
+      "source_id": "03bc4ca3-6895-4b5c-a06e-968040dc8c2e",
+      "book_id": "L10-C02-FAITES-VOUS_TRUAND",
+      "data_geracao": "2026-07-01T08:16:58.034104",
+      "prompt_chars": 3007,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
       "status": "created"
     }
   ],
-  "total_itens_processados": 134,
-  "ultima_atualizacao": "2026-06-30T08:16:13.308721"
+  "total_itens_processados": 137,
+  "ultima_atualizacao": "2026-07-01T08:16:58.036859"
 }
