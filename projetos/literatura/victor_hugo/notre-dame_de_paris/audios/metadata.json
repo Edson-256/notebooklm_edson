@@ -2249,7 +2249,9 @@
       "prompt_chars": 3441,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_135_l10_c01_gringoire_a_plusieurs_bonnes_ide.m4a",
+      "tamanho_bytes": 25053539
     },
     {
       "seq_global": 136,
@@ -2264,7 +2266,9 @@
       "prompt_chars": 3164,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_136_l10_c01_gringoire_a_plusieurs_bonnes_ide.m4a",
+      "tamanho_bytes": 16346661
     },
     {
       "seq_global": 137,
@@ -2279,9 +2283,56 @@
       "prompt_chars": 3007,
       "language": "fr-FR",
       "audio_format": "deep_dive",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_137_l10_c02_faites_vous_truand_cena001.m4a",
+      "tamanho_bytes": 27978608
+    },
+    {
+      "seq_global": 138,
+      "scene_identifier": "L10-C02-FAITES-VOUS_TRUAND_cena002",
+      "cena_filename": "L10-C02-FAITES-VOUS_TRUAND_cena002.md",
+      "prompt_filename": "L10-C02-FAITES-VOUS_TRUAND_prompt002.md",
+      "arquivo": "notredame_138_l10_c02_faites_vous_truand_cena002.m4a",
+      "artifact_id": "f0c7527c-f64a-4fc0-b1ca-10ea334779a7",
+      "source_id": "03bc4ca3-6895-4b5c-a06e-968040dc8c2e",
+      "book_id": "L10-C02-FAITES-VOUS_TRUAND",
+      "data_geracao": "2026-07-02T08:12:31.971392",
+      "prompt_chars": 3974,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 139,
+      "scene_identifier": "L10-C02-FAITES-VOUS_TRUAND_cena003",
+      "cena_filename": "L10-C02-FAITES-VOUS_TRUAND_cena003.md",
+      "prompt_filename": "L10-C02-FAITES-VOUS_TRUAND_prompt003.md",
+      "arquivo": "notredame_139_l10_c02_faites_vous_truand_cena003.m4a",
+      "artifact_id": "2a46bc84-a3f0-4b00-b44a-fad72ab36b48",
+      "source_id": "03bc4ca3-6895-4b5c-a06e-968040dc8c2e",
+      "book_id": "L10-C02-FAITES-VOUS_TRUAND",
+      "data_geracao": "2026-07-02T08:14:53.413389",
+      "prompt_chars": 3508,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 140,
+      "scene_identifier": "L10-C03-VIVE_LA_JOIE_cena001",
+      "cena_filename": "L10-C03-VIVE_LA_JOIE_cena001.md",
+      "prompt_filename": "L10-C03-VIVE_LA_JOIE_prompt001.md",
+      "arquivo": "notredame_140_l10_c03_vive_la_joie_cena001.m4a",
+      "artifact_id": "8f3f1982-2018-41e3-a8c7-e323974eda88",
+      "source_id": "7d8c6bf8-7906-4201-a935-c08aa6b272f5",
+      "book_id": "L10-C03-VIVE_LA_JOIE",
+      "data_geracao": "2026-07-02T08:17:15.326524",
+      "prompt_chars": 3934,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
       "status": "created"
     }
   ],
-  "total_itens_processados": 137,
-  "ultima_atualizacao": "2026-07-01T08:16:58.036859"
+  "total_itens_processados": 140,
+  "ultima_atualizacao": "2026-07-02T08:17:15.329841"
 }
