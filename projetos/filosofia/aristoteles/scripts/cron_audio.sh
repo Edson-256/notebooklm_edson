@@ -61,9 +61,16 @@ nlm_quota_check >>"$LOG" || exit 0
 
   echo
   echo "--- CREATE (dispara novos áudios via CLI, respeitando limite $LIMIT) ---"
-  nlm_quota_mark  # registra início do lote (impede próxima rodada por 25h)
-  /opt/homebrew/bin/python3 "$RUNNER" --create "$LIMIT"
-  rc_create=$?
+  create_out="$(mktemp)"
+  /opt/homebrew/bin/python3 "$RUNNER" --create "$LIMIT" | tee "$create_out"
+  rc_create=${PIPESTATUS[0]}
+  ok_count="$(grep -oE 'Resultado: ok=[0-9]+' "$create_out" | tail -1 | grep -oE '[0-9]+')"
+  rm -f "$create_out"
+  if [ "${ok_count:-0}" -gt 0 ]; then
+    nlm_quota_mark  # só marca cota se pelo menos 1 áudio foi criado de fato (impede próxima rodada por 25h)
+  else
+    echo "quota guard: 0 áudios criados neste lote — NÃO marcando cota (nada foi consumido de fato)."
+  fi
 
   echo
   echo "--- STATUS final ---"
@@ -74,8 +81,8 @@ nlm_quota_check >>"$LOG" || exit 0
 } >>"$LOG" 2>&1
 
 if [ "${rc:-1}" -ne 0 ]; then
-  if grep -q "nlm.*nao autenticado\|auth.*expir" "$LOG" 2>/dev/null; then
-    notify "$TAG — AUTH EXPIRADO" "Rode: nlm login" "Funk"
+  if grep -qiE "nlm.*nao autenticado|auth.*expir|ClientAuthenticationError" "$LOG" 2>/dev/null; then
+    notify "$TAG — AUTH EXPIRADO" "Rode: nlm login --profile default" "Funk"
   else
     summary="$(grep -E 'FAIL|ERRO' "$LOG" | tail -2 | tr '\n' ' ' | cut -c1-200)"
     [ -z "$summary" ] && summary="exit code $rc — ver $LOG"
@@ -88,7 +95,7 @@ fi
 # create=criados, status=pendentes); aqui só resolvemos o status e mandamos.
 _tg_report() {
   local _status _rc _sum
-  if grep -qE "nlm.*nao autenticado|auth.*expir|Authentication.*fail" "$LOG" 2>/dev/null; then
+  if grep -qiE "nlm.*nao autenticado|auth.*expir|Authentication.*fail|ClientAuthenticationError" "$LOG" 2>/dev/null; then
     _status="auth_expired"
   elif [ "${rc:-1}" -ne 0 ]; then
     _status="failed"; _rc="${rc:-1}"
