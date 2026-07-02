@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T19:52:03Z",
+  "updated_at": "2026-07-02T23:47:14Z",
   "audios": {
     "05_etica/01_etica_nicomaco/L01-C01_cena01": {
       "artifact_id": "46097252-f46f-41a0-b77f-86b89e4b0945",
@@ -1976,106 +1976,276 @@
       "artifact_id": "9717ebc2-6c70-4df7-b0c6-594b92e2e3e7",
       "audio_title": "aristoteles_32_l03_c13_cena01_retorica",
       "audio_filename": "aristoteles_32_l03_c13_cena01_retorica.m4a",
-      "status": "created",
-      "created_at": "2026-07-01T19:19:44Z"
+      "status": "downloaded",
+      "created_at": "2026-07-01T19:19:44Z",
+      "downloaded_at": "2026-07-02T22:52:34Z",
+      "bytes": 24514061
     },
     "07_retorica_poetica/01_retorica/L03-C14_cena01": {
       "artifact_id": "01d06471-dd35-4ce4-b1e8-2a048d1d7b5f",
       "audio_title": "aristoteles_32_l03_c14_cena01_retorica",
       "audio_filename": "aristoteles_32_l03_c14_cena01_retorica.m4a",
-      "status": "created",
-      "created_at": "2026-07-01T19:21:53Z"
+      "status": "downloaded",
+      "created_at": "2026-07-01T19:21:53Z",
+      "downloaded_at": "2026-07-02T22:53:32Z",
+      "bytes": 41288120
     },
     "07_retorica_poetica/01_retorica/L03-C15_cena01": {
       "artifact_id": "66d8f428-89df-470f-83ea-99820cd6be63",
       "audio_title": "aristoteles_32_l03_c15_cena01_retorica",
       "audio_filename": "aristoteles_32_l03_c15_cena01_retorica.m4a",
-      "status": "created",
-      "created_at": "2026-07-01T19:24:03Z"
+      "status": "downloaded",
+      "created_at": "2026-07-01T19:24:03Z",
+      "downloaded_at": "2026-07-02T22:54:26Z",
+      "bytes": 29535900
     },
     "07_retorica_poetica/01_retorica/L03-C16_cena01": {
       "artifact_id": "f68c4286-5998-4cb4-86d2-9219b2cb027a",
       "audio_title": "aristoteles_32_l03_c16_cena01_retorica",
       "audio_filename": "aristoteles_32_l03_c16_cena01_retorica.m4a",
-      "status": "created",
-      "created_at": "2026-07-01T19:26:13Z"
+      "status": "downloaded",
+      "created_at": "2026-07-01T19:26:13Z",
+      "downloaded_at": "2026-07-02T22:55:18Z",
+      "bytes": 47948911
     },
     "07_retorica_poetica/01_retorica/L03-C17_cena01": {
       "artifact_id": "af705434-c07f-48a7-a69e-73dbb6a5a3a9",
       "audio_title": "aristoteles_32_l03_c17_cena01_retorica",
       "audio_filename": "aristoteles_32_l03_c17_cena01_retorica.m4a",
-      "status": "created",
-      "created_at": "2026-07-01T19:28:24Z"
+      "status": "downloaded",
+      "created_at": "2026-07-01T19:28:24Z",
+      "downloaded_at": "2026-07-02T22:56:19Z",
+      "bytes": 55943629
     },
     "07_retorica_poetica/01_retorica/L03-C18_cena01": {
       "artifact_id": "051e3c41-d6bf-4872-b29b-b63d87a13e58",
       "audio_title": "aristoteles_32_l03_c18_cena01_retorica",
       "audio_filename": "aristoteles_32_l03_c18_cena01_retorica.m4a",
-      "status": "created",
-      "created_at": "2026-07-01T19:30:34Z"
+      "status": "downloaded",
+      "created_at": "2026-07-01T19:30:34Z",
+      "downloaded_at": "2026-07-02T22:57:23Z",
+      "bytes": 26947230
     },
     "07_retorica_poetica/01_retorica/L03-C19_cena01": {
       "artifact_id": "4d6bd983-07e9-46f3-a9bf-26000b21906b",
       "audio_title": "aristoteles_32_l03_c19_cena01_retorica",
       "audio_filename": "aristoteles_32_l03_c19_cena01_retorica.m4a",
-      "status": "created",
-      "created_at": "2026-07-01T19:32:43Z"
+      "status": "downloaded",
+      "created_at": "2026-07-01T19:32:43Z",
+      "downloaded_at": "2026-07-02T22:58:13Z",
+      "bytes": 27352357
     },
     "04_metafisica/01_metafisica/L01-C01_cena01": {
       "artifact_id": "bc272232-5ce3-494b-88ea-4daa53def7a5",
       "audio_title": "aristoteles_24_l01_c01_cena01_metafisica",
       "audio_filename": "aristoteles_24_l01_c01_cena01_metafisica.m4a",
-      "status": "created",
-      "created_at": "2026-07-01T19:34:54Z"
+      "status": "downloaded",
+      "created_at": "2026-07-01T19:34:54Z",
+      "downloaded_at": "2026-07-02T22:59:04Z",
+      "bytes": 36314088
     },
     "04_metafisica/01_metafisica/L01-C02_cena01": {
       "artifact_id": "6f4942e0-5451-4f37-bbd6-c5bf70d0d4c4",
       "audio_title": "aristoteles_24_l01_c02_cena01_metafisica",
       "audio_filename": "aristoteles_24_l01_c02_cena01_metafisica.m4a",
-      "status": "created",
-      "created_at": "2026-07-01T19:37:03Z"
+      "status": "downloaded",
+      "created_at": "2026-07-01T19:37:03Z",
+      "downloaded_at": "2026-07-02T22:59:57Z",
+      "bytes": 28846151
     },
     "04_metafisica/01_metafisica/L01-C03_cena01": {
       "artifact_id": "c3c1c5ee-9dc6-43a5-a69d-80c80da757f8",
       "audio_title": "aristoteles_24_l01_c03_cena01_metafisica",
       "audio_filename": "aristoteles_24_l01_c03_cena01_metafisica.m4a",
-      "status": "created",
-      "created_at": "2026-07-01T19:39:13Z"
+      "status": "downloaded",
+      "created_at": "2026-07-01T19:39:13Z",
+      "downloaded_at": "2026-07-02T23:00:50Z",
+      "bytes": 24506591
     },
     "04_metafisica/01_metafisica/L01-C04_cena01": {
       "artifact_id": "c107e9e3-0761-4ef6-9578-f239af2f39fe",
       "audio_title": "aristoteles_24_l01_c04_cena01_metafisica",
       "audio_filename": "aristoteles_24_l01_c04_cena01_metafisica.m4a",
-      "status": "created",
-      "created_at": "2026-07-01T19:41:22Z"
+      "status": "downloaded",
+      "created_at": "2026-07-01T19:41:22Z",
+      "downloaded_at": "2026-07-02T23:01:42Z",
+      "bytes": 28100375
     },
     "04_metafisica/01_metafisica/L01-C05_cena01": {
       "artifact_id": "e4570cba-3511-466e-abcd-585a38dc8042",
       "audio_title": "aristoteles_24_l01_c05_cena01_metafisica",
       "audio_filename": "aristoteles_24_l01_c05_cena01_metafisica.m4a",
-      "status": "created",
-      "created_at": "2026-07-01T19:43:32Z"
+      "status": "downloaded",
+      "created_at": "2026-07-01T19:43:32Z",
+      "downloaded_at": "2026-07-02T23:02:36Z",
+      "bytes": 43901442
     },
     "04_metafisica/01_metafisica/L01-C06_cena01": {
       "artifact_id": "db79dba9-9f77-4906-93b0-6d0cc4c5f5a1",
       "audio_title": "aristoteles_24_l01_c06_cena01_metafisica",
       "audio_filename": "aristoteles_24_l01_c06_cena01_metafisica.m4a",
-      "status": "created",
-      "created_at": "2026-07-01T19:45:41Z"
+      "status": "downloaded",
+      "created_at": "2026-07-01T19:45:41Z",
+      "downloaded_at": "2026-07-02T23:03:38Z",
+      "bytes": 52727962
     },
     "04_metafisica/01_metafisica/L01-C07_cena01": {
       "artifact_id": "4bdb393e-0fda-4152-ab4a-a667035fe2b7",
       "audio_title": "aristoteles_24_l01_c07_cena01_metafisica",
       "audio_filename": "aristoteles_24_l01_c07_cena01_metafisica.m4a",
-      "status": "created",
-      "created_at": "2026-07-01T19:47:51Z"
+      "status": "downloaded",
+      "created_at": "2026-07-01T19:47:51Z",
+      "downloaded_at": "2026-07-02T23:04:33Z",
+      "bytes": 22652492
     },
     "04_metafisica/01_metafisica/L01-C09_cena01": {
       "artifact_id": "2de31e4b-26c7-4aa0-92f3-4af244d030fe",
       "audio_title": "aristoteles_24_l01_c09_cena01_metafisica",
       "audio_filename": "aristoteles_24_l01_c09_cena01_metafisica.m4a",
+      "status": "downloaded",
+      "created_at": "2026-07-01T19:52:03Z",
+      "downloaded_at": "2026-07-02T23:05:29Z",
+      "bytes": 52710732
+    },
+    "07_retorica_poetica/01_retorica/L03-C12_cena01": {
+      "artifact_id": "57748c25-710f-4200-897e-fbd8b0a5d28e",
+      "audio_title": "aristoteles_32_l03_c12_cena01_retorica",
+      "audio_filename": "aristoteles_32_l03_c12_cena01_retorica.m4a",
       "status": "created",
-      "created_at": "2026-07-01T19:52:03Z"
+      "created_at": "2026-07-02T23:05:52Z"
+    },
+    "04_metafisica/01_metafisica/L01-C08_cena01": {
+      "artifact_id": "63b5f39d-58c8-4b5c-be58-af1ce9c48f52",
+      "audio_title": "aristoteles_24_l01_c08_cena01_metafisica",
+      "audio_filename": "aristoteles_24_l01_c08_cena01_metafisica.m4a",
+      "status": "created",
+      "created_at": "2026-07-02T23:08:02Z"
+    },
+    "04_metafisica/01_metafisica/L01-C09_cena02": {
+      "artifact_id": "0799f771-a558-42c2-a0b8-d456a8a40236",
+      "audio_title": "aristoteles_24_l01_c09_cena02_metafisica",
+      "audio_filename": "aristoteles_24_l01_c09_cena02_metafisica.m4a",
+      "status": "created",
+      "created_at": "2026-07-02T23:10:11Z"
+    },
+    "04_metafisica/01_metafisica/L01-C10_cena01": {
+      "artifact_id": "0ab0e432-459e-4fd5-beba-d3e14e152ac6",
+      "audio_title": "aristoteles_24_l01_c10_cena01_metafisica",
+      "audio_filename": "aristoteles_24_l01_c10_cena01_metafisica.m4a",
+      "status": "created",
+      "created_at": "2026-07-02T23:12:20Z"
+    },
+    "04_metafisica/01_metafisica/L02-C01_cena01": {
+      "artifact_id": "07f115d9-ef45-41f2-9164-ad4ecd6282c4",
+      "audio_title": "aristoteles_24_l02_c01_cena01_metafisica",
+      "audio_filename": "aristoteles_24_l02_c01_cena01_metafisica.m4a",
+      "status": "created",
+      "created_at": "2026-07-02T23:14:39Z"
+    },
+    "04_metafisica/01_metafisica/L02-C02_cena01": {
+      "artifact_id": "63ef10e7-a265-450b-b24a-00b8f16c8374",
+      "audio_title": "aristoteles_24_l02_c02_cena01_metafisica",
+      "audio_filename": "aristoteles_24_l02_c02_cena01_metafisica.m4a",
+      "status": "created",
+      "created_at": "2026-07-02T23:16:48Z"
+    },
+    "04_metafisica/01_metafisica/L02-C03_cena01": {
+      "artifact_id": "d43c4fdc-931b-4ead-957f-a6007352a948",
+      "audio_title": "aristoteles_24_l02_c03_cena01_metafisica",
+      "audio_filename": "aristoteles_24_l02_c03_cena01_metafisica.m4a",
+      "status": "created",
+      "created_at": "2026-07-02T23:19:10Z"
+    },
+    "04_metafisica/01_metafisica/L03-C01_cena01": {
+      "artifact_id": "46d3be09-7c5e-4876-9350-77fe6bc501b4",
+      "audio_title": "aristoteles_24_l03_c01_cena01_metafisica",
+      "audio_filename": "aristoteles_24_l03_c01_cena01_metafisica.m4a",
+      "status": "created",
+      "created_at": "2026-07-02T23:21:19Z"
+    },
+    "04_metafisica/01_metafisica/L03-C02_cena01": {
+      "artifact_id": "2d3a6830-38f6-40fe-8874-3f9f31c53817",
+      "audio_title": "aristoteles_24_l03_c02_cena01_metafisica",
+      "audio_filename": "aristoteles_24_l03_c02_cena01_metafisica.m4a",
+      "status": "created",
+      "created_at": "2026-07-02T23:23:29Z"
+    },
+    "04_metafisica/01_metafisica/L03-C03_cena01": {
+      "artifact_id": "8a98d505-176c-4d16-9a88-aa09ec197cc1",
+      "audio_title": "aristoteles_24_l03_c03_cena01_metafisica",
+      "audio_filename": "aristoteles_24_l03_c03_cena01_metafisica.m4a",
+      "status": "created",
+      "created_at": "2026-07-02T23:25:38Z"
+    },
+    "04_metafisica/01_metafisica/L03-C04_cena01": {
+      "artifact_id": "913b5958-ea2a-4a97-88cc-f0cdbc75c88f",
+      "audio_title": "aristoteles_24_l03_c04_cena01_metafisica",
+      "audio_filename": "aristoteles_24_l03_c04_cena01_metafisica.m4a",
+      "status": "created",
+      "created_at": "2026-07-02T23:27:48Z"
+    },
+    "04_metafisica/01_metafisica/L03-C04_cena02": {
+      "artifact_id": "126d9baf-80f0-4f3c-be75-3c45ad77e35e",
+      "audio_title": "aristoteles_24_l03_c04_cena02_metafisica",
+      "audio_filename": "aristoteles_24_l03_c04_cena02_metafisica.m4a",
+      "status": "created",
+      "created_at": "2026-07-02T23:29:58Z"
+    },
+    "04_metafisica/01_metafisica/L03-C05_cena01": {
+      "artifact_id": "03dff420-e1a8-4aa0-90d7-ed853971c65b",
+      "audio_title": "aristoteles_24_l03_c05_cena01_metafisica",
+      "audio_filename": "aristoteles_24_l03_c05_cena01_metafisica.m4a",
+      "status": "created",
+      "created_at": "2026-07-02T23:32:07Z"
+    },
+    "04_metafisica/01_metafisica/L03-C06_cena01": {
+      "artifact_id": "6318e33a-a55f-473e-bcfb-f54cca3f6fed",
+      "audio_title": "aristoteles_24_l03_c06_cena01_metafisica",
+      "audio_filename": "aristoteles_24_l03_c06_cena01_metafisica.m4a",
+      "status": "created",
+      "created_at": "2026-07-02T23:34:16Z"
+    },
+    "04_metafisica/01_metafisica/L04-C01_cena01": {
+      "artifact_id": "d4f60120-ed38-45bc-8fc3-8230194067c3",
+      "audio_title": "aristoteles_24_l04_c01_cena01_metafisica",
+      "audio_filename": "aristoteles_24_l04_c01_cena01_metafisica.m4a",
+      "status": "created",
+      "created_at": "2026-07-02T23:36:25Z"
+    },
+    "04_metafisica/01_metafisica/L04-C02_cena01": {
+      "artifact_id": "19d15e4d-fea1-49b2-a2aa-1f63909c7375",
+      "audio_title": "aristoteles_24_l04_c02_cena01_metafisica",
+      "audio_filename": "aristoteles_24_l04_c02_cena01_metafisica.m4a",
+      "status": "created",
+      "created_at": "2026-07-02T23:38:34Z"
+    },
+    "04_metafisica/01_metafisica/L04-C03_cena01": {
+      "artifact_id": "f394ac72-4e9a-4e77-83f7-815e2cd371dd",
+      "audio_title": "aristoteles_24_l04_c03_cena01_metafisica",
+      "audio_filename": "aristoteles_24_l04_c03_cena01_metafisica.m4a",
+      "status": "created",
+      "created_at": "2026-07-02T23:40:44Z"
+    },
+    "04_metafisica/01_metafisica/L04-C04_cena01": {
+      "artifact_id": "d2c01b10-351c-4361-9f30-06c3eadbb46d",
+      "audio_title": "aristoteles_24_l04_c04_cena01_metafisica",
+      "audio_filename": "aristoteles_24_l04_c04_cena01_metafisica.m4a",
+      "status": "created",
+      "created_at": "2026-07-02T23:42:55Z"
+    },
+    "04_metafisica/01_metafisica/L04-C04_cena02": {
+      "artifact_id": "ab000829-723e-4daf-acff-254007553a93",
+      "audio_title": "aristoteles_24_l04_c04_cena02_metafisica",
+      "audio_filename": "aristoteles_24_l04_c04_cena02_metafisica.m4a",
+      "status": "created",
+      "created_at": "2026-07-02T23:45:05Z"
+    },
+    "04_metafisica/01_metafisica/L04-C04_cena03": {
+      "artifact_id": "96d003ad-90bd-46e1-9a3c-8cc81bdd469f",
+      "audio_title": "aristoteles_24_l04_c04_cena03_metafisica",
+      "audio_filename": "aristoteles_24_l04_c04_cena03_metafisica.m4a",
+      "status": "created",
+      "created_at": "2026-07-02T23:47:14Z"
     }
   }
 }
