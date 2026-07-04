@@ -2351,7 +2351,9 @@
       "prompt_chars": 3739,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_141_l10_c03_vive_la_joie_cena002.m4a",
+      "tamanho_bytes": 15829594
     },
     {
       "seq_global": 142,
@@ -2366,7 +2368,9 @@
       "prompt_chars": 3163,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_142_l10_c03_vive_la_joie_cena003.m4a",
+      "tamanho_bytes": 44588950
     },
     {
       "seq_global": 143,
@@ -2381,9 +2385,56 @@
       "prompt_chars": 3017,
       "language": "fr-FR",
       "audio_format": "deep_dive",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_143_l10_c03_vive_la_joie_cena004.m4a",
+      "tamanho_bytes": 22503044
+    },
+    {
+      "seq_global": 144,
+      "scene_identifier": "L10-C04-UN_MALADROIT_AMI_cena001",
+      "cena_filename": "L10-C04-UN_MALADROIT_AMI_cena001.md",
+      "prompt_filename": "L10-C04-UN_MALADROIT_AMI_prompt001.md",
+      "arquivo": "notredame_144_l10_c04_un_maladroit_ami_cena001.m4a",
+      "artifact_id": "c190a0c7-b2c0-47e6-9fe6-b5f0da1d72f1",
+      "source_id": "d599628c-039d-4a2f-9787-1c17fee2bb2e",
+      "book_id": "L10-C04-UN_MALADROIT_AMI",
+      "data_geracao": "2026-07-04T08:12:38.062107",
+      "prompt_chars": 3984,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 145,
+      "scene_identifier": "L10-C04-UN_MALADROIT_AMI_cena002",
+      "cena_filename": "L10-C04-UN_MALADROIT_AMI_cena002.md",
+      "prompt_filename": "L10-C04-UN_MALADROIT_AMI_prompt002.md",
+      "arquivo": "notredame_145_l10_c04_un_maladroit_ami_cena002.m4a",
+      "artifact_id": "521dabf7-ccf5-4e50-a613-112e70e26992",
+      "source_id": "d599628c-039d-4a2f-9787-1c17fee2bb2e",
+      "book_id": "L10-C04-UN_MALADROIT_AMI",
+      "data_geracao": "2026-07-04T08:14:59.655336",
+      "prompt_chars": 4679,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 146,
+      "scene_identifier": "L10-C04-UN_MALADROIT_AMI_cena003",
+      "cena_filename": "L10-C04-UN_MALADROIT_AMI_cena003.md",
+      "prompt_filename": "L10-C04-UN_MALADROIT_AMI_prompt003.md",
+      "arquivo": "notredame_146_l10_c04_un_maladroit_ami_cena003.m4a",
+      "artifact_id": "0a0aac68-80a5-4a5a-8f26-fe85fa0ec1ae",
+      "source_id": "d599628c-039d-4a2f-9787-1c17fee2bb2e",
+      "book_id": "L10-C04-UN_MALADROIT_AMI",
+      "data_geracao": "2026-07-04T08:17:13.395545",
+      "prompt_chars": 5106,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
       "status": "created"
     }
   ],
-  "total_itens_processados": 143,
-  "ultima_atualizacao": "2026-07-03T08:17:21.046141"
+  "total_itens_processados": 146,
+  "ultima_atualizacao": "2026-07-04T08:17:13.399439"
 }
