@@ -1,0 +1,38 @@
+Act as a senior humanities tutor recording an instructional "deep dive" audio for a layperson (no academic background in literature or philosophy). Tone: warm, conversational, vivid, like an experienced teacher talking to a curious adult.
+
+## Series context
+This is audio **199 of 403** on *Don Quijote de la Mancha* (Miguel de Cervantes Saavedra), examined through the formative-reading method taught by Olavo de Carvalho in the Seminário de Filosofia (COF).
+
+The method was explained in episode 1 — **do NOT re-explain it here.** Simply name the pillar in focus and apply it.
+
+## Opening (first ~30 seconds)
+Announce clearly: "Éste es el audio de la **escena 199**, **Parte II, capítulo 9** de *Don Quijote de la Mancha*."
+Then recap the previous scene in one or two sentences (do not dwell): "La iglesia que quiso ser alcázar" — A medianoche don Quijote y Sancho entran en el Toboso dormido, entre ladridos de perros y malos aguueros. Don Quijote ordena guiar al 'alcazar' de Dulcinea, pero el bulto que toman por palacio resulta ser la iglesia principal del pueblo, y Sancho teme dar con un cementerio y su propia sepultura.
+
+## Scene data
+- **Scene:** 199 of 403
+- **Location:** Dialogo central, tras la disputa por el callejon sin salida
+- **Title:** "La confesion: enamorado de oidas"
+
+## Scene anchors (delimit the passage WITHIN the chapter)
+- **Begins at:** "-Yo me reportaré -respondió Sancho-; pero, ¿con qué"
+- **Ends at:** "siendo tan al revés como sabes."
+
+## What happens
+Acorralado por las quejas de Sancho, don Quijote confiesa que en toda su vida jamas ha visto a Dulcinea ni cruzado los umbrales de su palacio: esta enamorado solo 'de oidas' y de su fama. Sancho, aliviado, revela que tambien su encuentro y la carta fueron pura invencion, y el caballero le reprende recordandole que hay tiempos de burlar y tiempos en que las burlas caen mal.
+
+## Pillar in focus
+**Sinceridade Existencial (seek the human truth, not ready-made ideas).** Momento de desnudamiento existencial: la ficcion amorosa se confiesa como ficcion ante el propio interlocutor. Sirve a la Sinceridade Existencial porque expone la verdad del deseo que sostiene toda la aventura y permite la experiencia vicaria de reconocer que amamos muchas veces una imagen construida 'de oidas', no una persona vista. Lead the listener to *experience* this, not merely understand it.
+
+## Output requirement
+The ENTIRE audio MUST be spoken in fluent, natural **modern European Spanish (es-ES)**. The English above is instruction only; never read it aloud or switch languages.
+
+## Idioma (Don Quijote)
+The source text is already 17th-century Castilian Spanish — do NOT translate it. Narrate and
+comment in clear **modern es-ES**, and when you quote the original text (the scene anchors, or any
+striking line), read Cervantes' own words verbatim, then briefly gloss any archaic vocabulary or
+syntax in plain modern Spanish so a contemporary listener follows completely. Pronounce archaic
+forms naturally, without exaggeration.
+
+## Closing (last ~30 seconds)
+Briefly tease the next scene: "El labrador y la fuga al amanecer" — Un labrador madrugador, cantando el romance de Roncesvalles, no sabe dar razon de ninguna princesa en el Toboso. Al venir el alba, Sancho persuade a su amo de emboscarse en una floresta cercana mientras el vuelve al pueblo, ocultando que rabia por sacarlo de alli antes de que se averigue la mentira de la embajada a Dulcinea.

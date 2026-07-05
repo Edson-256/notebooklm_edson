@@ -19,11 +19,13 @@ PROJ=projetos/literatura/don-quijote
 
 ---
 
-## Status atual (2026-07-04)
+## Status atual (2026-07-05)
 
-Infraestrutura pronta (Fase 1 rodada): `DQ-capitulos/` com 137 arquivos (128 unidades lógicas),
-`_cenas_manifest.json` como esqueleto (`cenas: []`). **Autoria de cenas ainda não começou** — os
-passos abaixo de Fase 2 em diante ainda não têm o que processar.
+**Pronto para gerar áudio.** Fases 1–4 concluídas: `DQ-capitulos/` (137 arquivos / 128 unidades),
+`_cenas_manifest.json` com **403 cenas**, `_anchors.json` (806 âncoras verbatim), `cenas/` (403
+descritores), `prompts_cenas/` (403 prompts es-ES), e as 2 fontes NLM
+(`don-quijote_p1_fonte_nlm.md`, `don-quijote_p2_fonte_nlm.md`). Falta só: subir as 2 fontes no
+notebook e começar a rodar o `audio_runner.py` (Fase 5, abaixo).
 
 ## Fase 1 — Fragmentação (já executada; comando de referência para re-rodar se necessário)
 

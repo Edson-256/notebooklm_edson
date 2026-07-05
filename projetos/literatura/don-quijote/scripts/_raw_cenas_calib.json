@@ -1,0 +1,393 @@
+{
+  "units": [
+    {
+      "cap": 1,
+      "parte": "P1",
+      "cap_natural": "Prólogo",
+      "titulo": "Prólogo",
+      "files": [
+        "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/DQ-capitulos/001_cap-001_Prologo.md"
+      ],
+      "cenas": [
+        {
+          "cena_local": 1,
+          "titulo": "Confesion al desocupado lector: la sinceridad contra la falsa erudicion",
+          "localizacao": "Todo el Prologo, desde la apertura al 'desocupado lector' hasta la despedida final",
+          "pilar_foco": "sinceridade",
+          "resumo": "Cervantes se dirige al lector confesando que no es padre sino padrastro de don Quijote, y que el libro nacio 'en una carcel'. Confiesa su bloqueo ante el propio prologo; un amigo gracioso entra, se rie de sus escrupulos y le ensena, con ironia mordaz, como fabricar falsa erudicion (sonetos ahijados a principes, latines de memoria, anotaciones copiadas de la A a la Z). Concluye que el libro, siendo invectiva contra los libros de caballerias, no necesita nada de eso: solo palabras llanas, honestas y bien colocadas.",
+          "justificativa_cof": "Es el nucleo formativo del Prologo y sirve al pilar de la Sinceridade Existencial: Cervantes muestra el gesto de escribir con verdad y sin ornato prestado, denunciando la vanidad erudita que finge saber. El lector experimenta vicariamente el pudor del autor ante la mentira letrada y la decision de escribir 'monda y desnuda' la obra; ilustra tambien la Literatura como Meio, pues el amigo revela que el fin del libro es derribar la maquina mal fundada de las caballerias mediante la sola imitacion honesta de la realidad.",
+          "inicio": "Desocupado lector: sin juramento me podrás creer que quisiera",
+          "fim": "Dios te dé salud, y a mí no olvide. Vale."
+        }
+      ]
+    },
+    {
+      "cap": 2,
+      "parte": "P1",
+      "cap_natural": 1,
+      "titulo": "Capítulo primero",
+      "files": [
+        "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/DQ-capitulos/002_cap-002_Capitulo-primero-Que-trata-de-la-condicion-y-ejercicio-del.md"
+      ],
+      "cenas": [
+        {
+          "cena_local": 1,
+          "titulo": "El hidalgo devorado por sus lecturas",
+          "localizacao": "Inicio del capitulo, desde la presentacion del hidalgo hasta que se le seca el cerebro",
+          "pilar_foco": "meio",
+          "resumo": "Se describe la vida ociosa y modesta de un hidalgo manchego de casi cincuenta anos, entregado sin freno a los libros de caballerias. De tanto leer y poco dormir se le seca el cerebro y pierde el juicio, tomando por historia verdadera todas las fabulas de encantamientos, gigantes y batallas.",
+          "justificativa_cof": "Encarna con maxima nitidez el pilar de la Literatura como Meio: aqui la lectura no es adorno sino fuerza que forma y deforma un alma, mostrando el poder real de los libros sobre la vida. El lector experimenta vicariamente como una biblioteca puede reconfigurar por completo la percepcion de lo real, el motor mismo de la novela.",
+          "inicio": "En un lugar de la Mancha, de cuyo nombre no quiero acordarme",
+          "fim": "al ama que tenía, y aun a su sobrina de añadidura."
+        },
+        {
+          "cena_local": 2,
+          "titulo": "La resolucion de hacerse caballero andante",
+          "localizacao": "Parrafo central, cuando toma la decision de salir por el mundo",
+          "pilar_foco": "intuicao",
+          "resumo": "Ya rematado el juicio, al hidalgo le sobreviene el mas extrano pensamiento que jamas tuvo loco: hacerse caballero andante para aumentar su honra y servir a su republica. Imaginandose ya coronado emperador de Trapisonda, se da prisa a poner en obra su deseo.",
+          "justificativa_cof": "Sirve al pilar de la Primazia da Intuicao: una conviccion subita e integral se apodera del hombre entero y ordena de golpe toda su existencia, antes de todo razonamiento. Es una decision existencial radical que sacude la capsula del lector, invitandolo a habitar la certeza absoluta con que Don Quijote abraza su vocacion.",
+          "inicio": "En efecto, rematado ya su juicio, vino a dar en el más",
+          "fim": "se dio priesa a poner en efecto lo que deseaba."
+        },
+        {
+          "cena_local": 3,
+          "titulo": "La celada de carton y la prueba que no se repite",
+          "localizacao": "Preparacion de las armas: la media celada de cartones",
+          "pilar_foco": "sinceridade",
+          "resumo": "Limpia las armas herrumbrosas de sus bisabuelos y suple con cartones la celada que falta. Prueba su resistencia con la espada y de un golpe la deshace; la rehace con barras de hierro y, sin querer probarla otra vez, la da por finisima celada de encaje.",
+          "justificativa_cof": "Ilustra por contraste el pilar de la Sinceridade Existencial: el momento exacto en que el hombre elige no verificar la verdad para no perder su ilusion. Es una radiografia de la autoengano, y ofrece al lector una experiencia vicaria intensa de como preferimos la ficcion comoda a la prueba que podria desmentirnos.",
+          "inicio": "Y lo primero que hizo fue limpiar unas armas que habían sido de sus bisabuelos",
+          "fim": "la diputó y tuvo por celada finísima de encaje."
+        },
+        {
+          "cena_local": 4,
+          "titulo": "El bautismo de Rocinante y del propio caballero",
+          "localizacao": "Naming del rocin y de si mismo, tras las armas",
+          "pilar_foco": "memoria",
+          "resumo": "Dedica cuatro dias a inventar el nombre de su flaco caballo hasta dar en Rocinante, y ocho mas a nombrarse a si mismo don Quijote, anadiendo luego el de su patria: don Quijote de la Mancha, a imitacion de Amadis de Gaula.",
+          "justificativa_cof": "Sirve al pilar de la Memoria Afetiva e Imaginativa: el heroe forja identidades trabajando nombres en la imaginacion y la memoria, formando, borrando y rehaciendo hasta que suenen altos y significativos. El lector vive por dentro el acto de auto-creacion por la palabra, donde nombrar es hacer nacer un mundo.",
+          "inicio": "Fue luego a ver su rocín, y, aunque tenía más cuartos que un real",
+          "fim": "y la honraba con tomar el sobrenombre della."
+        },
+        {
+          "cena_local": 5,
+          "titulo": "La invencion de Dulcinea del Toboso",
+          "localizacao": "Escena final del capitulo: la busqueda de una dama",
+          "pilar_foco": "memoria",
+          "resumo": "Convencido de que caballero sin amores es arbol sin fruto, ensaya un discurso sobre el gigante vencido que enviaria rendido a su dama. Entonces recuerda a Aldonza Lorenzo, moza labradora de quien un tiempo anduvo enamorado sin que ella lo supiera, y la transfigura en la princesa Dulcinea del Toboso.",
+          "justificativa_cof": "Encarna la Memoria Afetiva e Imaginativa: un amor antiguo y jamas correspondido resurge del fondo de la memoria y es sublimado por la imaginacion en figura ideal. El lector experimenta como el afecto recordado se vuelve alma de toda una empresa vital, y como la fantasia idealiza lo humilde hasta lo sublime.",
+          "inicio": "Limpias, pues, sus armas, hecho del morrión celada",
+          "fim": "como todos los demás que a él y a sus cosas había puesto."
+        }
+      ]
+    },
+    {
+      "cap": 3,
+      "parte": "P1",
+      "cap_natural": 2,
+      "titulo": "Capítulo II",
+      "files": [
+        "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/DQ-capitulos/003_cap-003_Capitulo-II-Que-trata-de-la-primera-salida-que-de-su-tierra.md"
+      ],
+      "cenas": [
+        {
+          "cena_local": 1,
+          "titulo": "La salida al alba y el pensamiento terrible",
+          "localizacao": "inicio del capitulo",
+          "pilar_foco": "sinceridade",
+          "resumo": "Antes del amanecer, don Quijote se arma y sale al campo por la puerta falsa del corral, henchido de contento. Apenas en el campo, lo asalta el pensamiento de que no esta armado caballero; titubea, pero su locura vence a la razon y resuelve hacerse armar por el primero que tope.",
+          "justificativa_cof": "Muestra la sinceridad existencial del personaje que juega su ser entero a una empresa: la duda ('titubear en su proposito') y el autoengano deliberado ('pudiendo mas su locura que otra razon alguna') permiten al oyente habitar por dentro el mecanismo por el que un hombre convierte su ficcion en compromiso vital irreversible.",
+          "inicio": "Hechas, pues, estas prevenciones, no quiso aguardar más tiempo",
+          "fim": "creyendo que en aquello consistía la fuerza de las aventuras."
+        },
+        {
+          "cena_local": 2,
+          "titulo": "El cronista imaginado y la apostrofe a Dulcinea",
+          "localizacao": "monologo mientras cabalga por el campo de Montiel",
+          "pilar_foco": "meio",
+          "resumo": "Cabalgando, don Quijote habla consigo mismo y compone por anticipado la pagina en que el sabio encantador narrara esta salida, con el estilo altisonante de Apolo y la aurora. Luego invoca a su compania Rocinante y, como si de veras fuera enamorado, se lamenta ante la princesa Dulcinea.",
+          "justificativa_cof": "Ejemplifica la literatura como medio: el heroe vive su vida ya traducida a literatura, narrandose a si mismo en tercera persona y prestando su lengua a los libros que ha leido. El oyente experimenta cómo la palabra literaria no describe la realidad sino que la constituye para quien la habita.",
+          "inicio": "Yendo, pues, caminando nuestro flamante aventurero, iba hablando consigo mesmo",
+          "fim": "que fuera bastante a derretirle los sesos, si algunos tuviera."
+        },
+        {
+          "cena_local": 3,
+          "titulo": "La venta que fue castillo y las mozas doncellas",
+          "localizacao": "llegada a la venta al anochecer",
+          "pilar_foco": "intuicao",
+          "resumo": "Al anochecer, muerto de hambre, don Quijote descubre una venta que ve como castillo con torres y puente levadiza. Espera que un enano anuncie su llegada con trompeta; el cuerno de un porquero se lo confirma. Saluda con arcaico lenguaje caballeresco a dos rameras que toma por altas doncellas, provocando risa, hasta que el gordo y pacifico ventero interviene.",
+          "justificativa_cof": "Es el motor mismo de la novela: la realidad chocando con la fantasia. La intuicion transfiguradora de don Quijote impone una forma al mundo (venta=castillo, cuerno=trompeta, rameras=damas), y el contraste con la mirada burlona de las mozas produce el choque de la 'capsula individual' que define la experiencia vicaria quijotesca.",
+          "inicio": "Casi todo aquel día caminó sin acontecerle cosa que de contar fuese",
+          "fim": "como aquel que en todo aquel día no se había desayunado."
+        },
+        {
+          "cena_local": 4,
+          "titulo": "La celada atada y la cena servida por princesas",
+          "localizacao": "escena final: el desarme y la comida en la puerta de la venta",
+          "pilar_foco": "memoria",
+          "resumo": "Las mozas lo desarman pero no logran quitarle la celada atada con cintas verdes, y el no consiente que las corten, quedando con el yelmo puesto toda la noche. Recita el romance de Lanzarote, revela su nombre y cena grotescamente el bacallao viernes, bebiendo el vino por una caña, mientras el silbato del castrador confirma para el que esta en un famoso castillo.",
+          "justificativa_cof": "La memoria afectiva e imaginativa lo transfigura todo: abadejo en truchas, pan negro en candeal, rameras en damas, silbato en musica. La comicidad del yelmo y la caña permite al oyente meterse en la piel de un hombre que sacrifica la comodidad del cuerpo a la coherencia de su imaginacion, sostenida por los romances aprendidos de memoria.",
+          "inicio": "Dijo luego al huésped que le tuviese mucho cuidado de su caballo",
+          "fim": "sin recibir la orden de caballería."
+        }
+      ]
+    },
+    {
+      "cap": 4,
+      "parte": "P1",
+      "cap_natural": 3,
+      "titulo": "Capítulo III",
+      "files": [
+        "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/DQ-capitulos/004_cap-004_Capitulo-III-Donde-se-cuenta-la-graciosa-manera-que-tuvo.md"
+      ],
+      "cenas": [
+        {
+          "cena_local": 1,
+          "titulo": "El don de rodillas y la comedia del ventero",
+          "localizacao": "Inicio del capitulo: en la caballeriza y luego el consejo sobre dineros",
+          "pilar_foco": "sinceridade",
+          "resumo": "Don Quijote se hinca de rodillas ante el ventero y le arranca la promesa de un 'don': ser armado caballero al dia siguiente tras velar las armas. El ventero, socarron, le sigue el humor con un discurso paródico de su propia 'vida andante' y le aconseja llevar dineros, camisas y ungüentos, cosa que Don Quijote acepta pese a no haberlo leido en las historias.",
+          "justificativa_cof": "Sirve a la Sinceridade Existencial: Don Quijote se entrega con seriedad absoluta a su ideal, arriesgando el ridiculo sin la menor ironia, mientras el mundo (el ventero burlon) lo devuelve como farsa. El lector vive vicariamente la conviccion interior que no se doblega ante lo grotesco de la venta, y percibe el abismo entre la verdad vivida por el heroe y la mirada cinica que lo rodea.",
+          "inicio": "Y así, fatigado deste pensamiento, abrevió su venteril y limitada cena",
+          "fim": "y que vería cuán bien se hallaba con ellas cuando menos se pensase."
+        },
+        {
+          "cena_local": 2,
+          "titulo": "La vela de las armas y los arrieros apedreadores",
+          "localizacao": "Parte central: el corral junto al pozo, la vela nocturna y los dos ataques",
+          "pilar_foco": "intuicao",
+          "resumo": "Don Quijote vela las armas sobre la pila del pozo a la luz de la luna. Cuando dos arrieros van a retirarlas para dar agua a sus bestias, los abate a lanzazos invocando a Dulcinea; los compañeros lo apedrean desde lejos y él, sin abandonar la pila, los desafia como caballero afrentado hasta que el ventero los aparta.",
+          "justificativa_cof": "Motor de la novela y ejemplo puro de la Primazia da Intuição: la vision interior de Don Quijote impone su forma al mundo: la venta es castillo, la pila altar, los arrieros caballeros felones. La realidad colide brutalmente con la fantasia y el lector, metido en la piel del heroe, experimenta como una intuicion imaginativa reorganiza por completo lo real, con consecuencias violentas y comicas a la vez.",
+          "inicio": "Prometiole don Quijote de hacer lo que se le aconsejaba con toda puntualidad",
+          "fim": "tornó a la vela de sus armas con la misma quietud y sosiego que primero."
+        },
+        {
+          "cena_local": 3,
+          "titulo": "La orden de caballeria de burlas y las damas ennoblecidas",
+          "localizacao": "Final del capitulo: la ceremonia con el libro de la paja y las dos mozas",
+          "pilar_foco": "meio",
+          "resumo": "El ventero, temeroso, improvisa la ceremonia leyendo su libro de cuentas de paja y cebada, dando pescozada y espaldarazo. Dos mozas de partido le ciñen espada y espuela conteniendo la risa; Don Quijote las nombra doña Tolosa y doña Molinera y, ya armado caballero, monta a Rocinante y parte agradecido buscando aventuras.",
+          "justificativa_cof": "Ilumina la Literatura como Meio: toda la escena es un ritual copiado de los libros de caballerias que, al proyectarse sobre una venta y dos rameras, las transfigura en castillo y damas nobles. El texto muestra como la palabra literaria interiorizada se vuelve lente que rehace la experiencia; el lector aprende a ver la mediacion de la ficcion sobre la vida, nucleo del metodo formativo.",
+          "inicio": "No le parecieron bien al ventero las burlas de su huésped",
+          "fim": "le dejó ir a la buen hora."
+        }
+      ]
+    },
+    {
+      "cap": 5,
+      "parte": "P1",
+      "cap_natural": 4,
+      "titulo": "Capítulo IV",
+      "files": [
+        "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/DQ-capitulos/005_cap-005_Capitulo-IV-De-lo-que-le-sucedio-a-nuestro-caballero-cuando.md"
+      ],
+      "cenas": [
+        {
+          "cena_local": 1,
+          "titulo": "La primera justicia: Andrés atado a la encina",
+          "localizacao": "Primer tercio del capítulo, en el bosque tras salir de la venta",
+          "pilar_foco": "meio",
+          "resumo": "Don Quijote oye los quejidos de un muchacho azotado por su amo Juan Haldudo y, recién armado caballero, interviene como 'desfacedor de agravios'. Impone su sentencia, obliga al labrador a jurar que pagará la soldada y desatará al mozo, y se marcha convencido de haber cumplido su profesión.",
+          "justificativa_cof": "Es el estreno de Don Quijote actuando la caballería aprendida en los libros: la Literatura como Meio se vuelve conducta. El lector experimenta vicariamente la certeza con que el héroe traduce la ficción leída en acción moral concreta, sin sospechar la fragilidad de su 'justicia'.",
+          "inicio": "No había andado mucho, cuando le pareció que a su diestra",
+          "fim": "y jurado, so pena de la pena pronunciada."
+        },
+        {
+          "cena_local": 2,
+          "titulo": "El agravio deshecho... y rehecho",
+          "localizacao": "Centro del capítulo, tras la partida de Don Quijote",
+          "pilar_foco": "intuicao",
+          "resumo": "Apenas se aleja el caballero, Juan Haldudo vuelve a atar a Andrés y lo azota hasta dejarlo por muerto, burlándose del 'desfacedor de agravios'. Mientras tanto, Don Quijote cabalga contentísimo, alabando a Dulcinea y creyendo haber dado 'felicísimo y alto principio' a sus hazañas.",
+          "justificativa_cof": "Golpe frontal a la cápsula del lector: la realidad contradice y anula el gesto heroico justo cuando el héroe se felicita a sí mismo. La ironía entre la autosatisfacción de Don Quijote y el cuerpo molido de Andrés encarna la Primazia da Intuição —ver de un golpe el abismo entre intención y efecto real.",
+          "inicio": "Y, en diciendo esto, picó a su Rocinante",
+          "fim": "que tan sin ocasión vapulaba a aquel delicado infante."
+        },
+        {
+          "cena_local": 3,
+          "titulo": "Confesar a Dulcinea sin verla: los mercaderes de Toledo",
+          "localizacao": "Último tercio del capítulo, en la encrucijada y el camino a Murcia",
+          "pilar_foco": "sinceridade",
+          "resumo": "En una encrucijada, Don Quijote exige a unos mercaderes toledanos que confiesen la hermosura de Dulcinea sin haberla visto. Ante la burla discreta de uno de ellos, arremete con la lanza, cae de Rocinante y un mozo de mulas lo muele a palos con los trozos de su propia lanza.",
+          "justificativa_cof": "Don Quijote apuesta su ser entero en defender una fe que no admite prueba ('sin verla lo habéis de creer'): Sinceridade Existencial llevada al extremo del delirio. El lector habita esa entrega total y a la vez su choque humillante con el mundo, que responde con palos en vez de cortesía caballeresca.",
+          "inicio": "En esto, llegó a un camino que en cuatro se dividía",
+          "fim": "según tenía brumado todo el cuerpo."
+        }
+      ]
+    },
+    {
+      "cap": 6,
+      "parte": "P1",
+      "cap_natural": 5,
+      "titulo": "Capítulo V",
+      "files": [
+        "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/DQ-capitulos/006_cap-006_Capitulo-V-Donde-se-prosigue-la-narracion-de-la-desgracia.md"
+      ],
+      "cenas": [
+        {
+          "cena_local": 1,
+          "titulo": "El caido que se vuelve romance",
+          "localizacao": "inicio del capitulo, Don Quijote tendido en el suelo y el encuentro con el labrador",
+          "pilar_foco": "meio",
+          "resumo": "Incapaz de moverse tras la paliza, Don Quijote busca refugio en un paso de sus libros y encarna al herido Valdovinos, recitando el romance del marques de Mantua. Cuando pasa el labrador Pedro Alonso, lo confunde primero con su tio el marques y luego con Rodrigo de Narvaez, respondiendo con los versos del moro Abindarraez de La Diana.",
+          "justificativa_cof": "Ejemplifica el pilar de la Literatura como Meio: la ficcion no ilustra la experiencia, la constituye. Don Quijote no recuerda un libro, lo habita; el texto leido se convierte en el guion literal de su realidad y de su dolor. Experiencia vicaria intensa del choque entre la fantasia literaria y el labrador que, admirado, solo oye disparates.",
+          "inicio": "Viendo, pues, que, en efecto, no podía menearse, acordó de acogerse",
+          "fim": "que se han visto, vean ni verán en el mundo."
+        },
+        {
+          "cena_local": 2,
+          "titulo": "Yo se quien soy",
+          "localizacao": "dialogo central: la correccion de Pedro Alonso y la respuesta de Don Quijote",
+          "pilar_foco": "sinceridade",
+          "resumo": "El labrador le recuerda que no es Valdovinos ni Abindarraez, sino el honrado hidalgo Quijana, su vecino. Don Quijote responde con la celebre afirmacion de que sabe quien es y que puede ser no solo esos, sino todos los Doce Pares y los Nueve de la Fama.",
+          "justificativa_cof": "Momento de maxima Sinceridade Existencial: frente a la realidad que lo nombra hidalgo comun, el personaje afirma su identidad elegida con lucidez absoluta. No es simple locura sino un acto de voluntad que revela el nucleo del hombre que decide ser lo que quiere ser. Choque radical contra la capsula del lector: la cordura del labrador colide con una verdad interior irreducible.",
+          "inicio": "A esto respondió el labrador:",
+          "fim": "se aventajarán las mías."
+        },
+        {
+          "cena_local": 3,
+          "titulo": "El tribunal domestico y la condena de los libros",
+          "localizacao": "escena final: llegada a casa, lamentos del ama y la sobrina, sentencia del cura",
+          "pilar_foco": "memoria",
+          "resumo": "De vuelta al pueblo al anochecer, hallan la casa alborotada con el cura y el barbero. El ama y la sobrina culpan a los libros de caballerias de haberle vuelto el juicio y evocan sus delirios pasados; el cura sentencia condenarlos al fuego. Don Quijote, malferido, pide a la sabia Urganda y sigue viendo gigantes y jayanes donde solo hubo una caida.",
+          "justificativa_cof": "Sirve al pilar de la Memoria Afetiva e Imaginativa desde el reverso: la sobrina reconstruye de memoria las escenas del tio leyendo dias enteros, dando cuchilladas a las paredes y bebiendo agua como pocima del sabio Esquife. La escena confronta la imaginacion desbordada con la mirada afectuosa y alarmada de los que lo aman, y prepara el auto de fe de los libros, mostrando la potencia y el peligro de lo leido grabado en la memoria.",
+          "inicio": "En estas pláticas y en otras semejantes, llegaron al lugar",
+          "fim": "con el cual se vino a casa de don Quijote,"
+        }
+      ]
+    },
+    {
+      "cap": 7,
+      "parte": "P1",
+      "cap_natural": 6,
+      "titulo": "Capítulo VI",
+      "files": [
+        "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/DQ-capitulos/007_cap-007_Capitulo-VI-Del-donoso-y-grande-escrutinio-que-el-cura-y-el.md"
+      ],
+      "cenas": [
+        {
+          "cena_local": 1,
+          "titulo": "El auto de fe de la biblioteca",
+          "localizacao": "inicio del capitulo, mientras don Quijote aun duerme",
+          "pilar_foco": "meio",
+          "resumo": "El cura y el barbero entran en la libreria del hidalgo dormido; el ama rocia el aposento con agua bendita temiendo encantadores, y ella y la sobrina exigen quemarlo todo sin juicio. El cura impone leer primero los titulos, y comienza el proceso salvando el Amadis de Gaula y condenando a su linaje.",
+          "justificativa_cof": "Sirve al pilar de la Literatura como Meio: el capitulo convierte la critica literaria en un tribunal, y el lector ve como los libros -causa de la locura- son juzgados uno a uno. El agua bendita y el lenguaje inquisitorial ('condenar', 'inocentes', 'brazo seglar') chocan la capsula del lector al tratar los libros como reos vivos, mostrando que leer es un acto con consecuencias morales.",
+          "inicio": "el cual aún todavía dormía. Pidió las llaves, a la sobrina,",
+          "fim": "y ella ahorró la escalera y dio con ellos por la ventana abajo."
+        },
+        {
+          "cena_local": 2,
+          "titulo": "El escrutinio y el tesoro de Tirante",
+          "localizacao": "cuerpo central del capitulo, dialogo del cura y el barbero libro a libro",
+          "pilar_foco": "meio",
+          "resumo": "El cura sentencia cada libro de caballerias segun su arte y estilo, medita sobre la perdida que sufren los versos al traducirse de una lengua a otra, y culmina descubriendo con enorme alegria el Tirante el Blanco, que alaba como el mejor libro del mundo por su verdad humana: alli los caballeros comen, duermen y mueren en sus camas.",
+          "justificativa_cof": "Nucleo del pilar Literatura como Meio: Cervantes ensena a discernir el buen del mal libro por criterios de estilo, verdad y decoro, no por moralismo. La reflexion sobre la traduccion y el juicio matizado (salvar, purgar, desterrar, quemar) forman el gusto critico del lector; la exaltacion de Tirante ofrece experiencia vicaria del gozo de reconocer una obra viva.",
+          "inicio": "-¿Quién es ese tonel? -dijo el cura.",
+          "fim": "Llevadle a casa y leedle, y veréis que es verdad cuanto dél os he dicho."
+        },
+        {
+          "cena_local": 3,
+          "titulo": "La poesia y el guino de La Galatea",
+          "localizacao": "escena final, al pasar de los libros de caballerias a los de poesia",
+          "pilar_foco": "sinceridade",
+          "resumo": "Al llegar a los libros pequenos de poesia, la sobrina teme que su tio, curado de la locura caballeresca, se antoje ahora de hacerse pastor o poeta. El cura los juzga con simpatia y, al topar con La Galatea, del propio Cervantes, confiesa que su autor es 'mas versado en desdichas que en versos' y que el libro propone mucho y no concluye nada.",
+          "justificativa_cof": "Sirve a la Sinceridad Existencial: Cervantes se pone a si mismo en el tribunal y se juzga sin autoindulgencia, revelando su propia pobreza y sus promesas incumplidas. Este guion metaficcional invita al lector a habitar la honestidad del autor consigo mismo, mientras la broma sobre la poesia como 'enfermedad incurable y pegadiza' abre la conciencia de que toda vocacion literaria compromete la existencia entera.",
+          "inicio": "-Así será -respondió el barbero-; pero, ¿qué haremos destos pequeños libros que quedan?",
+          "fim": "y fue felicísimo en la traducción de algunas fábulas de Ovidio."
+        }
+      ]
+    },
+    {
+      "cap": 8,
+      "parte": "P1",
+      "cap_natural": 7,
+      "titulo": "Capítulo VII",
+      "files": [
+        "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/DQ-capitulos/008_cap-008_Capitulo-VII-De-la-segunda-salida-de-nuestro-buen-caballero.md"
+      ],
+      "cenas": [
+        {
+          "cena_local": 1,
+          "titulo": "La cápsula sellada: el delirio y el sabio Frestón",
+          "localizacao": "Del inicio del capítulo (delirio en la cama) hasta la reacción colérica ante la sobrina",
+          "pilar_foco": "intuicao",
+          "resumo": "Don Quijote, aún molido, sigue viviendo la batalla de los Doce Pares y culpa a don Roldán de sus golpes. Días después, al no hallar su aposento de libros (que le tapiaron), no duda un instante: acepta la fábula del ama y la sobrina y él mismo bautiza al encantador enemigo, Frestón, que se lo llevó todo por envidia.",
+          "justificativa_cof": "Ilustra la Primazia da Intuição: la intuición previa (el marco caballeresco) gobierna por completo la percepción. Ningún golpe de la realidad -palos, quema de libros, pared nueva- rompe la cápsula; al contrario, es absorbido y renombrado dentro de la fantasía. El lector experimenta vicariamente cómo una interpretación puede sellarse contra toda evidencia, hasta suplir por sí misma los datos que le faltan (el propio don Quijote inventa el nombre del enemigo).",
+          "inicio": "Estando en esto, comenzó a dar voces don Quijote, diciendo:",
+          "fim": "porque vieron que se le encendía la cólera."
+        },
+        {
+          "cena_local": 2,
+          "titulo": "El contagio de la fantasía: Sancho Panza se hace escudero",
+          "localizacao": "Parte central: persuasión del labrador vecino y salida nocturna",
+          "pilar_foco": "meio",
+          "resumo": "Don Quijote persuade a un labrador pobre y de poca sal en la mollera para servirle de escudero, prometiéndole el gobierno de una ínsula. Sancho abandona mujer e hijos; se buscan dineros vendiendo y empeñando la hacienda, y una noche salen del lugar sin despedirse de nadie.",
+          "justificativa_cof": "Muestra la Literatura como Meio: la ficción caballeresca deja de ser locura solitaria y se vuelve fuerza que arrastra a otro hombre real hacia la aventura. El deseo de la ínsula funciona como la promesa que teje mundos. Vivir en la piel de Sancho -seducido por una esperanza concreta y humilde- abre una perspectiva radicalmente distinta a la del capítulo, chocando la codicia sencilla del villano contra el idealismo del amo.",
+          "inicio": "En este tiempo, solicitó don Quijote a un labrador vecino suyo, hombre de bien",
+          "fim": "al amanecer se tuvieron por seguros de que no los hallarían aunque los buscasen."
+        },
+        {
+          "cena_local": 3,
+          "titulo": "El diálogo del reino: Mari Gutiérrez no vale dos maravedís para reina",
+          "localizacao": "Escena final: camino del campo de Montiel, conversación sobre la ínsula",
+          "pilar_foco": "sinceridade",
+          "resumo": "Camino ya de la aventura, Sancho recuerda a su amo la ínsula prometida y don Quijote promete aventajarse coronándolo incluso rey. Sancho, con lucidez terrenal, duda que su mujer Juana Gutiérrez sirva para reina: le caería mejor condesa, y aun con la ayuda de Dios.",
+          "justificativa_cof": "Sirve a la Sinceridade Existencial: frente al sueño desbordado del amo, Sancho ofrece un autoconocimiento honesto y sin ilusión sobre sí y los suyos. No niega la aventura, pero la mide con el rasero de lo que puede llevar. El contraste de dos sinceridades -la del idealista y la del realista- deja al lector habitando ambas cabezas a la vez, sintiendo la tensión entre aspirar y conocerse.",
+          "inicio": "Iba Sancho Panza sobre su jumento como un patriarca,",
+          "fim": "que me sabrá dar todo aquello que me esté bien y yo pueda llevar."
+        }
+      ]
+    },
+    {
+      "cap": 9,
+      "parte": "P1",
+      "cap_natural": 8,
+      "titulo": "Capítulo VIII (molinos de viento)",
+      "files": [
+        "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/DQ-capitulos/009_cap-009_Capitulo-VIII-Del-buen-suceso-que-el-valeroso-don-Quijote.md"
+      ],
+      "cenas": [
+        {
+          "cena_local": 1,
+          "titulo": "Los gigantes que eran molinos",
+          "localizacao": "inicio del capitulo, hasta la respuesta de Sancho tras la caida",
+          "pilar_foco": "intuicao",
+          "resumo": "Don Quijote confunde treinta o cuarenta molinos de viento con desaforados gigantes, y pese a las advertencias de Sancho arremete contra ellos. El viento vuelve el aspa, quiebra la lanza y lo derriba maltrecho; el caballero explica la derrota culpando al sabio Freston, que habria mudado los gigantes en molinos.",
+          "justificativa_cof": "Es el choque arquetipico entre la fantasia y la realidad, el motor mismo de la novela: la percepcion transfiguradora de don Quijote colisiona con el mundo bruto de los molinos. Sirve al pilar de la Primazia da Intuicao porque muestra como una intuicion soberana impone forma al mundo y, aun desmentida por los hechos, se reafirma reinterpretando la realidad en vez de rendirse a ella.",
+          "inicio": "En esto, descubrieron treinta o cuarenta molinos de viento",
+          "fim": "-Dios lo haga como puede -respondió Sancho Panza."
+        },
+        {
+          "cena_local": 2,
+          "titulo": "El sustento de sabrosas memorias",
+          "localizacao": "camino hacia Puerto Lapice: Diego Perez de Vargas, las heridas, la vela nocturna",
+          "pilar_foco": "memoria",
+          "resumo": "Reemprendido el camino, don Quijote evoca a Diego Perez de Vargas para justificar arrancar un tronco que le sirva de lanza, y declara que un caballero no debe quejarse aunque se le salgan las tripas. Mientras Sancho come, bebe y duerme a pierna suelta, el caballero vela toda la noche pensando en Dulcinea y se sustenta de sabrosas memorias.",
+          "justificativa_cof": "Escena de contraste existencial que ilumina la Memoria Afetiva e Imaginativa: don Quijote se alimenta literalmente de recuerdos e imaginaciones -de Dulcinea, de sus lecturas- mientras Sancho vive del estomago lleno. La experiencia vicaria de habitar ambas pieles ensena como la memoria imaginativa puede nutrir y sostener a un hombre por encima del cuerpo.",
+          "inicio": "Y, ayudándole a levantar, tornó a subir sobre Rocinante",
+          "fim": "a obra de las tres del día le descubrieron."
+        },
+        {
+          "cena_local": 3,
+          "titulo": "Los frailes encantadores y el despojo de Sancho",
+          "localizacao": "llegada a Puerto Lapice: instrucciones a Sancho y ataque a los benedictinos",
+          "pilar_foco": "meio",
+          "resumo": "Don Quijote instruye a Sancho sobre cuando puede o no ayudarle segun las leyes de caballeria. Al ver a dos frailes de San Benito junto a un coche, los toma por encantadores que llevan hurtada una princesa y arremete; un fraile cae y huye, mientras Sancho, creyendo ganados los despojos, desnuda al caido y es molido a coces por los mozos.",
+          "justificativa_cof": "La aventura muestra la Literatura como Meio: los libros de caballerias funcionan como lente que reorganiza por completo la percepcion de lo real -unos frailes viajeros se vuelven encantadores y una senora, princesa forzada-. El contagio de la fantasia sobre Sancho, que reclama despojos y recibe una paliza, revela como la ficcion moldea la conducta y sus consecuencias.",
+          "inicio": "-Aquí -dijo, en viéndole, don Quijote- podemos, hermano Sancho Panza",
+          "fim": "haciéndose más cruces que si llevaran al diablo a las espaldas."
+        },
+        {
+          "cena_local": 4,
+          "titulo": "La espada suspendida en el aire",
+          "localizacao": "final del capitulo: desafio al vizcaino y la batalla interrumpida",
+          "pilar_foco": "sinceridade",
+          "resumo": "Don Quijote galantea a la senora del coche exigiendo que vaya al Toboso, y un escudero vizcaino, mal hablado, lo desafia. Ambos se acometen con determinacion de matarse; tras recibir una gran cuchillada, don Quijote invoca a Dulcinea y se lanza a jugarlo todo a un solo golpe. El autor interrumpe la historia con las espadas en alto, dejando el desenlace pendiente.",
+          "justificativa_cof": "El pilar de la Sinceridade Existencial se encarna en la determinacion de aventurarlo todo a la de un golpe solo: don Quijote se compromete por entero, sin reserva ni calculo, arriesgando la vida por su fe caballeresca. La celebre suspension del combate obliga al lector a permanecer, colgado como los circunstantes, en el instante puro de la decision total.",
+          "inicio": "Don Quijote estaba, como se ha dicho, hablando con la señora del coche",
+          "fim": "le halló del modo que se contará en la segunda parte."
+        }
+      ]
+    }
+  ]
+}

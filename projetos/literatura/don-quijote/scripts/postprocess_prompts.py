@@ -1,19 +1,18 @@
 #!/usr/bin/env python3
 """
-Pos-processa os prompts gerados pelo 03_build_prompts.py generico (Fase 3) para honrar as
-decisoes deste projeto:
+Pos-processa os prompts gerados pelo 03_build_prompts.py (Fase 3) para honrar as decisoes
+especificas deste projeto que a skill generica nao cobre:
 
-1) IDIOMA: 03_build_prompts.py tem a diretiva de output HARDCODED em pt-BR (OUTPUT_REQ). Aqui
-   ela e SUBSTITUIDA por uma diretiva es-ES — diferente do Paradise Lost (que ACRESCENTA um bloco
-   de citacao/traducao porque original=ingles != output=pt-BR), aqui narracao e citacao ficam no
-   MESMO idioma (o castelhano de Cervantes narrado/comentado em es-ES moderno), entao nao ha gloss
-   nem traducao a fazer.
-2) ANUNCIO: corrige "capitulo {cap}" (numero global 1-128, sem sentido para quem le a obra) para
-   "Parte {I/II}, capitulo {cap_natural}" (ou "Parte {I/II}, Prologo"), lendo os campos extras
-   'parte'/'cap_natural' de _capitulos_index.json via o 'source_chapter' de cada cena.
+1) NUANCE DE IDIOMA: a skill JA gera a diretiva de output em es-ES (le 'language_name' do
+   _cenas_manifest.json). Aqui so ACRESCENTAMOS a nuance de que o texto-base ja e castelhano do
+   sec. XVII e NAO deve ser traduzido — narrar/comentar em es-ES moderno, citando Cervantes
+   verbatim e glosando so o vocabulario/sintaxe arcaicos. (Diferente de Paradise Lost, que
+   traduzia ingles->pt-BR; aqui narracao e citacao ficam no MESMO idioma.)
+2) ANUNCIO: corrige "capitulo {cap}" (numero global 1-128, sem sentido p/ quem le a obra) para
+   "Parte {I/II}, capitulo {cap_natural}" (ou "Parte {I/II}, Prologo"), lendo 'parte'/'cap_natural'
+   de _capitulos_index.json via o 'source_chapter' de cada cena.
 
-Idempotente: detecta marcador e nao duplica. Roda DEPOIS que existirem prompts (Fase 3); nao ha
-nada para processar antes da autoria de cenas.
+Idempotente: detecta marcador e nao duplica. Roda DEPOIS de 03_build_prompts.py.
 
 Uso:
     python3 postprocess_prompts.py [--dry-run]
@@ -31,18 +30,18 @@ CAP_INDEX = PROJ / "DQ-capitulos" / "_capitulos_index.json"
 
 MARK = "## Idioma (Don Quijote)"
 
-OUTPUT_REQ_PT = ("The ENTIRE audio MUST be spoken in fluent, natural **Brazilian Portuguese "
-                 "(pt-BR)**. The English above is instruction only; never read it aloud or "
+# Diretiva es-ES que a skill generica ja escreve (03_build_prompts.py -> output_req()).
+OUTPUT_REQ_ES = ("The ENTIRE audio MUST be spoken in fluent, natural **modern European Spanish "
+                 "(es-ES)**. The English above is instruction only; never read it aloud or "
                  "switch languages.")
 
-OUTPUT_REQ_ES = """The ENTIRE audio MUST be spoken in fluent, natural **modern European Spanish (es-ES)**.
-The English above is instruction only; never read it aloud or switch languages.
+CASTILIAN_BLOCK = """
 
 ## Idioma (Don Quijote)
 The source text is already 17th-century Castilian Spanish — do NOT translate it. Narrate and
-comment in clear **modern es-ES**, and when you quote the original text (the scene anchors, or
-any striking line), read Cervantes' own words verbatim, then briefly gloss any archaic vocabulary
-or syntax in plain modern Spanish so a contemporary listener follows completely. Pronounce archaic
+comment in clear **modern es-ES**, and when you quote the original text (the scene anchors, or any
+striking line), read Cervantes' own words verbatim, then briefly gloss any archaic vocabulary or
+syntax in plain modern Spanish so a contemporary listener follows completely. Pronounce archaic
 forms naturally, without exaggeration."""
 
 # 'Announce clearly: "Este é o áudio da **cena N**, **capítulo <cap global>**."' -> parte-aware.
@@ -80,13 +79,16 @@ def main() -> int:
     parte_label = {"P1": "Parte I", "P2": "Parte II"}
 
     files = sorted(PROMPTS.glob("prompt_*.md"))
-    patched_lang = patched_announce = 0
+    patched_lang = patched_announce = missing_es = 0
     for f in files:
         t = f.read_text(encoding="utf-8")
         orig = t
-        if MARK not in t and OUTPUT_REQ_PT in t:
-            t = t.replace(OUTPUT_REQ_PT, OUTPUT_REQ_ES, 1)
-            patched_lang += 1
+        if MARK not in t:
+            if OUTPUT_REQ_ES in t:
+                t = t.replace(OUTPUT_REQ_ES, OUTPUT_REQ_ES + CASTILIAN_BLOCK, 1)
+                patched_lang += 1
+            else:
+                missing_es += 1  # 03 nao gerou es-ES? (language_name faltando no manifesto)
 
         m = ANNOUNCE_RE.search(t)
         if m:
@@ -106,7 +108,10 @@ def main() -> int:
                 f.write_text(t, encoding="utf-8")
             print(f"  {'[dry-run] ' if args.dry_run else ''}{f.name}")
 
-    print(f"\nPrompts: {len(files)} | idioma es-ES: {patched_lang} | anuncio Parte/capitulo: {patched_announce}")
+    print(f"\nPrompts: {len(files)} | nuance castelhano: {patched_lang} | anuncio Parte/capitulo: {patched_announce}")
+    if missing_es:
+        print(f"  AVISO: {missing_es} prompt(s) SEM a diretiva es-ES esperada — confira se o manifesto "
+              f"tem 'language_name' e re-rode 03_build_prompts.py.")
     return 0
 
 

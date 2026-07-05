@@ -2,7 +2,9 @@
 """
 Fase 3 — Gera os prompts deep-dive (1 por cena) a partir do _cenas_manifest.json + _anchors.json.
 
-Padrao (aprovado): INSTRUCOES EM INGLES, OUTPUT EM pt-BR ('pensar em ingles, produzir em portugues').
+Padrao (aprovado): INSTRUCOES EM INGLES, OUTPUT no idioma do projeto (--language-name; default
+pt-BR — 'pensar em ingles, produzir na lingua de saida'). Perfis de idioma (it/fr/es/de) passam o
+nome legivel do idioma; ex.: --language-name "modern European Spanish (es-ES)".
 Template sequencial: persona -> ancora de serie (N de TOTAL) -> abertura 'cena X, cap Y' + recap da
 cena anterior -> ancoras (1a/ultima frase reais) -> o que acontece (resumo) -> pilar COF em foco
 (nomeado, NAO redefinido apos o ep.1) -> diretiva de output pt-BR -> gancho da proxima cena.
@@ -34,8 +36,12 @@ METHODOLOGY = """Because this is the FIRST episode, spend the opening minutes in
 - **A practical note:** the series is sequential and the method will NOT be re-explained in later episodes; invite the listener to start from the beginning.
 """
 
-OUTPUT_REQ = ("The ENTIRE audio MUST be spoken in fluent, natural **Brazilian Portuguese (pt-BR)**. "
-              "The English above is instruction only; never read it aloud or switch languages.")
+DEFAULT_LANGUAGE_NAME = "Brazilian Portuguese (pt-BR)"
+
+
+def output_req(language_name: str) -> str:
+    return (f"The ENTIRE audio MUST be spoken in fluent, natural **{language_name}**. "
+            "The English above is instruction only; never read it aloud or switch languages.")
 
 
 def slugify(s: str) -> str:
@@ -45,7 +51,7 @@ def slugify(s: str) -> str:
     return re.sub(r"-{2,}", "-", s).strip("-")
 
 
-def build_prompt(c, total, width, anchors, prev, nxt, obra, autor):
+def build_prompt(c, total, width, anchors, prev, nxt, obra, autor, language_name):
     seq = c["seq_global"]
     a = anchors.get(str(seq), {})
     lines = [PERSONA, "", "## Series context",
@@ -75,7 +81,7 @@ def build_prompt(c, total, width, anchors, prev, nxt, obra, autor):
               "", "## Pillar in focus",
               f"**{PILAR_NOME[c['pilar_foco']]}.** {c['justificativa_cof']} "
               "Lead the listener to *experience* this, not merely understand it.",
-              "", "## Output requirement", OUTPUT_REQ,
+              "", "## Output requirement", output_req(language_name),
               "", "## Closing (last ~30 seconds)"]
     if nxt is not None:
         lines += [f"Briefly tease the next scene: \"{nxt['titulo']}\" — {nxt['resumo']}"]
@@ -92,6 +98,9 @@ def main() -> int:
     ap.add_argument("--anchors", default="_anchors.json")
     ap.add_argument("--out", default="prompts_cenas")
     ap.add_argument("--max-chars", type=int, default=10000)
+    ap.add_argument("--language-name", default=DEFAULT_LANGUAGE_NAME,
+                    help="nome legivel do idioma de OUTPUT do audio (default: pt-BR). "
+                         "Ex.: 'modern European Spanish (es-ES)'. Pode vir do manifesto (language_name).")
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
 
@@ -102,6 +111,9 @@ def main() -> int:
     total = len(cenas)
     width = man.get("width", 2)
     obra, autor = man["obra"], man["autor"]
+    # idioma de output: CLI vence; senao le do manifesto ('language_name'); senao default pt-BR.
+    language_name = (args.language_name if args.language_name != DEFAULT_LANGUAGE_NAME
+                     else man.get("language_name", DEFAULT_LANGUAGE_NAME))
 
     outdir = proj / args.out
     if not args.dry_run:
@@ -111,7 +123,7 @@ def main() -> int:
     for i, c in enumerate(cenas):
         prev = cenas[i - 1] if i > 0 else None
         nxt = cenas[i + 1] if i < total - 1 else None
-        body = build_prompt(c, total, width, anchors, prev, nxt, obra, autor)
+        body = build_prompt(c, total, width, anchors, prev, nxt, obra, autor, language_name)
         fn = (f"prompt_{c['seq_global']:0{width}d}_cap-{c['cap']:0{width}d}"
               f"_cena-{c['cena_local']:0{width}d}_{slugify(c['titulo'])}.md")
         if len(body) > args.max_chars:

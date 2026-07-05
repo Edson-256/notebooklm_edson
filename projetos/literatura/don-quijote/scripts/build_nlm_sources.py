@@ -24,6 +24,7 @@ import argparse
 import json
 import re
 import sys
+import unicodedata
 from pathlib import Path
 
 PROJ = Path(__file__).resolve().parent.parent
@@ -34,56 +35,85 @@ ANCHORS = PROJ / "_anchors.json"
 PARTE_TITULO = {"P1": "Primera Parte (1605)", "P2": "Segunda Parte (1615)"}
 
 
+# matching tolerante a acento (mesma logica do stitch_cenas.py): as ancoras em _anchors.json ja
+# vem auto-curadas ao verbatim, mas mantemos a tolerancia por robustez.
+ACCENT_CLASS = {
+    "a": "aáàäâã", "e": "eéèëê", "i": "iíìïî", "o": "oóòöôõ",
+    "u": "uúùüû", "n": "nñ", "c": "cç", "y": "yý",
+}
+
+
+def _strip_accents(ch: str) -> str:
+    return "".join(c for c in unicodedata.normalize("NFKD", ch) if not unicodedata.combining(c))
+
+
+def _char_pattern(ch: str) -> str:
+    base = _strip_accents(ch).lower()
+    if base in ACCENT_CLASS:
+        return "[" + ACCENT_CLASS[base] + "]"
+    return re.escape(ch)
+
+
 def anchor_regex(anchor: str):
-    parts = [re.escape(tok) for tok in anchor.split()]
-    pat = r"\s+".join(parts)
-    return re.compile(pat)
+    parts = ["".join(_char_pattern(c) for c in tok) for tok in anchor.split()]
+    return re.compile(r"\s+".join(parts), re.IGNORECASE)
 
 
 def find_span(text: str, anchor: str):
+    if not anchor.strip():
+        return None
     m = anchor_regex(anchor).search(text)
     return (m.start(), m.end()) if m else None
 
 
 def build_source_for_parte(parte: str, man: dict, idx: dict, anchors: dict, width: int):
-    cenas_by_chapter = {}
+    # cenas por CAP (nao por source_chapter): um capitulo splitado (_p1/_p2) tem 2 arquivos, e uma
+    # cena pode ter INICIO em _p1 e FIM em _p2 — cada marcador vai no arquivo onde a ancora casar.
+    cenas_by_cap = {}
     for c in man["cenas"]:
-        cenas_by_chapter.setdefault(c["source_chapter"], []).append(c)
+        cenas_by_cap.setdefault(c["cap"], []).append(c)
 
     capitulos_parte = [ch for ch in idx["capitulos"] if ch["parte"] == parte]
 
     out = [f"# Don Quijote de la Mancha — {PARTE_TITULO[parte]}", "_Miguel de Cervantes Saavedra_", "",
            "> Fonte para NotebookLM. Marcadores `<<< CENA n — INICIO/FIM >>>` delimitam as cenas "
            "da leitura formativa. O prompt de cada cena usa as mesmas ancoras.", ""]
-    unmatched = []
-    n_cenas_parte = 0
+    placed = {}  # seq -> {"inicio": bool, "fim": bool}
+    seqs_parte = set()
 
     for ch in capitulos_parte:
         fname = ch["arquivo"]
         text = (CAP_DIR / fname).read_text(encoding="utf-8")
 
         inserts = []
-        for c in sorted(cenas_by_chapter.get(fname, []), key=lambda x: x["cena_local"]):
-            n_cenas_parte += 1
+        for c in sorted(cenas_by_cap.get(ch["cap"], []), key=lambda x: x["cena_local"]):
+            seqs_parte.add(c["seq_global"])
+            placed.setdefault(c["seq_global"], {"inicio": False, "fim": False})
             a = anchors.get(str(c["seq_global"]), {})
             si = find_span(text, a.get("inicio", "")) if a.get("inicio") else None
             sf = find_span(text, a.get("fim", "")) if a.get("fim") else None
             if si:
                 inserts.append((si[0], f"\n<<< CENA {c['seq_global']:0{width}d}: {c['titulo']} — INICIO >>>\n"))
-            else:
-                unmatched.append(f"cena {c['seq_global']} inicio")
+                placed[c["seq_global"]]["inicio"] = True
             if sf:
                 inserts.append((sf[1], f"\n<<< CENA {c['seq_global']:0{width}d} — FIM >>>\n"))
-            else:
-                unmatched.append(f"cena {c['seq_global']} fim")
+                placed[c["seq_global"]]["fim"] = True
         for pos, marker in sorted(inserts, key=lambda t: t[0], reverse=True):
             text = text[:pos] + marker + text[pos:]
 
         cap_label = "Prólogo" if ch["cap_natural"] == "Prólogo" else f"Capítulo {ch['cap_natural']}"
         out += [f"## {cap_label}", "", text.strip(), ""]
 
+    # ancoras nao casadas em NENHUM arquivo do cap
+    unmatched = []
+    for seq in sorted(seqs_parte):
+        if not placed[seq]["inicio"]:
+            unmatched.append(f"cena {seq} inicio")
+        if not placed[seq]["fim"]:
+            unmatched.append(f"cena {seq} fim")
+
     source = "\n".join(out) + "\n"
-    return source, len(capitulos_parte), n_cenas_parte, unmatched
+    return source, len(capitulos_parte), len(seqs_parte), unmatched
 
 
 def main() -> int:

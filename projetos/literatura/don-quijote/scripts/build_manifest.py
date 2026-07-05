@@ -215,6 +215,7 @@ def main() -> int:
             "autor": "Miguel de Cervantes Saavedra",
             "slug": "don-quijote",
             "width": width,
+            "language_name": "modern European Spanish (es-ES)",
             "cenas": [],
         }, indent=2, ensure_ascii=False), encoding="utf-8")
         print(f"\n  Esqueleto de manifesto criado: {manifest_path}")
