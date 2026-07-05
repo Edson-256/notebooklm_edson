@@ -1,0 +1,60 @@
+# Config do projeto Don Quijote de la Mancha (Leitura Formativa COF) — lido pelo audio_runner.py
+# da skill leitura-formativa. Projeto provisionado em 2026-07-04. NAO instalar cron automaticamente
+# (cada obra e processada devagar; ativar o agendamento quando liberar a cota).
+
+[obra]
+titulo      = "Don Quijote de la Mancha"
+autor       = "Miguel de Cervantes Saavedra"
+slug        = "don-quijote"
+sigla       = "DQ"                 # prefixo dos fragmentos (DQ-capitulos/)
+idioma_obra = "es"                 # texto-base: castelhano original de Cervantes (1605/1615)
+
+[notebooklm]
+notebook_id = "a7117d29-754d-45b5-9cf7-eb6b646f64b8"  # notebook vazio existente no perfil espanhol — RENOMEAR p/ "Don Quijote de la Mancha" antes de subir as fontes
+profile     = "espanhol"           # NLM_PROFILE FIXO (conta edsonmdphd@gmail.com)
+language    = "es-ES"              # OUTPUT: es-ES moderno na narracao, citando o castelhano original diretamente (mesmo idioma, sem traducao/gloss)
+format      = "deep_dive"
+length      = "default"            # ajustar para "long" se os audios ficarem curtos demais
+
+# DUAL-CONTA (futuro, quando quiser agilizar): a conta profissional (Pro, 20/dia, hoje ociosa)
+# pode gerar os mesmos audios mais rapido, REPLICANDO as 2 fontes num notebook proprio dela
+# (Opcao C do SKILL_pipeline_audio_nlm.md §3). Compartilhar (Opcao B, em vez de replicar) ja bateu
+# em BLOCKED_BY_ADMIN_POLICY numa tentativa anterior (COF-2 -> michalkcare.com) — nao tentar essa via.
+# [notebooklm.accounts]
+# espanhol     = "a7117d29-754d-45b5-9cf7-eb6b646f64b8"
+# profissional = "<preencher ao criar o notebook replicado>"
+
+[cota]
+por_dia = 3                        # Free
+margem  = 1                        # efetivo: 2/dia
+
+[fragmentacao]                     # informativo; a duracao real do audio e controlada por cena (ancoras), nao por capitulo inteiro
+min_audio_min    = 15
+max_audio_min    = 30
+hard_max_min     = 35
+palavras_por_min = 130
+
+[docling]
+src_dir = "projetos/literatura/don-quijote/output"
+usar    = "chapters"
+
+[cenas]
+min_por_capitulo = 1
+max_por_capitulo = 5
+
+[paths]
+capitulos    = "DQ-capitulos"
+cenas        = "cenas"
+prompts      = "prompts_cenas"
+audios       = "audios"
+manifest     = "_cenas_manifest.json"
+fonte_nlm_p1 = "don-quijote_p1_fonte_nlm.md"   # informativo; gerado por scripts/build_nlm_sources.py (nao pelo generico)
+fonte_nlm_p2 = "don-quijote_p2_fonte_nlm.md"
+
+[lifecycle]
+dell_sync = true
+dell_slug = "don-quijote"          # slug da pasta/feed no dell-server
+
+[telegram]
+enabled       = true
+projeto_label = "Don Quijote de la Mancha"
