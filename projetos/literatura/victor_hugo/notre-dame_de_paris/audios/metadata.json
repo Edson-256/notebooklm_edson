@@ -2402,7 +2402,9 @@
       "prompt_chars": 3984,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_144_l10_c04_un_maladroit_ami_cena001.m4a",
+      "tamanho_bytes": 17111976
     },
     {
       "seq_global": 145,
@@ -2417,7 +2419,9 @@
       "prompt_chars": 4679,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_145_l10_c04_un_maladroit_ami_cena002.m4a",
+      "tamanho_bytes": 18090198
     },
     {
       "seq_global": 146,
@@ -2432,9 +2436,56 @@
       "prompt_chars": 5106,
       "language": "fr-FR",
       "audio_format": "deep_dive",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_146_l10_c04_un_maladroit_ami_cena003.m4a",
+      "tamanho_bytes": 39200083
+    },
+    {
+      "seq_global": 147,
+      "scene_identifier": "L10-C04-UN_MALADROIT_AMI_cena004",
+      "cena_filename": "L10-C04-UN_MALADROIT_AMI_cena004.md",
+      "prompt_filename": "L10-C04-UN_MALADROIT_AMI_prompt004.md",
+      "arquivo": "notredame_147_l10_c04_un_maladroit_ami_cena004.m4a",
+      "artifact_id": "0de57f5c-5a1c-49bb-804a-c0b0ae0495da",
+      "source_id": "d599628c-039d-4a2f-9787-1c17fee2bb2e",
+      "book_id": "L10-C04-UN_MALADROIT_AMI",
+      "data_geracao": "2026-07-05T08:12:36.980050",
+      "prompt_chars": 3034,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 148,
+      "scene_identifier": "L10-C04-UN_MALADROIT_AMI_cena005",
+      "cena_filename": "L10-C04-UN_MALADROIT_AMI_cena005.md",
+      "prompt_filename": "L10-C04-UN_MALADROIT_AMI_prompt005.md",
+      "arquivo": "notredame_148_l10_c04_un_maladroit_ami_cena005.m4a",
+      "artifact_id": "54183707-52ea-40b4-9211-064f1b86debb",
+      "source_id": "d599628c-039d-4a2f-9787-1c17fee2bb2e",
+      "book_id": "L10-C04-UN_MALADROIT_AMI",
+      "data_geracao": "2026-07-05T08:14:59.530199",
+      "prompt_chars": 2983,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 149,
+      "scene_identifier": "L10-C05-LE_RETRAIT_O_DIT_SES_HEURES_MONSIEUR_LOUIS_DE_FRANCE_cena001",
+      "cena_filename": "L10-C05-LE_RETRAIT_O_DIT_SES_HEURES_MONSIEUR_LOUIS_DE_FRANCE_cena001.md",
+      "prompt_filename": "L10-C05-LE_RETRAIT_O_DIT_SES_HEURES_MONSIEUR_LOUIS_DE_FRANCE_prompt001.md",
+      "arquivo": "notredame_149_l10_c05_le_retrait_o_dit_ses_heures_mons.m4a",
+      "artifact_id": "e2e802f6-e62a-490f-887e-6c96be7e4548",
+      "source_id": "cb6b96d5-9931-4690-bd42-06159ef45a7a",
+      "book_id": "L10-C05-LE_RETRAIT_O_DIT_SES_HEURES_MONSIEUR_LOUIS_DE_FRANCE",
+      "data_geracao": "2026-07-05T08:17:21.224888",
+      "prompt_chars": 3803,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
       "status": "created"
     }
   ],
-  "total_itens_processados": 146,
-  "ultima_atualizacao": "2026-07-04T08:17:13.399439"
+  "total_itens_processados": 149,
+  "ultima_atualizacao": "2026-07-05T08:17:21.226191"
 }
