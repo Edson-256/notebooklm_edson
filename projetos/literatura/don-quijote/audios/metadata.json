@@ -1,0 +1,19 @@
+{
+  "obra": "Don Quijote de la Mancha",
+  "slug": "don-quijote",
+  "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+  "atualizado": "2026-07-05T20:44:01.496253",
+  "audios": [
+    {
+      "seq_global": 1,
+      "arquivo": "001_cap-001_cena-001_Confesion-al-desocupado-lector-la-sinceridad-contra-la-falsa-erudicion.m4a",
+      "titulo": "Confesion al desocupado lector: la sinceridad contra la falsa erudicion",
+      "cap": 1,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-05T20:44:01.495767",
+      "status": "created",
+      "artifact_id": "470ea4d4-8e6f-41a2-95f5-d89caf4a43a2"
+    }
+  ]
+}

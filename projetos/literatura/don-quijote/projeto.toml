@@ -1,6 +1,6 @@
 # Config do projeto Don Quijote de la Mancha (Leitura Formativa COF) — lido pelo audio_runner.py
-# da skill leitura-formativa. Projeto provisionado em 2026-07-04. NAO instalar cron automaticamente
-# (cada obra e processada devagar; ativar o agendamento quando liberar a cota).
+# da skill leitura-formativa. Provisionado em 2026-07-04. Fase 5 (ciclo completo: cron + Telegram +
+# podcast dell-server) ativada em 2026-07-05 — ver scripts/cron_daily.sh (08:20 diário) e RUNBOOK.md.
 
 [obra]
 titulo      = "Don Quijote de la Mancha"

@@ -21,11 +21,15 @@ PROJ=projetos/literatura/don-quijote
 
 ## Status atual (2026-07-05)
 
-**Pronto para gerar áudio.** Fases 1–4 concluídas: `DQ-capitulos/` (137 arquivos / 128 unidades),
+**Ciclo completo automatizado.** Fases 1–4 concluídas: `DQ-capitulos/` (137 arquivos / 128 unidades),
 `_cenas_manifest.json` com **403 cenas**, `_anchors.json` (806 âncoras verbatim), `cenas/` (403
-descritores), `prompts_cenas/` (403 prompts es-ES), e as 2 fontes NLM
-(`don-quijote_p1_fonte_nlm.md`, `don-quijote_p2_fonte_nlm.md`). Falta só: subir as 2 fontes no
-notebook e começar a rodar o `audio_runner.py` (Fase 5, abaixo).
+descritores), `prompts_cenas/` (403 prompts es-ES). Fase 5: notebook renomeado, 2 fontes NLM
+subidas via `nlm source add --file` (ready), cena 001 criada (aguardando D+1 p/ verificar). Cron
+`scripts/cron_daily.sh` instalado (08:20 diário, download+create --all respeitando cota); o runner
+já cuida de dell-sync + Telegram sozinho via `[lifecycle]`/`[telegram]` do `projeto.toml`. Podcast
+registrado no dell-server (`_meta/don-quijote.toml`, `lifecycle/registry.toml`, cover gerado) —
+feed em `https://dell-server.tail3f4f14.ts.net/don-quijote/feed.xml` (login `edson` / senha do
+SplashID, mesma dos outros feeds), ainda vazio até o 1º episódio ser baixado e sincronizado.
 
 ## Fase 1 — Fragmentação (já executada; comando de referência para re-rodar se necessário)
 
@@ -68,8 +72,10 @@ python3 scripts/build_nlm_sources.py --dry-run
 python3 scripts/build_nlm_sources.py
 ```
 
-Sobe `don-quijote_p1_fonte_nlm.md` e `don-quijote_p2_fonte_nlm.md` **manualmente** no notebook
+Sobe `don-quijote_p1_fonte_nlm.md` e `don-quijote_p2_fonte_nlm.md` no notebook
 `a7117d29-754d-45b5-9cf7-eb6b646f64b8` (renomear antes para "Don Quijote de la Mancha").
+**Feito via CLI** (não precisou do browser): `nlm rename notebook <id> "Don Quijote de la Mancha"
+--profile espanhol` + `nlm source add <id> --file <arquivo.md> --profile espanhol --wait`.
 
 ## Fase 5 — Runner (criação e download)
 
@@ -91,8 +97,12 @@ python3 $RUNNER --project $PROJ --download
 
 - Se a conta bater o limite, a cena vira `deferred` (não é falha) e reentra no próximo dia.
 - `nlm login --check --profile espanhol` antes de qualquer lote, se desconfiar de sessão expirada.
+- **Cota efetiva padrão = 2/dia** (`margem=1` em `projeto.toml`, convenção do skill — reserva 1 slot
+  de segurança na cota real de 3/dia da conta Free). Para acelerar pontualmente num dia específico,
+  pode pedir para editar `margem=0` só naquele dia (cota cheia 3/dia) — decisão do Edson por sessão,
+  não mudar o default do arquivo permanentemente.
 
-## Fluxo típico (dois dias, quando a Fase 5 estiver ativa)
+## Fluxo típico (manual, se quiser rodar fora do cron)
 
 ```bash
 # Dia 1 — criar o lote do dia
@@ -101,3 +111,21 @@ python3 $RUNNER --project $PROJ --profile espanhol --create 2
 python3 $RUNNER --project $PROJ --download
 python3 $RUNNER --project $PROJ --profile espanhol --create 2
 ```
+
+## Fase 6 — Automação completa (cron + Telegram + podcast dell-server)
+
+Ativada em 2026-07-05:
+
+- **Cron:** `scripts/cron_daily.sh`, `crontab -l` → `20 8 * * *` (08:20 diário, 20min depois do
+  francês). Faz `--download` seguido de `--profile espanhol --all` (o `--all` já respeita a cota
+  efetiva do `projeto.toml`). Log em `logs/donquijote_cron_*.log`.
+- **Telegram:** já embutido no `audio_runner.py` da skill (não precisa de wrapper extra) — dispara
+  via `[telegram] enabled = true` no `projeto.toml`; manda resumo de criação/download + o link do
+  feed após o 1º download bem-sucedido.
+- **Dell-sync + podcast:** `[lifecycle] dell_sync = true, dell_slug = "don-quijote"` no
+  `projeto.toml` aciona `_sync_to_dell()` a cada download. Registrado em
+  `~/dev/dell_server/podcast_system/lifecycle/registry.toml` +
+  `_meta/don-quijote.toml` (parser do filename `NNN_cap-NNN_cena-NNN_slug.m4a`) + cover gerado
+  (`covers/don-quijote.jpg`, accent dourado). Feed já no ar (vazio até o 1º episódio sincronizar):
+  `https://dell-server.tail3f4f14.ts.net/don-quijote/feed.xml` (login `edson` / senha do SplashID,
+  igual aos outros feeds — instalar no app de podcast do iPhone).
