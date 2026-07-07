@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-07-05T20:44:01.496253",
+  "atualizado": "2026-07-07T08:23:15.868249",
   "audios": [
     {
       "seq_global": 1,
@@ -12,8 +12,32 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-05T20:44:01.495767",
+      "status": "downloaded",
+      "artifact_id": "470ea4d4-8e6f-41a2-95f5-d89caf4a43a2",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/001_cap-001_cena-001_Confesion-al-desocupado-lector-la-sinceridad-contra-la-falsa-erudicion.m4a",
+      "tamanho_bytes": 26282881
+    },
+    {
+      "seq_global": 2,
+      "arquivo": "002_cap-002_cena-001_El-hidalgo-devorado-por-sus-lecturas.m4a",
+      "titulo": "El hidalgo devorado por sus lecturas",
+      "cap": 2,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-07T08:21:08.269953",
       "status": "created",
-      "artifact_id": "470ea4d4-8e6f-41a2-95f5-d89caf4a43a2"
+      "artifact_id": "e7d525c0-1a63-40b1-8386-76d32a2fdd7e"
+    },
+    {
+      "seq_global": 3,
+      "arquivo": "003_cap-002_cena-002_La-resolucion-de-hacerse-caballero-andante.m4a",
+      "titulo": "La resolucion de hacerse caballero andante",
+      "cap": 2,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-07T08:23:15.866670",
+      "status": "created",
+      "artifact_id": "ffe428a5-ac45-44fe-a97b-0ebb0ecab821"
     }
   ]
 }
