@@ -2453,7 +2453,9 @@
       "prompt_chars": 3034,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_147_l10_c04_un_maladroit_ami_cena004.m4a",
+      "tamanho_bytes": 34619859
     },
     {
       "seq_global": 148,
@@ -2468,7 +2470,9 @@
       "prompt_chars": 2983,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_148_l10_c04_un_maladroit_ami_cena005.m4a",
+      "tamanho_bytes": 16316032
     },
     {
       "seq_global": 149,
@@ -2483,9 +2487,56 @@
       "prompt_chars": 3803,
       "language": "fr-FR",
       "audio_format": "deep_dive",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_149_l10_c05_le_retrait_o_dit_ses_heures_mons.m4a",
+      "tamanho_bytes": 22060605
+    },
+    {
+      "seq_global": 150,
+      "scene_identifier": "L10-C05-LE_RETRAIT_O_DIT_SES_HEURES_MONSIEUR_LOUIS_DE_FRANCE_cena002",
+      "cena_filename": "L10-C05-LE_RETRAIT_O_DIT_SES_HEURES_MONSIEUR_LOUIS_DE_FRANCE_cena002.md",
+      "prompt_filename": "L10-C05-LE_RETRAIT_O_DIT_SES_HEURES_MONSIEUR_LOUIS_DE_FRANCE_prompt002.md",
+      "arquivo": "notredame_150_l10_c05_le_retrait_o_dit_ses_heures_mons.m4a",
+      "artifact_id": "0fc35a6f-b0d2-403a-9067-bda994cb9038",
+      "source_id": "cb6b96d5-9931-4690-bd42-06159ef45a7a",
+      "book_id": "L10-C05-LE_RETRAIT_O_DIT_SES_HEURES_MONSIEUR_LOUIS_DE_FRANCE",
+      "data_geracao": "2026-07-07T08:11:35.138898",
+      "prompt_chars": 4307,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 151,
+      "scene_identifier": "L10-C05-LE_RETRAIT_O_DIT_SES_HEURES_MONSIEUR_LOUIS_DE_FRANCE_cena003",
+      "cena_filename": "L10-C05-LE_RETRAIT_O_DIT_SES_HEURES_MONSIEUR_LOUIS_DE_FRANCE_cena003.md",
+      "prompt_filename": "L10-C05-LE_RETRAIT_O_DIT_SES_HEURES_MONSIEUR_LOUIS_DE_FRANCE_prompt003.md",
+      "arquivo": "notredame_151_l10_c05_le_retrait_o_dit_ses_heures_mons.m4a",
+      "artifact_id": "ed87cd60-c1d1-4906-9147-fb60e3686569",
+      "source_id": "cb6b96d5-9931-4690-bd42-06159ef45a7a",
+      "book_id": "L10-C05-LE_RETRAIT_O_DIT_SES_HEURES_MONSIEUR_LOUIS_DE_FRANCE",
+      "data_geracao": "2026-07-07T08:13:44.782382",
+      "prompt_chars": 2920,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 152,
+      "scene_identifier": "L10-C05-LE_RETRAIT_O_DIT_SES_HEURES_MONSIEUR_LOUIS_DE_FRANCE_cena004",
+      "cena_filename": "L10-C05-LE_RETRAIT_O_DIT_SES_HEURES_MONSIEUR_LOUIS_DE_FRANCE_cena004.md",
+      "prompt_filename": "L10-C05-LE_RETRAIT_O_DIT_SES_HEURES_MONSIEUR_LOUIS_DE_FRANCE_prompt004.md",
+      "arquivo": "notredame_152_l10_c05_le_retrait_o_dit_ses_heures_mons.m4a",
+      "artifact_id": "b5cb56cd-b7ba-4caa-ab19-8064a094d588",
+      "source_id": "cb6b96d5-9931-4690-bd42-06159ef45a7a",
+      "book_id": "L10-C05-LE_RETRAIT_O_DIT_SES_HEURES_MONSIEUR_LOUIS_DE_FRANCE",
+      "data_geracao": "2026-07-07T08:15:53.893656",
+      "prompt_chars": 2941,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
       "status": "created"
     }
   ],
-  "total_itens_processados": 149,
-  "ultima_atualizacao": "2026-07-05T08:17:21.226191"
+  "total_itens_processados": 152,
+  "ultima_atualizacao": "2026-07-07T08:15:53.897219"
 }
