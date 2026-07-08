@@ -2504,7 +2504,9 @@
       "prompt_chars": 4307,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_150_l10_c05_le_retrait_o_dit_ses_heures_mons.m4a",
+      "tamanho_bytes": 19086348
     },
     {
       "seq_global": 151,
@@ -2519,7 +2521,9 @@
       "prompt_chars": 2920,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_151_l10_c05_le_retrait_o_dit_ses_heures_mons.m4a",
+      "tamanho_bytes": 19552616
     },
     {
       "seq_global": 152,
@@ -2534,9 +2538,56 @@
       "prompt_chars": 2941,
       "language": "fr-FR",
       "audio_format": "deep_dive",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_152_l10_c05_le_retrait_o_dit_ses_heures_mons.m4a",
+      "tamanho_bytes": 34333628
+    },
+    {
+      "seq_global": 153,
+      "scene_identifier": "L10-C05-LE_RETRAIT_O_DIT_SES_HEURES_MONSIEUR_LOUIS_DE_FRANCE_cena005",
+      "cena_filename": "L10-C05-LE_RETRAIT_O_DIT_SES_HEURES_MONSIEUR_LOUIS_DE_FRANCE_cena005.md",
+      "prompt_filename": "L10-C05-LE_RETRAIT_O_DIT_SES_HEURES_MONSIEUR_LOUIS_DE_FRANCE_prompt005.md",
+      "arquivo": "notredame_153_l10_c05_le_retrait_o_dit_ses_heures_mons.m4a",
+      "artifact_id": "fdae95f0-b5f9-4ec2-9655-8d1b5d7bc646",
+      "source_id": "cb6b96d5-9931-4690-bd42-06159ef45a7a",
+      "book_id": "L10-C05-LE_RETRAIT_O_DIT_SES_HEURES_MONSIEUR_LOUIS_DE_FRANCE",
+      "data_geracao": "2026-07-08T08:12:08.534933",
+      "prompt_chars": 2958,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 154,
+      "scene_identifier": "L10-C06-PETITE_FLAMBE_EN_BAGUENAUD_cena001",
+      "cena_filename": "L10-C06-PETITE_FLAMBE_EN_BAGUENAUD_cena001.md",
+      "prompt_filename": "L10-C06-PETITE_FLAMBE_EN_BAGUENAUD_prompt001.md",
+      "arquivo": "notredame_154_l10_c06_petite_flambe_en_baguenaud_cena0.m4a",
+      "artifact_id": "0a35bb81-86b2-4788-9f0d-6b16f9a3188d",
+      "source_id": "d86ccfd7-73fa-419b-a099-d33981f1c457",
+      "book_id": "L10-C06-PETITE_FLAMBE_EN_BAGUENAUD",
+      "data_geracao": "2026-07-08T08:14:19.012108",
+      "prompt_chars": 2970,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 155,
+      "scene_identifier": "L10-C06-PETITE_FLAMBE_EN_BAGUENAUD_cena002",
+      "cena_filename": "L10-C06-PETITE_FLAMBE_EN_BAGUENAUD_cena002.md",
+      "prompt_filename": "L10-C06-PETITE_FLAMBE_EN_BAGUENAUD_prompt002.md",
+      "arquivo": "notredame_155_l10_c06_petite_flambe_en_baguenaud_cena0.m4a",
+      "artifact_id": "51d416cd-7fb3-4363-bd94-06e5604d2332",
+      "source_id": "d86ccfd7-73fa-419b-a099-d33981f1c457",
+      "book_id": "L10-C06-PETITE_FLAMBE_EN_BAGUENAUD",
+      "data_geracao": "2026-07-08T08:16:29.409735",
+      "prompt_chars": 3010,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
       "status": "created"
     }
   ],
-  "total_itens_processados": 152,
-  "ultima_atualizacao": "2026-07-07T08:15:53.897219"
+  "total_itens_processados": 155,
+  "ultima_atualizacao": "2026-07-08T08:16:29.412050"
 }
