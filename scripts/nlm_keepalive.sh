@@ -8,7 +8,12 @@
 # diferente do cron — executa ao acordar se o Mac estava dormindo no horário.
 #
 # Se um perfil falhar no --check, a sessão já esfriou e SÓ um relogin manual
-# (nlm login -p <perfil>, que abre o browser) resolve — então notifica.
+# (nlm login --profile <perfil>, que abre o browser) resolve — então notifica.
+#
+# NOTA: usar sempre a forma longa "--profile" (nunca "-p") nas mensagens de aviso —
+# "-p" digitado de cabeça (sem o "nlm" na frente) é fácil de confundir com o comando
+# `login` do próprio macOS, que existe e pede usuário/senha do sistema (aconteceu de
+# verdade em 2026-07-03: usuário digitou "login -p alemao" em vez de "nlm login...").
 
 set -u
 
@@ -27,11 +32,11 @@ notify_fail() {
   /usr/bin/afplay "/System/Library/Sounds/Funk.aiff" >/dev/null 2>&1 &
   if command -v terminal-notifier >/dev/null 2>&1; then
     terminal-notifier -title "NLM keep-alive — relogin necessário" \
-      -message "Perfil '$p' falhou no --check. Rode: nlm login -p $p" \
+      -message "Perfil '$p' falhou no --check. Rode: nlm login --profile $p" \
       -sound Funk -group "nlm-keepalive" >/dev/null 2>&1
   fi
   /opt/homebrew/bin/python3 "$REPO_DIR/scripts/tg_notify.py" send \
-    "⚠️ NLM keep-alive: perfil '$p' falhou no --check. Rode: nlm login -p $p" \
+    "⚠️ NLM keep-alive: perfil '$p' falhou no --check. Rode: <code>nlm login --profile $p</code>" \
     >/dev/null 2>&1 || true
 }
 
