@@ -75,3 +75,9 @@ projetos/**/I Promesi Sposi/cenas/
 projetos/critica-literaria/**/source/
 projetos/critica-literaria/**/audios/*.m4a
 projetos/critica-literaria/**/output/images/
+
+# Artefatos temporários do regen 53-63 do Quo Vadis (estado de processo + backup).
+# Ignorados por caminho exato — NÃO usar padrão amplo (*_state.json / *.bak_* já têm
+# arquivos rastreados no repo: frye/_frye_run_state.json e quo_vadis/audios/metadata.json.bak_*).
+projetos/literatura/quo_vadis/_regen53_63_state.json
+projetos/literatura/quo_vadis/audios/metadata.json.bak_reset53-63_20260610_225453
