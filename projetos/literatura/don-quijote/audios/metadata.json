@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-07-07T08:23:15.868249",
+  "atualizado": "2026-07-08T08:23:21.309418",
   "audios": [
     {
       "seq_global": 1,
@@ -25,8 +25,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-07T08:21:08.269953",
-      "status": "created",
-      "artifact_id": "e7d525c0-1a63-40b1-8386-76d32a2fdd7e"
+      "status": "downloaded",
+      "artifact_id": "e7d525c0-1a63-40b1-8386-76d32a2fdd7e",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/002_cap-002_cena-001_El-hidalgo-devorado-por-sus-lecturas.m4a",
+      "tamanho_bytes": 23423668
     },
     {
       "seq_global": 3,
@@ -36,8 +38,32 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-07T08:23:15.866670",
+      "status": "downloaded",
+      "artifact_id": "ffe428a5-ac45-44fe-a97b-0ebb0ecab821",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/003_cap-002_cena-002_La-resolucion-de-hacerse-caballero-andante.m4a",
+      "tamanho_bytes": 19385279
+    },
+    {
+      "seq_global": 4,
+      "arquivo": "004_cap-002_cena-003_La-celada-de-carton-y-la-prueba-que-no-se-repite.m4a",
+      "titulo": "La celada de carton y la prueba que no se repite",
+      "cap": 2,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-08T08:21:12.581998",
       "status": "created",
-      "artifact_id": "ffe428a5-ac45-44fe-a97b-0ebb0ecab821"
+      "artifact_id": "963cead8-ee1f-4dd5-a855-03d4d5577f55"
+    },
+    {
+      "seq_global": 5,
+      "arquivo": "005_cap-002_cena-004_El-bautismo-de-Rocinante-y-del-propio-caballero.m4a",
+      "titulo": "El bautismo de Rocinante y del propio caballero",
+      "cap": 2,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-08T08:23:21.306006",
+      "status": "created",
+      "artifact_id": "efe86c76-006f-4d28-ba7e-221115da1f3b"
     }
   ]
 }
