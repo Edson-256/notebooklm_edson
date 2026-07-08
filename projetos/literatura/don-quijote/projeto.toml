@@ -26,7 +26,7 @@ length      = "default"            # ajustar para "long" se os audios ficarem cu
 
 [cota]
 por_dia = 3                        # Free
-margem  = 1                        # efetivo: 2/dia
+margem  = 0                        # efetivo: 3/dia (mudado 2026-07-08 a pedido do Edson — usar cota Free cheia neste projeto)
 
 [fragmentacao]                     # informativo; a duracao real do audio e controlada por cena (ancoras), nao por capitulo inteiro
 min_audio_min    = 15
