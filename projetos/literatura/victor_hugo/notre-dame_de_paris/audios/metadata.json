@@ -2555,7 +2555,9 @@
       "prompt_chars": 2958,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_153_l10_c05_le_retrait_o_dit_ses_heures_mons.m4a",
+      "tamanho_bytes": 16673980
     },
     {
       "seq_global": 154,
@@ -2570,7 +2572,9 @@
       "prompt_chars": 2970,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_154_l10_c06_petite_flambe_en_baguenaud_cena0.m4a",
+      "tamanho_bytes": 29384998
     },
     {
       "seq_global": 155,
@@ -2585,9 +2589,56 @@
       "prompt_chars": 3010,
       "language": "fr-FR",
       "audio_format": "deep_dive",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_155_l10_c06_petite_flambe_en_baguenaud_cena0.m4a",
+      "tamanho_bytes": 23712888
+    },
+    {
+      "seq_global": 156,
+      "scene_identifier": "L10-C06-PETITE_FLAMBE_EN_BAGUENAUD_cena003",
+      "cena_filename": "L10-C06-PETITE_FLAMBE_EN_BAGUENAUD_cena003.md",
+      "prompt_filename": "L10-C06-PETITE_FLAMBE_EN_BAGUENAUD_prompt003.md",
+      "arquivo": "notredame_156_l10_c06_petite_flambe_en_baguenaud_cena0.m4a",
+      "artifact_id": "b5d1bd42-0538-40e0-ac22-17fab788d5aa",
+      "source_id": "d86ccfd7-73fa-419b-a099-d33981f1c457",
+      "book_id": "L10-C06-PETITE_FLAMBE_EN_BAGUENAUD",
+      "data_geracao": "2026-07-09T08:11:29.705741",
+      "prompt_chars": 2851,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 157,
+      "scene_identifier": "L10-C07-CHATEAUPERS__LA_RESCOUSSE_cena001",
+      "cena_filename": "L10-C07-CHATEAUPERS__LA_RESCOUSSE_cena001.md",
+      "prompt_filename": "L10-C07-CHATEAUPERS__LA_RESCOUSSE_prompt001.md",
+      "arquivo": "notredame_157_l10_c07_chateaupers_la_rescousse_cena001.m4a",
+      "artifact_id": "5b671fc3-c003-473c-8d4a-2bb3c55dd128",
+      "source_id": "5010a011-3574-4c31-be1a-6e6196440b01",
+      "book_id": "L10-C07-CHATEAUPERS__LA_RESCOUSSE",
+      "data_geracao": "2026-07-09T08:13:48.587211",
+      "prompt_chars": 3271,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 158,
+      "scene_identifier": "L10-C07-CHATEAUPERS__LA_RESCOUSSE_cena002",
+      "cena_filename": "L10-C07-CHATEAUPERS__LA_RESCOUSSE_cena002.md",
+      "prompt_filename": "L10-C07-CHATEAUPERS__LA_RESCOUSSE_prompt002.md",
+      "arquivo": "notredame_158_l10_c07_chateaupers_la_rescousse_cena002.m4a",
+      "artifact_id": "20ea0c19-aa9b-4581-b3b6-ccf2be1c0da8",
+      "source_id": "5010a011-3574-4c31-be1a-6e6196440b01",
+      "book_id": "L10-C07-CHATEAUPERS__LA_RESCOUSSE",
+      "data_geracao": "2026-07-09T08:16:07.239151",
+      "prompt_chars": 4197,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
       "status": "created"
     }
   ],
-  "total_itens_processados": 155,
-  "ultima_atualizacao": "2026-07-08T08:16:29.412050"
+  "total_itens_processados": 158,
+  "ultima_atualizacao": "2026-07-09T08:16:07.241215"
 }
