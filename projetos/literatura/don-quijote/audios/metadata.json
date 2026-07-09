@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-07-08T08:23:21.309418",
+  "atualizado": "2026-07-09T08:25:18.815334",
   "audios": [
     {
       "seq_global": 1,
@@ -51,8 +51,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-08T08:21:12.581998",
-      "status": "created",
-      "artifact_id": "963cead8-ee1f-4dd5-a855-03d4d5577f55"
+      "status": "downloaded",
+      "artifact_id": "963cead8-ee1f-4dd5-a855-03d4d5577f55",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/004_cap-002_cena-003_La-celada-de-carton-y-la-prueba-que-no-se-repite.m4a",
+      "tamanho_bytes": 28613011
     },
     {
       "seq_global": 5,
@@ -62,8 +64,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-08T08:23:21.306006",
+      "status": "downloaded",
+      "artifact_id": "efe86c76-006f-4d28-ba7e-221115da1f3b",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/005_cap-002_cena-004_El-bautismo-de-Rocinante-y-del-propio-caballero.m4a",
+      "tamanho_bytes": 30173356
+    },
+    {
+      "seq_global": 6,
+      "arquivo": "006_cap-002_cena-005_La-invencion-de-Dulcinea-del-Toboso.m4a",
+      "titulo": "La invencion de Dulcinea del Toboso",
+      "cap": 2,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-09T08:21:03.392636",
       "status": "created",
-      "artifact_id": "efe86c76-006f-4d28-ba7e-221115da1f3b"
+      "artifact_id": "1f4f9bf9-92af-4721-ba4b-4df3cc7f7187"
+    },
+    {
+      "seq_global": 7,
+      "arquivo": "007_cap-003_cena-001_La-salida-al-alba-y-el-pensamiento-terrible.m4a",
+      "titulo": "La salida al alba y el pensamiento terrible",
+      "cap": 3,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-09T08:23:11.181903",
+      "status": "created",
+      "artifact_id": "f26be957-c089-45cc-b81b-3b08029795ff"
+    },
+    {
+      "seq_global": 8,
+      "arquivo": "008_cap-003_cena-002_El-cronista-imaginado-y-la-apostrofe-a-Dulcinea.m4a",
+      "titulo": "El cronista imaginado y la apostrofe a Dulcinea",
+      "cap": 3,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-09T08:25:18.811496",
+      "status": "created",
+      "artifact_id": "b123ff25-4fd4-4442-a66d-5a4621fb151b"
     }
   ]
 }
