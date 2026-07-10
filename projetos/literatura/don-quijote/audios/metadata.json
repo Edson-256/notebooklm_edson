@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-07-09T08:25:18.815334",
+  "atualizado": "2026-07-10T08:25:45.696931",
   "audios": [
     {
       "seq_global": 1,
@@ -77,8 +77,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-09T08:21:03.392636",
-      "status": "created",
-      "artifact_id": "1f4f9bf9-92af-4721-ba4b-4df3cc7f7187"
+      "status": "downloaded",
+      "artifact_id": "1f4f9bf9-92af-4721-ba4b-4df3cc7f7187",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/006_cap-002_cena-005_La-invencion-de-Dulcinea-del-Toboso.m4a",
+      "tamanho_bytes": 19256673
     },
     {
       "seq_global": 7,
@@ -88,8 +90,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-09T08:23:11.181903",
-      "status": "created",
-      "artifact_id": "f26be957-c089-45cc-b81b-3b08029795ff"
+      "status": "downloaded",
+      "artifact_id": "f26be957-c089-45cc-b81b-3b08029795ff",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/007_cap-003_cena-001_La-salida-al-alba-y-el-pensamiento-terrible.m4a",
+      "tamanho_bytes": 17915275
     },
     {
       "seq_global": 8,
@@ -99,8 +103,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-09T08:25:18.811496",
+      "status": "downloaded",
+      "artifact_id": "b123ff25-4fd4-4442-a66d-5a4621fb151b",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/008_cap-003_cena-002_El-cronista-imaginado-y-la-apostrofe-a-Dulcinea.m4a",
+      "tamanho_bytes": 39937758
+    },
+    {
+      "seq_global": 9,
+      "arquivo": "009_cap-003_cena-003_La-venta-que-fue-castillo-y-las-mozas-doncellas.m4a",
+      "titulo": "La venta que fue castillo y las mozas doncellas",
+      "cap": 3,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-10T08:21:32.525750",
       "status": "created",
-      "artifact_id": "b123ff25-4fd4-4442-a66d-5a4621fb151b"
+      "artifact_id": "0d6ac056-29ea-4696-8818-0e8377e31d46"
+    },
+    {
+      "seq_global": 10,
+      "arquivo": "010_cap-003_cena-004_La-celada-atada-y-la-cena-servida-por-princesas.m4a",
+      "titulo": "La celada atada y la cena servida por princesas",
+      "cap": 3,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-10T08:23:39.389070",
+      "status": "created",
+      "artifact_id": "3a00df2e-a1f4-439e-83b3-b5186d2bf893"
+    },
+    {
+      "seq_global": 11,
+      "arquivo": "011_cap-004_cena-001_El-don-de-rodillas-y-la-comedia-del-ventero.m4a",
+      "titulo": "El don de rodillas y la comedia del ventero",
+      "cap": 4,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-10T08:25:45.692376",
+      "status": "created",
+      "artifact_id": "60f8a6fb-ac6e-41af-b944-7cf119b4c2b8"
     }
   ]
 }
