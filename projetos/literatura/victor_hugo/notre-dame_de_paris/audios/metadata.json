@@ -2606,7 +2606,9 @@
       "prompt_chars": 2851,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_156_l10_c06_petite_flambe_en_baguenaud_cena0.m4a",
+      "tamanho_bytes": 16973658
     },
     {
       "seq_global": 157,
@@ -2621,7 +2623,9 @@
       "prompt_chars": 3271,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_157_l10_c07_chateaupers_la_rescousse_cena001.m4a",
+      "tamanho_bytes": 21006186
     },
     {
       "seq_global": 158,
@@ -2636,9 +2640,56 @@
       "prompt_chars": 4197,
       "language": "fr-FR",
       "audio_format": "deep_dive",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_158_l10_c07_chateaupers_la_rescousse_cena002.m4a",
+      "tamanho_bytes": 16605999
+    },
+    {
+      "seq_global": 159,
+      "scene_identifier": "L10-C07-CHATEAUPERS__LA_RESCOUSSE_cena003",
+      "cena_filename": "L10-C07-CHATEAUPERS__LA_RESCOUSSE_cena003.md",
+      "prompt_filename": "L10-C07-CHATEAUPERS__LA_RESCOUSSE_prompt003.md",
+      "arquivo": "notredame_159_l10_c07_chateaupers_la_rescousse_cena003.m4a",
+      "artifact_id": "b7cf86d8-720a-4fe5-8566-3e5250dad11e",
+      "source_id": "5010a011-3574-4c31-be1a-6e6196440b01",
+      "book_id": "L10-C07-CHATEAUPERS__LA_RESCOUSSE",
+      "data_geracao": "2026-07-10T08:11:34.007136",
+      "prompt_chars": 3702,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 160,
+      "scene_identifier": "L11-C01-LE_PETIT_SOULIER_cena001",
+      "cena_filename": "L11-C01-LE_PETIT_SOULIER_cena001.md",
+      "prompt_filename": "L11-C01-LE_PETIT_SOULIER_prompt001.md",
+      "arquivo": "notredame_160_l11_c01_le_petit_soulier_cena001.m4a",
+      "artifact_id": "b679d037-6666-4308-80c3-121e95dab17b",
+      "source_id": "c4bd5291-3c49-4d53-8156-755eda73df4c",
+      "book_id": "L11-C01-LE_PETIT_SOULIER",
+      "data_geracao": "2026-07-10T08:13:49.627360",
+      "prompt_chars": 2757,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 161,
+      "scene_identifier": "L11-C01-LE_PETIT_SOULIER_cena002",
+      "cena_filename": "L11-C01-LE_PETIT_SOULIER_cena002.md",
+      "prompt_filename": "L11-C01-LE_PETIT_SOULIER_prompt002.md",
+      "arquivo": "notredame_161_l11_c01_le_petit_soulier_cena002.m4a",
+      "artifact_id": "1159164a-fc3c-4f5c-8b50-ed4641fb9817",
+      "source_id": "c4bd5291-3c49-4d53-8156-755eda73df4c",
+      "book_id": "L11-C01-LE_PETIT_SOULIER",
+      "data_geracao": "2026-07-10T08:15:59.454960",
+      "prompt_chars": 4416,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
       "status": "created"
     }
   ],
-  "total_itens_processados": 158,
-  "ultima_atualizacao": "2026-07-09T08:16:07.241215"
+  "total_itens_processados": 161,
+  "ultima_atualizacao": "2026-07-10T08:15:59.461298"
 }
