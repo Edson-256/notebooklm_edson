@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-07-10T08:25:45.696931",
+  "atualizado": "2026-07-11T08:25:52.292182",
   "audios": [
     {
       "seq_global": 1,
@@ -116,8 +116,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-10T08:21:32.525750",
-      "status": "created",
-      "artifact_id": "0d6ac056-29ea-4696-8818-0e8377e31d46"
+      "status": "downloaded",
+      "artifact_id": "0d6ac056-29ea-4696-8818-0e8377e31d46",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/009_cap-003_cena-003_La-venta-que-fue-castillo-y-las-mozas-doncellas.m4a",
+      "tamanho_bytes": 43317026
     },
     {
       "seq_global": 10,
@@ -126,9 +128,9 @@
       "cap": 3,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-07-10T08:23:39.389070",
+      "data": "2026-07-11T08:21:37.148571",
       "status": "created",
-      "artifact_id": "3a00df2e-a1f4-439e-83b3-b5186d2bf893"
+      "artifact_id": "4c95f962-138c-45b0-8dd3-b6504e042837"
     },
     {
       "seq_global": 11,
@@ -138,8 +140,32 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-10T08:25:45.692376",
+      "status": "downloaded",
+      "artifact_id": "60f8a6fb-ac6e-41af-b944-7cf119b4c2b8",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/011_cap-004_cena-001_El-don-de-rodillas-y-la-comedia-del-ventero.m4a",
+      "tamanho_bytes": 40410002
+    },
+    {
+      "seq_global": 12,
+      "arquivo": "012_cap-004_cena-002_La-vela-de-las-armas-y-los-arrieros-apedreadores.m4a",
+      "titulo": "La vela de las armas y los arrieros apedreadores",
+      "cap": 4,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-11T08:23:45.056447",
       "status": "created",
-      "artifact_id": "60f8a6fb-ac6e-41af-b944-7cf119b4c2b8"
+      "artifact_id": "ee114940-0d48-4259-a494-65c655c7e0d5"
+    },
+    {
+      "seq_global": 13,
+      "arquivo": "013_cap-004_cena-003_La-orden-de-caballeria-de-burlas-y-las-damas-ennoblecidas.m4a",
+      "titulo": "La orden de caballeria de burlas y las damas ennoblecidas",
+      "cap": 4,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-11T08:25:52.289022",
+      "status": "created",
+      "artifact_id": "be5e48ae-99cc-444b-a3f3-4f22134478dd"
     }
   ]
 }
