@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-07-11T08:25:52.292182",
+  "atualizado": "2026-07-12T08:26:03.124550",
   "audios": [
     {
       "seq_global": 1,
@@ -129,8 +129,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-11T08:21:37.148571",
-      "status": "created",
-      "artifact_id": "4c95f962-138c-45b0-8dd3-b6504e042837"
+      "status": "downloaded",
+      "artifact_id": "4c95f962-138c-45b0-8dd3-b6504e042837",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/010_cap-003_cena-004_La-celada-atada-y-la-cena-servida-por-princesas.m4a",
+      "tamanho_bytes": 25350976
     },
     {
       "seq_global": 11,
@@ -153,8 +155,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-11T08:23:45.056447",
-      "status": "created",
-      "artifact_id": "ee114940-0d48-4259-a494-65c655c7e0d5"
+      "status": "downloaded",
+      "artifact_id": "ee114940-0d48-4259-a494-65c655c7e0d5",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/012_cap-004_cena-002_La-vela-de-las-armas-y-los-arrieros-apedreadores.m4a",
+      "tamanho_bytes": 22543424
     },
     {
       "seq_global": 13,
@@ -164,8 +168,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-11T08:25:52.289022",
+      "status": "downloaded",
+      "artifact_id": "be5e48ae-99cc-444b-a3f3-4f22134478dd",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/013_cap-004_cena-003_La-orden-de-caballeria-de-burlas-y-las-damas-ennoblecidas.m4a",
+      "tamanho_bytes": 28193008
+    },
+    {
+      "seq_global": 14,
+      "arquivo": "014_cap-005_cena-001_La-primera-justicia-Andres-atado-a-la-encina.m4a",
+      "titulo": "La primera justicia: Andrés atado a la encina",
+      "cap": 5,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-12T08:21:47.547095",
       "status": "created",
-      "artifact_id": "be5e48ae-99cc-444b-a3f3-4f22134478dd"
+      "artifact_id": "d850726d-004d-4164-8637-87c3d1cd9af6"
+    },
+    {
+      "seq_global": 15,
+      "arquivo": "015_cap-005_cena-002_El-agravio-deshecho-y-rehecho.m4a",
+      "titulo": "El agravio deshecho... y rehecho",
+      "cap": 5,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-12T08:23:54.897560",
+      "status": "created",
+      "artifact_id": "06c49789-f33d-4e38-bcbb-29896d6625eb"
+    },
+    {
+      "seq_global": 16,
+      "arquivo": "016_cap-005_cena-003_Confesar-a-Dulcinea-sin-verla-los-mercaderes-de-Toledo.m4a",
+      "titulo": "Confesar a Dulcinea sin verla: los mercaderes de Toledo",
+      "cap": 5,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-12T08:26:03.120052",
+      "status": "created",
+      "artifact_id": "2a9d73b6-333c-4ce1-893d-e8e25d50bb15"
     }
   ]
 }
