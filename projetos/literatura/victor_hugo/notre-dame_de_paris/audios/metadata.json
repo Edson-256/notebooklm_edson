@@ -2708,7 +2708,9 @@
       "prompt_chars": 4189,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_162_l11_c01_le_petit_soulier_cena003.m4a",
+      "tamanho_bytes": 31975162
     },
     {
       "seq_global": 163,
@@ -2723,7 +2725,9 @@
       "prompt_chars": 3642,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_163_l11_c01_le_petit_soulier_cena004.m4a",
+      "tamanho_bytes": 21949297
     },
     {
       "seq_global": 164,
@@ -2738,9 +2742,56 @@
       "prompt_chars": 3609,
       "language": "fr-FR",
       "audio_format": "deep_dive",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_164_l11_c01_le_petit_soulier_cena005.m4a",
+      "tamanho_bytes": 18800863
+    },
+    {
+      "seq_global": 165,
+      "scene_identifier": "L11-C02-LA_CREATURA_BELLA_BIANCO_VESTITA__DANTE_cena001",
+      "cena_filename": "L11-C02-LA_CREATURA_BELLA_BIANCO_VESTITA__DANTE_cena001.md",
+      "prompt_filename": "L11-C02-LA_CREATURA_BELLA_BIANCO_VESTITA__DANTE_prompt001.md",
+      "arquivo": "notredame_165_l11_c02_la_creatura_bella_bianco_vestita.m4a",
+      "artifact_id": "3b92393d-637a-4bd5-9588-182f562d5e7e",
+      "source_id": "8a9ba4d8-5959-4e84-bb7f-ce4537c324c0",
+      "book_id": "L11-C02-LA_CREATURA_BELLA_BIANCO_VESTITA__DANTE",
+      "data_geracao": "2026-07-12T08:11:36.841551",
+      "prompt_chars": 4163,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 166,
+      "scene_identifier": "L11-C02-LA_CREATURA_BELLA_BIANCO_VESTITA__DANTE_cena002",
+      "cena_filename": "L11-C02-LA_CREATURA_BELLA_BIANCO_VESTITA__DANTE_cena002.md",
+      "prompt_filename": "L11-C02-LA_CREATURA_BELLA_BIANCO_VESTITA__DANTE_prompt002.md",
+      "arquivo": "notredame_166_l11_c02_la_creatura_bella_bianco_vestita.m4a",
+      "artifact_id": "8d45f7fc-af7c-4d6a-b8d3-149783eb33f6",
+      "source_id": "8a9ba4d8-5959-4e84-bb7f-ce4537c324c0",
+      "book_id": "L11-C02-LA_CREATURA_BELLA_BIANCO_VESTITA__DANTE",
+      "data_geracao": "2026-07-12T08:13:57.178522",
+      "prompt_chars": 3095,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 167,
+      "scene_identifier": "L11-C02-LA_CREATURA_BELLA_BIANCO_VESTITA__DANTE_cena003",
+      "cena_filename": "L11-C02-LA_CREATURA_BELLA_BIANCO_VESTITA__DANTE_cena003.md",
+      "prompt_filename": "L11-C02-LA_CREATURA_BELLA_BIANCO_VESTITA__DANTE_prompt003.md",
+      "arquivo": "notredame_167_l11_c02_la_creatura_bella_bianco_vestita.m4a",
+      "artifact_id": "8e44ddec-6ef6-47a0-9299-4a97afca453c",
+      "source_id": "8a9ba4d8-5959-4e84-bb7f-ce4537c324c0",
+      "book_id": "L11-C02-LA_CREATURA_BELLA_BIANCO_VESTITA__DANTE",
+      "data_geracao": "2026-07-12T08:16:17.794271",
+      "prompt_chars": 3273,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
       "status": "created"
     }
   ],
-  "total_itens_processados": 164,
-  "ultima_atualizacao": "2026-07-11T08:16:06.412264"
+  "total_itens_processados": 167,
+  "ultima_atualizacao": "2026-07-12T08:16:17.798033"
 }
