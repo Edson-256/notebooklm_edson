@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T21:55:06Z",
+  "updated_at": "2026-07-12T23:52:24Z",
   "audios": {
     "05_etica/01_etica_nicomaco/L01-C01_cena01": {
       "artifact_id": "46097252-f46f-41a0-b77f-86b89e4b0945",
@@ -3495,141 +3495,321 @@
       "artifact_id": "45e789fd-c9df-4e1d-98de-b389521de14c",
       "audio_title": "aristoteles_11_l02_c10_cena01_de_anima",
       "audio_filename": "aristoteles_11_l02_c10_cena01_de_anima.m4a",
-      "status": "created",
-      "created_at": "2026-07-11T21:16:02Z"
+      "status": "downloaded",
+      "created_at": "2026-07-11T21:16:02Z",
+      "downloaded_at": "2026-07-12T23:01:08Z",
+      "bytes": 30210824
     },
     "03_psicologia_biologia/01_de_anima/L02-C11_cena01": {
       "artifact_id": "27ae137a-1571-4213-a966-4b81d5a5933b",
       "audio_title": "aristoteles_11_l02_c11_cena01_de_anima",
       "audio_filename": "aristoteles_11_l02_c11_cena01_de_anima.m4a",
-      "status": "created",
-      "created_at": "2026-07-11T21:18:05Z"
+      "status": "downloaded",
+      "created_at": "2026-07-11T21:18:05Z",
+      "downloaded_at": "2026-07-12T23:01:53Z",
+      "bytes": 46836853
     },
     "03_psicologia_biologia/01_de_anima/L02-C12_cena01": {
       "artifact_id": "98d8fdbd-242d-4aac-9583-614fb2f10bde",
       "audio_title": "aristoteles_11_l02_c12_cena01_de_anima",
       "audio_filename": "aristoteles_11_l02_c12_cena01_de_anima.m4a",
-      "status": "created",
-      "created_at": "2026-07-11T21:20:09Z"
+      "status": "downloaded",
+      "created_at": "2026-07-11T21:20:09Z",
+      "downloaded_at": "2026-07-12T23:02:33Z",
+      "bytes": 48498847
     },
     "03_psicologia_biologia/01_de_anima/L03-C01_cena01": {
       "artifact_id": "fc486fd5-7d74-4776-b28f-08ea259e7f0d",
       "audio_title": "aristoteles_11_l03_c01_cena01_de_anima",
       "audio_filename": "aristoteles_11_l03_c01_cena01_de_anima.m4a",
-      "status": "created",
-      "created_at": "2026-07-11T21:22:12Z"
+      "status": "downloaded",
+      "created_at": "2026-07-11T21:22:12Z",
+      "downloaded_at": "2026-07-12T23:03:12Z",
+      "bytes": 41862078
     },
     "03_psicologia_biologia/01_de_anima/L03-C02_cena01": {
       "artifact_id": "d40204d5-ddef-4b56-bcd6-5f55030b96e8",
       "audio_title": "aristoteles_11_l03_c02_cena01_de_anima",
       "audio_filename": "aristoteles_11_l03_c02_cena01_de_anima.m4a",
-      "status": "created",
-      "created_at": "2026-07-11T21:24:16Z"
+      "status": "downloaded",
+      "created_at": "2026-07-11T21:24:16Z",
+      "downloaded_at": "2026-07-12T23:03:50Z",
+      "bytes": 29842302
     },
     "03_psicologia_biologia/01_de_anima/L03-C03_cena01": {
       "artifact_id": "02c16160-b8e3-4bca-8ca1-72e999108dd4",
       "audio_title": "aristoteles_11_l03_c03_cena01_de_anima",
       "audio_filename": "aristoteles_11_l03_c03_cena01_de_anima.m4a",
-      "status": "created",
-      "created_at": "2026-07-11T21:26:19Z"
+      "status": "downloaded",
+      "created_at": "2026-07-11T21:26:19Z",
+      "downloaded_at": "2026-07-12T23:04:27Z",
+      "bytes": 22402865
     },
     "03_psicologia_biologia/01_de_anima/L03-C04_cena01": {
       "artifact_id": "54d3f857-9ffc-4919-bc61-1e8f92983a28",
       "audio_title": "aristoteles_11_l03_c04_cena01_de_anima",
       "audio_filename": "aristoteles_11_l03_c04_cena01_de_anima.m4a",
-      "status": "created",
-      "created_at": "2026-07-11T21:28:22Z"
+      "status": "downloaded",
+      "created_at": "2026-07-11T21:28:22Z",
+      "downloaded_at": "2026-07-12T23:05:09Z",
+      "bytes": 37244387
     },
     "03_psicologia_biologia/01_de_anima/L03-C05_cena01": {
       "artifact_id": "2a511fd6-181c-4d6f-b8ef-8145d91feb89",
       "audio_title": "aristoteles_11_l03_c05_cena01_de_anima",
       "audio_filename": "aristoteles_11_l03_c05_cena01_de_anima.m4a",
-      "status": "created",
-      "created_at": "2026-07-11T21:30:25Z"
+      "status": "downloaded",
+      "created_at": "2026-07-11T21:30:25Z",
+      "downloaded_at": "2026-07-12T23:05:47Z",
+      "bytes": 29238463
     },
     "03_psicologia_biologia/01_de_anima/L03-C06_cena01": {
       "artifact_id": "fe30afe0-776b-44e7-920f-10e6f0fd483b",
       "audio_title": "aristoteles_11_l03_c06_cena01_de_anima",
       "audio_filename": "aristoteles_11_l03_c06_cena01_de_anima.m4a",
-      "status": "created",
-      "created_at": "2026-07-11T21:32:29Z"
+      "status": "downloaded",
+      "created_at": "2026-07-11T21:32:29Z",
+      "downloaded_at": "2026-07-12T23:06:26Z",
+      "bytes": 34382932
     },
     "03_psicologia_biologia/01_de_anima/L03-C07_cena01": {
       "artifact_id": "603a85b9-674e-42ad-924e-899347eae71d",
       "audio_title": "aristoteles_11_l03_c07_cena01_de_anima",
       "audio_filename": "aristoteles_11_l03_c07_cena01_de_anima.m4a",
-      "status": "created",
-      "created_at": "2026-07-11T21:34:32Z"
+      "status": "downloaded",
+      "created_at": "2026-07-11T21:34:32Z",
+      "downloaded_at": "2026-07-12T23:07:08Z",
+      "bytes": 28933671
     },
     "03_psicologia_biologia/01_de_anima/L03-C08_cena01": {
       "artifact_id": "169a84df-5349-47c6-9384-9a9ba787776e",
       "audio_title": "aristoteles_11_l03_c08_cena01_de_anima",
       "audio_filename": "aristoteles_11_l03_c08_cena01_de_anima.m4a",
-      "status": "created",
-      "created_at": "2026-07-11T21:36:35Z"
+      "status": "downloaded",
+      "created_at": "2026-07-11T21:36:35Z",
+      "downloaded_at": "2026-07-12T23:07:45Z",
+      "bytes": 39709795
     },
     "03_psicologia_biologia/01_de_anima/L03-C09_cena01": {
       "artifact_id": "37ee8779-a586-4936-9b91-57260759309d",
       "audio_title": "aristoteles_11_l03_c09_cena01_de_anima",
       "audio_filename": "aristoteles_11_l03_c09_cena01_de_anima.m4a",
-      "status": "created",
-      "created_at": "2026-07-11T21:38:39Z"
+      "status": "downloaded",
+      "created_at": "2026-07-11T21:38:39Z",
+      "downloaded_at": "2026-07-12T23:08:21Z",
+      "bytes": 33305354
     },
     "03_psicologia_biologia/01_de_anima/L03-C10_cena01": {
       "artifact_id": "2194dc26-bd0e-4d69-a79e-32c8c884a0e3",
       "audio_title": "aristoteles_11_l03_c10_cena01_de_anima",
       "audio_filename": "aristoteles_11_l03_c10_cena01_de_anima.m4a",
-      "status": "created",
-      "created_at": "2026-07-11T21:40:42Z"
+      "status": "downloaded",
+      "created_at": "2026-07-11T21:40:42Z",
+      "downloaded_at": "2026-07-12T23:08:55Z",
+      "bytes": 29078596
     },
     "03_psicologia_biologia/01_de_anima/L03-C11_cena01": {
       "artifact_id": "74be8b0c-938f-44d6-a9a8-c34189c8197b",
       "audio_title": "aristoteles_11_l03_c11_cena01_de_anima",
       "audio_filename": "aristoteles_11_l03_c11_cena01_de_anima.m4a",
-      "status": "created",
-      "created_at": "2026-07-11T21:42:46Z"
+      "status": "downloaded",
+      "created_at": "2026-07-11T21:42:46Z",
+      "downloaded_at": "2026-07-12T23:09:28Z",
+      "bytes": 29455967
     },
     "03_psicologia_biologia/01_de_anima/L03-C12_cena01": {
       "artifact_id": "091deb76-068f-4358-91b3-cdd6f0926897",
       "audio_title": "aristoteles_11_l03_c12_cena01_de_anima",
       "audio_filename": "aristoteles_11_l03_c12_cena01_de_anima.m4a",
-      "status": "created",
-      "created_at": "2026-07-11T21:44:49Z"
+      "status": "downloaded",
+      "created_at": "2026-07-11T21:44:49Z",
+      "downloaded_at": "2026-07-12T23:10:04Z",
+      "bytes": 25383099
     },
     "03_psicologia_biologia/01_de_anima/L03-C13_cena01": {
       "artifact_id": "76ba4120-8cae-4dd9-a012-1f68d9013a96",
       "audio_title": "aristoteles_11_l03_c13_cena01_de_anima",
       "audio_filename": "aristoteles_11_l03_c13_cena01_de_anima.m4a",
-      "status": "created",
-      "created_at": "2026-07-11T21:46:53Z"
+      "status": "downloaded",
+      "created_at": "2026-07-11T21:46:53Z",
+      "downloaded_at": "2026-07-12T23:10:39Z",
+      "bytes": 45712959
     },
     "01_organon/01_categorias/L01-C01_cena01": {
       "artifact_id": "7dc8d114-582a-4e7a-8b73-efba314fc0d2",
       "audio_title": "aristoteles_01_l01_c01_cena01_categorias",
       "audio_filename": "aristoteles_01_l01_c01_cena01_categorias.m4a",
-      "status": "created",
-      "created_at": "2026-07-11T21:48:56Z"
+      "status": "downloaded",
+      "created_at": "2026-07-11T21:48:56Z",
+      "downloaded_at": "2026-07-12T23:11:13Z",
+      "bytes": 25403385
     },
     "01_organon/01_categorias/L01-C02_cena01": {
       "artifact_id": "5235373e-62a3-45fc-ae64-04762cda70e3",
       "audio_title": "aristoteles_01_l01_c02_cena01_categorias",
       "audio_filename": "aristoteles_01_l01_c02_cena01_categorias.m4a",
-      "status": "created",
-      "created_at": "2026-07-11T21:50:59Z"
+      "status": "downloaded",
+      "created_at": "2026-07-11T21:50:59Z",
+      "downloaded_at": "2026-07-12T23:11:46Z",
+      "bytes": 41868801
     },
     "01_organon/01_categorias/L01-C03_cena01": {
       "artifact_id": "2407f412-7144-4c86-87bf-597900318426",
       "audio_title": "aristoteles_01_l01_c03_cena01_categorias",
       "audio_filename": "aristoteles_01_l01_c03_cena01_categorias.m4a",
-      "status": "created",
-      "created_at": "2026-07-11T21:53:03Z"
+      "status": "downloaded",
+      "created_at": "2026-07-11T21:53:03Z",
+      "downloaded_at": "2026-07-12T23:12:24Z",
+      "bytes": 45436439
     },
     "01_organon/01_categorias/L01-C04_cena01": {
       "artifact_id": "131a9962-9093-4e96-b714-67390c38c144",
       "audio_title": "aristoteles_01_l01_c04_cena01_categorias",
       "audio_filename": "aristoteles_01_l01_c04_cena01_categorias.m4a",
+      "status": "downloaded",
+      "created_at": "2026-07-11T21:55:06Z",
+      "downloaded_at": "2026-07-12T23:13:05Z",
+      "bytes": 68340660
+    },
+    "01_organon/01_categorias/L01-C05_cena01": {
+      "artifact_id": "c0f2c63f-aac3-43d9-958f-da1b76b0e3d3",
+      "audio_title": "aristoteles_01_l01_c05_cena01_categorias",
+      "audio_filename": "aristoteles_01_l01_c05_cena01_categorias.m4a",
       "status": "created",
-      "created_at": "2026-07-11T21:55:06Z"
+      "created_at": "2026-07-12T23:13:19Z"
+    },
+    "01_organon/01_categorias/L01-C05_cena02": {
+      "artifact_id": "952d84ef-bf16-4d32-9964-b7c37e121f72",
+      "audio_title": "aristoteles_01_l01_c05_cena02_categorias",
+      "audio_filename": "aristoteles_01_l01_c05_cena02_categorias.m4a",
+      "status": "created",
+      "created_at": "2026-07-12T23:15:23Z"
+    },
+    "01_organon/01_categorias/L01-C06_cena01": {
+      "artifact_id": "9f771027-7096-49f2-9023-9c2bdb6e2bae",
+      "audio_title": "aristoteles_01_l01_c06_cena01_categorias",
+      "audio_filename": "aristoteles_01_l01_c06_cena01_categorias.m4a",
+      "status": "created",
+      "created_at": "2026-07-12T23:17:26Z"
+    },
+    "01_organon/01_categorias/L02-C07_cena01": {
+      "artifact_id": "62a8ef49-04b9-4188-9400-2074ee09f96d",
+      "audio_title": "aristoteles_01_l02_c07_cena01_categorias",
+      "audio_filename": "aristoteles_01_l02_c07_cena01_categorias.m4a",
+      "status": "created",
+      "created_at": "2026-07-12T23:19:29Z"
+    },
+    "01_organon/01_categorias/L02-C07_cena02": {
+      "artifact_id": "7cd2c5d8-e5da-4fbd-b197-dca69657e83d",
+      "audio_title": "aristoteles_01_l02_c07_cena02_categorias",
+      "audio_filename": "aristoteles_01_l02_c07_cena02_categorias.m4a",
+      "status": "created",
+      "created_at": "2026-07-12T23:21:32Z"
+    },
+    "01_organon/01_categorias/L02-C08_cena01": {
+      "artifact_id": "45f06d89-834f-4525-96b6-a7a59f0d183e",
+      "audio_title": "aristoteles_01_l02_c08_cena01_categorias",
+      "audio_filename": "aristoteles_01_l02_c08_cena01_categorias.m4a",
+      "status": "created",
+      "created_at": "2026-07-12T23:23:36Z"
+    },
+    "01_organon/01_categorias/L02-C08_cena02": {
+      "artifact_id": "d83236c9-7f58-427e-9100-07e5e7448c46",
+      "audio_title": "aristoteles_01_l02_c08_cena02_categorias",
+      "audio_filename": "aristoteles_01_l02_c08_cena02_categorias.m4a",
+      "status": "created",
+      "created_at": "2026-07-12T23:25:39Z"
+    },
+    "01_organon/01_categorias/L03-C09_cena01": {
+      "artifact_id": "a71117e0-e2a7-4cf5-bbe7-c8bc030e2230",
+      "audio_title": "aristoteles_01_l03_c09_cena01_categorias",
+      "audio_filename": "aristoteles_01_l03_c09_cena01_categorias.m4a",
+      "status": "created",
+      "created_at": "2026-07-12T23:27:42Z"
+    },
+    "01_organon/01_categorias/L03-C10_cena01": {
+      "artifact_id": "6a51dccc-d45c-45c6-b1c9-0c874045c78d",
+      "audio_title": "aristoteles_01_l03_c10_cena01_categorias",
+      "audio_filename": "aristoteles_01_l03_c10_cena01_categorias.m4a",
+      "status": "created",
+      "created_at": "2026-07-12T23:29:46Z"
+    },
+    "01_organon/01_categorias/L03-C10_cena02": {
+      "artifact_id": "08c2c4c5-2dc0-4121-be52-4556b08faf97",
+      "audio_title": "aristoteles_01_l03_c10_cena02_categorias",
+      "audio_filename": "aristoteles_01_l03_c10_cena02_categorias.m4a",
+      "status": "created",
+      "created_at": "2026-07-12T23:31:49Z"
+    },
+    "01_organon/01_categorias/L03-C11_cena01": {
+      "artifact_id": "eb74d076-23ea-4ef2-a7a1-0fe83fc6de94",
+      "audio_title": "aristoteles_01_l03_c11_cena01_categorias",
+      "audio_filename": "aristoteles_01_l03_c11_cena01_categorias.m4a",
+      "status": "created",
+      "created_at": "2026-07-12T23:33:53Z"
+    },
+    "01_organon/01_categorias/L03-C12_cena01": {
+      "artifact_id": "add09761-8217-4451-864d-9e78db0df8a8",
+      "audio_title": "aristoteles_01_l03_c12_cena01_categorias",
+      "audio_filename": "aristoteles_01_l03_c12_cena01_categorias.m4a",
+      "status": "created",
+      "created_at": "2026-07-12T23:35:56Z"
+    },
+    "01_organon/01_categorias/L03-C13_cena01": {
+      "artifact_id": "77b48697-bfab-4700-8598-10bdb3ffa50c",
+      "audio_title": "aristoteles_01_l03_c13_cena01_categorias",
+      "audio_filename": "aristoteles_01_l03_c13_cena01_categorias.m4a",
+      "status": "created",
+      "created_at": "2026-07-12T23:38:00Z"
+    },
+    "01_organon/01_categorias/L03-C14_cena01": {
+      "artifact_id": "5659fc4c-1163-493f-917e-5bbf7bb879b9",
+      "audio_title": "aristoteles_01_l03_c14_cena01_categorias",
+      "audio_filename": "aristoteles_01_l03_c14_cena01_categorias.m4a",
+      "status": "created",
+      "created_at": "2026-07-12T23:40:03Z"
+    },
+    "01_organon/01_categorias/L03-C15_cena01": {
+      "artifact_id": "b9301597-97f6-4ee7-82fd-6236c82192de",
+      "audio_title": "aristoteles_01_l03_c15_cena01_categorias",
+      "audio_filename": "aristoteles_01_l03_c15_cena01_categorias.m4a",
+      "status": "created",
+      "created_at": "2026-07-12T23:42:06Z"
+    },
+    "01_organon/02_da_interpretacao/L01-C01_cena01": {
+      "artifact_id": "7c697a21-bb16-4471-8ac7-7bc56190622e",
+      "audio_title": "aristoteles_02_l01_c01_cena01_da_interpretacao",
+      "audio_filename": "aristoteles_02_l01_c01_cena01_da_interpretacao.m4a",
+      "status": "created",
+      "created_at": "2026-07-12T23:44:10Z"
+    },
+    "01_organon/02_da_interpretacao/L01-C02_cena01": {
+      "artifact_id": "51d465cd-5406-4915-9054-1926917ba550",
+      "audio_title": "aristoteles_02_l01_c02_cena01_da_interpretacao",
+      "audio_filename": "aristoteles_02_l01_c02_cena01_da_interpretacao.m4a",
+      "status": "created",
+      "created_at": "2026-07-12T23:46:13Z"
+    },
+    "01_organon/02_da_interpretacao/L01-C03_cena01": {
+      "artifact_id": "256aace3-9925-4455-93ac-81a711b906be",
+      "audio_title": "aristoteles_02_l01_c03_cena01_da_interpretacao",
+      "audio_filename": "aristoteles_02_l01_c03_cena01_da_interpretacao.m4a",
+      "status": "created",
+      "created_at": "2026-07-12T23:48:16Z"
+    },
+    "01_organon/02_da_interpretacao/L01-C04_cena01": {
+      "artifact_id": "8f9cecc0-d569-4019-b115-1a5f0c1d92c3",
+      "audio_title": "aristoteles_02_l01_c04_cena01_da_interpretacao",
+      "audio_filename": "aristoteles_02_l01_c04_cena01_da_interpretacao.m4a",
+      "status": "created",
+      "created_at": "2026-07-12T23:50:20Z"
+    },
+    "01_organon/02_da_interpretacao/L01-C05_cena01": {
+      "artifact_id": "e027ff7a-e9ae-486e-a229-1ea91a742e05",
+      "audio_title": "aristoteles_02_l01_c05_cena01_da_interpretacao",
+      "audio_filename": "aristoteles_02_l01_c05_cena01_da_interpretacao.m4a",
+      "status": "created",
+      "created_at": "2026-07-12T23:52:24Z"
     }
   }
 }
