@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-07-12T08:26:03.124550",
+  "atualizado": "2026-07-13T08:25:57.923822",
   "audios": [
     {
       "seq_global": 1,
@@ -181,8 +181,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-12T08:21:47.547095",
-      "status": "created",
-      "artifact_id": "d850726d-004d-4164-8637-87c3d1cd9af6"
+      "status": "downloaded",
+      "artifact_id": "d850726d-004d-4164-8637-87c3d1cd9af6",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/014_cap-005_cena-001_La-primera-justicia-Andres-atado-a-la-encina.m4a",
+      "tamanho_bytes": 31129913
     },
     {
       "seq_global": 15,
@@ -192,8 +194,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-12T08:23:54.897560",
-      "status": "created",
-      "artifact_id": "06c49789-f33d-4e38-bcbb-29896d6625eb"
+      "status": "downloaded",
+      "artifact_id": "06c49789-f33d-4e38-bcbb-29896d6625eb",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/015_cap-005_cena-002_El-agravio-deshecho-y-rehecho.m4a",
+      "tamanho_bytes": 38334780
     },
     {
       "seq_global": 16,
@@ -203,8 +207,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-12T08:26:03.120052",
+      "status": "downloaded",
+      "artifact_id": "2a9d73b6-333c-4ce1-893d-e8e25d50bb15",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/016_cap-005_cena-003_Confesar-a-Dulcinea-sin-verla-los-mercaderes-de-Toledo.m4a",
+      "tamanho_bytes": 25847989
+    },
+    {
+      "seq_global": 17,
+      "arquivo": "017_cap-006_cena-001_El-caido-que-se-vuelve-romance.m4a",
+      "titulo": "El caido que se vuelve romance",
+      "cap": 6,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-13T08:21:41.856245",
       "status": "created",
-      "artifact_id": "2a9d73b6-333c-4ce1-893d-e8e25d50bb15"
+      "artifact_id": "dd58e509-8b5f-4014-8271-dc30a6ab2aa4"
+    },
+    {
+      "seq_global": 18,
+      "arquivo": "018_cap-006_cena-002_Yo-se-quien-soy.m4a",
+      "titulo": "Yo se quien soy",
+      "cap": 6,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-13T08:23:49.773208",
+      "status": "created",
+      "artifact_id": "ffbe1d44-9598-4833-93ba-53e625447b40"
+    },
+    {
+      "seq_global": 19,
+      "arquivo": "019_cap-006_cena-003_El-tribunal-domestico-y-la-condena-de-los-libros.m4a",
+      "titulo": "El tribunal domestico y la condena de los libros",
+      "cap": 6,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-13T08:25:57.919780",
+      "status": "created",
+      "artifact_id": "d5392067-f666-4bb3-b30b-d1bb273e4073"
     }
   ]
 }
