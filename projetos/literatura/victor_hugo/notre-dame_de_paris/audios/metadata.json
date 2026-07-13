@@ -2759,7 +2759,9 @@
       "prompt_chars": 4163,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_165_l11_c02_la_creatura_bella_bianco_vestita.m4a",
+      "tamanho_bytes": 20287303
     },
     {
       "seq_global": 166,
@@ -2774,7 +2776,9 @@
       "prompt_chars": 3095,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_166_l11_c02_la_creatura_bella_bianco_vestita.m4a",
+      "tamanho_bytes": 27898559
     },
     {
       "seq_global": 167,
@@ -2789,9 +2793,56 @@
       "prompt_chars": 3273,
       "language": "fr-FR",
       "audio_format": "deep_dive",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_167_l11_c02_la_creatura_bella_bianco_vestita.m4a",
+      "tamanho_bytes": 24252481
+    },
+    {
+      "seq_global": 168,
+      "scene_identifier": "L11-C02-LA_CREATURA_BELLA_BIANCO_VESTITA__DANTE_cena004",
+      "cena_filename": "L11-C02-LA_CREATURA_BELLA_BIANCO_VESTITA__DANTE_cena004.md",
+      "prompt_filename": "L11-C02-LA_CREATURA_BELLA_BIANCO_VESTITA__DANTE_prompt004.md",
+      "arquivo": "notredame_168_l11_c02_la_creatura_bella_bianco_vestita.m4a",
+      "artifact_id": "8a4a5d74-45ff-451c-a7e0-2a375d8dab87",
+      "source_id": "8a9ba4d8-5959-4e84-bb7f-ce4537c324c0",
+      "book_id": "L11-C02-LA_CREATURA_BELLA_BIANCO_VESTITA__DANTE",
+      "data_geracao": "2026-07-13T08:11:32.404543",
+      "prompt_chars": 3535,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 169,
+      "scene_identifier": "L11-C03-MARIAGE_DE_PHBUS_cena001",
+      "cena_filename": "L11-C03-MARIAGE_DE_PHBUS_cena001.md",
+      "prompt_filename": "L11-C03-MARIAGE_DE_PHBUS_prompt001.md",
+      "arquivo": "notredame_169_l11_c03_mariage_de_phbus_cena001.m4a",
+      "artifact_id": "e60ea801-953a-470c-8d83-649978201791",
+      "source_id": "0ecbcdce-ff1e-4584-9283-717d1c52bb16",
+      "book_id": "L11-C03-MARIAGE_DE_PHBUS",
+      "data_geracao": "2026-07-13T08:13:51.045822",
+      "prompt_chars": 2802,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 170,
+      "scene_identifier": "L11-C03-MARIAGE_DE_PHBUS_cena002",
+      "cena_filename": "L11-C03-MARIAGE_DE_PHBUS_cena002.md",
+      "prompt_filename": "L11-C03-MARIAGE_DE_PHBUS_prompt002.md",
+      "arquivo": "notredame_170_l11_c03_mariage_de_phbus_cena002.m4a",
+      "artifact_id": "562e909e-2122-43d8-ac5d-07c576666667",
+      "source_id": "0ecbcdce-ff1e-4584-9283-717d1c52bb16",
+      "book_id": "L11-C03-MARIAGE_DE_PHBUS",
+      "data_geracao": "2026-07-13T08:16:09.811478",
+      "prompt_chars": 2822,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
       "status": "created"
     }
   ],
-  "total_itens_processados": 167,
-  "ultima_atualizacao": "2026-07-12T08:16:17.798033"
+  "total_itens_processados": 170,
+  "ultima_atualizacao": "2026-07-13T08:16:09.813719"
 }
