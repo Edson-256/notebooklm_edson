@@ -2810,7 +2810,9 @@
       "prompt_chars": 3535,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_168_l11_c02_la_creatura_bella_bianco_vestita.m4a",
+      "tamanho_bytes": 22464122
     },
     {
       "seq_global": 169,
@@ -2825,7 +2827,9 @@
       "prompt_chars": 2802,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_169_l11_c03_mariage_de_phbus_cena001.m4a",
+      "tamanho_bytes": 32945913
     },
     {
       "seq_global": 170,
@@ -2840,9 +2844,56 @@
       "prompt_chars": 2822,
       "language": "fr-FR",
       "audio_format": "deep_dive",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_170_l11_c03_mariage_de_phbus_cena002.m4a",
+      "tamanho_bytes": 28870057
+    },
+    {
+      "seq_global": 171,
+      "scene_identifier": "L11-C03-MARIAGE_DE_PHBUS_cena003",
+      "cena_filename": "L11-C03-MARIAGE_DE_PHBUS_cena003.md",
+      "prompt_filename": "L11-C03-MARIAGE_DE_PHBUS_prompt003.md",
+      "arquivo": "notredame_171_l11_c03_mariage_de_phbus_cena003.m4a",
+      "artifact_id": "cfed6c20-eba9-47a5-b4de-d7a43ebcb257",
+      "source_id": "0ecbcdce-ff1e-4584-9283-717d1c52bb16",
+      "book_id": "L11-C03-MARIAGE_DE_PHBUS",
+      "data_geracao": "2026-07-14T08:11:43.103975",
+      "prompt_chars": 3471,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 172,
+      "scene_identifier": "L11-C04-MARIAGE_DE_QUASIMODO_cena001",
+      "cena_filename": "L11-C04-MARIAGE_DE_QUASIMODO_cena001.md",
+      "prompt_filename": "L11-C04-MARIAGE_DE_QUASIMODO_prompt001.md",
+      "arquivo": "notredame_172_l11_c04_mariage_de_quasimodo_cena001.m4a",
+      "artifact_id": "34038093-1cd3-4b05-af80-e5fee9381605",
+      "source_id": "8e95c638-9a2d-4e41-baef-d7094987fc59",
+      "book_id": "L11-C04-MARIAGE_DE_QUASIMODO",
+      "data_geracao": "2026-07-14T08:14:02.069482",
+      "prompt_chars": 2788,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 173,
+      "scene_identifier": "L11-C04-MARIAGE_DE_QUASIMODO_cena002",
+      "cena_filename": "L11-C04-MARIAGE_DE_QUASIMODO_cena002.md",
+      "prompt_filename": "L11-C04-MARIAGE_DE_QUASIMODO_prompt002.md",
+      "arquivo": "notredame_173_l11_c04_mariage_de_quasimodo_cena002.m4a",
+      "artifact_id": "f4371429-dad3-462f-a392-12aab394d735",
+      "source_id": "8e95c638-9a2d-4e41-baef-d7094987fc59",
+      "book_id": "L11-C04-MARIAGE_DE_QUASIMODO",
+      "data_geracao": "2026-07-14T08:16:21.172661",
+      "prompt_chars": 2697,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
       "status": "created"
     }
   ],
-  "total_itens_processados": 170,
-  "ultima_atualizacao": "2026-07-13T08:16:09.813719"
+  "total_itens_processados": 173,
+  "ultima_atualizacao": "2026-07-14T08:16:21.174998"
 }
