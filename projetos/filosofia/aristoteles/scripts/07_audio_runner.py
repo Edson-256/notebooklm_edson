@@ -374,9 +374,22 @@ def cmd_harvest(master: dict, audio_meta: dict, notebook_meta: dict,
                 *, dry_run: bool) -> int:
     notebook_id = notebook_meta["notebook_id"]
     print(f"Listando artifacts no studio (notebook {notebook_id[:8]}...)...")
-    r = run_nlm(["studio", "status", notebook_id, "--json"], timeout=60)
+    # 'nlm studio status' é intermitentemente flaky (erro tipo "Could not
+    # retrieve studio status." vem no STDOUT, não no stderr, mesmo com rc=1).
+    # Retry curto antes de desistir — evita abortar o harvest inteiro por
+    # um hiccup transitório da API do NotebookLM.
+    r = None
+    for attempt in range(1, 4):
+        r = run_nlm(["studio", "status", notebook_id, "--json"], timeout=60)
+        if r.returncode == 0:
+            break
+        err = (r.stderr or r.stdout or "").strip()
+        print(f"  ⚠ tentativa {attempt}/3 de 'nlm studio status' falhou: {err[:300]}")
+        if attempt < 3:
+            time.sleep(5)
     if r.returncode != 0:
-        print(f"ERRO: nlm studio status falhou: {r.stderr[:300]}")
+        err = (r.stderr or r.stdout or "").strip()
+        print(f"ERRO: nlm studio status falhou após 3 tentativas: {err[:300]}")
         return 1
     try:
         artifacts = json.loads(r.stdout)
