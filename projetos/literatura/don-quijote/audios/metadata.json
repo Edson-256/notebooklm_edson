@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-07-13T08:25:57.923822",
+  "atualizado": "2026-07-14T08:26:02.771786",
   "audios": [
     {
       "seq_global": 1,
@@ -220,8 +220,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-13T08:21:41.856245",
-      "status": "created",
-      "artifact_id": "dd58e509-8b5f-4014-8271-dc30a6ab2aa4"
+      "status": "downloaded",
+      "artifact_id": "dd58e509-8b5f-4014-8271-dc30a6ab2aa4",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/017_cap-006_cena-001_El-caido-que-se-vuelve-romance.m4a",
+      "tamanho_bytes": 25584915
     },
     {
       "seq_global": 18,
@@ -231,8 +233,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-13T08:23:49.773208",
-      "status": "created",
-      "artifact_id": "ffbe1d44-9598-4833-93ba-53e625447b40"
+      "status": "downloaded",
+      "artifact_id": "ffbe1d44-9598-4833-93ba-53e625447b40",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/018_cap-006_cena-002_Yo-se-quien-soy.m4a",
+      "tamanho_bytes": 22832644
     },
     {
       "seq_global": 19,
@@ -242,8 +246,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-13T08:25:57.919780",
+      "status": "downloaded",
+      "artifact_id": "d5392067-f666-4bb3-b30b-d1bb273e4073",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/019_cap-006_cena-003_El-tribunal-domestico-y-la-condena-de-los-libros.m4a",
+      "tamanho_bytes": 36939479
+    },
+    {
+      "seq_global": 20,
+      "arquivo": "020_cap-007_cena-001_El-auto-de-fe-de-la-biblioteca.m4a",
+      "titulo": "El auto de fe de la biblioteca",
+      "cap": 7,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-14T08:21:47.133785",
       "status": "created",
-      "artifact_id": "d5392067-f666-4bb3-b30b-d1bb273e4073"
+      "artifact_id": "347ca947-98ad-474b-9acc-0f2ed55106c2"
+    },
+    {
+      "seq_global": 21,
+      "arquivo": "021_cap-007_cena-002_El-escrutinio-y-el-tesoro-de-Tirante.m4a",
+      "titulo": "El escrutinio y el tesoro de Tirante",
+      "cap": 7,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-14T08:23:54.395075",
+      "status": "created",
+      "artifact_id": "0d907cf6-55a2-44a1-88d6-5abed6fb99f0"
+    },
+    {
+      "seq_global": 22,
+      "arquivo": "022_cap-007_cena-003_La-poesia-y-el-guino-de-La-Galatea.m4a",
+      "titulo": "La poesia y el guino de La Galatea",
+      "cap": 7,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-14T08:26:02.768337",
+      "status": "created",
+      "artifact_id": "90da68d7-9bf9-4f60-9543-39f52f5930a3"
     }
   ]
 }
