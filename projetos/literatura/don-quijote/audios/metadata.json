@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-07-14T08:26:02.771786",
+  "atualizado": "2026-07-15T08:26:12.512836",
   "audios": [
     {
       "seq_global": 1,
@@ -259,8 +259,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-14T08:21:47.133785",
-      "status": "created",
-      "artifact_id": "347ca947-98ad-474b-9acc-0f2ed55106c2"
+      "status": "downloaded",
+      "artifact_id": "347ca947-98ad-474b-9acc-0f2ed55106c2",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/020_cap-007_cena-001_El-auto-de-fe-de-la-biblioteca.m4a",
+      "tamanho_bytes": 23810866
     },
     {
       "seq_global": 21,
@@ -270,8 +272,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-14T08:23:54.395075",
-      "status": "created",
-      "artifact_id": "0d907cf6-55a2-44a1-88d6-5abed6fb99f0"
+      "status": "downloaded",
+      "artifact_id": "0d907cf6-55a2-44a1-88d6-5abed6fb99f0",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/021_cap-007_cena-002_El-escrutinio-y-el-tesoro-de-Tirante.m4a",
+      "tamanho_bytes": 42027173
     },
     {
       "seq_global": 22,
@@ -281,8 +285,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-14T08:26:02.768337",
+      "status": "downloaded",
+      "artifact_id": "90da68d7-9bf9-4f60-9543-39f52f5930a3",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/022_cap-007_cena-003_La-poesia-y-el-guino-de-La-Galatea.m4a",
+      "tamanho_bytes": 17263625
+    },
+    {
+      "seq_global": 23,
+      "arquivo": "023_cap-008_cena-001_La-capsula-sellada-el-delirio-y-el-sabio-Freston.m4a",
+      "titulo": "La cápsula sellada: el delirio y el sabio Frestón",
+      "cap": 8,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-15T08:21:57.301306",
       "status": "created",
-      "artifact_id": "90da68d7-9bf9-4f60-9543-39f52f5930a3"
+      "artifact_id": "94281e24-fd9e-4761-b556-27fe6a65df42"
+    },
+    {
+      "seq_global": 24,
+      "arquivo": "024_cap-008_cena-002_El-contagio-de-la-fantasia-Sancho-Panza-se-hace-escudero.m4a",
+      "titulo": "El contagio de la fantasía: Sancho Panza se hace escudero",
+      "cap": 8,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-15T08:24:05.059149",
+      "status": "created",
+      "artifact_id": "bd2c001b-b8fc-402b-ba4f-85a910593e9e"
+    },
+    {
+      "seq_global": 25,
+      "arquivo": "025_cap-008_cena-003_El-dialogo-del-reino-Mari-Gutierrez-no-vale-dos-maravedis-para-reina.m4a",
+      "titulo": "El diálogo del reino: Mari Gutiérrez no vale dos maravedís para reina",
+      "cap": 8,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-15T08:26:12.510777",
+      "status": "created",
+      "artifact_id": "f32ffecd-014a-48b4-bd20-527468ee308e"
     }
   ]
 }
