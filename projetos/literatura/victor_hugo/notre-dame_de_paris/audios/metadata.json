@@ -2861,7 +2861,9 @@
       "prompt_chars": 3471,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_171_l11_c03_mariage_de_phbus_cena003.m4a",
+      "tamanho_bytes": 30697262
     },
     {
       "seq_global": 172,
@@ -2876,7 +2878,9 @@
       "prompt_chars": 2788,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_172_l11_c04_mariage_de_quasimodo_cena001.m4a",
+      "tamanho_bytes": 39200083
     },
     {
       "seq_global": 173,
@@ -2891,9 +2895,41 @@
       "prompt_chars": 2697,
       "language": "fr-FR",
       "audio_format": "deep_dive",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_173_l11_c04_mariage_de_quasimodo_cena002.m4a",
+      "tamanho_bytes": 35911953
+    },
+    {
+      "seq_global": 174,
+      "scene_identifier": "L11-C04-MARIAGE_DE_QUASIMODO_cena003",
+      "cena_filename": "L11-C04-MARIAGE_DE_QUASIMODO_cena003.md",
+      "prompt_filename": "L11-C04-MARIAGE_DE_QUASIMODO_prompt003.md",
+      "arquivo": "notredame_174_l11_c04_mariage_de_quasimodo_cena003.m4a",
+      "artifact_id": "281964e1-d395-449e-b2f8-9236fa2850fa",
+      "source_id": "8e95c638-9a2d-4e41-baef-d7094987fc59",
+      "book_id": "L11-C04-MARIAGE_DE_QUASIMODO",
+      "data_geracao": "2026-07-15T08:11:56.520589",
+      "prompt_chars": 2741,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 175,
+      "scene_identifier": "L11-C04-MARIAGE_DE_QUASIMODO_cena004",
+      "cena_filename": "L11-C04-MARIAGE_DE_QUASIMODO_cena004.md",
+      "prompt_filename": "L11-C04-MARIAGE_DE_QUASIMODO_prompt004.md",
+      "arquivo": "notredame_175_l11_c04_mariage_de_quasimodo_cena004.m4a",
+      "artifact_id": "afc7ccd7-d446-46eb-aa5b-62ee2c6ba045",
+      "source_id": "8e95c638-9a2d-4e41-baef-d7094987fc59",
+      "book_id": "L11-C04-MARIAGE_DE_QUASIMODO",
+      "data_geracao": "2026-07-15T08:14:07.469359",
+      "prompt_chars": 3064,
+      "language": "fr-FR",
+      "audio_format": "deep_dive",
       "status": "created"
     }
   ],
-  "total_itens_processados": 173,
-  "ultima_atualizacao": "2026-07-14T08:16:21.174998"
+  "total_itens_processados": 175,
+  "ultima_atualizacao": "2026-07-15T08:14:07.472179"
 }
