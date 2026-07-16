@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-07-15T08:26:12.512836",
+  "atualizado": "2026-07-16T08:26:01.254360",
   "audios": [
     {
       "seq_global": 1,
@@ -298,8 +298,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-15T08:21:57.301306",
-      "status": "created",
-      "artifact_id": "94281e24-fd9e-4761-b556-27fe6a65df42"
+      "status": "downloaded",
+      "artifact_id": "94281e24-fd9e-4761-b556-27fe6a65df42",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/023_cap-008_cena-001_La-capsula-sellada-el-delirio-y-el-sabio-Freston.m4a",
+      "tamanho_bytes": 20418782
     },
     {
       "seq_global": 24,
@@ -309,8 +311,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-15T08:24:05.059149",
-      "status": "created",
-      "artifact_id": "bd2c001b-b8fc-402b-ba4f-85a910593e9e"
+      "status": "downloaded",
+      "artifact_id": "bd2c001b-b8fc-402b-ba4f-85a910593e9e",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/024_cap-008_cena-002_El-contagio-de-la-fantasia-Sancho-Panza-se-hace-escudero.m4a",
+      "tamanho_bytes": 20828275
     },
     {
       "seq_global": 25,
@@ -320,8 +324,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-15T08:26:12.510777",
+      "status": "downloaded",
+      "artifact_id": "f32ffecd-014a-48b4-bd20-527468ee308e",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/025_cap-008_cena-003_El-dialogo-del-reino-Mari-Gutierrez-no-vale-dos-maravedis-para-reina.m4a",
+      "tamanho_bytes": 21245354
+    },
+    {
+      "seq_global": 26,
+      "arquivo": "026_cap-009_cena-001_Los-gigantes-que-eran-molinos.m4a",
+      "titulo": "Los gigantes que eran molinos",
+      "cap": 9,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-16T08:21:44.295487",
       "status": "created",
-      "artifact_id": "f32ffecd-014a-48b4-bd20-527468ee308e"
+      "artifact_id": "7a0004f3-99e5-4a94-be99-3f97e001efd2"
+    },
+    {
+      "seq_global": 27,
+      "arquivo": "027_cap-009_cena-002_El-sustento-de-sabrosas-memorias.m4a",
+      "titulo": "El sustento de sabrosas memorias",
+      "cap": 9,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-16T08:23:52.942194",
+      "status": "created",
+      "artifact_id": "0061c0ce-3e17-48d1-b94e-1366ee19d9e6"
+    },
+    {
+      "seq_global": 28,
+      "arquivo": "028_cap-009_cena-003_Los-frailes-encantadores-y-el-despojo-de-Sancho.m4a",
+      "titulo": "Los frailes encantadores y el despojo de Sancho",
+      "cap": 9,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-16T08:26:01.250249",
+      "status": "created",
+      "artifact_id": "356c823e-e67b-466c-8a70-f82017b5a4eb"
     }
   ]
 }
