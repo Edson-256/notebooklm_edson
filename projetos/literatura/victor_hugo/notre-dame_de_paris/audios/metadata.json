@@ -2912,7 +2912,9 @@
       "prompt_chars": 2741,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_174_l11_c04_mariage_de_quasimodo_cena003.m4a",
+      "tamanho_bytes": 31012628
     },
     {
       "seq_global": 175,
@@ -2927,9 +2929,11 @@
       "prompt_chars": 3064,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_175_l11_c04_mariage_de_quasimodo_cena004.m4a",
+      "tamanho_bytes": 17796495
     }
   ],
   "total_itens_processados": 175,
-  "ultima_atualizacao": "2026-07-15T08:14:07.472179"
+  "ultima_atualizacao": "2026-07-16T08:11:04.509555"
 }
