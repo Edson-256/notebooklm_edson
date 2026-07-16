@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T03:57:13Z",
+  "updated_at": "2026-07-16T05:52:56Z",
   "audios": {
     "05_etica/01_etica_nicomaco/L01-C01_cena01": {
       "artifact_id": "46097252-f46f-41a0-b77f-86b89e4b0945",
@@ -4035,134 +4035,172 @@
       "artifact_id": "430bc572-e140-451b-bd3d-112a4ea67001",
       "audio_title": "aristoteles_04_l01_c12_cena01_analiticos_posteriores",
       "audio_filename": "aristoteles_04_l01_c12_cena01_analiticos_posteriores.m4a",
-      "status": "created",
-      "created_at": "2026-07-15T03:18:09Z"
+      "status": "downloaded",
+      "created_at": "2026-07-15T03:18:09Z",
+      "downloaded_at": "2026-07-16T05:01:07Z",
+      "bytes": 26112556
     },
     "01_organon/04_analiticos_posteriores/L01-C13_cena01": {
       "artifact_id": "eb9bf330-327f-4947-ae89-739d5a614bdc",
       "audio_title": "aristoteles_04_l01_c13_cena01_analiticos_posteriores",
       "audio_filename": "aristoteles_04_l01_c13_cena01_analiticos_posteriores.m4a",
-      "status": "created",
-      "created_at": "2026-07-15T03:20:12Z"
+      "status": "downloaded",
+      "created_at": "2026-07-15T03:20:12Z",
+      "downloaded_at": "2026-07-16T05:01:50Z",
+      "bytes": 39807657
     },
     "01_organon/04_analiticos_posteriores/L01-C14_cena01": {
       "artifact_id": "fe5eb166-a2ef-48a6-9be7-d06440bf1a2b",
       "audio_title": "aristoteles_04_l01_c14_cena01_analiticos_posteriores",
       "audio_filename": "aristoteles_04_l01_c14_cena01_analiticos_posteriores.m4a",
-      "status": "created",
-      "created_at": "2026-07-15T03:22:16Z"
+      "status": "downloaded",
+      "created_at": "2026-07-15T03:22:16Z",
+      "downloaded_at": "2026-07-16T05:02:29Z",
+      "bytes": 40689510
     },
     "01_organon/04_analiticos_posteriores/L01-C15_cena01": {
       "artifact_id": "a2c6ec87-9562-4323-aabd-54a6e0aa5f65",
       "audio_title": "aristoteles_04_l01_c15_cena01_analiticos_posteriores",
       "audio_filename": "aristoteles_04_l01_c15_cena01_analiticos_posteriores.m4a",
-      "status": "created",
-      "created_at": "2026-07-15T03:24:19Z"
+      "status": "downloaded",
+      "created_at": "2026-07-15T03:24:19Z",
+      "downloaded_at": "2026-07-16T05:03:06Z",
+      "bytes": 36003955
     },
     "01_organon/04_analiticos_posteriores/L01-C16_cena01": {
       "artifact_id": "1285c5ba-76dd-4326-9c81-fb617ec1cc5e",
       "audio_title": "aristoteles_04_l01_c16_cena01_analiticos_posteriores",
       "audio_filename": "aristoteles_04_l01_c16_cena01_analiticos_posteriores.m4a",
-      "status": "created",
-      "created_at": "2026-07-15T03:26:23Z"
+      "status": "downloaded",
+      "created_at": "2026-07-15T03:26:23Z",
+      "downloaded_at": "2026-07-16T05:03:44Z",
+      "bytes": 51955176
     },
     "01_organon/04_analiticos_posteriores/L01-C17_cena01": {
       "artifact_id": "34f89cb9-3728-4579-ab21-2841838e05c7",
       "audio_title": "aristoteles_04_l01_c17_cena01_analiticos_posteriores",
       "audio_filename": "aristoteles_04_l01_c17_cena01_analiticos_posteriores.m4a",
-      "status": "created",
-      "created_at": "2026-07-15T03:28:26Z"
+      "status": "downloaded",
+      "created_at": "2026-07-15T03:28:26Z",
+      "downloaded_at": "2026-07-16T05:04:26Z",
+      "bytes": 47306973
     },
     "01_organon/04_analiticos_posteriores/L01-C18_cena01": {
       "artifact_id": "f9108e63-3ec2-4b47-b060-c3623158bfa4",
       "audio_title": "aristoteles_04_l01_c18_cena01_analiticos_posteriores",
       "audio_filename": "aristoteles_04_l01_c18_cena01_analiticos_posteriores.m4a",
-      "status": "created",
-      "created_at": "2026-07-15T03:30:29Z"
+      "status": "downloaded",
+      "created_at": "2026-07-15T03:30:29Z",
+      "downloaded_at": "2026-07-16T05:05:04Z",
+      "bytes": 28647439
     },
     "01_organon/04_analiticos_posteriores/L01-C19_cena01": {
       "artifact_id": "2b69c7d8-d3e3-450f-b3ba-aded39e363d9",
       "audio_title": "aristoteles_04_l01_c19_cena01_analiticos_posteriores",
       "audio_filename": "aristoteles_04_l01_c19_cena01_analiticos_posteriores.m4a",
-      "status": "created",
-      "created_at": "2026-07-15T03:32:32Z"
+      "status": "downloaded",
+      "created_at": "2026-07-15T03:32:32Z",
+      "downloaded_at": "2026-07-16T05:05:40Z",
+      "bytes": 41302314
     },
     "01_organon/04_analiticos_posteriores/L01-C20_cena01": {
       "artifact_id": "7ba5c048-879a-4387-868c-74a1731026d5",
       "audio_title": "aristoteles_04_l01_c20_cena01_analiticos_posteriores",
       "audio_filename": "aristoteles_04_l01_c20_cena01_analiticos_posteriores.m4a",
-      "status": "created",
-      "created_at": "2026-07-15T03:34:36Z"
+      "status": "downloaded",
+      "created_at": "2026-07-15T03:34:36Z",
+      "downloaded_at": "2026-07-16T05:06:22Z",
+      "bytes": 49143773
     },
     "01_organon/04_analiticos_posteriores/L01-C21_cena01": {
       "artifact_id": "39f4369d-359c-43e4-b3d9-6bf849dbc7ab",
       "audio_title": "aristoteles_04_l01_c21_cena01_analiticos_posteriores",
       "audio_filename": "aristoteles_04_l01_c21_cena01_analiticos_posteriores.m4a",
-      "status": "created",
-      "created_at": "2026-07-15T03:36:39Z"
+      "status": "downloaded",
+      "created_at": "2026-07-15T03:36:39Z",
+      "downloaded_at": "2026-07-16T05:06:59Z",
+      "bytes": 24266675
     },
     "01_organon/04_analiticos_posteriores/L01-C22_cena01": {
       "artifact_id": "65a5097f-cc72-42b7-947a-9ca47ea3db4d",
       "audio_title": "aristoteles_04_l01_c22_cena01_analiticos_posteriores",
       "audio_filename": "aristoteles_04_l01_c22_cena01_analiticos_posteriores.m4a",
-      "status": "created",
-      "created_at": "2026-07-15T03:38:43Z"
+      "status": "downloaded",
+      "created_at": "2026-07-15T03:38:43Z",
+      "downloaded_at": "2026-07-16T05:07:36Z",
+      "bytes": 30653187
     },
     "01_organon/04_analiticos_posteriores/L01-C23_cena01": {
       "artifact_id": "29f10453-6d3d-4f1a-b9e2-ec1ae5b4c94f",
       "audio_title": "aristoteles_04_l01_c23_cena01_analiticos_posteriores",
       "audio_filename": "aristoteles_04_l01_c23_cena01_analiticos_posteriores.m4a",
-      "status": "created",
-      "created_at": "2026-07-15T03:40:46Z"
+      "status": "downloaded",
+      "created_at": "2026-07-15T03:40:46Z",
+      "downloaded_at": "2026-07-16T05:08:14Z",
+      "bytes": 51949947
     },
     "01_organon/04_analiticos_posteriores/L01-C24_cena01": {
       "artifact_id": "a5284421-c63c-428d-8eb1-5a131bf0882d",
       "audio_title": "aristoteles_04_l01_c24_cena01_analiticos_posteriores",
       "audio_filename": "aristoteles_04_l01_c24_cena01_analiticos_posteriores.m4a",
-      "status": "created",
-      "created_at": "2026-07-15T03:42:49Z"
+      "status": "downloaded",
+      "created_at": "2026-07-15T03:42:49Z",
+      "downloaded_at": "2026-07-16T05:08:53Z",
+      "bytes": 35512918
     },
     "01_organon/04_analiticos_posteriores/L01-C25_cena01": {
       "artifact_id": "0b79901c-de69-4507-b5ba-cc658d2757c4",
       "audio_title": "aristoteles_04_l01_c25_cena01_analiticos_posteriores",
       "audio_filename": "aristoteles_04_l01_c25_cena01_analiticos_posteriores.m4a",
-      "status": "created",
-      "created_at": "2026-07-15T03:44:53Z"
+      "status": "downloaded",
+      "created_at": "2026-07-15T03:44:53Z",
+      "downloaded_at": "2026-07-16T05:09:30Z",
+      "bytes": 25805408
     },
     "01_organon/04_analiticos_posteriores/L01-C26_cena01": {
       "artifact_id": "acafe616-032f-48ed-9c9d-6c54a7332a50",
       "audio_title": "aristoteles_04_l01_c26_cena01_analiticos_posteriores",
       "audio_filename": "aristoteles_04_l01_c26_cena01_analiticos_posteriores.m4a",
-      "status": "created",
-      "created_at": "2026-07-15T03:46:56Z"
+      "status": "downloaded",
+      "created_at": "2026-07-15T03:46:56Z",
+      "downloaded_at": "2026-07-16T05:10:17Z",
+      "bytes": 49376965
     },
     "01_organon/04_analiticos_posteriores/L01-C27_cena01": {
       "artifact_id": "db9f8a02-329d-428b-a17e-8ee18ae2c649",
       "audio_title": "aristoteles_04_l01_c27_cena01_analiticos_posteriores",
       "audio_filename": "aristoteles_04_l01_c27_cena01_analiticos_posteriores.m4a",
-      "status": "created",
-      "created_at": "2026-07-15T03:48:59Z"
+      "status": "downloaded",
+      "created_at": "2026-07-15T03:48:59Z",
+      "downloaded_at": "2026-07-16T05:10:55Z",
+      "bytes": 29252724
     },
     "01_organon/04_analiticos_posteriores/L01-C28_cena01": {
       "artifact_id": "c762c262-930a-4064-b43a-9526cea1037a",
       "audio_title": "aristoteles_04_l01_c28_cena01_analiticos_posteriores",
       "audio_filename": "aristoteles_04_l01_c28_cena01_analiticos_posteriores.m4a",
-      "status": "created",
-      "created_at": "2026-07-15T03:51:03Z"
+      "status": "downloaded",
+      "created_at": "2026-07-15T03:51:03Z",
+      "downloaded_at": "2026-07-16T05:11:33Z",
+      "bytes": 58368581
     },
     "01_organon/04_analiticos_posteriores/L01-C29_cena01": {
       "artifact_id": "bea53cb8-bc2a-446d-b575-79ffabd59fa3",
       "audio_title": "aristoteles_04_l01_c29_cena01_analiticos_posteriores",
       "audio_filename": "aristoteles_04_l01_c29_cena01_analiticos_posteriores.m4a",
-      "status": "created",
-      "created_at": "2026-07-15T03:53:06Z"
+      "status": "downloaded",
+      "created_at": "2026-07-15T03:53:06Z",
+      "downloaded_at": "2026-07-16T05:12:15Z",
+      "bytes": 51636075
     },
     "01_organon/04_analiticos_posteriores/L01-C30_cena01": {
       "artifact_id": "4e49a1e1-5f7d-4f1a-a362-6f64f5dc5fb5",
       "audio_title": "aristoteles_04_l01_c30_cena01_analiticos_posteriores",
       "audio_filename": "aristoteles_04_l01_c30_cena01_analiticos_posteriores.m4a",
-      "status": "created",
-      "created_at": "2026-07-15T03:55:10Z"
+      "status": "downloaded",
+      "created_at": "2026-07-15T03:55:10Z",
+      "downloaded_at": "2026-07-16T05:12:53Z",
+      "bytes": 21455272
     },
     "01_organon/04_analiticos_posteriores/L01-C31_cena01": {
       "artifact_id": "032f0777-a2e0-425d-8732-777a9a49b08b",
@@ -4170,6 +4208,146 @@
       "audio_filename": "aristoteles_04_l01_c31_cena01_analiticos_posteriores.m4a",
       "status": "created",
       "created_at": "2026-07-15T03:57:13Z"
+    },
+    "01_organon/04_analiticos_posteriores/L01-C32_cena01": {
+      "artifact_id": "4aa81ea7-0e42-4d31-8532-9ff8c1ed780c",
+      "audio_title": "aristoteles_04_l01_c32_cena01_analiticos_posteriores",
+      "audio_filename": "aristoteles_04_l01_c32_cena01_analiticos_posteriores.m4a",
+      "status": "created",
+      "created_at": "2026-07-16T05:13:49Z"
+    },
+    "01_organon/04_analiticos_posteriores/L01-C33_cena01": {
+      "artifact_id": "9e123fe0-3179-4066-897b-f108b37e159c",
+      "audio_title": "aristoteles_04_l01_c33_cena01_analiticos_posteriores",
+      "audio_filename": "aristoteles_04_l01_c33_cena01_analiticos_posteriores.m4a",
+      "status": "created",
+      "created_at": "2026-07-16T05:15:53Z"
+    },
+    "01_organon/04_analiticos_posteriores/L01-C34_cena01": {
+      "artifact_id": "982d99a1-c010-4f47-ab52-e51cbb6675f6",
+      "audio_title": "aristoteles_04_l01_c34_cena01_analiticos_posteriores",
+      "audio_filename": "aristoteles_04_l01_c34_cena01_analiticos_posteriores.m4a",
+      "status": "created",
+      "created_at": "2026-07-16T05:17:56Z"
+    },
+    "01_organon/04_analiticos_posteriores/L02-C01_cena01": {
+      "artifact_id": "d63153aa-9d78-437b-88aa-65562bd16675",
+      "audio_title": "aristoteles_04_l02_c01_cena01_analiticos_posteriores",
+      "audio_filename": "aristoteles_04_l02_c01_cena01_analiticos_posteriores.m4a",
+      "status": "created",
+      "created_at": "2026-07-16T05:19:59Z"
+    },
+    "01_organon/04_analiticos_posteriores/L02-C02_cena01": {
+      "artifact_id": "acec2d0a-422c-4fa9-bbda-906e67c2e2ea",
+      "audio_title": "aristoteles_04_l02_c02_cena01_analiticos_posteriores",
+      "audio_filename": "aristoteles_04_l02_c02_cena01_analiticos_posteriores.m4a",
+      "status": "created",
+      "created_at": "2026-07-16T05:22:02Z"
+    },
+    "01_organon/04_analiticos_posteriores/L02-C03_cena01": {
+      "artifact_id": "e33be3a6-6490-4370-b328-3f4f6ca7855e",
+      "audio_title": "aristoteles_04_l02_c03_cena01_analiticos_posteriores",
+      "audio_filename": "aristoteles_04_l02_c03_cena01_analiticos_posteriores.m4a",
+      "status": "created",
+      "created_at": "2026-07-16T05:24:06Z"
+    },
+    "01_organon/04_analiticos_posteriores/L02-C04_cena01": {
+      "artifact_id": "5f227480-5e94-42e6-8341-b81b1324a4a6",
+      "audio_title": "aristoteles_04_l02_c04_cena01_analiticos_posteriores",
+      "audio_filename": "aristoteles_04_l02_c04_cena01_analiticos_posteriores.m4a",
+      "status": "created",
+      "created_at": "2026-07-16T05:26:09Z"
+    },
+    "01_organon/04_analiticos_posteriores/L02-C05_cena01": {
+      "artifact_id": "eda0b894-b2c2-45d6-b30c-bdb1f22b5ff5",
+      "audio_title": "aristoteles_04_l02_c05_cena01_analiticos_posteriores",
+      "audio_filename": "aristoteles_04_l02_c05_cena01_analiticos_posteriores.m4a",
+      "status": "created",
+      "created_at": "2026-07-16T05:28:13Z"
+    },
+    "01_organon/04_analiticos_posteriores/L02-C06_cena01": {
+      "artifact_id": "b21c660d-6b14-4756-8c83-714586f9d931",
+      "audio_title": "aristoteles_04_l02_c06_cena01_analiticos_posteriores",
+      "audio_filename": "aristoteles_04_l02_c06_cena01_analiticos_posteriores.m4a",
+      "status": "created",
+      "created_at": "2026-07-16T05:30:17Z"
+    },
+    "01_organon/04_analiticos_posteriores/L02-C07_cena01": {
+      "artifact_id": "25d0937b-a5e1-4168-8b21-24f1b1b43b43",
+      "audio_title": "aristoteles_04_l02_c07_cena01_analiticos_posteriores",
+      "audio_filename": "aristoteles_04_l02_c07_cena01_analiticos_posteriores.m4a",
+      "status": "created",
+      "created_at": "2026-07-16T05:32:20Z"
+    },
+    "01_organon/04_analiticos_posteriores/L02-C08_cena01": {
+      "artifact_id": "38b728d6-a1ef-4a7c-9d96-c283c02c5cce",
+      "audio_title": "aristoteles_04_l02_c08_cena01_analiticos_posteriores",
+      "audio_filename": "aristoteles_04_l02_c08_cena01_analiticos_posteriores.m4a",
+      "status": "created",
+      "created_at": "2026-07-16T05:34:24Z"
+    },
+    "01_organon/04_analiticos_posteriores/L02-C09_cena01": {
+      "artifact_id": "4eb12aea-39e9-4bd7-bf8d-5860781551bb",
+      "audio_title": "aristoteles_04_l02_c09_cena01_analiticos_posteriores",
+      "audio_filename": "aristoteles_04_l02_c09_cena01_analiticos_posteriores.m4a",
+      "status": "created",
+      "created_at": "2026-07-16T05:36:27Z"
+    },
+    "01_organon/04_analiticos_posteriores/L02-C10_cena01": {
+      "artifact_id": "14de1883-7ba2-4151-a874-ce4597599a03",
+      "audio_title": "aristoteles_04_l02_c10_cena01_analiticos_posteriores",
+      "audio_filename": "aristoteles_04_l02_c10_cena01_analiticos_posteriores.m4a",
+      "status": "created",
+      "created_at": "2026-07-16T05:38:31Z"
+    },
+    "01_organon/04_analiticos_posteriores/L02-C11_cena01": {
+      "artifact_id": "f4229156-fcb3-4c87-9472-153a0db10edd",
+      "audio_title": "aristoteles_04_l02_c11_cena01_analiticos_posteriores",
+      "audio_filename": "aristoteles_04_l02_c11_cena01_analiticos_posteriores.m4a",
+      "status": "created",
+      "created_at": "2026-07-16T05:40:34Z"
+    },
+    "01_organon/04_analiticos_posteriores/L02-C11_cena02": {
+      "artifact_id": "642e1126-7141-40a8-8055-76d049c8c811",
+      "audio_title": "aristoteles_04_l02_c11_cena02_analiticos_posteriores",
+      "audio_filename": "aristoteles_04_l02_c11_cena02_analiticos_posteriores.m4a",
+      "status": "created",
+      "created_at": "2026-07-16T05:42:37Z"
+    },
+    "01_organon/04_analiticos_posteriores/L02-C13_cena01": {
+      "artifact_id": "3b890955-bafb-423d-ac07-f6fb82bdc2de",
+      "audio_title": "aristoteles_04_l02_c13_cena01_analiticos_posteriores",
+      "audio_filename": "aristoteles_04_l02_c13_cena01_analiticos_posteriores.m4a",
+      "status": "created",
+      "created_at": "2026-07-16T05:44:41Z"
+    },
+    "01_organon/04_analiticos_posteriores/L02-C14_cena01": {
+      "artifact_id": "dccdc37f-da5d-4303-8e98-2ae5d5d34733",
+      "audio_title": "aristoteles_04_l02_c14_cena01_analiticos_posteriores",
+      "audio_filename": "aristoteles_04_l02_c14_cena01_analiticos_posteriores.m4a",
+      "status": "created",
+      "created_at": "2026-07-16T05:46:44Z"
+    },
+    "01_organon/04_analiticos_posteriores/L02-C15_cena01": {
+      "artifact_id": "a9abfa3b-a727-412a-a6c3-13534c9ad23d",
+      "audio_title": "aristoteles_04_l02_c15_cena01_analiticos_posteriores",
+      "audio_filename": "aristoteles_04_l02_c15_cena01_analiticos_posteriores.m4a",
+      "status": "created",
+      "created_at": "2026-07-16T05:48:49Z"
+    },
+    "01_organon/04_analiticos_posteriores/L02-C16_cena01": {
+      "artifact_id": "88d68b52-a8e6-4a1f-8015-c15ed1dc9575",
+      "audio_title": "aristoteles_04_l02_c16_cena01_analiticos_posteriores",
+      "audio_filename": "aristoteles_04_l02_c16_cena01_analiticos_posteriores.m4a",
+      "status": "created",
+      "created_at": "2026-07-16T05:50:52Z"
+    },
+    "01_organon/04_analiticos_posteriores/L02-C17_cena01": {
+      "artifact_id": "65b159f6-92e9-4586-bcfe-1230b129535e",
+      "audio_title": "aristoteles_04_l02_c17_cena01_analiticos_posteriores",
+      "audio_filename": "aristoteles_04_l02_c17_cena01_analiticos_posteriores.m4a",
+      "status": "created",
+      "created_at": "2026-07-16T05:52:56Z"
     }
   }
 }
