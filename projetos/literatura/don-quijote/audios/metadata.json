@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-07-16T08:26:01.254360",
+  "atualizado": "2026-07-17T08:25:42.520293",
   "audios": [
     {
       "seq_global": 1,
@@ -337,8 +337,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-16T08:21:44.295487",
-      "status": "created",
-      "artifact_id": "7a0004f3-99e5-4a94-be99-3f97e001efd2"
+      "status": "downloaded",
+      "artifact_id": "7a0004f3-99e5-4a94-be99-3f97e001efd2",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/026_cap-009_cena-001_Los-gigantes-que-eran-molinos.m4a",
+      "tamanho_bytes": 24274146
     },
     {
       "seq_global": 27,
@@ -348,8 +350,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-16T08:23:52.942194",
-      "status": "created",
-      "artifact_id": "0061c0ce-3e17-48d1-b94e-1366ee19d9e6"
+      "status": "downloaded",
+      "artifact_id": "0061c0ce-3e17-48d1-b94e-1366ee19d9e6",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/027_cap-009_cena-002_El-sustento-de-sabrosas-memorias.m4a",
+      "tamanho_bytes": 24580547
     },
     {
       "seq_global": 28,
@@ -359,8 +363,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-16T08:26:01.250249",
+      "status": "downloaded",
+      "artifact_id": "356c823e-e67b-466c-8a70-f82017b5a4eb",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/028_cap-009_cena-003_Los-frailes-encantadores-y-el-despojo-de-Sancho.m4a",
+      "tamanho_bytes": 29031533
+    },
+    {
+      "seq_global": 29,
+      "arquivo": "029_cap-009_cena-004_La-espada-suspendida-en-el-aire.m4a",
+      "titulo": "La espada suspendida en el aire",
+      "cap": 9,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-17T08:21:26.254413",
       "status": "created",
-      "artifact_id": "356c823e-e67b-466c-8a70-f82017b5a4eb"
+      "artifact_id": "39b2a80d-c6b0-4ba7-aa55-7bf32b027021"
+    },
+    {
+      "seq_global": 30,
+      "arquivo": "030_cap-010_cena-001_La-historia-truncada-y-el-hambre-de-saber.m4a",
+      "titulo": "La historia truncada y el hambre de saber",
+      "cap": 10,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-17T08:23:34.506694",
+      "status": "created",
+      "artifact_id": "0f3acf38-7e36-40fe-8ca1-c2c985a2bb53"
+    },
+    {
+      "seq_global": 31,
+      "arquivo": "031_cap-010_cena-002_El-hallazgo-de-Toledo-y-Cide-Hamete-Benengeli.m4a",
+      "titulo": "El hallazgo de Toledo y Cide Hamete Benengeli",
+      "cap": 10,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-17T08:25:42.515851",
+      "status": "created",
+      "artifact_id": "f4cb65ac-1bb8-4b39-97a1-5070961d0e0c"
     }
   ]
 }
