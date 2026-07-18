@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-07-17T08:25:42.520293",
+  "atualizado": "2026-07-18T08:25:38.467201",
   "audios": [
     {
       "seq_global": 1,
@@ -376,8 +376,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-17T08:21:26.254413",
-      "status": "created",
-      "artifact_id": "39b2a80d-c6b0-4ba7-aa55-7bf32b027021"
+      "status": "downloaded",
+      "artifact_id": "39b2a80d-c6b0-4ba7-aa55-7bf32b027021",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/029_cap-009_cena-004_La-espada-suspendida-en-el-aire.m4a",
+      "tamanho_bytes": 40260594
     },
     {
       "seq_global": 30,
@@ -387,8 +389,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-17T08:23:34.506694",
-      "status": "created",
-      "artifact_id": "0f3acf38-7e36-40fe-8ca1-c2c985a2bb53"
+      "status": "downloaded",
+      "artifact_id": "0f3acf38-7e36-40fe-8ca1-c2c985a2bb53",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/030_cap-010_cena-001_La-historia-truncada-y-el-hambre-de-saber.m4a",
+      "tamanho_bytes": 32590954
     },
     {
       "seq_global": 31,
@@ -398,8 +402,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-17T08:25:42.515851",
+      "status": "downloaded",
+      "artifact_id": "f4cb65ac-1bb8-4b39-97a1-5070961d0e0c",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/031_cap-010_cena-002_El-hallazgo-de-Toledo-y-Cide-Hamete-Benengeli.m4a",
+      "tamanho_bytes": 23593361
+    },
+    {
+      "seq_global": 32,
+      "arquivo": "032_cap-010_cena-003_La-furia-del-manchego-y-la-merced-condicionada.m4a",
+      "titulo": "La furia del manchego y la merced condicionada",
+      "cap": 10,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-18T08:21:23.082321",
       "status": "created",
-      "artifact_id": "f4cb65ac-1bb8-4b39-97a1-5070961d0e0c"
+      "artifact_id": "3e95df70-405a-473a-a60d-88c9fe7ce9a7"
+    },
+    {
+      "seq_global": 33,
+      "arquivo": "033_cap-011_cena-001_La-insula-prometida-y-el-balsamo-de-Fierabras.m4a",
+      "titulo": "La ínsula prometida y el bálsamo de Fierabrás",
+      "cap": 11,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-18T08:23:30.733816",
+      "status": "created",
+      "artifact_id": "9b800345-0def-4786-b04c-57f88fc8144b"
+    },
+    {
+      "seq_global": 34,
+      "arquivo": "034_cap-011_cena-002_El-juramento-sobre-la-celada-rota.m4a",
+      "titulo": "El juramento sobre la celada rota",
+      "cap": 11,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-18T08:25:38.462648",
+      "status": "created",
+      "artifact_id": "c9d49d36-328c-419e-a961-d2395c3052fa"
     }
   ]
 }
