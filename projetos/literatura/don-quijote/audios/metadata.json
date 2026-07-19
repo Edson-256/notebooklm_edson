@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-07-18T08:25:38.467201",
+  "atualizado": "2026-07-19T08:25:57.218810",
   "audios": [
     {
       "seq_global": 1,
@@ -415,8 +415,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-18T08:21:23.082321",
-      "status": "created",
-      "artifact_id": "3e95df70-405a-473a-a60d-88c9fe7ce9a7"
+      "status": "downloaded",
+      "artifact_id": "3e95df70-405a-473a-a60d-88c9fe7ce9a7",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/032_cap-010_cena-003_La-furia-del-manchego-y-la-merced-condicionada.m4a",
+      "tamanho_bytes": 18487738
     },
     {
       "seq_global": 33,
@@ -426,8 +428,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-18T08:23:30.733816",
-      "status": "created",
-      "artifact_id": "9b800345-0def-4786-b04c-57f88fc8144b"
+      "status": "downloaded",
+      "artifact_id": "9b800345-0def-4786-b04c-57f88fc8144b",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/033_cap-011_cena-001_La-insula-prometida-y-el-balsamo-de-Fierabras.m4a",
+      "tamanho_bytes": 37851961
     },
     {
       "seq_global": 34,
@@ -437,8 +441,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-18T08:25:38.462648",
+      "status": "downloaded",
+      "artifact_id": "c9d49d36-328c-419e-a961-d2395c3052fa",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/034_cap-011_cena-002_El-juramento-sobre-la-celada-rota.m4a",
+      "tamanho_bytes": 23853447
+    },
+    {
+      "seq_global": 35,
+      "arquivo": "035_cap-011_cena-003_La-dieta-caballeresca-y-el-dormir-al-cielo-descubierto.m4a",
+      "titulo": "La dieta caballeresca y el dormir al cielo descubierto",
+      "cap": 11,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-19T08:21:41.470157",
       "status": "created",
-      "artifact_id": "c9d49d36-328c-419e-a961-d2395c3052fa"
+      "artifact_id": "1d0f9d7c-c349-4490-b4b1-d2d8730bedb5"
+    },
+    {
+      "seq_global": 36,
+      "arquivo": "036_cap-012_cena-001_El-convite-y-la-libertad-de-Sancho.m4a",
+      "titulo": "El convite y la libertad de Sancho",
+      "cap": 12,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-19T08:23:49.416110",
+      "status": "created",
+      "artifact_id": "ae577b9f-24d5-478b-894b-d2fcd298217e"
+    },
+    {
+      "seq_global": 37,
+      "arquivo": "037_cap-012_cena-002_El-discurso-de-la-Edad-Dorada.m4a",
+      "titulo": "El discurso de la Edad Dorada",
+      "cap": 12,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-19T08:25:57.213901",
+      "status": "created",
+      "artifact_id": "c57b451d-ded2-4b5b-a09e-70c5bf26c2bb"
     }
   ]
 }
