@@ -653,8 +653,10 @@
       "prompt_chars": 3307,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created",
-      "fail_count": 1
+      "status": "downloaded",
+      "fail_count": 1,
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/victor_hugo/notre-dame_de_paris/audios/notredame_041_l04_c01_les_bonnes_mes_cena001.m4a",
+      "tamanho_bytes": 13504709
     },
     {
       "seq_global": 42,
@@ -2936,5 +2938,5 @@
     }
   ],
   "total_itens_processados": 175,
-  "ultima_atualizacao": "2026-07-21T10:45:06.914228"
+  "ultima_atualizacao": "2026-07-21T11:24:35.526066"
 }
