@@ -33,7 +33,21 @@ except ModuleNotFoundError:
     print("ERRO: requer Python 3.11+ (tomllib).", file=sys.stderr); sys.exit(1)
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-import tg  # noqa: E402  (StudioM4_bot, best-effort)
+import tg  # noqa: E402  (StudioM4_bot, best-effort — só usado p/ ping de feed)
+
+REPO_DIR = Path(__file__).resolve().parents[4]  # notebooklm_edson/
+
+
+def _write_lastrun(slug: str, *, reset: bool = False, **fields) -> None:
+    """Grava resumo da sessão em logs/<slug>_lastrun.json (best-effort). Mesmo
+    padrão dos runners legados — permite relatório consolidado UMA mensagem
+    (notebooklm_edson-d4p0), lido/enviado pelo cron wrapper no final."""
+    try:
+        sys.path.insert(0, str(REPO_DIR / "scripts"))
+        from tg_notify import write_lastrun
+        write_lastrun(slug, reset=reset, **fields)
+    except Exception:
+        pass
 
 INTERVAL_SECONDS = 120
 DOWNLOAD_BACKOFFS = [0, 90, 240]
@@ -228,7 +242,6 @@ def cmd_create(proj, cfg, scenes, width, profile, n, dry):
     nb = notebook_for(cfg, profile)
     log(f"  conta ativa: perfil '{profile}' -> notebook {nb[:12]}…")
     created = deferred = failed = 0
-    created_files = []
     for c in queue:
         if quota_used_today(proj, cfg, profile) >= cap:
             log(f"cota diaria atingida ({cap}) — parando; restantes ficam pendentes."); break
@@ -249,20 +262,30 @@ def cmd_create(proj, cfg, scenes, width, profile, n, dry):
             entry["status"] = "deferred"; deferred += 1
         elif art:
             entry.update(status="created", artifact_id=art); quota_bump(proj, cfg, profile); created += 1
-            created_files.append(entry["arquivo"])
             log(f"   criado {art[:12]}...")
         else:
             entry["status"] = "server_failed"; failed += 1
         save_meta_entry(proj, cfg, entry)
         if c is not queue[-1] and art and art is not _RATE_LIMITED: time.sleep(INTERVAL_SECONDS)
     print(f"\n  criados={created} deferred={deferred} falhas={failed}\n")
-    if cfg.get("telegram", {}).get("enabled") and (created_files or deferred or failed):
-        tg.report(cfg["telegram"]["projeto_label"], created=created_files, deferred=deferred, failed=failed)
+    if cfg.get("telegram", {}).get("enabled"):
+        pending_after = len(pending_scenes(proj, cfg, scenes))
+        downloaded_total = sum(1 for a in load_meta(proj, cfg)["audios"] if a.get("status") == "downloaded")
+        _write_lastrun(cfg["obra"]["slug"], created=created, create_failed=failed, pending=pending_after,
+                       downloaded_total=downloaded_total, manifest_total=len(scenes))
     return 0
 
-def cmd_download(proj, cfg, default_profile):
+def cmd_download(proj, cfg, default_profile, scenes):
+    if cfg.get("telegram", {}).get("enabled"):
+        _write_lastrun(cfg["obra"]["slug"], reset=True)  # download = 1ª fase do cron
     pend = [a for a in load_meta(proj, cfg)["audios"] if a.get("status") == "created" and a.get("artifact_id")]
-    if not pend: log("nada para baixar (status=created)."); return 0
+    if not pend:
+        log("nada para baixar (status=created).")
+        if cfg.get("telegram", {}).get("enabled"):
+            downloaded_total = sum(1 for a in load_meta(proj, cfg)["audios"] if a.get("status") == "downloaded")
+            _write_lastrun(cfg["obra"]["slug"], downloaded=[], still_processing=0, dl_failed=0,
+                           downloaded_total=downloaded_total, manifest_total=len(scenes))
+        return 0
     adir = proj / cfg["paths"]["audios"]; dl = proc = lost = err = 0
     downloaded_files = []
     auth_ck = {}
@@ -288,7 +311,9 @@ def cmd_download(proj, cfg, default_profile):
         _sync_to_dell(cfg)
     print(f"\n  baixados={dl} processando={proc} perdidos={lost} erros={err}\n")
     if cfg.get("telegram", {}).get("enabled"):
-        tg.report(cfg["telegram"]["projeto_label"], downloaded=downloaded_files)
+        downloaded_total = sum(1 for a in load_meta(proj, cfg)["audios"] if a.get("status") == "downloaded")
+        _write_lastrun(cfg["obra"]["slug"], downloaded=downloaded_files, still_processing=proc,
+                       dl_failed=lost + err, downloaded_total=downloaded_total, manifest_total=len(scenes))
         if dl:
             tg.send(f"📡 feed {cfg['telegram']['projeto_label']}: {_feed_url(cfg)} "
                     f"(login edson / senha no SplashID)")
@@ -326,7 +351,7 @@ def main():
 
     # download: cada cena é baixada na conta em que foi criada (auth checada por-conta dentro)
     if args.download:
-        return cmd_download(proj, cfg, profile)
+        return cmd_download(proj, cfg, profile, scenes)
     if not check_auth(profile):
         log(f"ERRO: nlm nao autenticado no perfil {profile}. Rode: nlm login -p {profile}"); return 1
     return cmd_create(proj, cfg, scenes, width, profile, 0 if args.all else args.create, dry=False)

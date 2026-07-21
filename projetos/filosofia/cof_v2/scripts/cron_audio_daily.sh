@@ -112,7 +112,9 @@ _tg_report() {
   fi
 
   /opt/homebrew/bin/python3 "$PROJECT_DIR/scripts/tg_notify.py" report-state \
-    --slug "cof" --project "COF v2" --profile "default" --status "$_status" \
+    --slug "cof" --project "Curso Online de Filosofia (COF v2)" \
+    --path "projetos/filosofia/cof_v2" \
+    --profile "default" --status "$_status" \
     --rc "${_rc:-}" --summary "${_sum:-}" \
     --run-cmd "bash $COF_DIR/scripts/cron_audio_daily.sh" \
     >/dev/null 2>&1 || true

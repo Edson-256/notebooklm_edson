@@ -396,6 +396,9 @@ def run_create(args, items: list[dict]) -> int:
     print()
     log(f"Total: {len(items)} | Processados: {len(processed)} | Pendentes: {len(pending)}")
     if not pending:
+        downloaded_total = sum(1 for a in load_metadata().get("audios", []) if a.get("status") == "downloaded")
+        _write_lastrun(OBRA_SLUG, created=0, create_failed=0, pending=0,
+                       downloaded_total=downloaded_total, manifest_total=len(items))
         log("Tudo processado."); return 0
 
     queue = pending[: args.max_items] if args.max_items > 0 else pending
@@ -484,8 +487,10 @@ def run_create(args, items: list[dict]) -> int:
     print("=" * 60)
     pending_after = len(items) - len(get_processed_seqs())
     print(f"  Pendentes: {pending_after}")
+    downloaded_total = sum(1 for a in load_metadata().get("audios", []) if a.get("status") == "downloaded")
     _write_lastrun(OBRA_SLUG, created=session_stats["items_created"],
-                   create_failed=session_stats["items_failed"], pending=pending_after)
+                   create_failed=session_stats["items_failed"], pending=pending_after,
+                   downloaded_total=downloaded_total, manifest_total=len(items))
     return 0 if session_stats["items_failed"] == 0 else 1
 
 

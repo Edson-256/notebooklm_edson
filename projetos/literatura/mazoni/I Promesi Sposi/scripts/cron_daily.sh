@@ -80,7 +80,9 @@ _tg_report() {
   fi
 
   /opt/homebrew/bin/python3 "$REPO_DIR/scripts/tg_notify.py" report-state \
-    --slug "promessi" --project "$TAG" --profile "$PROFILE" --status "$_status" \
+    --slug "promessi" --project "I Promessi Sposi" \
+    --path "projetos/literatura/mazoni/I Promesi Sposi" \
+    --profile "$PROFILE" --status "$_status" \
     --rc "${_rc:-}" --summary "${_sum:-}" \
     --run-cmd "python3 $RUNNER" \
     >/dev/null 2>&1 || true

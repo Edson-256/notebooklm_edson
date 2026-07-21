@@ -249,7 +249,8 @@ def cmd_status(master: dict, audio_meta: dict) -> int:
     if counts["pending"]:
         days = (counts["pending"] + DEFAULT_DAILY_LIMIT - 1) // DEFAULT_DAILY_LIMIT
         print(f"\n@ {DEFAULT_DAILY_LIMIT}/dia CLI: ~{days} dias para gerar todas")
-    _write_lastrun("aristoteles", pending=counts["pending"])  # merge p/ msg consolidada
+    _write_lastrun("aristoteles", pending=counts["pending"],
+                   downloaded_total=counts["downloaded"], manifest_total=total)  # merge p/ msg consolidada
     return 0
 
 

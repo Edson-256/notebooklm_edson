@@ -685,6 +685,9 @@ def main() -> int:
 
     if not pending:
         log("Tudo já processado dentro do filtro.")
+        downloaded_total = sum(1 for a in load_metadata().get("audios", []) if a.get("status") == "downloaded")
+        _write_lastrun(OBRA_SLUG, created=0, create_failed=0, pending=0,
+                       downloaded_total=downloaded_total, manifest_total=TOTAL_ITEMS)
         return 0
 
     queue = pending if args.max_items <= 0 else pending[: args.max_items]
@@ -735,9 +738,11 @@ def main() -> int:
     save_session_log()
     print_summary()
     pending_after = TOTAL_ITEMS - len(get_processed_seqs())
+    downloaded_total = sum(1 for a in load_metadata().get("audios", []) if a.get("status") == "downloaded")
     _write_lastrun(OBRA_SLUG, created=session_stats["items_created"],
                    create_failed=session_stats["items_failed"],
-                   pending=pending_after)
+                   pending=pending_after,
+                   downloaded_total=downloaded_total, manifest_total=TOTAL_ITEMS)
     return 0
 
 

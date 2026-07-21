@@ -105,7 +105,9 @@ _tg_report() {
   fi
 
   /opt/homebrew/bin/python3 "$REPO_DIR/scripts/tg_notify.py" report-state \
-    --slug "aristoteles" --project "Aristóteles" --profile "default" --status "$_status" \
+    --slug "aristoteles" --project "Aristóteles — Corpus Completo" \
+    --path "projetos/filosofia/aristoteles" \
+    --profile "default" --status "$_status" \
     --rc "${_rc:-}" --summary "${_sum:-}" \
     --run-cmd "bash $PROJECT_DIR/scripts/cron_audio.sh" \
     >/dev/null 2>&1 || true

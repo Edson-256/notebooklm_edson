@@ -214,12 +214,21 @@ def load_lastrun(slug: str) -> dict:
 _MAX_NAMES = 20  # corta listas muito longas para não estourar a mensagem
 
 
-def _format_state_report(project: str, profile: str, status: str,
+def _format_state_report(project: str, path: str, profile: str, status: str,
                          state: dict, *, rc: str = "", summary: str = "",
                          run_cmd: str = "") -> str:
-    """Renderiza UMA mensagem com 3 seções: criação / download / transferência."""
+    """Renderiza UMA mensagem consolidada. Padrão obrigatório (notebooklm_edson-d4p0):
+    título da obra + caminho do projeto + data + Criados/Pendentes/Baixados até o momento,
+    em toda mensagem (inclusive falha/auth_expired)."""
     now = datetime.now().strftime("%d/%m %H:%M")
     run_cmd = (run_cmd or "").strip()
+    path = (path or "").strip()
+
+    def header(icon_title: str) -> list:
+        lines = [icon_title]
+        if path:
+            lines.append(f"📂 <code>{path}</code>")
+        return lines
 
     def with_rerun(lines: list) -> str:
         if run_cmd:
@@ -227,15 +236,15 @@ def _format_state_report(project: str, profile: str, status: str,
         return "\n".join(lines)
 
     if status == "auth_expired":
-        return with_rerun([
-            f"🔐 <b>{project}</b> — AUTH EXPIRADO ({now})",
-            f"Rode: <code>nlm login --profile {profile}</code>",
-        ])
+        lines = header(f"🔐 <b>{project}</b> — AUTH EXPIRADO ({now})")
+        lines.append(f"Rode: <code>nlm login --profile {profile}</code>")
+        return with_rerun(lines)
     if status == "failed":
         rc = rc or "?"
         summary = (summary or f"exit code {rc}").strip()
-        return with_rerun([f"❌ <b>{project}</b> FALHOU rc={rc} — {now}",
-                           summary[:300]])
+        lines = header(f"❌ <b>{project}</b> FALHOU rc={rc} — {now}")
+        lines.append(summary[:300])
+        return with_rerun(lines)
 
     # status == ok ────────────────────────────────────────────────────────
     created = int(state.get("created", 0) or 0)
@@ -245,32 +254,35 @@ def _format_state_report(project: str, profile: str, status: str,
     downloaded = list(state.get("downloaded", []) or [])
     still = int(state.get("still_processing", 0) or 0)
     dl_failed = int(state.get("dl_failed", 0) or 0)
+    downloaded_total = state.get("downloaded_total", None)
+    manifest_total = state.get("manifest_total", None)
 
     transferred = int(state.get("transferred", 0) or 0)
     transfer_failed = int(state.get("transfer_failed", 0) or 0)
 
     zero_activity = (created == 0 and len(downloaded) == 0)
-    head = (f"⚠️ <b>{project}</b> — rodou, 0 criados/baixados ({now})"
-            if zero_activity else f"✅ <b>{project}</b> — {now}")
-    lines = [head]
+    head_icon = "⚠️" if zero_activity else "✅"
+    head_suffix = " — rodou, 0 criados/baixados" if zero_activity else ""
+    lines = header(f"{head_icon} <b>{project}</b>{head_suffix} ({now})")
 
-    # 1. Criação (resumo: contagens — "o que falta criar" = pendentes)
+    # 1. Criação (desta sessão) + Pendentes (total ainda por criar)
     crt = f"🎙 Criados: {created}"
     if create_failed:
         crt += f"  ⚠️ Falhas: {create_failed}"
-    if pending is not None and str(pending) != "":
-        crt += f"  ·  📊 Pendentes: {pending}"
     lines.append(crt)
+    if pending is not None and str(pending) != "":
+        lines.append(f"📊 Pendentes: {pending}")
 
-    # 2. Download (detalhe: nomes + "o que falta baixar" = ainda processando)
-    dl = f"⬇️ Baixados: {len(downloaded)}"
+    # 2. Download (progresso acumulado do livro/curso inteiro)
+    if downloaded_total is not None and manifest_total is not None:
+        dl = f"⬇️ Baixados até o momento: {downloaded_total}/{manifest_total}"
+    else:
+        dl = f"⬇️ Baixados: {len(downloaded)}"
     extras = []
     if still:
         extras.append(f"faltam {still} processando")
     if dl_failed:
         extras.append(f"⚠️ {dl_failed} falha(s)")
-    if not downloaded and not still and not dl_failed:
-        extras.append("nada pendente")
     if extras:
         dl += "  ·  " + " · ".join(extras)
     lines.append(dl)
@@ -294,13 +306,13 @@ def _format_state_report(project: str, profile: str, status: str,
 
 
 def send_report(slug: str, project: str, profile: str = "", status: str = "ok",
-                *, rc: str = "", summary: str = "", run_cmd: str = "") -> bool:
+                *, path: str = "", rc: str = "", summary: str = "", run_cmd: str = "") -> bool:
     """Lê logs/<slug>_lastrun.json e envia a mensagem consolidada (3 seções).
 
     Para runners SEM cron (manuais) que mandam o resumo eles mesmos.
     """
     state = load_lastrun(slug)
-    msg = _format_state_report(project, profile, status, state,
+    msg = _format_state_report(project, path, profile, status, state,
                                rc=rc, summary=summary, run_cmd=run_cmd)
     return send(msg)
 
@@ -316,7 +328,7 @@ def _cmd_report(args):
 def _cmd_report_state(args):
     state = load_lastrun(args.slug)
     msg = _format_state_report(
-        args.project, args.profile, args.status, state,
+        args.project, args.path, args.profile, args.status, state,
         rc=args.rc, summary=args.summary, run_cmd=args.run_cmd,
     )
     sys.exit(0 if send(msg) else 1)
@@ -351,7 +363,8 @@ def main():
     p_st = sub.add_parser("report-state",
                           help="Relatório consolidado (3 seções) lendo logs/<slug>_lastrun.json")
     p_st.add_argument("--slug",     required=True, help="Slug do projeto (chave do lastrun.json)")
-    p_st.add_argument("--project",  required=True, help="Nome exibido do projeto")
+    p_st.add_argument("--project",  required=True, help="Título completo da obra (não a TAG curta)")
+    p_st.add_argument("--path",     default="",    help="Caminho do projeto relativo ao repo (notebooklm_edson-d4p0)")
     p_st.add_argument("--profile",  default="",    help="Perfil NLM usado")
     p_st.add_argument("--status",   required=True,
                       choices=["ok", "failed", "auth_expired"])

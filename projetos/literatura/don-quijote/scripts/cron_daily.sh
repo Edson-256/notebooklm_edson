@@ -1,7 +1,9 @@
 #!/bin/bash
 # Cron wrapper: Don Quijote de la Mancha (espanhol) — cota efetiva 2/dia (Free, margem=1).
-# Runner da skill leitura-formativa já cuida de dell-sync + Telegram internamente
-# (cfg [lifecycle]/[telegram] em projeto.toml) — este wrapper só invoca + notifica falhas locais.
+# Runner da skill leitura-formativa cuida do dell-sync internamente (cfg [lifecycle] em
+# projeto.toml). O relatório Telegram consolidado (título/caminho/data/Criados/Pendentes/
+# Baixados até o momento — notebooklm_edson-d4p0) é montado por este wrapper no final,
+# lendo logs/don-quijote_lastrun.json que as duas fases do runner alimentam.
 
 set -u
 
@@ -64,6 +66,31 @@ if [ "${rc:-1}" -ne 0 ]; then
     notify "$TAG FALHOU (rc=$rc)" "$summary" "Basso"
   fi
 fi
+
+# ── Notificação Telegram (1 msg consolidada — mesmo padrão dos runners
+# legados, notebooklm_edson-d4p0) ────────────────────────────────────────
+# O runner grava logs/don-quijote_lastrun.json (download 1ª fase reseta,
+# criação 2ª fase faz merge); aqui só resolvemos o status e mandamos.
+_tg_report() {
+  local _status _rc _sum
+  if grep -q "nlm nao autenticado" "$LOG" 2>/dev/null; then
+    _status="auth_expired"
+  elif [ "${rc:-1}" -ne 0 ]; then
+    _status="failed"; _rc="${rc:-1}"
+    _sum="$(grep -E 'ERRO|FALHOU' "$LOG" | tail -2 | tr '\n' ' ' | cut -c1-200)"
+  else
+    _status="ok"
+  fi
+
+  python3 "$REPO_DIR/scripts/tg_notify.py" report-state \
+    --slug "don-quijote" --project "Don Quijote de la Mancha" \
+    --path "projetos/literatura/don-quijote" \
+    --profile "$PROFILE" --status "$_status" \
+    --rc "${_rc:-}" --summary "${_sum:-}" \
+    --run-cmd "python3 $RUNNER --project $PROJECT_DIR --profile $PROFILE --all" \
+    >/dev/null 2>&1 || true
+}
+_tg_report
 
 # ── Auto-commit do metadata.json (progresso created->downloaded) ─────────
 bash "$REPO_DIR/scripts/git_state_commit.sh" \

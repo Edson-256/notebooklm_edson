@@ -43,10 +43,15 @@ Spec de design completa em `SKILL_pipeline_audio_nlm.md` (raiz do repo) — **le
 4. `04_build_nlm_source.py` — manifesto + âncoras → **1 arquivo-fonte único** delimitado
    (capítulos + marcadores `<<< CENA n — INICIO/FIM >>>`). Mega-livro: 1 fonte por parte/volume.
 5. `audio_runner.py` — cria/baixa áudios via `nlm` (**standby**: sem flag = `--status`). Flags:
-   `--status --dry-run --create N --all --download --force`. Telegram (lista de nomes) + dell sync embutidos.
-6. `run_daily.sh <projeto> [batch]` — job diário (Fase1 `--download` + Fase2 `--create`). Agendar via
-   `launchd/com.leitura-formativa.plist.template` (NÃO instalado por padrão; ativar quando liberar).
-7. `tg.py` — StudioM4_bot (sem deps). `../../scripts/nlm_keepalive.sh` — keepalive estendido (5 perfis).
+   `--status --dry-run --create N --all --download --force`. Grava `logs/<slug>_lastrun.json`
+   (via `tg_notify.write_lastrun`) + dell sync embutido; NÃO manda Telegram diretamente.
+6. `run_daily.sh <projeto> [batch]` — job diário (Fase1 `--download` + Fase2 `--create`), lê
+   `projeto.toml` e manda **1 mensagem Telegram consolidada** no final (título/caminho/data/
+   Criados/Pendentes/Baixados até o momento — padrão notebooklm_edson-d4p0, `scripts/tg_notify.py
+   report-state`). Agendar via `launchd/com.leitura-formativa.plist.template` (NÃO instalado por
+   padrão; ativar quando liberar).
+7. `tg.py` — StudioM4_bot (sem deps), usado só p/ o ping de feed pós-download.
+   `../../scripts/nlm_keepalive.sh` — keepalive estendido (5 perfis).
 
 ## Regras in&shy;negociáveis (lições aprendidas — não reintroduzir bugs)
 - **Paralelismo entre contas SÓ via `NLM_PROFILE` (env var) em todo subprocess. NUNCA `nlm login

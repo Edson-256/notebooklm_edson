@@ -222,6 +222,18 @@ def get_processed_scenes() -> set:
         return set()
 
 
+def get_downloaded_total() -> int:
+    """Total de áudios já baixados até o momento (independe da sessão atual)."""
+    metadata_file = QV_DIR / "audios" / "metadata.json"
+    if not metadata_file.exists():
+        return 0
+    try:
+        data = json.loads(metadata_file.read_text(encoding='utf-8'))
+        return sum(1 for a in data.get('audios', []) if a.get('status') == 'downloaded')
+    except Exception:
+        return 0
+
+
 # ── Geração de áudio ──────────────────────────────────────────────────
 
 def run_nlm(args: List[str], timeout: int = 120) -> subprocess.CompletedProcess:
@@ -373,7 +385,7 @@ def _send_report() -> None:
     try:
         sys.path.insert(0, str(PROJECT_DIR / "scripts"))
         from tg_notify import send_report
-        send_report(BOOK_SLUG, BOOK_TITLE, PROFILE)
+        send_report(BOOK_SLUG, BOOK_TITLE, PROFILE, path="projetos/literatura/quo_vadis")
     except Exception:
         pass
 
@@ -616,7 +628,8 @@ def download_pending_audios():
     print("=" * 60)
 
     _write_lastrun(downloaded=downloaded_names, still_processing=still_processing,
-                   dl_failed=failed, transferred=transferred, transfer_failed=transfer_failed)
+                   dl_failed=failed, transferred=transferred, transfer_failed=transfer_failed,
+                   downloaded_total=get_downloaded_total(), manifest_total=TOTAL_SCENES)
     _send_report()
     return 0 if failed == 0 else 1
 
@@ -789,7 +802,8 @@ def main():
     print_summary()
     pending_after = TOTAL_SCENES - len(get_processed_scenes())
     _write_lastrun(created=session_stats["scenes_created"],
-                   create_failed=session_stats["scenes_failed"], pending=pending_after)
+                   create_failed=session_stats["scenes_failed"], pending=pending_after,
+                   downloaded_total=get_downloaded_total(), manifest_total=TOTAL_SCENES)
     _send_report()
     return 0
 
