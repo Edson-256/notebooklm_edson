@@ -196,7 +196,7 @@ def save_metadata(md: dict) -> None:
 def upsert_entry(entry: dict) -> None:
     md = load_metadata()
     by_seq = {a["seq_global"]: a for a in md.get("audios", [])}
-    if entry["seq_global"] in by_seq and by_seq[entry["seq_global"]].get("status") not in (None, "lost_in_studio"):
+    if entry["seq_global"] in by_seq and by_seq[entry["seq_global"]].get("status") not in (None, "lost_in_studio", "failed_retry"):
         log(f"   AVISO: sobrescrevendo entrada existente para seq={entry['seq_global']} (status anterior: {by_seq[entry['seq_global']].get('status')})")
     by_seq[entry["seq_global"]] = entry
     md["audios"] = list(by_seq.values())
@@ -204,9 +204,11 @@ def upsert_entry(entry: dict) -> None:
 
 
 def get_processed_seqs() -> set[int]:
-    """Inclui created/downloaded (em progresso) e skipped_legacy (deliberadamente pulado)."""
+    """Inclui created/downloaded (em progresso), skipped_legacy (deliberadamente pulado)
+    e failed_permanent (desistiu após MAX_RETRIES falhas de geração — requer revisão manual).
+    failed_retry fica de FORA de propósito: volta a ser pendente p/ recriação automática."""
     return {a["seq_global"] for a in load_metadata().get("audios", [])
-            if a.get("status") in ("created", "downloaded", "skipped_legacy")}
+            if a.get("status") in ("created", "downloaded", "skipped_legacy", "failed_permanent")}
 
 
 # ── nlm wrappers ───────────────────────────────────────────────────────
@@ -424,6 +426,9 @@ def run_create(args, items: list[dict]) -> int:
         log(f"   Source: {sid[:8]}... ({it['book_id']})")
         prompt = load_prompt(it)
         log(f"   Prompt: {it['prompt_filename']} ({len(prompt)} chars)")
+        prior_fail_count = next(
+            (a.get("fail_count", 0) for a in load_metadata().get("audios", [])
+             if a.get("seq_global") == it["seq_global"]), 0)
 
         ok = False
         last_rate_limited = False
@@ -455,6 +460,7 @@ def run_create(args, items: list[dict]) -> int:
                     "language": LANGUAGE,
                     "audio_format": AUDIO_FORMAT,
                     "status": "created",
+                    "fail_count": prior_fail_count,
                 })
                 session_stats["items_created"] += 1
                 ok = True; break
@@ -519,10 +525,22 @@ def run_download(items: list[dict]) -> int:
                     transfer_failed += 1
             else:
                 fail += 1
-        elif st in ("failed", None):
+        elif st == "failed":
+            fail_count = int(a.get("fail_count", 0)) + 1
+            a["fail_count"] = fail_count
+            if fail_count >= MAX_RETRIES:
+                a["status"] = "failed_permanent"
+                log(f"   status studio: 'failed' (tentativa {fail_count}/{MAX_RETRIES}) — "
+                    f"desistindo, marcado failed_permanent (revisão manual)")
+            else:
+                a["status"] = "failed_retry"
+                log(f"   status studio: 'failed' (tentativa {fail_count}/{MAX_RETRIES}) — "
+                    f"será recriado na próxima sessão")
+            upsert_entry(a)
+            fail += 1
+        elif st is None:
             log(f"   status studio: {st!r}")
-            if st is None:
-                a["status"] = "lost_in_studio"; upsert_entry(a)
+            a["status"] = "lost_in_studio"; upsert_entry(a)
             fail += 1
         else:
             log(f"   ainda processando ({st})"); still += 1

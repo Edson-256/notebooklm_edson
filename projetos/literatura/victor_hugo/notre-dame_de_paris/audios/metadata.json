@@ -646,14 +646,15 @@
       "cena_filename": "L04-C01-LES_BONNES_MES_cena001.md",
       "prompt_filename": "L04-C01-LES_BONNES_MES_prompt001.md",
       "arquivo": "notredame_041_l04_c01_les_bonnes_mes_cena001.m4a",
-      "artifact_id": "85834d8a-b22b-46d2-9383-b611e106ecae",
+      "artifact_id": "db541f01-336d-4260-b07f-c506f65b6a36",
       "source_id": "7babd0b2-b1f6-41be-afcd-ac39f30acc92",
       "book_id": "L04-C01-LES_BONNES_MES",
-      "data_geracao": "2026-05-28T08:16:47.025368",
+      "data_geracao": "2026-07-21T10:45:06.913233",
       "prompt_chars": 3307,
       "language": "fr-FR",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "created",
+      "fail_count": 1
     },
     {
       "seq_global": 42,
@@ -2935,5 +2936,5 @@
     }
   ],
   "total_itens_processados": 175,
-  "ultima_atualizacao": "2026-07-16T08:11:04.509555"
+  "ultima_atualizacao": "2026-07-21T10:45:06.914228"
 }
