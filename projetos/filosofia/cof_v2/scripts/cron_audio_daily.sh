@@ -114,7 +114,7 @@ _tg_report() {
   /opt/homebrew/bin/python3 "$PROJECT_DIR/scripts/tg_notify.py" report-state \
     --slug "cof" --project "COF v2" --profile "default" --status "$_status" \
     --rc "${_rc:-}" --summary "${_sum:-}" \
-    --run-cmd "$COF_DIR/scripts/cron_audio_daily.sh" \
+    --run-cmd "bash $COF_DIR/scripts/cron_audio_daily.sh" \
     >/dev/null 2>&1 || true
 }
 _tg_report

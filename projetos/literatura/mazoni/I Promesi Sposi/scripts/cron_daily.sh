@@ -82,7 +82,7 @@ _tg_report() {
   /opt/homebrew/bin/python3 "$REPO_DIR/scripts/tg_notify.py" report-state \
     --slug "promessi" --project "$TAG" --profile "$PROFILE" --status "$_status" \
     --rc "${_rc:-}" --summary "${_sum:-}" \
-    --run-cmd "$RUNNER" \
+    --run-cmd "python3 $RUNNER" \
     >/dev/null 2>&1 || true
 }
 _tg_report
