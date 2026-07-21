@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-07-20T08:26:05.748832",
+  "atualizado": "2026-07-21T08:25:40.129575",
   "audios": [
     {
       "seq_global": 1,
@@ -493,8 +493,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-20T08:21:49.356924",
-      "status": "created",
-      "artifact_id": "b976fe45-50e1-4d12-845d-b91b0054f2f3"
+      "status": "downloaded",
+      "artifact_id": "b976fe45-50e1-4d12-845d-b91b0054f2f3",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/038_cap-012_cena-003_El-romance-de-Antonio-a-Olalla.m4a",
+      "tamanho_bytes": 20344078
     },
     {
       "seq_global": 39,
@@ -504,8 +506,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-20T08:23:56.870856",
-      "status": "created",
-      "artifact_id": "6ab0c7d2-a17c-481c-8476-8ba754794fc9"
+      "status": "downloaded",
+      "artifact_id": "6ab0c7d2-a17c-481c-8476-8ba754794fc9",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/039_cap-013_cena-001_El-muerto-de-amores-y-el-testamento-pagano.m4a",
+      "tamanho_bytes": 18838215
     },
     {
       "seq_global": 40,
@@ -515,8 +519,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-20T08:26:05.746443",
+      "status": "downloaded",
+      "artifact_id": "a9523117-d32b-4d8d-b854-d0f825743ae2",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/040_cap-013_cena-002_El-sabio-de-Salamanca-hecho-pastor.m4a",
+      "tamanho_bytes": 19451766
+    },
+    {
+      "seq_global": 41,
+      "arquivo": "041_cap-013_cena-003_Marcela-la-libertad-que-llaman-crueldad.m4a",
+      "titulo": "Marcela, la libertad que llaman crueldad",
+      "cap": 13,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-21T08:21:24.467260",
       "status": "created",
-      "artifact_id": "a9523117-d32b-4d8d-b854-d0f825743ae2"
+      "artifact_id": "a07e281f-655a-4746-8ee8-21ab5e876a76"
+    },
+    {
+      "seq_global": 42,
+      "arquivo": "042_cap-014_cena-001_El-catecismo-del-loco-en-el-camino.m4a",
+      "titulo": "El catecismo del loco en el camino",
+      "cap": 14,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-21T08:23:32.461163",
+      "status": "created",
+      "artifact_id": "e65dcf4a-6bc5-4b32-aad4-bb0fd092a1a6"
+    },
+    {
+      "seq_global": 43,
+      "arquivo": "043_cap-014_cena-002_El-suspiro-por-Dulcinea.m4a",
+      "titulo": "El suspiro por Dulcinea",
+      "cap": 14,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-21T08:25:40.127073",
+      "status": "created",
+      "artifact_id": "8636ed98-5473-428c-94b2-fa02c5813bb9"
     }
   ]
 }
