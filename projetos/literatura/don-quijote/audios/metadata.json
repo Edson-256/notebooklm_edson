@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-07-21T08:25:40.129575",
+  "atualizado": "2026-07-22T08:25:51.930920",
   "audios": [
     {
       "seq_global": 1,
@@ -532,8 +532,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-21T08:21:24.467260",
-      "status": "created",
-      "artifact_id": "a07e281f-655a-4746-8ee8-21ab5e876a76"
+      "status": "downloaded",
+      "artifact_id": "a07e281f-655a-4746-8ee8-21ab5e876a76",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/041_cap-013_cena-003_Marcela-la-libertad-que-llaman-crueldad.m4a",
+      "tamanho_bytes": 33775474
     },
     {
       "seq_global": 42,
@@ -543,8 +545,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-21T08:23:32.461163",
-      "status": "created",
-      "artifact_id": "e65dcf4a-6bc5-4b32-aad4-bb0fd092a1a6"
+      "status": "downloaded",
+      "artifact_id": "e65dcf4a-6bc5-4b32-aad4-bb0fd092a1a6",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/042_cap-014_cena-001_El-catecismo-del-loco-en-el-camino.m4a",
+      "tamanho_bytes": 28210937
     },
     {
       "seq_global": 43,
@@ -554,8 +558,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-21T08:25:40.127073",
+      "status": "downloaded",
+      "artifact_id": "8636ed98-5473-428c-94b2-fa02c5813bb9",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/043_cap-014_cena-002_El-suspiro-por-Dulcinea.m4a",
+      "tamanho_bytes": 22092728
+    },
+    {
+      "seq_global": 44,
+      "arquivo": "044_cap-014_cena-003_El-entierro-de-Grisostomo-y-el-rescate-de-los-papeles.m4a",
+      "titulo": "El entierro de Grisóstomo y el rescate de los papeles",
+      "cap": 14,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-22T08:21:34.594235",
       "status": "created",
-      "artifact_id": "8636ed98-5473-428c-94b2-fa02c5813bb9"
+      "artifact_id": "9171a346-a630-42a3-8ad9-89fa23efaf65"
+    },
+    {
+      "seq_global": 45,
+      "arquivo": "045_cap-015_cena-001_El-canto-desesperado-de-Grisostomo.m4a",
+      "titulo": "El canto desesperado de Grisóstomo",
+      "cap": 15,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-22T08:23:43.873600",
+      "status": "created",
+      "artifact_id": "7ca83175-c08b-4887-9955-d0c647850b28"
+    },
+    {
+      "seq_global": 46,
+      "arquivo": "046_cap-015_cena-002_Marcela-se-defiende-nacida-libre.m4a",
+      "titulo": "Marcela se defiende: nacida libre",
+      "cap": 15,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-22T08:25:51.928000",
+      "status": "created",
+      "artifact_id": "6ccee243-ba2c-40a1-ae92-18e59c956db5"
     }
   ]
 }
