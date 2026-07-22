@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T16:01:31Z",
+  "updated_at": "2026-07-22T20:02:35Z",
   "audios": {
     "05_etica/01_etica_nicomaco/L01-C01_cena01": {
       "artifact_id": "46097252-f46f-41a0-b77f-86b89e4b0945",
@@ -5115,99 +5115,127 @@
       "artifact_id": "c03798be-6f16-4d13-91c9-798907d491c0",
       "audio_title": "aristoteles_07_l01_c06_cena01_fisica",
       "audio_filename": "aristoteles_07_l01_c06_cena01_fisica.m4a",
-      "status": "created",
-      "created_at": "2026-07-21T15:21:05Z"
+      "status": "downloaded",
+      "created_at": "2026-07-21T15:21:05Z",
+      "downloaded_at": "2026-07-22T19:02:22Z",
+      "bytes": 30622558
     },
     "02_fisica/01_fisica/L01-C07_cena01": {
       "artifact_id": "09281ea7-82fc-4b41-88aa-0250a7087420",
       "audio_title": "aristoteles_07_l01_c07_cena01_fisica",
       "audio_filename": "aristoteles_07_l01_c07_cena01_fisica.m4a",
-      "status": "created",
-      "created_at": "2026-07-21T15:23:12Z"
+      "status": "downloaded",
+      "created_at": "2026-07-21T15:23:12Z",
+      "downloaded_at": "2026-07-22T19:03:29Z",
+      "bytes": 30303457
     },
     "02_fisica/01_fisica/L01-C08_cena01": {
       "artifact_id": "6c9b0c02-7ac4-4373-bf55-2428426b2204",
       "audio_title": "aristoteles_07_l01_c08_cena01_fisica",
       "audio_filename": "aristoteles_07_l01_c08_cena01_fisica.m4a",
-      "status": "created",
-      "created_at": "2026-07-21T15:25:21Z"
+      "status": "downloaded",
+      "created_at": "2026-07-21T15:25:21Z",
+      "downloaded_at": "2026-07-22T19:04:30Z",
+      "bytes": 32354026
     },
     "02_fisica/01_fisica/L01-C09_cena01": {
       "artifact_id": "32fb7ce5-7341-43ab-80cc-2a71de3aa878",
       "audio_title": "aristoteles_07_l01_c09_cena01_fisica",
       "audio_filename": "aristoteles_07_l01_c09_cena01_fisica.m4a",
-      "status": "created",
-      "created_at": "2026-07-21T15:27:28Z"
+      "status": "downloaded",
+      "created_at": "2026-07-21T15:27:28Z",
+      "downloaded_at": "2026-07-22T19:05:32Z",
+      "bytes": 34761166
     },
     "02_fisica/01_fisica/L02-C01_cena01": {
       "artifact_id": "d68fe8bb-fb2c-4227-88b1-bcd605565144",
       "audio_title": "aristoteles_07_l02_c01_cena01_fisica",
       "audio_filename": "aristoteles_07_l02_c01_cena01_fisica.m4a",
-      "status": "created",
-      "created_at": "2026-07-21T15:29:36Z"
+      "status": "downloaded",
+      "created_at": "2026-07-21T15:29:36Z",
+      "downloaded_at": "2026-07-22T19:06:39Z",
+      "bytes": 21669041
     },
     "02_fisica/01_fisica/L02-C02_cena01": {
       "artifact_id": "07de42e6-1fc4-42ca-8f30-03c9b265b9aa",
       "audio_title": "aristoteles_07_l02_c02_cena01_fisica",
       "audio_filename": "aristoteles_07_l02_c02_cena01_fisica.m4a",
-      "status": "created",
-      "created_at": "2026-07-21T15:31:44Z"
+      "status": "downloaded",
+      "created_at": "2026-07-21T15:31:44Z",
+      "downloaded_at": "2026-07-22T19:07:41Z",
+      "bytes": 22552389
     },
     "02_fisica/01_fisica/L02-C03_cena01": {
       "artifact_id": "1c8df74a-780d-4caf-95c1-99a61e5f201b",
       "audio_title": "aristoteles_07_l02_c03_cena01_fisica",
       "audio_filename": "aristoteles_07_l02_c03_cena01_fisica.m4a",
-      "status": "created",
-      "created_at": "2026-07-21T15:33:53Z"
+      "status": "downloaded",
+      "created_at": "2026-07-21T15:33:53Z",
+      "downloaded_at": "2026-07-22T19:08:40Z",
+      "bytes": 32511020
     },
     "02_fisica/01_fisica/L02-C04_cena01": {
       "artifact_id": "e6268d7d-6e73-442b-b669-fa85199e4a6f",
       "audio_title": "aristoteles_07_l02_c04_cena01_fisica",
       "audio_filename": "aristoteles_07_l02_c04_cena01_fisica.m4a",
-      "status": "created",
-      "created_at": "2026-07-21T15:36:00Z"
+      "status": "downloaded",
+      "created_at": "2026-07-21T15:36:00Z",
+      "downloaded_at": "2026-07-22T19:09:50Z",
+      "bytes": 42688534
     },
     "02_fisica/01_fisica/L02-C05_cena01": {
       "artifact_id": "d90d3407-5ecb-46e8-9157-65d58d8499fc",
       "audio_title": "aristoteles_07_l02_c05_cena01_fisica",
       "audio_filename": "aristoteles_07_l02_c05_cena01_fisica.m4a",
-      "status": "created",
-      "created_at": "2026-07-21T15:38:07Z"
+      "status": "downloaded",
+      "created_at": "2026-07-21T15:38:07Z",
+      "downloaded_at": "2026-07-22T19:10:56Z",
+      "bytes": 29840061
     },
     "02_fisica/01_fisica/L02-C06_cena01": {
       "artifact_id": "c207256b-9d20-43c2-96f1-79f33c4bbabe",
       "audio_title": "aristoteles_07_l02_c06_cena01_fisica",
       "audio_filename": "aristoteles_07_l02_c06_cena01_fisica.m4a",
-      "status": "created",
-      "created_at": "2026-07-21T15:40:14Z"
+      "status": "downloaded",
+      "created_at": "2026-07-21T15:40:14Z",
+      "downloaded_at": "2026-07-22T19:11:52Z",
+      "bytes": 39895176
     },
     "02_fisica/01_fisica/L02-C07_cena01": {
       "artifact_id": "ef53dc02-62ff-439f-b4e5-e6888ad5e30c",
       "audio_title": "aristoteles_07_l02_c07_cena01_fisica",
       "audio_filename": "aristoteles_07_l02_c07_cena01_fisica.m4a",
-      "status": "created",
-      "created_at": "2026-07-21T15:42:22Z"
+      "status": "downloaded",
+      "created_at": "2026-07-21T15:42:22Z",
+      "downloaded_at": "2026-07-22T19:12:54Z",
+      "bytes": 47064816
     },
     "02_fisica/01_fisica/L02-C08_cena01": {
       "artifact_id": "397b2b5b-9bf7-4ac5-a233-2114e0ae6fcd",
       "audio_title": "aristoteles_07_l02_c08_cena01_fisica",
       "audio_filename": "aristoteles_07_l02_c08_cena01_fisica.m4a",
-      "status": "created",
-      "created_at": "2026-07-21T15:44:30Z"
+      "status": "downloaded",
+      "created_at": "2026-07-21T15:44:30Z",
+      "downloaded_at": "2026-07-22T19:13:57Z",
+      "bytes": 33656579
     },
     "02_fisica/01_fisica/L02-C09_cena01": {
       "artifact_id": "d3902cb3-10c7-4ce4-abda-eed1491eff39",
       "audio_title": "aristoteles_07_l02_c09_cena01_fisica",
       "audio_filename": "aristoteles_07_l02_c09_cena01_fisica.m4a",
-      "status": "created",
-      "created_at": "2026-07-21T15:46:37Z"
+      "status": "downloaded",
+      "created_at": "2026-07-21T15:46:37Z",
+      "downloaded_at": "2026-07-22T19:14:55Z",
+      "bytes": 36207149
     },
     "02_fisica/01_fisica/L03-C01_cena01": {
       "artifact_id": "aa9737ff-3050-4f4b-a8c1-df81f00bb73d",
       "audio_title": "aristoteles_07_l03_c01_cena01_fisica",
       "audio_filename": "aristoteles_07_l03_c01_cena01_fisica.m4a",
-      "status": "created",
-      "created_at": "2026-07-21T15:48:45Z"
+      "status": "downloaded",
+      "created_at": "2026-07-21T15:48:45Z",
+      "downloaded_at": "2026-07-22T19:15:54Z",
+      "bytes": 30118822
     },
     "02_fisica/01_fisica/L03-C02_cena01": {
       "artifact_id": "849a5ada-c784-4ef2-bd03-77b414ceb046",
@@ -5220,36 +5248,186 @@
       "artifact_id": "911a8069-49f5-4c7e-b03a-67dd6e718632",
       "audio_title": "aristoteles_07_l03_c03_cena01_fisica",
       "audio_filename": "aristoteles_07_l03_c03_cena01_fisica.m4a",
-      "status": "created",
-      "created_at": "2026-07-21T15:53:01Z"
+      "status": "downloaded",
+      "created_at": "2026-07-21T15:53:01Z",
+      "downloaded_at": "2026-07-22T19:17:53Z",
+      "bytes": 42753643
     },
     "02_fisica/01_fisica/L03-C04_cena01": {
       "artifact_id": "216ccedb-f06b-4740-9686-867be70087aa",
       "audio_title": "aristoteles_07_l03_c04_cena01_fisica",
       "audio_filename": "aristoteles_07_l03_c04_cena01_fisica.m4a",
-      "status": "created",
-      "created_at": "2026-07-21T15:55:09Z"
+      "status": "downloaded",
+      "created_at": "2026-07-21T15:55:09Z",
+      "downloaded_at": "2026-07-22T19:18:54Z",
+      "bytes": 27962896
     },
     "02_fisica/01_fisica/L03-C05_cena01": {
       "artifact_id": "90bec37e-b49f-41ac-b1b5-4552ba499fe4",
       "audio_title": "aristoteles_07_l03_c05_cena01_fisica",
       "audio_filename": "aristoteles_07_l03_c05_cena01_fisica.m4a",
-      "status": "created",
-      "created_at": "2026-07-21T15:57:16Z"
+      "status": "downloaded",
+      "created_at": "2026-07-21T15:57:16Z",
+      "downloaded_at": "2026-07-22T19:19:49Z",
+      "bytes": 40679052
     },
     "02_fisica/01_fisica/L03-C06_cena01": {
       "artifact_id": "cce002b8-5b87-462e-9747-2dab55848a2a",
       "audio_title": "aristoteles_07_l03_c06_cena01_fisica",
       "audio_filename": "aristoteles_07_l03_c06_cena01_fisica.m4a",
-      "status": "created",
-      "created_at": "2026-07-21T15:59:24Z"
+      "status": "downloaded",
+      "created_at": "2026-07-21T15:59:24Z",
+      "downloaded_at": "2026-07-22T19:20:49Z",
+      "bytes": 28456081
     },
     "02_fisica/01_fisica/L03-C07_cena01": {
       "artifact_id": "2a229dba-ec91-47a1-a804-bce1869d6bb2",
       "audio_title": "aristoteles_07_l03_c07_cena01_fisica",
       "audio_filename": "aristoteles_07_l03_c07_cena01_fisica.m4a",
+      "status": "downloaded",
+      "created_at": "2026-07-21T16:01:31Z",
+      "downloaded_at": "2026-07-22T19:21:50Z",
+      "bytes": 35914941
+    },
+    "02_fisica/01_fisica/L03-C08_cena01": {
+      "artifact_id": "0d91432b-f16b-40fd-8d84-114d4f3d4e66",
+      "audio_title": "aristoteles_07_l03_c08_cena01_fisica",
+      "audio_filename": "aristoteles_07_l03_c08_cena01_fisica.m4a",
       "status": "created",
-      "created_at": "2026-07-21T16:01:31Z"
+      "created_at": "2026-07-22T19:22:06Z"
+    },
+    "02_fisica/01_fisica/L04-C01_cena01": {
+      "artifact_id": "b921ba35-dc00-4b8b-ac55-53873a2351af",
+      "audio_title": "aristoteles_07_l04_c01_cena01_fisica",
+      "audio_filename": "aristoteles_07_l04_c01_cena01_fisica.m4a",
+      "status": "created",
+      "created_at": "2026-07-22T19:24:14Z"
+    },
+    "02_fisica/01_fisica/L04-C02_cena01": {
+      "artifact_id": "25e2a7d0-273e-4f35-9847-087b579eb2fe",
+      "audio_title": "aristoteles_07_l04_c02_cena01_fisica",
+      "audio_filename": "aristoteles_07_l04_c02_cena01_fisica.m4a",
+      "status": "created",
+      "created_at": "2026-07-22T19:26:22Z"
+    },
+    "02_fisica/01_fisica/L04-C03_cena01": {
+      "artifact_id": "6e17c74a-378c-4608-9816-61824e3789a3",
+      "audio_title": "aristoteles_07_l04_c03_cena01_fisica",
+      "audio_filename": "aristoteles_07_l04_c03_cena01_fisica.m4a",
+      "status": "created",
+      "created_at": "2026-07-22T19:28:29Z"
+    },
+    "02_fisica/01_fisica/L04-C04_cena01": {
+      "artifact_id": "7c29eab4-44e9-4ef4-852b-eb954e9e905c",
+      "audio_title": "aristoteles_07_l04_c04_cena01_fisica",
+      "audio_filename": "aristoteles_07_l04_c04_cena01_fisica.m4a",
+      "status": "created",
+      "created_at": "2026-07-22T19:30:37Z"
+    },
+    "02_fisica/01_fisica/L04-C05_cena01": {
+      "artifact_id": "ae569615-1e54-4c81-9c84-6bd72942a686",
+      "audio_title": "aristoteles_07_l04_c05_cena01_fisica",
+      "audio_filename": "aristoteles_07_l04_c05_cena01_fisica.m4a",
+      "status": "created",
+      "created_at": "2026-07-22T19:32:44Z"
+    },
+    "02_fisica/01_fisica/L04-C06_cena01": {
+      "artifact_id": "51e1f28b-cb31-4c2c-9720-d1acaf8dcbb9",
+      "audio_title": "aristoteles_07_l04_c06_cena01_fisica",
+      "audio_filename": "aristoteles_07_l04_c06_cena01_fisica.m4a",
+      "status": "created",
+      "created_at": "2026-07-22T19:34:51Z"
+    },
+    "02_fisica/01_fisica/L04-C07_cena01": {
+      "artifact_id": "2cb90742-a043-442e-82f5-11713964f617",
+      "audio_title": "aristoteles_07_l04_c07_cena01_fisica",
+      "audio_filename": "aristoteles_07_l04_c07_cena01_fisica.m4a",
+      "status": "created",
+      "created_at": "2026-07-22T19:36:58Z"
+    },
+    "02_fisica/01_fisica/L04-C08_cena01": {
+      "artifact_id": "f21e41de-a282-486c-a551-3df3f532a2c8",
+      "audio_title": "aristoteles_07_l04_c08_cena01_fisica",
+      "audio_filename": "aristoteles_07_l04_c08_cena01_fisica.m4a",
+      "status": "created",
+      "created_at": "2026-07-22T19:39:06Z"
+    },
+    "02_fisica/01_fisica/L04-C09_cena01": {
+      "artifact_id": "9b9376f9-73e2-4893-87b8-451d1cad1ca6",
+      "audio_title": "aristoteles_07_l04_c09_cena01_fisica",
+      "audio_filename": "aristoteles_07_l04_c09_cena01_fisica.m4a",
+      "status": "created",
+      "created_at": "2026-07-22T19:41:13Z"
+    },
+    "02_fisica/01_fisica/L04-C10_cena01": {
+      "artifact_id": "90bcff1c-e9d9-4a2d-942c-e7a3b7c754f4",
+      "audio_title": "aristoteles_07_l04_c10_cena01_fisica",
+      "audio_filename": "aristoteles_07_l04_c10_cena01_fisica.m4a",
+      "status": "created",
+      "created_at": "2026-07-22T19:43:22Z"
+    },
+    "02_fisica/01_fisica/L04-C11_cena01": {
+      "artifact_id": "81287522-9851-4d40-96ba-f8b2f865caf6",
+      "audio_title": "aristoteles_07_l04_c11_cena01_fisica",
+      "audio_filename": "aristoteles_07_l04_c11_cena01_fisica.m4a",
+      "status": "created",
+      "created_at": "2026-07-22T19:45:30Z"
+    },
+    "02_fisica/01_fisica/L04-C12_cena01": {
+      "artifact_id": "205ba3e6-bc79-4cfe-bdb1-88aeef4e3a2c",
+      "audio_title": "aristoteles_07_l04_c12_cena01_fisica",
+      "audio_filename": "aristoteles_07_l04_c12_cena01_fisica.m4a",
+      "status": "created",
+      "created_at": "2026-07-22T19:47:39Z"
+    },
+    "02_fisica/01_fisica/L04-C13_cena01": {
+      "artifact_id": "5c4ec8eb-d55c-4a29-863b-8c896fed8b69",
+      "audio_title": "aristoteles_07_l04_c13_cena01_fisica",
+      "audio_filename": "aristoteles_07_l04_c13_cena01_fisica.m4a",
+      "status": "created",
+      "created_at": "2026-07-22T19:49:48Z"
+    },
+    "02_fisica/01_fisica/L04-C14_cena01": {
+      "artifact_id": "4294ee42-3590-4c79-9a19-fc29137ae71f",
+      "audio_title": "aristoteles_07_l04_c14_cena01_fisica",
+      "audio_filename": "aristoteles_07_l04_c14_cena01_fisica.m4a",
+      "status": "created",
+      "created_at": "2026-07-22T19:51:55Z"
+    },
+    "02_fisica/01_fisica/L05-C01_cena01": {
+      "artifact_id": "bcb2451e-e12e-4ff2-880f-42c293d8e7de",
+      "audio_title": "aristoteles_07_l05_c01_cena01_fisica",
+      "audio_filename": "aristoteles_07_l05_c01_cena01_fisica.m4a",
+      "status": "created",
+      "created_at": "2026-07-22T19:54:04Z"
+    },
+    "02_fisica/01_fisica/L05-C02_cena01": {
+      "artifact_id": "4305e3b6-09fd-4e4d-8cf2-077513f3fabb",
+      "audio_title": "aristoteles_07_l05_c02_cena01_fisica",
+      "audio_filename": "aristoteles_07_l05_c02_cena01_fisica.m4a",
+      "status": "created",
+      "created_at": "2026-07-22T19:56:12Z"
+    },
+    "02_fisica/01_fisica/L05-C03_cena01": {
+      "artifact_id": "6016d397-c982-4f4b-98fe-7d2fa006510f",
+      "audio_title": "aristoteles_07_l05_c03_cena01_fisica",
+      "audio_filename": "aristoteles_07_l05_c03_cena01_fisica.m4a",
+      "status": "created",
+      "created_at": "2026-07-22T19:58:20Z"
+    },
+    "02_fisica/01_fisica/L05-C04_cena01": {
+      "artifact_id": "41edc703-0aeb-44cb-beff-f734160d5bee",
+      "audio_title": "aristoteles_07_l05_c04_cena01_fisica",
+      "audio_filename": "aristoteles_07_l05_c04_cena01_fisica.m4a",
+      "status": "created",
+      "created_at": "2026-07-22T20:00:28Z"
+    },
+    "02_fisica/01_fisica/L05-C05_cena01": {
+      "artifact_id": "4b167db6-7773-4fe3-8717-4b65e00105a8",
+      "audio_title": "aristoteles_07_l05_c05_cena01_fisica",
+      "audio_filename": "aristoteles_07_l05_c05_cena01_fisica.m4a",
+      "status": "created",
+      "created_at": "2026-07-22T20:02:35Z"
     }
   }
 }
