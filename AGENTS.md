@@ -1,5 +1,7 @@
 # Agent Instructions
 
+<!-- bd-doctor-divergence: ok — AGENTS.md (generic bd bootstrap) and CLAUDE.md (full project doc) are intentionally different, distinct audiences -->
+
 This project uses **bd** (beads) for issue tracking. Run `bd onboard` to get started.
 
 ## Quick Reference
