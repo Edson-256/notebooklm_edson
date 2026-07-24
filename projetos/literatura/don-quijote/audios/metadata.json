@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-07-23T08:25:55.257100",
+  "atualizado": "2026-07-24T08:26:18.987341",
   "audios": [
     {
       "seq_global": 1,
@@ -610,8 +610,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-23T08:21:38.052202",
-      "status": "created",
-      "artifact_id": "183dd51f-3b0a-4a8f-afb9-0c09c64c9f5d"
+      "status": "downloaded",
+      "artifact_id": "183dd51f-3b0a-4a8f-afb9-0c09c64c9f5d",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/047_cap-015_cena-003_La-espada-de-Don-Quijote-por-la-verdad.m4a",
+      "tamanho_bytes": 37359547
     },
     {
       "seq_global": 48,
@@ -621,8 +623,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-23T08:23:46.875410",
-      "status": "created",
-      "artifact_id": "6ec818a1-a9ed-4b1d-b36b-80221df358e7"
+      "status": "downloaded",
+      "artifact_id": "6ec818a1-a9ed-4b1d-b36b-80221df358e7",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/048_cap-016_cena-001_Yo-valgo-por-ciento-el-arrojo-que-no-calcula.m4a",
+      "tamanho_bytes": 24001361
     },
     {
       "seq_global": 49,
@@ -632,8 +636,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-23T08:25:55.254347",
+      "status": "downloaded",
+      "artifact_id": "55fc0823-3373-4381-ac0b-3947dcd4ba1b",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/049_cap-016_cena-002_El-pacifismo-de-Sancho-frente-a-la-promesa-de-la-insula.m4a",
+      "tamanho_bytes": 48161070
+    },
+    {
+      "seq_global": 50,
+      "arquivo": "050_cap-016_cena-003_Las-estacas-que-no-afrentan-la-realidad-reescrita-por-los-libros.m4a",
+      "titulo": "Las estacas que no afrentan: la realidad reescrita por los libros",
+      "cap": 16,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-24T08:22:02.068200",
       "status": "created",
-      "artifact_id": "55fc0823-3373-4381-ac0b-3947dcd4ba1b"
+      "artifact_id": "ea460fac-d1b4-497d-a09e-353c5d0e0510"
+    },
+    {
+      "seq_global": 51,
+      "arquivo": "051_cap-017_cena-001_La-venta-que-el-imaginaba-castillo.m4a",
+      "titulo": "La venta que él imaginaba castillo",
+      "cap": 17,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-24T08:24:10.743201",
+      "status": "created",
+      "artifact_id": "9307de3c-5586-4443-933a-6bcb83a019ea"
+    },
+    {
+      "seq_global": 52,
+      "arquivo": "052_cap-017_cena-002_Maritornes-convertida-en-diosa.m4a",
+      "titulo": "Maritornes convertida en diosa",
+      "cap": 17,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-24T08:26:18.985109",
+      "status": "created",
+      "artifact_id": "0e757c8d-48db-4dd0-a352-61e71dd6e836"
     }
   ]
 }
