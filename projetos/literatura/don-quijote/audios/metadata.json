@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-07-24T08:26:18.987341",
+  "atualizado": "2026-07-25T08:25:25.457435",
   "audios": [
     {
       "seq_global": 1,
@@ -649,8 +649,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-24T08:22:02.068200",
-      "status": "created",
-      "artifact_id": "ea460fac-d1b4-497d-a09e-353c5d0e0510"
+      "status": "downloaded",
+      "artifact_id": "ea460fac-d1b4-497d-a09e-353c5d0e0510",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/050_cap-016_cena-003_Las-estacas-que-no-afrentan-la-realidad-reescrita-por-los-libros.m4a",
+      "tamanho_bytes": 25235932
     },
     {
       "seq_global": 51,
@@ -660,8 +662,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-24T08:24:10.743201",
-      "status": "created",
-      "artifact_id": "9307de3c-5586-4443-933a-6bcb83a019ea"
+      "status": "downloaded",
+      "artifact_id": "9307de3c-5586-4443-933a-6bcb83a019ea",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/051_cap-017_cena-001_La-venta-que-el-imaginaba-castillo.m4a",
+      "tamanho_bytes": 23149505
     },
     {
       "seq_global": 52,
@@ -671,8 +675,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-24T08:26:18.985109",
+      "status": "downloaded",
+      "artifact_id": "0e757c8d-48db-4dd0-a352-61e71dd6e836",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/052_cap-017_cena-002_Maritornes-convertida-en-diosa.m4a",
+      "tamanho_bytes": 35568199
+    },
+    {
+      "seq_global": 53,
+      "arquivo": "053_cap-017_cena-003_La-escaramuza-a-oscuras.m4a",
+      "titulo": "La escaramuza a oscuras",
+      "cap": 17,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-25T08:21:09.667790",
       "status": "created",
-      "artifact_id": "0e757c8d-48db-4dd0-a352-61e71dd6e836"
+      "artifact_id": "c3f2bc2e-1742-4336-8c37-9f6ba9f6a387"
+    },
+    {
+      "seq_global": 54,
+      "arquivo": "054_cap-018_cena-001_La-aventura-encantada-y-el-candilazo.m4a",
+      "titulo": "La aventura encantada y el candilazo",
+      "cap": 18,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-25T08:23:17.645902",
+      "status": "created",
+      "artifact_id": "8f7f320a-c00f-488e-8327-135d63ce629b"
+    },
+    {
+      "seq_global": 55,
+      "arquivo": "055_cap-018_cena-002_El-balsamo-de-Fierabras.m4a",
+      "titulo": "El balsamo de Fierabras",
+      "cap": 18,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-25T08:25:25.453432",
+      "status": "created",
+      "artifact_id": "a179ff6f-70fa-4ada-b9ee-050c53120fd1"
     }
   ]
 }
