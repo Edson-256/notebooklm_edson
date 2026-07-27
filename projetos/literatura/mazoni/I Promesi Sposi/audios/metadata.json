@@ -3530,7 +3530,9 @@
       "prompt_chars": 2958,
       "language": "it-IT",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/mazoni/I Promesi Sposi/audios/promessi_210_c_23_promesi_sposi_cena004.m4a",
+      "tamanho_bytes": 32728409
     },
     {
       "seq_global": 211,
@@ -3545,7 +3547,9 @@
       "prompt_chars": 2958,
       "language": "it-IT",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/mazoni/I Promesi Sposi/audios/promessi_211_c_23_promesi_sposi_cena005.m4a",
+      "tamanho_bytes": 36547915
     },
     {
       "seq_global": 212,
@@ -3560,9 +3564,56 @@
       "prompt_chars": 2958,
       "language": "it-IT",
       "audio_format": "deep_dive",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/mazoni/I Promesi Sposi/audios/promessi_212_c_23_promesi_sposi_cena006.m4a",
+      "tamanho_bytes": 27950851
+    },
+    {
+      "seq_global": 213,
+      "scene_identifier": "C_23-Promesi Sposi_cena007",
+      "cena_filename": "C_23-Promesi Sposi_cena007.md",
+      "prompt_filename": "C_23-Promesi Sposi_prompt007.md",
+      "arquivo": "promessi_213_c_23_promesi_sposi_cena007.m4a",
+      "artifact_id": "0da1ae2a-9e52-4e35-a51f-81f12893173b",
+      "source_id": "4d146bb3-6145-4205-b2df-e4356749e735",
+      "book_id": "C_23-Promesi Sposi",
+      "data_geracao": "2026-07-27T08:01:52.177583",
+      "prompt_chars": 2958,
+      "language": "it-IT",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 214,
+      "scene_identifier": "C_23-Promesi Sposi_cena008",
+      "cena_filename": "C_23-Promesi Sposi_cena008.md",
+      "prompt_filename": "C_23-Promesi Sposi_prompt008.md",
+      "arquivo": "promessi_214_c_23_promesi_sposi_cena008.m4a",
+      "artifact_id": "4fc4ecfb-0a5d-4330-a714-629fd4de4a49",
+      "source_id": "4d146bb3-6145-4205-b2df-e4356749e735",
+      "book_id": "C_23-Promesi Sposi",
+      "data_geracao": "2026-07-27T08:04:06.178840",
+      "prompt_chars": 2958,
+      "language": "it-IT",
+      "audio_format": "deep_dive",
+      "status": "created"
+    },
+    {
+      "seq_global": 215,
+      "scene_identifier": "C_23-Promesi Sposi_cena009",
+      "cena_filename": "C_23-Promesi Sposi_cena009.md",
+      "prompt_filename": "C_23-Promesi Sposi_prompt009.md",
+      "arquivo": "promessi_215_c_23_promesi_sposi_cena009.m4a",
+      "artifact_id": "75cc0750-698e-49ba-8d26-0fdaf16962fd",
+      "source_id": "4d146bb3-6145-4205-b2df-e4356749e735",
+      "book_id": "C_23-Promesi Sposi",
+      "data_geracao": "2026-07-27T08:06:28.123163",
+      "prompt_chars": 2919,
+      "language": "it-IT",
+      "audio_format": "deep_dive",
       "status": "created"
     }
   ],
-  "total_itens_processados": 212,
-  "ultima_atualizacao": "2026-07-26T08:06:40.038714"
+  "total_itens_processados": 215,
+  "ultima_atualizacao": "2026-07-27T08:06:28.126797"
 }
