@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-07-26T08:25:51.220421",
+  "atualizado": "2026-07-27T08:25:38.811972",
   "audios": [
     {
       "seq_global": 1,
@@ -727,8 +727,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-26T08:21:34.869260",
-      "status": "created",
-      "artifact_id": "fce3d4f4-15ab-4f74-9c26-b9e3825bf2d9"
+      "status": "downloaded",
+      "artifact_id": "fce3d4f4-15ab-4f74-9c26-b9e3825bf2d9",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/056_cap-018_cena-003_La-cuenta-impaga-y-el-manteamiento-de-Sancho.m4a",
+      "tamanho_bytes": 23375857
     },
     {
       "seq_global": 57,
@@ -738,8 +740,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-26T08:23:43.043189",
-      "status": "created",
-      "artifact_id": "7b6b7a48-958a-4efb-a1e3-8ceaacdda1b8"
+      "status": "downloaded",
+      "artifact_id": "7b6b7a48-958a-4efb-a1e3-8ceaacdda1b8",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/057_cap-019_cena-001_Fantasmas-o-carne-y-hueso-Sancho-nombra-la-realidad.m4a",
+      "tamanho_bytes": 35090726
     },
     {
       "seq_global": 58,
@@ -749,8 +753,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-26T08:25:51.214271",
+      "status": "downloaded",
+      "artifact_id": "ff9c5004-29f3-4e57-9fcf-95734ebc949e",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/058_cap-019_cena-002_Los-dos-ejercitos-de-polvo.m4a",
+      "tamanho_bytes": 37292313
+    },
+    {
+      "seq_global": 59,
+      "arquivo": "059_cap-019_cena-003_La-carga-contra-los-carneros.m4a",
+      "titulo": "La carga contra los carneros",
+      "cap": 19,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-27T08:21:19.803381",
       "status": "created",
-      "artifact_id": "ff9c5004-29f3-4e57-9fcf-95734ebc949e"
+      "artifact_id": "da6e1a1a-81d1-4ca6-8701-69a6b4c9257b"
+    },
+    {
+      "seq_global": 60,
+      "arquivo": "060_cap-019_cena-004_El-sermon-del-molino-sin-piedra.m4a",
+      "titulo": "El sermon del molino sin piedra",
+      "cap": 19,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-27T08:23:29.123221",
+      "status": "created",
+      "artifact_id": "f71e46ee-fd54-41b5-ab32-e372c63a9443"
+    },
+    {
+      "seq_global": 61,
+      "arquivo": "061_cap-020_cena-001_El-pecado-del-juramento-olvidado.m4a",
+      "titulo": "El pecado del juramento olvidado",
+      "cap": 20,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-27T08:25:38.805937",
+      "status": "created",
+      "artifact_id": "dc9a329d-ced7-42c1-b962-5c54051b6aa6"
     }
   ]
 }
