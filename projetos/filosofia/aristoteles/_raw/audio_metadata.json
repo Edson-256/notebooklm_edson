@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T07:56:30Z",
+  "updated_at": "2026-07-28T10:13:39Z",
   "audios": {
     "05_etica/01_etica_nicomaco/L01-C01_cena01": {
       "artifact_id": "46097252-f46f-41a0-b77f-86b89e4b0945",
@@ -5908,218 +5908,420 @@
       "artifact_id": "dd70e17c-584c-4094-8887-d312a4691512",
       "audio_title": "aristoteles_08_l02_c07_cena01_sobre_o_ceu",
       "audio_filename": "aristoteles_08_l02_c07_cena01_sobre_o_ceu.m4a",
-      "status": "created",
-      "created_at": "2026-07-26T05:34:40Z"
+      "status": "downloaded",
+      "created_at": "2026-07-26T05:34:40Z",
+      "downloaded_at": "2026-07-28T09:03:56Z",
+      "bytes": 56228251
     },
     "02_fisica/02_sobre_o_ceu/L02-C08_cena01": {
       "artifact_id": "be591239-d3cc-4580-a7f1-82d43986c98b",
       "audio_title": "aristoteles_08_l02_c08_cena01_sobre_o_ceu",
       "audio_filename": "aristoteles_08_l02_c08_cena01_sobre_o_ceu.m4a",
-      "status": "created",
-      "created_at": "2026-07-26T05:36:43Z"
+      "status": "downloaded",
+      "created_at": "2026-07-26T05:36:43Z",
+      "downloaded_at": "2026-07-28T09:05:00Z",
+      "bytes": 26853104
     },
     "02_fisica/02_sobre_o_ceu/L02-C09_cena01": {
       "artifact_id": "7ea15d48-49a7-4cfe-979d-850f8bfaee2e",
       "audio_title": "aristoteles_08_l02_c09_cena01_sobre_o_ceu",
       "audio_filename": "aristoteles_08_l02_c09_cena01_sobre_o_ceu.m4a",
-      "status": "created",
-      "created_at": "2026-07-26T05:38:47Z"
+      "status": "downloaded",
+      "created_at": "2026-07-26T05:38:47Z",
+      "downloaded_at": "2026-07-28T09:05:57Z",
+      "bytes": 53233823
     },
     "02_fisica/02_sobre_o_ceu/L02-C10_cena01": {
       "artifact_id": "ff9e110f-fff8-4840-89ae-faae9f8cc690",
       "audio_title": "aristoteles_08_l02_c10_cena01_sobre_o_ceu",
       "audio_filename": "aristoteles_08_l02_c10_cena01_sobre_o_ceu.m4a",
-      "status": "created",
-      "created_at": "2026-07-26T05:40:50Z"
+      "status": "downloaded",
+      "created_at": "2026-07-26T05:40:50Z",
+      "downloaded_at": "2026-07-28T09:06:57Z",
+      "bytes": 50772150
     },
     "02_fisica/02_sobre_o_ceu/L02-C11_cena01": {
       "artifact_id": "9f6934f2-0f76-4e20-bff0-0b1f3a824c35",
       "audio_title": "aristoteles_08_l02_c11_cena01_sobre_o_ceu",
       "audio_filename": "aristoteles_08_l02_c11_cena01_sobre_o_ceu.m4a",
-      "status": "created",
-      "created_at": "2026-07-26T05:42:54Z"
+      "status": "downloaded",
+      "created_at": "2026-07-26T05:42:54Z",
+      "downloaded_at": "2026-07-28T09:07:57Z",
+      "bytes": 48288929
     },
     "02_fisica/02_sobre_o_ceu/L02-C12_cena01": {
       "artifact_id": "cc452f0e-de73-4ab2-b420-8ad6c2e1d9b0",
       "audio_title": "aristoteles_08_l02_c12_cena01_sobre_o_ceu",
       "audio_filename": "aristoteles_08_l02_c12_cena01_sobre_o_ceu.m4a",
-      "status": "created",
-      "created_at": "2026-07-26T05:44:58Z"
+      "status": "downloaded",
+      "created_at": "2026-07-26T05:44:58Z",
+      "downloaded_at": "2026-07-28T09:09:00Z",
+      "bytes": 28228866
     },
     "02_fisica/02_sobre_o_ceu/L02-C13_cena01": {
       "artifact_id": "24e4f7f9-3141-49a1-947a-f3363977d8ee",
       "audio_title": "aristoteles_08_l02_c13_cena01_sobre_o_ceu",
       "audio_filename": "aristoteles_08_l02_c13_cena01_sobre_o_ceu.m4a",
-      "status": "created",
-      "created_at": "2026-07-26T05:47:01Z"
+      "status": "downloaded",
+      "created_at": "2026-07-26T05:47:01Z",
+      "downloaded_at": "2026-07-28T09:09:57Z",
+      "bytes": 43381271
     },
     "02_fisica/02_sobre_o_ceu/L02-C13_cena02": {
       "artifact_id": "16469872-4526-49ba-8794-7be9c8604b7c",
       "audio_title": "aristoteles_08_l02_c13_cena02_sobre_o_ceu",
       "audio_filename": "aristoteles_08_l02_c13_cena02_sobre_o_ceu.m4a",
-      "status": "created",
-      "created_at": "2026-07-26T05:49:05Z"
+      "status": "downloaded",
+      "created_at": "2026-07-26T05:49:05Z",
+      "downloaded_at": "2026-07-28T09:10:55Z",
+      "bytes": 30246682
     },
     "02_fisica/02_sobre_o_ceu/L02-C14_cena01": {
       "artifact_id": "828109d1-18cf-4400-b2db-90ed51851fa9",
       "audio_title": "aristoteles_08_l02_c14_cena01_sobre_o_ceu",
       "audio_filename": "aristoteles_08_l02_c14_cena01_sobre_o_ceu.m4a",
-      "status": "created",
-      "created_at": "2026-07-26T05:51:09Z"
+      "status": "downloaded",
+      "created_at": "2026-07-26T05:51:09Z",
+      "downloaded_at": "2026-07-28T09:11:49Z",
+      "bytes": 28744554
     },
     "02_fisica/02_sobre_o_ceu/L03-C01_cena01": {
       "artifact_id": "d34ce00f-7431-42b9-b7d5-b1fd8e7afd41",
       "audio_title": "aristoteles_08_l03_c01_cena01_sobre_o_ceu",
       "audio_filename": "aristoteles_08_l03_c01_cena01_sobre_o_ceu.m4a",
-      "status": "created",
-      "created_at": "2026-07-26T05:53:13Z"
+      "status": "downloaded",
+      "created_at": "2026-07-26T05:53:13Z",
+      "downloaded_at": "2026-07-28T09:12:46Z",
+      "bytes": 24275640
     },
     "02_fisica/02_sobre_o_ceu/L03-C02_cena01": {
       "artifact_id": "96566ae1-7d98-486d-9675-89d690d87a11",
       "audio_title": "aristoteles_08_l03_c02_cena01_sobre_o_ceu",
       "audio_filename": "aristoteles_08_l03_c02_cena01_sobre_o_ceu.m4a",
-      "status": "created",
-      "created_at": "2026-07-26T05:55:17Z"
+      "status": "downloaded",
+      "created_at": "2026-07-26T05:55:17Z",
+      "downloaded_at": "2026-07-28T09:13:42Z",
+      "bytes": 38915461
     },
     "02_fisica/02_sobre_o_ceu/L03-C03_cena01": {
       "artifact_id": "3570b972-b2df-4959-a073-f831db8a2456",
       "audio_title": "aristoteles_08_l03_c03_cena01_sobre_o_ceu",
       "audio_filename": "aristoteles_08_l03_c03_cena01_sobre_o_ceu.m4a",
-      "status": "created",
-      "created_at": "2026-07-27T07:17:04Z"
+      "status": "downloaded",
+      "created_at": "2026-07-27T07:17:04Z",
+      "downloaded_at": "2026-07-28T09:14:51Z",
+      "bytes": 30048600
     },
     "02_fisica/02_sobre_o_ceu/L03-C04_cena01": {
       "artifact_id": "43b03489-a796-4dd0-88b3-80c33e39ce05",
       "audio_title": "aristoteles_08_l03_c04_cena01_sobre_o_ceu",
       "audio_filename": "aristoteles_08_l03_c04_cena01_sobre_o_ceu.m4a",
-      "status": "created",
-      "created_at": "2026-07-27T07:19:08Z"
+      "status": "downloaded",
+      "created_at": "2026-07-27T07:19:08Z",
+      "downloaded_at": "2026-07-28T09:15:50Z",
+      "bytes": 52886335
     },
     "02_fisica/02_sobre_o_ceu/L03-C05_cena01": {
       "artifact_id": "bea7a1f7-61e2-4978-b079-9e94a992eba6",
       "audio_title": "aristoteles_08_l03_c05_cena01_sobre_o_ceu",
       "audio_filename": "aristoteles_08_l03_c05_cena01_sobre_o_ceu.m4a",
-      "status": "created",
-      "created_at": "2026-07-27T07:21:12Z"
+      "status": "downloaded",
+      "created_at": "2026-07-27T07:21:12Z",
+      "downloaded_at": "2026-07-28T09:16:50Z",
+      "bytes": 33562452
     },
     "02_fisica/02_sobre_o_ceu/L03-C06_cena01": {
       "artifact_id": "eb15767d-ccc4-4409-9418-a489a90275eb",
       "audio_title": "aristoteles_08_l03_c06_cena01_sobre_o_ceu",
       "audio_filename": "aristoteles_08_l03_c06_cena01_sobre_o_ceu.m4a",
-      "status": "created",
-      "created_at": "2026-07-27T07:23:15Z"
+      "status": "downloaded",
+      "created_at": "2026-07-27T07:23:15Z",
+      "downloaded_at": "2026-07-28T09:17:47Z",
+      "bytes": 29217546
     },
     "02_fisica/02_sobre_o_ceu/L03-C07_cena01": {
       "artifact_id": "bdc77a3c-fe29-496f-9d42-5fdaa21d0ab9",
       "audio_title": "aristoteles_08_l03_c07_cena01_sobre_o_ceu",
       "audio_filename": "aristoteles_08_l03_c07_cena01_sobre_o_ceu.m4a",
-      "status": "created",
-      "created_at": "2026-07-27T07:25:20Z"
+      "status": "downloaded",
+      "created_at": "2026-07-27T07:25:20Z",
+      "downloaded_at": "2026-07-28T09:18:45Z",
+      "bytes": 26534787
     },
     "02_fisica/02_sobre_o_ceu/L03-C08_cena01": {
       "artifact_id": "a774f539-cd67-4361-a2e6-eb5f09b3ef5e",
       "audio_title": "aristoteles_08_l03_c08_cena01_sobre_o_ceu",
       "audio_filename": "aristoteles_08_l03_c08_cena01_sobre_o_ceu.m4a",
-      "status": "created",
-      "created_at": "2026-07-27T07:27:26Z"
+      "status": "downloaded",
+      "created_at": "2026-07-27T07:27:26Z",
+      "downloaded_at": "2026-07-28T09:19:40Z",
+      "bytes": 25596868
     },
     "02_fisica/02_sobre_o_ceu/L04-C01_cena01": {
       "artifact_id": "1b1a72d2-73e6-47f4-9fd6-f03b6a122d0d",
       "audio_title": "aristoteles_08_l04_c01_cena01_sobre_o_ceu",
       "audio_filename": "aristoteles_08_l04_c01_cena01_sobre_o_ceu.m4a",
-      "status": "created",
-      "created_at": "2026-07-27T07:29:31Z"
+      "status": "downloaded",
+      "created_at": "2026-07-27T07:29:31Z",
+      "downloaded_at": "2026-07-28T09:20:39Z",
+      "bytes": 47058093
     },
     "02_fisica/02_sobre_o_ceu/L04-C02_cena01": {
       "artifact_id": "b9b77e23-f4ee-48de-8222-b7a865d45cee",
       "audio_title": "aristoteles_08_l04_c02_cena01_sobre_o_ceu",
       "audio_filename": "aristoteles_08_l04_c02_cena01_sobre_o_ceu.m4a",
-      "status": "created",
-      "created_at": "2026-07-27T07:31:36Z"
+      "status": "downloaded",
+      "created_at": "2026-07-27T07:31:36Z",
+      "downloaded_at": "2026-07-28T09:21:44Z",
+      "bytes": 46024591
     },
     "02_fisica/02_sobre_o_ceu/L04-C03_cena01": {
       "artifact_id": "a66d7a79-b54e-41fd-9440-f15da0268619",
       "audio_title": "aristoteles_08_l04_c03_cena01_sobre_o_ceu",
       "audio_filename": "aristoteles_08_l04_c03_cena01_sobre_o_ceu.m4a",
-      "status": "created",
-      "created_at": "2026-07-27T07:33:41Z"
+      "status": "downloaded",
+      "created_at": "2026-07-27T07:33:41Z",
+      "downloaded_at": "2026-07-28T09:22:42Z",
+      "bytes": 20672891
     },
     "02_fisica/02_sobre_o_ceu/L04-C04_cena01": {
       "artifact_id": "763b1f62-95d2-4dbf-9eb8-9129f1616350",
       "audio_title": "aristoteles_08_l04_c04_cena01_sobre_o_ceu",
       "audio_filename": "aristoteles_08_l04_c04_cena01_sobre_o_ceu.m4a",
-      "status": "created",
-      "created_at": "2026-07-27T07:35:46Z"
+      "status": "downloaded",
+      "created_at": "2026-07-27T07:35:46Z",
+      "downloaded_at": "2026-07-28T09:23:37Z",
+      "bytes": 26438381
     },
     "02_fisica/02_sobre_o_ceu/L04-C05_cena01": {
       "artifact_id": "91bd5c20-33f6-42b5-89f1-3ea382cad526",
       "audio_title": "aristoteles_08_l04_c05_cena01_sobre_o_ceu",
       "audio_filename": "aristoteles_08_l04_c05_cena01_sobre_o_ceu.m4a",
-      "status": "created",
-      "created_at": "2026-07-27T07:37:52Z"
+      "status": "downloaded",
+      "created_at": "2026-07-27T07:37:52Z",
+      "downloaded_at": "2026-07-28T09:24:35Z",
+      "bytes": 41409140
     },
     "02_fisica/02_sobre_o_ceu/L04-C06_cena01": {
       "artifact_id": "3ad86249-f5b1-4673-9c4a-9701be70a61b",
       "audio_title": "aristoteles_08_l04_c06_cena01_sobre_o_ceu",
       "audio_filename": "aristoteles_08_l04_c06_cena01_sobre_o_ceu.m4a",
-      "status": "created",
-      "created_at": "2026-07-27T07:39:58Z"
+      "status": "downloaded",
+      "created_at": "2026-07-27T07:39:58Z",
+      "downloaded_at": "2026-07-28T09:25:37Z",
+      "bytes": 49720719
     },
     "02_fisica/03_geracao_corrupcao/L01-C01_cena01": {
       "artifact_id": "dee67468-96a6-4abc-a4ba-c0a5c0ada22e",
       "audio_title": "aristoteles_09_l01_c01_cena01_geracao_corrupcao",
       "audio_filename": "aristoteles_09_l01_c01_cena01_geracao_corrupcao.m4a",
-      "status": "created",
-      "created_at": "2026-07-27T07:42:03Z"
+      "status": "downloaded",
+      "created_at": "2026-07-27T07:42:03Z",
+      "downloaded_at": "2026-07-28T09:26:39Z",
+      "bytes": 26582560
     },
     "02_fisica/03_geracao_corrupcao/L01-C02_cena01": {
       "artifact_id": "43e95dbd-9094-42b6-88fa-de9ba970edd1",
       "audio_title": "aristoteles_09_l01_c02_cena01_geracao_corrupcao",
       "audio_filename": "aristoteles_09_l01_c02_cena01_geracao_corrupcao.m4a",
-      "status": "created",
-      "created_at": "2026-07-27T07:44:06Z"
+      "status": "downloaded",
+      "created_at": "2026-07-27T07:44:06Z",
+      "downloaded_at": "2026-07-28T09:27:41Z",
+      "bytes": 42397820
     },
     "02_fisica/03_geracao_corrupcao/L01-C02_cena02": {
       "artifact_id": "93ed1c0c-715d-47e8-ae13-dd5a2a399bed",
       "audio_title": "aristoteles_09_l01_c02_cena02_geracao_corrupcao",
       "audio_filename": "aristoteles_09_l01_c02_cena02_geracao_corrupcao.m4a",
-      "status": "created",
-      "created_at": "2026-07-27T07:46:11Z"
+      "status": "downloaded",
+      "created_at": "2026-07-27T07:46:11Z",
+      "downloaded_at": "2026-07-28T09:28:47Z",
+      "bytes": 41572858
     },
     "02_fisica/03_geracao_corrupcao/L01-C03_cena01": {
       "artifact_id": "a3308623-e8b5-4e4e-8761-6af69770fafe",
       "audio_title": "aristoteles_09_l01_c03_cena01_geracao_corrupcao",
       "audio_filename": "aristoteles_09_l01_c03_cena01_geracao_corrupcao.m4a",
-      "status": "created",
-      "created_at": "2026-07-27T07:48:15Z"
+      "status": "downloaded",
+      "created_at": "2026-07-27T07:48:15Z",
+      "downloaded_at": "2026-07-28T09:29:52Z",
+      "bytes": 32224042
     },
     "02_fisica/03_geracao_corrupcao/L01-C03_cena02": {
       "artifact_id": "4e003805-14d0-443e-b810-7a91ad49a459",
       "audio_title": "aristoteles_09_l01_c03_cena02_geracao_corrupcao",
       "audio_filename": "aristoteles_09_l01_c03_cena02_geracao_corrupcao.m4a",
-      "status": "created",
-      "created_at": "2026-07-27T07:50:18Z"
+      "status": "downloaded",
+      "created_at": "2026-07-27T07:50:18Z",
+      "downloaded_at": "2026-07-28T09:30:53Z",
+      "bytes": 21603302
     },
     "02_fisica/03_geracao_corrupcao/L01-C04_cena01": {
       "artifact_id": "97675266-70a6-462f-84eb-181ed037b6c2",
       "audio_title": "aristoteles_09_l01_c04_cena01_geracao_corrupcao",
       "audio_filename": "aristoteles_09_l01_c04_cena01_geracao_corrupcao.m4a",
-      "status": "created",
-      "created_at": "2026-07-27T07:52:22Z"
+      "status": "downloaded",
+      "created_at": "2026-07-27T07:52:22Z",
+      "downloaded_at": "2026-07-28T09:31:54Z",
+      "bytes": 53485691
     },
     "02_fisica/03_geracao_corrupcao/L01-C05_cena01": {
       "artifact_id": "80f6c6e0-b163-4558-b59f-ac860f05f316",
       "audio_title": "aristoteles_09_l01_c05_cena01_geracao_corrupcao",
       "audio_filename": "aristoteles_09_l01_c05_cena01_geracao_corrupcao.m4a",
-      "status": "created",
-      "created_at": "2026-07-27T07:54:26Z"
+      "status": "downloaded",
+      "created_at": "2026-07-27T07:54:26Z",
+      "downloaded_at": "2026-07-28T09:33:01Z",
+      "bytes": 50294677
     },
     "02_fisica/03_geracao_corrupcao/L01-C05_cena02": {
       "artifact_id": "99379990-b98d-4fbb-bb54-98731351f301",
       "audio_title": "aristoteles_09_l01_c05_cena02_geracao_corrupcao",
       "audio_filename": "aristoteles_09_l01_c05_cena02_geracao_corrupcao.m4a",
+      "status": "downloaded",
+      "created_at": "2026-07-27T07:56:30Z",
+      "downloaded_at": "2026-07-28T09:34:09Z",
+      "bytes": 36089864
+    },
+    "02_fisica/03_geracao_corrupcao/L01-C05_cena03": {
+      "artifact_id": "d8c25e8d-61cd-4a69-83f0-965993740d41",
+      "audio_title": "aristoteles_09_l01_c05_cena03_geracao_corrupcao",
+      "audio_filename": "aristoteles_09_l01_c05_cena03_geracao_corrupcao.m4a",
       "status": "created",
-      "created_at": "2026-07-27T07:56:30Z"
+      "created_at": "2026-07-28T09:34:28Z"
+    },
+    "02_fisica/03_geracao_corrupcao/L01-C06_cena01": {
+      "artifact_id": "93524635-4749-4fdf-9b76-6dc9682409f5",
+      "audio_title": "aristoteles_09_l01_c06_cena01_geracao_corrupcao",
+      "audio_filename": "aristoteles_09_l01_c06_cena01_geracao_corrupcao.m4a",
+      "status": "created",
+      "created_at": "2026-07-28T09:36:32Z"
+    },
+    "02_fisica/03_geracao_corrupcao/L01-C07_cena01": {
+      "artifact_id": "19d1bbe8-81b0-4b63-98b7-ba74eb85789c",
+      "audio_title": "aristoteles_09_l01_c07_cena01_geracao_corrupcao",
+      "audio_filename": "aristoteles_09_l01_c07_cena01_geracao_corrupcao.m4a",
+      "status": "created",
+      "created_at": "2026-07-28T09:38:36Z"
+    },
+    "02_fisica/03_geracao_corrupcao/L01-C08_cena01": {
+      "artifact_id": "7fb4c4e3-8cf6-4970-a163-f9d1c84f5b23",
+      "audio_title": "aristoteles_09_l01_c08_cena01_geracao_corrupcao",
+      "audio_filename": "aristoteles_09_l01_c08_cena01_geracao_corrupcao.m4a",
+      "status": "created",
+      "created_at": "2026-07-28T09:40:39Z"
+    },
+    "02_fisica/03_geracao_corrupcao/L01-C08_cena02": {
+      "artifact_id": "3623ff62-eea4-4ec8-b4f2-f13b6b43f0d4",
+      "audio_title": "aristoteles_09_l01_c08_cena02_geracao_corrupcao",
+      "audio_filename": "aristoteles_09_l01_c08_cena02_geracao_corrupcao.m4a",
+      "status": "created",
+      "created_at": "2026-07-28T09:42:43Z"
+    },
+    "02_fisica/03_geracao_corrupcao/L01-C09_cena01": {
+      "artifact_id": "ef63de2d-0f63-4124-8f8e-066fc9fdbe4b",
+      "audio_title": "aristoteles_09_l01_c09_cena01_geracao_corrupcao",
+      "audio_filename": "aristoteles_09_l01_c09_cena01_geracao_corrupcao.m4a",
+      "status": "created",
+      "created_at": "2026-07-28T09:44:47Z"
+    },
+    "02_fisica/03_geracao_corrupcao/L01-C10_cena01": {
+      "artifact_id": "fbb7a48e-5faa-4a2c-b2f0-8e7da7f2c095",
+      "audio_title": "aristoteles_09_l01_c10_cena01_geracao_corrupcao",
+      "audio_filename": "aristoteles_09_l01_c10_cena01_geracao_corrupcao.m4a",
+      "status": "created",
+      "created_at": "2026-07-28T09:46:50Z"
+    },
+    "02_fisica/03_geracao_corrupcao/L02-C01_cena01": {
+      "artifact_id": "a6bde141-2efc-4640-832e-8781f177e06d",
+      "audio_title": "aristoteles_09_l02_c01_cena01_geracao_corrupcao",
+      "audio_filename": "aristoteles_09_l02_c01_cena01_geracao_corrupcao.m4a",
+      "status": "created",
+      "created_at": "2026-07-28T09:48:54Z"
+    },
+    "02_fisica/03_geracao_corrupcao/L02-C02_cena01": {
+      "artifact_id": "27c44969-77af-4bc6-b0fe-f8b3f9c334e8",
+      "audio_title": "aristoteles_09_l02_c02_cena01_geracao_corrupcao",
+      "audio_filename": "aristoteles_09_l02_c02_cena01_geracao_corrupcao.m4a",
+      "status": "created",
+      "created_at": "2026-07-28T09:50:58Z"
+    },
+    "02_fisica/03_geracao_corrupcao/L02-C03_cena01": {
+      "artifact_id": "69bc0f64-9de0-474f-ac67-8fcb309f73d1",
+      "audio_title": "aristoteles_09_l02_c03_cena01_geracao_corrupcao",
+      "audio_filename": "aristoteles_09_l02_c03_cena01_geracao_corrupcao.m4a",
+      "status": "created",
+      "created_at": "2026-07-28T09:53:02Z"
+    },
+    "02_fisica/03_geracao_corrupcao/L02-C04_cena01": {
+      "artifact_id": "ea92d0e2-8bf4-4fb5-b4c8-24fad448f3fe",
+      "audio_title": "aristoteles_09_l02_c04_cena01_geracao_corrupcao",
+      "audio_filename": "aristoteles_09_l02_c04_cena01_geracao_corrupcao.m4a",
+      "status": "created",
+      "created_at": "2026-07-28T09:55:05Z"
+    },
+    "02_fisica/03_geracao_corrupcao/L02-C05_cena01": {
+      "artifact_id": "47cefde1-8823-4b20-9a1f-a6657da4eb08",
+      "audio_title": "aristoteles_09_l02_c05_cena01_geracao_corrupcao",
+      "audio_filename": "aristoteles_09_l02_c05_cena01_geracao_corrupcao.m4a",
+      "status": "created",
+      "created_at": "2026-07-28T09:57:09Z"
+    },
+    "02_fisica/03_geracao_corrupcao/L02-C06_cena01": {
+      "artifact_id": "b94afebd-376f-4e41-a5e5-061f80c8dfe6",
+      "audio_title": "aristoteles_09_l02_c06_cena01_geracao_corrupcao",
+      "audio_filename": "aristoteles_09_l02_c06_cena01_geracao_corrupcao.m4a",
+      "status": "created",
+      "created_at": "2026-07-28T09:59:12Z"
+    },
+    "02_fisica/03_geracao_corrupcao/L02-C07_cena01": {
+      "artifact_id": "2d6bbb71-3514-4e75-a196-c342fea0efae",
+      "audio_title": "aristoteles_09_l02_c07_cena01_geracao_corrupcao",
+      "audio_filename": "aristoteles_09_l02_c07_cena01_geracao_corrupcao.m4a",
+      "status": "created",
+      "created_at": "2026-07-28T10:01:16Z"
+    },
+    "02_fisica/03_geracao_corrupcao/L02-C08_cena01": {
+      "artifact_id": "82f51d9c-598d-4524-97fc-b6f5d2f1d521",
+      "audio_title": "aristoteles_09_l02_c08_cena01_geracao_corrupcao",
+      "audio_filename": "aristoteles_09_l02_c08_cena01_geracao_corrupcao.m4a",
+      "status": "created",
+      "created_at": "2026-07-28T10:03:20Z"
+    },
+    "02_fisica/03_geracao_corrupcao/L02-C09_cena01": {
+      "artifact_id": "76ad698d-e084-488d-959e-b8b2328d5289",
+      "audio_title": "aristoteles_09_l02_c09_cena01_geracao_corrupcao",
+      "audio_filename": "aristoteles_09_l02_c09_cena01_geracao_corrupcao.m4a",
+      "status": "created",
+      "created_at": "2026-07-28T10:05:23Z"
+    },
+    "02_fisica/03_geracao_corrupcao/L02-C10_cena01": {
+      "artifact_id": "c5910a1f-6bbe-4ed6-a350-6679ca4339f3",
+      "audio_title": "aristoteles_09_l02_c10_cena01_geracao_corrupcao",
+      "audio_filename": "aristoteles_09_l02_c10_cena01_geracao_corrupcao.m4a",
+      "status": "created",
+      "created_at": "2026-07-28T10:07:27Z"
+    },
+    "02_fisica/03_geracao_corrupcao/L02-C11_cena01": {
+      "artifact_id": "0a8eefd6-9a34-4ed7-a1d4-e60d8f794ca8",
+      "audio_title": "aristoteles_09_l02_c11_cena01_geracao_corrupcao",
+      "audio_filename": "aristoteles_09_l02_c11_cena01_geracao_corrupcao.m4a",
+      "status": "created",
+      "created_at": "2026-07-28T10:09:31Z"
+    },
+    "02_fisica/04_meteorologia/L01-C01_cena01": {
+      "artifact_id": "248a99f1-a8bb-4e74-955d-ca4dd36c8c93",
+      "audio_title": "aristoteles_10_l01_c01_cena01_meteorologia",
+      "audio_filename": "aristoteles_10_l01_c01_cena01_meteorologia.m4a",
+      "status": "created",
+      "created_at": "2026-07-28T10:11:35Z"
+    },
+    "02_fisica/04_meteorologia/L01-C02_cena01": {
+      "artifact_id": "05752f7b-d155-4a68-8557-f9028c560616",
+      "audio_title": "aristoteles_10_l01_c02_cena01_meteorologia",
+      "audio_filename": "aristoteles_10_l01_c02_cena01_meteorologia.m4a",
+      "status": "created",
+      "created_at": "2026-07-28T10:13:39Z"
     }
   }
 }
