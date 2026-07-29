@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-07-28T08:26:10.178636",
+  "atualizado": "2026-07-29T08:25:56.984496",
   "audios": [
     {
       "seq_global": 1,
@@ -805,8 +805,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-28T08:21:44.624156",
-      "status": "created",
-      "artifact_id": "688687c9-fe7a-4064-bbd6-3508e2983f56"
+      "status": "downloaded",
+      "artifact_id": "688687c9-fe7a-4064-bbd6-3508e2983f56",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/062_cap-020_cena-002_Las-lumbres-en-la-noche-el-miedo-y-la-imaginacion.m4a",
+      "tamanho_bytes": 19691681
     },
     {
       "seq_global": 63,
@@ -816,8 +818,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-28T08:23:52.955460",
-      "status": "created",
-      "artifact_id": "8f4af387-1843-418a-8f90-15930d9c9489"
+      "status": "downloaded",
+      "artifact_id": "8f4af387-1843-418a-8f90-15930d9c9489",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/063_cap-020_cena-003_El-Caballero-de-la-Triste-Figura.m4a",
+      "tamanho_bytes": 39739676
     },
     {
       "seq_global": 64,
@@ -827,8 +831,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-28T08:26:10.174435",
+      "status": "downloaded",
+      "artifact_id": "1197a033-028c-4c0e-9c3d-4de45ac8585b",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/064_cap-021_cena-001_La-noche-del-hierro-y-el-juramento-del-caballero.m4a",
+      "tamanho_bytes": 46172504
+    },
+    {
+      "seq_global": 65,
+      "arquivo": "065_cap-021_cena-002_La-atadura-de-Rocinante-y-el-cuento-sin-fin-de-Torralba.m4a",
+      "titulo": "La atadura de Rocinante y el cuento sin fin de Torralba",
+      "cap": 21,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-29T08:21:40.939604",
       "status": "created",
-      "artifact_id": "1197a033-028c-4c0e-9c3d-4de45ac8585b"
+      "artifact_id": "bc263cae-a0f3-4cb1-b649-bda02dc8fde0"
+    },
+    {
+      "seq_global": 66,
+      "arquivo": "066_cap-021_cena-003_Seis-mazos-de-batan-cuando-la-realidad-desarma-la-fantasia.m4a",
+      "titulo": "Seis mazos de batan: cuando la realidad desarma la fantasia",
+      "cap": 21,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-29T08:23:48.799053",
+      "status": "created",
+      "artifact_id": "df675f9b-5aba-480e-9dd4-e5be3df984e9"
+    },
+    {
+      "seq_global": 67,
+      "arquivo": "067_cap-022_cena-001_La-puerta-que-se-abre-el-yelmo-de-Mambrino.m4a",
+      "titulo": "La puerta que se abre: el yelmo de Mambrino",
+      "cap": 22,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-29T08:25:56.981720",
+      "status": "created",
+      "artifact_id": "8db88305-75f2-41f0-b70e-ab816e9a65d8"
     }
   ]
 }
