@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T14:02:16Z",
+  "updated_at": "2026-07-30T18:04:00Z",
   "audios": {
     "05_etica/01_etica_nicomaco/L01-C01_cena01": {
       "artifact_id": "46097252-f46f-41a0-b77f-86b89e4b0945",
@@ -6187,8 +6187,10 @@
       "artifact_id": "d8c25e8d-61cd-4a69-83f0-965993740d41",
       "audio_title": "aristoteles_09_l01_c05_cena03_geracao_corrupcao",
       "audio_filename": "aristoteles_09_l01_c05_cena03_geracao_corrupcao.m4a",
-      "status": "created",
-      "created_at": "2026-07-28T09:34:28Z"
+      "status": "downloaded",
+      "created_at": "2026-07-28T09:34:28Z",
+      "downloaded_at": "2026-07-30T17:04:16Z",
+      "bytes": 26954701
     },
     "02_fisica/03_geracao_corrupcao/L01-C06_cena01": {
       "artifact_id": "93524635-4749-4fdf-9b76-6dc9682409f5",
@@ -6363,8 +6365,10 @@
       "artifact_id": "0f6fe89a-ae0e-43f6-b43d-686aca25f4fe",
       "audio_title": "aristoteles_10_l01_c03_cena01_meteorologia",
       "audio_filename": "aristoteles_10_l01_c03_cena01_meteorologia.m4a",
-      "status": "created",
-      "created_at": "2026-07-29T13:22:59Z"
+      "status": "downloaded",
+      "created_at": "2026-07-29T13:22:59Z",
+      "downloaded_at": "2026-07-30T17:05:48Z",
+      "bytes": 34036190
     },
     "02_fisica/04_meteorologia/L01-C04_cena01": {
       "artifact_id": "a13376ec-faa2-4442-ba28-64ee77061b40",
@@ -6377,22 +6381,28 @@
       "artifact_id": "bcb6be85-5f71-44dc-88a5-0e73c38923ce",
       "audio_title": "aristoteles_10_l01_c05_cena01_meteorologia",
       "audio_filename": "aristoteles_10_l01_c05_cena01_meteorologia.m4a",
-      "status": "created",
-      "created_at": "2026-07-29T13:27:07Z"
+      "status": "downloaded",
+      "created_at": "2026-07-29T13:27:07Z",
+      "downloaded_at": "2026-07-30T17:07:18Z",
+      "bytes": 22102440
     },
     "02_fisica/04_meteorologia/L01-C06_cena01": {
       "artifact_id": "a1ba4c8f-7c58-4316-b8f4-7449f61bc082",
       "audio_title": "aristoteles_10_l01_c06_cena01_meteorologia",
       "audio_filename": "aristoteles_10_l01_c06_cena01_meteorologia.m4a",
-      "status": "created",
-      "created_at": "2026-07-29T13:29:12Z"
+      "status": "downloaded",
+      "created_at": "2026-07-29T13:29:12Z",
+      "downloaded_at": "2026-07-30T17:08:20Z",
+      "bytes": 31657554
     },
     "02_fisica/04_meteorologia/L01-C07_cena01": {
       "artifact_id": "80716778-c420-4c31-9068-816eccb83257",
       "audio_title": "aristoteles_10_l01_c07_cena01_meteorologia",
       "audio_filename": "aristoteles_10_l01_c07_cena01_meteorologia.m4a",
-      "status": "created",
-      "created_at": "2026-07-29T13:31:16Z"
+      "status": "downloaded",
+      "created_at": "2026-07-29T13:31:16Z",
+      "downloaded_at": "2026-07-30T17:09:26Z",
+      "bytes": 31084344
     },
     "02_fisica/04_meteorologia/L01-C08_cena01": {
       "artifact_id": "50e5707b-6c3b-4999-88fd-48c81e911aaf",
@@ -6405,8 +6415,10 @@
       "artifact_id": "45ec6557-98fb-4bc3-975b-6d04b1e6e675",
       "audio_title": "aristoteles_10_l01_c09_cena01_meteorologia",
       "audio_filename": "aristoteles_10_l01_c09_cena01_meteorologia.m4a",
-      "status": "created",
-      "created_at": "2026-07-29T13:35:26Z"
+      "status": "downloaded",
+      "created_at": "2026-07-29T13:35:26Z",
+      "downloaded_at": "2026-07-30T17:10:48Z",
+      "bytes": 42248413
     },
     "02_fisica/04_meteorologia/L01-C10_cena01": {
       "artifact_id": "24fba52f-298b-4b13-b635-dc047428235d",
@@ -6419,85 +6431,249 @@
       "artifact_id": "7c22ccf3-90b0-471b-9e03-d0d1cc7efe16",
       "audio_title": "aristoteles_10_l01_c11_cena01_meteorologia",
       "audio_filename": "aristoteles_10_l01_c11_cena01_meteorologia.m4a",
-      "status": "created",
-      "created_at": "2026-07-29T13:39:34Z"
+      "status": "downloaded",
+      "created_at": "2026-07-29T13:39:34Z",
+      "downloaded_at": "2026-07-30T17:12:19Z",
+      "bytes": 37096473
     },
     "02_fisica/04_meteorologia/L01-C12_cena01": {
       "artifact_id": "83c40f38-0746-443b-8a45-d207013014ce",
       "audio_title": "aristoteles_10_l01_c12_cena01_meteorologia",
       "audio_filename": "aristoteles_10_l01_c12_cena01_meteorologia.m4a",
-      "status": "created",
-      "created_at": "2026-07-29T13:41:38Z"
+      "status": "downloaded",
+      "created_at": "2026-07-29T13:41:38Z",
+      "downloaded_at": "2026-07-30T17:13:22Z",
+      "bytes": 35313343
     },
     "02_fisica/04_meteorologia/L01-C13_cena01": {
       "artifact_id": "ac8b144e-8735-49d3-863e-526e6e7bb4ae",
       "audio_title": "aristoteles_10_l01_c13_cena01_meteorologia",
       "audio_filename": "aristoteles_10_l01_c13_cena01_meteorologia.m4a",
-      "status": "created",
-      "created_at": "2026-07-29T13:43:42Z"
+      "status": "downloaded",
+      "created_at": "2026-07-29T13:43:42Z",
+      "downloaded_at": "2026-07-30T17:14:28Z",
+      "bytes": 46712845
     },
     "02_fisica/04_meteorologia/L01-C14_cena01": {
       "artifact_id": "80c5c030-fea3-4158-8161-67cfb9b75019",
       "audio_title": "aristoteles_10_l01_c14_cena01_meteorologia",
       "audio_filename": "aristoteles_10_l01_c14_cena01_meteorologia.m4a",
-      "status": "created",
-      "created_at": "2026-07-29T13:45:45Z"
+      "status": "downloaded",
+      "created_at": "2026-07-29T13:45:45Z",
+      "downloaded_at": "2026-07-30T17:15:36Z",
+      "bytes": 56711817
     },
     "02_fisica/04_meteorologia/L02-C01_cena01": {
       "artifact_id": "7589c20f-5570-4676-8aa3-3c1e21124e8f",
       "audio_title": "aristoteles_10_l02_c01_cena01_meteorologia",
       "audio_filename": "aristoteles_10_l02_c01_cena01_meteorologia.m4a",
-      "status": "created",
-      "created_at": "2026-07-29T13:47:49Z"
+      "status": "downloaded",
+      "created_at": "2026-07-29T13:47:49Z",
+      "downloaded_at": "2026-07-30T17:16:36Z",
+      "bytes": 34609401
     },
     "02_fisica/04_meteorologia/L02-C02_cena01": {
       "artifact_id": "b55ded70-e912-4d35-bef3-e868d21c9036",
       "audio_title": "aristoteles_10_l02_c02_cena01_meteorologia",
       "audio_filename": "aristoteles_10_l02_c02_cena01_meteorologia.m4a",
-      "status": "created",
-      "created_at": "2026-07-29T13:49:53Z"
+      "status": "downloaded",
+      "created_at": "2026-07-29T13:49:53Z",
+      "downloaded_at": "2026-07-30T17:17:46Z",
+      "bytes": 54178428
     },
     "02_fisica/04_meteorologia/L02-C03_cena01": {
       "artifact_id": "81a82213-105c-413c-a783-dab60aaaf390",
       "audio_title": "aristoteles_10_l02_c03_cena01_meteorologia",
       "audio_filename": "aristoteles_10_l02_c03_cena01_meteorologia.m4a",
-      "status": "created",
-      "created_at": "2026-07-29T13:51:57Z"
+      "status": "downloaded",
+      "created_at": "2026-07-29T13:51:57Z",
+      "downloaded_at": "2026-07-30T17:18:56Z",
+      "bytes": 49757324
     },
     "02_fisica/04_meteorologia/L02-C03_cena02": {
       "artifact_id": "7e4e23fd-9061-46f8-aee7-0d524a894abe",
       "audio_title": "aristoteles_10_l02_c03_cena02_meteorologia",
       "audio_filename": "aristoteles_10_l02_c03_cena02_meteorologia.m4a",
-      "status": "created",
-      "created_at": "2026-07-29T13:54:00Z"
+      "status": "downloaded",
+      "created_at": "2026-07-29T13:54:00Z",
+      "downloaded_at": "2026-07-30T17:20:02Z",
+      "bytes": 22737654
     },
     "02_fisica/04_meteorologia/L02-C04_cena01": {
       "artifact_id": "30bf0034-a38e-4c13-bfc9-4a576fc40dac",
       "audio_title": "aristoteles_10_l02_c04_cena01_meteorologia",
       "audio_filename": "aristoteles_10_l02_c04_cena01_meteorologia.m4a",
-      "status": "created",
-      "created_at": "2026-07-29T13:56:05Z"
+      "status": "downloaded",
+      "created_at": "2026-07-29T13:56:05Z",
+      "downloaded_at": "2026-07-30T17:21:13Z",
+      "bytes": 55404035
     },
     "02_fisica/04_meteorologia/L02-C05_cena01": {
       "artifact_id": "c93b4af6-dfb9-4520-a581-13a4f4c13a4d",
       "audio_title": "aristoteles_10_l02_c05_cena01_meteorologia",
       "audio_filename": "aristoteles_10_l02_c05_cena01_meteorologia.m4a",
-      "status": "created",
-      "created_at": "2026-07-29T13:58:09Z"
+      "status": "downloaded",
+      "created_at": "2026-07-29T13:58:09Z",
+      "downloaded_at": "2026-07-30T17:22:20Z",
+      "bytes": 29069632
     },
     "02_fisica/04_meteorologia/L02-C06_cena01": {
       "artifact_id": "2fcb999b-f0f1-49ed-8cb1-0b2fbd6f7b29",
       "audio_title": "aristoteles_10_l02_c06_cena01_meteorologia",
       "audio_filename": "aristoteles_10_l02_c06_cena01_meteorologia.m4a",
-      "status": "created",
-      "created_at": "2026-07-29T14:00:13Z"
+      "status": "downloaded",
+      "created_at": "2026-07-29T14:00:13Z",
+      "downloaded_at": "2026-07-30T17:23:25Z",
+      "bytes": 25631232
     },
     "02_fisica/04_meteorologia/L02-C07_cena01": {
       "artifact_id": "d98e6689-02ae-46b6-a9d9-99f47fcbfc72",
       "audio_title": "aristoteles_10_l02_c07_cena01_meteorologia",
       "audio_filename": "aristoteles_10_l02_c07_cena01_meteorologia.m4a",
+      "status": "downloaded",
+      "created_at": "2026-07-29T14:02:16Z",
+      "downloaded_at": "2026-07-30T17:24:31Z",
+      "bytes": 32836845
+    },
+    "02_fisica/04_meteorologia/L02-C08_cena01": {
+      "artifact_id": "3b92ab37-650e-4c3a-b99d-4770c0cc4444",
+      "audio_title": "aristoteles_10_l02_c08_cena01_meteorologia",
+      "audio_filename": "aristoteles_10_l02_c08_cena01_meteorologia.m4a",
       "status": "created",
-      "created_at": "2026-07-29T14:02:16Z"
+      "created_at": "2026-07-30T17:24:42Z"
+    },
+    "02_fisica/04_meteorologia/L02-C08_cena02": {
+      "artifact_id": "91412d29-9144-4624-a2ec-79a60081385f",
+      "audio_title": "aristoteles_10_l02_c08_cena02_meteorologia",
+      "audio_filename": "aristoteles_10_l02_c08_cena02_meteorologia.m4a",
+      "status": "created",
+      "created_at": "2026-07-30T17:26:46Z"
+    },
+    "02_fisica/04_meteorologia/L02-C09_cena01": {
+      "artifact_id": "36871f9f-932b-4b7a-97c5-112f0e920a4c",
+      "audio_title": "aristoteles_10_l02_c09_cena01_meteorologia",
+      "audio_filename": "aristoteles_10_l02_c09_cena01_meteorologia.m4a",
+      "status": "created",
+      "created_at": "2026-07-30T17:28:50Z"
+    },
+    "02_fisica/04_meteorologia/L03-C01_cena01": {
+      "artifact_id": "77b5a064-e9ce-41b4-a35c-b427c927a884",
+      "audio_title": "aristoteles_10_l03_c01_cena01_meteorologia",
+      "audio_filename": "aristoteles_10_l03_c01_cena01_meteorologia.m4a",
+      "status": "created",
+      "created_at": "2026-07-30T17:30:54Z"
+    },
+    "02_fisica/04_meteorologia/L03-C02_cena01": {
+      "artifact_id": "5a061e53-69f0-4f89-b3ad-4da44298ea8a",
+      "audio_title": "aristoteles_10_l03_c02_cena01_meteorologia",
+      "audio_filename": "aristoteles_10_l03_c02_cena01_meteorologia.m4a",
+      "status": "created",
+      "created_at": "2026-07-30T17:32:58Z"
+    },
+    "02_fisica/04_meteorologia/L03-C03_cena01": {
+      "artifact_id": "db60f57a-ec25-4bad-a748-ac221fb59a4f",
+      "audio_title": "aristoteles_10_l03_c03_cena01_meteorologia",
+      "audio_filename": "aristoteles_10_l03_c03_cena01_meteorologia.m4a",
+      "status": "created",
+      "created_at": "2026-07-30T17:35:02Z"
+    },
+    "02_fisica/04_meteorologia/L03-C04_cena01": {
+      "artifact_id": "14e23004-c2dd-46d5-8d04-95ac5152900d",
+      "audio_title": "aristoteles_10_l03_c04_cena01_meteorologia",
+      "audio_filename": "aristoteles_10_l03_c04_cena01_meteorologia.m4a",
+      "status": "created",
+      "created_at": "2026-07-30T17:37:07Z"
+    },
+    "02_fisica/04_meteorologia/L03-C05_cena01": {
+      "artifact_id": "569cb939-e555-448d-a113-e4ead52196c2",
+      "audio_title": "aristoteles_10_l03_c05_cena01_meteorologia",
+      "audio_filename": "aristoteles_10_l03_c05_cena01_meteorologia.m4a",
+      "status": "created",
+      "created_at": "2026-07-30T17:39:11Z"
+    },
+    "02_fisica/04_meteorologia/L03-C06_cena01": {
+      "artifact_id": "892ef366-5cbd-45ba-8cf2-04898d31862c",
+      "audio_title": "aristoteles_10_l03_c06_cena01_meteorologia",
+      "audio_filename": "aristoteles_10_l03_c06_cena01_meteorologia.m4a",
+      "status": "created",
+      "created_at": "2026-07-30T17:41:15Z"
+    },
+    "02_fisica/04_meteorologia/L04-C01_cena01": {
+      "artifact_id": "bc6fed8b-3ea4-4972-9018-4e85e8780dcb",
+      "audio_title": "aristoteles_10_l04_c01_cena01_meteorologia",
+      "audio_filename": "aristoteles_10_l04_c01_cena01_meteorologia.m4a",
+      "status": "created",
+      "created_at": "2026-07-30T17:43:19Z"
+    },
+    "02_fisica/04_meteorologia/L04-C02_cena01": {
+      "artifact_id": "081ba682-1f0a-45cd-944c-1e136e55ca54",
+      "audio_title": "aristoteles_10_l04_c02_cena01_meteorologia",
+      "audio_filename": "aristoteles_10_l04_c02_cena01_meteorologia.m4a",
+      "status": "created",
+      "created_at": "2026-07-30T17:45:23Z"
+    },
+    "02_fisica/04_meteorologia/L04-C03_cena01": {
+      "artifact_id": "ed0834ca-21c7-44f0-9069-9cc9a4adc620",
+      "audio_title": "aristoteles_10_l04_c03_cena01_meteorologia",
+      "audio_filename": "aristoteles_10_l04_c03_cena01_meteorologia.m4a",
+      "status": "created",
+      "created_at": "2026-07-30T17:47:26Z"
+    },
+    "02_fisica/04_meteorologia/L04-C04_cena01": {
+      "artifact_id": "8e1cdb8a-25fd-457e-9259-4f9491dde6f3",
+      "audio_title": "aristoteles_10_l04_c04_cena01_meteorologia",
+      "audio_filename": "aristoteles_10_l04_c04_cena01_meteorologia.m4a",
+      "status": "created",
+      "created_at": "2026-07-30T17:49:30Z"
+    },
+    "02_fisica/04_meteorologia/L04-C05_cena01": {
+      "artifact_id": "c90e5f60-9953-4a60-9169-33f260a4d85d",
+      "audio_title": "aristoteles_10_l04_c05_cena01_meteorologia",
+      "audio_filename": "aristoteles_10_l04_c05_cena01_meteorologia.m4a",
+      "status": "created",
+      "created_at": "2026-07-30T17:51:36Z"
+    },
+    "02_fisica/04_meteorologia/L04-C06_cena01": {
+      "artifact_id": "f283ec1c-3c80-4046-9788-3538b0bf4e96",
+      "audio_title": "aristoteles_10_l04_c06_cena01_meteorologia",
+      "audio_filename": "aristoteles_10_l04_c06_cena01_meteorologia.m4a",
+      "status": "created",
+      "created_at": "2026-07-30T17:53:40Z"
+    },
+    "02_fisica/04_meteorologia/L04-C07_cena01": {
+      "artifact_id": "b512a95c-e6b2-40fe-ae93-092c8751c494",
+      "audio_title": "aristoteles_10_l04_c07_cena01_meteorologia",
+      "audio_filename": "aristoteles_10_l04_c07_cena01_meteorologia.m4a",
+      "status": "created",
+      "created_at": "2026-07-30T17:55:43Z"
+    },
+    "02_fisica/04_meteorologia/L04-C08_cena01": {
+      "artifact_id": "b6ab000e-475e-4f70-a421-d08b3b5c9726",
+      "audio_title": "aristoteles_10_l04_c08_cena01_meteorologia",
+      "audio_filename": "aristoteles_10_l04_c08_cena01_meteorologia.m4a",
+      "status": "created",
+      "created_at": "2026-07-30T17:57:48Z"
+    },
+    "02_fisica/04_meteorologia/L04-C09_cena01": {
+      "artifact_id": "13ec1e79-e347-485f-9996-fb11f6543056",
+      "audio_title": "aristoteles_10_l04_c09_cena01_meteorologia",
+      "audio_filename": "aristoteles_10_l04_c09_cena01_meteorologia.m4a",
+      "status": "created",
+      "created_at": "2026-07-30T17:59:52Z"
+    },
+    "02_fisica/04_meteorologia/L04-C09_cena02": {
+      "artifact_id": "569220f2-674b-4b87-b1be-e29c7da5a5b8",
+      "audio_title": "aristoteles_10_l04_c09_cena02_meteorologia",
+      "audio_filename": "aristoteles_10_l04_c09_cena02_meteorologia.m4a",
+      "status": "created",
+      "created_at": "2026-07-30T18:01:56Z"
+    },
+    "02_fisica/04_meteorologia/L04-C10_cena01": {
+      "artifact_id": "8d66601c-aadc-460f-aa36-86f88b47093e",
+      "audio_title": "aristoteles_10_l04_c10_cena01_meteorologia",
+      "audio_filename": "aristoteles_10_l04_c10_cena01_meteorologia.m4a",
+      "status": "created",
+      "created_at": "2026-07-30T18:04:00Z"
     }
   }
 }
