@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-07-29T08:25:56.984496",
+  "atualizado": "2026-07-30T08:25:43.475270",
   "audios": [
     {
       "seq_global": 1,
@@ -844,8 +844,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-29T08:21:40.939604",
-      "status": "created",
-      "artifact_id": "bc263cae-a0f3-4cb1-b649-bda02dc8fde0"
+      "status": "downloaded",
+      "artifact_id": "bc263cae-a0f3-4cb1-b649-bda02dc8fde0",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/065_cap-021_cena-002_La-atadura-de-Rocinante-y-el-cuento-sin-fin-de-Torralba.m4a",
+      "tamanho_bytes": 17590290
     },
     {
       "seq_global": 66,
@@ -854,9 +856,9 @@
       "cap": 21,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-07-29T08:23:48.799053",
+      "data": "2026-07-30T08:21:25.939795",
       "status": "created",
-      "artifact_id": "df675f9b-5aba-480e-9dd4-e5be3df984e9"
+      "artifact_id": "a6cb9255-1103-493f-bdb6-0e1a67477971"
     },
     {
       "seq_global": 67,
@@ -866,8 +868,32 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-07-29T08:25:56.981720",
+      "status": "downloaded",
+      "artifact_id": "8db88305-75f2-41f0-b70e-ab816e9a65d8",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/067_cap-022_cena-001_La-puerta-que-se-abre-el-yelmo-de-Mambrino.m4a",
+      "tamanho_bytes": 28956829
+    },
+    {
+      "seq_global": 68,
+      "arquivo": "068_cap-022_cena-002_La-bacia-transmutada-la-razon-al-servicio-del-deseo.m4a",
+      "titulo": "La bacia transmutada: la razon al servicio del deseo",
+      "cap": 22,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-30T08:23:34.465577",
       "status": "created",
-      "artifact_id": "8db88305-75f2-41f0-b70e-ab816e9a65d8"
+      "artifact_id": "2edae714-c21a-44c0-86f8-7a490605fb64"
+    },
+    {
+      "seq_global": 69,
+      "arquivo": "069_cap-022_cena-003_El-ensueno-del-caballero-toda-una-vida-imaginada.m4a",
+      "titulo": "El ensueno del caballero: toda una vida imaginada",
+      "cap": 22,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-07-30T08:25:43.470461",
+      "status": "created",
+      "artifact_id": "5a2a5aec-894e-41ac-b4dc-29e5dd593abd"
     }
   ]
 }
