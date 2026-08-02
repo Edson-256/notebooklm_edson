@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-08-01T08:26:28.185742",
+  "atualizado": "2026-08-02T08:26:25.111582",
   "audios": [
     {
       "seq_global": 1,
@@ -909,8 +909,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-01T08:22:05.786072",
-      "status": "created",
-      "artifact_id": "7a7076ab-280c-45bf-8472-6964b4a7ee46"
+      "status": "downloaded",
+      "artifact_id": "7a7076ab-280c-45bf-8472-6964b4a7ee46",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/070_cap-023_cena-001_Gente-forzada-del-rey-El-choque-de-dos-justicias.m4a",
+      "tamanho_bytes": 15972278
     },
     {
       "seq_global": 71,
@@ -920,8 +922,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-01T08:24:17.728977",
-      "status": "created",
-      "artifact_id": "b29e03a6-676d-4b32-bf32-e60625ef13a9"
+      "status": "downloaded",
+      "artifact_id": "b29e03a6-676d-4b32-bf32-e60625ef13a9",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/071_cap-023_cena-002_El-desfile-de-las-confesiones-la-germania-del-alma.m4a",
+      "tamanho_bytes": 51583035
     },
     {
       "seq_global": 72,
@@ -931,8 +935,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-01T08:26:28.183492",
+      "status": "downloaded",
+      "artifact_id": "6fa220b3-8548-4691-b506-d8bd4dd24a8a",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/072_cap-023_cena-003_Gines-de-Pasamonte-la-vida-escrita-por-estos-pulgares.m4a",
+      "tamanho_bytes": 22795176
+    },
+    {
+      "seq_global": 73,
+      "arquivo": "073_cap-023_cena-004_La-libertad-concedida-y-el-pago-de-piedras.m4a",
+      "titulo": "La libertad concedida y el pago de piedras",
+      "cap": 23,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-02T08:22:02.980770",
       "status": "created",
-      "artifact_id": "6fa220b3-8548-4691-b506-d8bd4dd24a8a"
+      "artifact_id": "83c38777-fb4f-46ca-a324-fb0e643c9644"
+    },
+    {
+      "seq_global": 74,
+      "arquivo": "074_cap-024_cena-001_La-retirada-y-la-condicion-del-honor.m4a",
+      "titulo": "La retirada y la condición del honor",
+      "cap": 24,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-02T08:24:13.214218",
+      "status": "created",
+      "artifact_id": "05e24f70-77c8-46fc-9357-ce7ba1d17d69"
+    },
+    {
+      "seq_global": 75,
+      "arquivo": "075_cap-024_cena-002_El-robo-del-rucio-y-el-llanto-de-Sancho.m4a",
+      "titulo": "El robo del rucio y el llanto de Sancho",
+      "cap": 24,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-02T08:26:25.105547",
+      "status": "created",
+      "artifact_id": "503a86f4-ae21-4218-a881-911446367301"
     }
   ]
 }
