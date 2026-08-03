@@ -375,13 +375,14 @@ def cmd_harvest(master: dict, audio_meta: dict, notebook_meta: dict,
                 *, dry_run: bool) -> int:
     notebook_id = notebook_meta["notebook_id"]
     print(f"Listando artifacts no studio (notebook {notebook_id[:8]}...)...")
-    # 'nlm studio status' é intermitentemente flaky (erro tipo "Could not
-    # retrieve studio status." vem no STDOUT, não no stderr, mesmo com rc=1).
-    # Retry curto antes de desistir — evita abortar o harvest inteiro por
-    # um hiccup transitório da API do NotebookLM.
+    # 'nlm studio status' vinha estourando o timeout HTTP interno de 30s (hardcoded
+    # em notebooklm_tools/core/base.py) por causa do volume acumulado de artifacts
+    # neste notebook (~800). Timeout interno subido p/ 120s via patch local do pacote
+    # uv (não versionado no git — se o `nlm` for reinstalado/atualizado, reaplicar).
+    # Subprocess timeout aqui precisa ficar acima disso.
     r = None
     for attempt in range(1, 4):
-        r = run_nlm(["studio", "status", notebook_id, "--json"], timeout=60)
+        r = run_nlm(["studio", "status", notebook_id, "--json"], timeout=130)
         if r.returncode == 0:
             break
         err = (r.stderr or r.stdout or "").strip()
