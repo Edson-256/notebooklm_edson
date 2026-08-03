@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-08-02T08:26:25.111582",
+  "atualizado": "2026-08-03T08:26:32.491234",
   "audios": [
     {
       "seq_global": 1,
@@ -948,8 +948,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-02T08:22:02.980770",
-      "status": "created",
-      "artifact_id": "83c38777-fb4f-46ca-a324-fb0e643c9644"
+      "status": "downloaded",
+      "artifact_id": "83c38777-fb4f-46ca-a324-fb0e643c9644",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/073_cap-023_cena-004_La-libertad-concedida-y-el-pago-de-piedras.m4a",
+      "tamanho_bytes": 22909589
     },
     {
       "seq_global": 74,
@@ -959,8 +961,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-02T08:24:13.214218",
-      "status": "created",
-      "artifact_id": "05e24f70-77c8-46fc-9357-ce7ba1d17d69"
+      "status": "downloaded",
+      "artifact_id": "05e24f70-77c8-46fc-9357-ce7ba1d17d69",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/074_cap-024_cena-001_La-retirada-y-la-condicion-del-honor.m4a",
+      "tamanho_bytes": 39422816
     },
     {
       "seq_global": 75,
@@ -970,8 +974,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-02T08:26:25.105547",
+      "status": "downloaded",
+      "artifact_id": "503a86f4-ae21-4218-a881-911446367301",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/075_cap-024_cena-002_El-robo-del-rucio-y-el-llanto-de-Sancho.m4a",
+      "tamanho_bytes": 24915337
+    },
+    {
+      "seq_global": 76,
+      "arquivo": "076_cap-024_cena-003_La-maleta-hallada-oro-soneto-y-carta.m4a",
+      "titulo": "La maleta hallada: oro, soneto y carta",
+      "cap": 24,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-03T08:22:09.289959",
       "status": "created",
-      "artifact_id": "503a86f4-ae21-4218-a881-911446367301"
+      "artifact_id": "4582bf19-7718-4e71-b9cb-5d62310d4f65"
+    },
+    {
+      "seq_global": 77,
+      "arquivo": "077_cap-024_cena-004_El-Roto-de-la-Mala-Figura-y-la-historia-de-Cardenio.m4a",
+      "titulo": "El Roto de la Mala Figura y la historia de Cardenio",
+      "cap": 24,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-03T08:24:21.398459",
+      "status": "created",
+      "artifact_id": "edd63303-e4e3-47c1-8a8a-c3abb2314ab8"
+    },
+    {
+      "seq_global": 78,
+      "arquivo": "078_cap-025_cena-001_El-pacto-del-relato-no-interrumpir-el-hilo.m4a",
+      "titulo": "El pacto del relato: no interrumpir el hilo",
+      "cap": 25,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-03T08:26:32.486707",
+      "status": "created",
+      "artifact_id": "b8ac9dc1-06dd-44b6-a4d1-c2e84c6897bb"
     }
   ]
 }
