@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T12:16:47Z",
+  "updated_at": "2026-08-04T03:43:39Z",
   "audios": {
     "05_etica/01_etica_nicomaco/L01-C01_cena01": {
       "artifact_id": "46097252-f46f-41a0-b77f-86b89e4b0945",
@@ -7910,6 +7910,146 @@
       "created_at": "2026-08-03T01:43:04Z",
       "downloaded_at": "2026-08-03T12:16:42Z",
       "bytes": 27384480
+    },
+    "04_metafisica/01_metafisica/L01-C10_cena01": {
+      "artifact_id": "939bf565-c7f3-4e45-b6fa-5ad71e0dc66f",
+      "audio_title": "aristoteles_24_l01_c10_cena01_metafisica",
+      "audio_filename": "aristoteles_24_l01_c10_cena01_metafisica.m4a",
+      "status": "created",
+      "created_at": "2026-08-04T03:02:01Z"
+    },
+    "02_fisica/01_fisica/L08-C09_cena01": {
+      "artifact_id": "1662ee34-494f-4cec-a559-506dfb4663d0",
+      "audio_title": "aristoteles_07_l08_c09_cena01_fisica",
+      "audio_filename": "aristoteles_07_l08_c09_cena01_fisica.m4a",
+      "status": "created",
+      "created_at": "2026-08-04T03:04:10Z"
+    },
+    "02_fisica/01_fisica/L08-C10_cena01": {
+      "artifact_id": "e88bd4a4-8a90-4ef9-9a02-785b392de28d",
+      "audio_title": "aristoteles_07_l08_c10_cena01_fisica",
+      "audio_filename": "aristoteles_07_l08_c10_cena01_fisica.m4a",
+      "status": "created",
+      "created_at": "2026-08-04T03:06:20Z"
+    },
+    "02_fisica/02_sobre_o_ceu/L01-C01_cena01": {
+      "artifact_id": "6932da80-0bd5-47b5-a752-c1d43a13c1e2",
+      "audio_title": "aristoteles_08_l01_c01_cena01_sobre_o_ceu",
+      "audio_filename": "aristoteles_08_l01_c01_cena01_sobre_o_ceu.m4a",
+      "status": "created",
+      "created_at": "2026-08-04T03:08:28Z"
+    },
+    "02_fisica/02_sobre_o_ceu/L01-C02_cena01": {
+      "artifact_id": "e12919fe-3a5c-43b9-80fe-99c7872318b2",
+      "audio_title": "aristoteles_08_l01_c02_cena01_sobre_o_ceu",
+      "audio_filename": "aristoteles_08_l01_c02_cena01_sobre_o_ceu.m4a",
+      "status": "created",
+      "created_at": "2026-08-04T03:10:48Z"
+    },
+    "02_fisica/03_geracao_corrupcao/L01-C09_cena01": {
+      "artifact_id": "86cc77af-f487-4c60-ac2f-f94305802b25",
+      "audio_title": "aristoteles_09_l01_c09_cena01_geracao_corrupcao",
+      "audio_filename": "aristoteles_09_l01_c09_cena01_geracao_corrupcao.m4a",
+      "status": "created",
+      "created_at": "2026-08-04T03:13:25Z"
+    },
+    "02_fisica/04_meteorologia/L01-C04_cena01": {
+      "artifact_id": "84a4a234-bfba-4390-ba55-75cba99a246d",
+      "audio_title": "aristoteles_10_l01_c04_cena01_meteorologia",
+      "audio_filename": "aristoteles_10_l01_c04_cena01_meteorologia.m4a",
+      "status": "created",
+      "created_at": "2026-08-04T03:15:33Z"
+    },
+    "02_fisica/04_meteorologia/L01-C08_cena01": {
+      "artifact_id": "4100a0fc-9298-4dd5-932d-4469c57a604c",
+      "audio_title": "aristoteles_10_l01_c08_cena01_meteorologia",
+      "audio_filename": "aristoteles_10_l01_c08_cena01_meteorologia.m4a",
+      "status": "created",
+      "created_at": "2026-08-04T03:17:40Z"
+    },
+    "02_fisica/04_meteorologia/L01-C10_cena01": {
+      "artifact_id": "8d3f4d6b-84e5-46c0-b48d-e54ad3d07a32",
+      "audio_title": "aristoteles_10_l01_c10_cena01_meteorologia",
+      "audio_filename": "aristoteles_10_l01_c10_cena01_meteorologia.m4a",
+      "status": "created",
+      "created_at": "2026-08-04T03:19:47Z"
+    },
+    "01_organon/05_topicos/L06-C09_cena01": {
+      "artifact_id": "a3134aeb-3029-4bee-9fee-ffcf81f24d33",
+      "audio_title": "aristoteles_05_l06_c09_cena01_topicos",
+      "audio_filename": "aristoteles_05_l06_c09_cena01_topicos.m4a",
+      "status": "created",
+      "created_at": "2026-08-04T03:21:58Z"
+    },
+    "01_organon/05_topicos/L06-C10_cena01": {
+      "artifact_id": "fa57b5b5-2c62-4427-a3f5-6cd99088df32",
+      "audio_title": "aristoteles_05_l06_c10_cena01_topicos",
+      "audio_filename": "aristoteles_05_l06_c10_cena01_topicos.m4a",
+      "status": "created",
+      "created_at": "2026-08-04T03:24:08Z"
+    },
+    "01_organon/05_topicos/L06-C11_cena01": {
+      "artifact_id": "ffbe495d-9f6a-4a10-82e3-0c2ac5fa2f79",
+      "audio_title": "aristoteles_05_l06_c11_cena01_topicos",
+      "audio_filename": "aristoteles_05_l06_c11_cena01_topicos.m4a",
+      "status": "created",
+      "created_at": "2026-08-04T03:26:20Z"
+    },
+    "01_organon/05_topicos/L06-C12_cena01": {
+      "artifact_id": "df7c2f25-d81f-45fe-8534-6cf1a8369b3e",
+      "audio_title": "aristoteles_05_l06_c12_cena01_topicos",
+      "audio_filename": "aristoteles_05_l06_c12_cena01_topicos.m4a",
+      "status": "created",
+      "created_at": "2026-08-04T03:28:31Z"
+    },
+    "01_organon/05_topicos/L06-C13_cena01": {
+      "artifact_id": "3973a6e0-c8f7-47a0-ac8b-106a81c27a6b",
+      "audio_title": "aristoteles_05_l06_c13_cena01_topicos",
+      "audio_filename": "aristoteles_05_l06_c13_cena01_topicos.m4a",
+      "status": "created",
+      "created_at": "2026-08-04T03:30:42Z"
+    },
+    "01_organon/05_topicos/L06-C14_cena01": {
+      "artifact_id": "4d6daab6-d1f6-499d-a2e4-9c7d1973d403",
+      "audio_title": "aristoteles_05_l06_c14_cena01_topicos",
+      "audio_filename": "aristoteles_05_l06_c14_cena01_topicos.m4a",
+      "status": "created",
+      "created_at": "2026-08-04T03:32:50Z"
+    },
+    "01_organon/05_topicos/L07-C01_cena01": {
+      "artifact_id": "40058c2c-7cc2-4ddb-88f7-d8bdec04d4b7",
+      "audio_title": "aristoteles_05_l07_c01_cena01_topicos",
+      "audio_filename": "aristoteles_05_l07_c01_cena01_topicos.m4a",
+      "status": "created",
+      "created_at": "2026-08-04T03:34:59Z"
+    },
+    "01_organon/05_topicos/L07-C02_cena01": {
+      "artifact_id": "d1789599-43dc-4d91-84ef-e0d2607188ec",
+      "audio_title": "aristoteles_05_l07_c02_cena01_topicos",
+      "audio_filename": "aristoteles_05_l07_c02_cena01_topicos.m4a",
+      "status": "created",
+      "created_at": "2026-08-04T03:37:09Z"
+    },
+    "01_organon/05_topicos/L07-C03_cena01": {
+      "artifact_id": "3c7342cd-bfb5-4012-8b5c-ea4dd5e0fc39",
+      "audio_title": "aristoteles_05_l07_c03_cena01_topicos",
+      "audio_filename": "aristoteles_05_l07_c03_cena01_topicos.m4a",
+      "status": "created",
+      "created_at": "2026-08-04T03:39:18Z"
+    },
+    "01_organon/05_topicos/L07-C04_cena01": {
+      "artifact_id": "746a3576-0782-4cd4-ad95-08b0620760ea",
+      "audio_title": "aristoteles_05_l07_c04_cena01_topicos",
+      "audio_filename": "aristoteles_05_l07_c04_cena01_topicos.m4a",
+      "status": "created",
+      "created_at": "2026-08-04T03:41:29Z"
+    },
+    "01_organon/05_topicos/L07-C05_cena01": {
+      "artifact_id": "ced0063e-a3df-4987-82cc-f85971da56b7",
+      "audio_title": "aristoteles_05_l07_c05_cena01_topicos",
+      "audio_filename": "aristoteles_05_l07_c05_cena01_topicos.m4a",
+      "status": "created",
+      "created_at": "2026-08-04T03:43:39Z"
     }
   }
 }
