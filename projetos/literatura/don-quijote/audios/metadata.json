@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-08-03T08:26:32.491234",
+  "atualizado": "2026-08-04T08:26:04.060959",
   "audios": [
     {
       "seq_global": 1,
@@ -987,8 +987,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-03T08:22:09.289959",
-      "status": "created",
-      "artifact_id": "4582bf19-7718-4e71-b9cb-5d62310d4f65"
+      "status": "downloaded",
+      "artifact_id": "4582bf19-7718-4e71-b9cb-5d62310d4f65",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/076_cap-024_cena-003_La-maleta-hallada-oro-soneto-y-carta.m4a",
+      "tamanho_bytes": 17657430
     },
     {
       "seq_global": 77,
@@ -998,8 +1000,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-03T08:24:21.398459",
-      "status": "created",
-      "artifact_id": "edd63303-e4e3-47c1-8a8a-c3abb2314ab8"
+      "status": "downloaded",
+      "artifact_id": "edd63303-e4e3-47c1-8a8a-c3abb2314ab8",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/077_cap-024_cena-004_El-Roto-de-la-Mala-Figura-y-la-historia-de-Cardenio.m4a",
+      "tamanho_bytes": 20710990
     },
     {
       "seq_global": 78,
@@ -1009,8 +1013,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-03T08:26:32.486707",
+      "status": "downloaded",
+      "artifact_id": "b8ac9dc1-06dd-44b6-a4d1-c2e84c6897bb",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/078_cap-025_cena-001_El-pacto-del-relato-no-interrumpir-el-hilo.m4a",
+      "tamanho_bytes": 19586980
+    },
+    {
+      "seq_global": 79,
+      "arquivo": "079_cap-025_cena-002_La-historia-de-Cardenio-Luscinda-la-amistad-y-la-traicion-que-se-gesta.m4a",
+      "titulo": "La historia de Cardenio: Luscinda, la amistad y la traicion que se gesta",
+      "cap": 25,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-04T08:21:39.544951",
       "status": "created",
-      "artifact_id": "b8ac9dc1-06dd-44b6-a4d1-c2e84c6897bb"
+      "artifact_id": "72e934cb-d6dd-4dc0-84bd-6587e683dab6"
+    },
+    {
+      "seq_global": 80,
+      "arquivo": "080_cap-025_cena-003_La-interrupcion-fatal-caballerias-Madasima-y-la-locura-desatada.m4a",
+      "titulo": "La interrupcion fatal: caballerias, Madasima y la locura desatada",
+      "cap": 25,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-04T08:23:51.933123",
+      "status": "created",
+      "artifact_id": "2b8fd634-0d3f-4309-9b09-5789b7f51a38"
+    },
+    {
+      "seq_global": 81,
+      "arquivo": "081_cap-026_cena-001_Enloquecer-sin-causa-la-penitencia-como-obra-de-arte.m4a",
+      "titulo": "Enloquecer sin causa: la penitencia como obra de arte",
+      "cap": 26,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-04T08:26:04.058075",
+      "status": "created",
+      "artifact_id": "0b041cd1-43b3-41b1-9083-d9d0c5a061fa"
     }
   ]
 }
