@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-08-04T08:26:04.060959",
+  "atualizado": "2026-08-05T08:26:30.177772",
   "audios": [
     {
       "seq_global": 1,
@@ -1026,8 +1026,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-04T08:21:39.544951",
-      "status": "created",
-      "artifact_id": "72e934cb-d6dd-4dc0-84bd-6587e683dab6"
+      "status": "downloaded",
+      "artifact_id": "72e934cb-d6dd-4dc0-84bd-6587e683dab6",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/079_cap-025_cena-002_La-historia-de-Cardenio-Luscinda-la-amistad-y-la-traicion-que-se-gesta.m4a",
+      "tamanho_bytes": 23260066
     },
     {
       "seq_global": 80,
@@ -1037,8 +1039,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-04T08:23:51.933123",
-      "status": "created",
-      "artifact_id": "2b8fd634-0d3f-4309-9b09-5789b7f51a38"
+      "status": "downloaded",
+      "artifact_id": "2b8fd634-0d3f-4309-9b09-5789b7f51a38",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/080_cap-025_cena-003_La-interrupcion-fatal-caballerias-Madasima-y-la-locura-desatada.m4a",
+      "tamanho_bytes": 31626926
     },
     {
       "seq_global": 81,
@@ -1048,8 +1052,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-04T08:26:04.058075",
+      "status": "downloaded",
+      "artifact_id": "0b041cd1-43b3-41b1-9083-d9d0c5a061fa",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/081_cap-026_cena-001_Enloquecer-sin-causa-la-penitencia-como-obra-de-arte.m4a",
+      "tamanho_bytes": 40511715
+    },
+    {
+      "seq_global": 82,
+      "arquivo": "082_cap-026_cena-002_La-bacia-que-es-yelmo-la-realidad-segun-quien-mira.m4a",
+      "titulo": "La bacia que es yelmo: la realidad segun quien mira",
+      "cap": 26,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-05T08:22:08.907770",
       "status": "created",
-      "artifact_id": "0b041cd1-43b3-41b1-9083-d9d0c5a061fa"
+      "artifact_id": "98729948-9dd5-410f-b08c-d2f2abbcb9cf"
+    },
+    {
+      "seq_global": 83,
+      "arquivo": "083_cap-026_cena-003_Dulcinea-es-Aldonza-Lorenzo-la-amada-imaginada.m4a",
+      "titulo": "Dulcinea es Aldonza Lorenzo: la amada imaginada",
+      "cap": 26,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-05T08:24:19.653650",
+      "status": "created",
+      "artifact_id": "d0dc3172-aaf7-4096-aa5c-d7d0312f5952"
+    },
+    {
+      "seq_global": 84,
+      "arquivo": "084_cap-027_cena-001_Roldan-o-Amadis-la-penitencia-razonada.m4a",
+      "titulo": "Roldán o Amadís: la penitencia razonada",
+      "cap": 27,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-05T08:26:30.175139",
+      "status": "created",
+      "artifact_id": "7db146f9-b7b8-4a87-805b-08517129017c"
     }
   ]
 }
