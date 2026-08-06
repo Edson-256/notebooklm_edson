@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-08-05T08:26:30.177772",
+  "atualizado": "2026-08-06T08:26:19.720284",
   "audios": [
     {
       "seq_global": 1,
@@ -1065,8 +1065,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-05T08:22:08.907770",
-      "status": "created",
-      "artifact_id": "98729948-9dd5-410f-b08c-d2f2abbcb9cf"
+      "status": "downloaded",
+      "artifact_id": "98729948-9dd5-410f-b08c-d2f2abbcb9cf",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/082_cap-026_cena-002_La-bacia-que-es-yelmo-la-realidad-segun-quien-mira.m4a",
+      "tamanho_bytes": 19615419
     },
     {
       "seq_global": 83,
@@ -1076,8 +1078,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-05T08:24:19.653650",
-      "status": "created",
-      "artifact_id": "d0dc3172-aaf7-4096-aa5c-d7d0312f5952"
+      "status": "downloaded",
+      "artifact_id": "d0dc3172-aaf7-4096-aa5c-d7d0312f5952",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/083_cap-026_cena-003_Dulcinea-es-Aldonza-Lorenzo-la-amada-imaginada.m4a",
+      "tamanho_bytes": 22102440
     },
     {
       "seq_global": 84,
@@ -1087,8 +1091,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-05T08:26:30.175139",
+      "status": "downloaded",
+      "artifact_id": "7db146f9-b7b8-4a87-805b-08517129017c",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/084_cap-027_cena-001_Roldan-o-Amadis-la-penitencia-razonada.m4a",
+      "tamanho_bytes": 16708343
+    },
+    {
+      "seq_global": 85,
+      "arquivo": "085_cap-027_cena-002_El-rosario-de-faldas-y-los-versos-en-la-corteza.m4a",
+      "titulo": "El rosario de faldas y los versos en la corteza",
+      "cap": 27,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-06T08:21:56.474182",
       "status": "created",
-      "artifact_id": "7db146f9-b7b8-4a87-805b-08517129017c"
+      "artifact_id": "9c5d6139-bbd1-4b39-89b6-022f3ae4f3b4"
+    },
+    {
+      "seq_global": 86,
+      "arquivo": "086_cap-027_cena-003_Sancho-el-libro-perdido-y-la-carta-de-memoria.m4a",
+      "titulo": "Sancho, el libro perdido y la carta de memoria",
+      "cap": 27,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-06T08:24:08.642754",
+      "status": "created",
+      "artifact_id": "6bd69ace-5fcf-47bc-8e7c-6d79e8bd033f"
+    },
+    {
+      "seq_global": 87,
+      "arquivo": "087_cap-027_cena-004_La-traza-de-la-doncella-menesterosa.m4a",
+      "titulo": "La traza de la doncella menesterosa",
+      "cap": 27,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-06T08:26:19.718486",
+      "status": "created",
+      "artifact_id": "e33a6585-6673-499f-bd1a-c7b599358c59"
     }
   ]
 }
