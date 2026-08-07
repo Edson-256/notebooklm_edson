@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-08-06T08:26:19.720284",
+  "atualizado": "2026-08-07T08:26:34.991931",
   "audios": [
     {
       "seq_global": 1,
@@ -1104,8 +1104,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-06T08:21:56.474182",
-      "status": "created",
-      "artifact_id": "9c5d6139-bbd1-4b39-89b6-022f3ae4f3b4"
+      "status": "downloaded",
+      "artifact_id": "9c5d6139-bbd1-4b39-89b6-022f3ae4f3b4",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/085_cap-027_cena-002_El-rosario-de-faldas-y-los-versos-en-la-corteza.m4a",
+      "tamanho_bytes": 34333628
     },
     {
       "seq_global": 86,
@@ -1115,8 +1117,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-06T08:24:08.642754",
-      "status": "created",
-      "artifact_id": "6bd69ace-5fcf-47bc-8e7c-6d79e8bd033f"
+      "status": "downloaded",
+      "artifact_id": "6bd69ace-5fcf-47bc-8e7c-6d79e8bd033f",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/086_cap-027_cena-003_Sancho-el-libro-perdido-y-la-carta-de-memoria.m4a",
+      "tamanho_bytes": 41723013
     },
     {
       "seq_global": 87,
@@ -1126,8 +1130,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-06T08:26:19.718486",
+      "status": "downloaded",
+      "artifact_id": "e33a6585-6673-499f-bd1a-c7b599358c59",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/087_cap-027_cena-004_La-traza-de-la-doncella-menesterosa.m4a",
+      "tamanho_bytes": 29367069
+    },
+    {
+      "seq_global": 88,
+      "arquivo": "088_cap-028_cena-001_El-disfraz-y-el-escrupulo-del-cura.m4a",
+      "titulo": "El disfraz y el escrupulo del cura",
+      "cap": 28,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-07T08:22:11.788823",
       "status": "created",
-      "artifact_id": "e33a6585-6673-499f-bd1a-c7b599358c59"
+      "artifact_id": "eb8af959-3b5f-40bf-9f7f-7836d2f4303b"
+    },
+    {
+      "seq_global": 89,
+      "arquivo": "089_cap-028_cena-002_Cardenio-lucido-el-canto-y-la-conciencia-de-su-locura.m4a",
+      "titulo": "Cardenio lucido: el canto y la conciencia de su locura",
+      "cap": 28,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-07T08:24:23.364579",
+      "status": "created",
+      "artifact_id": "efd7265d-8fa1-4ddf-aa0a-1cf1e4650098"
+    },
+    {
+      "seq_global": 90,
+      "arquivo": "090_cap-028_cena-003_La-traicion-de-don-Fernando-y-las-cartas-de-Luscinda.m4a",
+      "titulo": "La traicion de don Fernando y las cartas de Luscinda",
+      "cap": 28,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-07T08:26:34.989278",
+      "status": "created",
+      "artifact_id": "fd25792a-cf8f-4047-8286-3fb847aa0aa9"
     }
   ]
 }
