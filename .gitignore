@@ -63,6 +63,13 @@ projetos/**/I Promesi Sposi/cenas/
 **/audios/*.m4a
 **/audios/*.mp3
 
+# Diretórios movidos inteiros para o ExtremePro (symlink no lugar — sem arquivo
+# rastreado dentro, confirmado antes de mover). Padrões de extensão acima não
+# cobrem o symlink em si, só arquivos reais dentro de um diretório real.
+projetos/filosofia/aristoteles/audios
+projetos/filosofia/aristoteles/obras
+projetos/filosofia/cof_v2/compiladas/aulas
+
 # Symlinks de compatibilidade do crontab (bridge nomes antigos -> categorias).
 # Só existem no StudioM4; permitem o crontab atual achar os cron_*.sh sem editá-lo.
 # Recriáveis via logs/fix_symlinks.sh. NÃO apagar sem antes editar o crontab.
