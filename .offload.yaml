@@ -1,0 +1,19 @@
+# Manifesto de offload (studiom4/backup/offload_sweep.sh).
+# Decisão tomada em 2026-08-07: os projetos de áudio já concluídos foram
+# movidos manualmente nessa data. Regra generalizada abaixo (projetos/*/audios)
+# para pegar automaticamente projetos futuros equivalentes — MAS ver exclude:
+# dois projetos têm cron ativo gravando estado quase todo dia e não podem
+# entrar nessa regra geral.
+offload:
+  - path: "projetos/*/audios"
+    min_age_days: 30
+    reason: "audio gerado, sem automacao referenciando; revisado 2026-08-07"
+
+exclude:
+  # Têm cron ativo gravando _daily_quota.json / state files quase todo dia —
+  # NÃO mexer sem nova revisão explícita, mesmo que "audios/" pareça velho:
+  # o diretório do projeto como um todo está em uso operacional contínuo.
+  - path: projetos/literatura/don-quijote
+    reason: "cron ativo gravando _daily_quota.json/state quase todo dia — nao mexer sem nova revisao"
+  - path: projetos/literatura/quo_vadis
+    reason: "cron ativo gravando _daily_quota.json/state quase todo dia — nao mexer sem nova revisao"
