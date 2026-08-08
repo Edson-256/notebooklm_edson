@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-08-07T08:26:34.991931",
+  "atualizado": "2026-08-08T08:26:44.056772",
   "audios": [
     {
       "seq_global": 1,
@@ -1143,8 +1143,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-07T08:22:11.788823",
-      "status": "created",
-      "artifact_id": "eb8af959-3b5f-40bf-9f7f-7836d2f4303b"
+      "status": "downloaded",
+      "artifact_id": "eb8af959-3b5f-40bf-9f7f-7836d2f4303b",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/088_cap-028_cena-001_El-disfraz-y-el-escrupulo-del-cura.m4a",
+      "tamanho_bytes": 26076699
     },
     {
       "seq_global": 89,
@@ -1154,8 +1156,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-07T08:24:23.364579",
-      "status": "created",
-      "artifact_id": "efd7265d-8fa1-4ddf-aa0a-1cf1e4650098"
+      "status": "downloaded",
+      "artifact_id": "efd7265d-8fa1-4ddf-aa0a-1cf1e4650098",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/089_cap-028_cena-002_Cardenio-lucido-el-canto-y-la-conciencia-de-su-locura.m4a",
+      "tamanho_bytes": 35929882
     },
     {
       "seq_global": 90,
@@ -1165,8 +1169,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-07T08:26:34.989278",
+      "status": "downloaded",
+      "artifact_id": "fd25792a-cf8f-4047-8286-3fb847aa0aa9",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/090_cap-028_cena-003_La-traicion-de-don-Fernando-y-las-cartas-de-Luscinda.m4a",
+      "tamanho_bytes": 39020046
+    },
+    {
+      "seq_global": 91,
+      "arquivo": "091_cap-028_cena-004_El-Si-quiero-la-cobardia-tras-el-tapiz.m4a",
+      "titulo": "El 'Si quiero': la cobardia tras el tapiz",
+      "cap": 28,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-08T08:22:19.530409",
       "status": "created",
-      "artifact_id": "fd25792a-cf8f-4047-8286-3fb847aa0aa9"
+      "artifact_id": "503bd454-c1fa-4692-ac38-d048af5ba3da"
+    },
+    {
+      "seq_global": 92,
+      "arquivo": "092_cap-029_cena-001_El-labrador-que-era-una-diosa-el-rostro-bajo-el-disfraz.m4a",
+      "titulo": "El labrador que era una diosa: el rostro bajo el disfraz",
+      "cap": 29,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-08T08:24:32.178605",
+      "status": "created",
+      "artifact_id": "d66a09ca-9fd7-48a7-84f9-8e815e6af7c8"
+    },
+    {
+      "seq_global": 93,
+      "arquivo": "093_cap-029_cena-002_Tu-vasalla-soy-pero-no-tu-esclava-la-caida-razonada.m4a",
+      "titulo": "Tu vasalla soy, pero no tu esclava: la caida razonada",
+      "cap": 29,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-08T08:26:44.054766",
+      "status": "created",
+      "artifact_id": "db5efba9-781a-4b18-839c-99ef64f1351c"
     }
   ]
 }
