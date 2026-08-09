@@ -19,6 +19,8 @@ The method was presented in episode 1 — **do NOT re-explain it.** Name the pil
 
 - **Begins at:** "O general Iepántchin morava em prédio próprio"
 - **Ends at:** "— Príncipe, tenha a bondade."
+**Hard scope rule:** the audio must cover **only** the passage between these two anchors. Everything before the first anchor is past; everything after the last anchor belongs to the next episode and must NOT be narrated, summarized, or previewed — not even briefly. If the material feels short, go **deeper** into this passage; never wider.
+
 
 ## Contexto narrativo
 

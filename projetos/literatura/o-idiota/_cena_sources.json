@@ -1,0 +1,303 @@
+{
+  "1": {
+    "chapter": "C001-I.md",
+    "source_title": "OI-P1-C001 (I)",
+    "source_ids": [
+      "ad8e9b1f-d898-4e6e-a215-368b93196f79"
+    ]
+  },
+  "2": {
+    "chapter": "C002-II.md",
+    "source_title": "OI-P1-C002 (II)",
+    "source_ids": [
+      "1bce5b7a-05b3-4962-a2eb-6aee3ea9250b"
+    ]
+  },
+  "3": {
+    "chapter": "C003-III.md",
+    "source_title": "OI-P1-C003 (III)",
+    "source_ids": [
+      "28e7c3f4-97c9-47d3-81e4-442192ca8354"
+    ]
+  },
+  "4": {
+    "chapter": "C004-IV.md",
+    "source_title": "OI-P1-C004 (IV)",
+    "source_ids": [
+      "eeaa7e44-d898-4c92-9fc5-963627254283"
+    ]
+  },
+  "5": {
+    "chapter": "C005-V.md",
+    "source_title": "OI-P1-C005 (V)",
+    "source_ids": [
+      "38aaa5db-2b94-4b6d-a788-228f235e429e"
+    ]
+  },
+  "6": {
+    "chapter": "C006-VI.md",
+    "source_title": "OI-P1-C006 (VI)",
+    "source_ids": [
+      "70e9e673-e672-422d-bd88-61833591d852"
+    ]
+  },
+  "7": {
+    "chapter": "C007-VII.md",
+    "source_title": "OI-P1-C007 (VII)",
+    "source_ids": [
+      "0990afcf-f753-4afa-879e-b597a3f1cc8e"
+    ]
+  },
+  "8": {
+    "chapter": "C009-IX.md",
+    "source_title": "OI-P1-C009 (IX)",
+    "source_ids": [
+      "96edf6cb-3abb-4a71-be49-e0e7566f1731"
+    ]
+  },
+  "9": {
+    "chapter": "C010-X.md",
+    "source_title": "OI-P1-C010 (X)",
+    "source_ids": [
+      "8001fa7d-6ca1-43d3-8c42-b7bae1ff1fa6"
+    ]
+  },
+  "10": {
+    "chapter": "C011-XI.md",
+    "source_title": "OI-P1-C011 (XI)",
+    "source_ids": [
+      "3f0c7cff-8598-4ea1-b4b4-7e995223457a"
+    ]
+  },
+  "11": {
+    "chapter": "C012-XII.md",
+    "source_title": "OI-P1-C012 (XII)",
+    "source_ids": [
+      "ba7b089f-58d4-4714-b496-5260f1acd074"
+    ]
+  },
+  "12": {
+    "chapter": "C013-XIII.md",
+    "source_title": "OI-P1-C013 (XIII)",
+    "source_ids": [
+      "b4c1d322-c521-4491-8a09-4f68bf864da6"
+    ]
+  },
+  "13": {
+    "chapter": "C017-I.md",
+    "source_title": "OI-P2-C017 (I)",
+    "source_ids": [
+      "0b4399ef-0882-400f-bfd8-6a6645d7bc5c"
+    ]
+  },
+  "14": {
+    "chapter": "C018-II.md",
+    "source_title": "OI-P2-C018 (II)",
+    "source_ids": [
+      "0d292ae2-ca5e-41b6-a2f4-3c9af452520a"
+    ]
+  },
+  "15": {
+    "chapter": "C019-III.md",
+    "source_title": "OI-P2-C019 (III)",
+    "source_ids": [
+      "6144664d-cb31-4434-8fb5-280269c2706f"
+    ]
+  },
+  "16": {
+    "chapter": "C020-IV.md",
+    "source_title": "OI-P2-C020 (IV)",
+    "source_ids": [
+      "2e6614f3-8d9b-4df3-97fd-ab85d0a5e783"
+    ]
+  },
+  "17": {
+    "chapter": "C021-V.md",
+    "source_title": "OI-P2-C021 (V)",
+    "source_ids": [
+      "e255f8cf-63eb-4b09-a5f5-7fd271d1d9cc"
+    ]
+  },
+  "18": {
+    "chapter": "C023-VII.md",
+    "source_title": "OI-P2-C023 (VII)",
+    "source_ids": [
+      "2028ca68-fb8d-4d16-8eb8-6f25f5ef5fcd"
+    ]
+  },
+  "19": {
+    "chapter": "C024-VIII.md",
+    "source_title": "OI-P2-C024 (VIII)",
+    "source_ids": [
+      "00d30e61-e8cc-4695-b873-9d8641fdf237"
+    ]
+  },
+  "20": {
+    "chapter": "C025-IX.md",
+    "source_title": "OI-P2-C025 (IX)",
+    "source_ids": [
+      "001befdf-d475-4bc3-b50a-976bebb25d57"
+    ]
+  },
+  "21": {
+    "chapter": "C026-X.md",
+    "source_title": "OI-P2-C026 (X)",
+    "source_ids": [
+      "38e6262b-bcbb-4342-ba64-9c9a46e8a485"
+    ]
+  },
+  "22": {
+    "chapter": "C027-XI.md",
+    "source_title": "OI-P2-C027 (XI)",
+    "source_ids": [
+      "45a9794a-2846-4abb-9984-2314231e41e8"
+    ]
+  },
+  "23": {
+    "chapter": "C029-I.md",
+    "source_title": "OI-P3-C029 (I)",
+    "source_ids": [
+      "418168bc-e44d-4cbf-adbe-78727e89744f"
+    ]
+  },
+  "24": {
+    "chapter": "C030-II.md",
+    "source_title": "OI-P3-C030 (II)",
+    "source_ids": [
+      "23f64fc7-759d-4aef-9a5d-7b26a7b25c3c"
+    ]
+  },
+  "25": {
+    "chapter": "C031-III.md",
+    "source_title": "OI-P3-C031 (III)",
+    "source_ids": [
+      "28abb038-7928-4659-a2a9-82271980811f"
+    ]
+  },
+  "26": {
+    "chapter": "C032-IV.md",
+    "source_title": "OI-P3-C032 (IV)",
+    "source_ids": [
+      "4a24fede-00da-4447-af18-8b7fed96ccb6"
+    ]
+  },
+  "27": {
+    "chapter": "C033-V.md",
+    "source_title": "OI-P3-C033 (V)",
+    "source_ids": [
+      "450a9974-610d-47fc-993f-e8605da0f6d8"
+    ]
+  },
+  "28": {
+    "chapter": "C034-VI.md",
+    "source_title": "OI-P3-C034 (VI)",
+    "source_ids": [
+      "7c6e30a8-5365-48b9-8693-0b9eede4717b"
+    ]
+  },
+  "29": {
+    "chapter": "C035-VII.md",
+    "source_title": "OI-P3-C035 (VII)",
+    "source_ids": [
+      "18bea724-5768-432b-8799-042816f2c34b"
+    ]
+  },
+  "30": {
+    "chapter": "C036-VIII.md",
+    "source_title": "OI-P3-C036 (VIII)",
+    "source_ids": [
+      "a8fb3073-3c25-460d-b826-f416b369a61a"
+    ]
+  },
+  "31": {
+    "chapter": "C037-IX.md",
+    "source_title": "OI-P3-C037 (IX)",
+    "source_ids": [
+      "b6fe7261-4b4c-41e2-b9e6-c9a908212ea5"
+    ]
+  },
+  "32": {
+    "chapter": "C039-I.md",
+    "source_title": "OI-P4-C039 (I)",
+    "source_ids": [
+      "57abd1d9-0bfe-4e56-b6a5-cace67b906fe"
+    ]
+  },
+  "33": {
+    "chapter": "C040-II.md",
+    "source_title": "OI-P4-C040 (II)",
+    "source_ids": [
+      "a8cbef94-9770-4f9d-bc76-7459e5ce7bfe"
+    ]
+  },
+  "34": {
+    "chapter": "C041-III.md",
+    "source_title": "OI-P4-C041 (III)",
+    "source_ids": [
+      "8eda6f35-7382-4802-8992-c219558c874f"
+    ]
+  },
+  "35": {
+    "chapter": "C042-IV.md",
+    "source_title": "OI-P4-C042 (IV)",
+    "source_ids": [
+      "140a6ae4-cae8-4057-970b-9904844e2264"
+    ]
+  },
+  "36": {
+    "chapter": "C043-V.md",
+    "source_title": "OI-P4-C043 (V)",
+    "source_ids": [
+      "eca5eab4-3505-49c0-a6e9-b802436b82e3"
+    ]
+  },
+  "37": {
+    "chapter": "C044-VI.md",
+    "source_title": "OI-P4-C044 (VI)",
+    "source_ids": [
+      "19f35d1f-d81e-490c-9ef4-cfddb9f4ed89"
+    ]
+  },
+  "38": {
+    "chapter": "C045-VII.md",
+    "source_title": "OI-P4-C045 (VII)",
+    "source_ids": [
+      "1a8b90cc-16fd-44b4-ac32-4febfb2342ec"
+    ]
+  },
+  "39": {
+    "chapter": "C046-VIII.md",
+    "source_title": "OI-P4-C046 (VIII)",
+    "source_ids": [
+      "5ade8686-719e-41a2-bc3b-9823d1f05076"
+    ]
+  },
+  "40": {
+    "chapter": "C047-IX.md",
+    "source_title": "OI-P4-C047 (IX)",
+    "source_ids": [
+      "e4e9b75c-4ccc-4e3f-a01f-c87bd675c721"
+    ]
+  },
+  "41": {
+    "chapter": "C048-X.md",
+    "source_title": "OI-P4-C048 (X)",
+    "source_ids": [
+      "be0c50b0-6b33-4ae0-beac-5d9316afa75f"
+    ]
+  },
+  "42": {
+    "chapter": "C049-XI.md",
+    "source_title": "OI-P4-C049 (XI)",
+    "source_ids": [
+      "150e7179-6fde-4ea5-8764-4533af4f5e64"
+    ]
+  },
+  "43": {
+    "chapter": "C050-XII.md",
+    "source_title": "OI-P4-C050 (XII)",
+    "source_ids": [
+      "6a07253d-3b30-4b38-8609-3d24ca077309"
+    ]
+  }
+}

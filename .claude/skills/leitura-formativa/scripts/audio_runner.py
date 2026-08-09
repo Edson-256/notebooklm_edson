@@ -146,12 +146,31 @@ def load_prompt(proj, cfg, c, width):
 
 
 # ---- NLM ops ----
-def create_audio(cfg, profile, focus, notebook_id) -> object:
+_cena_sources_cache = None
+
+def load_cena_sources(proj: Path) -> dict:
+    """Mapa seq_global(str) -> {'source_ids': [...]} lido de _cena_sources.json.
+
+    ESCOPO POR CENA (regressao do quo_vadis_runner.resolve_source_ids, 2026-08-09):
+    sem isso o NotebookLM recebe TODAS as fontes do notebook e o audio de uma cena
+    invade a seguinte. Arquivo ausente => comportamento antigo (fallback global).
+    """
+    global _cena_sources_cache
+    if _cena_sources_cache is None:
+        f = proj / "_cena_sources.json"
+        try:
+            _cena_sources_cache = json.loads(f.read_text(encoding="utf-8")) if f.is_file() else {}
+        except Exception:
+            _cena_sources_cache = {}
+    return _cena_sources_cache
+
+
+def create_audio(cfg, profile, focus, notebook_id, source_ids=None) -> object:
     nb = notebook_id
     cmd = ["audio", "create", nb, "--format", cfg["notebooklm"]["format"],
            "--language", cfg["notebooklm"]["language"], "--length", cfg["notebooklm"]["length"],
            "--focus", focus, "--profile", profile, "--confirm"]
-    sids = cfg["notebooklm"].get("source_ids") or []
+    sids = source_ids or cfg["notebooklm"].get("source_ids") or []
     if sids: cmd += ["--source-ids", ",".join(sids)]
     try:
         r = run_nlm(cmd, profile, timeout=240)
@@ -247,10 +266,12 @@ def cmd_create(proj, cfg, scenes, width, profile, n, dry):
             log(f"cota diaria atingida ({cap}) — parando; restantes ficam pendentes."); break
         focus = load_prompt(proj, cfg, c, width)
         if not focus: log(f"cena {c['seq_global']}: prompt ausente, pulando"); failed += 1; continue
-        log(f"cena {c['seq_global']}: {c['titulo'][:50]}")
+        cena_sids = (load_cena_sources(proj).get(str(c["seq_global"])) or {}).get("source_ids") or None
+        escopo = f"{len(cena_sids)} fonte(s) da cena" if cena_sids else "TODAS as fontes (sem escopo!)"
+        log(f"cena {c['seq_global']}: {c['titulo'][:50]}  [{escopo}]")
         art = None
         for attempt in range(1, MAX_RETRIES+1):
-            art = create_audio(cfg, profile, focus, nb)
+            art = create_audio(cfg, profile, focus, nb, source_ids=cena_sids)
             if art is _RATE_LIMITED:
                 log("   rate-limited -> deferred"); break
             if art: break

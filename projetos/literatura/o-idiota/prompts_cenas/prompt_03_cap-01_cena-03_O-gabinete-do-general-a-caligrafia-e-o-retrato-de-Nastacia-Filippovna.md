@@ -19,6 +19,8 @@ The method was presented in episode 1 — **do NOT re-explain it.** Name the pil
 
 - **Begins at:** "O general Ivan Fiódorovitch Iepántchin estava em pé no centro do seu gabinete"
 - **Ends at:** "anunciou um criado que apareceu à porta. O príncipe o seguiu."
+**Hard scope rule:** the audio must cover **only** the passage between these two anchors. Everything before the first anchor is past; everything after the last anchor belongs to the next episode and must NOT be narrated, summarized, or previewed — not even briefly. If the material feels short, go **deeper** into this passage; never wider.
+
 
 ## Contexto narrativo
 
@@ -28,9 +30,9 @@ O que os dois estão negociando, na frente do príncipe, é um casamento. Nastá
 
 ## Resumo da cena
 
-O general começa desconfiado e quer despachá-lo: "Para visitas com fins de travar conhecimento eu tenho pouco tempo". Míchkin concorda com tudo, não se ofende, e se levanta para sair "rindo de um jeito até alegre". É esse riso sem ressentimento que vira o jogo — "seu sorriso estava tão isento de qualquer matiz, por ínfimo que fosse, de antipatia oculta" que o general muda de voz "em um abrir e fechar de olhos".
+O general começa desconfiado e quer despachá-lo: "Para visitas com fins de travar conhecimento eu tenho pouco tempo". Míchkin concorda, não se ofende, e se levanta para sair "rindo de um jeito até alegre". É esse riso sem ressentimento que vira o jogo — "seu sorriso estava tão isento de qualquer matiz, por ínfimo que fosse, de antipatia oculta" que o general muda de voz "em um abrir e fechar de olhos".
 
-Interrogado sobre bens, talentos e ocupação, o príncipe responde que não tem nada, não estudou direito, é doente — e que sua única aptidão é a caligrafia. Pedem-lhe uma amostra. Ele escreve, em caracteres russos medievais: **"O humilde igúmeno Pafnuti subscreveu."**
+Interrogado sobre bens e ocupação, o príncipe responde que não tem nada, não estudou direito, é doente — e que sua única aptidão é a caligrafia. Pedem-lhe uma amostra. Ele escreve, em caracteres russos medievais: **"O humilde igúmeno Pafnuti subscreveu."**
 
 E então discorre sobre letras como quem lê almas. Sobre a caligrafia de escrivão militar:
 
@@ -86,15 +88,12 @@ E então a profecia: "casaria, e uma semana depois possivelmente a degolaria". D
 - A **reunião em que dois sócios discutem números** e um terceiro percebe que o problema não é número nenhum — é que os dois não confiam um no outro.
 - A **pessoa que entra numa casa** e sente, em cinco minutos, que ali houve uma briga antes de ela chegar — sem que ninguém tenha dito nada.
 
-Same mechanism in all five: a knowledge that arrives whole, before the reasoning that could justify it — and that turns out to be right.
-
 ### A viagem imaginativa
 
 Invite the listener to close their eyes:
 
 - O **gabinete rico**: papel encorpado, "quanto lápis, quanta pena", e a paisagem suíça na parede que o príncipe reconhece — o cantão de Uri.
 - O **chapéu macio de abas redondas** que ele pousa na mesa ao decidir ficar.
-- A **grossa folha de vélin** e a tinta formando os caracteres medievais, letra por letra.
 - A **fotografia** em formato grande passando de mão em mão: seda preta, cabelo ruivo escuro arrumado com simplicidade, o rosto um pouco magro, talvez pálido.
 - Os **dois pontinhos sob os olhos** que o príncipe aponta com o dedo.
 - O **sorriso ultravenenoso** de Gánia, e os dentes "algo exageradamente perolados e iguais".
@@ -120,7 +119,5 @@ Guarde a pergunta desta cena: e se essa fosse a faculdade **mais** confiável, e
 ## Delivery requirements
 
 - **Language:** the ENTIRE audio must be spoken in fluent, natural **Brazilian Portuguese (pt-BR)**. The English above is instruction only — never read it aloud and never switch languages.
-- **Tone:** warm, didactic, conversational, no pedantry.
 - **Names:** keep the transliterations used above (Míchkin, Iepántchin, Gánia, Nastácia Filíppovna, Rogójin, Pafnuti).
-- **Avoid:** spoilers, villainizing Gánia, erudite digression on calligraphy, moralizing.
 - **Assume:** the listener has followed the series from episode 1.

@@ -33,6 +33,8 @@ Because this is the first episode, spend the opening minutes introducing the lis
 
 - **Begins at:** "Em fins de novembro, clima morno"
 - **Ends at:** "ele resolveu contratar um carregador."
+**Hard scope rule:** the audio must cover **only** the passage between these two anchors. Everything before the first anchor is past; everything after the last anchor belongs to the next episode and must NOT be narrated, summarized, or previewed — not even briefly. If the material feels short, go **deeper** into this passage; never wider.
+
 
 ## Contexto narrativo
 
@@ -46,7 +48,7 @@ Míchkin volta da Suíça depois de quatro anos de tratamento, sem dinheiro, com
 
 O que se passa é uma conversa. Rogójin zomba, ri do estrangeiro, pergunta sem cerimônia. Míchkin responde a tudo — inclusive ao deboche — com prontidão desarmada: sim, está frio; sim, tem uma doença nervosa; não, não o curaram; não, não sabe onde vai se hospedar. E ri junto quando riem dele.
 
-Então Rogójin conta sua história: viu Nastácia Filíppovna saindo de uma loja e "foi fulminado ali mesmo"; roubou do pai dez mil rublos, comprou um par de pingentes de brilhante "quase do tamanho de uma noz" e os mandou de presente; ela agradeceu com um risinho e se retirou. O pai foi à casa dela, "curvou-se diante dela até o chão, implorou e chorou"; ela devolveu a caixa dizendo que agora os brincos valiam dez vezes mais "já que Parfen os conseguiu debaixo de tanta ameaça". Rogójin fugiu para Pskov e caiu de febre na rua — "e enquanto isso os cachorros me roeram".
+Então Rogójin conta sua história: viu Nastácia Filíppovna saindo de uma loja e "foi fulminado ali mesmo"; roubou do pai dez mil rublos, comprou pingentes de brilhante "quase do tamanho de uma noz" e os mandou de presente; ela agradeceu com um risinho e se retirou. O pai foi à casa dela, "curvou-se diante dela até o chão, implorou e chorou"; ela devolveu a caixa dizendo que os brincos agora valiam dez vezes mais "já que Parfen os conseguiu debaixo de tanta ameaça". Rogójin fugiu para Pskov e caiu de febre na rua.
 
 Quando o trem chega, Rogójin se volta para o príncipe:
 
@@ -88,14 +90,11 @@ O objeto atravessa a cena sem que ninguém o use. É a primeira forma que o roma
 - O **parente rico** que chega ao velório calculando a partilha, ao lado do parente pobre que veio só para segurar a mão de alguém.
 - O **rapaz apaixonado** que faz uma loucura cara e humilhante para ser notado e depois conta o episódio rindo — e quem escuta percebe que ele não está rindo.
 
-Same mechanism in all five: someone who **does not perform**, in a room where everyone else is performing.
-
 ### A viagem imaginativa
 
 Invite the listener to close their eyes and enter the scene:
 
 - A **neblina amarelada** lá fora, e a claridade que "a muito custo alvoreceu".
-- O **cheiro** do vagão de terceira classe depois de uma noite inteira: roupa úmida, gente cansada, ferro frio.
 - A **palidez** nos rostos, "da cor da neblina".
 - A **trouxinha de fular velho e desbotado** balançando nas mãos do príncipe — toda a sua bagagem.
 - Os **sapatos com polainas**, estrangeiros, errados para aquele chão.
@@ -121,7 +120,5 @@ E a guardar a pergunta que o capítulo I planta: **o que acontece com um homem t
 ## Delivery requirements
 
 - **Language:** the ENTIRE audio must be spoken in fluent, natural **Brazilian Portuguese (pt-BR)**. The English above is instruction only — never read it aloud and never switch languages.
-- **Tone:** warm, didactic, conversational, no pedantry.
-- **Names:** keep the Portuguese transliterations used above (Míchkin, Rogójin, Liébediev, Nastácia Filíppovna).
-- **Avoid:** hagiography of Míchkin, contempt for Rogójin, author biography, plot anticipation, moralizing about money.
+- **Names:** keep the transliterations used above (Míchkin, Rogójin, Liébediev, Nastácia Filíppovna).
 - **Assume:** the listener is starting the series here, at episode 1.
