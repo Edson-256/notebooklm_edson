@@ -1,0 +1,63 @@
+# Config do projeto O Idiota (Leitura Formativa COF) — lido pelo audio_runner.py da skill.
+# Provisionado em 2026-08-08. Prompts reescritos no MODELO QUO VADIS (ricos, ~10k chars):
+# ponte de abertura, contexto narrativo, resumo com diálogo real, técnicas nomeadas,
+# 5 analogias modernas, viagem imaginativa sensorial, anti-padrões, encerramento.
+# Idioma dos prompts: HÍBRIDO — diretivas/rubricas em inglês, conteúdo citado (resumo,
+# diálogos, analogias) em pt-BR para o modelo não retraduzir Dostoiévski.
+
+[obra]
+titulo      = "O Idiota"
+autor       = "Fiódor Dostoiévski"
+slug        = "o-idiota"
+sigla       = "OI"
+idioma_obra = "pt-BR"              # tradução Paulo Bezerra; cenas/âncoras em português
+
+[notebooklm]
+notebook_id = "4a5dcdd3-94fc-4a87-b7b3-3871379dadf8"
+profile     = "profissional"       # NLM_PROFILE FIXO — conta pessoal saturada pelo Aristóteles
+language    = "pt-BR"
+format      = "deep_dive"
+length      = "long"               # mesmo do Quo Vadis (alvo 15-20 min por áudio)
+
+# DUAL-CONTA: este projeto NASCEU na profissional (cota livre em 2026-08-08). A pessoal está
+# ocupada pelo Aristóteles. O metadata.json registra POR CENA qual conta/notebook/artifact
+# rodou → nunca regera em outra conta.
+[notebooklm.accounts]
+profissional = "4a5dcdd3-94fc-4a87-b7b3-3871379dadf8"   # PROFISSIONAL — casa atual
+
+[cota]
+por_dia = 20                       # pro = 20/dia
+margem  = 1                        # → 19 efetivos; plano: ~15/dia por 3 dias
+
+[fragmentacao]                     # já fragmentado (convert_epub --level 3) — runner NÃO re-fragmenta
+min_audio_min    = 15
+max_audio_min    = 30
+hard_max_min     = 35
+palavras_por_min = 130
+
+[docling]
+src_dir = "projetos/literatura/o-idiota/output"
+usar    = "chapters"
+
+[cenas]
+min_por_capitulo = 1
+max_por_capitulo = 3
+
+[paths]
+capitulos = "output/chapters"      # 50 capítulos (C001-C050); FrontMatter descartado
+cenas     = "cenas"
+prompts   = "prompts_cenas"
+audios    = "audios"
+manifest  = "_cenas_manifest.json"
+anchors   = "_anchors.json"
+# FONTES: modelo Quo Vadis — 50 fontes separadas (1 por capítulo), NÃO um arquivo único.
+# Mapa título→source_id em _sources_map.json. Títulos: "OI-P<parte>-C<nnn> (<romano>)".
+sources_map = "_sources_map.json"
+
+[lifecycle]
+dell_sync = true
+dell_slug = "o-idiota"
+
+[telegram]
+enabled       = true
+projeto_label = "O Idiota"

@@ -1,0 +1,41 @@
+{
+  "obra": "O Idiota",
+  "slug": "o-idiota",
+  "notebook_id": "4a5dcdd3-94fc-4a87-b7b3-3871379dadf8",
+  "atualizado": "2026-08-08T21:31:17.611726",
+  "audios": [
+    {
+      "seq_global": 1,
+      "arquivo": "01_cap-01_cena-01_O-encontro-no-trem-para-Petersburgo.m4a",
+      "titulo": "O encontro no trem para Petersburgo",
+      "cap": 1,
+      "notebook_profile": "profissional",
+      "notebook_id": "4a5dcdd3-94fc-4a87-b7b3-3871379dadf8",
+      "data": "2026-08-08T21:26:54.519629",
+      "status": "created",
+      "artifact_id": "0648d0af-5ee7-4b48-b1eb-0fd684d97ed6"
+    },
+    {
+      "seq_global": 2,
+      "arquivo": "02_cap-01_cena-02_Na-antessala-dos-Iepantchin-o-principe-e-o-criado.m4a",
+      "titulo": "Na antessala dos Iepántchin: o príncipe e o criado",
+      "cap": 1,
+      "notebook_profile": "profissional",
+      "notebook_id": "4a5dcdd3-94fc-4a87-b7b3-3871379dadf8",
+      "data": "2026-08-08T21:29:05.443748",
+      "status": "created",
+      "artifact_id": "a28a296f-cf8b-4779-914a-65d34ec49419"
+    },
+    {
+      "seq_global": 3,
+      "arquivo": "03_cap-01_cena-03_O-gabinete-do-general-a-caligrafia-e-o-retrato-de-Nastacia-Filippovna.m4a",
+      "titulo": "O gabinete do general, a caligrafia e o retrato de Nastácia Filíppovna",
+      "cap": 1,
+      "notebook_profile": "profissional",
+      "notebook_id": "4a5dcdd3-94fc-4a87-b7b3-3871379dadf8",
+      "data": "2026-08-08T21:31:17.611123",
+      "status": "created",
+      "artifact_id": "f78149aa-2bc2-4cb3-96f7-652622808317"
+    }
+  ]
+}
