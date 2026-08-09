@@ -56,6 +56,7 @@ MAX_RETRIES = 3
 MAX_FOCUS_CHARS = 10000
 
 _RATE_LIMITED = object()
+_OVERSIZED = object()      # prompt acima de MAX_FOCUS_CHARS -> recusa (nao gasta cota)
 _POLL_MISSING = "__poll_missing__"
 _POLL_ERROR = "__poll_error__"
 
@@ -133,16 +134,39 @@ def load_scenes(proj, cfg):
 def scene_filename(c, width, ext):
     return f"{c['seq_global']:0{width}d}_cap-{c['cap']:0{width}d}_cena-{c['cena_local']:0{width}d}_{slug(c['titulo'])}.{ext}"
 
-def load_prompt(proj, cfg, c, width):
+def prompt_path(proj, cfg, c, width):
     pdir = proj / cfg["paths"]["prompts"]
     prefix = f"prompt_{c['seq_global']:0{width}d}_"
-    for f in pdir.iterdir():
+    for f in sorted(pdir.iterdir()):
         if f.name.startswith(prefix) and f.suffix == ".md":
-            t = f.read_text(encoding="utf-8").strip()
-            if len(t) > MAX_FOCUS_CHARS:
-                log(f"AVISO truncamento: {f.name} ({len(t)} chars) -> revisar"); t = t[:MAX_FOCUS_CHARS-3] + "..."
-            return t
+            return f
     return None
+
+
+def load_prompt(proj, cfg, c, width, allow_truncate=False):
+    """Le o prompt da cena. Acima de MAX_FOCUS_CHARS => RECUSA (nao trunca).
+
+    Por que recusar em vez de truncar (2026-08-09): o corte era silencioso demais
+    (so um AVISO no log de um lote), caia sempre na CAUDA do prompt — onde ficam os
+    requisitos de entrega, inclusive a diretiva de idioma pt-BR — e o audio resultante
+    ja tinha consumido cota diaria, que e o recurso escasso. Falhar antes de gastar
+    cota e sempre melhor que entregar um audio silenciosamente degradado.
+    Escape hatch consciente: --allow-truncate.
+    """
+    f = prompt_path(proj, cfg, c, width)
+    if f is None:
+        return None
+    t = f.read_text(encoding="utf-8").strip()
+    if len(t) > MAX_FOCUS_CHARS:
+        excesso = len(t) - MAX_FOCUS_CHARS
+        if not allow_truncate:
+            log(f"   RECUSADO: {f.name} tem {len(t)} chars (limite {MAX_FOCUS_CHARS}, excesso {excesso}).")
+            log(f"   O corte cairia na CAUDA do prompt (requisitos de entrega/idioma). "
+                f"Reduza o prompt ou rode com --allow-truncate.")
+            return _OVERSIZED
+        log(f"   AVISO truncamento consentido: {f.name} ({len(t)} chars, -{excesso})")
+        t = t[:MAX_FOCUS_CHARS-3] + "..."
+    return t
 
 
 # ---- NLM ops ----
@@ -243,13 +267,42 @@ def cmd_status(proj, cfg, scenes, width, profile):
     print(f"  cota hoje: {used}/{cap} (limite {cfg['cota']['por_dia']}, margem {cfg['cota'].get('margem',0)})")
     for st in ("downloaded","created","deferred","server_failed","lost_in_studio","pendente"):
         if cnt.get(st): print(f"    {st:16}: {cnt[st]}")
+
+    # preflight: prompts acima do teto seriam RECUSADOS na criacao
+    over = []
+    for c in scenes:
+        f = prompt_path(proj, cfg, c, width)
+        if f is None: continue
+        n = len(f.read_text(encoding="utf-8").strip())
+        if n > MAX_FOCUS_CHARS: over.append((c["seq_global"], n, f.name))
+    if over:
+        print(f"\n  ATENCAO: {len(over)} prompt(s) acima de {MAX_FOCUS_CHARS} chars — "
+              f"seriam RECUSADOS na criacao (reduza ou use --allow-truncate):")
+        for seq, n, name in over[:10]:
+            print(f"    cena {seq:>3}: {n} chars (+{n-MAX_FOCUS_CHARS})  {name[:56]}")
+        if len(over) > 10: print(f"    ... e mais {len(over)-10}")
+
+    # preflight: como este projeto delimita a cena. Duas estrategias validas:
+    #   (a) MULTI-FONTE (modelo Quo Vadis): 1 fonte por capitulo + --source-ids por cena
+    #   (b) FONTE UNICA: 1 arquivo com marcadores '<<< CENA n — INICIO/FIM >>>'
+    # O perigo e o hibrido: notebook multi-fonte SEM _cena_sources.json -> o audio
+    # recebe todas as fontes e invade a cena seguinte (bug de 2026-08-09 em o-idiota).
+    cs = load_cena_sources(proj)
+    multi = (proj / "_sources_map.json").is_file()
+    if cs:
+        print(f"\n  delimitacao: MULTI-FONTE — {len(cs)}/{len(scenes)} cenas com fonte propria")
+    elif multi:
+        print(f"\n  ATENCAO: notebook MULTI-FONTE (_sources_map.json) sem _cena_sources.json — "
+              f"os audios receberao TODAS as fontes e tendem a invadir a cena seguinte.")
+    else:
+        print(f"\n  delimitacao: FONTE UNICA (marcadores de cena no arquivo-fonte)")
     print()
 
 def pending_scenes(proj, cfg, scenes):
     meta = {a["seq_global"]: a for a in load_meta(proj, cfg)["audios"]}
     return [c for c in scenes if meta.get(c["seq_global"], {}).get("status") not in ("created","downloaded")]
 
-def cmd_create(proj, cfg, scenes, width, profile, n, dry):
+def cmd_create(proj, cfg, scenes, width, profile, n, dry, allow_truncate=False):
     queue = pending_scenes(proj, cfg, scenes)
     if n: queue = queue[:n]
     cap = cfg["cota"]["por_dia"] - cfg["cota"].get("margem", 0)
@@ -264,7 +317,10 @@ def cmd_create(proj, cfg, scenes, width, profile, n, dry):
     for c in queue:
         if quota_used_today(proj, cfg, profile) >= cap:
             log(f"cota diaria atingida ({cap}) — parando; restantes ficam pendentes."); break
-        focus = load_prompt(proj, cfg, c, width)
+        focus = load_prompt(proj, cfg, c, width, allow_truncate=allow_truncate)
+        if focus is _OVERSIZED:
+            log(f"cena {c['seq_global']}: prompt acima do limite — NAO criado (cota preservada)")
+            failed += 1; continue
         if not focus: log(f"cena {c['seq_global']}: prompt ausente, pulando"); failed += 1; continue
         cena_sids = (load_cena_sources(proj).get(str(c["seq_global"])) or {}).get("source_ids") or None
         escopo = f"{len(cena_sids)} fonte(s) da cena" if cena_sids else "TODAS as fontes (sem escopo!)"
@@ -352,6 +408,9 @@ def main():
     ap.add_argument("--profile", help="conta/perfil NLM para ESTA run (default: notebooklm.profile). "
                                       "Preferir 'default' (pessoal); usar a profissional só p/ agilizar.")
     ap.add_argument("--force", action="store_true", help="ignora guard de perfil")
+    ap.add_argument("--allow-truncate", action="store_true",
+                    help=f"permite truncar prompt acima de {MAX_FOCUS_CHARS} chars "
+                         "(default: RECUSA a cena, preservando a cota)")
     args = ap.parse_args()
 
     proj = Path(args.project).expanduser()
@@ -366,7 +425,8 @@ def main():
 
     # acoes que NAO tocam a conta
     if args.dry_run:
-        return cmd_create(proj, cfg, scenes, width, profile, args.create or 0, dry=True)
+        return cmd_create(proj, cfg, scenes, width, profile, args.create or 0, dry=True,
+                          allow_truncate=args.allow_truncate)
     if not (args.create or args.all or args.download):
         return cmd_status(proj, cfg, scenes, width, profile)  # standby: so status
 
@@ -375,7 +435,8 @@ def main():
         return cmd_download(proj, cfg, profile, scenes)
     if not check_auth(profile):
         log(f"ERRO: nlm nao autenticado no perfil {profile}. Rode: nlm login -p {profile}"); return 1
-    return cmd_create(proj, cfg, scenes, width, profile, 0 if args.all else args.create, dry=False)
+    return cmd_create(proj, cfg, scenes, width, profile, 0 if args.all else args.create, dry=False,
+                      allow_truncate=args.allow_truncate)
 
 
 if __name__ == "__main__":

@@ -79,8 +79,16 @@ skill segue o **cof_v2**: isolar cada processo só por `NLM_PROFILE`, **nunca** 
   pilar. Corrige o anti-padrão do **Ben-Hur**, que repetia tudo a cada áudio (~1/4 do tempo perdido).
 - **Idioma:** instruções em **inglês**; **diretiva de output explícita** conforme §D + flag
   `--language <lang>` no runner.
-- **Limite `MAX_FOCUS_CHARS = 10000`:** **evitar truncamento** sempre que possível. Se truncar, a
-  skill **avisa o nome do arquivo truncado** (log + Telegram) para revisão manual.
+- **Limite `MAX_FOCUS_CHARS = 10000` (endurecido em 2026-08-09):** o runner **RECUSA** a cena
+  cujo prompt exceda o teto — não cria o áudio e **não gasta cota**; trunca apenas com
+  `--allow-truncate` explícito. Antes ele truncava com um simples `AVISO` no log, o que se
+  mostrou perigoso: o corte cai sempre na **cauda** do prompt, onde ficam os requisitos de
+  entrega (**incluindo a diretiva de idioma pt-BR**), e o áudio degradado já tinha consumido
+  cota — o recurso escasso. Falhar antes de gastar cota > entregar áudio silenciosamente pior.
+  O `--status` faz preflight e lista os prompts acima do teto **antes** de qualquer criação.
+  Atenção: o aviso do `03_build_prompts.py` só cobre prompts que **ele** gera — prompt escrito
+  ou editado à mão escapa dele (foi assim que o caso de `o-idiota` passou). Referência de
+  calibração: os prompts do Quo Vadis têm média **9.996** chars, construídos contra o teto.
 
 ### Passo 4 — Autenticação (mantido como está)
 - O `nlm` **não faz login headless por senha** (OAuth + 2FA). Modelo adotado: **keepalive +

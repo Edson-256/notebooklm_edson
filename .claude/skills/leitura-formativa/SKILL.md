@@ -54,6 +54,21 @@ Spec de design completa em `SKILL_pipeline_audio_nlm.md` (raiz do repo) — **le
    `../../scripts/nlm_keepalive.sh` — keepalive estendido (5 perfis).
 
 ## Regras in&shy;negociáveis (lições aprendidas — não reintroduzir bugs)
+- **Teto de 10.000 caracteres por prompt (`MAX_FOCUS_CHARS`).** É o limite do `--focus` do
+  Audio Overview. Acima disso o runner **RECUSA a cena** (não cria, não gasta cota); só trunca
+  com `--allow-truncate` explícito. Razão: o corte é sempre na **cauda** do prompt, justamente
+  onde ficam os requisitos de entrega — **inclusive a diretiva de idioma pt-BR** — e o áudio
+  degradado já teria consumido cota. Os prompts do Quo Vadis têm média 9.996 chars porque foram
+  construídos *contra* esse teto. **Prompt escrito ou editado à mão também conta:** o aviso do
+  `03_build_prompts.py` só cobre o que ele mesmo gera. Confira com `--status` antes de criar.
+- **Delimitação da cena: escolha UMA estratégia e seja coerente.**
+  - **(a) Multi-fonte** (modelo Quo Vadis, melhor ancoragem): 1 fonte por capítulo +
+    `_cena_sources.json` (`seq_global` → `source_ids`) → o runner passa `--source-ids` por cena.
+  - **(b) Fonte única**: `04_build_nlm_source.py` com marcadores `<<< CENA n — INICIO/FIM >>>`.
+  - **O híbrido é o bug:** notebook multi-fonte **sem** `_cena_sources.json` faz o NotebookLM
+    receber *todas* as fontes e o áudio invadir a cena seguinte (ocorreu em `o-idiota`,
+    2026-08-09; o `quo_vadis_runner.resolve_source_ids` fazia isso e a skill tinha perdido).
+    O `--status` acusa esse estado.
 - **Paralelismo entre contas SÓ via `NLM_PROFILE` (env var) em todo subprocess. NUNCA `nlm login
   switch` no runner** (grava estado global → quebra execução paralela). Ref: cof_v2:471.
 - **Um notebook vive em UMA conta.** Não dá para gerar em conta sem acesso ao notebook
