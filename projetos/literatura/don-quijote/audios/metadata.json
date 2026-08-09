@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-08-08T08:26:44.056772",
+  "atualizado": "2026-08-09T08:26:34.392823",
   "audios": [
     {
       "seq_global": 1,
@@ -1182,8 +1182,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-08T08:22:19.530409",
-      "status": "created",
-      "artifact_id": "503bd454-c1fa-4692-ac38-d048af5ba3da"
+      "status": "downloaded",
+      "artifact_id": "503bd454-c1fa-4692-ac38-d048af5ba3da",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/091_cap-028_cena-004_El-Si-quiero-la-cobardia-tras-el-tapiz.m4a",
+      "tamanho_bytes": 15901329
     },
     {
       "seq_global": 92,
@@ -1193,8 +1195,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-08T08:24:32.178605",
-      "status": "created",
-      "artifact_id": "d66a09ca-9fd7-48a7-84f9-8e815e6af7c8"
+      "status": "downloaded",
+      "artifact_id": "d66a09ca-9fd7-48a7-84f9-8e815e6af7c8",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/092_cap-029_cena-001_El-labrador-que-era-una-diosa-el-rostro-bajo-el-disfraz.m4a",
+      "tamanho_bytes": 47268127
     },
     {
       "seq_global": 93,
@@ -1204,8 +1208,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-08T08:26:44.054766",
+      "status": "downloaded",
+      "artifact_id": "db5efba9-781a-4b18-839c-99ef64f1351c",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/093_cap-029_cena-002_Tu-vasalla-soy-pero-no-tu-esclava-la-caida-razonada.m4a",
+      "tamanho_bytes": 36827423
+    },
+    {
+      "seq_global": 94,
+      "arquivo": "094_cap-029_cena-003_Del-derrumbadero-al-yermo-la-honra-defendida-a-solas.m4a",
+      "titulo": "Del derrumbadero al yermo: la honra defendida a solas",
+      "cap": 29,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-09T08:22:10.951568",
       "status": "created",
-      "artifact_id": "db5efba9-781a-4b18-839c-99ef64f1351c"
+      "artifact_id": "e7243ba3-7f6d-4c0f-8841-8a8bebcbc85c"
+    },
+    {
+      "seq_global": 95,
+      "arquivo": "095_cap-030_cena-001_El-reconocimiento-y-el-pacto-de-los-desdichados.m4a",
+      "titulo": "El reconocimiento y el pacto de los desdichados",
+      "cap": 30,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-09T08:24:22.145267",
+      "status": "created",
+      "artifact_id": "3fe57bb0-5002-42d9-a189-443cd548054f"
+    },
+    {
+      "seq_global": 96,
+      "arquivo": "096_cap-030_cena-002_Dorotea-se-hace-princesa-la-literatura-como-instrumento.m4a",
+      "titulo": "Dorotea se hace princesa: la literatura como instrumento",
+      "cap": 30,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-09T08:26:34.389293",
+      "status": "created",
+      "artifact_id": "116f6a15-bb69-45e6-aff8-5e45c4adbe6f"
     }
   ]
 }
