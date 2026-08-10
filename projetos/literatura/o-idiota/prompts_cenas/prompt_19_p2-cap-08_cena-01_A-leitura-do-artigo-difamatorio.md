@@ -6,7 +6,7 @@ This is **audio 19 of 43** on the novel *O Idiota* (1868), by Fiódor Dostoiévs
 
 The method was presented in episode 1 — **do NOT re-explain it.** Name the pillar in focus and apply it. Open with a short bridge, for example:
 
-> "No áudio anterior, na varanda da dacha em Pávlovsk, Agláia declamava a balada do cavaleiro pobre trocando as iniciais numa zombaria cifrada, Evguéni Pávlovitch chegava e, logo em seguida, anunciava-se a turma do 'filho de Pavlischov', que entrou diante de todos. Hoje ficamos exatamente ali: a mesma varanda, a mesma gente sentada — e um jornal que alguém vai ler em voz alta."
+> "No áudio anterior, na varanda da dacha em Pávlovsk, Aglaia declamava a balada do cavaleiro pobre trocando as iniciais numa zombaria cifrada, Evguéni Pávlovitch chegava e, logo em seguida, anunciava-se a turma do 'filho de Pavlischov', que entrou diante de todos. Hoje ficamos exatamente ali: a mesma varanda, a mesma gente sentada — e um jornal que alguém vai ler em voz alta."
 
 ## Scene data
 
@@ -24,13 +24,13 @@ The method was presented in episode 1 — **do NOT re-explain it.** Name the pil
 
 ## Contexto narrativo
 
-O príncipe Míchkin herdou uma fortuna e alugou uma dacha em Pávlovsk. Apareceu um jovem, Antip Burdóvski, dizendo-se filho de Pavlischov — o benfeitor que pagou o tratamento do príncipe na Suíça — e exigindo dinheiro. Míchkin já havia entregue o caso a Gavrila Ardaliónovitch (Gánia) para apurar.
+O príncipe Míchkin herdou uma fortuna e alugou uma dacha em Pávlovsk. Apareceu um jovem, Antip Burdovski, dizendo-se filho de Pavlischov — o benfeitor que pagou o tratamento do príncipe na Suíça — e exigindo dinheiro. Míchkin já havia entregue o caso a Gavrila Ardaliónovitch (Gánia) para apurar.
 
-Nesta noite, a turma de Burdóvski invade a varanda cheia de visitas: Hippolit, tísico e mordaz; Doktorenko, sobrinho de Liébediev; e Keller, o boxeador. Estão ali os Iepántchin, Evguéni Pávlovitch, Gánia, Vária, Ptítzin.
+Nesta noite, a turma de Burdovski invade a varanda cheia de visitas: Hippolit, tísico e mordaz; Doktorenko, sobrinho de Liébediev; e Keller, o boxeador. Estão ali os Iepántchin, Evguéni Pávlovitch, Gánia, Vária, Ptítzin.
 
 ## Resumo da cena
 
-O príncipe tenta ser cortês e propõe passar a outro cômodo. Não adianta. Doktorenko reclama das duas horas de espera "no recinto dos criados"; Burdóvski balbucia com os lábios trêmulos, respingando saliva, sem que se entenda uma em cada dez palavras; Hippolit gane "com voz esganiçada de cana rachada". Burdóvski berra:
+O príncipe tenta ser cortês e propõe passar a outro cômodo. Não adianta. Doktorenko reclama das duas horas de espera "no recinto dos criados"; Burdovski balbucia com os lábios trêmulos, respingando saliva, sem que se entenda uma em cada dez palavras; Hippolit gane "com voz esganiçada de cana rachada". Burdovski berra:
 
 > — Mas o senhor não tem o direito, não tem o direito, não tem o direito!...
 
@@ -42,7 +42,7 @@ Ivan Fiódorovitch explode; o príncipe suplica: "Pare, Kólia!". A generala nã
 
 O silêncio que se segue é o coração da cena. Todos estão constrangidos: as moças, a generala arrependida da própria iniciativa, o príncipe envergonhado *pelos outros*. Só o boxeador está tranquilo, torcendo o bigode, satisfeito — ele é o autor.
 
-E o príncipe responde. Não se defende: diz que tudo ali é inverdade e que os senhores mesmos sabem disso. Corrige apenas o que toca terceiros — o pai, e Pavlischov, "o homem mais puro que já existiu na face da terra". Confessa que não recebeu milhão nenhum, "é possível que eu tenha um oitavo ou um décimo". E diz que vai atender Burdóvski assim mesmo.
+E o príncipe responde. Não se defende: diz que tudo ali é inverdade e que os senhores mesmos sabem disso. Corrige apenas o que toca terceiros — o pai, e Pavlischov, "o homem mais puro que já existiu na face da terra". Confessa que não recebeu milhão nenhum, "é possível que eu tenha um oitavo ou um décimo". E diz que vai atender Burdovski assim mesmo.
 
 No meio disso, Doktorenko faz o discurso do direito:
 
@@ -60,7 +60,7 @@ Repare no que o príncipe **não** faz. Não processa ninguém, não exige retra
 
 E onde ele se irrita? Só onde a mentira fere **os mortos** — o pai e Pavlischov. A própria honra ele deixa no chão.
 
-Mostre ao ouvinte que essa sinceridade tem um preço visível: falando sem cálculo, ele diz demais, humilha Burdóvski em público sem querer, e se dá conta disso segundos depois. Sinceridade não é habilidade social. É desarmamento — e às vezes machuca.
+Mostre ao ouvinte que essa sinceridade tem um preço visível: falando sem cálculo, ele diz demais, humilha Burdovski em público sem querer, e se dá conta disso segundos depois. Sinceridade não é habilidade social. É desarmamento — e às vezes machuca.
 
 ### Exigir não é o mesmo que pedir
 
@@ -91,7 +91,7 @@ Invite the listener to close their eyes:
 - A **varanda da dacha** cheia de gente sentada, à noite, já passando das nove horas.
 - O **jornal humorístico** que Liébediev tira do bolso lateral e põe bem diante dos olhos da generala, o dedo apontando a coluna.
 - A **voz de Kólia** lendo alto, vermelho e trêmulo, no meio do silêncio.
-- Os **olhos míopes de Burdóvski**, muito saltados, marcados por veias vermelhas e grossas, fixos no príncipe.
+- Os **olhos míopes de Burdovski**, muito saltados, marcados por veias vermelhas e grossas, fixos no príncipe.
 - O **bigode do boxeador**, torcido devagar entre os dedos, com ar de triunfo mal escondido.
 - O **general Ivan Fiódorovitch de costas**, parado no último degrau da varanda, na maior indignação.
 - As **mãos de Kólia cobrindo o rosto** no canto do cômodo.
@@ -102,7 +102,7 @@ Do **not** do any of the following:
 
 - **Não** antecipar o que Gavrila Ardaliónovitch vai provar. Termine no instante em que ele começa a falar e todos escutam.
 - **Não** contar biografia de Dostoiévski (nem jornalismo, nem prisão, nem dívidas). A cena se sustenta sozinha.
-- **Não** transformar Burdóvski e sua turma em vilões planos. Eles estão enganados, e alguns nem aprovam o artigo.
+- **Não** transformar Burdovski e sua turma em vilões planos. Eles estão enganados, e alguns nem aprovam o artigo.
 - **Não** explicar as notas de rodapé nem o epigrama com erudição. Uma frase e siga.
 - **Não** moralizar sobre a imprensa. Descreva o constrangimento da sala e deixe o ouvinte sentir.
 
@@ -115,5 +115,5 @@ E a pergunta que fica: quando alguém nos deve gratidão e passa a nos cobrar co
 ## Delivery requirements
 
 - **Language:** the ENTIRE audio must be spoken in fluent, natural **Brazilian Portuguese (pt-BR)**. The English above is instruction only — never read it aloud and never switch languages.
-- **Names:** keep the transliterations used above (Míchkin, Liev Nikoláievitch, Antip Burdóvski, Hippolit, Doktorenko, Keller, Kólia, Liébediev, Lisavieta Prokófievna, Ivan Fiódorovitch, Gavrila Ardaliónovitch, Pavlischov, Tchebarov).
+- **Names:** keep the transliterations used above (Míchkin, Liev Nikoláievitch, Antip Burdovski, Hippolit, Doktorenko, Keller, Kólia, Liébediev, Lisavieta Prokófievna, Ivan Fiódorovitch, Gavrila Ardaliónovitch, Pavlischov, Tchebarov).
 - **Assume:** the listener has followed the series from episode 1.

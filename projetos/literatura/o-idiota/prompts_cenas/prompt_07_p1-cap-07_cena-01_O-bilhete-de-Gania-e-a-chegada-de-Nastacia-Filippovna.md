@@ -30,23 +30,23 @@ E é exatamente daí que a cena o faz descer: da sala de visitas para o gabinete
 
 ## Resumo da cena
 
-Perguntam a Míchkin sobre Agláia. Ele responde que ela é bela a ponto de dar medo, e deixa escapar:
+Perguntam a Míchkin sobre Aglaia. Ele responde que ela é bela a ponto de dar medo, e deixa escapar:
 
 > — Excepcionalmente! É quase como Nastácia Filíppovna, embora o rosto seja de todo diferente!...
 
 A frase abre uma cratera. Ninguém ali deveria saber do retrato. Mandam-no buscá-lo com Gánia, que o recebe com um "Por que o senhor foi dar com a língua nos dentes!" e um "Idiota" resmungado.
 
-E então Gánia lhe pede o favor: entregar um bilhete a Agláia, só a ela, sem que ninguém veja. Acrescenta, agitado: "O bilhete não está fechado, porém..." Míchkin responde com uma simplicidade que desarma:
+E então Gánia lhe pede o favor: entregar um bilhete a Aglaia, só a ela, sem que ninguém veja. Acrescenta, agitado: "O bilhete não está fechado, porém..." Míchkin responde com uma simplicidade que desarma:
 
 > — Oh, eu não vou ler.
 
 No caminho, sozinho, ele para na janela, aproxima o retrato da claridade, olha "cerca de um minuto" aquele rosto de altivez e desprezo misturados a algo crédulo — e o beija às escondidas. Um minuto depois entra no salão com o rosto absolutamente tranquilo.
 
-Agláia recebe o bilhete e devolve o silêncio. Depois chama o príncipe para assinar seu álbum e dita a frase que é o centro do capítulo:
+Aglaia recebe o bilhete e devolve o silêncio. Depois chama o príncipe para assinar seu álbum e dita a frase que é o centro do capítulo:
 
 > "Eu não participo de leilão."
 
-E lhe entrega o bilhete de Gánia para que ele leia — o pedido de "apenas uma palavra de compaixão" em troca da qual ele romperia tudo. O julgamento de Agláia é sem misericórdia: "Mas a alma dele é suja: ele sabe e não ousa; ele sabe e mesmo assim pede garantias."
+E lhe entrega o bilhete de Gánia para que ele leia — o pedido de "apenas uma palavra de compaixão" em troca da qual ele romperia tudo. O julgamento de Aglaia é sem misericórdia: "Mas a alma dele é suja: ele sabe e não ousa; ele sabe e mesmo assim pede garantias."
 
 Na rua, Gánia recebe o bilhete de volta, fica petrificado, xinga, bate com a galocha na calçada, chama o príncipe de idiota duas vezes. E o príncipe, sem levantar a voz, propõe que se separem no cruzamento: "o senhor toma a direita no rumo de sua casa, e eu a esquerda." Gánia cora e pede desculpas.
 
@@ -60,7 +60,7 @@ A cena doméstica ferve — o retrato posto no lugar mais visível, Vária dizen
 
 Ponha os três lado a lado, sem julgar de fora — deixe o texto julgar.
 
-**Gánia** escreve um bilhete que pede compaixão e, ao mesmo tempo, se protege por escrito: quer a palavra de Agláia como garantia antes de arriscar. Ele *sabe* o que seria certo fazer — romper sozinho, sem negociar — e não ousa. Agláia percebe isso em segundos.
+**Gánia** escreve um bilhete que pede compaixão e, ao mesmo tempo, se protege por escrito: quer a palavra de Aglaia como garantia antes de arriscar. Ele *sabe* o que seria certo fazer — romper sozinho, sem negociar — e não ousa. Aglaia percebe isso em segundos.
 
 **O general Ívolguin** mente para não desabar. A história de Kolpakov não é maldade: é um homem arruinado costurando um passado em que ainda era alguém. Trate-o com pena, não com deboche.
 
@@ -110,7 +110,7 @@ Do **not** do any of the following:
 - **Não** antecipar nada do que acontece depois que o nome de Nastácia Filíppovna é anunciado. O episódio termina exatamente na porta.
 - **Não** contar biografia de Dostoiévski — nem dívidas, nem prisão, nem nada. A cena se sustenta sozinha.
 - **Não** transformar Gánia em vilão. O texto é claro: ele sofre, e o que o corrói é a inveja, que "de repente o mordeu em pleno coração".
-- **Não** decidir se Agláia é justa ou cruel ao humilhar o bilhete. Deixe a dúvida de pé.
+- **Não** decidir se Aglaia é justa ou cruel ao humilhar o bilhete. Deixe a dúvida de pé.
 - **Não** fazer sermão sobre dinheiro nem sobre "casamento por interesse". Fique nas pessoas, não na tese.
 
 ## Encerramento
@@ -122,5 +122,5 @@ E a pergunta que fica: quando falo, estou dizendo o que penso — ou estou sonda
 ## Delivery requirements
 
 - **Language:** the ENTIRE audio must be spoken in fluent, natural **Brazilian Portuguese (pt-BR)**. The English above is instruction only — never read it aloud and never switch languages.
-- **Names:** keep the transliterations used above (Míchkin, Gánia / Gavrila Ardaliónovitch, Agláia, Nastácia Filíppovna, Ielisavieta Prokófievna, Nina Alieksándrovna, Vária, Fierdischenko, Ívolguin).
+- **Names:** keep the transliterations used above (Míchkin, Gánia / Gavrila Ardaliónovitch, Aglaia, Nastácia Filíppovna, Ielisavieta Prokófievna, Nina Alieksándrovna, Vária, Fierdischenko, Ívolguin).
 - **Assume:** the listener has followed the series from episode 1.

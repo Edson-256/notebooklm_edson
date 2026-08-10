@@ -7,7 +7,7 @@ The method was explained in episode 1 — **do NOT re-explain it here.** Simply 
 
 ## Opening (first ~30 seconds)
 Announce clearly: "Este é o áudio da **cena 32**, **capítulo 4**."
-Then recap the previous scene in one or two sentences (do not dwell): "O roubo de Liébediev, as cartas de Nastácia e Rogójin na escuridão" — Liébediev relata o sumiço dos quatrocentos rublos e suas suspeitas; o príncipe finalmente lê as cartas delirantes de Nastácia a Agláia, e numa caminhada noturna reencontra Nastácia ajoelhada na rua e Rogójin, que a leva embora, fechando a Terceira Parte com pressentimento de tragédia.
+Then recap the previous scene in one or two sentences (do not dwell): "O roubo de Liébediev, as cartas de Nastácia e Rogójin na escuridão" — Liébediev relata o sumiço dos quatrocentos rublos e suas suspeitas; o príncipe finalmente lê as cartas delirantes de Nastácia a Aglaia, e numa caminhada noturna reencontra Nastácia ajoelhada na rua e Rogójin, que a leva embora, fechando a Terceira Parte com pressentimento de tragédia.
 
 ## Scene data
 - **Scene:** 32 of 43

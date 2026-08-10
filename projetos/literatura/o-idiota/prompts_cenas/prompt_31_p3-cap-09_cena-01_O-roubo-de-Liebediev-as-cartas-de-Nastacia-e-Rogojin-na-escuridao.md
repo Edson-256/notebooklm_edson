@@ -7,7 +7,7 @@ The method was explained in episode 1 — **do NOT re-explain it here.** Simply 
 
 ## Opening (first ~30 seconds)
 Announce clearly: "Este é o áudio da **cena 31**, **capítulo 3**."
-Then recap the previous scene in one or two sentences (do not dwell): "O encontro no banco verde: a proposta de Agláia e as cartas de Nastácia" — Agláia desperta o príncipe no banco e lhe propõe fugir de casa e ser seu amigo, mas a conversa descamba para a paixão de Nastácia, cujas três cartas Agláia exibe exigindo que o príncipe as devolva; Lisavieta Prokófievna surpreende o encontro e os leva para casa.
+Then recap the previous scene in one or two sentences (do not dwell): "O encontro no banco verde: a proposta de Aglaia e as cartas de Nastácia" — Aglaia desperta o príncipe no banco e lhe propõe fugir de casa e ser seu amigo, mas a conversa descamba para a paixão de Nastácia, cujas três cartas Aglaia exibe exigindo que o príncipe as devolva; Lisavieta Prokófievna surpreende o encontro e os leva para casa.
 
 ## Scene data
 - **Scene:** 31 of 43
@@ -19,7 +19,7 @@ Then recap the previous scene in one or two sentences (do not dwell): "O encontr
 - **Ends at:** "— Ainda poderia ter dito “sim!”—riu maldosamente Rogójin, e se foi sem olhar para trás."
 
 ## What happens
-Liébediev relata o sumiço dos quatrocentos rublos e suas suspeitas; o príncipe finalmente lê as cartas delirantes de Nastácia a Agláia, e numa caminhada noturna reencontra Nastácia ajoelhada na rua e Rogójin, que a leva embora, fechando a Terceira Parte com pressentimento de tragédia.
+Liébediev relata o sumiço dos quatrocentos rublos e suas suspeitas; o príncipe finalmente lê as cartas delirantes de Nastácia a Aglaia, e numa caminhada noturna reencontra Nastácia ajoelhada na rua e Rogójin, que a leva embora, fechando a Terceira Parte com pressentimento de tragédia.
 
 ## Pillar in focus
 **Literatura como Meio (read to grow as a person, not to 'have read').** O ambiente decadente — a casa-cemitério de Rogójin com a navalha e o morto encerado, a desordem da datcha após a noitada, o parque escuro — atua como força que arrasta os personagens, encarnando o "meio" como destino que se fecha sobre eles. Lead the listener to *experience* this, not merely understand it.

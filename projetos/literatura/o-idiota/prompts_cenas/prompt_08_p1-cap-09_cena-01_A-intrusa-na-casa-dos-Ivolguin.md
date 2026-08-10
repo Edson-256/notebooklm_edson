@@ -6,7 +6,7 @@ This is **audio 8 of 43** on the novel *O Idiota* (1868), by Fiódor Dostoiévsk
 
 The method was presented in episode 1 — **do NOT re-explain it.** Name the pillar in focus and apply it. Open with a short bridge, for example:
 
-> "No áudio anterior o príncipe levou o bilhete de Gánia, recebeu de Agláia a recusa mais altiva do livro e foi parar na casa dos Ívolguin — onde, ao abrir a porta, deu de cara com a própria Nastácia Filíppovna. Hoje ficamos exatamente ali: uma sala de visitas em que uma mulher entra rindo, e todo mundo, menos um, entende errado o que está acontecendo."
+> "No áudio anterior o príncipe levou o bilhete de Gánia, recebeu de Aglaia a recusa mais altiva do livro e foi parar na casa dos Ívolguin — onde, ao abrir a porta, deu de cara com a própria Nastácia Filíppovna. Hoje ficamos exatamente ali: uma sala de visitas em que uma mulher entra rindo, e todo mundo, menos um, entende errado o que está acontecendo."
 
 ## Scene data
 
