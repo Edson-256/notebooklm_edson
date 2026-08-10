@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T13:10:45Z",
+  "updated_at": "2026-08-10T17:13:37Z",
   "audios": {
     "05_etica/01_etica_nicomaco/L01-C01_cena01": {
       "artifact_id": "46097252-f46f-41a0-b77f-86b89e4b0945",
@@ -8633,141 +8633,307 @@
       "artifact_id": "451f6f13-6c77-4474-838a-bcba9802655f",
       "audio_title": "aristoteles_20_l02_c05_cena01_partes_animais",
       "audio_filename": "aristoteles_20_l02_c05_cena01_partes_animais.m4a",
-      "status": "created",
-      "created_at": "2026-08-08T11:15:22Z"
+      "status": "downloaded",
+      "created_at": "2026-08-08T11:15:22Z",
+      "downloaded_at": "2026-08-10T16:23:00Z",
+      "bytes": 58377546
     },
     "03_psicologia_biologia/04_partes_animais/L02-C06_cena01": {
       "artifact_id": "1905467c-4916-491f-b97a-8775c4883b4c",
       "audio_title": "aristoteles_20_l02_c06_cena01_partes_animais",
       "audio_filename": "aristoteles_20_l02_c06_cena01_partes_animais.m4a",
-      "status": "created",
-      "created_at": "2026-08-08T11:17:32Z"
+      "status": "downloaded",
+      "created_at": "2026-08-08T11:17:32Z",
+      "downloaded_at": "2026-08-10T16:23:47Z",
+      "bytes": 41881501
     },
     "03_psicologia_biologia/04_partes_animais/L02-C07_cena01": {
       "artifact_id": "014f00b1-3a99-439c-b86d-9ceb7ee38aa6",
       "audio_title": "aristoteles_20_l02_c07_cena01_partes_animais",
       "audio_filename": "aristoteles_20_l02_c07_cena01_partes_animais.m4a",
-      "status": "created",
-      "created_at": "2026-08-08T11:19:42Z"
+      "status": "downloaded",
+      "created_at": "2026-08-08T11:19:42Z",
+      "downloaded_at": "2026-08-10T16:24:31Z",
+      "bytes": 28253518
     },
     "03_psicologia_biologia/04_partes_animais/L02-C08_cena01": {
       "artifact_id": "793ab69b-f837-49e0-bd39-695e5ac13c26",
       "audio_title": "aristoteles_20_l02_c08_cena01_partes_animais",
       "audio_filename": "aristoteles_20_l02_c08_cena01_partes_animais.m4a",
-      "status": "created",
-      "created_at": "2026-08-08T11:21:51Z"
+      "status": "downloaded",
+      "created_at": "2026-08-08T11:21:51Z",
+      "downloaded_at": "2026-08-10T16:25:14Z",
+      "bytes": 27763345
     },
     "03_psicologia_biologia/04_partes_animais/L02-C09_cena01": {
       "artifact_id": "652be79d-8549-4c0e-9b12-1f4c8b3b38cf",
       "audio_title": "aristoteles_20_l02_c09_cena01_partes_animais",
       "audio_filename": "aristoteles_20_l02_c09_cena01_partes_animais.m4a",
-      "status": "created",
-      "created_at": "2026-08-08T11:24:02Z"
+      "status": "downloaded",
+      "created_at": "2026-08-08T11:24:02Z",
+      "downloaded_at": "2026-08-10T16:25:54Z",
+      "bytes": 42395579
     },
     "03_psicologia_biologia/04_partes_animais/L02-C10_cena01": {
       "artifact_id": "e7e036ba-e878-49b1-87df-7dfee09764a5",
       "audio_title": "aristoteles_20_l02_c10_cena01_partes_animais",
       "audio_filename": "aristoteles_20_l02_c10_cena01_partes_animais.m4a",
-      "status": "created",
-      "created_at": "2026-08-08T11:26:13Z"
+      "status": "downloaded",
+      "created_at": "2026-08-08T11:26:13Z",
+      "downloaded_at": "2026-08-10T16:26:41Z",
+      "bytes": 54233709
     },
     "03_psicologia_biologia/04_partes_animais/L02-C11_cena01": {
       "artifact_id": "3dbf6e3f-6f36-4bb3-bbb0-8b88c4067511",
       "audio_title": "aristoteles_20_l02_c11_cena01_partes_animais",
       "audio_filename": "aristoteles_20_l02_c11_cena01_partes_animais.m4a",
-      "status": "created",
-      "created_at": "2026-08-08T11:28:24Z"
+      "status": "downloaded",
+      "created_at": "2026-08-08T11:28:24Z",
+      "downloaded_at": "2026-08-10T16:27:23Z",
+      "bytes": 23993890
     },
     "03_psicologia_biologia/04_partes_animais/L02-C12_cena01": {
       "artifact_id": "e0e2b84a-29b6-4fc8-a9e7-9ad9e0b8e7de",
       "audio_title": "aristoteles_20_l02_c12_cena01_partes_animais",
       "audio_filename": "aristoteles_20_l02_c12_cena01_partes_animais.m4a",
-      "status": "created",
-      "created_at": "2026-08-08T11:30:34Z"
+      "status": "downloaded",
+      "created_at": "2026-08-08T11:30:34Z",
+      "downloaded_at": "2026-08-10T16:28:06Z",
+      "bytes": 24677662
     },
     "03_psicologia_biologia/04_partes_animais/L02-C13_cena01": {
       "artifact_id": "0f22f3dd-d33b-4800-a54d-b57494cc3fe2",
       "audio_title": "aristoteles_20_l02_c13_cena01_partes_animais",
       "audio_filename": "aristoteles_20_l02_c13_cena01_partes_animais.m4a",
-      "status": "created",
-      "created_at": "2026-08-08T11:32:45Z"
+      "status": "downloaded",
+      "created_at": "2026-08-08T11:32:45Z",
+      "downloaded_at": "2026-08-10T16:28:48Z",
+      "bytes": 41812026
     },
     "03_psicologia_biologia/04_partes_animais/L02-C14_cena01": {
       "artifact_id": "66394d72-7ade-411c-8126-45ffe8fabcc5",
       "audio_title": "aristoteles_20_l02_c14_cena01_partes_animais",
       "audio_filename": "aristoteles_20_l02_c14_cena01_partes_animais.m4a",
-      "status": "created",
-      "created_at": "2026-08-08T11:34:54Z"
+      "status": "downloaded",
+      "created_at": "2026-08-08T11:34:54Z",
+      "downloaded_at": "2026-08-10T16:29:34Z",
+      "bytes": 28604095
     },
     "03_psicologia_biologia/04_partes_animais/L02-C15_cena01": {
       "artifact_id": "add7945d-4b8d-4e47-bc44-f2f7294a3f31",
       "audio_title": "aristoteles_20_l02_c15_cena01_partes_animais",
       "audio_filename": "aristoteles_20_l02_c15_cena01_partes_animais.m4a",
-      "status": "created",
-      "created_at": "2026-08-08T11:37:05Z"
+      "status": "downloaded",
+      "created_at": "2026-08-08T11:37:05Z",
+      "downloaded_at": "2026-08-10T16:30:19Z",
+      "bytes": 38954307
     },
     "03_psicologia_biologia/04_partes_animais/L02-C16_cena01": {
       "artifact_id": "0f0bb2b0-9723-4db4-86dd-f8438a7a8bc4",
       "audio_title": "aristoteles_20_l02_c16_cena01_partes_animais",
       "audio_filename": "aristoteles_20_l02_c16_cena01_partes_animais.m4a",
-      "status": "created",
-      "created_at": "2026-08-08T11:39:13Z"
+      "status": "downloaded",
+      "created_at": "2026-08-08T11:39:13Z",
+      "downloaded_at": "2026-08-10T16:31:02Z",
+      "bytes": 27728234
     },
     "03_psicologia_biologia/04_partes_animais/L02-C17_cena01": {
       "artifact_id": "4d7525ff-28aa-4b30-a182-9b6e06824bce",
       "audio_title": "aristoteles_20_l02_c17_cena01_partes_animais",
       "audio_filename": "aristoteles_20_l02_c17_cena01_partes_animais.m4a",
-      "status": "created",
-      "created_at": "2026-08-08T11:41:22Z"
+      "status": "downloaded",
+      "created_at": "2026-08-08T11:41:22Z",
+      "downloaded_at": "2026-08-10T16:31:43Z",
+      "bytes": 23472273
     },
     "03_psicologia_biologia/04_partes_animais/L03-C01_cena01": {
       "artifact_id": "6d6ab9f1-0bb5-4037-a08c-82c0d71d13a4",
       "audio_title": "aristoteles_20_l03_c01_cena01_partes_animais",
       "audio_filename": "aristoteles_20_l03_c01_cena01_partes_animais.m4a",
-      "status": "created",
-      "created_at": "2026-08-08T11:43:32Z"
+      "status": "downloaded",
+      "created_at": "2026-08-08T11:43:32Z",
+      "downloaded_at": "2026-08-10T16:32:26Z",
+      "bytes": 36013666
     },
     "03_psicologia_biologia/04_partes_animais/L03-C02_cena01": {
       "artifact_id": "c975a25b-35cb-4458-9afc-b80ded8132a3",
       "audio_title": "aristoteles_20_l03_c02_cena01_partes_animais",
       "audio_filename": "aristoteles_20_l03_c02_cena01_partes_animais.m4a",
-      "status": "created",
-      "created_at": "2026-08-08T11:45:42Z"
+      "status": "downloaded",
+      "created_at": "2026-08-08T11:45:42Z",
+      "downloaded_at": "2026-08-10T16:33:09Z",
+      "bytes": 30106122
     },
     "03_psicologia_biologia/04_partes_animais/L03-C03_cena01": {
       "artifact_id": "dd7724e2-5a52-4f08-b2b2-0b6d193a8b10",
       "audio_title": "aristoteles_20_l03_c03_cena01_partes_animais",
       "audio_filename": "aristoteles_20_l03_c03_cena01_partes_animais.m4a",
-      "status": "created",
-      "created_at": "2026-08-08T11:47:53Z"
+      "status": "downloaded",
+      "created_at": "2026-08-08T11:47:53Z",
+      "downloaded_at": "2026-08-10T16:33:50Z",
+      "bytes": 34550385
     },
     "03_psicologia_biologia/04_partes_animais/L03-C04_cena01": {
       "artifact_id": "d2497484-65ff-4684-af2e-310c576264e0",
       "audio_title": "aristoteles_20_l03_c04_cena01_partes_animais",
       "audio_filename": "aristoteles_20_l03_c04_cena01_partes_animais.m4a",
-      "status": "created",
-      "created_at": "2026-08-08T11:50:03Z"
+      "status": "downloaded",
+      "created_at": "2026-08-08T11:50:03Z",
+      "downloaded_at": "2026-08-10T16:34:33Z",
+      "bytes": 38306392
     },
     "03_psicologia_biologia/04_partes_animais/L03-C04_cena02": {
       "artifact_id": "b647a58f-4c68-4bd9-a19e-01cd48507ccf",
       "audio_title": "aristoteles_20_l03_c04_cena02_partes_animais",
       "audio_filename": "aristoteles_20_l03_c04_cena02_partes_animais.m4a",
-      "status": "created",
-      "created_at": "2026-08-08T11:52:11Z"
+      "status": "downloaded",
+      "created_at": "2026-08-08T11:52:11Z",
+      "downloaded_at": "2026-08-10T16:35:19Z",
+      "bytes": 52618032
     },
     "03_psicologia_biologia/04_partes_animais/L03-C05_cena01": {
       "artifact_id": "16c77a20-900a-4083-9d6b-ba4f746b7fc0",
       "audio_title": "aristoteles_20_l03_c05_cena01_partes_animais",
       "audio_filename": "aristoteles_20_l03_c05_cena01_partes_animais.m4a",
-      "status": "created",
-      "created_at": "2026-08-08T11:54:22Z"
+      "status": "downloaded",
+      "created_at": "2026-08-08T11:54:22Z",
+      "downloaded_at": "2026-08-10T16:36:07Z",
+      "bytes": 39513208
     },
     "03_psicologia_biologia/04_partes_animais/L03-C06_cena01": {
       "artifact_id": "b1d23941-b024-4751-9072-99efacabdd06",
       "audio_title": "aristoteles_20_l03_c06_cena01_partes_animais",
       "audio_filename": "aristoteles_20_l03_c06_cena01_partes_animais.m4a",
+      "status": "downloaded",
+      "created_at": "2026-08-08T11:56:31Z",
+      "downloaded_at": "2026-08-10T16:36:51Z",
+      "bytes": 34301505
+    },
+    "03_psicologia_biologia/04_partes_animais/L03-C07_cena01": {
+      "artifact_id": "4f94bfe7-337c-444c-b2f7-d92acca74480",
+      "audio_title": "aristoteles_20_l03_c07_cena01_partes_animais",
+      "audio_filename": "aristoteles_20_l03_c07_cena01_partes_animais.m4a",
       "status": "created",
-      "created_at": "2026-08-08T11:56:31Z"
+      "created_at": "2026-08-10T16:37:05Z"
+    },
+    "03_psicologia_biologia/04_partes_animais/L03-C08_cena01": {
+      "artifact_id": "79ebaa9b-068f-4e02-9bbc-095555a97ceb",
+      "audio_title": "aristoteles_20_l03_c08_cena01_partes_animais",
+      "audio_filename": "aristoteles_20_l03_c08_cena01_partes_animais.m4a",
+      "status": "created",
+      "created_at": "2026-08-10T16:39:16Z"
+    },
+    "03_psicologia_biologia/04_partes_animais/L03-C09_cena01": {
+      "artifact_id": "a8a64876-ab00-4bcd-818b-4dd0ca63777c",
+      "audio_title": "aristoteles_20_l03_c09_cena01_partes_animais",
+      "audio_filename": "aristoteles_20_l03_c09_cena01_partes_animais.m4a",
+      "status": "created",
+      "created_at": "2026-08-10T16:41:24Z"
+    },
+    "03_psicologia_biologia/04_partes_animais/L03-C10_cena01": {
+      "artifact_id": "6f4afbda-f99f-410e-8f61-8062059145e4",
+      "audio_title": "aristoteles_20_l03_c10_cena01_partes_animais",
+      "audio_filename": "aristoteles_20_l03_c10_cena01_partes_animais.m4a",
+      "status": "created",
+      "created_at": "2026-08-10T16:43:34Z"
+    },
+    "03_psicologia_biologia/04_partes_animais/L03-C11_cena01": {
+      "artifact_id": "0f6931c4-1666-49fe-94f9-4a3036ffc4c2",
+      "audio_title": "aristoteles_20_l03_c11_cena01_partes_animais",
+      "audio_filename": "aristoteles_20_l03_c11_cena01_partes_animais.m4a",
+      "status": "created",
+      "created_at": "2026-08-10T16:45:42Z"
+    },
+    "03_psicologia_biologia/04_partes_animais/L03-C12_cena01": {
+      "artifact_id": "9a109ee0-ace0-4206-a988-66193e8ee602",
+      "audio_title": "aristoteles_20_l03_c12_cena01_partes_animais",
+      "audio_filename": "aristoteles_20_l03_c12_cena01_partes_animais.m4a",
+      "status": "created",
+      "created_at": "2026-08-10T16:47:51Z"
+    },
+    "03_psicologia_biologia/04_partes_animais/L03-C13_cena01": {
+      "artifact_id": "e7fa60b3-b2b9-4677-b83b-21338fdc880b",
+      "audio_title": "aristoteles_20_l03_c13_cena01_partes_animais",
+      "audio_filename": "aristoteles_20_l03_c13_cena01_partes_animais.m4a",
+      "status": "created",
+      "created_at": "2026-08-10T16:50:01Z"
+    },
+    "03_psicologia_biologia/04_partes_animais/L03-C14_cena01": {
+      "artifact_id": "b2a178be-f01a-4d27-968b-2c76f2264f13",
+      "audio_title": "aristoteles_20_l03_c14_cena01_partes_animais",
+      "audio_filename": "aristoteles_20_l03_c14_cena01_partes_animais.m4a",
+      "status": "created",
+      "created_at": "2026-08-10T16:52:10Z"
+    },
+    "03_psicologia_biologia/04_partes_animais/L03-C15_cena01": {
+      "artifact_id": "cfd557c2-55ca-4a6d-b1c3-10034478652a",
+      "audio_title": "aristoteles_20_l03_c15_cena01_partes_animais",
+      "audio_filename": "aristoteles_20_l03_c15_cena01_partes_animais.m4a",
+      "status": "created",
+      "created_at": "2026-08-10T16:54:19Z"
+    },
+    "03_psicologia_biologia/04_partes_animais/L04-C01_cena01": {
+      "artifact_id": "eb6bcb37-0143-492b-ac92-74cff1139d4e",
+      "audio_title": "aristoteles_20_l04_c01_cena01_partes_animais",
+      "audio_filename": "aristoteles_20_l04_c01_cena01_partes_animais.m4a",
+      "status": "created",
+      "created_at": "2026-08-10T16:56:28Z"
+    },
+    "03_psicologia_biologia/04_partes_animais/L04-C02_cena01": {
+      "artifact_id": "256052b3-e260-4ad5-ab41-27d659da1860",
+      "audio_title": "aristoteles_20_l04_c02_cena01_partes_animais",
+      "audio_filename": "aristoteles_20_l04_c02_cena01_partes_animais.m4a",
+      "status": "created",
+      "created_at": "2026-08-10T16:58:38Z"
+    },
+    "03_psicologia_biologia/04_partes_animais/L04-C03_cena01": {
+      "artifact_id": "3e66998e-e9b9-445e-ad56-0ef64c9f4e11",
+      "audio_title": "aristoteles_20_l04_c03_cena01_partes_animais",
+      "audio_filename": "aristoteles_20_l04_c03_cena01_partes_animais.m4a",
+      "status": "created",
+      "created_at": "2026-08-10T17:00:46Z"
+    },
+    "03_psicologia_biologia/04_partes_animais/L04-C04_cena01": {
+      "artifact_id": "e6351f26-ed32-4900-9e4b-8b38704d82fc",
+      "audio_title": "aristoteles_20_l04_c04_cena01_partes_animais",
+      "audio_filename": "aristoteles_20_l04_c04_cena01_partes_animais.m4a",
+      "status": "created",
+      "created_at": "2026-08-10T17:02:53Z"
+    },
+    "03_psicologia_biologia/04_partes_animais/L04-C05_cena01": {
+      "artifact_id": "68850875-d109-4743-bbfe-11685d01e54d",
+      "audio_title": "aristoteles_20_l04_c05_cena01_partes_animais",
+      "audio_filename": "aristoteles_20_l04_c05_cena01_partes_animais.m4a",
+      "status": "created",
+      "created_at": "2026-08-10T17:05:02Z"
+    },
+    "03_psicologia_biologia/04_partes_animais/L04-C05_cena02": {
+      "artifact_id": "d3a1072b-1f7e-4d5a-97f0-57c353524b35",
+      "audio_title": "aristoteles_20_l04_c05_cena02_partes_animais",
+      "audio_filename": "aristoteles_20_l04_c05_cena02_partes_animais.m4a",
+      "status": "created",
+      "created_at": "2026-08-10T17:07:11Z"
+    },
+    "03_psicologia_biologia/04_partes_animais/L04-C05_cena03": {
+      "artifact_id": "18227503-bd33-4892-bf28-03f02806435b",
+      "audio_title": "aristoteles_20_l04_c05_cena03_partes_animais",
+      "audio_filename": "aristoteles_20_l04_c05_cena03_partes_animais.m4a",
+      "status": "created",
+      "created_at": "2026-08-10T17:09:19Z"
+    },
+    "03_psicologia_biologia/04_partes_animais/L04-C05_cena04": {
+      "artifact_id": "a402fb86-530b-4451-9255-ba7b5d8bfffc",
+      "audio_title": "aristoteles_20_l04_c05_cena04_partes_animais",
+      "audio_filename": "aristoteles_20_l04_c05_cena04_partes_animais.m4a",
+      "status": "created",
+      "created_at": "2026-08-10T17:11:29Z"
+    },
+    "03_psicologia_biologia/04_partes_animais/L04-C06_cena01": {
+      "artifact_id": "5fa78160-2498-4d75-87a5-b953fc78c203",
+      "audio_title": "aristoteles_20_l04_c06_cena01_partes_animais",
+      "audio_filename": "aristoteles_20_l04_c06_cena01_partes_animais.m4a",
+      "status": "created",
+      "created_at": "2026-08-10T17:13:37Z"
     }
   }
 }
