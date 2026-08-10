@@ -13,7 +13,7 @@ The method was presented in episode 1 — **do NOT re-explain it.** Name the pil
 - **Scene:** 6 of 43
 - **Chapter source:** Primeira Parte, capítulo VI
 - **Title:** "A história de Marie: a compaixão que cura"
-- **Pillar in focus:** **Memória Afetiva** (o que fica de uma leitura não é a tese, é a cena que grudou no afeto)
+- **Pillar in focus:** **Memória Afetiva e Imaginativa** (o que fica de uma leitura não é a tese, é a cena que grudou no afeto)
 
 ## Scene anchors (delimit the passage within the chapter)
 

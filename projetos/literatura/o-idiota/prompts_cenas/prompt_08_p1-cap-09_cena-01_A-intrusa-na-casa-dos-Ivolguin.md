@@ -13,7 +13,7 @@ The method was presented in episode 1 — **do NOT re-explain it.** Name the pil
 - **Scene:** 8 of 43
 - **Chapter source:** Primeira Parte, capítulo IX
 - **Title:** "A intrusa na casa dos Ívolguin"
-- **Pillar in focus:** **Intuição** (perceber a verdade afetiva de uma cena antes de qualquer juízo formulado)
+- **Pillar in focus:** **Primazia da Intuição** (perceber a verdade afetiva de uma cena antes de qualquer juízo formulado)
 
 ## Scene anchors (delimit the passage within the chapter)
 
