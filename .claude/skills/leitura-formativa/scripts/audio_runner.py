@@ -132,7 +132,13 @@ def load_scenes(proj, cfg):
     return man["cenas"], man.get("width", 2)
 
 def scene_filename(c, width, ext):
-    return f"{c['seq_global']:0{width}d}_cap-{c['cap']:0{width}d}_cena-{c['cena_local']:0{width}d}_{slug(c['titulo'])}.{ext}"
+    """NN_cap-NN_cena-NN_titulo.ext — e, em obras divididas em partes/livros cujos
+    capitulos REINICIAM a numeracao (O Idiota, Guerra e Paz...), NN_pP-cap-NN_...
+    O prefixo de parte so aparece se a cena traz o campo 'parte' no manifesto, entao
+    projetos de numeracao continua (don-quijote, paradise-lost) ficam inalterados."""
+    parte = f"p{c['parte']}-" if c.get("parte") else ""
+    return (f"{c['seq_global']:0{width}d}_{parte}cap-{c['cap']:0{width}d}"
+            f"_cena-{c['cena_local']:0{width}d}_{slug(c['titulo'])}.{ext}")
 
 def prompt_path(proj, cfg, c, width):
     pdir = proj / cfg["paths"]["prompts"]
