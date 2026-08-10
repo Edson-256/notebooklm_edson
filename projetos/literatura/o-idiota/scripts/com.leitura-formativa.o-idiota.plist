@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+  Job diario de O Idiota (leitura formativa COF) — conta PROFISSIONAL.
+  Ciclo por execucao: (1) baixa o lote criado na rodada anterior; (2) cria ate 19 novos;
+  (3) manda 1 mensagem consolidada no Telegram. Rate-limit vira 'deferred' e reentra amanha.
+
+  08:40 escolhido para nao colidir com: promessi 08:00, don-quijote 08:20, lifecycle 05:00.
+  Cota nao colide: aristoteles/cof usam a conta pessoal, promessi italiano, don-quijote espanhol.
+
+  Instalar:   cp <este arquivo> ~/Library/LaunchAgents/ && launchctl load -w ~/Library/LaunchAgents/com.leitura-formativa.o-idiota.plist
+  Conferir:   launchctl list | grep leitura-formativa
+  Desativar:  launchctl unload -w ~/Library/LaunchAgents/com.leitura-formativa.o-idiota.plist
+-->
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.leitura-formativa.o-idiota</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/bash</string>
+    <string>/Users/edsonmichalkiewicz/dev/notebooklm_edson/.claude/skills/leitura-formativa/scripts/run_daily.sh</string>
+    <string>/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/o-idiota</string>
+    <string>19</string>
+  </array>
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Hour</key><integer>8</integer>
+    <key>Minute</key><integer>40</integer>
+  </dict>
+  <key>StandardOutPath</key>
+  <string>/Users/edsonmichalkiewicz/dev/notebooklm_edson/logs/leitura-formativa.o-idiota.log</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/edsonmichalkiewicz/dev/notebooklm_edson/logs/leitura-formativa.o-idiota.log</string>
+</dict>
+</plist>
