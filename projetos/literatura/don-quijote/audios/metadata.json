@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-08-09T08:26:34.392823",
+  "atualizado": "2026-08-10T08:26:30.486330",
   "audios": [
     {
       "seq_global": 1,
@@ -1221,8 +1221,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-09T08:22:10.951568",
-      "status": "created",
-      "artifact_id": "e7243ba3-7f6d-4c0f-8841-8a8bebcbc85c"
+      "status": "downloaded",
+      "artifact_id": "e7243ba3-7f6d-4c0f-8841-8a8bebcbc85c",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/094_cap-029_cena-003_Del-derrumbadero-al-yermo-la-honra-defendida-a-solas.m4a",
+      "tamanho_bytes": 22571065
     },
     {
       "seq_global": 95,
@@ -1232,8 +1234,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-09T08:24:22.145267",
-      "status": "created",
-      "artifact_id": "3fe57bb0-5002-42d9-a189-443cd548054f"
+      "status": "downloaded",
+      "artifact_id": "3fe57bb0-5002-42d9-a189-443cd548054f",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/095_cap-030_cena-001_El-reconocimiento-y-el-pacto-de-los-desdichados.m4a",
+      "tamanho_bytes": 37041192
     },
     {
       "seq_global": 96,
@@ -1243,8 +1247,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-09T08:26:34.389293",
+      "status": "downloaded",
+      "artifact_id": "116f6a15-bb69-45e6-aff8-5e45c4adbe6f",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/096_cap-030_cena-002_Dorotea-se-hace-princesa-la-literatura-como-instrumento.m4a",
+      "tamanho_bytes": 46600022
+    },
+    {
+      "seq_global": 97,
+      "arquivo": "097_cap-030_cena-003_La-princesa-Micomicona-ante-don-Quijote.m4a",
+      "titulo": "La princesa Micomicona ante don Quijote",
+      "cap": 30,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-10T08:22:09.053975",
       "status": "created",
-      "artifact_id": "116f6a15-bb69-45e6-aff8-5e45c4adbe6f"
+      "artifact_id": "d13ae696-18e1-48ac-a966-5fc2ec653903"
+    },
+    {
+      "seq_global": 98,
+      "arquivo": "098_cap-030_cena-004_El-monologo-de-Sancho-vender-los-vasallos-negros.m4a",
+      "titulo": "El monologo de Sancho: vender los vasallos negros",
+      "cap": 30,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-10T08:24:19.259058",
+      "status": "created",
+      "artifact_id": "6a1985bd-1238-4c6a-9fdd-b05307fe70a1"
+    },
+    {
+      "seq_global": 99,
+      "arquivo": "099_cap-031_cena-001_La-defensa-de-los-galeotes-el-deber-del-caballero.m4a",
+      "titulo": "La defensa de los galeotes: el deber del caballero",
+      "cap": 31,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-10T08:26:30.483265",
+      "status": "created",
+      "artifact_id": "3f379897-7f2c-4498-8be9-cffd42e60db2"
     }
   ]
 }
