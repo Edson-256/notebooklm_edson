@@ -2,7 +2,7 @@
   "obra": "O Idiota",
   "slug": "o-idiota",
   "notebook_id": "4a5dcdd3-94fc-4a87-b7b3-3871379dadf8",
-  "atualizado": "2026-08-09T22:51:29.733522",
+  "atualizado": "2026-08-09T23:51:27.306025",
   "audios": [
     {
       "seq_global": 1,
@@ -54,8 +54,10 @@
       "notebook_profile": "profissional",
       "notebook_id": "4a5dcdd3-94fc-4a87-b7b3-3871379dadf8",
       "data": "2026-08-09T22:49:23.995262",
-      "status": "created",
-      "artifact_id": "f31a6aa0-5fdf-4e4a-bd79-3be3b6292959"
+      "status": "downloaded",
+      "artifact_id": "f31a6aa0-5fdf-4e4a-bd79-3be3b6292959",
+      "output_path": "projetos/literatura/o-idiota/audios/04_p1-cap-04_cena-01_Totski-Nastacia-Filippovna-e-a-historia-do-passado.m4a",
+      "tamanho_bytes": 38373626
     },
     {
       "seq_global": 5,
@@ -65,8 +67,10 @@
       "notebook_profile": "profissional",
       "notebook_id": "4a5dcdd3-94fc-4a87-b7b3-3871379dadf8",
       "data": "2026-08-09T22:51:29.732916",
-      "status": "created",
-      "artifact_id": "21fd9b5e-6055-408e-93a9-0439ea3c4e77"
+      "status": "downloaded",
+      "artifact_id": "21fd9b5e-6055-408e-93a9-0439ea3c4e77",
+      "output_path": "projetos/literatura/o-idiota/audios/05_p1-cap-05_cena-01_O-relato-da-execucao-os-ultimos-minutos-do-condenado.m4a",
+      "tamanho_bytes": 30299721
     }
   ]
 }
