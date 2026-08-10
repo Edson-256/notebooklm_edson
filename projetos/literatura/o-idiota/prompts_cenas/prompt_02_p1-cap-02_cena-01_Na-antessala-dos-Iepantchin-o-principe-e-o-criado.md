@@ -96,7 +96,6 @@ Invite the listener to close their eyes:
 - O **paletó surrado mas de costura habilidosa** que aparece quando ele tira a capa, e a **corrente de aço** com o relógio de prata de Genebra.
 - A **porta debaixo da escadinha**, o quartinho à direita, o postigo que precisa ser aberto.
 - O **rubor leve** no rosto pálido do príncipe enquanto fala da guilhotina, com a voz ainda baixa.
-- A **voz do general** vinda do gabinete: "Tu estás aí, Gánia?"
 
 ## Anti-padrões
 

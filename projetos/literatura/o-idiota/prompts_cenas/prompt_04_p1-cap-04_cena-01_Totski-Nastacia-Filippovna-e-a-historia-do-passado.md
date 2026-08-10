@@ -24,15 +24,15 @@ The method was presented in episode 1 — **do NOT re-explain it.** Name the pil
 
 ## Contexto narrativo
 
-Este capítulo é uma **pausa**: não há cena, não há diálogo, não há príncipe. O narrador recua e conta a história que o romance inteiro carrega nas costas. Avise o ouvinte na abertura, para ele não estranhar o tom: hoje não vamos habitar um instante — vamos aprender a **desconfiar de uma narração**.
+Este capítulo é uma **pausa**: não há cena, não há diálogo, não há príncipe — o narrador recua e conta a história que o romance carrega nas costas. Avise o ouvinte na abertura: hoje não vamos habitar um instante, vamos aprender a **desconfiar de uma narração**.
 
 ## Resumo da cena
 
-Totski, cinquenta e cinco anos, riquíssimo, "gosto extraordinariamente refinado", quer casar-se — e sonda o general Iepántchin sobre uma de suas filhas. Alieksandra, a mais velha, provavelmente aceitaria.
+Totski, cinquenta e cinco anos, riquíssimo, "gosto extraordinariamente refinado", quer casar-se e sonda o general Iepántchin sobre uma das filhas. Alieksandra, a mais velha, provavelmente aceitaria.
 
 Mas há um "caso intrincado e embaraçoso" — palavras do próprio Totski. Dezoito anos antes, um proprietário vizinho, Barachkov, foi à cidade tratar de dívidas. Ao terceiro dia chegou o administrador com "as faces queimadas e a barba chamuscada": a propriedade ardera em pleno meio-dia, "a esposa também foi devorada pelo fogo mas as crianças saíram ilesas". Barachkov enlouqueceu e morreu de febre um mês depois.
 
-Totski, "movido por sua magnanimidade", assumiu as duas meninas, de seis e sete anos. Uma morreu de coqueluche. Ele foi morar no estrangeiro e "logo esqueceu completamente as duas".
+Totski, "movido por sua magnanimidade", assumiu as duas meninas, de seis e sete anos. Uma morreu de coqueluche; ele foi morar no estrangeiro e "logo esqueceu completamente as duas".
 
 Cinco anos depois, de passagem, notou "uma criança fascinante, menina de uns doze anos (…) que prometia uma beleza incomum; nisso Afanassi Ivánovitch era um perito infalível". Ficou poucos dias, mas "teve tempo para tomar as providências": preceptora suíça, educação nova. Quatro anos depois instalou-a numa casinha recém-reformada, montada "com particular elegância", numa aldeola que — o detalhe é do texto — se chamava **Aldeola das Delícias**. Vieram os instrumentos musicais, a biblioteca de mocinhas, os pincéis, uma cadela galga. E, duas semanas depois, o próprio Afanassi Ivánovitch.
 
@@ -54,7 +54,7 @@ Ao fundo, dois fatos: Gánia, em quem "haviam convergido loucamente a paixão e 
 
 Este é o ponto do episódio, e vale dizê-lo com todas as letras ao ouvinte.
 
-O narrador conta o pior crime do livro na linguagem de uma **nota social**: "movido por sua magnanimidade", "teve tempo para tomar as providências", "tranquilo e feliz, com gosto e graça". Quem passa os olhos sai do capítulo achando que leu sobre negociações de casamento.
+O narrador conta o pior crime do livro na linguagem de uma **nota social**: "movido por sua magnanimidade", "tranquilo e feliz, com gosto e graça". Quem passa os olhos sai do capítulo achando que leu sobre negociações de casamento.
 
 A **Memória Afetiva e Imaginativa** existe exatamente contra isso. O trabalho do leitor formativo aqui não é indignar-se — é **fazer a imagem**: uma menina de doze anos, órfã de mãe queimada e de pai enlouquecido, num lugar chamado Aldeola das Delícias, com uma biblioteca escolhida por ele, tintas compradas por ele, uma cadela dada por ele. E um homem de quarenta e poucos anos chegando duas semanas depois de tudo estar pronto.
 
@@ -70,13 +70,15 @@ Guarde a frase dela sobre o dinheiro: não é pagamento pela virgindade "da qual
 
 Repare no que essa distinção custa. Ela recusa a única moldura que a sociedade lhe oferece — mulher desonrada, mercadoria depreciada — e impõe outra: **houve um destino, e ele foi destruído por alguém**. Aceita o dinheiro sem aceitar a vergonha.
 
-E ligue isso ao áudio 3: o príncipe, olhando só uma fotografia, disse "ela sofreu terrivelmente" e "é um rosto altivo, terrivelmente altivo". O capítulo IV é a prova documental do que ele leu num rosto. **A intuição dele estava certa antes de qualquer informação** — é assim que os pilares se costuram.
+E ligue ao áudio 3: olhando só uma fotografia, o príncipe disse "ela sofreu terrivelmente" e "é um rosto altivo". O capítulo IV é a prova documental do que ele leu num rosto — **a intuição estava certa antes de qualquer informação**.
 
 ### Analogias modernas
 
 - O **prontuário** que registra "paciente evoluiu desfavoravelmente" para dizer que alguém morreu sozinho de madrugada.
 - O **comunicado da empresa** sobre "reestruturação e otimização de quadro" — trezentas famílias sem renda, em duas linhas neutras.
 - O **relatório policial** que chama de "incidente" o que a vítima chama, pelo resto da vida, de "aquele dia".
+- O **parente** que descreve anos de convivência penosa como "a gente sempre se deu bem, do nosso jeito".
+- A **foto de casamento** sorridente que a família toda sabe o que esconde, e ninguém nomeia.
 
 Same mechanism: language built to let everyone look away. Reading formatively means putting the image back.
 
@@ -103,9 +105,9 @@ Do **not** do any of the following:
 
 ## Encerramento
 
-Convide o ouvinte a prestar atenção, nos próximos dias, nas **palavras macias** que ele ouvir — no noticiário, num documento, numa conversa de família — e a fazer o exercício de hoje: parar e perguntar *que imagem exatamente está sendo escondida aqui?*
+Convide o ouvinte a reparar, nos próximos dias, nas **palavras macias** que ouvir — num documento, numa conversa de família — e a fazer o exercício de hoje: parar e perguntar *que imagem está sendo escondida aqui?*
 
-Porque é essa a diferença entre ler e ser formado pela leitura: um resumo bonito atravessa a gente sem tocar em nada; uma imagem verdadeira fica — e educa o julgamento para o resto da vida.
+É essa a diferença entre ler e ser formado pela leitura: um resumo bonito atravessa a gente sem tocar em nada; uma imagem verdadeira fica.
 
 ## Delivery requirements
 

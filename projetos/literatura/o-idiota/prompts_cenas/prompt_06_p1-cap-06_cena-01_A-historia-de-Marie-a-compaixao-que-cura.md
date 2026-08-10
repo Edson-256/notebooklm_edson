@@ -99,7 +99,6 @@ Invite the listener to close their eyes:
 - Os **óculos do pastor quebrados** por uma pedrada de criança.
 - A **saliência do rochedo** onde Marie passava o dia inteiro sentada, olhos fechados, cabeça na pedra, o suor na testa.
 - As **carinhas alegres e azafamadas** correndo de volta com o recado: "Marie lhe manda uma reverência".
-- O **caixão coberto de flores** e as crianças pequenas demais para carregá-lo, tentando mesmo assim.
 
 ## Anti-padrões
 
