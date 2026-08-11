@@ -26,6 +26,23 @@ source "$HOME/.secrets" 2>/dev/null || true
 
 mkdir -p "$LOG_DIR"
 
+# Lock contra execução concorrente (cron + disparo manual colidiram em 2026-08-10,
+# gerando 2 artifacts órfãos no studio NLM — race condition na fila de pendentes
+# e no _raw/audio_metadata.json). macOS não tem flock nativo; usa mkdir atômico.
+LOCKDIR="/tmp/.aristoteles_cron_audio.lock"
+if [ -d "$LOCKDIR" ]; then
+  lock_age=$(( $(date +%s) - $(stat -f %m "$LOCKDIR" 2>/dev/null || echo 0) ))
+  if [ "$lock_age" -gt 21600 ]; then
+    echo "$(date): lock com ${lock_age}s (>6h) — provavelmente órfão de crash; removendo." >>"$LOG_DIR/aristoteles_lock.log"
+    rmdir "$LOCKDIR" 2>/dev/null
+  fi
+fi
+if ! mkdir "$LOCKDIR" 2>/dev/null; then
+  echo "$(date): outra instância de cron_audio.sh já está rodando (lock=$LOCKDIR) — abortando esta execução." >>"$LOG_DIR/aristoteles_lock.log"
+  exit 0
+fi
+trap 'rmdir "$LOCKDIR" 2>/dev/null' EXIT
+
 play_sound() { /usr/bin/afplay "/System/Library/Sounds/${1:-Funk}.aiff" >/dev/null 2>&1 & }
 
 notify() {
