@@ -28,10 +28,11 @@ cd "$REPO" || exit 1
 mkdir -p "$LOG_DIR"
 
 # projeto.toml -> título/slug/perfil/caminho (usados no relatório consolidado)
-read -r OBRA_TITULO OBRA_SLUG PROFILE <<< "$(python3 -c "
+# separador \t: título pode ter espaços ("O Idiota"), read com IFS padrão quebraria os campos
+IFS=$'\t' read -r OBRA_TITULO OBRA_SLUG PROFILE <<< "$(python3 -c "
 import tomllib, sys
 cfg = tomllib.load(open('$PROJECT/projeto.toml', 'rb'))
-print(cfg['obra']['titulo'], cfg['obra']['slug'], cfg['notebooklm']['profile'])
+print(cfg['obra']['titulo'], cfg['obra']['slug'], cfg['notebooklm']['profile'], sep='\t')
 ")"
 PROJECT_PATH="$(python3 -c "import os; print(os.path.relpath('$PROJECT', '$REPO'))")"
 LOG="$LOG_DIR/${OBRA_SLUG}_cron_${TS}.log"

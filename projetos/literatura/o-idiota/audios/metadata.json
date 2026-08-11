@@ -2,7 +2,7 @@
   "obra": "O Idiota",
   "slug": "o-idiota",
   "notebook_id": "4a5dcdd3-94fc-4a87-b7b3-3871379dadf8",
-  "atualizado": "2026-08-10T12:05:54.291986",
+  "atualizado": "2026-08-11T09:18:05.035662",
   "audios": [
     {
       "seq_global": 1,
@@ -313,8 +313,207 @@
       "cap": 2,
       "notebook_profile": "profissional",
       "notebook_id": "4a5dcdd3-94fc-4a87-b7b3-3871379dadf8",
-      "data": "2026-08-10T09:17:50.450827",
-      "status": "deferred"
+      "data": "2026-08-11T08:40:16.258509",
+      "status": "created",
+      "artifact_id": "dad28a99-f0b8-41a0-a722-a52fa691bdde"
+    },
+    {
+      "seq_global": 25,
+      "arquivo": "25_p3-cap-03_cena-01_A-licao-da-pistola-o-bilhete-e-o-encontro-com-Rogojin-no-parque.m4a",
+      "titulo": "A lição da pistola, o bilhete e o encontro com Rogójin no parque",
+      "cap": 3,
+      "notebook_profile": "profissional",
+      "notebook_id": "4a5dcdd3-94fc-4a87-b7b3-3871379dadf8",
+      "data": "2026-08-11T08:42:22.107779",
+      "status": "created",
+      "artifact_id": "74aede46-da4e-4ece-aa43-26128e554ea1"
+    },
+    {
+      "seq_global": 26,
+      "arquivo": "26_p3-cap-04_cena-01_A-vespera-do-aniversario-e-a-dissertacao-de-Liebediev.m4a",
+      "titulo": "A véspera do aniversário e a dissertação de Liébediev",
+      "cap": 4,
+      "notebook_profile": "profissional",
+      "notebook_id": "4a5dcdd3-94fc-4a87-b7b3-3871379dadf8",
+      "data": "2026-08-11T08:44:27.898370",
+      "status": "created",
+      "artifact_id": "7f75a7cd-bfac-4602-a5ba-3d584232a12e"
+    },
+    {
+      "seq_global": 27,
+      "arquivo": "27_p3-cap-05_cena-01_Hippolit-comeca-A-Minha-Explicacao-Necessaria.m4a",
+      "titulo": "Hippolit começa 'A Minha Explicação Necessária'",
+      "cap": 5,
+      "notebook_profile": "profissional",
+      "notebook_id": "4a5dcdd3-94fc-4a87-b7b3-3871379dadf8",
+      "data": "2026-08-11T08:46:33.807823",
+      "status": "created",
+      "artifact_id": "a58d5fcd-b80c-4051-a7e5-6b2a37e1a4fa"
+    },
+    {
+      "seq_global": 28,
+      "arquivo": "28_p3-cap-06_cena-01_A-ultima-conviccao-de-Hippolit-a-boa-acao-o-quadro-de-Rogojin-e-o-fantasma.m4a",
+      "titulo": "A última convicção de Hippolit: a boa ação, o quadro de Rogójin e o fantasma",
+      "cap": 6,
+      "notebook_profile": "profissional",
+      "notebook_id": "4a5dcdd3-94fc-4a87-b7b3-3871379dadf8",
+      "data": "2026-08-11T08:48:40.000858",
+      "status": "created",
+      "artifact_id": "596e81ab-37f6-48ec-8378-6e2d4ce8948d"
+    },
+    {
+      "seq_global": 29,
+      "arquivo": "29_p3-cap-07_cena-01_A-pistola-que-negou-fogo-a-tentativa-de-suicidio-de-Hippolit.m4a",
+      "titulo": "A pistola que negou fogo: a tentativa de suicídio de Hippolit",
+      "cap": 7,
+      "notebook_profile": "profissional",
+      "notebook_id": "4a5dcdd3-94fc-4a87-b7b3-3871379dadf8",
+      "data": "2026-08-11T08:50:45.526224",
+      "status": "created",
+      "artifact_id": "d05a4746-8dc5-4db8-b1a2-3ea27f9f97a3"
+    },
+    {
+      "seq_global": 30,
+      "arquivo": "30_p3-cap-08_cena-01_O-encontro-no-banco-verde-a-proposta-de-Aglaia-e-as-cartas-de-Nastacia.m4a",
+      "titulo": "O encontro no banco verde: a proposta de Aglaia e as cartas de Nastácia",
+      "cap": 8,
+      "notebook_profile": "profissional",
+      "notebook_id": "4a5dcdd3-94fc-4a87-b7b3-3871379dadf8",
+      "data": "2026-08-11T08:52:51.871644",
+      "status": "created",
+      "artifact_id": "dc6bac5a-5b53-45e0-addd-59a3c5a6cf0f"
+    },
+    {
+      "seq_global": 31,
+      "arquivo": "31_p3-cap-09_cena-01_O-roubo-de-Liebediev-as-cartas-de-Nastacia-e-Rogojin-na-escuridao.m4a",
+      "titulo": "O roubo de Liébediev, as cartas de Nastácia e Rogójin na escuridão",
+      "cap": 9,
+      "notebook_profile": "profissional",
+      "notebook_id": "4a5dcdd3-94fc-4a87-b7b3-3871379dadf8",
+      "data": "2026-08-11T08:54:58.280401",
+      "status": "created",
+      "artifact_id": "54b57703-d456-4fbe-8a23-212b8417d093"
+    },
+    {
+      "seq_global": 32,
+      "arquivo": "32_p4-cap-01_cena-01_A-familia-Ivolguin-e-os-Ptitzin-a-comedia-do-cotidiano.m4a",
+      "titulo": "A família Ívolguin e os Ptítzin: a comédia do cotidiano",
+      "cap": 1,
+      "notebook_profile": "profissional",
+      "notebook_id": "4a5dcdd3-94fc-4a87-b7b3-3871379dadf8",
+      "data": "2026-08-11T08:57:04.079369",
+      "status": "created",
+      "artifact_id": "7c59c08a-8df1-40f6-bfac-d38f6efd44eb"
+    },
+    {
+      "seq_global": 33,
+      "arquivo": "33_p4-cap-02_cena-01_A-maldicao-do-general-e-o-acerto-de-contas-de-Hippolit.m4a",
+      "titulo": "A maldição do general e o acerto de contas de Hippolit",
+      "cap": 2,
+      "notebook_profile": "profissional",
+      "notebook_id": "4a5dcdd3-94fc-4a87-b7b3-3871379dadf8",
+      "data": "2026-08-11T08:59:10.504247",
+      "status": "created",
+      "artifact_id": "38f258c5-c20d-43b3-ae2d-0b95ea6f70f0"
+    },
+    {
+      "seq_global": 34,
+      "arquivo": "34_p4-cap-03_cena-01_O-segredo-do-general-e-a-carteira-de-Liebediev.m4a",
+      "titulo": "O segredo do general e a carteira de Liébediev",
+      "cap": 3,
+      "notebook_profile": "profissional",
+      "notebook_id": "4a5dcdd3-94fc-4a87-b7b3-3871379dadf8",
+      "data": "2026-08-11T09:01:16.197732",
+      "status": "created",
+      "artifact_id": "6eeac1a2-9045-4255-b938-d1dedd76d78f"
+    },
+    {
+      "seq_global": 35,
+      "arquivo": "35_p4-cap-04_cena-01_A-historia-de-Napoleao-e-o-ataque-do-general.m4a",
+      "titulo": "A história de Napoleão e o ataque do general",
+      "cap": 4,
+      "notebook_profile": "profissional",
+      "notebook_id": "4a5dcdd3-94fc-4a87-b7b3-3871379dadf8",
+      "data": "2026-08-11T09:03:22.564218",
+      "status": "created",
+      "artifact_id": "e0b2424e-e325-4992-9935-27e3248b0db8"
+    },
+    {
+      "seq_global": 36,
+      "arquivo": "36_p4-cap-05_cena-01_O-ourico-o-pedido-de-casamento-e-a-resposta-de-Aglaia.m4a",
+      "titulo": "O ouriço, o pedido de casamento e a resposta de Aglaia",
+      "cap": 5,
+      "notebook_profile": "profissional",
+      "notebook_id": "4a5dcdd3-94fc-4a87-b7b3-3871379dadf8",
+      "data": "2026-08-11T09:05:28.667034",
+      "status": "created",
+      "artifact_id": "271633f7-4652-43b3-a4d2-5ab207016b9e"
+    },
+    {
+      "seq_global": 37,
+      "arquivo": "37_p4-cap-06_cena-01_A-soiree-dos-Iepantchin-o-principe-na-alta-sociedade.m4a",
+      "titulo": "A soirée dos Iepántchin: o príncipe na alta sociedade",
+      "cap": 6,
+      "notebook_profile": "profissional",
+      "notebook_id": "4a5dcdd3-94fc-4a87-b7b3-3871379dadf8",
+      "data": "2026-08-11T09:07:34.419021",
+      "status": "created",
+      "artifact_id": "44d80fa2-1868-4c5c-84f8-55865c93b7f5"
+    },
+    {
+      "seq_global": 38,
+      "arquivo": "38_p4-cap-07_cena-01_O-vaso-quebrado-a-tirada-a-profecia-cumprida-e-o-ataque.m4a",
+      "titulo": "O vaso quebrado: a tirada, a profecia cumprida e o ataque",
+      "cap": 7,
+      "notebook_profile": "profissional",
+      "notebook_id": "4a5dcdd3-94fc-4a87-b7b3-3871379dadf8",
+      "data": "2026-08-11T09:09:41.035472",
+      "status": "created",
+      "artifact_id": "d7d34679-69b8-4a36-8b82-c3af17142514"
+    },
+    {
+      "seq_global": 39,
+      "arquivo": "39_p4-cap-08_cena-01_Frente-a-frente-o-confronto-entre-Aglaia-e-Nastacia-Filippovna.m4a",
+      "titulo": "Frente a frente: o confronto entre Aglaia e Nastácia Filíppovna",
+      "cap": 8,
+      "notebook_profile": "profissional",
+      "notebook_id": "4a5dcdd3-94fc-4a87-b7b3-3871379dadf8",
+      "data": "2026-08-11T09:11:47.221852",
+      "status": "created",
+      "artifact_id": "c892b127-b23f-4987-bc0c-c8a8afdf19d1"
+    },
+    {
+      "seq_global": 40,
+      "arquivo": "40_p4-cap-09_cena-01_Duas-semanas-depois-o-escandalo-publico-e-a-censura-de-Ievguieni-Pavlovitch.m4a",
+      "titulo": "Duas semanas depois: o escândalo público e a censura de Ievguiêni Pávlovitch",
+      "cap": 9,
+      "notebook_profile": "profissional",
+      "notebook_id": "4a5dcdd3-94fc-4a87-b7b3-3871379dadf8",
+      "data": "2026-08-11T09:13:53.831523",
+      "status": "created",
+      "artifact_id": "550d193a-b092-4ae7-b269-5b33f18c645a"
+    },
+    {
+      "seq_global": 41,
+      "arquivo": "41_p4-cap-10_cena-01_O-dia-do-casamento-Nastacia-foge-com-Rogojin-no-adro-da-igreja.m4a",
+      "titulo": "O dia do casamento: Nastácia foge com Rogójin no adro da igreja",
+      "cap": 10,
+      "notebook_profile": "profissional",
+      "notebook_id": "4a5dcdd3-94fc-4a87-b7b3-3871379dadf8",
+      "data": "2026-08-11T09:15:59.544250",
+      "status": "created",
+      "artifact_id": "e39e2e22-481b-49b4-a239-97439102c0a8"
+    },
+    {
+      "seq_global": 42,
+      "arquivo": "42_p4-cap-11_cena-01_A-vigilia-final-Michkin-e-Rogojin-junto-ao-corpo-de-Nastacia.m4a",
+      "titulo": "A vigília final: Míchkin e Rogójin junto ao corpo de Nastácia",
+      "cap": 11,
+      "notebook_profile": "profissional",
+      "notebook_id": "4a5dcdd3-94fc-4a87-b7b3-3871379dadf8",
+      "data": "2026-08-11T09:18:05.035077",
+      "status": "created",
+      "artifact_id": "b28f0104-dcb2-49c0-91a0-6a593849993e"
     }
   ]
 }
