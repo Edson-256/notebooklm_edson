@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-08-10T08:26:30.486330",
+  "atualizado": "2026-08-11T08:26:40.268668",
   "audios": [
     {
       "seq_global": 1,
@@ -1260,8 +1260,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-10T08:22:09.053975",
-      "status": "created",
-      "artifact_id": "d13ae696-18e1-48ac-a966-5fc2ec653903"
+      "status": "downloaded",
+      "artifact_id": "d13ae696-18e1-48ac-a966-5fc2ec653903",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/097_cap-030_cena-003_La-princesa-Micomicona-ante-don-Quijote.m4a",
+      "tamanho_bytes": 40245653
     },
     {
       "seq_global": 98,
@@ -1271,8 +1273,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-10T08:24:19.259058",
-      "status": "created",
-      "artifact_id": "6a1985bd-1238-4c6a-9fdd-b05307fe70a1"
+      "status": "downloaded",
+      "artifact_id": "6a1985bd-1238-4c6a-9fdd-b05307fe70a1",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/098_cap-030_cena-004_El-monologo-de-Sancho-vender-los-vasallos-negros.m4a",
+      "tamanho_bytes": 20393382
     },
     {
       "seq_global": 99,
@@ -1282,8 +1286,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-10T08:26:30.483265",
+      "status": "downloaded",
+      "artifact_id": "3f379897-7f2c-4498-8be9-cffd42e60db2",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/099_cap-031_cena-001_La-defensa-de-los-galeotes-el-deber-del-caballero.m4a",
+      "tamanho_bytes": 36773636
+    },
+    {
+      "seq_global": 100,
+      "arquivo": "100_cap-031_cena-002_La-princesa-Micomicona-la-ficcion-que-se-hace-verdad.m4a",
+      "titulo": "La princesa Micomicona: la ficcion que se hace verdad",
+      "cap": 31,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-11T08:22:14.120525",
       "status": "created",
-      "artifact_id": "3f379897-7f2c-4498-8be9-cffd42e60db2"
+      "artifact_id": "02164609-4d5f-4a35-8d99-856f51fcc5ab"
+    },
+    {
+      "seq_global": 101,
+      "arquivo": "101_cap-031_cena-003_Ella-pelea-en-mi-la-fidelidad-a-Dulcinea.m4a",
+      "titulo": "Ella pelea en mi: la fidelidad a Dulcinea",
+      "cap": 31,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-11T08:24:27.369876",
+      "status": "created",
+      "artifact_id": "631f3419-b4b9-4f79-b8bb-b578ee4c22ff"
+    },
+    {
+      "seq_global": 102,
+      "arquivo": "102_cap-032_cena-001_El-trigo-convertido-en-perlas-Dulcinea-transfigurada.m4a",
+      "titulo": "El trigo convertido en perlas: Dulcinea transfigurada",
+      "cap": 32,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-11T08:26:40.266394",
+      "status": "created",
+      "artifact_id": "5ffce802-76eb-4d73-9ded-ecb9cb437105"
     }
   ]
 }
