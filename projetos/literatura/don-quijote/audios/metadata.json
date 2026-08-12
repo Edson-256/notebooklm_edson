@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-08-11T08:26:40.268668",
+  "atualizado": "2026-08-12T08:26:47.346001",
   "audios": [
     {
       "seq_global": 1,
@@ -1299,8 +1299,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-11T08:22:14.120525",
-      "status": "created",
-      "artifact_id": "02164609-4d5f-4a35-8d99-856f51fcc5ab"
+      "status": "downloaded",
+      "artifact_id": "02164609-4d5f-4a35-8d99-856f51fcc5ab",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/100_cap-031_cena-002_La-princesa-Micomicona-la-ficcion-que-se-hace-verdad.m4a",
+      "tamanho_bytes": 24745755
     },
     {
       "seq_global": 101,
@@ -1310,8 +1312,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-11T08:24:27.369876",
-      "status": "created",
-      "artifact_id": "631f3419-b4b9-4f79-b8bb-b578ee4c22ff"
+      "status": "downloaded",
+      "artifact_id": "631f3419-b4b9-4f79-b8bb-b578ee4c22ff",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/101_cap-031_cena-003_Ella-pelea-en-mi-la-fidelidad-a-Dulcinea.m4a",
+      "tamanho_bytes": 20575776
     },
     {
       "seq_global": 102,
@@ -1321,8 +1325,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-11T08:26:40.266394",
+      "status": "downloaded",
+      "artifact_id": "5ffce802-76eb-4d73-9ded-ecb9cb437105",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/102_cap-032_cena-001_El-trigo-convertido-en-perlas-Dulcinea-transfigurada.m4a",
+      "tamanho_bytes": 40320357
+    },
+    {
+      "seq_global": 103,
+      "arquivo": "103_cap-032_cena-002_Amar-sin-premio-la-ley-de-caballeria-y-el-amor-desinteresado.m4a",
+      "titulo": "Amar sin premio: la ley de caballeria y el amor desinteresado",
+      "cap": 32,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-12T08:22:20.693894",
       "status": "created",
-      "artifact_id": "5ffce802-76eb-4d73-9ded-ecb9cb437105"
+      "artifact_id": "a75a9418-b895-43f3-afe7-d5f0bcd85ccf"
+    },
+    {
+      "seq_global": 104,
+      "arquivo": "104_cap-032_cena-003_El-reencuentro-con-Andres-la-realidad-devuelve-el-golpe.m4a",
+      "titulo": "El reencuentro con Andres: la realidad devuelve el golpe",
+      "cap": 32,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-12T08:24:34.704041",
+      "status": "created",
+      "artifact_id": "d9ac9194-84e9-4ae2-8790-84ff1fab521b"
+    },
+    {
+      "seq_global": 105,
+      "arquivo": "105_cap-033_cena-001_Los-lectores-de-la-venta-cada-alma-oye-su-propia-historia.m4a",
+      "titulo": "Los lectores de la venta: cada alma oye su propia historia",
+      "cap": 33,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-12T08:26:47.344017",
+      "status": "created",
+      "artifact_id": "a08899f7-14d0-4072-8059-4e78d54e973a"
     }
   ]
 }
