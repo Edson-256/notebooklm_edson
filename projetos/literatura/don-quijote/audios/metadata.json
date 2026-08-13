@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-08-12T08:26:47.346001",
+  "atualizado": "2026-08-13T08:26:51.906012",
   "audios": [
     {
       "seq_global": 1,
@@ -1338,8 +1338,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-12T08:22:20.693894",
-      "status": "created",
-      "artifact_id": "a75a9418-b895-43f3-afe7-d5f0bcd85ccf"
+      "status": "downloaded",
+      "artifact_id": "a75a9418-b895-43f3-afe7-d5f0bcd85ccf",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/103_cap-032_cena-002_Amar-sin-premio-la-ley-de-caballeria-y-el-amor-desinteresado.m4a",
+      "tamanho_bytes": 25942863
     },
     {
       "seq_global": 104,
@@ -1349,8 +1351,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-12T08:24:34.704041",
-      "status": "created",
-      "artifact_id": "d9ac9194-84e9-4ae2-8790-84ff1fab521b"
+      "status": "downloaded",
+      "artifact_id": "d9ac9194-84e9-4ae2-8790-84ff1fab521b",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/104_cap-032_cena-003_El-reencuentro-con-Andres-la-realidad-devuelve-el-golpe.m4a",
+      "tamanho_bytes": 36943214
     },
     {
       "seq_global": 105,
@@ -1360,8 +1364,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-12T08:26:47.344017",
+      "status": "downloaded",
+      "artifact_id": "a08899f7-14d0-4072-8059-4e78d54e973a",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/105_cap-033_cena-001_Los-lectores-de-la-venta-cada-alma-oye-su-propia-historia.m4a",
+      "tamanho_bytes": 31367588
+    },
+    {
+      "seq_global": 106,
+      "arquivo": "106_cap-033_cena-002_Verdad-y-mentira-de-los-libros-el-cura-contra-el-ventero.m4a",
+      "titulo": "Verdad y mentira de los libros: el cura contra el ventero",
+      "cap": 33,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-13T08:22:25.011862",
       "status": "created",
-      "artifact_id": "a08899f7-14d0-4072-8059-4e78d54e973a"
+      "artifact_id": "76bc9bcd-5186-49ef-b82c-d3d29ba09350"
+    },
+    {
+      "seq_global": 107,
+      "arquivo": "107_cap-033_cena-003_El-desengano-callado-de-Sancho.m4a",
+      "titulo": "El desengano callado de Sancho",
+      "cap": 33,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-13T08:24:36.304997",
+      "status": "created",
+      "artifact_id": "9f11ebcd-b202-4a8d-ab71-ca8c23753f86"
+    },
+    {
+      "seq_global": 108,
+      "arquivo": "108_cap-034_cena-001_El-deseo-impertinente-querer-probar-lo-que-ya-se-posee.m4a",
+      "titulo": "El deseo impertinente: querer probar lo que ya se posee",
+      "cap": 34,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-13T08:26:51.903172",
+      "status": "created",
+      "artifact_id": "43564a68-f1db-4142-b993-88376482e7af"
     }
   ]
 }
