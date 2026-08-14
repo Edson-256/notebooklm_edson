@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-08-13T08:26:51.906012",
+  "atualizado": "2026-08-14T08:26:41.065076",
   "audios": [
     {
       "seq_global": 1,
@@ -1377,8 +1377,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-13T08:22:25.011862",
-      "status": "created",
-      "artifact_id": "76bc9bcd-5186-49ef-b82c-d3d29ba09350"
+      "status": "downloaded",
+      "artifact_id": "76bc9bcd-5186-49ef-b82c-d3d29ba09350",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/106_cap-033_cena-002_Verdad-y-mentira-de-los-libros-el-cura-contra-el-ventero.m4a",
+      "tamanho_bytes": 24831668
     },
     {
       "seq_global": 107,
@@ -1388,8 +1390,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-13T08:24:36.304997",
-      "status": "created",
-      "artifact_id": "9f11ebcd-b202-4a8d-ab71-ca8c23753f86"
+      "status": "downloaded",
+      "artifact_id": "9f11ebcd-b202-4a8d-ab71-ca8c23753f86",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/107_cap-033_cena-003_El-desengano-callado-de-Sancho.m4a",
+      "tamanho_bytes": 35350060
     },
     {
       "seq_global": 108,
@@ -1399,8 +1403,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-13T08:26:51.903172",
+      "status": "downloaded",
+      "artifact_id": "43564a68-f1db-4142-b993-88376482e7af",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/108_cap-034_cena-001_El-deseo-impertinente-querer-probar-lo-que-ya-se-posee.m4a",
+      "tamanho_bytes": 26181284
+    },
+    {
+      "seq_global": 109,
+      "arquivo": "109_cap-034_cena-002_La-defensa-de-la-prudencia-el-diamante-el-arminio-y-la-mujer-de-vidrio.m4a",
+      "titulo": "La defensa de la prudencia: el diamante, el arminio y la mujer de vidrio",
+      "cap": 34,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-14T08:22:18.129113",
       "status": "created",
-      "artifact_id": "43564a68-f1db-4142-b993-88376482e7af"
+      "artifact_id": "e0d908aa-e1d0-4ec0-baeb-b35a0292189b"
+    },
+    {
+      "seq_global": 110,
+      "arquivo": "110_cap-034_cena-003_El-antojo-incurable-y-la-mentira-descubierta.m4a",
+      "titulo": "El antojo incurable y la mentira descubierta",
+      "cap": 34,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-14T08:24:30.098305",
+      "status": "created",
+      "artifact_id": "90965e6e-6ace-4b85-8233-8f1aa169cb23"
+    },
+    {
+      "seq_global": 111,
+      "arquivo": "111_cap-034_cena-004_La-caida-de-Lotario-la-batalla-consigo-mismo.m4a",
+      "titulo": "La caida de Lotario: la batalla consigo mismo",
+      "cap": 34,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-14T08:26:41.061876",
+      "status": "created",
+      "artifact_id": "57eb759b-8d56-49c6-8a27-28ba787ca5c9"
     }
   ]
 }
