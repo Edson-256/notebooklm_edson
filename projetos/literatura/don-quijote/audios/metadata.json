@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-08-14T08:26:41.065076",
+  "atualizado": "2026-08-15T08:26:51.383074",
   "audios": [
     {
       "seq_global": 1,
@@ -1416,8 +1416,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-14T08:22:18.129113",
-      "status": "created",
-      "artifact_id": "e0d908aa-e1d0-4ec0-baeb-b35a0292189b"
+      "status": "downloaded",
+      "artifact_id": "e0d908aa-e1d0-4ec0-baeb-b35a0292189b",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/109_cap-034_cena-002_La-defensa-de-la-prudencia-el-diamante-el-arminio-y-la-mujer-de-vidrio.m4a",
+      "tamanho_bytes": 37550788
     },
     {
       "seq_global": 110,
@@ -1427,8 +1429,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-14T08:24:30.098305",
-      "status": "created",
-      "artifact_id": "90965e6e-6ace-4b85-8233-8f1aa169cb23"
+      "status": "downloaded",
+      "artifact_id": "90965e6e-6ace-4b85-8233-8f1aa169cb23",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/110_cap-034_cena-003_El-antojo-incurable-y-la-mentira-descubierta.m4a",
+      "tamanho_bytes": 42565273
     },
     {
       "seq_global": 111,
@@ -1438,8 +1442,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-14T08:26:41.061876",
+      "status": "downloaded",
+      "artifact_id": "57eb759b-8d56-49c6-8a27-28ba787ca5c9",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/111_cap-034_cena-004_La-caida-de-Lotario-la-batalla-consigo-mismo.m4a",
+      "tamanho_bytes": 48321052
+    },
+    {
+      "seq_global": 112,
+      "arquivo": "112_cap-035_cena-001_La-caida-de-Camila-y-la-ley-de-la-huida.m4a",
+      "titulo": "La caida de Camila y la ley de la huida",
+      "cap": 35,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-15T08:22:29.789042",
       "status": "created",
-      "artifact_id": "57eb759b-8d56-49c6-8a27-28ba787ca5c9"
+      "artifact_id": "e75e59fd-7a5d-469e-a828-d6b6702e3534"
+    },
+    {
+      "seq_global": 113,
+      "arquivo": "113_cap-035_cena-002_El-entendimiento-de-Lotario-cegado-por-los-celos.m4a",
+      "titulo": "El entendimiento de Lotario cegado por los celos",
+      "cap": 35,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-15T08:24:39.980622",
+      "status": "created",
+      "artifact_id": "3cbdbe44-3b4f-4aff-bd02-b14571920f1d"
+    },
+    {
+      "seq_global": 114,
+      "arquivo": "114_cap-035_cena-003_La-tragedia-representada-Camila-la-daga-y-el-marido-oculto.m4a",
+      "titulo": "La tragedia representada: Camila, la daga y el marido oculto",
+      "cap": 35,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-15T08:26:51.381157",
+      "status": "created",
+      "artifact_id": "3bee5a30-8426-498a-ba55-5eea6f8ba609"
     }
   ]
 }
