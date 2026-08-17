@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-08-15T08:26:51.383074",
+  "atualizado": "2026-08-17T08:28:34.663649",
   "audios": [
     {
       "seq_global": 1,
@@ -1455,8 +1455,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-15T08:22:29.789042",
-      "status": "created",
-      "artifact_id": "e75e59fd-7a5d-469e-a828-d6b6702e3534"
+      "status": "downloaded",
+      "artifact_id": "e75e59fd-7a5d-469e-a828-d6b6702e3534",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/112_cap-035_cena-001_La-caida-de-Camila-y-la-ley-de-la-huida.m4a",
+      "tamanho_bytes": 23425162
     },
     {
       "seq_global": 113,
@@ -1466,8 +1468,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-15T08:24:39.980622",
-      "status": "created",
-      "artifact_id": "3cbdbe44-3b4f-4aff-bd02-b14571920f1d"
+      "status": "downloaded",
+      "artifact_id": "3cbdbe44-3b4f-4aff-bd02-b14571920f1d",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/113_cap-035_cena-002_El-entendimiento-de-Lotario-cegado-por-los-celos.m4a",
+      "tamanho_bytes": 22975329
     },
     {
       "seq_global": 114,
@@ -1477,8 +1481,82 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-15T08:26:51.381157",
+      "status": "downloaded",
+      "artifact_id": "3bee5a30-8426-498a-ba55-5eea6f8ba609",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/114_cap-035_cena-003_La-tragedia-representada-Camila-la-daga-y-el-marido-oculto.m4a",
+      "tamanho_bytes": 39189624
+    },
+    {
+      "seq_global": 115,
+      "arquivo": "115_cap-036_cena-001_La-batalla-contra-los-cueros-de-vino.m4a",
+      "titulo": "La batalla contra los cueros de vino",
+      "cap": 36,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-16T10:52:07.397773",
+      "status": "downloaded",
+      "artifact_id": "2da15741-9fcb-4717-b173-23a181e74f91",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/115_cap-036_cena-001_La-batalla-contra-los-cueros-de-vino.m4a",
+      "tamanho_bytes": 38501369
+    },
+    {
+      "seq_global": 116,
+      "arquivo": "116_cap-036_cena-002_Sancho-busca-la-cabeza-que-nunca-hubo.m4a",
+      "titulo": "Sancho busca la cabeza que nunca hubo",
+      "cap": 36,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-16T10:54:18.470525",
+      "status": "downloaded",
+      "artifact_id": "ac42019f-4cc2-4546-a15c-15081be463c3",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/116_cap-036_cena-002_Sancho-busca-la-cabeza-que-nunca-hubo.m4a",
+      "tamanho_bytes": 18019229
+    },
+    {
+      "seq_global": 117,
+      "arquivo": "117_cap-036_cena-003_La-ruina-y-muerte-de-Anselmo.m4a",
+      "titulo": "La ruina y muerte de Anselmo",
+      "cap": 36,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-16T10:56:29.243759",
+      "status": "downloaded",
+      "artifact_id": "8fc4964e-ed42-4b18-b878-613fea1a6be2",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/117_cap-036_cena-003_La-ruina-y-muerte-de-Anselmo.m4a",
+      "tamanho_bytes": 29306559
+    },
+    {
+      "seq_global": 118,
+      "arquivo": "118_cap-037_cena-001_La-comitiva-enmascarada-y-la-dama-que-suspira.m4a",
+      "titulo": "La comitiva enmascarada y la dama que suspira",
+      "cap": 37,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-17T08:24:10.096325",
       "status": "created",
-      "artifact_id": "3bee5a30-8426-498a-ba55-5eea6f8ba609"
+      "artifact_id": "bfff5bb2-13ae-4e6c-9cf3-a41f81adeac2"
+    },
+    {
+      "seq_global": 119,
+      "arquivo": "119_cap-037_cena-002_Cae-el-tafetan-el-reconocimiento.m4a",
+      "titulo": "Cae el tafetan: el reconocimiento",
+      "cap": 37,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-17T08:26:23.324313",
+      "status": "created",
+      "artifact_id": "2304368c-d2ba-4024-8151-4d793a276dad"
+    },
+    {
+      "seq_global": 120,
+      "arquivo": "120_cap-037_cena-003_La-verdad-que-vence-los-alegatos-de-Luscinda-y-Dorotea.m4a",
+      "titulo": "La verdad que vence: los alegatos de Luscinda y Dorotea",
+      "cap": 37,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-17T08:28:34.662009",
+      "status": "created",
+      "artifact_id": "9b99f23b-6f17-4242-8089-0fdbcf8e86d1"
     }
   ]
 }
