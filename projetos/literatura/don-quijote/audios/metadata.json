@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-08-17T08:28:34.663649",
+  "atualizado": "2026-08-18T08:25:45.799937",
   "audios": [
     {
       "seq_global": 1,
@@ -1533,8 +1533,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-17T08:24:10.096325",
-      "status": "created",
-      "artifact_id": "bfff5bb2-13ae-4e6c-9cf3-a41f81adeac2"
+      "status": "downloaded",
+      "artifact_id": "bfff5bb2-13ae-4e6c-9cf3-a41f81adeac2",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/118_cap-037_cena-001_La-comitiva-enmascarada-y-la-dama-que-suspira.m4a",
+      "tamanho_bytes": 23648642
     },
     {
       "seq_global": 119,
@@ -1544,8 +1546,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-17T08:26:23.324313",
-      "status": "created",
-      "artifact_id": "2304368c-d2ba-4024-8151-4d793a276dad"
+      "status": "downloaded",
+      "artifact_id": "2304368c-d2ba-4024-8151-4d793a276dad",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/119_cap-037_cena-002_Cae-el-tafetan-el-reconocimiento.m4a",
+      "tamanho_bytes": 23917692
     },
     {
       "seq_global": 120,
@@ -1555,8 +1559,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-17T08:28:34.662009",
+      "status": "downloaded",
+      "artifact_id": "9b99f23b-6f17-4242-8089-0fdbcf8e86d1",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/120_cap-037_cena-003_La-verdad-que-vence-los-alegatos-de-Luscinda-y-Dorotea.m4a",
+      "tamanho_bytes": 20142261
+    },
+    {
+      "seq_global": 121,
+      "arquivo": "121_cap-037_cena-004_Del-apetito-a-la-razon-el-desenlace-generoso.m4a",
+      "titulo": "Del apetito a la razon: el desenlace generoso",
+      "cap": 37,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-18T08:21:29.872142",
       "status": "created",
-      "artifact_id": "9b99f23b-6f17-4242-8089-0fdbcf8e86d1"
+      "artifact_id": "3a6a0127-473b-4813-9177-4d1b8bfc4edd"
+    },
+    {
+      "seq_global": 122,
+      "arquivo": "122_cap-038_cena-001_El-gigante-era-un-cuero-de-vino.m4a",
+      "titulo": "El gigante era un cuero de vino",
+      "cap": 38,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-18T08:23:38.297267",
+      "status": "created",
+      "artifact_id": "449b9177-11c9-45fe-8737-eeedfdc08612"
+    },
+    {
+      "seq_global": 123,
+      "arquivo": "123_cap-038_cena-002_La-corte-que-finge-para-sostener-al-loco.m4a",
+      "titulo": "La corte que finge para sostener al loco",
+      "cap": 38,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-18T08:25:45.798618",
+      "status": "created",
+      "artifact_id": "070bef78-ae6c-4c81-99e4-b65ab874739c"
     }
   ]
 }
