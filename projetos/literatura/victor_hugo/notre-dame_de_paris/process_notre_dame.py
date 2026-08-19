@@ -113,6 +113,15 @@ Analyze the bounded scene through the Formative Reading approach already establi
 book_match = re.compile(r'^# LIVRE\s+(.*)')
 # Match lines like "### I – LA GRAND’SALLE"
 chap_match = re.compile(r'^###\s+[IVXLC]+\s+[-–]\s+(.*)')
+# ⚠️ 2026-08-18: 16 dos 59 cabeçalhos do fonte são MALFORMADOS — vêm como
+# "– TÍTULO EM CAIXA ALTA", sem ### e sem romano. O regex acima não os pegava e o texto
+# era colado no capítulo anterior (L02-C02 tinha II–VII; L04-C01, o Livro IV inteiro;
+# L09-C01, o IX inteiro), além de DESCARTAR o Livre VIII cap. I e deslocar todo o L08 em -1.
+# O conserto vive em scripts/resplit_capitulos.py (regenera SÓ capitulos/, sem tocar cenas
+# nem áudios). Ver capitulos/_RENUMERACAO_L08.md.
+# NÃO rode este script para "consertar": ele re-fatiaria cenas/ e prompts/, invalidando os
+# 175 áudios de deep dive já produzidos.
+chap_match_malformed = re.compile(r'^[-–]\s+(.+?)\s*$')  # exige título sem minúsculas
 
 for line in lines:
     bm = book_match.match(line)
