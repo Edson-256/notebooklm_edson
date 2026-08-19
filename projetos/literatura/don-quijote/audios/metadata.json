@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-08-18T08:25:45.799937",
+  "atualizado": "2026-08-19T08:26:03.574321",
   "audios": [
     {
       "seq_global": 1,
@@ -1572,8 +1572,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-18T08:21:29.872142",
-      "status": "created",
-      "artifact_id": "3a6a0127-473b-4813-9177-4d1b8bfc4edd"
+      "status": "downloaded",
+      "artifact_id": "3a6a0127-473b-4813-9177-4d1b8bfc4edd",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/121_cap-037_cena-004_Del-apetito-a-la-razon-el-desenlace-generoso.m4a",
+      "tamanho_bytes": 28889480
     },
     {
       "seq_global": 122,
@@ -1583,8 +1585,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-18T08:23:38.297267",
-      "status": "created",
-      "artifact_id": "449b9177-11c9-45fe-8737-eeedfdc08612"
+      "status": "downloaded",
+      "artifact_id": "449b9177-11c9-45fe-8737-eeedfdc08612",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/122_cap-038_cena-001_El-gigante-era-un-cuero-de-vino.m4a",
+      "tamanho_bytes": 27305925
     },
     {
       "seq_global": 123,
@@ -1594,8 +1598,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-18T08:25:45.798618",
+      "status": "downloaded",
+      "artifact_id": "070bef78-ae6c-4c81-99e4-b65ab874739c",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/123_cap-038_cena-002_La-corte-que-finge-para-sostener-al-loco.m4a",
+      "tamanho_bytes": 25583421
+    },
+    {
+      "seq_global": 124,
+      "arquivo": "124_cap-038_cena-003_No-Zoraida-Maria-Maria.m4a",
+      "titulo": "No Zoraida: Maria, Maria",
+      "cap": 38,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-19T08:21:46.071750",
       "status": "created",
-      "artifact_id": "070bef78-ae6c-4c81-99e4-b65ab874739c"
+      "artifact_id": "39e2caca-e72d-4397-9016-21bd5b455ed1"
+    },
+    {
+      "seq_global": 125,
+      "arquivo": "125_cap-038_cena-004_El-discurso-de-las-armas-y-las-letras.m4a",
+      "titulo": "El discurso de las armas y las letras",
+      "cap": 38,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-19T08:23:55.628641",
+      "status": "created",
+      "artifact_id": "9805e076-408a-4185-87f9-49cab7e3da05"
+    },
+    {
+      "seq_global": 126,
+      "arquivo": "126_cap-039_cena-001_La-pobreza-y-la-muerte-del-soldado.m4a",
+      "titulo": "La pobreza y la muerte del soldado",
+      "cap": 39,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-19T08:26:03.571288",
+      "status": "created",
+      "artifact_id": "47c4c0e7-b8f6-4ee3-bc16-715980a220f7"
     }
   ]
 }
