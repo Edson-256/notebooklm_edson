@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T01:51:30Z",
+  "updated_at": "2026-08-20T03:53:18Z",
   "audios": {
     "05_etica/01_etica_nicomaco/L01-C01_cena01": {
       "artifact_id": "46097252-f46f-41a0-b77f-86b89e4b0945",
@@ -10055,141 +10055,321 @@
       "artifact_id": "55461dfc-a192-48cf-b2b5-db661d61e936",
       "audio_title": "aristoteles_19_l06_c03_cena01_historia_animais",
       "audio_filename": "aristoteles_19_l06_c03_cena01_historia_animais.m4a",
-      "status": "created",
-      "created_at": "2026-08-19T01:11:12Z"
+      "status": "downloaded",
+      "created_at": "2026-08-19T01:11:12Z",
+      "downloaded_at": "2026-08-20T03:00:56Z",
+      "bytes": 35003206
     },
     "03_psicologia_biologia/03_historia_animais/L06-C04_cena01": {
       "artifact_id": "70d2a261-2969-422f-9d20-4c64d0ef9d92",
       "audio_title": "aristoteles_19_l06_c04_cena01_historia_animais",
       "audio_filename": "aristoteles_19_l06_c04_cena01_historia_animais.m4a",
-      "status": "created",
-      "created_at": "2026-08-19T01:13:19Z"
+      "status": "downloaded",
+      "created_at": "2026-08-19T01:13:19Z",
+      "downloaded_at": "2026-08-20T03:01:30Z",
+      "bytes": 44170492
     },
     "03_psicologia_biologia/03_historia_animais/L06-C05_cena01": {
       "artifact_id": "53cd35a7-c70b-4119-a314-b4549b5f776f",
       "audio_title": "aristoteles_19_l06_c05_cena01_historia_animais",
       "audio_filename": "aristoteles_19_l06_c05_cena01_historia_animais.m4a",
-      "status": "created",
-      "created_at": "2026-08-19T01:15:27Z"
+      "status": "downloaded",
+      "created_at": "2026-08-19T01:15:27Z",
+      "downloaded_at": "2026-08-20T03:02:02Z",
+      "bytes": 31534293
     },
     "03_psicologia_biologia/03_historia_animais/L06-C06_cena01": {
       "artifact_id": "abad630e-f97e-4168-8aa7-51122f8455f4",
       "audio_title": "aristoteles_19_l06_c06_cena01_historia_animais",
       "audio_filename": "aristoteles_19_l06_c06_cena01_historia_animais.m4a",
-      "status": "created",
-      "created_at": "2026-08-19T01:17:34Z"
+      "status": "downloaded",
+      "created_at": "2026-08-19T01:17:34Z",
+      "downloaded_at": "2026-08-20T03:02:34Z",
+      "bytes": 24293569
     },
     "03_psicologia_biologia/03_historia_animais/L06-C07_cena01": {
       "artifact_id": "c12eb9f7-6632-4698-8e7c-3d856b1c0251",
       "audio_title": "aristoteles_19_l06_c07_cena01_historia_animais",
       "audio_filename": "aristoteles_19_l06_c07_cena01_historia_animais.m4a",
-      "status": "created",
-      "created_at": "2026-08-19T01:19:41Z"
+      "status": "downloaded",
+      "created_at": "2026-08-19T01:19:41Z",
+      "downloaded_at": "2026-08-20T03:03:16Z",
+      "bytes": 40402532
     },
     "03_psicologia_biologia/03_historia_animais/L06-C08_cena01": {
       "artifact_id": "38efd9b8-7244-4bdb-a82c-cc3bb1f2ebac",
       "audio_title": "aristoteles_19_l06_c08_cena01_historia_animais",
       "audio_filename": "aristoteles_19_l06_c08_cena01_historia_animais.m4a",
-      "status": "created",
-      "created_at": "2026-08-19T01:21:49Z"
+      "status": "downloaded",
+      "created_at": "2026-08-19T01:21:49Z",
+      "downloaded_at": "2026-08-20T03:04:03Z",
+      "bytes": 31342188
     },
     "03_psicologia_biologia/03_historia_animais/L06-C09_cena01": {
       "artifact_id": "440e4ced-ce25-4697-8984-8376b66926c1",
       "audio_title": "aristoteles_19_l06_c09_cena01_historia_animais",
       "audio_filename": "aristoteles_19_l06_c09_cena01_historia_animais.m4a",
-      "status": "created",
-      "created_at": "2026-08-19T01:23:56Z"
+      "status": "downloaded",
+      "created_at": "2026-08-19T01:23:56Z",
+      "downloaded_at": "2026-08-20T03:05:06Z",
+      "bytes": 42942644
     },
     "03_psicologia_biologia/03_historia_animais/L06-C10_cena01": {
       "artifact_id": "836a0561-c462-4844-9de4-6f85328bf494",
       "audio_title": "aristoteles_19_l06_c10_cena01_historia_animais",
       "audio_filename": "aristoteles_19_l06_c10_cena01_historia_animais.m4a",
-      "status": "created",
-      "created_at": "2026-08-19T01:26:03Z"
+      "status": "downloaded",
+      "created_at": "2026-08-19T01:26:03Z",
+      "downloaded_at": "2026-08-20T03:05:50Z",
+      "bytes": 40152905
     },
     "03_psicologia_biologia/03_historia_animais/L06-C11_cena01": {
       "artifact_id": "a62346b8-63f1-4415-b47d-6c87ba68d59d",
       "audio_title": "aristoteles_19_l06_c11_cena01_historia_animais",
       "audio_filename": "aristoteles_19_l06_c11_cena01_historia_animais.m4a",
-      "status": "created",
-      "created_at": "2026-08-19T01:28:11Z"
+      "status": "downloaded",
+      "created_at": "2026-08-19T01:28:11Z",
+      "downloaded_at": "2026-08-20T03:06:27Z",
+      "bytes": 39395923
     },
     "03_psicologia_biologia/03_historia_animais/L06-C12_cena01": {
       "artifact_id": "05932e78-68b6-4400-8bd8-4674ba23a11a",
       "audio_title": "aristoteles_19_l06_c12_cena01_historia_animais",
       "audio_filename": "aristoteles_19_l06_c12_cena01_historia_animais.m4a",
-      "status": "created",
-      "created_at": "2026-08-19T01:30:18Z"
+      "status": "downloaded",
+      "created_at": "2026-08-19T01:30:18Z",
+      "downloaded_at": "2026-08-20T03:07:10Z",
+      "bytes": 35148995
     },
     "03_psicologia_biologia/03_historia_animais/L06-C13_cena01": {
       "artifact_id": "88494a4c-afe5-4746-9c50-aefeb8fcc3e3",
       "audio_title": "aristoteles_19_l06_c13_cena01_historia_animais",
       "audio_filename": "aristoteles_19_l06_c13_cena01_historia_animais.m4a",
-      "status": "created",
-      "created_at": "2026-08-19T01:32:25Z"
+      "status": "downloaded",
+      "created_at": "2026-08-19T01:32:25Z",
+      "downloaded_at": "2026-08-20T03:07:54Z",
+      "bytes": 22445446
     },
     "03_psicologia_biologia/03_historia_animais/L06-C14_cena01": {
       "artifact_id": "d50ad9d5-5c5e-4e70-8026-418983da6e4d",
       "audio_title": "aristoteles_19_l06_c14_cena01_historia_animais",
       "audio_filename": "aristoteles_19_l06_c14_cena01_historia_animais.m4a",
-      "status": "created",
-      "created_at": "2026-08-19T01:34:32Z"
+      "status": "downloaded",
+      "created_at": "2026-08-19T01:34:32Z",
+      "downloaded_at": "2026-08-20T03:08:25Z",
+      "bytes": 31641867
     },
     "03_psicologia_biologia/03_historia_animais/L06-C15_cena01": {
       "artifact_id": "d167f94a-f6cb-4cba-bcaa-c3af748cd00c",
       "audio_title": "aristoteles_19_l06_c15_cena01_historia_animais",
       "audio_filename": "aristoteles_19_l06_c15_cena01_historia_animais.m4a",
-      "status": "created",
-      "created_at": "2026-08-19T01:36:39Z"
+      "status": "downloaded",
+      "created_at": "2026-08-19T01:36:39Z",
+      "downloaded_at": "2026-08-20T03:08:57Z",
+      "bytes": 23522393
     },
     "03_psicologia_biologia/03_historia_animais/L06-C16_cena01": {
       "artifact_id": "eb6c8579-9591-4ad8-ae4c-f35e7b8479a6",
       "audio_title": "aristoteles_19_l06_c16_cena01_historia_animais",
       "audio_filename": "aristoteles_19_l06_c16_cena01_historia_animais.m4a",
-      "status": "created",
-      "created_at": "2026-08-19T01:38:48Z"
+      "status": "downloaded",
+      "created_at": "2026-08-19T01:38:48Z",
+      "downloaded_at": "2026-08-20T03:09:31Z",
+      "bytes": 44366332
     },
     "03_psicologia_biologia/03_historia_animais/L06-C17_cena01": {
       "artifact_id": "d1129f34-b090-49e9-bbb2-a754d210706e",
       "audio_title": "aristoteles_19_l06_c17_cena01_historia_animais",
       "audio_filename": "aristoteles_19_l06_c17_cena01_historia_animais.m4a",
-      "status": "created",
-      "created_at": "2026-08-19T01:40:55Z"
+      "status": "downloaded",
+      "created_at": "2026-08-19T01:40:55Z",
+      "downloaded_at": "2026-08-20T03:10:08Z",
+      "bytes": 37039698
     },
     "03_psicologia_biologia/03_historia_animais/L06-C18_cena01": {
       "artifact_id": "b3e6922b-f05b-407c-80fe-5483bfda93fa",
       "audio_title": "aristoteles_19_l06_c18_cena01_historia_animais",
       "audio_filename": "aristoteles_19_l06_c18_cena01_historia_animais.m4a",
-      "status": "created",
-      "created_at": "2026-08-19T01:43:01Z"
+      "status": "downloaded",
+      "created_at": "2026-08-19T01:43:01Z",
+      "downloaded_at": "2026-08-20T03:10:39Z",
+      "bytes": 29379022
     },
     "03_psicologia_biologia/03_historia_animais/L06-C19_cena01": {
       "artifact_id": "51cdb48c-3c2a-403a-963e-2af9f9a6735f",
       "audio_title": "aristoteles_19_l06_c19_cena01_historia_animais",
       "audio_filename": "aristoteles_19_l06_c19_cena01_historia_animais.m4a",
-      "status": "created",
-      "created_at": "2026-08-19T01:45:09Z"
+      "status": "downloaded",
+      "created_at": "2026-08-19T01:45:09Z",
+      "downloaded_at": "2026-08-20T03:11:09Z",
+      "bytes": 23606061
     },
     "03_psicologia_biologia/03_historia_animais/L06-C20_cena01": {
       "artifact_id": "78c758d9-5ee6-4e04-b8fd-6d67458aeadd",
       "audio_title": "aristoteles_19_l06_c20_cena01_historia_animais",
       "audio_filename": "aristoteles_19_l06_c20_cena01_historia_animais.m4a",
-      "status": "created",
-      "created_at": "2026-08-19T01:47:16Z"
+      "status": "downloaded",
+      "created_at": "2026-08-19T01:47:16Z",
+      "downloaded_at": "2026-08-20T03:11:40Z",
+      "bytes": 32822716
     },
     "03_psicologia_biologia/03_historia_animais/L06-C21_cena01": {
       "artifact_id": "7fe2a9cf-0a23-4895-b4ed-2b44874483e1",
       "audio_title": "aristoteles_19_l06_c21_cena01_historia_animais",
       "audio_filename": "aristoteles_19_l06_c21_cena01_historia_animais.m4a",
-      "status": "created",
-      "created_at": "2026-08-19T01:49:23Z"
+      "status": "downloaded",
+      "created_at": "2026-08-19T01:49:23Z",
+      "downloaded_at": "2026-08-20T03:12:09Z",
+      "bytes": 23614279
     },
     "03_psicologia_biologia/03_historia_animais/L06-C22_cena01": {
       "artifact_id": "ab6bad0c-2ead-4bdc-bf90-b29a28b186a8",
       "audio_title": "aristoteles_19_l06_c22_cena01_historia_animais",
       "audio_filename": "aristoteles_19_l06_c22_cena01_historia_animais.m4a",
+      "status": "downloaded",
+      "created_at": "2026-08-19T01:51:30Z",
+      "downloaded_at": "2026-08-20T03:12:45Z",
+      "bytes": 55266464
+    },
+    "03_psicologia_biologia/03_historia_animais/L06-C23_cena01": {
+      "artifact_id": "e5cb6191-3d88-4ecf-bf35-3363e2e140f8",
+      "audio_title": "aristoteles_19_l06_c23_cena01_historia_animais",
+      "audio_filename": "aristoteles_19_l06_c23_cena01_historia_animais.m4a",
       "status": "created",
-      "created_at": "2026-08-19T01:51:30Z"
+      "created_at": "2026-08-20T03:13:01Z"
+    },
+    "03_psicologia_biologia/03_historia_animais/L06-C24_cena01": {
+      "artifact_id": "9084b9c0-0a4c-43bd-bb86-a3c62e2fa5d2",
+      "audio_title": "aristoteles_19_l06_c24_cena01_historia_animais",
+      "audio_filename": "aristoteles_19_l06_c24_cena01_historia_animais.m4a",
+      "status": "created",
+      "created_at": "2026-08-20T03:15:15Z"
+    },
+    "03_psicologia_biologia/03_historia_animais/L06-C25_cena01": {
+      "artifact_id": "9c522595-dce4-48d1-90a6-f0703628bbab",
+      "audio_title": "aristoteles_19_l06_c25_cena01_historia_animais",
+      "audio_filename": "aristoteles_19_l06_c25_cena01_historia_animais.m4a",
+      "status": "created",
+      "created_at": "2026-08-20T03:17:22Z"
+    },
+    "03_psicologia_biologia/03_historia_animais/L06-C26_cena01": {
+      "artifact_id": "131c22d3-2a3b-42b1-a9c4-91d20b00ec70",
+      "audio_title": "aristoteles_19_l06_c26_cena01_historia_animais",
+      "audio_filename": "aristoteles_19_l06_c26_cena01_historia_animais.m4a",
+      "status": "created",
+      "created_at": "2026-08-20T03:19:28Z"
+    },
+    "03_psicologia_biologia/03_historia_animais/L06-C27_cena01": {
+      "artifact_id": "1b1bdfda-5923-4092-874d-2aa503c203e8",
+      "audio_title": "aristoteles_19_l06_c27_cena01_historia_animais",
+      "audio_filename": "aristoteles_19_l06_c27_cena01_historia_animais.m4a",
+      "status": "created",
+      "created_at": "2026-08-20T03:21:35Z"
+    },
+    "03_psicologia_biologia/03_historia_animais/L06-C28_cena01": {
+      "artifact_id": "141edb03-469a-4ed8-8ffc-9ee732e19b39",
+      "audio_title": "aristoteles_19_l06_c28_cena01_historia_animais",
+      "audio_filename": "aristoteles_19_l06_c28_cena01_historia_animais.m4a",
+      "status": "created",
+      "created_at": "2026-08-20T03:23:42Z"
+    },
+    "03_psicologia_biologia/03_historia_animais/L06-C29_cena01": {
+      "artifact_id": "725d3ea4-8f9b-4975-8dd4-97acc6a52b19",
+      "audio_title": "aristoteles_19_l06_c29_cena01_historia_animais",
+      "audio_filename": "aristoteles_19_l06_c29_cena01_historia_animais.m4a",
+      "status": "created",
+      "created_at": "2026-08-20T03:25:49Z"
+    },
+    "03_psicologia_biologia/03_historia_animais/L06-C30_cena01": {
+      "artifact_id": "36c38709-2353-44fe-a417-170db4aebb87",
+      "audio_title": "aristoteles_19_l06_c30_cena01_historia_animais",
+      "audio_filename": "aristoteles_19_l06_c30_cena01_historia_animais.m4a",
+      "status": "created",
+      "created_at": "2026-08-20T03:27:54Z"
+    },
+    "03_psicologia_biologia/03_historia_animais/L06-C31_cena01": {
+      "artifact_id": "ffe54c05-c02a-43fe-89c8-758d6e0716a5",
+      "audio_title": "aristoteles_19_l06_c31_cena01_historia_animais",
+      "audio_filename": "aristoteles_19_l06_c31_cena01_historia_animais.m4a",
+      "status": "created",
+      "created_at": "2026-08-20T03:30:01Z"
+    },
+    "03_psicologia_biologia/03_historia_animais/L06-C32_cena01": {
+      "artifact_id": "b43fd1d8-50cc-48b1-a87e-ab52566e31fc",
+      "audio_title": "aristoteles_19_l06_c32_cena01_historia_animais",
+      "audio_filename": "aristoteles_19_l06_c32_cena01_historia_animais.m4a",
+      "status": "created",
+      "created_at": "2026-08-20T03:32:08Z"
+    },
+    "03_psicologia_biologia/03_historia_animais/L06-C33_cena01": {
+      "artifact_id": "75b7567d-f767-472e-8778-56bb36ddc1d1",
+      "audio_title": "aristoteles_19_l06_c33_cena01_historia_animais",
+      "audio_filename": "aristoteles_19_l06_c33_cena01_historia_animais.m4a",
+      "status": "created",
+      "created_at": "2026-08-20T03:34:15Z"
+    },
+    "03_psicologia_biologia/03_historia_animais/L06-C34_cena01": {
+      "artifact_id": "ed9d0f06-a857-4efe-9a87-46326dbdf64a",
+      "audio_title": "aristoteles_19_l06_c34_cena01_historia_animais",
+      "audio_filename": "aristoteles_19_l06_c34_cena01_historia_animais.m4a",
+      "status": "created",
+      "created_at": "2026-08-20T03:36:22Z"
+    },
+    "03_psicologia_biologia/03_historia_animais/L06-C35_cena01": {
+      "artifact_id": "f824b97a-f01c-463d-974a-f21a9615f3a7",
+      "audio_title": "aristoteles_19_l06_c35_cena01_historia_animais",
+      "audio_filename": "aristoteles_19_l06_c35_cena01_historia_animais.m4a",
+      "status": "created",
+      "created_at": "2026-08-20T03:38:28Z"
+    },
+    "03_psicologia_biologia/03_historia_animais/L06-C36_cena01": {
+      "artifact_id": "a68e741d-ac70-4353-a66b-e379ba2bcfee",
+      "audio_title": "aristoteles_19_l06_c36_cena01_historia_animais",
+      "audio_filename": "aristoteles_19_l06_c36_cena01_historia_animais.m4a",
+      "status": "created",
+      "created_at": "2026-08-20T03:40:35Z"
+    },
+    "03_psicologia_biologia/03_historia_animais/L06-C37_cena01": {
+      "artifact_id": "72765ef7-3ee3-4b2e-a7eb-58d5b0a778a7",
+      "audio_title": "aristoteles_19_l06_c37_cena01_historia_animais",
+      "audio_filename": "aristoteles_19_l06_c37_cena01_historia_animais.m4a",
+      "status": "created",
+      "created_at": "2026-08-20T03:42:42Z"
+    },
+    "03_psicologia_biologia/03_historia_animais/L07-C01_cena01": {
+      "artifact_id": "776720ee-49dd-4a25-a7c4-baf72040da68",
+      "audio_title": "aristoteles_19_l07_c01_cena01_historia_animais",
+      "audio_filename": "aristoteles_19_l07_c01_cena01_historia_animais.m4a",
+      "status": "created",
+      "created_at": "2026-08-20T03:44:51Z"
+    },
+    "03_psicologia_biologia/03_historia_animais/L07-C02_cena01": {
+      "artifact_id": "c29166b7-2ebe-4d68-b624-35389f79a82d",
+      "audio_title": "aristoteles_19_l07_c02_cena01_historia_animais",
+      "audio_filename": "aristoteles_19_l07_c02_cena01_historia_animais.m4a",
+      "status": "created",
+      "created_at": "2026-08-20T03:46:58Z"
+    },
+    "03_psicologia_biologia/03_historia_animais/L07-C03_cena01": {
+      "artifact_id": "668e2478-1854-447c-90ec-7f55371e74a3",
+      "audio_title": "aristoteles_19_l07_c03_cena01_historia_animais",
+      "audio_filename": "aristoteles_19_l07_c03_cena01_historia_animais.m4a",
+      "status": "created",
+      "created_at": "2026-08-20T03:49:05Z"
+    },
+    "03_psicologia_biologia/03_historia_animais/L07-C04_cena01": {
+      "artifact_id": "58c1cf43-5e08-4342-b8d9-f777ab3dbcfc",
+      "audio_title": "aristoteles_19_l07_c04_cena01_historia_animais",
+      "audio_filename": "aristoteles_19_l07_c04_cena01_historia_animais.m4a",
+      "status": "created",
+      "created_at": "2026-08-20T03:51:12Z"
+    },
+    "03_psicologia_biologia/03_historia_animais/L07-C05_cena01": {
+      "artifact_id": "e802280f-f131-4a67-9e51-a46118fd9308",
+      "audio_title": "aristoteles_19_l07_c05_cena01_historia_animais",
+      "audio_filename": "aristoteles_19_l07_c05_cena01_historia_animais.m4a",
+      "status": "created",
+      "created_at": "2026-08-20T03:53:18Z"
     }
   }
 }
