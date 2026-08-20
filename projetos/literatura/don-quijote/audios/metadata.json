@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-08-19T08:26:03.574321",
+  "atualizado": "2026-08-20T08:26:01.920562",
   "audios": [
     {
       "seq_global": 1,
@@ -1611,8 +1611,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-19T08:21:46.071750",
-      "status": "created",
-      "artifact_id": "39e2caca-e72d-4397-9016-21bd5b455ed1"
+      "status": "downloaded",
+      "artifact_id": "39e2caca-e72d-4397-9016-21bd5b455ed1",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/124_cap-038_cena-003_No-Zoraida-Maria-Maria.m4a",
+      "tamanho_bytes": 35731917
     },
     {
       "seq_global": 125,
@@ -1622,8 +1624,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-19T08:23:55.628641",
-      "status": "created",
-      "artifact_id": "9805e076-408a-4185-87f9-49cab7e3da05"
+      "status": "downloaded",
+      "artifact_id": "9805e076-408a-4185-87f9-49cab7e3da05",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/125_cap-038_cena-004_El-discurso-de-las-armas-y-las-letras.m4a",
+      "tamanho_bytes": 27199098
     },
     {
       "seq_global": 126,
@@ -1633,8 +1637,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-19T08:26:03.571288",
+      "status": "downloaded",
+      "artifact_id": "47c4c0e7-b8f6-4ee3-bc16-715980a220f7",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/126_cap-039_cena-001_La-pobreza-y-la-muerte-del-soldado.m4a",
+      "tamanho_bytes": 22372984
+    },
+    {
+      "seq_global": 127,
+      "arquivo": "127_cap-039_cena-002_La-invectiva-contra-la-artificia-diabolica.m4a",
+      "titulo": "La invectiva contra la artificia diabolica",
+      "cap": 39,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-20T08:21:46.060989",
       "status": "created",
-      "artifact_id": "47c4c0e7-b8f6-4ee3-bc16-715980a220f7"
+      "artifact_id": "7fcb52c8-b0bf-4745-80d2-af20919342c4"
+    },
+    {
+      "seq_global": 128,
+      "arquivo": "128_cap-039_cena-003_La-lastima-de-los-oyentes-y-el-umbral-del-cautivo.m4a",
+      "titulo": "La lastima de los oyentes y el umbral del cautivo",
+      "cap": 39,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-20T08:23:53.554280",
+      "status": "created",
+      "artifact_id": "0051fc84-8b6b-49c1-94f0-43d584aee15a"
+    },
+    {
+      "seq_global": 129,
+      "arquivo": "129_cap-040_cena-001_El-reparto-de-la-herencia-la-sinceridad-de-un-padre.m4a",
+      "titulo": "El reparto de la herencia: la sinceridad de un padre",
+      "cap": 40,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-20T08:26:01.917735",
+      "status": "created",
+      "artifact_id": "31bd05af-671f-4429-8027-b2ec6bda181a"
     }
   ]
 }
