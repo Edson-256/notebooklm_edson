@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-08-21T08:25:46.168537",
+  "atualizado": "2026-08-22T08:26:08.293451",
   "audios": [
     {
       "seq_global": 1,
@@ -1689,8 +1689,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-21T08:21:32.703801",
-      "status": "created",
-      "artifact_id": "10c512b2-4e2e-46e0-af7c-f42c2e91174c"
+      "status": "downloaded",
+      "artifact_id": "10c512b2-4e2e-46e0-af7c-f42c2e91174c",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/130_cap-040_cena-002_Lepanto-el-unico-desdichado-entre-tantos-venturosos.m4a",
+      "tamanho_bytes": 25367411
     },
     {
       "seq_global": 131,
@@ -1700,8 +1702,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-21T08:23:39.397968",
-      "status": "created",
-      "artifact_id": "5bef8931-5970-4cb7-99cd-bcb8589e7966"
+      "status": "downloaded",
+      "artifact_id": "5bef8931-5970-4cb7-99cd-bcb8589e7966",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/131_cap-040_cena-003_El-reconocimiento-el-poeta-cautivo-era-el-hermano.m4a",
+      "tamanho_bytes": 27209557
     },
     {
       "seq_global": 132,
@@ -1711,8 +1715,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-21T08:25:46.165656",
+      "status": "downloaded",
+      "artifact_id": "d80a52fc-d14a-4ac4-8bfa-fd3964910917",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/132_cap-041_cena-001_La-cana-la-estrella-y-el-don-del-cielo.m4a",
+      "tamanho_bytes": 44250425
+    },
+    {
+      "seq_global": 133,
+      "arquivo": "133_cap-041_cena-002_La-carta-de-Zoraida-una-mujer-que-busca-a-Lela-Marien.m4a",
+      "titulo": "La carta de Zoraida: una mujer que busca a Lela Marién",
+      "cap": 41,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-22T08:21:52.812217",
       "status": "created",
-      "artifact_id": "d80a52fc-d14a-4ac4-8bfa-fd3964910917"
+      "artifact_id": "177fbef8-78d2-4206-ab46-cdf01f3f555c"
+    },
+    {
+      "seq_global": 134,
+      "arquivo": "134_cap-041_cena-003_El-juramento-del-renegado-y-la-fragilidad-de-la-palabra-libre.m4a",
+      "titulo": "El juramento del renegado y la fragilidad de la palabra libre",
+      "cap": 41,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-22T08:24:00.660510",
+      "status": "created",
+      "artifact_id": "2638a815-acb7-4d71-b7b5-9ecab227c1ff"
+    },
+    {
+      "seq_global": 135,
+      "arquivo": "135_cap-042_cena-001_El-jardin-el-desmayo-fingido-y-la-doble-lengua.m4a",
+      "titulo": "El jardin, el desmayo fingido y la doble lengua",
+      "cap": 42,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-22T08:26:08.291134",
+      "status": "created",
+      "artifact_id": "3fbc6bef-5a53-4ad9-b537-e6f4d2f7f8c1"
     }
   ]
 }
