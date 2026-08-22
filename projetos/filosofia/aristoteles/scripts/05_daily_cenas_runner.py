@@ -57,7 +57,7 @@ Act as a Senior Humanities Tutor specializing in the formative reading of Aristo
 - **Passage Identifier:** {livro_marker}, {capitulo_marker} (sub-cena {sub_cena_num} of {sub_cena_total}).
 - **Audio Position in This Work:** This is audio {audio_in_obra_idx} of {audio_in_obra_total} for *{obra_en}*.
 
-**Task:**
+{nota_serie_block}**Task:**
 Generate a comprehensive, structured study guide (Guia de Estudos) in Brazilian Portuguese (pt-BR) for the passage below. The guide should be written in a clear, engaging, and didactic tone, aimed at helping a student deeply absorb Aristotle's arguments and relate them to real life.
 
 **Study Guide Structure (MUST be written entirely in BRAZILIAN PORTUGUESE):**
@@ -86,7 +86,14 @@ The sources uploaded to NotebookLM contain the full text of *{obra_en}*. For thi
 def make_prompt(cena: dict) -> str:
     fonte = cena.get("fonte", "")
     translator = fonte.split("-", 1)[-1] if "-" in fonte else fonte or "Oxford"
+    # Nota de série (opcional): só existe em cenas de transição — retomada de uma
+    # obra interrompida, salto de numeração de livro, fim abrupto do tratado.
+    # Definidas em 04_define_cenas_master.py:NOTAS_SERIE. Sem nota, o prompt sai
+    # exatamente igual ao das outras 1600 cenas.
+    nota = cena.get("nota_serie")
+    nota_block = (nota.rstrip() + "\n\n") if nota else ""
     return PROMPT_TEMPLATE.format(
+        nota_serie_block=nota_block,
         audio_title=cena.get("audio_title", "?"),
         audio_filename=cena.get("audio_filename", "?"),
         obra_en=cena["obra_en"],

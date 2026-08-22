@@ -2,20 +2,71 @@
 
 > **Quando voltar:** leia este arquivo primeiro. Depois `CLAUDE.md`, `docs/plano_execucao.md` e `docs/workflow_audio.md`.
 >
-> **Última atualização:** 2026-05-20 — fim das fases 1-6.
+> **Última atualização:** 2026-08-22 — recuperação das 4 fontes defeituosas e integração ao pipeline.
 
 ## Estado atual ✅
 
-| Fase | Status |
-|---|---|
-| 1. Download corpus (33 obras, MIT + Archive.org) | ✅ |
-| 2. Limpeza dos textos (`obras/*/clean/`) | ✅ |
-| 3. Segmentação em capítulos (1364 .md em `obras/*/capitulos/`) | ✅ |
-| 4. Definição da fila de cenas (1695 em `_raw/cenas_master.json`) | ✅ |
-| 5. Geração de cenas + prompts (1695 cada em `obras/*/cenas/` e `obras/*/prompts/`) | ✅ |
-| 6. Notebook NLM criado + audio runner híbrido | ✅ (em standby) |
+**Em produção, rodando sozinho.** O cron dispara a cada 2h, com quota guard de 24h rolantes
+(a cota do NotebookLM é rolante, não por dia de calendário — nunca usar horário fixo).
 
-**Nenhuma cena de áudio gerada ainda.** Aguardando ativação do cron OU operação manual.
+| Item | Estado (medido em 2026-08-22) |
+|---|---|
+| Cenas planejadas | **1.626** em `_raw/cenas_master.json` — todas com cena + prompt gerados |
+| Áudios já produzidos | **1.096** (`_raw/audio_metadata.json`) |
+| Fila pendente | **530 áudios**, ~27 dias a 20/dia |
+| Obra em produção agora | **História dos Animais** (obra 19) — faltam 72 |
+| Sources no notebook | 33, todas conferidas |
+
+### Ordem de produção da fila (blocos contíguos, uma obra por vez)
+
+História dos Animais (72) → **Política III–VIII (82)** → Movimento dos Animais (11) →
+Marcha dos Animais (19) → **Geração dos Animais (78)** → Parva Naturalia (54) →
+Constituição dos Atenienses (69) → **Ética a Eudemo (44)** → **Magna Moralia (59)** →
+Virtudes e Vícios (5) → Econômicos (37).
+
+Em negrito, as obras cuja fonte foi recuperada em 2026-08-21/22.
+
+## O que mudou em 2026-08-22 (ler antes de mexer em cena ou prompt)
+
+Quatro obras tinham fonte truncada ou com OCR ruim e foram substituídas
+(diagnóstico completo em `docs/FONTES_INCOMPLETAS_recuperar.md`):
+
+| Obra | Fonte nova | Livros |
+|---|---|---|
+| Política (29) | Wayback 1997 do MIT — Jowett íntegro | 8 (era 2) |
+| Ética a Eudemo (26) | Wikisource — Oxford vol. IX, tr. Solomon | 4 (I, II, III, VII) |
+| Magna Moralia (27) | Wikisource — Oxford vol. IX, tr. Stock | 2 |
+| Geração dos Animais (23) | Wikisource — Oxford vol. V, tr. Platt | 5 |
+
+**A Ética a Eudemo tem 4 livros e isso está certo** — os Livros IV, V e VI são o mesmo texto
+dos Livros V, VI e VII da Ética a Nicômaco e não foram traduzidos por Solomon; o VIII foi
+anexado ao VII. Não tratar como fonte incompleta.
+
+**A Magna Moralia termina abruptamente** — o tratado chegou assim até nós. Não é truncamento.
+
+Scripts novos:
+- `scripts/00_normalize_recovered_sources.py` — converte os textos recuperados para o formato
+  canônico MIT (`BOOK ONE` / `Part I`), que é o que 02 e 03 já sabem ler.
+- `scripts/08_replace_recovered_sources.py` — troca uma source no notebook sem deixar buraco
+  (sobe a nova → confere → só então apaga a velha → renomeia).
+
+Mudanças de comportamento no pipeline:
+- **`04:sort_cenas` agora ordena por `obra_idx`** dentro do rank. Sem isso, obras que dividem
+  o mesmo rank saíam intercaladas capítulo a capítulo na fila (os 7 Parva Naturalia entre si;
+  a Magna Moralia partida ao meio por Virtudes e Vícios).
+- **`04:annotate_audio_position` agora agrupa por `obra_idx`**, não por `obra_slug`. O prompt
+  dizia "áudio 3 de 64" somando obras diferentes que dividem diretório.
+- **`04:NOTAS_SERIE` + `05:{nota_serie_block}`** — texto extra injetado no prompt de cenas de
+  transição, para o ouvinte entender a sequência. Hoje são 4: retomada da Política, abertura da
+  Ética a Eudemo, salto do Livro III para o VII no Eudemo, fim abrupto da Magna Moralia.
+- **`04:apply_segunda_leva_rank`** — as 82 cenas novas da Política receberam rank 18.5 para
+  entrar depois da História dos Animais, e não furar a fila da obra em produção.
+
+O áudio 22 da Política (`aristoteles_29_l02_c09_cena01_politica`) foi **removido do
+`audio_metadata.json` para ser refeito** — ele tinha ido ao ar com 5.775 dos 12.683 bytes do
+capítulo, cortado no meio da palavra "givin". O registro antigo ficou em
+`audio_metadata.json > substituidos`. O arquivo velho segue no dell até ser sobrescrito pelo
+novo, de propósito: assim o feed não fica com buraco.
 
 ## Notebook NLM ativo
 
@@ -108,11 +159,11 @@ crontab -e
 
 ## Limitações conhecidas (issues abertos)
 
-1. **Politics truncado** no Google cache MIT — só Books I-II (de 8). Issue Beads: `notebooklm_edson-... (Politics)`.
-2. **Eudemo OCR ruim** — Loeb 285 perdeu BOOK IV, V, VI. Issue Beads `notebooklm_edson-... (Eudemo)`.
-3. **Magna Moralia / Generation of Animals / Virtues OCR variável** — segmentação imperfeita. Issue Beads `notebooklm_edson-... (4 obras OCR)`.
-4. **Politics "Every tate"** (1 letra perdida do "state" no Google cache) — irreversível, ignorável.
-5. **`--create` é stub** — falta implementar invocação real de `nlm studio create` antes de ativar cron.
+1. **`aristoteles/28_virtudes_e_vicios`** — a fonte da obra 28 é o **prefácio do tradutor**, não
+   o tratado, e tem OCR quebrado. São 5 cenas com prompt já gerado, que entram em produção por
+   volta do dia 25 da fila. Issue `notebooklm_edson-x5lr`.
+2. **Política "Every tate"** — resolvido junto com a troca de fonte: o texto de 1997 traz
+   "EVERY STATE" correto. Só os áudios 1 a 21, já publicados, carregam o defeito.
 
 ## Sessões anteriores (Obsidian Vault)
 

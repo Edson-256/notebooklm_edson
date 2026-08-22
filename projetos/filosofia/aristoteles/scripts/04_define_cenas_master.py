@@ -128,6 +128,89 @@ PRIORITY_ORDER: list[tuple[str, str]] = [
 ]
 
 
+# ---------------------------------------------------------------------------
+# Segunda leva (2026-08-22) — as quatro obras cuja fonte foi recuperada.
+#
+# Ética a Eudemo, Magna Moralia e Geração dos Animais não tinham nenhum áudio
+# produzido: entram na fila no rank normal da obra, sem tratamento especial.
+#
+# A Política é o caso delicado. Ela tem 21 áudios JÁ PUBLICADOS (Livro I inteiro
+# + Livro II até o capítulo 8), gerados a partir da fonte truncada. As ~85 cenas
+# novas (do capítulo II.9 em diante) NÃO podem entrar no rank 2 da Política,
+# porque isso as jogaria na frente da obra que está em produção hoje (História
+# dos Animais, rank 18) — e o feed ficaria com duas obras picotadas ao mesmo
+# tempo, impossível de acompanhar ouvindo. Por isso recebem rank 18.5: entram
+# como um bloco logo DEPOIS que a História dos Animais terminar.
+#
+# Decisão do Edson em 2026-08-22. Ver docs/FONTES_INCOMPLETAS_recuperar.md.
+# ---------------------------------------------------------------------------
+SEGUNDA_LEVA_RANK = 18.5
+POLITICA_RETOMA_EM = (2, 9)   # (livro_num, capitulo_num) da primeira cena nova
+
+
+def apply_segunda_leva_rank(cena: dict) -> None:
+    """Reposiciona na fila as cenas da Política que ainda não foram ao ar."""
+    if (cena["categoria"], cena["obra_slug"]) != ("06_politica", "01_politica"):
+        return
+    if (cena["livro_num"], cena["capitulo_num"]) >= POLITICA_RETOMA_EM:
+        cena["priority_rank"] = SEGUNDA_LEVA_RANK
+
+
+# ---------------------------------------------------------------------------
+# Notas de série — texto injetado no prompt de cenas específicas, para que o
+# ouvinte entenda a sequência do que está ouvindo. Renderizadas pelo
+# 05_daily_cenas_runner.py; cenas sem nota geram o prompt padrão, inalterado.
+# ---------------------------------------------------------------------------
+NOTAS_SERIE: dict[str, str] = {
+    # Política — primeiro áudio depois da retomada. Os anteriores pararam no
+    # meio do Livro II porque a fonte terminava ali.
+    "06_politica/01_politica/L02-C09_cena01": (
+        "**Series Continuity — handle this at the very START of the audio:**\n"
+        "This audio resumes a series that had been interrupted. The previous audios "
+        "covered Book One and the first eight chapters of Book Two; the reading now "
+        "continues through the complete work, which has eight books in all. Open with "
+        "a brief spoken bridge of 2-3 sentences in Brazilian Portuguese that reminds "
+        "the listener where the series left off and states that it now goes on to the "
+        "end of the *Politics*. Keep it warm and natural, the way a teacher picks a "
+        "course back up after a break. Do NOT mention files, sources, editions, "
+        "technical problems, or audio numbering. Then proceed with the study guide "
+        "exactly as specified below."
+    ),
+    # Ética a Eudemo — a obra salta do Livro III para o VII, e o ouvinte precisa
+    # saber disso antes de estranhar.
+    "05_etica/02_etica_eudemo/L01-C01_cena01": (
+        "**Series Note — handle this at the very START of the audio:**\n"
+        "This is the first audio of the *Eudemian Ethics*. Open with a brief spoken "
+        "introduction of 2-3 sentences in Brazilian Portuguese explaining plainly that "
+        "this is Aristotle's other treatise on ethics, close kin to the Nicomachean "
+        "Ethics already covered in this series, and that three of its books (IV, V and "
+        "VI) are literally the same text as Books V, VI and VII of the Nicomachean "
+        "Ethics — which is why this series will move from Book III straight to Book "
+        "VII. This prepares the listener for the jump. Keep it brief and natural; do "
+        "not turn it into a scholarly digression. Then proceed with the study guide "
+        "exactly as specified below."
+    ),
+    # Magna Moralia — o tratado chegou até nós interrompido. Sem esta nota, o
+    # último áudio pareceria um arquivo cortado.
+    "05_etica/03_magna_moralia/magna_moralia-L02-C17_cena01": (
+        "**Series Note — handle this at the END of the audio:**\n"
+        "This is the last audio of the *Magna Moralia*. The treatise as it has come "
+        "down to us simply breaks off here, in the middle of a discussion — nothing "
+        "was omitted or lost by this series. Close with one or two sentences in "
+        "Brazilian Portuguese saying this plainly, so the listener understands that "
+        "the abrupt ending belongs to the work itself."
+    ),
+    "05_etica/02_etica_eudemo/L07-C01_cena01": (
+        "**Series Note — handle this at the very START of the audio:**\n"
+        "The series now moves from Book III to Book VII. Open with one or two sentences "
+        "in Brazilian Portuguese reminding the listener why: Books IV, V and VI of the "
+        "*Eudemian Ethics* are the same text as Books V, VI and VII of the *Nicomachean "
+        "Ethics*, already covered in this series, and so are not repeated here. Then "
+        "proceed with the study guide exactly as specified below."
+    ),
+}
+
+
 def get_priority_rank(categoria: str, obra_slug: str) -> int:
     key = (categoria, obra_slug)
     try:
@@ -294,17 +377,32 @@ def collect_capitulos() -> list[dict]:
 
 
 def sort_cenas(cenas: list[dict]) -> list[dict]:
-    """Ordena por priority_rank → livro → capítulo → sub-cena."""
+    """Ordena por priority_rank → obra → livro → capítulo → sub-cena.
+
+    O obra_idx no meio da chave NÃO é decorativo. Sem ele, obras que dividem o
+    mesmo priority_rank saíam intercaladas capítulo a capítulo na fila: os 7
+    opúsculos dos Parva Naturalia (rank 22) alternavam entre si — 'Sonhos cap.1',
+    'Longevidade cap.1', 'Memória cap.1'… — e a Magna Moralia saía partida ao
+    meio por 'Sobre as Virtudes e os Vícios' (ambas rank 25). Como o feed é
+    cronológico, quem ouvisse na ordem de publicação pegaria sete obras
+    embaralhadas. Corrigido em 2026-08-22; nenhuma obra já publicada muda de
+    posição, porque todas elas têm rank exclusivo."""
     return sorted(cenas, key=lambda c: (
-        c["priority_rank"], c["livro_num"], c["capitulo_num"], c["sub_cena_num"]))
+        c["priority_rank"], c["obra_idx"], c["livro_num"], c["capitulo_num"],
+        c["sub_cena_num"]))
 
 
 def annotate_audio_position(cenas: list[dict]) -> None:
     """Adiciona audio_in_obra_idx / total_in_obra para o template 'audio X of Y'."""
     from collections import defaultdict
     by_obra: dict[tuple, list[dict]] = defaultdict(list)
+    # Agrupa por obra_idx (canônico Bekker), não por obra_slug: Magna Moralia e
+    # Sobre as Virtudes e os Vícios compartilham diretório, e as 7 sub-obras dos
+    # Parva Naturalia também. Agrupando por slug, o prompt dizia "áudio 3 de 64"
+    # somando obras diferentes. Nenhuma dessas obras tinha áudio publicado quando
+    # isto foi corrigido (2026-08-22), então a mudança não afeta nada no ar.
     for c in cenas:
-        by_obra[(c["categoria"], c["obra_slug"])].append(c)
+        by_obra[(c["obra_idx"],)].append(c)
     for key, lst in by_obra.items():
         for i, c in enumerate(lst, 1):
             c["audio_in_obra_idx"] = i
@@ -331,6 +429,11 @@ def main() -> int:
     args = parser.parse_args()
 
     cenas = collect_capitulos()
+    for c in cenas:
+        apply_segunda_leva_rank(c)
+        nota = NOTAS_SERIE.get(c["cena_id"])
+        if nota:
+            c["nota_serie"] = nota
     cenas = sort_cenas(cenas)
     annotate_audio_position(cenas)
 
