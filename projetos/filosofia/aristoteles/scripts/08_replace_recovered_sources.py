@@ -39,6 +39,8 @@ JOBS = [
      "Eudemian Ethics", "Solomon (Oxford)"),
     (27, "obras/05_etica/03_magna_moralia/clean/magna_moralia.txt",
      "Magna Moralia", "Stock (Oxford)"),
+    (28, "obras/05_etica/03_magna_moralia/clean/on_virtues_and_vices.txt",
+     "On Virtues and Vices", "Solomon (Oxford)"),
     (29, "obras/06_politica/01_politica/clean/politics.txt",
      "Politics", "Jowett"),
 ]
@@ -59,6 +61,8 @@ def list_sources(nb: str) -> list[dict]:
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--only", type=int, default=None,
+                    help="obra_idx único a substituir (ex.: 28).")
     args = ap.parse_args()
 
     meta = json.loads(NOTEBOOK_META.read_text(encoding="utf-8"))
@@ -72,6 +76,8 @@ def main() -> int:
     print(f"Notebook {nb} — {len(before)} sources hoje\n")
 
     for idx, rel, titulo_en, translator in JOBS:
+        if args.only is not None and idx != args.only:
+            continue
         path = PROJECT_ROOT / rel
         antigo = by_idx.get(idx)
         canonico = f"{idx:02d}. {titulo_en} (Aristotle, tr. {translator})"

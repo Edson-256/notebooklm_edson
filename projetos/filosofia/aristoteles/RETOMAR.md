@@ -11,7 +11,7 @@
 
 | Item | Estado (medido em 2026-08-22) |
 |---|---|
-| Cenas planejadas | **1.626** em `_raw/cenas_master.json` — todas com cena + prompt gerados |
+| Cenas planejadas | **1.629** em `_raw/cenas_master.json` — todas com cena + prompt gerados |
 | Áudios já produzidos | **1.096** (`_raw/audio_metadata.json`) |
 | Fila pendente | **530 áudios**, ~27 dias a 20/dia |
 | Obra em produção agora | **História dos Animais** (obra 19) — faltam 72 |
@@ -22,7 +22,7 @@
 História dos Animais (72) → **Política III–VIII (82)** → Movimento dos Animais (11) →
 Marcha dos Animais (19) → **Geração dos Animais (78)** → Parva Naturalia (54) →
 Constituição dos Atenienses (69) → **Ética a Eudemo (44)** → **Magna Moralia (59)** →
-Virtudes e Vícios (5) → Econômicos (37).
+Virtudes e Vícios (8) → Econômicos (37).
 
 Em negrito, as obras cuja fonte foi recuperada em 2026-08-21/22.
 
@@ -37,6 +37,7 @@ Quatro obras tinham fonte truncada ou com OCR ruim e foram substituídas
 | Ética a Eudemo (26) | Wikisource — Oxford vol. IX, tr. Solomon | 4 (I, II, III, VII) |
 | Magna Moralia (27) | Wikisource — Oxford vol. IX, tr. Stock | 2 |
 | Geração dos Animais (23) | Wikisource — Oxford vol. V, tr. Platt | 5 |
+| Virtudes e Vícios (28) | Wikisource — Oxford vol. IX, tr. Solomon | 1 (SECTION 1, 8 caps) |
 
 **A Ética a Eudemo tem 4 livros e isso está certo** — os Livros IV, V e VI são o mesmo texto
 dos Livros V, VI e VII da Ética a Nicômaco e não foram traduzidos por Solomon; o VIII foi
@@ -159,9 +160,10 @@ crontab -e
 
 ## Limitações conhecidas (issues abertos)
 
-1. **`aristoteles/28_virtudes_e_vicios`** — a fonte da obra 28 é o **prefácio do tradutor**, não
-   o tratado, e tem OCR quebrado. São 5 cenas com prompt já gerado, que entram em produção por
-   volta do dia 25 da fila. Issue `notebooklm_edson-x5lr`.
+1. ~~`aristoteles/28_virtudes_e_vicios`~~ — **resolvido em 2026-08-22**, junto com as outras
+   quatro: a fonte agora é o tratado de verdade (Wikisource, Oxford vol. IX, tr. Solomon,
+   pp. 527-532), 8 capítulos, 1.813 palavras. Eram 5 cenas do prefácio do tradutor; agora são 8
+   cenas do texto. Issue `notebooklm_edson-x5lr` fechada.
 2. **Política "Every tate"** — resolvido junto com a troca de fonte: o texto de 1997 traz
    "EVERY STATE" correto. Só os áudios 1 a 21, já publicados, carregam o defeito.
 

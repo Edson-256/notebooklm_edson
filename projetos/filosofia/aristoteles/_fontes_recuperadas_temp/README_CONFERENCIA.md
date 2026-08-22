@@ -18,6 +18,14 @@
 | `02_etica_eudemo_solomon.txt` | Ética a Eudemo | **J. Solomon** — Works of Aristotle vol. IX (Ross), Clarendon 1925 | 199.448 | 35.899 | **4/4** (ver nota) |
 | `03_magna_moralia_stock.txt` | Magna Moralia | **St. George Stock** — vol. IX (Ross), Clarendon 1925 | 176.196 | 32.884 | **2/2** |
 | `04_geracao_animais_platt.txt` | Geração dos Animais | **Arthur Platt** — vol. V (Smith/Ross), Clarendon 1912 | 374.249 | 68.501 | **5/5** |
+| `05_virtudes_vicios_solomon.txt` | Sobre as Virtudes e os Vícios | **J. Solomon** — vol. IX (Ross), Clarendon 1925 | 10.978 | 1.813 | 1 (8 caps) |
+
+> A quinta obra foi acrescentada em 2026-08-22. Ela não estava na lista original: apareceu ao
+> conferir as outras quatro. A fonte anterior (`athenianconstitu00arisuoft`, o mesmo volume Loeb
+> que estragou a Ética a Eudemo) tinha extraído o **prefácio do tradutor** em vez do tratado —
+> 4.875 palavras descrevendo a obra, com OCR quebrado (`Aris- totelian`, `right- eousness`).
+> A nova começa em *"The noble is the object of praise, the base of blame"* e termina em
+> *"…belong to the class of the blameable"*, os limites canônicos do tratado.
 
 `_bruto/` guarda a extração crua das três obras do Wikisource, antes da remoção de notas de
 rodapé e navegação — mantida para auditoria.

@@ -88,9 +88,16 @@ def normalize_politica(t: str) -> str:
 # Magna Moralia) ou "N" sozinho na linha (Geração dos Animais).
 # --------------------------------------------------------------------------
 def normalize_wikisource(t: str, *, inline_chapters: bool,
-                         first_chapter_implicit: bool = False) -> str:
+                         first_chapter_implicit: bool = False,
+                         book_header: str | None = None) -> str:
+    """book_header: usado por obras de livro único, que não têm marcador de livro
+    no texto. O corpus já trata Categorias, Da Interpretação e Poética assim —
+    todas começam com 'SECTION 1'. Manter a mesma convenção faz o prompt sair
+    idêntico ao das outras obras curtas."""
     body = t.split("\n\n", 1)[1]          # descarta o cabeçalho de proveniência local
     out: list[str] = []
+    if book_header:
+        out += [book_header, ""]
     prev_blank = True
     pending_book = False
     for ln in body.splitlines():
@@ -142,6 +149,13 @@ JOBS = [
          proveniencia="Wikisource — The Works of Aristotle vol. IX (ed. Ross), Clarendon 1925",
          fn=lambda t: normalize_wikisource(t, inline_chapters=True,
                                            first_chapter_implicit=True), livros=2),
+    dict(nome="Virtudes e Vícios", src=TEMP / "sem_bekker/05_virtudes_vicios_solomon.txt",
+         dest="obras/05_etica/03_magna_moralia/_raw/on_virtues_and_vices.txt",
+         titulo_en="On Virtues and Vices", translator="J. Solomon",
+         url="https://en.wikisource.org/wiki/Virtues_and_Vices",
+         proveniencia="Wikisource — The Works of Aristotle vol. IX (ed. Ross), Clarendon 1925",
+         fn=lambda t: normalize_wikisource(t, inline_chapters=True,
+                                           book_header="SECTION 1"), livros=1),
     dict(nome="Geração dos Animais", src=TEMP / "sem_bekker/04_geracao_animais_platt.txt",
          dest="obras/03_psicologia_biologia/07_geracao_animais/_raw/on_the_generation_of_animals.txt",
          titulo_en="On the Generation of Animals", translator="Arthur Platt",
@@ -154,20 +168,24 @@ JOBS = [
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--only", default=None,
+                    help="Substring do nome da obra (ex.: 'Virtudes') para rodar só ela.")
     args = ap.parse_args()
     stamp = time.strftime("%Y%m%d")
     rc = 0
     for j in JOBS:
+        if args.only and args.only.lower() not in j["nome"].lower():
+            continue
         raw = j["src"].read_text(encoding="utf-8")
         body = j["fn"](raw)
         body = re.sub(r"\n{3,}", "\n\n", body).strip() + "\n"
         full = header(j["titulo_en"], j["translator"], j["url"], j["proveniencia"]) + body
 
-        books = re.findall(r"(?m)^BOOK [A-Z]+$", body)
+        books = re.findall(r"(?m)^(?:BOOK [A-Z]+|SECTION \d+)$", body)
         caps: dict[str, int] = {}
         cur = None
         for ln in body.splitlines():
-            if re.fullmatch(r"BOOK [A-Z]+", ln):
+            if re.fullmatch(r"BOOK [A-Z]+|SECTION \d+", ln):
                 cur = ln
                 caps[cur] = 0
             elif re.fullmatch(r"Part [IVXL\d]+", ln) and cur:
@@ -183,8 +201,11 @@ def main() -> int:
         if args.dry_run:
             continue
         dest = PROJECT_ROOT / j["dest"]
-        if dest.exists():
-            shutil.copy2(dest, dest.with_suffix(f".txt.bak-{stamp}"))
+        bak = dest.with_suffix(f".txt.bak-{stamp}")
+        # Nunca sobrescrever um backup existente: numa segunda execução no mesmo
+        # dia isso trocaria a cópia da fonte ANTIGA (o motivo do backup) pela nova.
+        if dest.exists() and not bak.exists():
+            shutil.copy2(dest, bak)
         dest.write_text(full, encoding="utf-8")
         print(f"      → gravado em {j['dest']}")
     return rc

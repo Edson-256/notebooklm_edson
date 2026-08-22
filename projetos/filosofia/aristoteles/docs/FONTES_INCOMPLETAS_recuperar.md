@@ -12,8 +12,10 @@
 > abaixo erra isso e teria gerado falso alarme na conferência;
 > **(c)** nenhuma outra obra veio truncada do MIT (conferido no `download_manifest.json`).
 >
-> **O que sobrou:** a obra 28, *Sobre as Virtudes e os Vícios*, ainda usa o volume Loeb ruim —
-> issue `notebooklm_edson-x5lr`.
+> **Uma quinta obra entrou de tabela:** ao conferir as quatro, descobri que a obra 28,
+> *Sobre as Virtudes e os Vícios*, tinha um defeito pior — o texto extraído era o **prefácio do
+> tradutor**, não o tratado. Substituída no mesmo dia pela tradução Solomon do mesmo volume
+> Oxford (issue `notebooklm_edson-x5lr`, fechada). **Nada ficou pendente.**
 >
 > **Registro completo da conferência:** `../_fontes_recuperadas_temp/README_CONFERENCIA.md`.
 
