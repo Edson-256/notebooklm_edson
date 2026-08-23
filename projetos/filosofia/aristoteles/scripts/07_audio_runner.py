@@ -111,10 +111,30 @@ def append_log(entry: dict) -> None:
 
 
 def run_nlm(args: list[str], timeout: int = 120) -> subprocess.CompletedProcess:
+    """Executa o CLI 'nlm' com o profile correto.
+
+    Timeout NUNCA vira exceção: devolve um CompletedProcess sintético com
+    returncode=124 (convenção do coreutils 'timeout'). Todos os call sites já
+    checam returncode, então um download lento vira falha daquele item e o laço
+    continua — em vez de derrubar o harvest inteiro com traceback, como no cron
+    de 2026-08-22 (bd notebooklm_edson-y0x9).
+    """
     import os
     env = os.environ.copy()
     env["NLM_PROFILE"] = PROFILE
-    return subprocess.run(["nlm", *args], env=env, capture_output=True, text=True, timeout=timeout)
+    try:
+        return subprocess.run(["nlm", *args], env=env, capture_output=True,
+                              text=True, timeout=timeout)
+    except subprocess.TimeoutExpired as exc:
+        def _dec(b):
+            if b is None:
+                return ""
+            return b.decode("utf-8", "replace") if isinstance(b, bytes) else b
+        return subprocess.CompletedProcess(
+            args=["nlm", *args], returncode=124,
+            stdout=_dec(exc.stdout),
+            stderr=(_dec(exc.stderr) + f"\nnlm timeout after {timeout}s: nlm {' '.join(args[:3])}").strip(),
+        )
 
 
 def ensure_profile() -> None:
