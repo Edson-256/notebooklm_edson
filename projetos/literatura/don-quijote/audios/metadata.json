@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-08-23T08:25:32.473116",
+  "atualizado": "2026-08-24T08:25:35.171347",
   "audios": [
     {
       "seq_global": 1,
@@ -1767,8 +1767,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-23T08:21:18.604443",
-      "status": "created",
-      "artifact_id": "db8dfd18-41d9-43d5-a487-c9fd8ca803bb"
+      "status": "downloaded",
+      "artifact_id": "db8dfd18-41d9-43d5-a487-c9fd8ca803bb",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/136_cap-042_cena-002_La-fuga-nocturna-y-el-grito-del-padre-traicionado.m4a",
+      "tamanho_bytes": 23823672
     },
     {
       "seq_global": 137,
@@ -1778,8 +1780,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-23T08:23:25.587180",
-      "status": "created",
-      "artifact_id": "afcfbad8-88ef-411a-931f-9d4dc4c68c42"
+      "status": "downloaded",
+      "artifact_id": "afcfbad8-88ef-411a-931f-9d4dc4c68c42",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/137_cap-042_cena-003_La-maldicion-del-padre-y-la-fe-inquebrantable-de-Zoraida.m4a",
+      "tamanho_bytes": 33916770
     },
     {
       "seq_global": 138,
@@ -1789,8 +1793,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-23T08:25:32.468387",
+      "status": "downloaded",
+      "artifact_id": "2e5d2457-d074-4eb4-a910-dd888a009ba9",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/138_cap-043_cena-001_El-castillo-de-las-armas-y-las-letras.m4a",
+      "tamanho_bytes": 19804590
+    },
+    {
+      "seq_global": 139,
+      "arquivo": "139_cap-043_cena-002_El-temor-de-darse-a-conocer.m4a",
+      "titulo": "El temor de darse a conocer",
+      "cap": 43,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-24T08:21:17.771579",
       "status": "created",
-      "artifact_id": "2e5d2457-d074-4eb4-a910-dd888a009ba9"
+      "artifact_id": "6601eeae-135b-409d-a43c-b928af50c8e6"
+    },
+    {
+      "seq_global": 140,
+      "arquivo": "140_cap-043_cena-003_El-reconocimiento-de-los-hermanos.m4a",
+      "titulo": "El reconocimiento de los hermanos",
+      "cap": 43,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-24T08:23:26.289094",
+      "status": "created",
+      "artifact_id": "715cdc9d-d691-4325-ad0d-aa7f210748b2"
+    },
+    {
+      "seq_global": 141,
+      "arquivo": "141_cap-044_cena-001_La-confesion-de-Clara-el-amor-que-entra-sin-permiso.m4a",
+      "titulo": "La confesion de Clara: el amor que entra sin permiso",
+      "cap": 44,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-24T08:25:35.168442",
+      "status": "created",
+      "artifact_id": "f6bc8e80-40d7-43d3-97d4-edffcc016ac2"
     }
   ]
 }
