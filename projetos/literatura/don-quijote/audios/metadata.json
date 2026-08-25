@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-08-24T08:25:35.171347",
+  "atualizado": "2026-08-25T08:26:02.434474",
   "audios": [
     {
       "seq_global": 1,
@@ -1806,8 +1806,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-24T08:21:17.771579",
-      "status": "created",
-      "artifact_id": "6601eeae-135b-409d-a43c-b928af50c8e6"
+      "status": "downloaded",
+      "artifact_id": "6601eeae-135b-409d-a43c-b928af50c8e6",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/139_cap-043_cena-002_El-temor-de-darse-a-conocer.m4a",
+      "tamanho_bytes": 16075476
     },
     {
       "seq_global": 140,
@@ -1817,8 +1819,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-24T08:23:26.289094",
-      "status": "created",
-      "artifact_id": "715cdc9d-d691-4325-ad0d-aa7f210748b2"
+      "status": "downloaded",
+      "artifact_id": "715cdc9d-d691-4325-ad0d-aa7f210748b2",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/140_cap-043_cena-003_El-reconocimiento-de-los-hermanos.m4a",
+      "tamanho_bytes": 19354010
     },
     {
       "seq_global": 141,
@@ -1828,8 +1832,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-24T08:25:35.168442",
+      "status": "downloaded",
+      "artifact_id": "f6bc8e80-40d7-43d3-97d4-edffcc016ac2",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/141_cap-044_cena-001_La-confesion-de-Clara-el-amor-que-entra-sin-permiso.m4a",
+      "tamanho_bytes": 22457505
+    },
+    {
+      "seq_global": 142,
+      "arquivo": "142_cap-044_cena-002_El-soliloquio-a-Dulcinea-bajo-la-luna.m4a",
+      "titulo": "El soliloquio a Dulcinea bajo la luna",
+      "cap": 44,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-25T08:21:43.823379",
       "status": "created",
-      "artifact_id": "f6bc8e80-40d7-43d3-97d4-edffcc016ac2"
+      "artifact_id": "fcd46d5b-74b7-4d4f-adf0-a499e2307a43"
+    },
+    {
+      "seq_global": 143,
+      "arquivo": "143_cap-044_cena-003_La-mano-atada-el-caballero-colgado-del-encantamento.m4a",
+      "titulo": "La mano atada: el caballero colgado del encantamento",
+      "cap": 44,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-25T08:23:53.909780",
+      "status": "created",
+      "artifact_id": "d9b9d52e-a816-4543-89cf-d41c443097ed"
+    },
+    {
+      "seq_global": 144,
+      "arquivo": "144_cap-045_cena-001_El-mozo-descubierto-llevarme-sin-vida.m4a",
+      "titulo": "El mozo descubierto: 'llevarme sin vida'",
+      "cap": 45,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-25T08:26:02.431286",
+      "status": "created",
+      "artifact_id": "635108cb-6b01-469b-98f1-230c0c45959e"
     }
   ]
 }
