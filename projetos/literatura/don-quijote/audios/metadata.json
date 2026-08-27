@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-08-26T08:25:48.969818",
+  "atualizado": "2026-08-27T08:26:06.036006",
   "audios": [
     {
       "seq_global": 1,
@@ -1884,8 +1884,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-26T08:21:35.585666",
-      "status": "created",
-      "artifact_id": "a6fee53d-7cc8-43cf-b888-41403ef9869c"
+      "status": "downloaded",
+      "artifact_id": "a6fee53d-7cc8-43cf-b888-41403ef9869c",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/145_cap-045_cena-002_No-me-es-licito-contra-gente-escuderil.m4a",
+      "tamanho_bytes": 19667135
     },
     {
       "seq_global": 146,
@@ -1895,8 +1897,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-26T08:23:42.169343",
-      "status": "created",
-      "artifact_id": "3e7a9823-d1a9-4b54-8b45-8c7f4381c3d0"
+      "status": "downloaded",
+      "artifact_id": "3e7a9823-d1a9-4b54-8b45-8c7f4381c3d0",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/146_cap-045_cena-003_La-confesion-de-amor-de-don-Luis-al-oidor.m4a",
+      "tamanho_bytes": 94492029
     },
     {
       "seq_global": 147,
@@ -1906,8 +1910,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-26T08:25:48.966146",
+      "status": "downloaded",
+      "artifact_id": "92d3d4d3-adb1-4e66-b490-6dbe42d46a03",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/147_cap-045_cena-004_El-baciyelmo-lo-que-fue-es-y-sera-yelmo-de-Mambrino.m4a",
+      "tamanho_bytes": 36216967
+    },
+    {
+      "seq_global": 148,
+      "arquivo": "148_cap-046_cena-001_La-bacia-es-yelmo-por-votacion.m4a",
+      "titulo": "La bacía es yelmo por votación",
+      "cap": 46,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-27T08:21:54.702256",
       "status": "created",
-      "artifact_id": "92d3d4d3-adb1-4e66-b490-6dbe42d46a03"
+      "artifact_id": "17b69e51-5eb2-44fe-a185-8e032e882f8d"
+    },
+    {
+      "seq_global": 149,
+      "arquivo": "149_cap-046_cena-002_El-campo-de-Agramante-en-la-venta.m4a",
+      "titulo": "El campo de Agramante en la venta",
+      "cap": 46,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-27T08:24:00.428438",
+      "status": "created",
+      "artifact_id": "0d735281-5620-491d-b961-88940c8c7079"
+    },
+    {
+      "seq_global": 150,
+      "arquivo": "150_cap-046_cena-003_Los-cuadrilleros-no-que-ladrones.m4a",
+      "titulo": "Los cuadrilleros no que ladrones",
+      "cap": 46,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-27T08:26:06.033106",
+      "status": "created",
+      "artifact_id": "f664a72e-9047-426f-b7e8-5fe9faea1f19"
     }
   ]
 }
