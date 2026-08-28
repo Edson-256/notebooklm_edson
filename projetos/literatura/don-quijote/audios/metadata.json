@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-08-27T08:26:06.036006",
+  "atualizado": "2026-08-28T08:26:01.970969",
   "audios": [
     {
       "seq_global": 1,
@@ -1923,8 +1923,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-27T08:21:54.702256",
-      "status": "created",
-      "artifact_id": "17b69e51-5eb2-44fe-a185-8e032e882f8d"
+      "status": "downloaded",
+      "artifact_id": "17b69e51-5eb2-44fe-a185-8e032e882f8d",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/148_cap-046_cena-001_La-bacia-es-yelmo-por-votacion.m4a",
+      "tamanho_bytes": 47790423
     },
     {
       "seq_global": 149,
@@ -1934,8 +1936,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-27T08:24:00.428438",
-      "status": "created",
-      "artifact_id": "0d735281-5620-491d-b961-88940c8c7079"
+      "status": "downloaded",
+      "artifact_id": "0d735281-5620-491d-b961-88940c8c7079",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/149_cap-046_cena-002_El-campo-de-Agramante-en-la-venta.m4a",
+      "tamanho_bytes": 40349492
     },
     {
       "seq_global": 150,
@@ -1945,8 +1949,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-27T08:26:06.033106",
+      "status": "downloaded",
+      "artifact_id": "f664a72e-9047-426f-b7e8-5fe9faea1f19",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/150_cap-046_cena-003_Los-cuadrilleros-no-que-ladrones.m4a",
+      "tamanho_bytes": 43606993
+    },
+    {
+      "seq_global": 151,
+      "arquivo": "151_cap-047_cena-001_La-verdad-de-Sancho-y-la-furia-del-caballero.m4a",
+      "titulo": "La verdad de Sancho y la furia del caballero",
+      "cap": 47,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-28T08:21:49.933222",
       "status": "created",
-      "artifact_id": "f664a72e-9047-426f-b7e8-5fe9faea1f19"
+      "artifact_id": "87afbe85-373c-4fa3-9221-f506a69798cd"
+    },
+    {
+      "seq_global": 152,
+      "arquivo": "152_cap-047_cena-002_El-despertar-en-la-jaula.m4a",
+      "titulo": "El despertar en la jaula",
+      "cap": 47,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-28T08:23:56.275045",
+      "status": "created",
+      "artifact_id": "6a666af7-49e9-4e88-89b2-65c2fc3510c4"
+    },
+    {
+      "seq_global": 153,
+      "arquivo": "153_cap-047_cena-003_La-profecia-fingida-y-el-consuelo.m4a",
+      "titulo": "La profecia fingida y el consuelo",
+      "cap": 47,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-28T08:26:01.968568",
+      "status": "created",
+      "artifact_id": "7c00ef32-5da7-4e24-99e4-fb4634944681"
     }
   ]
 }
