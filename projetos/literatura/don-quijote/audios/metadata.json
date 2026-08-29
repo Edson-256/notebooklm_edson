@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-08-28T08:26:01.970969",
+  "atualizado": "2026-08-29T08:25:32.751242",
   "audios": [
     {
       "seq_global": 1,
@@ -1962,8 +1962,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-28T08:21:49.933222",
-      "status": "created",
-      "artifact_id": "87afbe85-373c-4fa3-9221-f506a69798cd"
+      "status": "downloaded",
+      "artifact_id": "87afbe85-373c-4fa3-9221-f506a69798cd",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/151_cap-047_cena-001_La-verdad-de-Sancho-y-la-furia-del-caballero.m4a",
+      "tamanho_bytes": 14016582
     },
     {
       "seq_global": 152,
@@ -1973,8 +1975,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-28T08:23:56.275045",
-      "status": "created",
-      "artifact_id": "6a666af7-49e9-4e88-89b2-65c2fc3510c4"
+      "status": "downloaded",
+      "artifact_id": "6a666af7-49e9-4e88-89b2-65c2fc3510c4",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/152_cap-047_cena-002_El-despertar-en-la-jaula.m4a",
+      "tamanho_bytes": 16268222
     },
     {
       "seq_global": 153,
@@ -1984,8 +1988,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-28T08:26:01.968568",
+      "status": "downloaded",
+      "artifact_id": "7c00ef32-5da7-4e24-99e4-fb4634944681",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/153_cap-047_cena-003_La-profecia-fingida-y-el-consuelo.m4a",
+      "tamanho_bytes": 32943672
+    },
+    {
+      "seq_global": 154,
+      "arquivo": "154_cap-048_cena-001_El-diablo-que-huele-a-ambar.m4a",
+      "titulo": "El diablo que huele a ámbar",
+      "cap": 48,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-29T08:21:20.025047",
       "status": "created",
-      "artifact_id": "7c00ef32-5da7-4e24-99e4-fb4634944681"
+      "artifact_id": "462a5544-20bb-4e76-b27c-91d0bc14bbaf"
+    },
+    {
+      "seq_global": 155,
+      "arquivo": "155_cap-048_cena-002_Sancho-desenmascara-al-cura.m4a",
+      "titulo": "Sancho desenmascara al cura",
+      "cap": 48,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-29T08:23:26.316044",
+      "status": "created",
+      "artifact_id": "72e75041-bbbe-4eef-9592-d39f29dfe4c3"
+    },
+    {
+      "seq_global": 156,
+      "arquivo": "156_cap-048_cena-003_El-canonigo-juzga-los-libros-de-caballerias.m4a",
+      "titulo": "El canonigo juzga los libros de caballerias",
+      "cap": 48,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-29T08:25:32.744247",
+      "status": "created",
+      "artifact_id": "07f4ed24-67bd-4e25-a371-0b2635539905"
     }
   ]
 }
