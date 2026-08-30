@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-08-29T08:25:32.751242",
+  "atualizado": "2026-08-30T08:26:05.711854",
   "audios": [
     {
       "seq_global": 1,
@@ -2001,8 +2001,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-29T08:21:20.025047",
-      "status": "created",
-      "artifact_id": "462a5544-20bb-4e76-b27c-91d0bc14bbaf"
+      "status": "downloaded",
+      "artifact_id": "462a5544-20bb-4e76-b27c-91d0bc14bbaf",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/154_cap-048_cena-001_El-diablo-que-huele-a-ambar.m4a",
+      "tamanho_bytes": 24140426
     },
     {
       "seq_global": 155,
@@ -2012,8 +2014,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-29T08:23:26.316044",
-      "status": "created",
-      "artifact_id": "72e75041-bbbe-4eef-9592-d39f29dfe4c3"
+      "status": "downloaded",
+      "artifact_id": "72e75041-bbbe-4eef-9592-d39f29dfe4c3",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/155_cap-048_cena-002_Sancho-desenmascara-al-cura.m4a",
+      "tamanho_bytes": 41723013
     },
     {
       "seq_global": 156,
@@ -2023,8 +2027,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-29T08:25:32.744247",
+      "status": "downloaded",
+      "artifact_id": "07f4ed24-67bd-4e25-a371-0b2635539905",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/156_cap-048_cena-003_El-canonigo-juzga-los-libros-de-caballerias.m4a",
+      "tamanho_bytes": 19948778
+    },
+    {
+      "seq_global": 157,
+      "arquivo": "157_cap-049_cena-001_La-tentacion-del-canonigo-escribir-para-los-pocos-o-para-los-muchos.m4a",
+      "titulo": "La tentacion del canonigo: escribir para los pocos o para los muchos",
+      "cap": 49,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-30T08:21:53.302865",
       "status": "created",
-      "artifact_id": "07f4ed24-67bd-4e25-a371-0b2635539905"
+      "artifact_id": "1fc905cb-4015-4545-8e0c-fba463f729e1"
+    },
+    {
+      "seq_global": 158,
+      "arquivo": "158_cap-049_cena-002_La-comedia-espejo-de-la-vida-o-espejo-de-disparates.m4a",
+      "titulo": "La comedia, espejo de la vida o espejo de disparates",
+      "cap": 49,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-30T08:23:59.303262",
+      "status": "created",
+      "artifact_id": "ed757cfc-4928-4459-bb6d-541f338c7328"
+    },
+    {
+      "seq_global": 159,
+      "arquivo": "159_cap-049_cena-003_La-prueba-de-las-aguas-la-realidad-asalta-el-encantamiento.m4a",
+      "titulo": "La prueba de las aguas: la realidad asalta el encantamiento",
+      "cap": 49,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-30T08:26:05.706864",
+      "status": "created",
+      "artifact_id": "c9965b42-3269-40fa-bd6f-6f9d21560f2c"
     }
   ]
 }
