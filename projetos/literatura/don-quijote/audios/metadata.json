@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-08-30T08:26:05.711854",
+  "atualizado": "2026-08-31T08:26:04.829905",
   "audios": [
     {
       "seq_global": 1,
@@ -2040,8 +2040,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-30T08:21:53.302865",
-      "status": "created",
-      "artifact_id": "1fc905cb-4015-4545-8e0c-fba463f729e1"
+      "status": "downloaded",
+      "artifact_id": "1fc905cb-4015-4545-8e0c-fba463f729e1",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/157_cap-049_cena-001_La-tentacion-del-canonigo-escribir-para-los-pocos-o-para-los-muchos.m4a",
+      "tamanho_bytes": 27695364
     },
     {
       "seq_global": 158,
@@ -2051,8 +2053,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-30T08:23:59.303262",
-      "status": "created",
-      "artifact_id": "ed757cfc-4928-4459-bb6d-541f338c7328"
+      "status": "downloaded",
+      "artifact_id": "ed757cfc-4928-4459-bb6d-541f338c7328",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/158_cap-049_cena-002_La-comedia-espejo-de-la-vida-o-espejo-de-disparates.m4a",
+      "tamanho_bytes": 21845342
     },
     {
       "seq_global": 159,
@@ -2062,8 +2066,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-30T08:26:05.706864",
+      "status": "downloaded",
+      "artifact_id": "c9965b42-3269-40fa-bd6f-6f9d21560f2c",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/159_cap-049_cena-003_La-prueba-de-las-aguas-la-realidad-asalta-el-encantamiento.m4a",
+      "tamanho_bytes": 39527513
+    },
+    {
+      "seq_global": 160,
+      "arquivo": "160_cap-050_cena-001_Sancho-lo-atrapa-el-encantamiento-a-prueba-del-sentido-comun.m4a",
+      "titulo": "Sancho lo atrapa: el encantamiento a prueba del sentido comun",
+      "cap": 50,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-31T08:21:51.439077",
       "status": "created",
-      "artifact_id": "c9965b42-3269-40fa-bd6f-6f9d21560f2c"
+      "artifact_id": "6be54a91-86f9-4c9c-9411-159517de5911"
+    },
+    {
+      "seq_global": 161,
+      "arquivo": "161_cap-050_cena-002_El-discurso-del-canonigo-la-amarga-lectura-y-el-remedio.m4a",
+      "titulo": "El discurso del canonigo: la amarga lectura y el remedio",
+      "cap": 50,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-31T08:23:57.898634",
+      "status": "created",
+      "artifact_id": "41e5f985-c1fe-4040-a27e-e64986932693"
+    },
+    {
+      "seq_global": 162,
+      "arquivo": "162_cap-050_cena-003_La-replica-de-don-Quijote-mezcla-de-verdades-y-quimeras.m4a",
+      "titulo": "La replica de don Quijote: mezcla de verdades y quimeras",
+      "cap": 50,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-08-31T08:26:04.826943",
+      "status": "created",
+      "artifact_id": "6bb0a9c4-c18a-4a32-91e1-f0eed10d5fec"
     }
   ]
 }
