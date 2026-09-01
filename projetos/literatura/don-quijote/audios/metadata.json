@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-08-31T08:26:04.829905",
+  "atualizado": "2026-09-01T08:25:56.075308",
   "audios": [
     {
       "seq_global": 1,
@@ -2079,8 +2079,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-31T08:21:51.439077",
-      "status": "created",
-      "artifact_id": "6be54a91-86f9-4c9c-9411-159517de5911"
+      "status": "downloaded",
+      "artifact_id": "6be54a91-86f9-4c9c-9411-159517de5911",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/160_cap-050_cena-001_Sancho-lo-atrapa-el-encantamiento-a-prueba-del-sentido-comun.m4a",
+      "tamanho_bytes": 37666695
     },
     {
       "seq_global": 161,
@@ -2090,8 +2092,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-31T08:23:57.898634",
-      "status": "created",
-      "artifact_id": "41e5f985-c1fe-4040-a27e-e64986932693"
+      "status": "downloaded",
+      "artifact_id": "41e5f985-c1fe-4040-a27e-e64986932693",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/161_cap-050_cena-002_El-discurso-del-canonigo-la-amarga-lectura-y-el-remedio.m4a",
+      "tamanho_bytes": 27172205
     },
     {
       "seq_global": 162,
@@ -2101,8 +2105,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-08-31T08:26:04.826943",
+      "status": "downloaded",
+      "artifact_id": "6bb0a9c4-c18a-4a32-91e1-f0eed10d5fec",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/162_cap-050_cena-003_La-replica-de-don-Quijote-mezcla-de-verdades-y-quimeras.m4a",
+      "tamanho_bytes": 43475514
+    },
+    {
+      "seq_global": 163,
+      "arquivo": "163_cap-051_cena-001_La-aventura-del-Caballero-del-Lago-el-poder-transformador-de-la-lectura.m4a",
+      "titulo": "La aventura del Caballero del Lago: el poder transformador de la lectura",
+      "cap": 51,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-01T08:21:45.181263",
       "status": "created",
-      "artifact_id": "6bb0a9c4-c18a-4a32-91e1-f0eed10d5fec"
+      "artifact_id": "c068462e-f7e3-4116-9d06-b94d8a7690cf"
+    },
+    {
+      "seq_global": 164,
+      "arquivo": "164_cap-051_cena-002_El-condado-de-Sancho-querer-sin-saber-gobernar.m4a",
+      "titulo": "El condado de Sancho: querer sin saber gobernar",
+      "cap": 51,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-01T08:23:50.699207",
+      "status": "created",
+      "artifact_id": "94c2784f-e94f-4cfb-b4cd-0e3910f37d38"
+    },
+    {
+      "seq_global": 165,
+      "arquivo": "165_cap-051_cena-003_La-cabra-Manchada-y-el-cabrero-filosofo.m4a",
+      "titulo": "La cabra Manchada y el cabrero filosofo",
+      "cap": 51,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-01T08:25:56.071580",
+      "status": "created",
+      "artifact_id": "3895347e-7fe5-497d-bd89-d809f3199dea"
     }
   ]
 }
