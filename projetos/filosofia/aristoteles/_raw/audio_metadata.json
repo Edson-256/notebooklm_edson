@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T07:56:11Z",
+  "updated_at": "2026-09-01T17:58:07Z",
   "audios": {
     "05_etica/01_etica_nicomaco/L01-C01_cena01": {
       "artifact_id": "46097252-f46f-41a0-b77f-86b89e4b0945",
@@ -12156,6 +12156,104 @@
       "audio_filename": "aristoteles_22_l01_c15_cena01_marcha_animais.m4a",
       "status": "created",
       "created_at": "2026-08-31T07:56:11Z"
+    },
+    "03_psicologia_biologia/06_marcha_animais/L01-C16_cena01": {
+      "artifact_id": "7ae49966-b203-49d1-8883-b19a52dee465",
+      "audio_title": "aristoteles_22_l01_c16_cena01_marcha_animais",
+      "audio_filename": "aristoteles_22_l01_c16_cena01_marcha_animais.m4a",
+      "status": "created",
+      "created_at": "2026-09-01T17:31:03Z"
+    },
+    "03_psicologia_biologia/06_marcha_animais/L01-C17_cena01": {
+      "artifact_id": "b1169e95-636e-4286-9a88-81d467b48e15",
+      "audio_title": "aristoteles_22_l01_c17_cena01_marcha_animais",
+      "audio_filename": "aristoteles_22_l01_c17_cena01_marcha_animais.m4a",
+      "status": "created",
+      "created_at": "2026-09-01T17:33:07Z"
+    },
+    "03_psicologia_biologia/06_marcha_animais/L01-C18_cena01": {
+      "artifact_id": "a062fe50-408b-471e-abca-564ae9219869",
+      "audio_title": "aristoteles_22_l01_c18_cena01_marcha_animais",
+      "audio_filename": "aristoteles_22_l01_c18_cena01_marcha_animais.m4a",
+      "status": "created",
+      "created_at": "2026-09-01T17:35:10Z"
+    },
+    "03_psicologia_biologia/06_marcha_animais/L01-C19_cena01": {
+      "artifact_id": "db73b007-49fd-484b-9ab5-116ff4d508ee",
+      "audio_title": "aristoteles_22_l01_c19_cena01_marcha_animais",
+      "audio_filename": "aristoteles_22_l01_c19_cena01_marcha_animais.m4a",
+      "status": "created",
+      "created_at": "2026-09-01T17:37:12Z"
+    },
+    "03_psicologia_biologia/07_geracao_animais/L01-C01_cena01": {
+      "artifact_id": "9ecf0f8b-ed60-43e7-a5ca-331f4dcd0443",
+      "audio_title": "aristoteles_23_l01_c01_cena01_geracao_animais",
+      "audio_filename": "aristoteles_23_l01_c01_cena01_geracao_animais.m4a",
+      "status": "created",
+      "created_at": "2026-09-01T17:39:18Z"
+    },
+    "03_psicologia_biologia/07_geracao_animais/L01-C02_cena01": {
+      "artifact_id": "b272331c-013f-48dd-8869-88f98a273018",
+      "audio_title": "aristoteles_23_l01_c02_cena01_geracao_animais",
+      "audio_filename": "aristoteles_23_l01_c02_cena01_geracao_animais.m4a",
+      "status": "created",
+      "created_at": "2026-09-01T17:41:22Z"
+    },
+    "03_psicologia_biologia/07_geracao_animais/L01-C03_cena01": {
+      "artifact_id": "b7aa4502-f382-403d-84f6-24df93e260fe",
+      "audio_title": "aristoteles_23_l01_c03_cena01_geracao_animais",
+      "audio_filename": "aristoteles_23_l01_c03_cena01_geracao_animais.m4a",
+      "status": "created",
+      "created_at": "2026-09-01T17:43:27Z"
+    },
+    "03_psicologia_biologia/07_geracao_animais/L01-C04_cena01": {
+      "artifact_id": "c453aaf2-d755-429f-99dc-486561cdbec3",
+      "audio_title": "aristoteles_23_l01_c04_cena01_geracao_animais",
+      "audio_filename": "aristoteles_23_l01_c04_cena01_geracao_animais.m4a",
+      "status": "created",
+      "created_at": "2026-09-01T17:45:33Z"
+    },
+    "03_psicologia_biologia/07_geracao_animais/L01-C05_cena01": {
+      "artifact_id": "bdc9e61f-e5f9-4554-bfdc-c1c4b24fae1e",
+      "audio_title": "aristoteles_23_l01_c05_cena01_geracao_animais",
+      "audio_filename": "aristoteles_23_l01_c05_cena01_geracao_animais.m4a",
+      "status": "created",
+      "created_at": "2026-09-01T17:47:39Z"
+    },
+    "03_psicologia_biologia/07_geracao_animais/L01-C06_cena01": {
+      "artifact_id": "2bbeebf1-eaa1-4e3b-b8a1-893208fe339a",
+      "audio_title": "aristoteles_23_l01_c06_cena01_geracao_animais",
+      "audio_filename": "aristoteles_23_l01_c06_cena01_geracao_animais.m4a",
+      "status": "created",
+      "created_at": "2026-09-01T17:49:45Z"
+    },
+    "03_psicologia_biologia/07_geracao_animais/L01-C07_cena01": {
+      "artifact_id": "72182aba-b7fa-47f1-9736-e4f9c6a37f12",
+      "audio_title": "aristoteles_23_l01_c07_cena01_geracao_animais",
+      "audio_filename": "aristoteles_23_l01_c07_cena01_geracao_animais.m4a",
+      "status": "created",
+      "created_at": "2026-09-01T17:51:51Z"
+    },
+    "03_psicologia_biologia/07_geracao_animais/L01-C08_cena01": {
+      "artifact_id": "9eff467a-dddc-442e-a262-42d3a527d204",
+      "audio_title": "aristoteles_23_l01_c08_cena01_geracao_animais",
+      "audio_filename": "aristoteles_23_l01_c08_cena01_geracao_animais.m4a",
+      "status": "created",
+      "created_at": "2026-09-01T17:53:57Z"
+    },
+    "03_psicologia_biologia/07_geracao_animais/L01-C09_cena01": {
+      "artifact_id": "7675556f-1030-4582-a615-d3472ee625b4",
+      "audio_title": "aristoteles_23_l01_c09_cena01_geracao_animais",
+      "audio_filename": "aristoteles_23_l01_c09_cena01_geracao_animais.m4a",
+      "status": "created",
+      "created_at": "2026-09-01T17:56:02Z"
+    },
+    "03_psicologia_biologia/07_geracao_animais/L01-C10_cena01": {
+      "artifact_id": "9a2a08b5-81d9-46d7-8e31-56f0b0327444",
+      "audio_title": "aristoteles_23_l01_c10_cena01_geracao_animais",
+      "audio_filename": "aristoteles_23_l01_c10_cena01_geracao_animais.m4a",
+      "status": "created",
+      "created_at": "2026-09-01T17:58:07Z"
     }
   },
   "substituidos": {
