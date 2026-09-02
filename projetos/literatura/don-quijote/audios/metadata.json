@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-01T08:25:56.075308",
+  "atualizado": "2026-09-02T08:26:23.855279",
   "audios": [
     {
       "seq_global": 1,
@@ -2118,8 +2118,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-01T08:21:45.181263",
-      "status": "created",
-      "artifact_id": "c068462e-f7e3-4116-9d06-b94d8a7690cf"
+      "status": "downloaded",
+      "artifact_id": "c068462e-f7e3-4116-9d06-b94d8a7690cf",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/163_cap-051_cena-001_La-aventura-del-Caballero-del-Lago-el-poder-transformador-de-la-lectura.m4a",
+      "tamanho_bytes": 36157973
     },
     {
       "seq_global": 164,
@@ -2129,8 +2131,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-01T08:23:50.699207",
-      "status": "created",
-      "artifact_id": "94c2784f-e94f-4cfb-b4cd-0e3910f37d38"
+      "status": "downloaded",
+      "artifact_id": "94c2784f-e94f-4cfb-b4cd-0e3910f37d38",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/164_cap-051_cena-002_El-condado-de-Sancho-querer-sin-saber-gobernar.m4a",
+      "tamanho_bytes": 32012565
     },
     {
       "seq_global": 165,
@@ -2140,8 +2144,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-01T08:25:56.071580",
+      "status": "downloaded",
+      "artifact_id": "3895347e-7fe5-497d-bd89-d809f3199dea",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/165_cap-051_cena-003_La-cabra-Manchada-y-el-cabrero-filosofo.m4a",
+      "tamanho_bytes": 30380402
+    },
+    {
+      "seq_global": 166,
+      "arquivo": "166_cap-052_cena-001_Vicente-de-la-Rosa-el-hombre-de-oropel.m4a",
+      "titulo": "Vicente de la Rosa: el hombre de oropel",
+      "cap": 52,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-02T08:22:11.192727",
       "status": "created",
-      "artifact_id": "3895347e-7fe5-497d-bd89-d809f3199dea"
+      "artifact_id": "816a54aa-c94a-4740-b977-a25eec2c2b23"
+    },
+    {
+      "seq_global": 167,
+      "arquivo": "167_cap-052_cena-002_Leandra-encantada-por-la-apariencia-y-su-caida.m4a",
+      "titulo": "Leandra encantada por la apariencia y su caída",
+      "cap": 52,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-02T08:24:17.694690",
+      "status": "created",
+      "artifact_id": "7e8b01bc-dfb0-43a5-9622-9886bf712ec0"
+    },
+    {
+      "seq_global": 168,
+      "arquivo": "168_cap-052_cena-003_La-Arcadia-de-los-desdenados.m4a",
+      "titulo": "La Arcadia de los desdeñados",
+      "cap": 52,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-02T08:26:23.852201",
+      "status": "created",
+      "artifact_id": "e7aff592-bfb6-46c0-aaaa-4f4c794ba1e3"
     }
   ]
 }
