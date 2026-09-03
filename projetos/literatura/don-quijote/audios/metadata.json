@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-02T08:26:23.855279",
+  "atualizado": "2026-09-03T08:26:01.207457",
   "audios": [
     {
       "seq_global": 1,
@@ -2157,8 +2157,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-02T08:22:11.192727",
-      "status": "created",
-      "artifact_id": "816a54aa-c94a-4740-b977-a25eec2c2b23"
+      "status": "downloaded",
+      "artifact_id": "816a54aa-c94a-4740-b977-a25eec2c2b23",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/166_cap-052_cena-001_Vicente-de-la-Rosa-el-hombre-de-oropel.m4a",
+      "tamanho_bytes": 33847189
     },
     {
       "seq_global": 167,
@@ -2168,8 +2170,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-02T08:24:17.694690",
-      "status": "created",
-      "artifact_id": "7e8b01bc-dfb0-43a5-9622-9886bf712ec0"
+      "status": "downloaded",
+      "artifact_id": "7e8b01bc-dfb0-43a5-9622-9886bf712ec0",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/167_cap-052_cena-002_Leandra-encantada-por-la-apariencia-y-su-caida.m4a",
+      "tamanho_bytes": 23508946
     },
     {
       "seq_global": 168,
@@ -2179,8 +2183,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-02T08:26:23.852201",
+      "status": "downloaded",
+      "artifact_id": "e7aff592-bfb6-46c0-aaaa-4f4c794ba1e3",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/168_cap-052_cena-003_La-Arcadia-de-los-desdenados.m4a",
+      "tamanho_bytes": 34036190
+    },
+    {
+      "seq_global": 169,
+      "arquivo": "169_cap-053_cena-001_El-cabrero-rompe-el-hechizo-vacios-los-aposentos-de-la-cabeza.m4a",
+      "titulo": "El cabrero rompe el hechizo: \"vacíos los aposentos de la cabeza\"",
+      "cap": 53,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-03T08:21:49.717287",
       "status": "created",
-      "artifact_id": "e7aff592-bfb6-46c0-aaaa-4f4c794ba1e3"
+      "artifact_id": "66a03209-8e57-4c19-a827-c1cf27823491"
+    },
+    {
+      "seq_global": 170,
+      "arquivo": "170_cap-053_cena-002_La-procesion-de-disciplinantes-la-Virgen-tomada-por-dama-cautiva.m4a",
+      "titulo": "La procesion de disciplinantes: la Virgen tomada por dama cautiva",
+      "cap": 53,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-03T08:23:56.000392",
+      "status": "created",
+      "artifact_id": "7517ea16-66ae-4e6b-9997-ffb2ccf521a8"
+    },
+    {
+      "seq_global": 171,
+      "arquivo": "171_cap-053_cena-003_El-llanto-de-Sancho-y-el-despertar-con-Dulcinea-en-los-labios.m4a",
+      "titulo": "El llanto de Sancho y el despertar con Dulcinea en los labios",
+      "cap": 53,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-03T08:26:01.204686",
+      "status": "created",
+      "artifact_id": "5c49c852-0be1-481e-acce-baafd02b12a3"
     }
   ]
 }
