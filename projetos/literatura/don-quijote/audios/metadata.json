@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-03T08:26:01.207457",
+  "atualizado": "2026-09-04T08:26:16.897986",
   "audios": [
     {
       "seq_global": 1,
@@ -2196,8 +2196,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-03T08:21:49.717287",
-      "status": "created",
-      "artifact_id": "66a03209-8e57-4c19-a827-c1cf27823491"
+      "status": "downloaded",
+      "artifact_id": "66a03209-8e57-4c19-a827-c1cf27823491",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/169_cap-053_cena-001_El-cabrero-rompe-el-hechizo-vacios-los-aposentos-de-la-cabeza.m4a",
+      "tamanho_bytes": 37009070
     },
     {
       "seq_global": 170,
@@ -2207,8 +2209,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-03T08:23:56.000392",
-      "status": "created",
-      "artifact_id": "7517ea16-66ae-4e6b-9997-ffb2ccf521a8"
+      "status": "downloaded",
+      "artifact_id": "7517ea16-66ae-4e6b-9997-ffb2ccf521a8",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/170_cap-053_cena-002_La-procesion-de-disciplinantes-la-Virgen-tomada-por-dama-cautiva.m4a",
+      "tamanho_bytes": 21560721
     },
     {
       "seq_global": 171,
@@ -2218,8 +2222,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-03T08:26:01.204686",
+      "status": "downloaded",
+      "artifact_id": "5c49c852-0be1-481e-acce-baafd02b12a3",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/171_cap-053_cena-003_El-llanto-de-Sancho-y-el-despertar-con-Dulcinea-en-los-labios.m4a",
+      "tamanho_bytes": 22342355
+    },
+    {
+      "seq_global": 172,
+      "arquivo": "172_cap-053_cena-004_El-regreso-a-la-aldea-y-el-sueno-contagiado-de-Sancho.m4a",
+      "titulo": "El regreso a la aldea y el sueño contagiado de Sancho",
+      "cap": 53,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-04T08:22:04.756663",
       "status": "created",
-      "artifact_id": "5c49c852-0be1-481e-acce-baafd02b12a3"
+      "artifact_id": "1d72f9c8-0835-4820-8192-89a900a9f4ee"
+    },
+    {
+      "seq_global": 173,
+      "arquivo": "173_cap-054_cena-001_El-manco-de-Lepanto-responde-al-impostor.m4a",
+      "titulo": "El manco de Lepanto responde al impostor",
+      "cap": 54,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-04T08:24:10.614440",
+      "status": "created",
+      "artifact_id": "66b300c8-9309-4fc5-84e3-b38e1684c294"
+    },
+    {
+      "seq_global": 174,
+      "arquivo": "174_cap-055_cena-001_El-examen-disimulado.m4a",
+      "titulo": "El examen disimulado",
+      "cap": 55,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-04T08:26:16.893532",
+      "status": "created",
+      "artifact_id": "247b07a7-410a-417c-95aa-05e2cb4bc41d"
     }
   ]
 }
