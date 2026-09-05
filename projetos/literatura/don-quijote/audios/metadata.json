@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-04T08:26:16.897986",
+  "atualizado": "2026-09-05T08:25:45.979222",
   "audios": [
     {
       "seq_global": 1,
@@ -2235,8 +2235,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-04T08:22:04.756663",
-      "status": "created",
-      "artifact_id": "1d72f9c8-0835-4820-8192-89a900a9f4ee"
+      "status": "downloaded",
+      "artifact_id": "1d72f9c8-0835-4820-8192-89a900a9f4ee",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/172_cap-053_cena-004_El-regreso-a-la-aldea-y-el-sueno-contagiado-de-Sancho.m4a",
+      "tamanho_bytes": 37001599
     },
     {
       "seq_global": 173,
@@ -2246,8 +2248,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-04T08:24:10.614440",
-      "status": "created",
-      "artifact_id": "66b300c8-9309-4fc5-84e3-b38e1684c294"
+      "status": "downloaded",
+      "artifact_id": "66b300c8-9309-4fc5-84e3-b38e1684c294",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/173_cap-054_cena-001_El-manco-de-Lepanto-responde-al-impostor.m4a",
+      "tamanho_bytes": 21701164
     },
     {
       "seq_global": 174,
@@ -2257,8 +2261,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-04T08:26:16.893532",
+      "status": "downloaded",
+      "artifact_id": "247b07a7-410a-417c-95aa-05e2cb4bc41d",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/174_cap-055_cena-001_El-examen-disimulado.m4a",
+      "tamanho_bytes": 37029987
+    },
+    {
+      "seq_global": 175,
+      "arquivo": "175_cap-055_cena-002_El-arbitrio-de-los-caballeros-andantes.m4a",
+      "titulo": "El arbitrio de los caballeros andantes",
+      "cap": 55,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-05T08:21:33.772580",
       "status": "created",
-      "artifact_id": "247b07a7-410a-417c-95aa-05e2cb4bc41d"
+      "artifact_id": "7edcccd6-d460-4bd4-b331-78a1796dea08"
+    },
+    {
+      "seq_global": 176,
+      "arquivo": "176_cap-055_cena-003_El-loco-de-Sevilla-y-el-espejo.m4a",
+      "titulo": "El loco de Sevilla y el espejo",
+      "cap": 55,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-05T08:23:39.608093",
+      "status": "created",
+      "artifact_id": "7f3df1b6-799c-47a3-afd2-91ba000f229a"
+    },
+    {
+      "seq_global": 177,
+      "arquivo": "177_cap-056_cena-001_La-pendencia-en-la-puerta-la-insula-que-nunca-llega.m4a",
+      "titulo": "La pendencia en la puerta: la ínsula que nunca llega",
+      "cap": 56,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-05T08:25:45.968131",
+      "status": "created",
+      "artifact_id": "2bb66cdd-804e-4c90-8923-c2210083f484"
     }
   ]
 }
