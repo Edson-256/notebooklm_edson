@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-05T08:25:45.979222",
+  "atualizado": "2026-09-06T08:25:51.322350",
   "audios": [
     {
       "seq_global": 1,
@@ -2274,8 +2274,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-05T08:21:33.772580",
-      "status": "created",
-      "artifact_id": "7edcccd6-d460-4bd4-b331-78a1796dea08"
+      "status": "downloaded",
+      "artifact_id": "7edcccd6-d460-4bd4-b331-78a1796dea08",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/175_cap-055_cena-002_El-arbitrio-de-los-caballeros-andantes.m4a",
+      "tamanho_bytes": 18742594
     },
     {
       "seq_global": 176,
@@ -2285,8 +2287,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-05T08:23:39.608093",
-      "status": "created",
-      "artifact_id": "7f3df1b6-799c-47a3-afd2-91ba000f229a"
+      "status": "downloaded",
+      "artifact_id": "7f3df1b6-799c-47a3-afd2-91ba000f229a",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/176_cap-055_cena-003_El-loco-de-Sevilla-y-el-espejo.m4a",
+      "tamanho_bytes": 26477227
     },
     {
       "seq_global": 177,
@@ -2296,8 +2300,43 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-05T08:25:45.968131",
+      "status": "downloaded",
+      "artifact_id": "2bb66cdd-804e-4c90-8923-c2210083f484",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/177_cap-056_cena-001_La-pendencia-en-la-puerta-la-insula-que-nunca-llega.m4a",
+      "tamanho_bytes": 19436825
+    },
+    {
+      "seq_global": 178,
+      "arquivo": "178_cap-056_cena-002_La-verdad-desnuda-sin-los-vestidos-de-la-lisonja.m4a",
+      "titulo": "La verdad desnuda, sin los vestidos de la lisonja",
+      "cap": 56,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-06T08:21:39.986172",
       "status": "created",
-      "artifact_id": "2bb66cdd-804e-4c90-8923-c2210083f484"
+      "artifact_id": "2048fb8e-47f5-4644-83d5-60f13c1ce461"
+    },
+    {
+      "seq_global": 179,
+      "arquivo": "179_cap-056_cena-003_El-descubrimiento-del-libro-personajes-que-se-saben-escritos.m4a",
+      "titulo": "El descubrimiento del libro: personajes que se saben escritos",
+      "cap": 56,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-06T08:23:45.854975",
+      "status": "created",
+      "artifact_id": "1cea3ff7-d74d-409c-892d-92ccd0efdf30"
+    },
+    {
+      "seq_global": 180,
+      "arquivo": "180_cap-057_cena-001_El-caballero-que-se-descubre-narrado.m4a",
+      "titulo": "El caballero que se descubre narrado",
+      "cap": 57,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-06T08:25:51.315958",
+      "status": "created",
+      "artifact_id": "23ec1d89-b001-4fbe-8f19-e38fb485fc84"
     }
   ]
 }
