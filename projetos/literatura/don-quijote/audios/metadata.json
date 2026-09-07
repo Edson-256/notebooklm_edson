@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-06T08:25:51.322350",
+  "atualizado": "2026-09-07T08:24:51.638089",
   "audios": [
     {
       "seq_global": 1,
@@ -2337,6 +2337,39 @@
       "data": "2026-09-06T08:25:51.315958",
       "status": "created",
       "artifact_id": "23ec1d89-b001-4fbe-8f19-e38fb485fc84"
+    },
+    {
+      "seq_global": 181,
+      "arquivo": "181_cap-057_cena-002_Doce-mil-libros-verse-vivo-en-la-estampa.m4a",
+      "titulo": "Doce mil libros: verse vivo en la estampa",
+      "cap": 57,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-07T08:20:39.813752",
+      "status": "created",
+      "artifact_id": "2d3d01fa-c174-43a0-9fee-45e9de676f94"
+    },
+    {
+      "seq_global": 182,
+      "arquivo": "182_cap-057_cena-003_El-poeta-y-el-historiador-la-verdad-como-cosa-sagrada.m4a",
+      "titulo": "El poeta y el historiador: la verdad como cosa sagrada",
+      "cap": 57,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-07T08:22:45.773715",
+      "status": "created",
+      "artifact_id": "ffe0f758-70d1-4e87-886d-b49f9e2a1326"
+    },
+    {
+      "seq_global": 183,
+      "arquivo": "183_cap-058_cena-001_El-libro-que-se-juzga-a-si-mismo.m4a",
+      "titulo": "El libro que se juzga a sí mismo",
+      "cap": 58,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-07T08:24:51.633102",
+      "status": "created",
+      "artifact_id": "b8e7ac7d-aef4-463c-83b6-645fc5ef61d6"
     }
   ]
 }
