@@ -1,3 +1,39 @@
+## ⚠️ ESTE REPO TEM UM ESCRITOR AUTOMÁTICO — o cron commita e faz PUSH sozinho
+
+**Leia antes de qualquer `git` aqui.** Este repositório não tem só sessões humanas:
+os wrappers de cron gravam, commitam **e empurram para o remote** sem avisar ninguém.
+Verificado em 2026-09-08: **19 commits automáticos nos últimos 7 dias**.
+
+**Quem escreve:** `scripts/git_state_commit.sh`, chamado ao fim da rodada por cinco
+wrappers — `aristoteles`, `cof_v2`, `don-quijote`, `notre-dame_de_paris` e
+`I Promesi Sposi`. Ele versiona o progresso `created -> downloaded` do
+`metadata.json` de cada obra.
+
+**O que ele faz, em ordem:**
+1. `git commit -- <um metadata.json>` (pathspec — não arrasta outras mudanças)
+2. `git pull --rebase --autostash`  ← **mexe no working tree de quem estiver editando**
+3. `git push`
+
+**Quando dispara:** ~08:00–08:30 (Promessi, Don Quijote), ~20:00–21:00 (Aristóteles /
+COF, dias alternados), e a cada hora enquanto a sonda de cota do Don Quijote estiver
+ativa (`cron_probe.sh`, experimento `notebooklm_edson-g5e7`). Ou seja: **pode acontecer
+no meio da sua sessão.**
+
+**Consequências práticas:**
+- **Commit ou push seu que "some" ou vira rebase inesperado não é bug** — é o cron
+  tendo feito `pull --rebase` entre o seu commit e o seu push. Rode `git log --oneline`
+  e procure `[cron]` antes de concluir que algo se perdeu.
+- **Mudança no `git status` que você não reconhece pode não ser de outra sessão** — a
+  regra do playbook multi-sessão ("mudança que você não reconhece = de outra sessão,
+  não varra") vale igual, mas aqui há um terceiro escritor que não é sessão nenhuma.
+- **Sempre commite com caminho explícito** (`git commit -- <arquivos>`). Nunca `-a`
+  nem `git add -A`: você pode levar junto um `metadata.json` que o cron está gravando
+  naquele instante.
+- **O `--autostash` pode stashear e restaurar seu trabalho não commitado.** Normalmente
+  transparente, mas se houver conflito o stash fica pendente — `git stash list`.
+- Se for mexer em `scripts/git_state_commit.sh` ou nos wrappers, lembre que eles são
+  best-effort de propósito (`|| true`, `exit 0`): **nunca podem derrubar o cron**.
+
 # Agent Instructions
 
 <!-- bd-doctor-divergence: ok — AGENTS.md (generic bd bootstrap) and CLAUDE.md (full project doc) are intentionally different, distinct audiences -->

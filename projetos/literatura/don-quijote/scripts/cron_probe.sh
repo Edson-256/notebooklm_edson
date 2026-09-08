@@ -72,5 +72,10 @@ trap 'rm -f "$LOCKDIR/pid" 2>/dev/null; rmdir "$LOCKDIR" 2>/dev/null' EXIT
   # Alerta so no momento que importa: a cota voltar depois de uma sequencia de recusas.
   python3 "$REPO_DIR/scripts/nlm_probe_notify.py" "$PROFILE"
 
+  # Mesmo auto-commit de estado que o cron_daily.sh fazia. Sem isso o metadata.json
+  # acumula como working-tree sujo e bloqueia `git pull --rebase` (notebooklm_edson-xdp).
+  bash "$REPO_DIR/scripts/git_state_commit.sh" \
+    "projetos/literatura/don-quijote/audios/metadata.json" "don-quijote"
+
   echo "=== exit code: $rc @ $(date) ==="
 } >>"$LOG" 2>&1
