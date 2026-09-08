@@ -56,6 +56,7 @@ MAX_RETRIES = 3
 MAX_FOCUS_CHARS = 10000
 
 _RATE_LIMITED = object()
+_LAST_API_MSG = ""   # ultima mensagem crua da API numa recusa (telemetria g5e7)
 _OVERSIZED = object()      # prompt acima de MAX_FOCUS_CHARS -> recusa (nao gasta cota)
 _POLL_MISSING = "__poll_missing__"
 _POLL_ERROR = "__poll_error__"
@@ -219,6 +220,11 @@ def create_audio(cfg, profile, focus, notebook_id, source_ids=None) -> object:
     out = (r.stdout or "") + (r.stderr or "")
     low = out.lower()
     if "rate limit" in low or "code 8" in low or "wait a few minutes" in low or "quota" in low:
+        # Guarda a mensagem CRUA. O Google usa o mesmo UserDisplayableError para
+        # throttle curto e para cota esgotada; sem o texto exato no log nao da
+        # para separar "espere alguns minutos" de "acabou a cota da semana".
+        global _LAST_API_MSG
+        _LAST_API_MSG = " ".join(out.split())[:400]
         return _RATE_LIMITED
     if r.returncode != 0:
         log(f"   nlm erro: {out.strip()[:300]}"); return None
@@ -365,7 +371,9 @@ def cmd_create(proj, cfg, scenes, width, profile, n, dry, allow_truncate=False):
         _slug = cfg["obra"]["slug"]
         if art is _RATE_LIMITED:
             entry["status"] = "deferred"; deferred += 1
-            _usage_record(profile, _slug, "rate_limited", detail="API code 8 / RESOURCE_EXHAUSTED", seq=c["seq_global"])
+            _usage_record(profile, _slug, "rate_limited",
+                          detail=_LAST_API_MSG or "API code 8 / RESOURCE_EXHAUSTED",
+                          seq=c["seq_global"])
             if _stop_on_rl:
                 save_meta_entry(proj, cfg, entry)
                 log("  [sonda] rate-limit atingido -> encerrando o lote (fronteira da janela registrada)")
