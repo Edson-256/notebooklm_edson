@@ -68,5 +68,9 @@ trap 'rm -f "$LOCKDIR/pid" 2>/dev/null; rmdir "$LOCKDIR" 2>/dev/null' EXIT
   NLM_COTA_OVERRIDE="$COTA_OVERRIDE" NLM_STOP_ON_RATE_LIMIT=1 \
     python3 "$RUNNER" --project "$PROJECT_DIR" --profile "$PROFILE" --create "$PROBE_BATCH"
   rc=$?
+
+  # Alerta so no momento que importa: a cota voltar depois de uma sequencia de recusas.
+  python3 "$REPO_DIR/scripts/nlm_probe_notify.py" "$PROFILE"
+
   echo "=== exit code: $rc @ $(date) ==="
 } >>"$LOG" 2>&1

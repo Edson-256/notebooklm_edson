@@ -79,8 +79,19 @@ def main():
             elif e["event"] == "created":
                 streak = 0
         if best >= 3:
-            print(f"  ATENCAO: {best} recusas consecutivas a partir de {best_start[:16]}"
-                  f" -> candidato a TETO SEMANAL (nao apenas fim de janela)")
+            # Nao afirmar a causa. Em 2026-09-08 uma sequencia de 11 recusas foi
+            # lida como "teto semanal", mas a propria conta tinha feito 18 criacoes
+            # na semana anterior sem travar — o que refuta essa leitura. O que o
+            # dado sustenta e a DURACAO do bloqueio; a causa exige mais medicao.
+            start_ep = next((e["epoch"] for e in evs if e["ts"] == best_start), 0)
+            last_ep = evs[-1]["epoch"]
+            dur = fmt_delta(last_ep - start_ep) if start_ep else "?"
+            print(f"  BLOQUEIO: {best} recusas consecutivas desde {best_start[:16]} ({dur} ate o ultimo evento)")
+            if best >= 3:
+                print("    -> duracao acima de ~5h ja e incompativel com a janela anunciada;")
+                print("       causa em aberto (rollout ausente na conta? bloqueio por consumo em rajada?).")
+                print("       Comparar com o volume da MESMA conta em semanas anteriores antes de")
+                print("       concluir teto semanal — no caso do perfil espanhol isso o refutou.")
 
 if __name__ == "__main__":
     main()
