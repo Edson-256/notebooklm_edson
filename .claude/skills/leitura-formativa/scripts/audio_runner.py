@@ -89,6 +89,16 @@ def check_auth(profile) -> bool:
         log(f"auth check erro: {e}"); return False
 
 
+# ---- telemetria de cota (notebooklm_edson-g5e7) ----
+# Registra cada desfecho de criacao em logs/nlm_usage.jsonl. Separa rate-limit de
+# falha real: sem isso nao da para distinguir teto de janela, teto semanal e erro
+# de rede - os tres aparecem como "falhou" no log de texto.
+sys.path.insert(0, "/Users/edsonmichalkiewicz/dev/notebooklm_edson/scripts")
+try:
+    from nlm_usage_log import record as _usage_record
+except Exception:
+    def _usage_record(*a, **k): pass
+
 # ---- estado / cota / metadata ----
 def quota_path(proj, cfg): return proj / cfg["paths"]["audios"] / "_daily_quota.json"
 
@@ -312,6 +322,17 @@ def cmd_create(proj, cfg, scenes, width, profile, n, dry, allow_truncate=False):
     queue = pending_scenes(proj, cfg, scenes)
     if n: queue = queue[:n]
     cap = cfg["cota"]["por_dia"] - cfg["cota"].get("margem", 0)
+    # Override do experimento de cota (notebooklm_edson-g5e7): a sonda precisa
+    # ultrapassar o cap calibrado no regime antigo para descobrir onde a API
+    # realmente freia. Sem a env, nada muda para os crons normais.
+    _ovr = os.environ.get("NLM_COTA_OVERRIDE")
+    if _ovr:
+        try:
+            cap = int(_ovr)
+            print(f"  [sonda] cap sobrescrito por NLM_COTA_OVERRIDE={cap}")
+        except ValueError:
+            pass
+    _stop_on_rl = os.environ.get("NLM_STOP_ON_RATE_LIMIT") == "1"
     used = quota_used_today(proj, cfg, profile)
     print(f"\n  Fila: {len(queue)} cenas | cota restante hoje: {max(0,cap-used)}")
     if dry:
@@ -341,13 +362,21 @@ def cmd_create(proj, cfg, scenes, width, profile, n, dry, allow_truncate=False):
         entry = {"seq_global": c["seq_global"], "arquivo": scene_filename(c, width, "m4a"),
                  "titulo": c["titulo"], "cap": c["cap"], "notebook_profile": profile,
                  "notebook_id": nb, "data": datetime.now().isoformat()}
+        _slug = cfg["obra"]["slug"]
         if art is _RATE_LIMITED:
             entry["status"] = "deferred"; deferred += 1
+            _usage_record(profile, _slug, "rate_limited", detail="API code 8 / RESOURCE_EXHAUSTED", seq=c["seq_global"])
+            if _stop_on_rl:
+                save_meta_entry(proj, cfg, entry)
+                log("  [sonda] rate-limit atingido -> encerrando o lote (fronteira da janela registrada)")
+                break
         elif art:
             entry.update(status="created", artifact_id=art); quota_bump(proj, cfg, profile); created += 1
             log(f"   criado {art[:12]}...")
+            _usage_record(profile, _slug, "created", artifact=art[:12], seq=c["seq_global"])
         else:
             entry["status"] = "server_failed"; failed += 1
+            _usage_record(profile, _slug, "failed", detail="erro real (nao rate-limit)", seq=c["seq_global"])
         save_meta_entry(proj, cfg, entry)
         if c is not queue[-1] and art and art is not _RATE_LIMITED: time.sleep(INTERVAL_SECONDS)
     print(f"\n  criados={created} deferred={deferred} falhas={failed}\n")

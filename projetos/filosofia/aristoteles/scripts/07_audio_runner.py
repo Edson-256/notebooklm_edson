@@ -70,6 +70,16 @@ MAX_FOCUS_CHARS = 10000      # teto empírico do focus do NLM
 INTERVAL_SECONDS = 120       # espaçamento entre criações (reduz rate-limit)
 MAX_RETRIES = 3
 # create_audio devolve isto em rate-limit (API code 8) → cena fica pending p/ amanhã
+# ---- telemetria de cota (notebooklm_edson-g5e7) ----
+# Instrumentacao PASSIVA da conta pro: nao muda ritmo nem cota, so registra o
+# desfecho de cada criacao em logs/nlm_usage.jsonl. E assim que medimos os tetos
+# da conta 'default' sem estressa-la (o estresse ativo roda so na conta free).
+sys.path.insert(0, "/Users/edsonmichalkiewicz/dev/notebooklm_edson/scripts")
+try:
+    from nlm_usage_log import record as _usage_record
+except Exception:
+    def _usage_record(*a, **k): pass
+
 _RATE_LIMITED = object()
 _POLL_MISSING = "__poll_missing__"  # artifact sumiu do studio
 _POLL_ERROR = "__poll_error__"      # consulta falhou (rede/auth)
@@ -372,12 +382,18 @@ def cmd_create(master: dict, audio_meta: dict, notebook_meta: dict, n: int,
             append_log({"ts": rec["created_at"], "action": "created",
                         "cena_id": cena["cena_id"], "artifact_id": artifact_id})
             print(f"   ✓ created (artifact={artifact_id[:8]}...)")
+            _usage_record("default", "aristoteles", "created",
+                          artifact=artifact_id[:12], cena=cena["cena_id"])
             ok += 1
         elif rate_limited:
             print("   ⏸ ADIADO (rate-limit NotebookLM — fica pending p/ amanhã)")
+            _usage_record("default", "aristoteles", "rate_limited",
+                          detail="API code 8 / RESOURCE_EXHAUSTED", cena=cena["cena_id"])
             deferred += 1
         else:
             print("   FAIL (erro ao criar)")
+            _usage_record("default", "aristoteles", "failed",
+                          detail="erro real (nao rate-limit)", cena=cena["cena_id"])
             append_log({"ts": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
                         "action": "create_fail", "cena_id": cena["cena_id"]})
             failed += 1

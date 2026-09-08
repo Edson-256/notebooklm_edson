@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-07T08:24:51.638089",
+  "atualizado": "2026-09-08T00:19:24.288574",
   "audios": [
     {
       "seq_global": 1,
@@ -2312,9 +2312,9 @@
       "cap": 56,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-06T08:21:39.986172",
+      "data": "2026-09-08T00:19:24.287598",
       "status": "created",
-      "artifact_id": "2048fb8e-47f5-4644-83d5-60f13c1ce461"
+      "artifact_id": "89b53ca1-5597-48c4-ac48-f31bc2153ca6"
     },
     {
       "seq_global": 179,
@@ -2324,8 +2324,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-06T08:23:45.854975",
-      "status": "created",
-      "artifact_id": "1cea3ff7-d74d-409c-892d-92ccd0efdf30"
+      "status": "downloaded",
+      "artifact_id": "1cea3ff7-d74d-409c-892d-92ccd0efdf30",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/179_cap-056_cena-003_El-descubrimiento-del-libro-personajes-que-se-saben-escritos.m4a",
+      "tamanho_bytes": 19714839
     },
     {
       "seq_global": 180,
@@ -2335,7 +2337,7 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-06T08:25:51.315958",
-      "status": "created",
+      "status": "server_failed",
       "artifact_id": "23ec1d89-b001-4fbe-8f19-e38fb485fc84"
     },
     {
@@ -2346,8 +2348,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-07T08:20:39.813752",
-      "status": "created",
-      "artifact_id": "2d3d01fa-c174-43a0-9fee-45e9de676f94"
+      "status": "downloaded",
+      "artifact_id": "2d3d01fa-c174-43a0-9fee-45e9de676f94",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/181_cap-057_cena-002_Doce-mil-libros-verse-vivo-en-la-estampa.m4a",
+      "tamanho_bytes": 31025328
     },
     {
       "seq_global": 182,
@@ -2357,8 +2361,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-07T08:22:45.773715",
-      "status": "created",
-      "artifact_id": "ffe0f758-70d1-4e87-886d-b49f9e2a1326"
+      "status": "downloaded",
+      "artifact_id": "ffe0f758-70d1-4e87-886d-b49f9e2a1326",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/182_cap-057_cena-003_El-poeta-y-el-historiador-la-verdad-como-cosa-sagrada.m4a",
+      "tamanho_bytes": 33033316
     },
     {
       "seq_global": 183,
@@ -2368,8 +2374,21 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-07T08:24:51.633102",
-      "status": "created",
+      "status": "server_failed",
       "artifact_id": "b8e7ac7d-aef4-463c-83b6-645fc5ef61d6"
+    },
+    {
+      "seq_global": 184,
+      "arquivo": "184_cap-058_cena-002_Sancho-naci-y-Sancho-pienso-morir.m4a",
+      "titulo": "Sancho nací, y Sancho pienso morir",
+      "cap": 58,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-07T23:15:23.843327",
+      "status": "downloaded",
+      "artifact_id": "74a7fb8b-249f-4658-bc8c-1d932edd1649",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/184_cap-058_cena-002_Sancho-naci-y-Sancho-pienso-morir.m4a",
+      "tamanho_bytes": 34220825
     }
   ]
 }

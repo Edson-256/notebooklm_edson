@@ -30,18 +30,28 @@ mkdir -p "$LOG_DIR"
 # gerando 2 artifacts órfãos no studio NLM — race condition na fila de pendentes
 # e no _raw/audio_metadata.json). macOS não tem flock nativo; usa mkdir atômico.
 LOCKDIR="/tmp/.aristoteles_cron_audio.lock"
+# O lock NÃO expira por tempo. Expirar por idade era um bug (notebooklm_edson-aa1h):
+# lotes reais chegam a 14h49 (medido 2026-09-05) e o antigo limite de 6h declarava
+# órfão um lock cujo dono estava vivo — duas rodadas rodavam em paralelo na mesma
+# conta NLM, corrompendo metadata e cota. A única prova de morte é o PID não existir.
 if [ -d "$LOCKDIR" ]; then
-  lock_age=$(( $(date +%s) - $(stat -f %m "$LOCKDIR" 2>/dev/null || echo 0) ))
-  if [ "$lock_age" -gt 21600 ]; then
-    echo "$(date): lock com ${lock_age}s (>6h) — provavelmente órfão de crash; removendo." >>"$LOG_DIR/aristoteles_lock.log"
-    rmdir "$LOCKDIR" 2>/dev/null
+  lock_pid=$(cat "$LOCKDIR/pid" 2>/dev/null || echo "")
+  if [ -n "$lock_pid" ] && kill -0 "$lock_pid" 2>/dev/null; then
+    lock_age=$(( $(date +%s) - $(stat -f %m "$LOCKDIR" 2>/dev/null || echo 0) ))
+    echo "$(date): outra instância VIVA (pid=$lock_pid, há ${lock_age}s) — abortando." >>"$LOG_DIR/aristoteles_lock.log"
+    exit 0
   fi
+  # Sem pid legível (lock de versão antiga) ou processo morto → órfão de verdade.
+  echo "$(date): lock órfão (pid='${lock_pid:-ausente}' não existe) — removendo." >>"$LOG_DIR/aristoteles_lock.log"
+  rm -f "$LOCKDIR/pid" 2>/dev/null
+  rmdir "$LOCKDIR" 2>/dev/null
 fi
 if ! mkdir "$LOCKDIR" 2>/dev/null; then
-  echo "$(date): outra instância de cron_audio.sh já está rodando (lock=$LOCKDIR) — abortando esta execução." >>"$LOG_DIR/aristoteles_lock.log"
+  echo "$(date): corrida no mkdir do lock — outra instância ganhou; abortando." >>"$LOG_DIR/aristoteles_lock.log"
   exit 0
 fi
-trap 'rmdir "$LOCKDIR" 2>/dev/null' EXIT
+echo "$$" > "$LOCKDIR/pid"
+trap 'rm -f "$LOCKDIR/pid" 2>/dev/null; rmdir "$LOCKDIR" 2>/dev/null' EXIT
 
 play_sound() { /usr/bin/afplay "/System/Library/Sounds/${1:-Funk}.aiff" >/dev/null 2>&1 & }
 
