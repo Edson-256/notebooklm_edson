@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-08T00:19:24.288574",
+  "atualizado": "2026-09-08T11:00:14.744031",
   "audios": [
     {
       "seq_global": 1,
@@ -2313,8 +2313,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-08T00:19:24.287598",
-      "status": "created",
-      "artifact_id": "89b53ca1-5597-48c4-ac48-f31bc2153ca6"
+      "status": "downloaded",
+      "artifact_id": "89b53ca1-5597-48c4-ac48-f31bc2153ca6",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/178_cap-056_cena-002_La-verdad-desnuda-sin-los-vestidos-de-la-lisonja.m4a",
+      "tamanho_bytes": 21940332
     },
     {
       "seq_global": 179,
@@ -2336,9 +2338,11 @@
       "cap": 57,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-06T08:25:51.315958",
-      "status": "server_failed",
-      "artifact_id": "23ec1d89-b001-4fbe-8f19-e38fb485fc84"
+      "data": "2026-09-08T00:21:29.713989",
+      "status": "downloaded",
+      "artifact_id": "467f8c75-dd75-434c-892b-703dcd90b1a6",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/180_cap-057_cena-001_El-caballero-que-se-descubre-narrado.m4a",
+      "tamanho_bytes": 33674508
     },
     {
       "seq_global": 181,
@@ -2373,9 +2377,8 @@
       "cap": 58,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-07T08:24:51.633102",
-      "status": "server_failed",
-      "artifact_id": "b8e7ac7d-aef4-463c-83b6-645fc5ef61d6"
+      "data": "2026-09-08T11:00:14.742088",
+      "status": "deferred"
     },
     {
       "seq_global": 184,
