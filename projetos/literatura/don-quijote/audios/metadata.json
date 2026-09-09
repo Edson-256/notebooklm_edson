@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-08T21:06:35.288828",
+  "atualizado": "2026-09-08T22:01:56.409553",
   "audios": [
     {
       "seq_global": 1,
@@ -2378,8 +2378,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-08T21:00:11.271506",
-      "status": "created",
-      "artifact_id": "ce208a71-7bd2-49b3-bc8e-da942efc0493"
+      "status": "downloaded",
+      "artifact_id": "ce208a71-7bd2-49b3-bc8e-da942efc0493",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/183_cap-058_cena-001_El-libro-que-se-juzga-a-si-mismo.m4a",
+      "tamanho_bytes": 26981594
     },
     {
       "seq_global": 184,
@@ -2402,8 +2404,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-08T21:02:17.593630",
-      "status": "created",
-      "artifact_id": "a340ab4c-8400-4ca5-a2a2-44dc67f06a61"
+      "status": "downloaded",
+      "artifact_id": "a340ab4c-8400-4ca5-a2a2-44dc67f06a61",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/185_cap-058_cena-003_El-nombre-patente-de-Dulcinea.m4a",
+      "tamanho_bytes": 26016072
     },
     {
       "seq_global": 186,
@@ -2413,8 +2417,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-08T21:04:24.723101",
-      "status": "created",
-      "artifact_id": "67f7d74f-0d98-4e28-bd28-9604b0f325e1"
+      "status": "downloaded",
+      "artifact_id": "67f7d74f-0d98-4e28-bd28-9604b0f325e1",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/186_cap-059_cena-001_El-regreso-de-Sancho-y-la-lengua-transfigurada.m4a",
+      "tamanho_bytes": 22006072
     },
     {
       "seq_global": 187,
@@ -2423,7 +2429,7 @@
       "cap": 59,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-08T21:06:35.285408",
+      "data": "2026-09-08T22:01:56.406329",
       "status": "deferred"
     }
   ]
