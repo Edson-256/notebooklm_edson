@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T04:18:21Z",
+  "updated_at": "2026-09-10T07:58:22Z",
   "audios": {
     "05_etica/01_etica_nicomaco/L01-C01_cena01": {
       "artifact_id": "46097252-f46f-41a0-b77f-86b89e4b0945",
@@ -12996,141 +12996,321 @@
       "artifact_id": "e55beafa-5dbe-4407-a670-cf0472da9c83",
       "audio_title": "aristoteles_12_l02_c07_cena01_on_sense_and_the_sensible",
       "audio_filename": "aristoteles_12_l02_c07_cena01_on_sense_and_the_sensible.m4a",
-      "status": "created",
-      "created_at": "2026-09-09T03:39:05Z"
+      "status": "downloaded",
+      "created_at": "2026-09-09T03:39:05Z",
+      "downloaded_at": "2026-09-10T07:03:05Z",
+      "bytes": 111349019
     },
     "03_psicologia_biologia/02_parva_naturalia/on_sense_and_the_sensible-L02-C07_cena02": {
       "artifact_id": "356174ef-94aa-4097-af53-269fcbfee4a3",
       "audio_title": "aristoteles_12_l02_c07_cena02_on_sense_and_the_sensible",
       "audio_filename": "aristoteles_12_l02_c07_cena02_on_sense_and_the_sensible.m4a",
-      "status": "created",
-      "created_at": "2026-09-09T03:41:07Z"
+      "status": "downloaded",
+      "created_at": "2026-09-09T03:41:07Z",
+      "downloaded_at": "2026-09-10T07:04:05Z",
+      "bytes": 41625151
     },
     "03_psicologia_biologia/02_parva_naturalia/on_sense_and_the_sensible-L02-C07_cena03": {
       "artifact_id": "7c3246fd-63b8-4573-9154-b7780ad14c98",
       "audio_title": "aristoteles_12_l02_c07_cena03_on_sense_and_the_sensible",
       "audio_filename": "aristoteles_12_l02_c07_cena03_on_sense_and_the_sensible.m4a",
-      "status": "created",
-      "created_at": "2026-09-09T03:43:11Z"
+      "status": "downloaded",
+      "created_at": "2026-09-09T03:43:11Z",
+      "downloaded_at": "2026-09-10T07:04:56Z",
+      "bytes": 39977351
     },
     "03_psicologia_biologia/02_parva_naturalia/on_memory_and_reminiscence-L01-C01_cena01": {
       "artifact_id": "8b691ae4-d7b8-4a34-acfe-c031646fcf55",
       "audio_title": "aristoteles_13_l01_c01_cena01_on_memory_and_reminiscence",
       "audio_filename": "aristoteles_13_l01_c01_cena01_on_memory_and_reminiscence.m4a",
-      "status": "created",
-      "created_at": "2026-09-09T03:45:14Z"
+      "status": "downloaded",
+      "created_at": "2026-09-09T03:45:14Z",
+      "downloaded_at": "2026-09-10T07:05:45Z",
+      "bytes": 100185738
     },
     "03_psicologia_biologia/02_parva_naturalia/on_memory_and_reminiscence-L01-C02_cena01": {
       "artifact_id": "f45e4b06-a421-42d1-b14a-c3a46767ee28",
       "audio_title": "aristoteles_13_l01_c02_cena01_on_memory_and_reminiscence",
       "audio_filename": "aristoteles_13_l01_c02_cena01_on_memory_and_reminiscence.m4a",
-      "status": "created",
-      "created_at": "2026-09-09T03:47:17Z"
+      "status": "downloaded",
+      "created_at": "2026-09-09T03:47:17Z",
+      "downloaded_at": "2026-09-10T07:06:40Z",
+      "bytes": 104597837
     },
     "03_psicologia_biologia/02_parva_naturalia/on_memory_and_reminiscence-L01-C02_cena02": {
       "artifact_id": "4712ea7d-1d5e-4948-9b87-9ce176c30e04",
       "audio_title": "aristoteles_13_l01_c02_cena02_on_memory_and_reminiscence",
       "audio_filename": "aristoteles_13_l01_c02_cena02_on_memory_and_reminiscence.m4a",
-      "status": "created",
-      "created_at": "2026-09-09T03:49:19Z"
+      "status": "downloaded",
+      "created_at": "2026-09-09T03:49:19Z",
+      "downloaded_at": "2026-09-10T07:07:33Z",
+      "bytes": 39404887
     },
     "03_psicologia_biologia/02_parva_naturalia/on_memory_and_reminiscence-L01-C02_cena03": {
       "artifact_id": "bd4aad9a-3211-423e-92d8-8ae7e371344f",
       "audio_title": "aristoteles_13_l01_c02_cena03_on_memory_and_reminiscence",
       "audio_filename": "aristoteles_13_l01_c02_cena03_on_memory_and_reminiscence.m4a",
-      "status": "created",
-      "created_at": "2026-09-09T03:51:21Z"
+      "status": "downloaded",
+      "created_at": "2026-09-09T03:51:21Z",
+      "downloaded_at": "2026-09-10T07:08:17Z",
+      "bytes": 43197500
     },
     "03_psicologia_biologia/02_parva_naturalia/on_sleep_and_sleeplessness-L01-C01_cena01": {
       "artifact_id": "83b80ad5-27ef-4be1-bcca-6bbbd273f406",
       "audio_title": "aristoteles_14_l01_c01_cena01_on_sleep_and_sleeplessness",
       "audio_filename": "aristoteles_14_l01_c01_cena01_on_sleep_and_sleeplessness.m4a",
-      "status": "created",
-      "created_at": "2026-09-09T03:53:24Z"
+      "status": "downloaded",
+      "created_at": "2026-09-09T03:53:24Z",
+      "downloaded_at": "2026-09-10T07:09:03Z",
+      "bytes": 60543275
     },
     "03_psicologia_biologia/02_parva_naturalia/on_sleep_and_sleeplessness-L01-C02_cena01": {
       "artifact_id": "400105d8-7f21-4687-ad79-17314b95719e",
       "audio_title": "aristoteles_14_l01_c02_cena01_on_sleep_and_sleeplessness",
       "audio_filename": "aristoteles_14_l01_c02_cena01_on_sleep_and_sleeplessness.m4a",
-      "status": "created",
-      "created_at": "2026-09-09T03:55:27Z"
+      "status": "downloaded",
+      "created_at": "2026-09-09T03:55:27Z",
+      "downloaded_at": "2026-09-10T07:09:53Z",
+      "bytes": 82998410
     },
     "03_psicologia_biologia/02_parva_naturalia/on_sleep_and_sleeplessness-L01-C03_cena01": {
       "artifact_id": "9b72cc09-6c49-4ca2-80c3-53f65e2ad8e2",
       "audio_title": "aristoteles_14_l01_c03_cena01_on_sleep_and_sleeplessness",
       "audio_filename": "aristoteles_14_l01_c03_cena01_on_sleep_and_sleeplessness.m4a",
-      "status": "created",
-      "created_at": "2026-09-09T03:57:30Z"
+      "status": "downloaded",
+      "created_at": "2026-09-09T03:57:30Z",
+      "downloaded_at": "2026-09-10T07:10:44Z",
+      "bytes": 44816912
     },
     "03_psicologia_biologia/02_parva_naturalia/on_dreams-L01-C01_cena01": {
       "artifact_id": "5b6dda42-b6d9-4b0e-b0b9-d4e711a11821",
       "audio_title": "aristoteles_15_l01_c01_cena01_on_dreams",
       "audio_filename": "aristoteles_15_l01_c01_cena01_on_dreams.m4a",
-      "status": "created",
-      "created_at": "2026-09-09T03:59:32Z"
+      "status": "downloaded",
+      "created_at": "2026-09-09T03:59:32Z",
+      "downloaded_at": "2026-09-10T07:11:29Z",
+      "bytes": 38366156
     },
     "03_psicologia_biologia/02_parva_naturalia/on_dreams-L01-C02_cena01": {
       "artifact_id": "f0fdf069-9ffc-4374-aa6b-798a7a2b666d",
       "audio_title": "aristoteles_15_l01_c02_cena01_on_dreams",
       "audio_filename": "aristoteles_15_l01_c02_cena01_on_dreams.m4a",
-      "status": "created",
-      "created_at": "2026-09-09T04:01:35Z"
+      "status": "downloaded",
+      "created_at": "2026-09-09T04:01:35Z",
+      "downloaded_at": "2026-09-10T07:12:14Z",
+      "bytes": 45445404
     },
     "03_psicologia_biologia/02_parva_naturalia/on_dreams-L01-C03_cena01": {
       "artifact_id": "4faa718a-6a53-4ba0-89d6-3352b931787c",
       "audio_title": "aristoteles_15_l01_c03_cena01_on_dreams",
       "audio_filename": "aristoteles_15_l01_c03_cena01_on_dreams.m4a",
-      "status": "created",
-      "created_at": "2026-09-09T04:03:38Z"
+      "status": "downloaded",
+      "created_at": "2026-09-09T04:03:38Z",
+      "downloaded_at": "2026-09-10T07:13:03Z",
+      "bytes": 128741858
     },
     "03_psicologia_biologia/02_parva_naturalia/on_prophesying_by_dreams-L01-C01_cena01": {
       "artifact_id": "444a128c-4d68-4e80-a957-c0d514df98ad",
       "audio_title": "aristoteles_16_l01_c01_cena01_on_prophesying_by_dreams",
       "audio_filename": "aristoteles_16_l01_c01_cena01_on_prophesying_by_dreams.m4a",
-      "status": "created",
-      "created_at": "2026-09-09T04:05:43Z"
+      "status": "downloaded",
+      "created_at": "2026-09-09T04:05:43Z",
+      "downloaded_at": "2026-09-10T07:13:58Z",
+      "bytes": 58438056
     },
     "03_psicologia_biologia/02_parva_naturalia/on_prophesying_by_dreams-L01-C02_cena01": {
       "artifact_id": "17c603fd-9b95-4099-b4c2-88f126dd0ed0",
       "audio_title": "aristoteles_16_l01_c02_cena01_on_prophesying_by_dreams",
       "audio_filename": "aristoteles_16_l01_c02_cena01_on_prophesying_by_dreams.m4a",
-      "status": "created",
-      "created_at": "2026-09-09T04:07:49Z"
+      "status": "downloaded",
+      "created_at": "2026-09-09T04:07:49Z",
+      "downloaded_at": "2026-09-10T07:14:50Z",
+      "bytes": 54074590
     },
     "03_psicologia_biologia/02_parva_naturalia/on_longevity_and_shortness_of_life-L01-C01_cena01": {
       "artifact_id": "2221786c-cb0f-449f-8818-2c27fa4a1e17",
       "audio_title": "aristoteles_17_l01_c01_cena01_on_longevity_and_shortness_of_life",
       "audio_filename": "aristoteles_17_l01_c01_cena01_on_longevity_and_shortness_of_life.m4a",
-      "status": "created",
-      "created_at": "2026-09-09T04:09:55Z"
+      "status": "downloaded",
+      "created_at": "2026-09-09T04:09:55Z",
+      "downloaded_at": "2026-09-10T07:15:39Z",
+      "bytes": 33718583
     },
     "03_psicologia_biologia/02_parva_naturalia/on_longevity_and_shortness_of_life-L01-C02_cena01": {
       "artifact_id": "51207065-3521-43f7-a26e-0ea83f49aaa0",
       "audio_title": "aristoteles_17_l01_c02_cena01_on_longevity_and_shortness_of_life",
       "audio_filename": "aristoteles_17_l01_c02_cena01_on_longevity_and_shortness_of_life.m4a",
-      "status": "created",
-      "created_at": "2026-09-09T04:12:01Z"
+      "status": "downloaded",
+      "created_at": "2026-09-09T04:12:01Z",
+      "downloaded_at": "2026-09-10T07:16:26Z",
+      "bytes": 58299107
     },
     "03_psicologia_biologia/02_parva_naturalia/on_longevity_and_shortness_of_life-L01-C03_cena01": {
       "artifact_id": "abc0bb2c-3cdf-4788-99af-6729173b9ca5",
       "audio_title": "aristoteles_17_l01_c03_cena01_on_longevity_and_shortness_of_life",
       "audio_filename": "aristoteles_17_l01_c03_cena01_on_longevity_and_shortness_of_life.m4a",
-      "status": "created",
-      "created_at": "2026-09-09T04:14:07Z"
+      "status": "downloaded",
+      "created_at": "2026-09-09T04:14:07Z",
+      "downloaded_at": "2026-09-10T07:17:16Z",
+      "bytes": 111613587
     },
     "03_psicologia_biologia/02_parva_naturalia/on_longevity_and_shortness_of_life-L01-C04_cena01": {
       "artifact_id": "32627bfe-8460-4827-8a14-a94b4871aad8",
       "audio_title": "aristoteles_17_l01_c04_cena01_on_longevity_and_shortness_of_life",
       "audio_filename": "aristoteles_17_l01_c04_cena01_on_longevity_and_shortness_of_life.m4a",
-      "status": "created",
-      "created_at": "2026-09-09T04:16:13Z"
+      "status": "downloaded",
+      "created_at": "2026-09-09T04:16:13Z",
+      "downloaded_at": "2026-09-10T07:18:10Z",
+      "bytes": 73337215
     },
     "03_psicologia_biologia/02_parva_naturalia/on_longevity_and_shortness_of_life-L01-C05_cena01": {
       "artifact_id": "1772b57a-5ee1-46ab-ad1a-dab141192bb4",
       "audio_title": "aristoteles_17_l01_c05_cena01_on_longevity_and_shortness_of_life",
       "audio_filename": "aristoteles_17_l01_c05_cena01_on_longevity_and_shortness_of_life.m4a",
+      "status": "downloaded",
+      "created_at": "2026-09-09T04:18:21Z",
+      "downloaded_at": "2026-09-10T07:19:02Z",
+      "bytes": 42841793
+    },
+    "03_psicologia_biologia/02_parva_naturalia/on_longevity_and_shortness_of_life-L01-C06_cena01": {
+      "artifact_id": "d2ad5aee-8cdb-4a11-9266-bee7aa18af4d",
+      "audio_title": "aristoteles_17_l01_c06_cena01_on_longevity_and_shortness_of_life",
+      "audio_filename": "aristoteles_17_l01_c06_cena01_on_longevity_and_shortness_of_life.m4a",
       "status": "created",
-      "created_at": "2026-09-09T04:18:21Z"
+      "created_at": "2026-09-10T07:19:11Z"
+    },
+    "03_psicologia_biologia/02_parva_naturalia/on_youth_and_old_age_on_life_and_death_on_breathing-L01-C01_cena01": {
+      "artifact_id": "10c84843-8148-4b89-a68d-2ec907d21012",
+      "audio_title": "aristoteles_18_l01_c01_cena01_on_youth_and_old_age_on_life_and_death_on_breathing",
+      "audio_filename": "aristoteles_18_l01_c01_cena01_on_youth_and_old_age_on_life_and_death_on_breathing.m4a",
+      "status": "created",
+      "created_at": "2026-09-10T07:21:15Z"
+    },
+    "03_psicologia_biologia/02_parva_naturalia/on_youth_and_old_age_on_life_and_death_on_breathing-L01-C02_cena01": {
+      "artifact_id": "699c0aca-da1e-4ac6-8f81-11c131d32111",
+      "audio_title": "aristoteles_18_l01_c02_cena01_on_youth_and_old_age_on_life_and_death_on_breathing",
+      "audio_filename": "aristoteles_18_l01_c02_cena01_on_youth_and_old_age_on_life_and_death_on_breathing.m4a",
+      "status": "created",
+      "created_at": "2026-09-10T07:23:20Z"
+    },
+    "03_psicologia_biologia/02_parva_naturalia/on_youth_and_old_age_on_life_and_death_on_breathing-L01-C03_cena01": {
+      "artifact_id": "8dc3e4fb-130c-4f00-80d2-85a9d00648bb",
+      "audio_title": "aristoteles_18_l01_c03_cena01_on_youth_and_old_age_on_life_and_death_on_breathing",
+      "audio_filename": "aristoteles_18_l01_c03_cena01_on_youth_and_old_age_on_life_and_death_on_breathing.m4a",
+      "status": "created",
+      "created_at": "2026-09-10T07:25:24Z"
+    },
+    "03_psicologia_biologia/02_parva_naturalia/on_youth_and_old_age_on_life_and_death_on_breathing-L01-C04_cena01": {
+      "artifact_id": "23632544-eda6-46e2-88e2-f688009d4387",
+      "audio_title": "aristoteles_18_l01_c04_cena01_on_youth_and_old_age_on_life_and_death_on_breathing",
+      "audio_filename": "aristoteles_18_l01_c04_cena01_on_youth_and_old_age_on_life_and_death_on_breathing.m4a",
+      "status": "created",
+      "created_at": "2026-09-10T07:27:27Z"
+    },
+    "03_psicologia_biologia/02_parva_naturalia/on_youth_and_old_age_on_life_and_death_on_breathing-L01-C05_cena01": {
+      "artifact_id": "12c6ce8e-04f1-44c5-9ee9-d6360e35f85b",
+      "audio_title": "aristoteles_18_l01_c05_cena01_on_youth_and_old_age_on_life_and_death_on_breathing",
+      "audio_filename": "aristoteles_18_l01_c05_cena01_on_youth_and_old_age_on_life_and_death_on_breathing.m4a",
+      "status": "created",
+      "created_at": "2026-09-10T07:29:31Z"
+    },
+    "03_psicologia_biologia/02_parva_naturalia/on_youth_and_old_age_on_life_and_death_on_breathing-L01-C06_cena01": {
+      "artifact_id": "8acf2ae5-e4fd-4e19-be81-f0300864d203",
+      "audio_title": "aristoteles_18_l01_c06_cena01_on_youth_and_old_age_on_life_and_death_on_breathing",
+      "audio_filename": "aristoteles_18_l01_c06_cena01_on_youth_and_old_age_on_life_and_death_on_breathing.m4a",
+      "status": "created",
+      "created_at": "2026-09-10T07:31:35Z"
+    },
+    "03_psicologia_biologia/02_parva_naturalia/on_youth_and_old_age_on_life_and_death_on_breathing-L01-C07_cena01": {
+      "artifact_id": "6a3c3b8a-26a4-4dd9-abd4-902373980a2d",
+      "audio_title": "aristoteles_18_l01_c07_cena01_on_youth_and_old_age_on_life_and_death_on_breathing",
+      "audio_filename": "aristoteles_18_l01_c07_cena01_on_youth_and_old_age_on_life_and_death_on_breathing.m4a",
+      "status": "created",
+      "created_at": "2026-09-10T07:33:38Z"
+    },
+    "03_psicologia_biologia/02_parva_naturalia/on_youth_and_old_age_on_life_and_death_on_breathing-L01-C08_cena01": {
+      "artifact_id": "c7d1ef9a-95ae-4335-b73d-a301a485048f",
+      "audio_title": "aristoteles_18_l01_c08_cena01_on_youth_and_old_age_on_life_and_death_on_breathing",
+      "audio_filename": "aristoteles_18_l01_c08_cena01_on_youth_and_old_age_on_life_and_death_on_breathing.m4a",
+      "status": "created",
+      "created_at": "2026-09-10T07:35:42Z"
+    },
+    "03_psicologia_biologia/02_parva_naturalia/on_youth_and_old_age_on_life_and_death_on_breathing-L01-C09_cena01": {
+      "artifact_id": "10296708-c35d-4b43-87fc-f518e70167c6",
+      "audio_title": "aristoteles_18_l01_c09_cena01_on_youth_and_old_age_on_life_and_death_on_breathing",
+      "audio_filename": "aristoteles_18_l01_c09_cena01_on_youth_and_old_age_on_life_and_death_on_breathing.m4a",
+      "status": "created",
+      "created_at": "2026-09-10T07:37:46Z"
+    },
+    "03_psicologia_biologia/02_parva_naturalia/on_youth_and_old_age_on_life_and_death_on_breathing-L01-C10_cena01": {
+      "artifact_id": "de72d445-cf9c-4c4c-a0c1-f6cb90b23306",
+      "audio_title": "aristoteles_18_l01_c10_cena01_on_youth_and_old_age_on_life_and_death_on_breathing",
+      "audio_filename": "aristoteles_18_l01_c10_cena01_on_youth_and_old_age_on_life_and_death_on_breathing.m4a",
+      "status": "created",
+      "created_at": "2026-09-10T07:39:49Z"
+    },
+    "03_psicologia_biologia/02_parva_naturalia/on_youth_and_old_age_on_life_and_death_on_breathing-L01-C11_cena01": {
+      "artifact_id": "721028ad-3ea2-4a9d-a28f-d437ca297ddc",
+      "audio_title": "aristoteles_18_l01_c11_cena01_on_youth_and_old_age_on_life_and_death_on_breathing",
+      "audio_filename": "aristoteles_18_l01_c11_cena01_on_youth_and_old_age_on_life_and_death_on_breathing.m4a",
+      "status": "created",
+      "created_at": "2026-09-10T07:41:53Z"
+    },
+    "03_psicologia_biologia/02_parva_naturalia/on_youth_and_old_age_on_life_and_death_on_breathing-L01-C12_cena01": {
+      "artifact_id": "90bd0152-224f-4032-b7dc-ec6c60a2d952",
+      "audio_title": "aristoteles_18_l01_c12_cena01_on_youth_and_old_age_on_life_and_death_on_breathing",
+      "audio_filename": "aristoteles_18_l01_c12_cena01_on_youth_and_old_age_on_life_and_death_on_breathing.m4a",
+      "status": "created",
+      "created_at": "2026-09-10T07:43:56Z"
+    },
+    "03_psicologia_biologia/02_parva_naturalia/on_youth_and_old_age_on_life_and_death_on_breathing-L01-C13_cena01": {
+      "artifact_id": "dce3a972-4c5c-4e60-9d0a-4ba6f1483543",
+      "audio_title": "aristoteles_18_l01_c13_cena01_on_youth_and_old_age_on_life_and_death_on_breathing",
+      "audio_filename": "aristoteles_18_l01_c13_cena01_on_youth_and_old_age_on_life_and_death_on_breathing.m4a",
+      "status": "created",
+      "created_at": "2026-09-10T07:45:59Z"
+    },
+    "03_psicologia_biologia/02_parva_naturalia/on_youth_and_old_age_on_life_and_death_on_breathing-L02-C14_cena01": {
+      "artifact_id": "63a76332-bfbf-47aa-b75a-5b09d5479781",
+      "audio_title": "aristoteles_18_l02_c14_cena01_on_youth_and_old_age_on_life_and_death_on_breathing",
+      "audio_filename": "aristoteles_18_l02_c14_cena01_on_youth_and_old_age_on_life_and_death_on_breathing.m4a",
+      "status": "created",
+      "created_at": "2026-09-10T07:48:03Z"
+    },
+    "03_psicologia_biologia/02_parva_naturalia/on_youth_and_old_age_on_life_and_death_on_breathing-L02-C16_cena01": {
+      "artifact_id": "3bc95518-3921-45c8-b67b-68fdcce81e20",
+      "audio_title": "aristoteles_18_l02_c16_cena01_on_youth_and_old_age_on_life_and_death_on_breathing",
+      "audio_filename": "aristoteles_18_l02_c16_cena01_on_youth_and_old_age_on_life_and_death_on_breathing.m4a",
+      "status": "created",
+      "created_at": "2026-09-10T07:50:07Z"
+    },
+    "03_psicologia_biologia/02_parva_naturalia/on_youth_and_old_age_on_life_and_death_on_breathing-L02-C17_cena01": {
+      "artifact_id": "43f4cd2f-5ebc-46b9-bf82-58e50a22c65f",
+      "audio_title": "aristoteles_18_l02_c17_cena01_on_youth_and_old_age_on_life_and_death_on_breathing",
+      "audio_filename": "aristoteles_18_l02_c17_cena01_on_youth_and_old_age_on_life_and_death_on_breathing.m4a",
+      "status": "created",
+      "created_at": "2026-09-10T07:52:11Z"
+    },
+    "03_psicologia_biologia/02_parva_naturalia/on_youth_and_old_age_on_life_and_death_on_breathing-L02-C18_cena01": {
+      "artifact_id": "44af7b1f-610d-4046-9005-425e774622c7",
+      "audio_title": "aristoteles_18_l02_c18_cena01_on_youth_and_old_age_on_life_and_death_on_breathing",
+      "audio_filename": "aristoteles_18_l02_c18_cena01_on_youth_and_old_age_on_life_and_death_on_breathing.m4a",
+      "status": "created",
+      "created_at": "2026-09-10T07:54:15Z"
+    },
+    "03_psicologia_biologia/02_parva_naturalia/on_youth_and_old_age_on_life_and_death_on_breathing-L02-C19_cena01": {
+      "artifact_id": "480edf3b-d294-4379-91b7-713a800a3048",
+      "audio_title": "aristoteles_18_l02_c19_cena01_on_youth_and_old_age_on_life_and_death_on_breathing",
+      "audio_filename": "aristoteles_18_l02_c19_cena01_on_youth_and_old_age_on_life_and_death_on_breathing.m4a",
+      "status": "created",
+      "created_at": "2026-09-10T07:56:18Z"
+    },
+    "03_psicologia_biologia/02_parva_naturalia/on_youth_and_old_age_on_life_and_death_on_breathing-L02-C20_cena01": {
+      "artifact_id": "98b80f92-74c2-4dbd-a658-14674e32051c",
+      "audio_title": "aristoteles_18_l02_c20_cena01_on_youth_and_old_age_on_life_and_death_on_breathing",
+      "audio_filename": "aristoteles_18_l02_c20_cena01_on_youth_and_old_age_on_life_and_death_on_breathing.m4a",
+      "status": "created",
+      "created_at": "2026-09-10T07:58:22Z"
     }
   },
   "substituidos": {
