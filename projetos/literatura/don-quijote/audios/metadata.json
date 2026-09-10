@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-09T21:06:33.212461",
+  "atualizado": "2026-09-09T22:01:59.200624",
   "audios": [
     {
       "seq_global": 1,
@@ -2430,8 +2430,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-09T21:00:10.275980",
-      "status": "created",
-      "artifact_id": "f7251ac8-7530-46f1-a191-a82455933f64"
+      "status": "downloaded",
+      "artifact_id": "f7251ac8-7530-46f1-a191-a82455933f64",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/187_cap-059_cena-002_Casar-a-la-hija-la-disputa-por-el-estado-propio.m4a",
+      "tamanho_bytes": 20215471
     },
     {
       "seq_global": 188,
@@ -2441,8 +2443,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-09T21:02:16.687082",
-      "status": "created",
-      "artifact_id": "154f7830-8384-4986-adf3-043c5a15b705"
+      "status": "downloaded",
+      "artifact_id": "154f7830-8384-4986-adf3-043c5a15b705",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/188_cap-059_cena-003_El-sermon-de-la-memoria-y-las-lagrimas-de-Teresa.m4a",
+      "tamanho_bytes": 23630713
     },
     {
       "seq_global": 189,
@@ -2452,8 +2456,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-09T21:04:23.028610",
-      "status": "created",
-      "artifact_id": "2d247e2e-1e22-42e2-b560-4099eada7698"
+      "status": "downloaded",
+      "artifact_id": "2d247e2e-1e22-42e2-b560-4099eada7698",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/189_cap-060_cena-001_El-caballero-andante-frente-al-cortesano-ocioso.m4a",
+      "tamanho_bytes": 29292365
     },
     {
       "seq_global": 190,
@@ -2462,7 +2468,7 @@
       "cap": 60,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-09T21:06:33.211043",
+      "data": "2026-09-09T22:01:59.195187",
       "status": "deferred"
     }
   ]
