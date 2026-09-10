@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-09T20:00:14.278973",
+  "atualizado": "2026-09-09T21:06:33.212461",
   "audios": [
     {
       "seq_global": 1,
@@ -2429,7 +2429,40 @@
       "cap": 59,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-09T20:00:14.277146",
+      "data": "2026-09-09T21:00:10.275980",
+      "status": "created",
+      "artifact_id": "f7251ac8-7530-46f1-a191-a82455933f64"
+    },
+    {
+      "seq_global": 188,
+      "arquivo": "188_cap-059_cena-003_El-sermon-de-la-memoria-y-las-lagrimas-de-Teresa.m4a",
+      "titulo": "El sermon de la memoria y las lagrimas de Teresa",
+      "cap": 59,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-09T21:02:16.687082",
+      "status": "created",
+      "artifact_id": "154f7830-8384-4986-adf3-043c5a15b705"
+    },
+    {
+      "seq_global": 189,
+      "arquivo": "189_cap-060_cena-001_El-caballero-andante-frente-al-cortesano-ocioso.m4a",
+      "titulo": "El caballero andante frente al cortesano ocioso",
+      "cap": 60,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-09T21:04:23.028610",
+      "status": "created",
+      "artifact_id": "2d247e2e-1e22-42e2-b560-4099eada7698"
+    },
+    {
+      "seq_global": 190,
+      "arquivo": "190_cap-060_cena-002_Fabula-y-mentira-el-oro-y-la-alquimia.m4a",
+      "titulo": "Fabula y mentira: el oro y la alquimia",
+      "cap": 60,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-09T21:06:33.211043",
       "status": "deferred"
     }
   ]
