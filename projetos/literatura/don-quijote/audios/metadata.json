@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-10T20:00:16.145561",
+  "atualizado": "2026-09-10T21:06:35.844519",
   "audios": [
     {
       "seq_global": 1,
@@ -2468,7 +2468,40 @@
       "cap": 60,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-10T20:00:16.141437",
+      "data": "2026-09-10T21:00:11.090956",
+      "status": "created",
+      "artifact_id": "629d693e-f5c4-4137-a723-dc2267b215a5"
+    },
+    {
+      "seq_global": 191,
+      "arquivo": "191_cap-060_cena-003_Los-linajes-la-virtud-y-el-camino-estrecho.m4a",
+      "titulo": "Los linajes, la virtud y el camino estrecho",
+      "cap": 60,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-10T21:02:18.122563",
+      "status": "created",
+      "artifact_id": "d715991a-c032-42a9-ab91-b6eae7f8204f"
+    },
+    {
+      "seq_global": 192,
+      "arquivo": "192_cap-061_cena-001_El-ama-Santa-Apolonia-y-el-bachiller-socarron.m4a",
+      "titulo": "El ama, Santa Apolonia y el bachiller socarron",
+      "cap": 61,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-10T21:04:24.929228",
+      "status": "created",
+      "artifact_id": "c0980634-8017-46f0-b9fe-a88b602945cc"
+    },
+    {
+      "seq_global": 193,
+      "arquivo": "193_cap-061_cena-002_La-negociacion-del-salario.m4a",
+      "titulo": "La negociacion del salario",
+      "cap": 61,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-10T21:06:35.841304",
       "status": "deferred"
     }
   ]
