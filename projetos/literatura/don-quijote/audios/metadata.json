@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-11T20:00:15.712197",
+  "atualizado": "2026-09-11T21:06:33.876408",
   "audios": [
     {
       "seq_global": 1,
@@ -2507,7 +2507,40 @@
       "cap": 61,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-11T20:00:15.710844",
+      "data": "2026-09-11T21:00:11.291983",
+      "status": "created",
+      "artifact_id": "72edbf82-1cbe-4668-84df-296a732c9cbd"
+    },
+    {
+      "seq_global": 194,
+      "arquivo": "194_cap-061_cena-003_Las-lagrimas-de-Sancho-y-la-reconciliacion.m4a",
+      "titulo": "Las lagrimas de Sancho y la reconciliacion",
+      "cap": 61,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-11T21:02:17.540823",
+      "status": "created",
+      "artifact_id": "81cad90d-e752-477b-bd41-b42450d55584"
+    },
+    {
+      "seq_global": 195,
+      "arquivo": "195_cap-062_cena-001_Las-bardas-del-corral-y-el-sol-empolvado-de-Dulcinea.m4a",
+      "titulo": "Las bardas del corral y el sol empolvado de Dulcinea",
+      "cap": 62,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-11T21:04:23.448657",
+      "status": "created",
+      "artifact_id": "d774fed0-6da1-474c-a462-03add8bd749d"
+    },
+    {
+      "seq_global": 196,
+      "arquivo": "196_cap-062_cena-002_El-discurso-de-la-fama-Erostrato-Cortes-y-la-gloria-cristiana.m4a",
+      "titulo": "El discurso de la fama: Erostrato, Cortes y la gloria cristiana",
+      "cap": 62,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-11T21:06:33.873419",
       "status": "deferred"
     }
   ]
