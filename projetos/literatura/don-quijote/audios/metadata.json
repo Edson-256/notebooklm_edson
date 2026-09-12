@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-11T21:06:33.876408",
+  "atualizado": "2026-09-11T22:01:53.846700",
   "audios": [
     {
       "seq_global": 1,
@@ -2508,8 +2508,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-11T21:00:11.291983",
-      "status": "created",
-      "artifact_id": "72edbf82-1cbe-4668-84df-296a732c9cbd"
+      "status": "downloaded",
+      "artifact_id": "72edbf82-1cbe-4668-84df-296a732c9cbd",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/193_cap-061_cena-002_La-negociacion-del-salario.m4a",
+      "tamanho_bytes": 28695250
     },
     {
       "seq_global": 194,
@@ -2519,8 +2521,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-11T21:02:17.540823",
-      "status": "created",
-      "artifact_id": "81cad90d-e752-477b-bd41-b42450d55584"
+      "status": "downloaded",
+      "artifact_id": "81cad90d-e752-477b-bd41-b42450d55584",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/194_cap-061_cena-003_Las-lagrimas-de-Sancho-y-la-reconciliacion.m4a",
+      "tamanho_bytes": 39647044
     },
     {
       "seq_global": 195,
@@ -2530,8 +2534,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-11T21:04:23.448657",
-      "status": "created",
-      "artifact_id": "d774fed0-6da1-474c-a462-03add8bd749d"
+      "status": "downloaded",
+      "artifact_id": "d774fed0-6da1-474c-a462-03add8bd749d",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/195_cap-062_cena-001_Las-bardas-del-corral-y-el-sol-empolvado-de-Dulcinea.m4a",
+      "tamanho_bytes": 21947056
     },
     {
       "seq_global": 196,
@@ -2540,7 +2546,7 @@
       "cap": 62,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-11T21:06:33.873419",
+      "data": "2026-09-11T22:01:53.842824",
       "status": "deferred"
     }
   ]
