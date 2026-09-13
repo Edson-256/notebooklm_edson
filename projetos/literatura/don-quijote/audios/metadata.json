@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-12T21:06:42.820678",
+  "atualizado": "2026-09-12T22:01:52.257593",
   "audios": [
     {
       "seq_global": 1,
@@ -2547,8 +2547,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-12T21:00:12.320123",
-      "status": "created",
-      "artifact_id": "09461c5f-89ef-46bf-8da3-9740fe33e83f"
+      "status": "downloaded",
+      "artifact_id": "09461c5f-89ef-46bf-8da3-9740fe33e83f",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/196_cap-062_cena-002_El-discurso-de-la-fama-Erostrato-Cortes-y-la-gloria-cristiana.m4a",
+      "tamanho_bytes": 30357243
     },
     {
       "seq_global": 197,
@@ -2558,8 +2560,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-12T21:02:22.227882",
-      "status": "created",
-      "artifact_id": "65fdd452-97f5-43fb-94a4-c1d90929f006"
+      "status": "downloaded",
+      "artifact_id": "65fdd452-97f5-43fb-94a4-c1d90929f006",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/197_cap-062_cena-003_La-maieutica-de-Sancho-mas-vale-humilde-frailecito-que-andante-caballero.m4a",
+      "tamanho_bytes": 24676168
     },
     {
       "seq_global": 198,
@@ -2569,8 +2573,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-12T21:04:30.910743",
-      "status": "created",
-      "artifact_id": "f93a6a5c-1ed3-4479-b927-f9aa341884a9"
+      "status": "downloaded",
+      "artifact_id": "f93a6a5c-1ed3-4479-b927-f9aa341884a9",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/198_cap-063_cena-001_La-iglesia-que-quiso-ser-alcazar.m4a",
+      "tamanho_bytes": 30020213
     },
     {
       "seq_global": 199,
@@ -2579,7 +2585,7 @@
       "cap": 63,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-12T21:06:42.815487",
+      "data": "2026-09-12T22:01:52.214580",
       "status": "deferred"
     }
   ]
