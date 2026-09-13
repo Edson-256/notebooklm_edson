@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-12T20:00:16.900948",
+  "atualizado": "2026-09-12T21:06:42.820678",
   "audios": [
     {
       "seq_global": 1,
@@ -2546,7 +2546,40 @@
       "cap": 62,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-12T20:00:16.895780",
+      "data": "2026-09-12T21:00:12.320123",
+      "status": "created",
+      "artifact_id": "09461c5f-89ef-46bf-8da3-9740fe33e83f"
+    },
+    {
+      "seq_global": 197,
+      "arquivo": "197_cap-062_cena-003_La-maieutica-de-Sancho-mas-vale-humilde-frailecito-que-andante-caballero.m4a",
+      "titulo": "La maieutica de Sancho: mas vale humilde frailecito que andante caballero",
+      "cap": 62,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-12T21:02:22.227882",
+      "status": "created",
+      "artifact_id": "65fdd452-97f5-43fb-94a4-c1d90929f006"
+    },
+    {
+      "seq_global": 198,
+      "arquivo": "198_cap-063_cena-001_La-iglesia-que-quiso-ser-alcazar.m4a",
+      "titulo": "La iglesia que quiso ser alcázar",
+      "cap": 63,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-12T21:04:30.910743",
+      "status": "created",
+      "artifact_id": "f93a6a5c-1ed3-4479-b927-f9aa341884a9"
+    },
+    {
+      "seq_global": 199,
+      "arquivo": "199_cap-063_cena-002_La-confesion-enamorado-de-oidas.m4a",
+      "titulo": "La confesion: enamorado de oidas",
+      "cap": 63,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-12T21:06:42.815487",
       "status": "deferred"
     }
   ]
