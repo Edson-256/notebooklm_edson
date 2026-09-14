@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T17:41:20Z",
+  "updated_at": "2026-09-14T19:41:33Z",
   "audios": {
     "05_etica/01_etica_nicomaco/L01-C01_cena01": {
       "artifact_id": "46097252-f46f-41a0-b77f-86b89e4b0945",
@@ -13811,6 +13811,146 @@
       "audio_filename": "aristoteles_30_l03_c53_cena01_constituicao_atenienses.m4a",
       "status": "created",
       "created_at": "2026-09-13T17:41:20Z"
+    },
+    "06_politica/02_constituicao_atenienses/L03-C54_cena01": {
+      "artifact_id": "3cca352d-08b9-4852-add7-d1ed2938a992",
+      "audio_title": "aristoteles_30_l03_c54_cena01_constituicao_atenienses",
+      "audio_filename": "aristoteles_30_l03_c54_cena01_constituicao_atenienses.m4a",
+      "status": "created",
+      "created_at": "2026-09-14T19:01:52Z"
+    },
+    "06_politica/02_constituicao_atenienses/L03-C55_cena01": {
+      "artifact_id": "86e171e3-de22-4ffe-baca-1ab7710b33c9",
+      "audio_title": "aristoteles_30_l03_c55_cena01_constituicao_atenienses",
+      "audio_filename": "aristoteles_30_l03_c55_cena01_constituicao_atenienses.m4a",
+      "status": "created",
+      "created_at": "2026-09-14T19:04:00Z"
+    },
+    "06_politica/02_constituicao_atenienses/L03-C56_cena01": {
+      "artifact_id": "030fc83b-72e5-457e-aca9-f5c7fc25e246",
+      "audio_title": "aristoteles_30_l03_c56_cena01_constituicao_atenienses",
+      "audio_filename": "aristoteles_30_l03_c56_cena01_constituicao_atenienses.m4a",
+      "status": "created",
+      "created_at": "2026-09-14T19:06:04Z"
+    },
+    "06_politica/02_constituicao_atenienses/L03-C57_cena01": {
+      "artifact_id": "2eeece5c-fc0e-4784-9974-b7f9024b0cd4",
+      "audio_title": "aristoteles_30_l03_c57_cena01_constituicao_atenienses",
+      "audio_filename": "aristoteles_30_l03_c57_cena01_constituicao_atenienses.m4a",
+      "status": "created",
+      "created_at": "2026-09-14T19:08:09Z"
+    },
+    "06_politica/02_constituicao_atenienses/L03-C58_cena01": {
+      "artifact_id": "ab7193d0-42ef-492e-9c95-82c1baba5eb1",
+      "audio_title": "aristoteles_30_l03_c58_cena01_constituicao_atenienses",
+      "audio_filename": "aristoteles_30_l03_c58_cena01_constituicao_atenienses.m4a",
+      "status": "created",
+      "created_at": "2026-09-14T19:10:13Z"
+    },
+    "06_politica/02_constituicao_atenienses/L03-C59_cena01": {
+      "artifact_id": "2c16741f-5658-4156-80a5-249f85f11b63",
+      "audio_title": "aristoteles_30_l03_c59_cena01_constituicao_atenienses",
+      "audio_filename": "aristoteles_30_l03_c59_cena01_constituicao_atenienses.m4a",
+      "status": "created",
+      "created_at": "2026-09-14T19:12:17Z"
+    },
+    "06_politica/02_constituicao_atenienses/L03-C60_cena01": {
+      "artifact_id": "a72fa5ec-fc00-478d-af23-6063889e86f8",
+      "audio_title": "aristoteles_30_l03_c60_cena01_constituicao_atenienses",
+      "audio_filename": "aristoteles_30_l03_c60_cena01_constituicao_atenienses.m4a",
+      "status": "created",
+      "created_at": "2026-09-14T19:14:21Z"
+    },
+    "06_politica/02_constituicao_atenienses/L03-C61_cena01": {
+      "artifact_id": "48640e7c-f0fa-4251-95c1-f64006045bfe",
+      "audio_title": "aristoteles_30_l03_c61_cena01_constituicao_atenienses",
+      "audio_filename": "aristoteles_30_l03_c61_cena01_constituicao_atenienses.m4a",
+      "status": "created",
+      "created_at": "2026-09-14T19:16:24Z"
+    },
+    "06_politica/02_constituicao_atenienses/L03-C62_cena01": {
+      "artifact_id": "81ed1865-9c16-474b-bc80-122518496749",
+      "audio_title": "aristoteles_30_l03_c62_cena01_constituicao_atenienses",
+      "audio_filename": "aristoteles_30_l03_c62_cena01_constituicao_atenienses.m4a",
+      "status": "created",
+      "created_at": "2026-09-14T19:18:28Z"
+    },
+    "06_politica/02_constituicao_atenienses/L03-C63_cena01": {
+      "artifact_id": "f62d117c-ab4d-4595-8456-56c9378406ae",
+      "audio_title": "aristoteles_30_l03_c63_cena01_constituicao_atenienses",
+      "audio_filename": "aristoteles_30_l03_c63_cena01_constituicao_atenienses.m4a",
+      "status": "created",
+      "created_at": "2026-09-14T19:20:36Z"
+    },
+    "06_politica/02_constituicao_atenienses/L03-C64_cena01": {
+      "artifact_id": "84c705e5-1f47-465d-88b9-9beeefc1fdd1",
+      "audio_title": "aristoteles_30_l03_c64_cena01_constituicao_atenienses",
+      "audio_filename": "aristoteles_30_l03_c64_cena01_constituicao_atenienses.m4a",
+      "status": "created",
+      "created_at": "2026-09-14T19:22:44Z"
+    },
+    "06_politica/02_constituicao_atenienses/L03-C65_cena01": {
+      "artifact_id": "24db9e87-f5fe-4d9e-a2ca-599ba0f0e470",
+      "audio_title": "aristoteles_30_l03_c65_cena01_constituicao_atenienses",
+      "audio_filename": "aristoteles_30_l03_c65_cena01_constituicao_atenienses.m4a",
+      "status": "created",
+      "created_at": "2026-09-14T19:24:51Z"
+    },
+    "06_politica/02_constituicao_atenienses/L03-C66_cena01": {
+      "artifact_id": "15a8c4bd-bd38-44fa-b40e-0d09f5051c7c",
+      "audio_title": "aristoteles_30_l03_c66_cena01_constituicao_atenienses",
+      "audio_filename": "aristoteles_30_l03_c66_cena01_constituicao_atenienses.m4a",
+      "status": "created",
+      "created_at": "2026-09-14T19:26:58Z"
+    },
+    "06_politica/02_constituicao_atenienses/L03-C67_cena01": {
+      "artifact_id": "68669279-5056-4020-82ce-23c36a538e5f",
+      "audio_title": "aristoteles_30_l03_c67_cena01_constituicao_atenienses",
+      "audio_filename": "aristoteles_30_l03_c67_cena01_constituicao_atenienses.m4a",
+      "status": "created",
+      "created_at": "2026-09-14T19:29:05Z"
+    },
+    "06_politica/02_constituicao_atenienses/L03-C68_cena01": {
+      "artifact_id": "44a1ae1c-4f23-48ad-9915-2028aaf9ba70",
+      "audio_title": "aristoteles_30_l03_c68_cena01_constituicao_atenienses",
+      "audio_filename": "aristoteles_30_l03_c68_cena01_constituicao_atenienses.m4a",
+      "status": "created",
+      "created_at": "2026-09-14T19:31:09Z"
+    },
+    "06_politica/02_constituicao_atenienses/L03-C69_cena01": {
+      "artifact_id": "9d93cc4a-0131-431c-8c34-46410c94cca7",
+      "audio_title": "aristoteles_30_l03_c69_cena01_constituicao_atenienses",
+      "audio_filename": "aristoteles_30_l03_c69_cena01_constituicao_atenienses.m4a",
+      "status": "created",
+      "created_at": "2026-09-14T19:33:13Z"
+    },
+    "05_etica/02_etica_eudemo/L01-C01_cena01": {
+      "artifact_id": "8627b148-90dc-4f8a-a995-3e8b91c3b07c",
+      "audio_title": "aristoteles_26_l01_c01_cena01_etica_eudemo",
+      "audio_filename": "aristoteles_26_l01_c01_cena01_etica_eudemo.m4a",
+      "status": "created",
+      "created_at": "2026-09-14T19:35:18Z"
+    },
+    "05_etica/02_etica_eudemo/L01-C02_cena01": {
+      "artifact_id": "964c4c2d-4359-4366-8f3d-38e6de258f6e",
+      "audio_title": "aristoteles_26_l01_c02_cena01_etica_eudemo",
+      "audio_filename": "aristoteles_26_l01_c02_cena01_etica_eudemo.m4a",
+      "status": "created",
+      "created_at": "2026-09-14T19:37:22Z"
+    },
+    "05_etica/02_etica_eudemo/L01-C03_cena01": {
+      "artifact_id": "1a12ce6c-f21a-4835-bd68-12368fd1f58d",
+      "audio_title": "aristoteles_26_l01_c03_cena01_etica_eudemo",
+      "audio_filename": "aristoteles_26_l01_c03_cena01_etica_eudemo.m4a",
+      "status": "created",
+      "created_at": "2026-09-14T19:39:29Z"
+    },
+    "05_etica/02_etica_eudemo/L01-C04_cena01": {
+      "artifact_id": "f4f49b73-d973-44c0-b306-735093f1724d",
+      "audio_title": "aristoteles_26_l01_c04_cena01_etica_eudemo",
+      "audio_filename": "aristoteles_26_l01_c04_cena01_etica_eudemo.m4a",
+      "status": "created",
+      "created_at": "2026-09-14T19:41:33Z"
     }
   },
   "substituidos": {
