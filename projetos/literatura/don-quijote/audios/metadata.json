@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-13T21:06:29.689088",
+  "atualizado": "2026-09-13T22:01:54.837596",
   "audios": [
     {
       "seq_global": 1,
@@ -2586,8 +2586,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-13T21:00:09.501938",
-      "status": "created",
-      "artifact_id": "43e12b8e-65f4-4dd4-afb1-988578774fef"
+      "status": "downloaded",
+      "artifact_id": "43e12b8e-65f4-4dd4-afb1-988578774fef",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/199_cap-063_cena-002_La-confesion-enamorado-de-oidas.m4a",
+      "tamanho_bytes": 20872350
     },
     {
       "seq_global": 200,
@@ -2597,8 +2599,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-13T21:02:14.387979",
-      "status": "created",
-      "artifact_id": "d1175d45-1132-43fd-b1a9-15fb63b5d350"
+      "status": "downloaded",
+      "artifact_id": "d1175d45-1132-43fd-b1a9-15fb63b5d350",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/200_cap-063_cena-003_El-labrador-y-la-fuga-al-amanecer.m4a",
+      "tamanho_bytes": 35356004
     },
     {
       "seq_global": 201,
@@ -2608,8 +2612,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-13T21:04:19.493289",
-      "status": "created",
-      "artifact_id": "3d42f11c-dc14-420e-9015-faf81872fdbb"
+      "status": "downloaded",
+      "artifact_id": "3d42f11c-dc14-420e-9015-faf81872fdbb",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/201_cap-064_cena-001_El-soliloquio-de-Sancho-la-mentira-que-se-justifica-a-si-misma.m4a",
+      "tamanho_bytes": 23288454
     },
     {
       "seq_global": 202,
@@ -2618,7 +2624,7 @@
       "cap": 64,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-13T21:06:29.687252",
+      "data": "2026-09-13T22:01:54.834487",
       "status": "deferred"
     }
   ]
