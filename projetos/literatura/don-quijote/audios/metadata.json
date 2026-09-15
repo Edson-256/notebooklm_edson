@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-14T21:06:41.358237",
+  "atualizado": "2026-09-14T22:02:26.400327",
   "audios": [
     {
       "seq_global": 1,
@@ -2625,8 +2625,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-14T21:00:14.926988",
-      "status": "created",
-      "artifact_id": "8b824dc4-23c8-4c89-bf97-7e14555b7154"
+      "status": "downloaded",
+      "artifact_id": "8b824dc4-23c8-4c89-bf97-7e14555b7154",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/202_cap-064_cena-002_Tres-labradoras-contra-un-caballero-de-rodillas.m4a",
+      "tamanho_bytes": 17821148
     },
     {
       "seq_global": 203,
@@ -2636,8 +2638,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-14T21:02:24.567154",
-      "status": "created",
-      "artifact_id": "f694b8f0-5361-4d62-a01d-e974650cfed8"
+      "status": "downloaded",
+      "artifact_id": "f694b8f0-5361-4d62-a01d-e974650cfed8",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/203_cap-064_cena-003_El-olor-a-ajos-y-el-lunar-con-siete-pelos-idealizar-lo-perdido.m4a",
+      "tamanho_bytes": 33652843
     },
     {
       "seq_global": 204,
@@ -2647,8 +2651,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-14T21:04:30.549546",
-      "status": "created",
-      "artifact_id": "eaddb5a4-aa4e-44d0-98cf-a1ca47d2042f"
+      "status": "downloaded",
+      "artifact_id": "eaddb5a4-aa4e-44d0-98cf-a1ca47d2042f",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/204_cap-065_cena-001_Los-ojos-de-esmeralda-la-fabrica-del-autoengano.m4a",
+      "tamanho_bytes": 35400863
     },
     {
       "seq_global": 205,
@@ -2657,7 +2663,7 @@
       "cap": 65,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-14T21:06:41.354673",
+      "data": "2026-09-14T22:02:26.397786",
       "status": "deferred"
     }
   ]
