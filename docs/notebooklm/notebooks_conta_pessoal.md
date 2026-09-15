@@ -48,6 +48,7 @@
 | 38 | Tratado Técnico e Jurídico da Perícia Médica Brasileira | 31 | `e5f0fdb9-3a07-4218-bf91-c8defc6ddfee` | [Abrir](https://notebooklm.google.com/notebook/e5f0fdb9-3a07-4218-bf91-c8defc6ddfee) |
 | 39 | William Shakespeare | 45 | `62400b1d-e3bd-45d2-8428-d2d8d6b7128d` | [Abrir](https://notebooklm.google.com/notebook/62400b1d-e3bd-45d2-8428-d2d8d6b7128d) |
 | 40 | (sem título) | 0 | `ff1c3a37-7dba-4ac3-874b-8930fd72b35e` | [Abrir](https://notebooklm.google.com/notebook/ff1c3a37-7dba-4ac3-874b-8930fd72b35e) |
+| 41 | Perícia Médica — Biblioteca de Referência (84 livros, criado 2026-09-14) | 157 | `1af19855-4523-4ba9-8837-343f474a2a83` | [Abrir](https://notebooklm.google.com/notebook/1af19855-4523-4ba9-8837-343f474a2a83) |
 
 ---
 

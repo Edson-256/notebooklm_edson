@@ -1,0 +1,1104 @@
+{
+  "notebook_id": "1af19855-4523-4ba9-8837-343f474a2a83",
+  "titulo": "Perícia Médica — Biblioteca de Referência",
+  "fontes": [
+    {
+      "titulo": "Perícia médica e Direito · Código de Processo Civil Comentado, 7ª ed. 2021 (Marinoni, Arenhart, Mitidiero) (parte 1/2)",
+      "source_id": "34ba0dc0-99c7-4614-888e-88f524a9d04e",
+      "slug": "codigo-de-processo-civil-comentado-guilherme-marinoni-sergio-cruz-arenhart-daniel-mitidiero-7-ed-2021-guilherme-marinoni-sergio-cruz-arenhart-etc",
+      "grupo": "Perícia médica e Direito",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/codigo-de-processo-civil-comentado-guilherme-marinoni-sergio-cruz-arenhart-daniel-mitidiero-7-ed-2021-guilherme-marinoni-sergio-cruz-arenhart-etc/output/Código de Processo Civil Comentado. Guilherme Marinoni, Sérgio Cruz Arenhart, Daniel Mitidiero. 7. Ed. 2021. (Guilherme Marinoni, Sérgio Cruz Arenhart etc.)__parte1de2.md"
+    },
+    {
+      "titulo": "Perícia médica e Direito · Código de Processo Civil Comentado, 7ª ed. 2021 (Marinoni, Arenhart, Mitidiero) (parte 2/2)",
+      "source_id": "2fcbe66b-a3d5-476d-a2a4-ed95fc0c5d73",
+      "slug": "codigo-de-processo-civil-comentado-guilherme-marinoni-sergio-cruz-arenhart-daniel-mitidiero-7-ed-2021-guilherme-marinoni-sergio-cruz-arenhart-etc",
+      "grupo": "Perícia médica e Direito",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/codigo-de-processo-civil-comentado-guilherme-marinoni-sergio-cruz-arenhart-daniel-mitidiero-7-ed-2021-guilherme-marinoni-sergio-cruz-arenhart-etc/output/Código de Processo Civil Comentado. Guilherme Marinoni, Sérgio Cruz Arenhart, Daniel Mitidiero. 7. Ed. 2021. (Guilherme Marinoni, Sérgio Cruz Arenhart etc.)__parte2de2.md"
+    },
+    {
+      "titulo": "Perícia médica e Direito · Perícia Médica Previdenciária (Vinicius Nunes Silva)",
+      "source_id": "c3f6cc48-f93c-4117-b7d4-49ce6c009f97",
+      "slug": "pericia-medica-previdenciaria-vinicius-nunes-silva",
+      "grupo": "Perícia médica e Direito",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/pericia-medica-previdenciaria-vinicius-nunes-silva/output/Perícia Médica Previdenciária (Vinicius Nunes Silva).md"
+    },
+    {
+      "titulo": "Perícia médica e Direito · Perícia Médica Previdenciária: benefícios por incapacidade (Trezub, Patsis)",
+      "source_id": "ef82d687-1115-4999-a5cf-19243b400f39",
+      "slug": "pericia-medica-previdenciaria-beneficios-por-incapacidade-claudio-jose-trezubketi-stylianos-patsis",
+      "grupo": "Perícia médica e Direito",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/pericia-medica-previdenciaria-beneficios-por-incapacidade-claudio-jose-trezubketi-stylianos-patsis/output/Perícia Médica Previdenciária benefícios por incapacidade (Cláudio José TrezubKeti Stylianos Patsis).md"
+    },
+    {
+      "titulo": "Perícia médica e Direito · Perícia Médica — Consulta Rápida",
+      "source_id": "ae3a5d57-7505-42a1-8182-89c7999b2c96",
+      "slug": "pericia-medica-consulta-rapida-etc",
+      "grupo": "Perícia médica e Direito",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/pericia-medica-consulta-rapida-etc/output/Perícia Médica - Consulta Rápida ( etc.).md"
+    },
+    {
+      "titulo": "Perícia médica e Direito · Perícias Médicas: Teoria e Prática (Epiphanio)",
+      "source_id": "cdff514f-b029-4579-b509-af7db1946544",
+      "slug": "pericias-medicas-teoria-e-pratica-emilio-bicalho-epiphanio-etc",
+      "grupo": "Perícia médica e Direito",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/pericias-medicas-teoria-e-pratica-emilio-bicalho-epiphanio-etc/output/Perícias Médicas Teoria e Prática (Emilio Bicalho Epiphanio etc.) .md"
+    },
+    {
+      "titulo": "Medicina legal e forense · Gradwohl's Legal Medicine [inglês] (parte 1/2)",
+      "source_id": "172c89c7-d77d-46cd-b5b8-2274b6311c9c",
+      "slug": "gradwohls-legal-medicine-gradwohl-etc",
+      "grupo": "Medicina legal e forense",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/gradwohls-legal-medicine-gradwohl-etc/output/Gradwohls Legal medicine (Gradwohl etc.)__parte1de2.md"
+    },
+    {
+      "titulo": "Medicina legal e forense · Gradwohl's Legal Medicine [inglês] (parte 2/2)",
+      "source_id": "bab2a20e-ab68-4a58-ac58-96e122058003",
+      "slug": "gradwohls-legal-medicine-gradwohl-etc",
+      "grupo": "Medicina legal e forense",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/gradwohls-legal-medicine-gradwohl-etc/output/Gradwohls Legal medicine (Gradwohl etc.)__parte2de2.md"
+    },
+    {
+      "titulo": "Medicina legal e forense · Knight's Forensic Pathology [inglês] (parte 1/2)",
+      "source_id": "0b6616e7-c996-43a6-b35a-4239ff63ff3a",
+      "slug": "knights-forensic-pathology-stefan-pollak-pekka-saukko-bernard-knight",
+      "grupo": "Medicina legal e forense",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/knights-forensic-pathology-stefan-pollak-pekka-saukko-bernard-knight/output/Knights Forensic Pathology (Stefan Pollak, Pekka Saukko, Bernard Knight)__parte1de2.md"
+    },
+    {
+      "titulo": "Medicina legal e forense · Knight's Forensic Pathology [inglês] (parte 2/2)",
+      "source_id": "54cd52d7-796a-4dee-9758-fa05fff7010c",
+      "slug": "knights-forensic-pathology-stefan-pollak-pekka-saukko-bernard-knight",
+      "grupo": "Medicina legal e forense",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/knights-forensic-pathology-stefan-pollak-pekka-saukko-bernard-knight/output/Knights Forensic Pathology (Stefan Pollak, Pekka Saukko, Bernard Knight)__parte2de2.md"
+    },
+    {
+      "titulo": "Medicina legal e forense · Manual de Entomologia Forense (Scaglia)",
+      "source_id": "baef48a4-0731-4745-8252-5384559b5861",
+      "slug": "manual-de-entomologia-forense-jorge-a-paulete-scaglia-scaglia-etc",
+      "grupo": "Medicina legal e forense",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/manual-de-entomologia-forense-jorge-a-paulete-scaglia-scaglia-etc/output/Manual de Entomologia Forense (Jorge A Paulete Scaglia [Scaglia etc.).md"
+    },
+    {
+      "titulo": "Medicina legal e forense · Manual de Medicina Legal (Delton Croce Jr.) — versão EPUB",
+      "source_id": "583e4722-dd49-4bb2-b84d-d8468c4f0c88",
+      "slug": "manual-de-medicina-legal-delton-croce-junior",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/manual-de-medicina-legal-delton-croce-junior/output/Manual de Medicina Legal (Delton Croce Junior)__parte1de1.md"
+    },
+    {
+      "titulo": "Medicina legal e forense · Manual de Medicina Legal (Delton Croce Jr.) — versão PDF",
+      "source_id": "a08be8f9-b66a-4141-8361-0d493e6cad93",
+      "slug": "manual-de-medicina-legal-delton-croce-junior-2",
+      "grupo": "Medicina legal e forense",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/manual-de-medicina-legal-delton-croce-junior-2/output/Manual de Medicina Legal (Delton Croce Junior).md"
+    },
+    {
+      "titulo": "Medicina legal e forense · Medicina Legal I (Del-Campo)",
+      "source_id": "371eea0f-9d94-49bc-a124-71449963ef4d",
+      "slug": "medicina-legal-i-eduardo-roberto-alcantara-del-campo",
+      "grupo": "Medicina legal e forense",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/medicina-legal-i-eduardo-roberto-alcantara-del-campo/output/Medicina Legal I (Eduardo Roberto Alcântara Del-Campo).md"
+    },
+    {
+      "titulo": "Medicina legal e forense · Medicina Legal II (Del-Campo)",
+      "source_id": "5315c5a4-ffde-4a0d-bed4-e9a23131137a",
+      "slug": "medicina-legal-ii-eduardo-roberto-alcantara-del-campo",
+      "grupo": "Medicina legal e forense",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/medicina-legal-ii-eduardo-roberto-alcantara-del-campo/output/Medicina Legal II (Eduardo Roberto Alcântara Del-Campo).md"
+    },
+    {
+      "titulo": "Medicina legal e forense · Medicina Legal, 11ª ed. (Genival Veloso de França) (parte 1/2)",
+      "source_id": "a4133789-71c0-41ea-a57f-1c202897035c",
+      "slug": "medicina-legal-11a-edicao-genival-veloso-de-franca",
+      "grupo": "Medicina legal e forense",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/medicina-legal-11a-edicao-genival-veloso-de-franca/output/Medicina Legal, 11ª edição (Genival Veloso de França)__parte1de2.md"
+    },
+    {
+      "titulo": "Medicina legal e forense · Medicina Legal, 11ª ed. (Genival Veloso de França) (parte 2/2)",
+      "source_id": "255c62c6-40d0-4dbe-8a3f-8ccf87756831",
+      "slug": "medicina-legal-11a-edicao-genival-veloso-de-franca",
+      "grupo": "Medicina legal e forense",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/medicina-legal-11a-edicao-genival-veloso-de-franca/output/Medicina Legal, 11ª edição (Genival Veloso de França)__parte2de2.md"
+    },
+    {
+      "titulo": "Medicina legal e forense · Modi: A Textbook of Medical Jurisprudence and Toxicology [inglês] (parte 1/3)",
+      "source_id": "715c2185-12a5-4491-8fdc-b376c9c2d0e9",
+      "slug": "a-textbook-of-medical-jurisprudence-and-toxicology-modi",
+      "grupo": "Medicina legal e forense",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/a-textbook-of-medical-jurisprudence-and-toxicology-modi/output/A Textbook of Medical Jurisprudence and Toxicology (Modi)__parte1de3.md"
+    },
+    {
+      "titulo": "Medicina legal e forense · Modi: A Textbook of Medical Jurisprudence and Toxicology [inglês] (parte 2/3)",
+      "source_id": "64aff538-3e18-4c05-a8b6-7049c846578b",
+      "slug": "a-textbook-of-medical-jurisprudence-and-toxicology-modi",
+      "grupo": "Medicina legal e forense",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/a-textbook-of-medical-jurisprudence-and-toxicology-modi/output/A Textbook of Medical Jurisprudence and Toxicology (Modi)__parte2de3.md"
+    },
+    {
+      "titulo": "Medicina legal e forense · Modi: A Textbook of Medical Jurisprudence and Toxicology [inglês] (parte 3/3)",
+      "source_id": "ab0e7199-0661-464a-92c5-ec5672c0a08e",
+      "slug": "a-textbook-of-medical-jurisprudence-and-toxicology-modi",
+      "grupo": "Medicina legal e forense",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/a-textbook-of-medical-jurisprudence-and-toxicology-modi/output/A Textbook of Medical Jurisprudence and Toxicology (Modi)__parte3de3.md"
+    },
+    {
+      "titulo": "Medicina legal e forense · Modi: A Textbook of Medical Jurisprudence and Toxicology, 26ª ed. [inglês] (parte 1/2)",
+      "source_id": "f4c62b4d-14a6-46b6-9634-a06e4954177c",
+      "slug": "modi-a-textbook-of-medical-jurisprudence-and-toxicology-26th-edition",
+      "grupo": "Medicina legal e forense",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/modi-a-textbook-of-medical-jurisprudence-and-toxicology-26th-edition/output/Modi A Textbook Of Medical Jurisprudence And Toxicology 26th Edition__parte1de2.md"
+    },
+    {
+      "titulo": "Medicina legal e forense · Modi: A Textbook of Medical Jurisprudence and Toxicology, 26ª ed. [inglês] (parte 2/2)",
+      "source_id": "3bae4010-9384-429f-b5f2-2fc2d77c27ad",
+      "slug": "modi-a-textbook-of-medical-jurisprudence-and-toxicology-26th-edition",
+      "grupo": "Medicina legal e forense",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/modi-a-textbook-of-medical-jurisprudence-and-toxicology-26th-edition/output/Modi A Textbook Of Medical Jurisprudence And Toxicology 26th Edition__parte2de2.md"
+    },
+    {
+      "titulo": "Medicina legal e forense · Odontologia Legal e Antropologia Forense (Vanrell)",
+      "source_id": "fad718f8-d286-4ecc-b157-f07a29b590a1",
+      "slug": "odontologia-legal-antropologia-forense-jorge-paulete-vanrell",
+      "grupo": "Medicina legal e forense",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/odontologia-legal-antropologia-forense-jorge-paulete-vanrell/output/Odontologia Legal  Antropologia Forense (Jorge Paulete Vanrell).md"
+    },
+    {
+      "titulo": "Medicina legal e forense · Parikh's Textbook of Medical Jurisprudence, Forensic Medicine and Toxicology [inglês]",
+      "source_id": "fef32a85-2154-4da7-9c6f-dc3ef134d2bf",
+      "slug": "parikhs-textbook-of-medical-jurisprudence-forensic-medicine-and-toxicology-for-classrooms-and-courtrooms",
+      "grupo": "Medicina legal e forense",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/parikhs-textbook-of-medical-jurisprudence-forensic-medicine-and-toxicology-for-classrooms-and-courtrooms/output/Parikh’s Textbook of Medical Jurisprudence, Forensic Medicine and Toxicology for Classrooms and Courtrooms.md"
+    },
+    {
+      "titulo": "Medicina legal e forense · Simpson's Forensic Medicine (Payne-James, Jones) [inglês]",
+      "source_id": "a1b25a64-8ef0-43d4-8442-8c9f2e38a45c",
+      "slug": "simpsons-forensic-medicine-jason-payne-james-richard-jones",
+      "grupo": "Medicina legal e forense",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/simpsons-forensic-medicine-jason-payne-james-richard-jones/output/Simpson’s Forensic Medicine (Jason Payne-James, Richard Jones).md"
+    },
+    {
+      "titulo": "Medicina legal e forense · Simpson's Forensic Medicine, 13ª ed. [inglês]",
+      "source_id": "5b623ec9-27fe-47e1-8851-bb56519a8a7a",
+      "slug": "simpsons-forensic-medicine-thirteenth-edition-cliona-mcgovern-jason-payne-james-etc",
+      "grupo": "Medicina legal e forense",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/simpsons-forensic-medicine-thirteenth-edition-cliona-mcgovern-jason-payne-james-etc/output/Simpsons Forensic Medicine (Thirteenth Edition) (Cliona McGovern, Jason Payne-James etc.).md"
+    },
+    {
+      "titulo": "Medicina legal e forense · Spitz and Fisher's Medicolegal Investigation of Death [inglês]",
+      "source_id": "77064366-a84a-4fed-b549-6b577b74ec23",
+      "slug": "spitz-and-fishers-medicolegal-investigation-of-death-guidelines-for-the-application-of-pathology-to-crime-investigation",
+      "grupo": "Medicina legal e forense",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/spitz-and-fishers-medicolegal-investigation-of-death-guidelines-for-the-application-of-pathology-to-crime-investigation/output/Spitz and Fishers Medicolegal Investigation of Death Guidelines for the Application of Pathology to Crime Investigation.md"
+    },
+    {
+      "titulo": "Medicina legal e forense · Spitz y Fisher: Investigación Médico-Legal de la Muerte [espanhol]",
+      "source_id": "e1573ea6-0aea-432a-89f1-0985992b5e75",
+      "slug": "spitz-y-fisher-investigacion-medico-legal-de-la-muerte-guia-para-la-aplicacion-de-la-patologia-a-la-investigacion-criminal",
+      "grupo": "Medicina legal e forense",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/spitz-y-fisher-investigacion-medico-legal-de-la-muerte-guia-para-la-aplicacion-de-la-patologia-a-la-investigacion-criminal/output/SPITZ y FISHER Investigación Médico-Legal de la Muerte. Guía para la Aplicación de la Patología a la Investigación Criminal..md"
+    },
+    {
+      "titulo": "Medicina legal e forense · Taylor's Principles and Practice of Medical Jurisprudence, vol. I [inglês]",
+      "source_id": "1eb00d33-6a20-4f67-88ac-f4d22786e969",
+      "slug": "taylors-principles-and-practice-of-medical-jurisprudence-volume-i",
+      "grupo": "Medicina legal e forense",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/taylors-principles-and-practice-of-medical-jurisprudence-volume-i/output/TAYLORS PRINCIPLES AND PRACTICE OF MEDICAL JURISPRUDENCE VOLUME I.md"
+    },
+    {
+      "titulo": "Medicina legal e forense · Taylor's Principles and Practice of Medical Jurisprudence, vol. II [inglês]",
+      "source_id": "b98f6735-97fa-40c7-a540-5a9600dad223",
+      "slug": "taylors-principles-and-practice-of-medical-jurisprudence-volume-ii",
+      "grupo": "Medicina legal e forense",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/taylors-principles-and-practice-of-medical-jurisprudence-volume-ii/output/TAYLORS PRINCIPLES AND PRACTICE OF MEDICAL JURISPRUDENCE VOLUME II .md"
+    },
+    {
+      "titulo": "Toxicologia e farmacologia · Casarett & Doull's Essentials of Toxicology [inglês]",
+      "source_id": "93f4dd29-b3c7-4752-8ea0-d3411e876d1c",
+      "slug": "casarett-doulls-essentials-of-toxicology",
+      "grupo": "Toxicologia e farmacologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/casarett-doulls-essentials-of-toxicology/output/Casarett  Doulls Essentials of Toxicology.md"
+    },
+    {
+      "titulo": "Toxicologia e farmacologia · Goodman & Gilman's Pharmacology [inglês] (parte 1/4)",
+      "source_id": "0826045c-a0b0-40aa-9d6a-f2b0c95743af",
+      "slug": "goodman-gilmans-phamacology",
+      "grupo": "Toxicologia e farmacologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/goodman-gilmans-phamacology/output/Goodman & Gilmans - Phamacology__parte1de4.md"
+    },
+    {
+      "titulo": "Toxicologia e farmacologia · Goodman & Gilman's Pharmacology [inglês] (parte 2/4)",
+      "source_id": "08d06214-4b0e-4b22-be7d-6f5a71c91f2a",
+      "slug": "goodman-gilmans-phamacology",
+      "grupo": "Toxicologia e farmacologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/goodman-gilmans-phamacology/output/Goodman & Gilmans - Phamacology__parte2de4.md"
+    },
+    {
+      "titulo": "Toxicologia e farmacologia · Goodman & Gilman's Pharmacology [inglês] (parte 3/4)",
+      "source_id": "d24663e6-91f9-451d-8495-91d67bf8e14f",
+      "slug": "goodman-gilmans-phamacology",
+      "grupo": "Toxicologia e farmacologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/goodman-gilmans-phamacology/output/Goodman & Gilmans - Phamacology__parte3de4.md"
+    },
+    {
+      "titulo": "Toxicologia e farmacologia · Goodman & Gilman's Pharmacology [inglês] (parte 4/4)",
+      "source_id": "88d4e442-78ca-4bb9-a5d1-e596cacb2883",
+      "slug": "goodman-gilmans-phamacology",
+      "grupo": "Toxicologia e farmacologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/goodman-gilmans-phamacology/output/Goodman & Gilmans - Phamacology__parte4de4.md"
+    },
+    {
+      "titulo": "Toxicologia e farmacologia · Handbook of Forensic Toxicology for Medical Examiners [inglês]",
+      "source_id": "2e96dbf5-c6ac-4f37-963b-bb3a0615ada2",
+      "slug": "handbook-of-forensic-toxicology-for-medical-examiners-practical-aspects-of-criminal-forensic-investigations",
+      "grupo": "Toxicologia e farmacologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/handbook-of-forensic-toxicology-for-medical-examiners-practical-aspects-of-criminal-forensic-investigations/output/Handbook of Forensic Toxicology for Medical Examiners (Practical Aspects of Criminal  Forensic Investigations).md"
+    },
+    {
+      "titulo": "Toxicologia e farmacologia · Katzung & Trevor's Pharmacology Examination and Board Review [inglês]",
+      "source_id": "e643a578-f2b7-4947-b499-f41f101406d9",
+      "slug": "katzung-trevors-pharmacology-examination-and-board-review",
+      "grupo": "Toxicologia e farmacologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/katzung-trevors-pharmacology-examination-and-board-review/output/Katzung  Trevors Pharmacology Examination and Board Review.md"
+    },
+    {
+      "titulo": "Medicina do trabalho · CURRENT Occupational & Environmental Medicine, 5ª ed. [inglês] (parte 1/2)",
+      "source_id": "88fc144d-bbb4-4dbf-a2c7-4c1487042cfc",
+      "slug": "current-occupational-environmental-medicine-fifth-edition",
+      "grupo": "Medicina do trabalho",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/current-occupational-environmental-medicine-fifth-edition/output/CURRENT Occupational  Environmental Medicine, Fifth Edition__parte1de2.md"
+    },
+    {
+      "titulo": "Medicina do trabalho · CURRENT Occupational & Environmental Medicine, 5ª ed. [inglês] (parte 2/2)",
+      "source_id": "3d234ee2-98ed-4ed7-8ddd-2f181cd4fcb1",
+      "slug": "current-occupational-environmental-medicine-fifth-edition",
+      "grupo": "Medicina do trabalho",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/current-occupational-environmental-medicine-fifth-edition/output/CURRENT Occupational  Environmental Medicine, Fifth Edition__parte2de2.md"
+    },
+    {
+      "titulo": "Medicina do trabalho · Fitting the Task to the Human: occupational ergonomics [inglês]",
+      "source_id": "5c5cdeb6-6125-483d-b63e-00b9b235c2a2",
+      "slug": "fitting-the-task-to-the-human-a-textbook-of-occupational-ergonomics",
+      "grupo": "Medicina do trabalho",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/fitting-the-task-to-the-human-a-textbook-of-occupational-ergonomics/output/Fitting the task to the human  a textbook of occupational ergonomics.md"
+    },
+    {
+      "titulo": "Medicina do trabalho · Hunter's Diseases of Occupations [inglês] (parte 1/3)",
+      "source_id": "b7e642d5-cb6b-44c9-a458-794d2363aefb",
+      "slug": "hunters-diseases-of-occupations",
+      "grupo": "Medicina do trabalho",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/hunters-diseases-of-occupations/output/Hunters Diseases of Occupations__parte1de3.md"
+    },
+    {
+      "titulo": "Medicina do trabalho · Hunter's Diseases of Occupations [inglês] (parte 2/3)",
+      "source_id": "e3efe694-d62c-4b67-a40b-9a9d6360e86d",
+      "slug": "hunters-diseases-of-occupations",
+      "grupo": "Medicina do trabalho",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/hunters-diseases-of-occupations/output/Hunters Diseases of Occupations__parte2de3.md"
+    },
+    {
+      "titulo": "Medicina do trabalho · Hunter's Diseases of Occupations [inglês] (parte 3/3)",
+      "source_id": "6914427d-732c-4d90-98b8-8556b179ab9e",
+      "slug": "hunters-diseases-of-occupations",
+      "grupo": "Medicina do trabalho",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/hunters-diseases-of-occupations/output/Hunters Diseases of Occupations__parte3de3.md"
+    },
+    {
+      "titulo": "Medicina do trabalho · Textbook of Clinical Occupational and Environmental Medicine [inglês] (parte 1/3)",
+      "source_id": "baf409b6-7b3a-4d80-972a-8e44103d098a",
+      "slug": "textbook-of-clinical-occupational-and-environmental-medicine",
+      "grupo": "Medicina do trabalho",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/textbook-of-clinical-occupational-and-environmental-medicine/output/Textbook of Clinical Occupational and Environmental Medicine__parte1de3.md"
+    },
+    {
+      "titulo": "Medicina do trabalho · Textbook of Clinical Occupational and Environmental Medicine [inglês] (parte 2/3)",
+      "source_id": "f48683e2-5433-47ee-9881-e5aa61d394d5",
+      "slug": "textbook-of-clinical-occupational-and-environmental-medicine",
+      "grupo": "Medicina do trabalho",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/textbook-of-clinical-occupational-and-environmental-medicine/output/Textbook of Clinical Occupational and Environmental Medicine__parte2de3.md"
+    },
+    {
+      "titulo": "Medicina do trabalho · Textbook of Clinical Occupational and Environmental Medicine [inglês] (parte 3/3)",
+      "source_id": "f8baa6be-150a-47d1-8f44-364a5e210fd4",
+      "slug": "textbook-of-clinical-occupational-and-environmental-medicine",
+      "grupo": "Medicina do trabalho",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/textbook-of-clinical-occupational-and-environmental-medicine/output/Textbook of Clinical Occupational and Environmental Medicine__parte3de3.md"
+    },
+    {
+      "titulo": "Ortopedia, exame físico e reabilitação · Apley and Solomon's Concise System of Orthopaedics and Trauma [inglês]",
+      "source_id": "6d2e5ba5-1ab0-4785-b6da-03f4e5edd5d7",
+      "slug": "apley-and-solomons-concise-system-of-orthopaedics-and-trauma",
+      "grupo": "Ortopedia, exame físico e reabilitação",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/apley-and-solomons-concise-system-of-orthopaedics-and-trauma/output/Apley and Solomons Concise System of Orthopaedics and Trauma.md"
+    },
+    {
+      "titulo": "Ortopedia, exame físico e reabilitação · Basic Biomechanics of the Musculoskeletal System [inglês]",
+      "source_id": "83ed6c9d-4e51-4b8f-b271-75f6d01d1d07",
+      "slug": "basic-biomechanics-of-the-musculoskeletal-system",
+      "grupo": "Ortopedia, exame físico e reabilitação",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/basic-biomechanics-of-the-musculoskeletal-system/output/Basic biomechanics of the musculoskeletal system.md"
+    },
+    {
+      "titulo": "Ortopedia, exame físico e reabilitação · Clinical Assessment and Examination in Orthopedics (Rex) [inglês]",
+      "source_id": "c8168992-7bbd-41bc-ae47-793a32c77d55",
+      "slug": "clinical-assessment-and-examination-in-orthopedics-c-rex",
+      "grupo": "Ortopedia, exame físico e reabilitação",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/clinical-assessment-and-examination-in-orthopedics-c-rex/output/Clinical Assessment and Examination in Orthopedics (C Rex).md"
+    },
+    {
+      "titulo": "Ortopedia, exame físico e reabilitação · Clinical Orthopaedic Examination (McRae) [inglês]",
+      "source_id": "3ce5b8aa-d630-4701-b4b6-68926b2ff1ec",
+      "slug": "clinical-orthopaedic-examination-ronald-mcrae",
+      "grupo": "Ortopedia, exame físico e reabilitação",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/clinical-orthopaedic-examination-ronald-mcrae/output/Clinical Orthopaedic Examination (Ronald McRae).md"
+    },
+    {
+      "titulo": "Ortopedia, exame físico e reabilitação · Daniels y Worthingham: Técnicas de Balance Muscular, 9ª ed. [espanhol]",
+      "source_id": "d566647e-06d6-49d8-8a86-616c90c04081",
+      "slug": "daniels-y-worthingham-tecnicas-de-balance-muscular-9-ed",
+      "grupo": "Ortopedia, exame físico e reabilitação",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/daniels-y-worthingham-tecnicas-de-balance-muscular-9-ed/output/Daniels y Worthingham, Técnicas de balance muscular (9 ed).md"
+    },
+    {
+      "titulo": "Ortopedia, exame físico e reabilitação · Kinesiology of the Musculoskeletal System (Neumann) [inglês] (parte 1/2)",
+      "source_id": "f0ccb462-d7b2-43dc-a5bc-27f8419c93af",
+      "slug": "kinesiology-of-the-musculoskeletal-system-foundations-for-rehabilitation",
+      "grupo": "Ortopedia, exame físico e reabilitação",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/kinesiology-of-the-musculoskeletal-system-foundations-for-rehabilitation/output/Kinesiology of the Musculoskeletal System Foundations for Rehabilitation__parte1de2.md"
+    },
+    {
+      "titulo": "Ortopedia, exame físico e reabilitação · Kinesiology of the Musculoskeletal System (Neumann) [inglês] (parte 2/2)",
+      "source_id": "5aaa7d9e-2325-4d6c-8299-5ad367600ab8",
+      "slug": "kinesiology-of-the-musculoskeletal-system-foundations-for-rehabilitation",
+      "grupo": "Ortopedia, exame físico e reabilitação",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/kinesiology-of-the-musculoskeletal-system-foundations-for-rehabilitation/output/Kinesiology of the Musculoskeletal System Foundations for Rehabilitation__parte2de2.md"
+    },
+    {
+      "titulo": "Ortopedia, exame físico e reabilitação · Muscles: Testing and Function with Posture and Pain, 5ª ed. (Kendall) [inglês]",
+      "source_id": "75bb5e41-0272-4729-81ed-70dc63558f9c",
+      "slug": "muscles-testing-and-function-with-posture-and-pain-5th-edition",
+      "grupo": "Ortopedia, exame físico e reabilitação",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/muscles-testing-and-function-with-posture-and-pain-5th-edition/output/Muscles testing and function with posture and pain 5th Edition.md"
+    },
+    {
+      "titulo": "Ortopedia, exame físico e reabilitação · Orthopedic Physical Assessment (Magee) [inglês] (parte 1/2)",
+      "source_id": "d316c5b3-06d5-4d85-a11c-629d03436b5c",
+      "slug": "orthopedic-physical-assessment",
+      "grupo": "Ortopedia, exame físico e reabilitação",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/orthopedic-physical-assessment/output/Orthopedic Physical Assessment__parte1de2.md"
+    },
+    {
+      "titulo": "Ortopedia, exame físico e reabilitação · Orthopedic Physical Assessment (Magee) [inglês] (parte 2/2)",
+      "source_id": "fb623efd-96ea-4e1d-a33e-cf43f3d79963",
+      "slug": "orthopedic-physical-assessment",
+      "grupo": "Ortopedia, exame físico e reabilitação",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/orthopedic-physical-assessment/output/Orthopedic Physical Assessment__parte2de2.md"
+    },
+    {
+      "titulo": "Ortopedia, exame físico e reabilitação · Physical Medicine and Rehabilitation, 3ª ed. (Braddom) [inglês] (parte 1/3)",
+      "source_id": "66f08c5b-3766-483d-9050-8ba51ea82dc1",
+      "slug": "physical-medicine-and-rehabilitation-third-edition-randall-l-braddom",
+      "grupo": "Ortopedia, exame físico e reabilitação",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/physical-medicine-and-rehabilitation-third-edition-randall-l-braddom/output/Physical medicine and rehabilitation Third edition (Randall L. Braddom)__parte1de3.md"
+    },
+    {
+      "titulo": "Ortopedia, exame físico e reabilitação · Physical Medicine and Rehabilitation, 3ª ed. (Braddom) [inglês] (parte 2/3)",
+      "source_id": "24c99fb0-0796-4814-816b-cc2a680cf3e8",
+      "slug": "physical-medicine-and-rehabilitation-third-edition-randall-l-braddom",
+      "grupo": "Ortopedia, exame físico e reabilitação",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/physical-medicine-and-rehabilitation-third-edition-randall-l-braddom/output/Physical medicine and rehabilitation Third edition (Randall L. Braddom)__parte2de3.md"
+    },
+    {
+      "titulo": "Ortopedia, exame físico e reabilitação · Physical Medicine and Rehabilitation, 3ª ed. (Braddom) [inglês] (parte 3/3)",
+      "source_id": "d9c8194a-a3d7-40c3-a781-7ad087068be3",
+      "slug": "physical-medicine-and-rehabilitation-third-edition-randall-l-braddom",
+      "grupo": "Ortopedia, exame físico e reabilitação",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/physical-medicine-and-rehabilitation-third-edition-randall-l-braddom/output/Physical medicine and rehabilitation Third edition (Randall L. Braddom)__parte3de3.md"
+    },
+    {
+      "titulo": "Ortopedia, exame físico e reabilitação · Physical Medicine and Rehabilitation: Principles and Practice [inglês] (parte 1/3)",
+      "source_id": "f6485ab4-3cc9-4a7e-b891-f06f0d364da1",
+      "slug": "physical-medicine-and-rehabilitation-principles-and-practice",
+      "grupo": "Ortopedia, exame físico e reabilitação",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/physical-medicine-and-rehabilitation-principles-and-practice/output/Physical medicine and rehabilitation  principles and practice__parte1de3.md"
+    },
+    {
+      "titulo": "Ortopedia, exame físico e reabilitação · Physical Medicine and Rehabilitation: Principles and Practice [inglês] (parte 2/3)",
+      "source_id": "9c11dafd-2aad-47d7-85dd-f62017505c4a",
+      "slug": "physical-medicine-and-rehabilitation-principles-and-practice",
+      "grupo": "Ortopedia, exame físico e reabilitação",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/physical-medicine-and-rehabilitation-principles-and-practice/output/Physical medicine and rehabilitation  principles and practice__parte2de3.md"
+    },
+    {
+      "titulo": "Ortopedia, exame físico e reabilitação · Physical Medicine and Rehabilitation: Principles and Practice [inglês] (parte 3/3)",
+      "source_id": "06c2be8f-5cdf-4add-a4c4-888816240e52",
+      "slug": "physical-medicine-and-rehabilitation-principles-and-practice",
+      "grupo": "Ortopedia, exame físico e reabilitação",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/physical-medicine-and-rehabilitation-principles-and-practice/output/Physical medicine and rehabilitation  principles and practice__parte3de3.md"
+    },
+    {
+      "titulo": "Ortopedia, exame físico e reabilitação · The Orthopaedic Clinical Examination (Reider) [inglês]",
+      "source_id": "398374e7-003b-4035-83e0-403fa022f89a",
+      "slug": "the-orthopaedic-clinical-examination-reider",
+      "grupo": "Ortopedia, exame físico e reabilitação",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/the-orthopaedic-clinical-examination-reider/output/The Orthopaedic Clinical Examination (Reider).md"
+    },
+    {
+      "titulo": "Neurologia e neuropsicologia · A Compendium of Neuropsychological Tests [inglês] (parte 1/2)",
+      "source_id": "82a947bb-b959-46c4-a5ea-7a42bf2d2507",
+      "slug": "a-compendium-of-neuropsychological-tests-administration-norms-and-commentary",
+      "grupo": "Neurologia e neuropsicologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/a-compendium-of-neuropsychological-tests-administration-norms-and-commentary/output/A compendium of neuropsychological tests  administration, norms, and commentary__parte1de2.md"
+    },
+    {
+      "titulo": "Neurologia e neuropsicologia · A Compendium of Neuropsychological Tests [inglês] (parte 2/2)",
+      "source_id": "82fd04df-e159-4452-acd6-90725068ac96",
+      "slug": "a-compendium-of-neuropsychological-tests-administration-norms-and-commentary",
+      "grupo": "Neurologia e neuropsicologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/a-compendium-of-neuropsychological-tests-administration-norms-and-commentary/output/A compendium of neuropsychological tests  administration, norms, and commentary__parte2de2.md"
+    },
+    {
+      "titulo": "Neurologia e neuropsicologia · Adams y Victor: Principios de Neurología, 11ª ed. [espanhol] (parte 1/4)",
+      "source_id": "9ab84642-fcfe-4d04-8fe5-29132460df71",
+      "slug": "adams-y-victor-principios-de-neurologia-11a-edicion",
+      "grupo": "Neurologia e neuropsicologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/adams-y-victor-principios-de-neurologia-11a-edicion/output/Adams y Victor Principios de Neurología 11ª Edición.reconstruido__parte1de4.md"
+    },
+    {
+      "titulo": "Neurologia e neuropsicologia · Adams y Victor: Principios de Neurología, 11ª ed. [espanhol] (parte 2/4)",
+      "source_id": "d09a3a05-97b9-4eb4-ac2b-5928854628fa",
+      "slug": "adams-y-victor-principios-de-neurologia-11a-edicion",
+      "grupo": "Neurologia e neuropsicologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/adams-y-victor-principios-de-neurologia-11a-edicion/output/Adams y Victor Principios de Neurología 11ª Edición.reconstruido__parte2de4.md"
+    },
+    {
+      "titulo": "Neurologia e neuropsicologia · Adams y Victor: Principios de Neurología, 11ª ed. [espanhol] (parte 3/4)",
+      "source_id": "47f32887-460f-411a-9ec6-8f4437bc4ee0",
+      "slug": "adams-y-victor-principios-de-neurologia-11a-edicion",
+      "grupo": "Neurologia e neuropsicologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/adams-y-victor-principios-de-neurologia-11a-edicion/output/Adams y Victor Principios de Neurología 11ª Edición.reconstruido__parte3de4.md"
+    },
+    {
+      "titulo": "Neurologia e neuropsicologia · Adams y Victor: Principios de Neurología, 11ª ed. [espanhol] (parte 4/4)",
+      "source_id": "c9507922-f4c1-462f-b57a-3513cae9bd6f",
+      "slug": "adams-y-victor-principios-de-neurologia-11a-edicion",
+      "grupo": "Neurologia e neuropsicologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/adams-y-victor-principios-de-neurologia-11a-edicion/output/Adams y Victor Principios de Neurología 11ª Edición.reconstruido__parte4de4.md"
+    },
+    {
+      "titulo": "Neurologia e neuropsicologia · DeJong: O Exame Neurológico (parte 1/2)",
+      "source_id": "3db1edc2-46c9-4297-b879-21c846a35bce",
+      "slug": "dejong-o-exame-neurologico",
+      "grupo": "Neurologia e neuropsicologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/dejong-o-exame-neurologico/output/DeJong - O Exame Neurológico__parte1de2.md"
+    },
+    {
+      "titulo": "Neurologia e neuropsicologia · DeJong: O Exame Neurológico (parte 2/2)",
+      "source_id": "66309630-abf3-42c0-a5de-591204e9809d",
+      "slug": "dejong-o-exame-neurologico",
+      "grupo": "Neurologia e neuropsicologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/dejong-o-exame-neurologico/output/DeJong - O Exame Neurológico__parte2de2.md"
+    },
+    {
+      "titulo": "Neurologia e neuropsicologia · Neuroanatomy through Clinical Cases, 3ª ed. (Blumenfeld) [inglês] (parte 1/2)",
+      "source_id": "ec0d38d3-f4df-4d14-99be-75e03ee78287",
+      "slug": "neuroanatomy-through-clinical-cases-3e",
+      "grupo": "Neurologia e neuropsicologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/neuroanatomy-through-clinical-cases-3e/output/Neuroanatomy through Clinical Cases, 3e__parte1de2.md"
+    },
+    {
+      "titulo": "Neurologia e neuropsicologia · Neuroanatomy through Clinical Cases, 3ª ed. (Blumenfeld) [inglês] (parte 2/2)",
+      "source_id": "26a28585-6397-4a8b-be48-fd3a74f6d76a",
+      "slug": "neuroanatomy-through-clinical-cases-3e",
+      "grupo": "Neurologia e neuropsicologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/neuroanatomy-through-clinical-cases-3e/output/Neuroanatomy through Clinical Cases, 3e__parte2de2.md"
+    },
+    {
+      "titulo": "Neurologia e neuropsicologia · Neuropsychological Assessment (Lezak) [inglês] (parte 1/3)",
+      "source_id": "c6366003-1a78-453a-b79e-2cafe4cd38c1",
+      "slug": "neuropsychological-assessment",
+      "grupo": "Neurologia e neuropsicologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/neuropsychological-assessment/output/Neuropsychological Assessment__parte1de3.md"
+    },
+    {
+      "titulo": "Neurologia e neuropsicologia · Neuropsychological Assessment (Lezak) [inglês] (parte 2/3)",
+      "source_id": "af93cb4e-2fcb-4c1b-b355-06326acaa148",
+      "slug": "neuropsychological-assessment",
+      "grupo": "Neurologia e neuropsicologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/neuropsychological-assessment/output/Neuropsychological Assessment__parte2de3.md"
+    },
+    {
+      "titulo": "Neurologia e neuropsicologia · Neuropsychological Assessment (Lezak) [inglês] (parte 3/3)",
+      "source_id": "8569f161-eb24-49f8-89b1-b63f8ef58b6b",
+      "slug": "neuropsychological-assessment",
+      "grupo": "Neurologia e neuropsicologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/neuropsychological-assessment/output/Neuropsychological Assessment__parte3de3.md"
+    },
+    {
+      "titulo": "Psiquiatria · DSM-5 Handbook of Differential Diagnosis (First) [inglês]",
+      "source_id": "965a96be-01d3-47c3-b634-4173a7541483",
+      "slug": "dsm-5-r-handbook-of-differential-diagnosi-first-michael-b",
+      "grupo": "Psiquiatria",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/dsm-5-r-handbook-of-differential-diagnosi-first-michael-b/output/DSM-5(r) Handbook of Differential Diagnosi - First, Michael B.;.md"
+    },
+    {
+      "titulo": "Psiquiatria · Fish's Clinical Psychopathology, 5ª ed. [inglês]",
+      "source_id": "f37575cf-3c4d-47c5-9867-17e266d7672f",
+      "slug": "fishs-clinical-psychopathology-signs-and-symptoms-in-psychiatry-fifth-edition",
+      "grupo": "Psiquiatria",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/fishs-clinical-psychopathology-signs-and-symptoms-in-psychiatry-fifth-edition/output/Fishs Clinical Psychopathology Signs and Symptoms in Psychiatry (Fifth Edition).md"
+    },
+    {
+      "titulo": "Psiquiatria · Kaplan & Sadock's Comprehensive Textbook of Psychiatry [inglês] (parte 1/13)",
+      "source_id": "0ab7e6c1-be52-4313-8442-156f9e3a4f77",
+      "slug": "kaplan-sadocks-comprehensive-textbook-o-sadock",
+      "grupo": "Psiquiatria",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/kaplan-sadocks-comprehensive-textbook-o-sadock/output/Kaplan & Sadock's Comprehensive Textbook o - Sadock__parte1de13.md"
+    },
+    {
+      "titulo": "Psiquiatria · Kaplan & Sadock's Comprehensive Textbook of Psychiatry [inglês] (parte 10/13)",
+      "source_id": "7fcfe458-99ce-4661-8f12-5aa5f4535407",
+      "slug": "kaplan-sadocks-comprehensive-textbook-o-sadock",
+      "grupo": "Psiquiatria",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/kaplan-sadocks-comprehensive-textbook-o-sadock/output/Kaplan & Sadock's Comprehensive Textbook o - Sadock__parte10de13.md"
+    },
+    {
+      "titulo": "Psiquiatria · Kaplan & Sadock's Comprehensive Textbook of Psychiatry [inglês] (parte 11/13)",
+      "source_id": "83c7f037-9671-48fb-b5f1-e376d279436b",
+      "slug": "kaplan-sadocks-comprehensive-textbook-o-sadock",
+      "grupo": "Psiquiatria",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/kaplan-sadocks-comprehensive-textbook-o-sadock/output/Kaplan & Sadock's Comprehensive Textbook o - Sadock__parte11de13.md"
+    },
+    {
+      "titulo": "Psiquiatria · Kaplan & Sadock's Comprehensive Textbook of Psychiatry [inglês] (parte 12/13)",
+      "source_id": "b120b43e-6f43-4948-b381-c799308f2314",
+      "slug": "kaplan-sadocks-comprehensive-textbook-o-sadock",
+      "grupo": "Psiquiatria",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/kaplan-sadocks-comprehensive-textbook-o-sadock/output/Kaplan & Sadock's Comprehensive Textbook o - Sadock__parte12de13.md"
+    },
+    {
+      "titulo": "Psiquiatria · Kaplan & Sadock's Comprehensive Textbook of Psychiatry [inglês] (parte 13/13)",
+      "source_id": "6ca11122-5c71-4171-9b57-3c22d3bc190e",
+      "slug": "kaplan-sadocks-comprehensive-textbook-o-sadock",
+      "grupo": "Psiquiatria",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/kaplan-sadocks-comprehensive-textbook-o-sadock/output/Kaplan & Sadock's Comprehensive Textbook o - Sadock__parte13de13.md"
+    },
+    {
+      "titulo": "Psiquiatria · Kaplan & Sadock's Comprehensive Textbook of Psychiatry [inglês] (parte 2/13)",
+      "source_id": "b1a67466-b2a8-4af3-9c8b-f432879a95e9",
+      "slug": "kaplan-sadocks-comprehensive-textbook-o-sadock",
+      "grupo": "Psiquiatria",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/kaplan-sadocks-comprehensive-textbook-o-sadock/output/Kaplan & Sadock's Comprehensive Textbook o - Sadock__parte2de13.md"
+    },
+    {
+      "titulo": "Psiquiatria · Kaplan & Sadock's Comprehensive Textbook of Psychiatry [inglês] (parte 3/13)",
+      "source_id": "90acd0ac-1b54-48cb-8b88-773de004f925",
+      "slug": "kaplan-sadocks-comprehensive-textbook-o-sadock",
+      "grupo": "Psiquiatria",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/kaplan-sadocks-comprehensive-textbook-o-sadock/output/Kaplan & Sadock's Comprehensive Textbook o - Sadock__parte3de13.md"
+    },
+    {
+      "titulo": "Psiquiatria · Kaplan & Sadock's Comprehensive Textbook of Psychiatry [inglês] (parte 4/13)",
+      "source_id": "ff31cc97-6a3a-43f8-95e4-fcbad7747f24",
+      "slug": "kaplan-sadocks-comprehensive-textbook-o-sadock",
+      "grupo": "Psiquiatria",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/kaplan-sadocks-comprehensive-textbook-o-sadock/output/Kaplan & Sadock's Comprehensive Textbook o - Sadock__parte4de13.md"
+    },
+    {
+      "titulo": "Psiquiatria · Kaplan & Sadock's Comprehensive Textbook of Psychiatry [inglês] (parte 5/13)",
+      "source_id": "9b3a9fe1-1226-43d2-a361-a7679f408890",
+      "slug": "kaplan-sadocks-comprehensive-textbook-o-sadock",
+      "grupo": "Psiquiatria",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/kaplan-sadocks-comprehensive-textbook-o-sadock/output/Kaplan & Sadock's Comprehensive Textbook o - Sadock__parte5de13.md"
+    },
+    {
+      "titulo": "Psiquiatria · Kaplan & Sadock's Comprehensive Textbook of Psychiatry [inglês] (parte 6/13)",
+      "source_id": "9e346e9a-ddd5-421e-9aec-2492074d4f52",
+      "slug": "kaplan-sadocks-comprehensive-textbook-o-sadock",
+      "grupo": "Psiquiatria",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/kaplan-sadocks-comprehensive-textbook-o-sadock/output/Kaplan & Sadock's Comprehensive Textbook o - Sadock__parte6de13.md"
+    },
+    {
+      "titulo": "Psiquiatria · Kaplan & Sadock's Comprehensive Textbook of Psychiatry [inglês] (parte 7/13)",
+      "source_id": "ba4dbaf5-070f-4758-93d7-48cc727702a7",
+      "slug": "kaplan-sadocks-comprehensive-textbook-o-sadock",
+      "grupo": "Psiquiatria",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/kaplan-sadocks-comprehensive-textbook-o-sadock/output/Kaplan & Sadock's Comprehensive Textbook o - Sadock__parte7de13.md"
+    },
+    {
+      "titulo": "Psiquiatria · Kaplan & Sadock's Comprehensive Textbook of Psychiatry [inglês] (parte 8/13)",
+      "source_id": "8f0c636f-8bb0-41a5-924a-e84efbb2bf88",
+      "slug": "kaplan-sadocks-comprehensive-textbook-o-sadock",
+      "grupo": "Psiquiatria",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/kaplan-sadocks-comprehensive-textbook-o-sadock/output/Kaplan & Sadock's Comprehensive Textbook o - Sadock__parte8de13.md"
+    },
+    {
+      "titulo": "Psiquiatria · Kaplan & Sadock's Comprehensive Textbook of Psychiatry [inglês] (parte 9/13)",
+      "source_id": "a56ad3a6-be7f-4e83-820f-1b5cb039dd51",
+      "slug": "kaplan-sadocks-comprehensive-textbook-o-sadock",
+      "grupo": "Psiquiatria",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/kaplan-sadocks-comprehensive-textbook-o-sadock/output/Kaplan & Sadock's Comprehensive Textbook o - Sadock__parte9de13.md"
+    },
+    {
+      "titulo": "Dor · Bonica's Management of Pain [inglês] (parte 1/5)",
+      "source_id": "6b02b9ad-41d5-428d-9176-dc98ab0b0236",
+      "slug": "bonicas-management-of-pain",
+      "grupo": "Dor",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/bonicas-management-of-pain/output/Bonica’s Management of Pain__parte1de5.md"
+    },
+    {
+      "titulo": "Dor · Bonica's Management of Pain [inglês] (parte 2/5)",
+      "source_id": "a7cc2d12-dc90-4b76-8636-a4b49416dd79",
+      "slug": "bonicas-management-of-pain",
+      "grupo": "Dor",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/bonicas-management-of-pain/output/Bonica’s Management of Pain__parte2de5.md"
+    },
+    {
+      "titulo": "Dor · Bonica's Management of Pain [inglês] (parte 3/5)",
+      "source_id": "8038c898-e450-4e17-90f4-21ee08e310bb",
+      "slug": "bonicas-management-of-pain",
+      "grupo": "Dor",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/bonicas-management-of-pain/output/Bonica’s Management of Pain__parte3de5.md"
+    },
+    {
+      "titulo": "Dor · Bonica's Management of Pain [inglês] (parte 4/5)",
+      "source_id": "52ca535e-460f-407c-b609-126c935ccec3",
+      "slug": "bonicas-management-of-pain",
+      "grupo": "Dor",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/bonicas-management-of-pain/output/Bonica’s Management of Pain__parte4de5.md"
+    },
+    {
+      "titulo": "Dor · Bonica's Management of Pain [inglês] (parte 5/5)",
+      "source_id": "c54fd509-28fb-4d17-a48c-a2b113b98f3d",
+      "slug": "bonicas-management-of-pain",
+      "grupo": "Dor",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/bonicas-management-of-pain/output/Bonica’s Management of Pain__parte5de5.md"
+    },
+    {
+      "titulo": "Dor · Explain Pain (Butler, Moseley) [inglês]",
+      "source_id": "ce7ed4d3-252c-45ec-9587-d43dca2d648b",
+      "slug": "explain-pain-david-butler",
+      "grupo": "Dor",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/explain-pain-david-butler/output/Explain Pain (David Butler.md"
+    },
+    {
+      "titulo": "Dor · Handbook of Pain Management [inglês] (parte 1/2)",
+      "source_id": "0e0e3c88-7286-45b7-9bd7-fab04413d179",
+      "slug": "handbook-of-pain-management-a-clinical-companion-to-wall-and-melzacks-textbook-of-pain",
+      "grupo": "Dor",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/handbook-of-pain-management-a-clinical-companion-to-wall-and-melzacks-textbook-of-pain/output/Handbook of Pain Management. A Clinical Companion to Wall and Melzacks textbook of pain__parte1de2.md"
+    },
+    {
+      "titulo": "Dor · Handbook of Pain Management [inglês] (parte 2/2)",
+      "source_id": "0f3bb17f-8b14-4848-b4c4-c35cc95019e8",
+      "slug": "handbook-of-pain-management-a-clinical-companion-to-wall-and-melzacks-textbook-of-pain",
+      "grupo": "Dor",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/handbook-of-pain-management-a-clinical-companion-to-wall-and-melzacks-textbook-of-pain/output/Handbook of Pain Management. A Clinical Companion to Wall and Melzacks textbook of pain__parte2de2.md"
+    },
+    {
+      "titulo": "Dor · Wall and Melzack's Textbook of Pain [inglês] (parte 1/4)",
+      "source_id": "8c1356ff-9434-4b84-a687-ead284d76cca",
+      "slug": "wall-and-melzacks-textbook-of-pain",
+      "grupo": "Dor",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/wall-and-melzacks-textbook-of-pain/output/Wall and Melzacks Textbook of Pain__parte1de4.md"
+    },
+    {
+      "titulo": "Dor · Wall and Melzack's Textbook of Pain [inglês] (parte 2/4)",
+      "source_id": "e47f89fb-53ed-4233-8296-b7f75a429cd9",
+      "slug": "wall-and-melzacks-textbook-of-pain",
+      "grupo": "Dor",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/wall-and-melzacks-textbook-of-pain/output/Wall and Melzacks Textbook of Pain__parte2de4.md"
+    },
+    {
+      "titulo": "Dor · Wall and Melzack's Textbook of Pain [inglês] (parte 3/4)",
+      "source_id": "ef6c754c-935b-4b14-957a-e9281d40060e",
+      "slug": "wall-and-melzacks-textbook-of-pain",
+      "grupo": "Dor",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/wall-and-melzacks-textbook-of-pain/output/Wall and Melzacks Textbook of Pain__parte3de4.md"
+    },
+    {
+      "titulo": "Dor · Wall and Melzack's Textbook of Pain [inglês] (parte 4/4)",
+      "source_id": "38ada775-e74a-42e5-a22a-1607f9176671",
+      "slug": "wall-and-melzacks-textbook-of-pain",
+      "grupo": "Dor",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/wall-and-melzacks-textbook-of-pain/output/Wall and Melzacks Textbook of Pain__parte4de4.md"
+    },
+    {
+      "titulo": "Dor · Wall y Melzack: Tratado del Dolor [espanhol] (parte 1/4)",
+      "source_id": "69125ff5-291d-4012-8cba-18595254aa53",
+      "slug": "wall-y-melzack-tratado-del-dolor",
+      "grupo": "Dor",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/wall-y-melzack-tratado-del-dolor/output/Wall Y Melzack. Tratado Del Dolor__parte1de4.md"
+    },
+    {
+      "titulo": "Dor · Wall y Melzack: Tratado del Dolor [espanhol] (parte 2/4)",
+      "source_id": "4bb9382e-f929-4888-9ef3-aba1af2f165a",
+      "slug": "wall-y-melzack-tratado-del-dolor",
+      "grupo": "Dor",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/wall-y-melzack-tratado-del-dolor/output/Wall Y Melzack. Tratado Del Dolor__parte2de4.md"
+    },
+    {
+      "titulo": "Dor · Wall y Melzack: Tratado del Dolor [espanhol] (parte 3/4)",
+      "source_id": "bf223482-813a-4f27-b330-adaeb3f683b7",
+      "slug": "wall-y-melzack-tratado-del-dolor",
+      "grupo": "Dor",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/wall-y-melzack-tratado-del-dolor/output/Wall Y Melzack. Tratado Del Dolor__parte3de4.md"
+    },
+    {
+      "titulo": "Dor · Wall y Melzack: Tratado del Dolor [espanhol] (parte 4/4)",
+      "source_id": "3ddb723a-1489-4186-9891-a4747f0b0649",
+      "slug": "wall-y-melzack-tratado-del-dolor",
+      "grupo": "Dor",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/wall-y-melzack-tratado-del-dolor/output/Wall Y Melzack. Tratado Del Dolor__parte4de4.md"
+    },
+    {
+      "titulo": "Semiologia · Macleod's Clinical Examination [inglês]",
+      "source_id": "c02def3e-7c81-4154-b15e-a22d3521e096",
+      "slug": "macleods-clinical-examination-macleod",
+      "grupo": "Semiologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/macleods-clinical-examination-macleod/output/Macleods clinical examination (Macleod.md"
+    },
+    {
+      "titulo": "Semiologia · Oxford Handbook of Clinical Examination and Practical Skills [inglês]",
+      "source_id": "2164283e-f90f-4861-8109-619c80a976ce",
+      "slug": "oxford-handbook-of-clinical-examination-and-practical-skills",
+      "grupo": "Semiologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/oxford-handbook-of-clinical-examination-and-practical-skills/output/Oxford Handbook of Clinical Examination and Practical Skills.md"
+    },
+    {
+      "titulo": "Semiologia · Sapira's Art and Science of Bedside Diagnosis [inglês] (parte 1/2)",
+      "source_id": "f1f2a538-baf9-4074-9497-2d993621c7d7",
+      "slug": "art-and-science-of-bedside-diagnosis-sapira",
+      "grupo": "Semiologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/art-and-science-of-bedside-diagnosis-sapira/output/Art and Science of Bedside Diagnosis (Sapira)__parte1de2.md"
+    },
+    {
+      "titulo": "Semiologia · Sapira's Art and Science of Bedside Diagnosis [inglês] (parte 2/2)",
+      "source_id": "97b57352-1b4f-40b6-9557-dcb56bde65b8",
+      "slug": "art-and-science-of-bedside-diagnosis-sapira",
+      "grupo": "Semiologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/art-and-science-of-bedside-diagnosis-sapira/output/Art and Science of Bedside Diagnosis (Sapira)__parte2de2.md"
+    },
+    {
+      "titulo": "Radiologia · Diagnosis of Bone and Joint Disorders (Resnick) [inglês] (parte 1/2)",
+      "source_id": "2e1ec4ea-32b4-4dc2-a2de-994b5c0e3058",
+      "slug": "diagnosis-of-bone-and-joint-disorders-resnick-donald",
+      "grupo": "Radiologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/diagnosis-of-bone-and-joint-disorders-resnick-donald/output/Diagnosis of bone and joint disorders (Resnick, Donald)__parte1de2.md"
+    },
+    {
+      "titulo": "Radiologia · Diagnosis of Bone and Joint Disorders (Resnick) [inglês] (parte 2/2)",
+      "source_id": "e8177766-2ecd-4ff6-ac3a-5e360684c340",
+      "slug": "diagnosis-of-bone-and-joint-disorders-resnick-donald",
+      "grupo": "Radiologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/diagnosis-of-bone-and-joint-disorders-resnick-donald/output/Diagnosis of bone and joint disorders (Resnick, Donald)__parte2de2.md"
+    },
+    {
+      "titulo": "Radiologia · Fundamentals of Diagnostic Radiology, 5ª ed. (Brant, Helms) [inglês] (parte 1/3)",
+      "source_id": "505d3874-96dc-4ba3-b61f-f5de3774ac66",
+      "slug": "fundamentals-of-diagnostic-radiology-all-4-volumes-brant-helms-5th-edition",
+      "grupo": "Radiologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/fundamentals-of-diagnostic-radiology-all-4-volumes-brant-helms-5th-edition/output/Fundamentals of Diagnostic Radiology all 4 volumes - Brant Helms - 5th Edition__parte1de3.md"
+    },
+    {
+      "titulo": "Radiologia · Fundamentals of Diagnostic Radiology, 5ª ed. (Brant, Helms) [inglês] (parte 2/3)",
+      "source_id": "0864f966-2c7f-41ff-9764-fce2b9e60fb6",
+      "slug": "fundamentals-of-diagnostic-radiology-all-4-volumes-brant-helms-5th-edition",
+      "grupo": "Radiologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/fundamentals-of-diagnostic-radiology-all-4-volumes-brant-helms-5th-edition/output/Fundamentals of Diagnostic Radiology all 4 volumes - Brant Helms - 5th Edition__parte2de3.md"
+    },
+    {
+      "titulo": "Radiologia · Fundamentals of Diagnostic Radiology, 5ª ed. (Brant, Helms) [inglês] (parte 3/3)",
+      "source_id": "c16c40a6-c47a-4b2d-9b0e-ffe7dfc3cff0",
+      "slug": "fundamentals-of-diagnostic-radiology-all-4-volumes-brant-helms-5th-edition",
+      "grupo": "Radiologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/fundamentals-of-diagnostic-radiology-all-4-volumes-brant-helms-5th-edition/output/Fundamentals of Diagnostic Radiology all 4 volumes - Brant Helms - 5th Edition__parte3de3.md"
+    },
+    {
+      "titulo": "Radiologia · Orthopedic Imaging, 6ª ed. (Greenspan, Beltran) [inglês] (parte 1/2)",
+      "source_id": "fb4aa12b-65f6-4b96-9f72-6daa0c99e614",
+      "slug": "orthopedic-imaging-6th-ed-greenspan-beltran",
+      "grupo": "Radiologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/orthopedic-imaging-6th-ed-greenspan-beltran/output/Orthopedic Imaging, 6th ed. (Greenspan  Beltran)__parte1de2.md"
+    },
+    {
+      "titulo": "Radiologia · Orthopedic Imaging, 6ª ed. (Greenspan, Beltran) [inglês] (parte 2/2)",
+      "source_id": "14e6a132-2c24-4c1b-a8dd-3d32c412c916",
+      "slug": "orthopedic-imaging-6th-ed-greenspan-beltran",
+      "grupo": "Radiologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/orthopedic-imaging-6th-ed-greenspan-beltran/output/Orthopedic Imaging, 6th ed. (Greenspan  Beltran)__parte2de2.md"
+    },
+    {
+      "titulo": "Patologia, imunologia e genética · Cellular and Molecular Immunology (Abbas) [inglês] (parte 1/2)",
+      "source_id": "4829b125-44b8-4245-bcf9-9d60501aa1f0",
+      "slug": "cellular-and-molecular-immunology",
+      "grupo": "Patologia, imunologia e genética",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/cellular-and-molecular-immunology/output/Cellular And Molecular Immunology__parte1de2.md"
+    },
+    {
+      "titulo": "Patologia, imunologia e genética · Cellular and Molecular Immunology (Abbas) [inglês] (parte 2/2)",
+      "source_id": "a21f2c30-a173-4a0d-8621-6a7692aa9b4b",
+      "slug": "cellular-and-molecular-immunology",
+      "grupo": "Patologia, imunologia e genética",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/cellular-and-molecular-immunology/output/Cellular And Molecular Immunology__parte2de2.md"
+    },
+    {
+      "titulo": "Patologia, imunologia e genética · Human Molecular Genetics (Strachan) [inglês] (parte 1/2)",
+      "source_id": "4684bb88-97a1-4a4b-a875-cba81864a64b",
+      "slug": "human-molecular-genetics",
+      "grupo": "Patologia, imunologia e genética",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/human-molecular-genetics/output/Human Molecular Genetics__parte1de2.md"
+    },
+    {
+      "titulo": "Patologia, imunologia e genética · Human Molecular Genetics (Strachan) [inglês] (parte 2/2)",
+      "source_id": "e8e5f6e1-a946-46f4-8ab1-5994b25820da",
+      "slug": "human-molecular-genetics",
+      "grupo": "Patologia, imunologia e genética",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/human-molecular-genetics/output/Human Molecular Genetics__parte2de2.md"
+    },
+    {
+      "titulo": "Patologia, imunologia e genética · McCance & Huether's Pathophysiology [inglês] (parte 1/4)",
+      "source_id": "7493c967-5da8-4d3d-8ebf-5adb1985dc07",
+      "slug": "mccance-huethers-pathophysiology-the-biologic-basis-for-disease-in-adults-and-children",
+      "grupo": "Patologia, imunologia e genética",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/mccance-huethers-pathophysiology-the-biologic-basis-for-disease-in-adults-and-children/output/McCance  Huether’s Pathophysiology The Biologic Basis for Disease in Adults and Children__parte1de4.md"
+    },
+    {
+      "titulo": "Patologia, imunologia e genética · McCance & Huether's Pathophysiology [inglês] (parte 2/4)",
+      "source_id": "30de52db-06f0-4ab4-8ab7-94f2d031c960",
+      "slug": "mccance-huethers-pathophysiology-the-biologic-basis-for-disease-in-adults-and-children",
+      "grupo": "Patologia, imunologia e genética",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/mccance-huethers-pathophysiology-the-biologic-basis-for-disease-in-adults-and-children/output/McCance  Huether’s Pathophysiology The Biologic Basis for Disease in Adults and Children__parte2de4.md"
+    },
+    {
+      "titulo": "Patologia, imunologia e genética · McCance & Huether's Pathophysiology [inglês] (parte 3/4)",
+      "source_id": "e1759fca-3941-446d-9874-ca43806b9249",
+      "slug": "mccance-huethers-pathophysiology-the-biologic-basis-for-disease-in-adults-and-children",
+      "grupo": "Patologia, imunologia e genética",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/mccance-huethers-pathophysiology-the-biologic-basis-for-disease-in-adults-and-children/output/McCance  Huether’s Pathophysiology The Biologic Basis for Disease in Adults and Children__parte3de4.md"
+    },
+    {
+      "titulo": "Patologia, imunologia e genética · McCance & Huether's Pathophysiology [inglês] (parte 4/4)",
+      "source_id": "7310be10-a0fa-48a4-ad98-3e83351fbd56",
+      "slug": "mccance-huethers-pathophysiology-the-biologic-basis-for-disease-in-adults-and-children",
+      "grupo": "Patologia, imunologia e genética",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/mccance-huethers-pathophysiology-the-biologic-basis-for-disease-in-adults-and-children/output/McCance  Huether’s Pathophysiology The Biologic Basis for Disease in Adults and Children__parte4de4.md"
+    },
+    {
+      "titulo": "Patologia, imunologia e genética · Robbins & Cotran Pathologic Basis of Disease [inglês] (parte 1/3)",
+      "source_id": "0e62a8ec-8326-4747-8881-449ee87b3c01",
+      "slug": "robbins-cotran-kumar-pathologic-basis-of-disease",
+      "grupo": "Patologia, imunologia e genética",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/robbins-cotran-kumar-pathologic-basis-of-disease/output/Robbins, Cotran  Kumar Pathologic Basis of Disease__parte1de3.md"
+    },
+    {
+      "titulo": "Patologia, imunologia e genética · Robbins & Cotran Pathologic Basis of Disease [inglês] (parte 2/3)",
+      "source_id": "174f0dd7-f14f-46df-8cb3-94371286e952",
+      "slug": "robbins-cotran-kumar-pathologic-basis-of-disease",
+      "grupo": "Patologia, imunologia e genética",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/robbins-cotran-kumar-pathologic-basis-of-disease/output/Robbins, Cotran  Kumar Pathologic Basis of Disease__parte2de3.md"
+    },
+    {
+      "titulo": "Patologia, imunologia e genética · Robbins & Cotran Pathologic Basis of Disease [inglês] (parte 3/3)",
+      "source_id": "b521384a-31c9-44a6-820e-fc1184fde048",
+      "slug": "robbins-cotran-kumar-pathologic-basis-of-disease",
+      "grupo": "Patologia, imunologia e genética",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/robbins-cotran-kumar-pathologic-basis-of-disease/output/Robbins, Cotran  Kumar Pathologic Basis of Disease__parte3de3.md"
+    },
+    {
+      "titulo": "Patologia, imunologia e genética · Thompson & Thompson Genetics and Genomics in Medicine [inglês]",
+      "source_id": "1adf3b69-6440-4fd6-9daa-c0575db5445b",
+      "slug": "thompson-thompson-genetics-and-genomics-in-medicine",
+      "grupo": "Patologia, imunologia e genética",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/thompson-thompson-genetics-and-genomics-in-medicine/output/Thompson  Thompson Genetics and Genomics in Medicine.md"
+    },
+    {
+      "titulo": "Fisiologia · Berne & Levy Physiology [inglês] (parte 1/2)",
+      "source_id": "e2983874-4701-4338-81b5-c807500bf5ab",
+      "slug": "berne-levy-physiology",
+      "grupo": "Fisiologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/berne-levy-physiology/output/Berne  Levy Physiology__parte1de2.md"
+    },
+    {
+      "titulo": "Fisiologia · Berne & Levy Physiology [inglês] (parte 2/2)",
+      "source_id": "bbf08f63-5396-4b43-a8c1-f6073a824ba5",
+      "slug": "berne-levy-physiology",
+      "grupo": "Fisiologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/berne-levy-physiology/output/Berne  Levy Physiology__parte2de2.md"
+    },
+    {
+      "titulo": "Fisiologia · Best & Taylor's Physiological Basis of Medical Practice [inglês] (parte 1/3)",
+      "source_id": "334686b9-37ac-4879-8406-8d2fd2ff0f60",
+      "slug": "best-taylors-physiological-basis-of-medical-practice",
+      "grupo": "Fisiologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/best-taylors-physiological-basis-of-medical-practice/output/Best  Taylor’s Physiological Basis of Medical Practice__parte1de3.md"
+    },
+    {
+      "titulo": "Fisiologia · Best & Taylor's Physiological Basis of Medical Practice [inglês] (parte 2/3)",
+      "source_id": "d46faa9d-5079-4349-a8c0-52158ce1b7ae",
+      "slug": "best-taylors-physiological-basis-of-medical-practice",
+      "grupo": "Fisiologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/best-taylors-physiological-basis-of-medical-practice/output/Best  Taylor’s Physiological Basis of Medical Practice__parte2de3.md"
+    },
+    {
+      "titulo": "Fisiologia · Best & Taylor's Physiological Basis of Medical Practice [inglês] (parte 3/3)",
+      "source_id": "5b915854-a404-4752-87ff-17b32482b4b2",
+      "slug": "best-taylors-physiological-basis-of-medical-practice",
+      "grupo": "Fisiologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/best-taylors-physiological-basis-of-medical-practice/output/Best  Taylor’s Physiological Basis of Medical Practice__parte3de3.md"
+    },
+    {
+      "titulo": "Fisiologia · Boron y Boulpaep: Manual de Fisiología Médica [espanhol] (parte 1/2)",
+      "source_id": "a26040ed-ec42-4e07-a799-2f84c45c5fde",
+      "slug": "boron-y-boulpaep-manual-de-fisiologia-medica",
+      "grupo": "Fisiologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/boron-y-boulpaep-manual-de-fisiologia-medica/output/Boron y Boulpaep. Manual de fisiología médica__parte1de2.md"
+    },
+    {
+      "titulo": "Fisiologia · Boron y Boulpaep: Manual de Fisiología Médica [espanhol] (parte 2/2)",
+      "source_id": "40698341-cd73-47d0-aace-380f82eafa5b",
+      "slug": "boron-y-boulpaep-manual-de-fisiologia-medica",
+      "grupo": "Fisiologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/boron-y-boulpaep-manual-de-fisiologia-medica/output/Boron y Boulpaep. Manual de fisiología médica__parte2de2.md"
+    },
+    {
+      "titulo": "Fisiologia · Fisiología Renal de Vander [espanhol]",
+      "source_id": "c5279372-0526-4764-956c-7a8cd438a1d3",
+      "slug": "fisiologia-renal-de-vander",
+      "grupo": "Fisiologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/fisiologia-renal-de-vander/output/Fisiología Renal de Vander.md"
+    },
+    {
+      "titulo": "Fisiologia · Ganong's Review of Medical Physiology [inglês] (parte 1/2)",
+      "source_id": "54921de8-75af-43c2-a8c6-ed4f64304736",
+      "slug": "ganongs-review-of-medical-physiology",
+      "grupo": "Fisiologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/ganongs-review-of-medical-physiology/output/Ganongs Review of Medical Physiology__parte1de2.md"
+    },
+    {
+      "titulo": "Fisiologia · Ganong's Review of Medical Physiology [inglês] (parte 2/2)",
+      "source_id": "1e7a9ab0-862a-4285-81a7-ea8b8dbe20f4",
+      "slug": "ganongs-review-of-medical-physiology",
+      "grupo": "Fisiologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/ganongs-review-of-medical-physiology/output/Ganongs Review of Medical Physiology__parte2de2.md"
+    },
+    {
+      "titulo": "Fisiologia · Guyton and Hall Textbook of Medical Physiology [inglês] (parte 1/2)",
+      "source_id": "d58c312e-bdbc-4e61-ad67-1502159e01fb",
+      "slug": "guyton-and-hall-textbook-of-medical-physiology",
+      "grupo": "Fisiologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/guyton-and-hall-textbook-of-medical-physiology/output/Guyton and Hall Textbook of Medical Physiology__parte1de2.md"
+    },
+    {
+      "titulo": "Fisiologia · Guyton and Hall Textbook of Medical Physiology [inglês] (parte 2/2)",
+      "source_id": "9b44ac83-9ce8-4cf5-8c14-dfe129ba933d",
+      "slug": "guyton-and-hall-textbook-of-medical-physiology",
+      "grupo": "Fisiologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/guyton-and-hall-textbook-of-medical-physiology/output/Guyton and Hall Textbook of Medical Physiology__parte2de2.md"
+    },
+    {
+      "titulo": "Fisiologia · Samson Wright's Applied Physiology [inglês] (parte 1/2)",
+      "source_id": "04c6e613-eb8c-4bec-80ee-7bf11a7e694b",
+      "slug": "samson-wrights-applied-physiology-wright-samson-keele-etc",
+      "grupo": "Fisiologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/samson-wrights-applied-physiology-wright-samson-keele-etc/output/Samson Wrights Applied physiology (Wright, Samson, Keele etc.)__parte1de2.md"
+    },
+    {
+      "titulo": "Fisiologia · Samson Wright's Applied Physiology [inglês] (parte 2/2)",
+      "source_id": "0933ed33-7052-478c-8a5b-6a39928226ba",
+      "slug": "samson-wrights-applied-physiology-wright-samson-keele-etc",
+      "grupo": "Fisiologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/samson-wrights-applied-physiology-wright-samson-keele-etc/output/Samson Wrights Applied physiology (Wright, Samson, Keele etc.)__parte2de2.md"
+    },
+    {
+      "titulo": "Anatomia e histologia · Gray's Anatomy (ilustrações de Henry Carter) [inglês]",
+      "source_id": "3de9d2f7-bf8d-4a01-bdf6-127097f75b06",
+      "slug": "grays-anatomy-with-original-illustrations-by-henry-carter",
+      "grupo": "Anatomia e histologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/grays-anatomy-with-original-illustrations-by-henry-carter/output/Grays Anatomy With Original Illustrations by Henry Carter.md"
+    },
+    {
+      "titulo": "Anatomia e histologia · Histologia: Texto e Atlas (Ross) (parte 1/2)",
+      "source_id": "d683450b-b4ce-4590-b783-6153582f1ec0",
+      "slug": "histologia-texto-e-atlas-correlacoes-com-biologia-celular-e-molecular",
+      "grupo": "Anatomia e histologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/histologia-texto-e-atlas-correlacoes-com-biologia-celular-e-molecular/output/Histologia Texto e Atlas Correlações com Biologia Celular e Molecular__parte1de2.md"
+    },
+    {
+      "titulo": "Anatomia e histologia · Histologia: Texto e Atlas (Ross) (parte 2/2)",
+      "source_id": "8206b277-ce57-4b7a-9ee6-e5534f8000e1",
+      "slug": "histologia-texto-e-atlas-correlacoes-com-biologia-celular-e-molecular",
+      "grupo": "Anatomia e histologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/histologia-texto-e-atlas-correlacoes-com-biologia-celular-e-molecular/output/Histologia Texto e Atlas Correlações com Biologia Celular e Molecular__parte2de2.md"
+    },
+    {
+      "titulo": "Anatomia e histologia · Histology: A Text and Atlas (Ross) [inglês] (parte 1/2)",
+      "source_id": "a88d7d50-4a48-4248-8b51-d2826775b6ab",
+      "slug": "histology-a-text-and-atlas-with-correlated-cell-and-molecular-biology",
+      "grupo": "Anatomia e histologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/histology-a-text-and-atlas-with-correlated-cell-and-molecular-biology/output/Histology  a text and atlas  with correlated cell and molecular biology__parte1de2.md"
+    },
+    {
+      "titulo": "Anatomia e histologia · Histology: A Text and Atlas (Ross) [inglês] (parte 2/2)",
+      "source_id": "ce60148c-4bfc-4384-9043-90c51fbfda14",
+      "slug": "histology-a-text-and-atlas-with-correlated-cell-and-molecular-biology",
+      "grupo": "Anatomia e histologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/histology-a-text-and-atlas-with-correlated-cell-and-molecular-biology/output/Histology  a text and atlas  with correlated cell and molecular biology__parte2de2.md"
+    },
+    {
+      "titulo": "Anatomia e histologia · Junqueira's Basic Histology [inglês]",
+      "source_id": "b964362a-6da1-4126-8cc1-d962c2a8496b",
+      "slug": "junqueiras-basic-histology-anthony-l-mescher-phd",
+      "grupo": "Anatomia e histologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/junqueiras-basic-histology-anthony-l-mescher-phd/output/Junqueira's Basic Histology - Anthony L. Mescher, PhD.md"
+    },
+    {
+      "titulo": "Anatomia e histologia · Moore: Fundamentos de Anatomía con Orientación Clínica [espanhol]",
+      "source_id": "fcbb82f9-a797-40d4-80e8-0e09a2954ced",
+      "slug": "moore-fundamentos-de-anatomia-con-orientacion-clinica",
+      "grupo": "Anatomia e histologia",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/moore-fundamentos-de-anatomia-con-orientacion-clinica/output/Moore. Fundamentos de anatomía con orientación clínica.md"
+    },
+    {
+      "titulo": "Epidemiologia e metodologia científica · Clinical Epidemiology: The Essentials (Fletcher) [inglês]",
+      "source_id": "a978240b-d922-4af7-82d1-1714308a5ca8",
+      "slug": "clinical-epidemiology-the-essentials",
+      "grupo": "Epidemiologia e metodologia científica",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/clinical-epidemiology-the-essentials/output/Clinical epidemiology  the essentials.md"
+    },
+    {
+      "titulo": "Epidemiologia e metodologia científica · Cochrane Handbook for Systematic Reviews of Diagnostic Test Accuracy [inglês]",
+      "source_id": "00926cbf-0de1-4cad-b211-18a1d525d4b8",
+      "slug": "cochrane-handbook-for-systematic-reviews-of-diagnostic-test-accuracy",
+      "grupo": "Epidemiologia e metodologia científica",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/cochrane-handbook-for-systematic-reviews-of-diagnostic-test-accuracy/output/Cochrane Handbook for Systematic Reviews of Diagnostic Test Accuracy.md"
+    },
+    {
+      "titulo": "Epidemiologia e metodologia científica · Como Ler Artigos Científicos (Greenhalgh)",
+      "source_id": "5b2e6a35-3e58-4764-b79b-987a13a48de8",
+      "slug": "como-ler-artigos-cientificos",
+      "grupo": "Epidemiologia e metodologia científica",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/como-ler-artigos-cientificos/output/Como ler artigos científicos.md"
+    },
+    {
+      "titulo": "Epidemiologia e metodologia científica · Designing Clinical Research, 4ª ed. (Hulley) [inglês]",
+      "source_id": "1dca1dcd-b063-4ed0-9198-2300546ccb2e",
+      "slug": "designing-clinical-research-fourth-edition",
+      "grupo": "Epidemiologia e metodologia científica",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/designing-clinical-research-fourth-edition/output/DESIGNING CLINICAL RESEARCH FOURTH EDITION.md"
+    },
+    {
+      "titulo": "Epidemiologia e metodologia científica · Gordis Epidemiology [inglês]",
+      "source_id": "57fcdc70-99c7-482c-bd1e-35e2dfc6eef8",
+      "slug": "gordis-epidemiology",
+      "grupo": "Epidemiologia e metodologia científica",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/gordis-epidemiology/output/Gordis Epidemiology.md"
+    },
+    {
+      "titulo": "Epidemiologia e metodologia científica · Modern Epidemiology (Rothman, Greenland) [inglês]",
+      "source_id": "680f564c-a375-4d57-8db4-8abfcdcee161",
+      "slug": "modern-epidemiology",
+      "grupo": "Epidemiologia e metodologia científica",
+      "md": "/Users/edsonmichalkiewicz/dev/_ref/docling-projeto/projects/pericia/modern-epidemiology/output/Modern epidemiology.md"
+    }
+  ]
+}
