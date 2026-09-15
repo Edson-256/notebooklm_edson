@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-14T20:00:14.968008",
+  "atualizado": "2026-09-14T21:06:41.358237",
   "audios": [
     {
       "seq_global": 1,
@@ -2624,7 +2624,40 @@
       "cap": 64,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-14T20:00:14.965307",
+      "data": "2026-09-14T21:00:14.926988",
+      "status": "created",
+      "artifact_id": "8b824dc4-23c8-4c89-bf97-7e14555b7154"
+    },
+    {
+      "seq_global": 203,
+      "arquivo": "203_cap-064_cena-003_El-olor-a-ajos-y-el-lunar-con-siete-pelos-idealizar-lo-perdido.m4a",
+      "titulo": "El olor a ajos y el lunar con siete pelos: idealizar lo perdido",
+      "cap": 64,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-14T21:02:24.567154",
+      "status": "created",
+      "artifact_id": "f694b8f0-5361-4d62-a01d-e974650cfed8"
+    },
+    {
+      "seq_global": 204,
+      "arquivo": "204_cap-065_cena-001_Los-ojos-de-esmeralda-la-fabrica-del-autoengano.m4a",
+      "titulo": "Los ojos de esmeralda: la fabrica del autoengano",
+      "cap": 65,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-14T21:04:30.549546",
+      "status": "created",
+      "artifact_id": "eaddb5a4-aa4e-44d0-98cf-a1ca47d2042f"
+    },
+    {
+      "seq_global": 205,
+      "arquivo": "205_cap-065_cena-002_Tocar-las-apariencias-con-la-mano.m4a",
+      "titulo": "Tocar las apariencias con la mano",
+      "cap": 65,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-14T21:06:41.354673",
       "status": "deferred"
     }
   ]
