@@ -246,8 +246,11 @@ def create_audio(notebook_id: str, focus: str, source_id: str):
 def poll_status(notebook_id: str, artifact_id: str) -> str:
     """Status do artifact no studio. _POLL_MISSING se sumiu da lista,
     _POLL_ERROR se a consulta falhou (rede/auth)."""
+    # 130s, não 30s: com ~800 artifacts o 'studio status' leva 22s e cresce — o teto de
+    # 30s derrubava a consulta de 35 cenas por rodada com "(rede/auth)", que é enganoso
+    # (não era nem rede nem auth). Mesmo defeito do cmd_harvest (notebooklm_edson-gqq8).
     try:
-        r = run_nlm(["studio", "status", notebook_id, "--json"], timeout=30)
+        r = run_nlm(["studio", "status", notebook_id, "--json"], timeout=130)
     except Exception:
         return _POLL_ERROR
     if r.returncode != 0:
