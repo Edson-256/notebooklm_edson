@@ -72,6 +72,11 @@ notify() {
 # Na prática: 1 lote de 20/dia derivando ~2h para frente por dia (cota NLM rolling 24h).
 # (bd notebooklm_edson-fey)
 
+# Patch de timeout do nlm (30s -> 120s): TODA atualização do pacote apaga, e sem ele o
+# --harvest falha com "Could not retrieve studio status" (que parece erro do Google, mas é
+# timeout local). Barato e idempotente — ver scripts/nlm_patch_timeout.py.
+python3 "$REPO_DIR/scripts/nlm_patch_timeout.py" >>"$LOG" 2>&1 || true
+
 # Quota guard: só roda se >= 25h desde o último lote da conta 'default'.
 source "$REPO_DIR/scripts/nlm_quota_guard.sh"
 nlm_quota_check >>"$LOG" || exit 0
