@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-15T20:00:16.267592",
+  "atualizado": "2026-09-15T21:06:33.662615",
   "audios": [
     {
       "seq_global": 1,
@@ -2663,7 +2663,40 @@
       "cap": 65,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-15T20:00:16.265529",
+      "data": "2026-09-15T21:00:10.678324",
+      "status": "created",
+      "artifact_id": "527e2f34-4dd2-4b40-8287-9de0c88d6359"
+    },
+    {
+      "seq_global": 206,
+      "arquivo": "206_cap-065_cena-003_El-bojiganga-la-caida-y-el-corazon-partido-de-Sancho.m4a",
+      "titulo": "El bojiganga, la caida y el corazon partido de Sancho",
+      "cap": 65,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-15T21:02:16.728621",
+      "status": "created",
+      "artifact_id": "cfdfc015-6d7c-4917-b602-ced4ea5929f6"
+    },
+    {
+      "seq_global": 207,
+      "arquivo": "207_cap-065_cena-004_El-escuadron-de-la-Muerte-y-el-consejo-que-desarma.m4a",
+      "titulo": "El escuadron de la Muerte y el consejo que desarma",
+      "cap": 65,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-15T21:04:22.911441",
+      "status": "created",
+      "artifact_id": "0caa2820-998c-4a0d-a7af-ce2185af71e0"
+    },
+    {
+      "seq_global": 208,
+      "arquivo": "208_cap-066_cena-001_El-gran-teatro-del-mundo-la-comedia-como-espejo-de-la-vida.m4a",
+      "titulo": "El gran teatro del mundo: la comedia como espejo de la vida",
+      "cap": 66,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-15T21:06:33.660562",
       "status": "deferred"
     }
   ]
