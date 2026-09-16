@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-15T21:06:33.662615",
+  "atualizado": "2026-09-15T22:01:31.059423",
   "audios": [
     {
       "seq_global": 1,
@@ -2664,8 +2664,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-15T21:00:10.678324",
-      "status": "created",
-      "artifact_id": "527e2f34-4dd2-4b40-8287-9de0c88d6359"
+      "status": "downloaded",
+      "artifact_id": "527e2f34-4dd2-4b40-8287-9de0c88d6359",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/205_cap-065_cena-002_Tocar-las-apariencias-con-la-mano.m4a",
+      "tamanho_bytes": 28642210
     },
     {
       "seq_global": 206,
@@ -2675,8 +2677,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-15T21:02:16.728621",
-      "status": "created",
-      "artifact_id": "cfdfc015-6d7c-4917-b602-ced4ea5929f6"
+      "status": "downloaded",
+      "artifact_id": "cfdfc015-6d7c-4917-b602-ced4ea5929f6",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/206_cap-065_cena-003_El-bojiganga-la-caida-y-el-corazon-partido-de-Sancho.m4a",
+      "tamanho_bytes": 37937239
     },
     {
       "seq_global": 207,
@@ -2686,8 +2690,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-15T21:04:22.911441",
-      "status": "created",
-      "artifact_id": "0caa2820-998c-4a0d-a7af-ce2185af71e0"
+      "status": "downloaded",
+      "artifact_id": "0caa2820-998c-4a0d-a7af-ce2185af71e0",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/207_cap-065_cena-004_El-escuadron-de-la-Muerte-y-el-consejo-que-desarma.m4a",
+      "tamanho_bytes": 28409765
     },
     {
       "seq_global": 208,
@@ -2696,7 +2702,7 @@
       "cap": 66,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-15T21:06:33.660562",
+      "data": "2026-09-15T22:01:31.057428",
       "status": "deferred"
     }
   ]
