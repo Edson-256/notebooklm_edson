@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-16T21:06:34.051966",
+  "atualizado": "2026-09-16T22:01:42.867264",
   "audios": [
     {
       "seq_global": 1,
@@ -2703,8 +2703,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-16T21:00:10.947182",
-      "status": "created",
-      "artifact_id": "f976f4f5-d77a-4bba-90f3-a82737cf018f"
+      "status": "downloaded",
+      "artifact_id": "f976f4f5-d77a-4bba-90f3-a82737cf018f",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/208_cap-066_cena-001_El-gran-teatro-del-mundo-la-comedia-como-espejo-de-la-vida.m4a",
+      "tamanho_bytes": 21204151
     },
     {
       "seq_global": 209,
@@ -2714,8 +2716,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-16T21:02:16.456534",
-      "status": "created",
-      "artifact_id": "951963f9-5e82-4d7a-91fc-95d180695078"
+      "status": "downloaded",
+      "artifact_id": "951963f9-5e82-4d7a-91fc-95d180695078",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/209_cap-066_cena-002_El-canto-del-Caballero-del-Bosque-y-la-defensa-de-Dulcinea.m4a",
+      "tamanho_bytes": 27430049
     },
     {
       "seq_global": 210,
@@ -2725,8 +2729,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-16T21:04:21.950810",
-      "status": "created",
-      "artifact_id": "701a39f7-cada-4fd4-ae15-ad27fb4c9f4a"
+      "status": "downloaded",
+      "artifact_id": "701a39f7-cada-4fd4-ae15-ad27fb4c9f4a",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/210_cap-066_cena-003_Dos-afligidos-que-se-reconocen-la-compania-de-la-tristeza.m4a",
+      "tamanho_bytes": 45965575
     },
     {
       "seq_global": 211,
@@ -2735,7 +2741,7 @@
       "cap": 67,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-16T21:06:34.049160",
+      "data": "2026-09-16T22:01:42.863821",
       "status": "deferred"
     }
   ]
