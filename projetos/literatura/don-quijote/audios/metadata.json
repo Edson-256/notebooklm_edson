@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-16T20:00:15.264968",
+  "atualizado": "2026-09-16T21:06:34.051966",
   "audios": [
     {
       "seq_global": 1,
@@ -2702,7 +2702,40 @@
       "cap": 66,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-16T20:00:15.263200",
+      "data": "2026-09-16T21:00:10.947182",
+      "status": "created",
+      "artifact_id": "f976f4f5-d77a-4bba-90f3-a82737cf018f"
+    },
+    {
+      "seq_global": 209,
+      "arquivo": "209_cap-066_cena-002_El-canto-del-Caballero-del-Bosque-y-la-defensa-de-Dulcinea.m4a",
+      "titulo": "El canto del Caballero del Bosque y la defensa de Dulcinea",
+      "cap": 66,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-16T21:02:16.456534",
+      "status": "created",
+      "artifact_id": "951963f9-5e82-4d7a-91fc-95d180695078"
+    },
+    {
+      "seq_global": 210,
+      "arquivo": "210_cap-066_cena-003_Dos-afligidos-que-se-reconocen-la-compania-de-la-tristeza.m4a",
+      "titulo": "Dos afligidos que se reconocen: la compania de la tristeza",
+      "cap": 66,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-16T21:04:21.950810",
+      "status": "created",
+      "artifact_id": "701a39f7-cada-4fd4-ae15-ad27fb4c9f4a"
+    },
+    {
+      "seq_global": 211,
+      "arquivo": "211_cap-067_cena-001_Dos-escuderos-y-la-ilusion-del-premio.m4a",
+      "titulo": "Dos escuderos y la ilusión del premio",
+      "cap": 67,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-16T21:06:34.049160",
       "status": "deferred"
     }
   ]
