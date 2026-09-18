@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-17T21:06:36.290141",
+  "atualizado": "2026-09-17T22:02:06.245893",
   "audios": [
     {
       "seq_global": 1,
@@ -2742,8 +2742,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-17T21:00:14.416457",
-      "status": "created",
-      "artifact_id": "ff14e6c0-b756-4732-9140-a6f1eab573d1"
+      "status": "downloaded",
+      "artifact_id": "ff14e6c0-b756-4732-9140-a6f1eab573d1",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/211_cap-067_cena-001_Dos-escuderos-y-la-ilusion-del-premio.m4a",
+      "tamanho_bytes": 18931595
     },
     {
       "seq_global": 212,
@@ -2753,8 +2755,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-17T21:02:20.516031",
-      "status": "created",
-      "artifact_id": "1ea1bfe5-2370-4988-9c63-d88118332461"
+      "status": "downloaded",
+      "artifact_id": "1ea1bfe5-2370-4988-9c63-d88118332461",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/212_cap-067_cena-002_El-alma-como-un-cantaro-codicia-y-lealtad.m4a",
+      "tamanho_bytes": 37974591
     },
     {
       "seq_global": 213,
@@ -2764,8 +2768,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-17T21:04:26.149446",
-      "status": "created",
-      "artifact_id": "edc7e474-c633-40e3-a805-c48f235ab363"
+      "status": "downloaded",
+      "artifact_id": "edc7e474-c633-40e3-a805-c48f235ab363",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/213_cap-067_cena-003_El-banquete-el-vino-y-el-linaje-de-los-mojones.m4a",
+      "tamanho_bytes": 25522164
     },
     {
       "seq_global": 214,
@@ -2774,7 +2780,7 @@
       "cap": 68,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-17T21:06:36.288711",
+      "data": "2026-09-17T22:02:06.241165",
       "status": "deferred"
     }
   ]
