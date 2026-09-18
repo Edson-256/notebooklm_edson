@@ -5995,9 +5995,11 @@
       "prompt_chars": 2958,
       "language": "it-IT",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/mazoni/I Promesi Sposi/audios/promessi_355_c_38_promesi_sposi_cena010.m4a",
+      "tamanho_bytes": 24854827
     }
   ],
   "total_itens_processados": 355,
-  "ultima_atualizacao": "2026-09-17T08:02:03.115559"
+  "ultima_atualizacao": "2026-09-18T08:00:39.901265"
 }
