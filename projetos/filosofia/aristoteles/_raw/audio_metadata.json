@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T17:55:59Z",
+  "updated_at": "2026-09-19T19:56:32Z",
   "audios": {
     "05_etica/01_etica_nicomaco/L01-C01_cena01": {
       "artifact_id": "46097252-f46f-41a0-b77f-86b89e4b0945",
@@ -8372,11 +8372,13 @@
     "01_organon/06_refutacoes_sofisticas/L02-C19_cena01": {
       "audio_title": "aristoteles_06_l02_c19_cena01_refutacoes_sofisticas",
       "audio_filename": "aristoteles_06_l02_c19_cena01_refutacoes_sofisticas.m4a",
-      "status": "created",
+      "status": "downloaded",
       "created_at": "2026-09-16T23:14:45Z",
       "artifact_falhou": "081e1d6e-039d-4aa6-bb9d-e98e1f374c94",
       "nota": "artifact falhou no NotebookLM (status failed); destravado em 2026-09-16 para recriação",
-      "artifact_id": "fbf4fc96-bfbd-40d1-9b15-bb5f6f7b989e"
+      "artifact_id": "fbf4fc96-bfbd-40d1-9b15-bb5f6f7b989e",
+      "downloaded_at": "2026-09-19T19:00:54Z",
+      "bytes": 52555280
     },
     "01_organon/06_refutacoes_sofisticas/L02-C20_cena01": {
       "artifact_id": "112d9cf1-a9f1-4088-8f97-9af4619c5109",
@@ -10280,11 +10282,13 @@
     "03_psicologia_biologia/03_historia_animais/L06-C29_cena01": {
       "audio_title": "aristoteles_19_l06_c29_cena01_historia_animais",
       "audio_filename": "aristoteles_19_l06_c29_cena01_historia_animais.m4a",
-      "status": "created",
+      "status": "downloaded",
       "created_at": "2026-09-16T23:16:51Z",
       "artifact_falhou": "725d3ea4-8f9b-4975-8dd4-97acc6a52b19",
       "nota": "artifact falhou no NotebookLM (status failed); destravado em 2026-09-16 para recriação",
-      "artifact_id": "84803b36-9d7c-48cb-9277-02d7c5cc1a1e"
+      "artifact_id": "84803b36-9d7c-48cb-9277-02d7c5cc1a1e",
+      "downloaded_at": "2026-09-19T19:01:37Z",
+      "bytes": 54242673
     },
     "03_psicologia_biologia/03_historia_animais/L06-C30_cena01": {
       "artifact_id": "36c38709-2353-44fe-a417-170db4aebb87",
@@ -10523,11 +10527,13 @@
     "03_psicologia_biologia/03_historia_animais/L08-C05_cena01": {
       "audio_title": "aristoteles_19_l08_c05_cena01_historia_animais",
       "audio_filename": "aristoteles_19_l08_c05_cena01_historia_animais.m4a",
-      "status": "created",
+      "status": "downloaded",
       "created_at": "2026-09-16T23:18:57Z",
       "artifact_falhou": "3db6b7bf-cc14-4317-b7e0-abf5fcb04ba3",
       "nota": "artifact falhou no NotebookLM (status failed); destravado em 2026-09-16 para recriação",
-      "artifact_id": "404ef15a-90f6-45d4-8df6-ecf679c05332"
+      "artifact_id": "404ef15a-90f6-45d4-8df6-ecf679c05332",
+      "downloaded_at": "2026-09-19T19:02:17Z",
+      "bytes": 25690248
     },
     "03_psicologia_biologia/03_historia_animais/L08-C06_cena01": {
       "artifact_id": "cee6a16e-3b1c-45ea-934f-ec1e269fbece",
@@ -12530,11 +12536,13 @@
     "03_psicologia_biologia/07_geracao_animais/L02-C04_cena02": {
       "audio_title": "aristoteles_23_l02_c04_cena02_geracao_animais",
       "audio_filename": "aristoteles_23_l02_c04_cena02_geracao_animais.m4a",
-      "status": "created",
+      "status": "downloaded",
       "created_at": "2026-09-16T23:21:03Z",
       "artifact_falhou": "2d1e3df3-0414-4e5f-83ce-c862a66cee5e",
       "nota": "artifact falhou no NotebookLM (status failed); destravado em 2026-09-16 para recriação",
-      "artifact_id": "9bf209bf-1720-467a-bc64-6aef34eb9b6f"
+      "artifact_id": "9bf209bf-1720-467a-bc64-6aef34eb9b6f",
+      "downloaded_at": "2026-09-19T19:02:56Z",
+      "bytes": 27930681
     },
     "03_psicologia_biologia/07_geracao_animais/L02-C04_cena03": {
       "artifact_id": "b3ddd5e0-0443-467c-8b5c-7cfa55e289e7",
@@ -12629,11 +12637,13 @@
     "03_psicologia_biologia/07_geracao_animais/L03-C02_cena01": {
       "audio_title": "aristoteles_23_l03_c02_cena01_geracao_animais",
       "audio_filename": "aristoteles_23_l03_c02_cena01_geracao_animais.m4a",
-      "status": "created",
+      "status": "downloaded",
       "created_at": "2026-09-16T23:23:09Z",
       "artifact_falhou": "391b4cf1-2cfc-4a5b-a353-4e79d3b73aca",
       "nota": "artifact falhou no NotebookLM (status failed); destravado em 2026-09-16 para recriação",
-      "artifact_id": "fff1f8d0-c0f4-4f10-9069-44c1c067bb20"
+      "artifact_id": "fff1f8d0-c0f4-4f10-9069-44c1c067bb20",
+      "downloaded_at": "2026-09-19T19:03:22Z",
+      "bytes": 51116020
     },
     "03_psicologia_biologia/07_geracao_animais/L03-C03_cena01": {
       "artifact_id": "fb8f1822-6127-441e-ab0b-bc392394e95c",
@@ -12971,11 +12981,13 @@
     "03_psicologia_biologia/02_parva_naturalia/on_sense_and_the_sensible-L01-C04_cena01": {
       "audio_title": "aristoteles_12_l01_c04_cena01_on_sense_and_the_sensible",
       "audio_filename": "aristoteles_12_l01_c04_cena01_on_sense_and_the_sensible.m4a",
-      "status": "created",
+      "status": "downloaded",
       "created_at": "2026-09-16T23:25:12Z",
       "artifact_falhou": "cd0e23c4-14d2-45c6-828c-628cc71720cc",
       "nota": "artifact falhou no NotebookLM (status failed); destravado em 2026-09-16 para recriação",
-      "artifact_id": "4c09e11c-41f9-4de3-b8d5-444542357a4c"
+      "artifact_id": "4c09e11c-41f9-4de3-b8d5-444542357a4c",
+      "downloaded_at": "2026-09-19T19:03:48Z",
+      "bytes": 44321394
     },
     "03_psicologia_biologia/02_parva_naturalia/on_sense_and_the_sensible-L02-C05_cena01": {
       "artifact_id": "a228c2d8-f943-47a9-9125-f1072f8012b7",
@@ -14268,239 +14280,447 @@
       "artifact_id": "05d392bc-fd96-4c05-920b-5cb8f9085db3",
       "audio_title": "aristoteles_26_l03_c06_cena01_etica_eudemo",
       "audio_filename": "aristoteles_26_l03_c06_cena01_etica_eudemo.m4a",
-      "status": "created",
-      "created_at": "2026-09-16T23:27:17Z"
+      "status": "downloaded",
+      "created_at": "2026-09-16T23:27:17Z",
+      "downloaded_at": "2026-09-19T19:04:11Z",
+      "bytes": 24056641
     },
     "05_etica/02_etica_eudemo/L03-C07_cena01": {
       "artifact_id": "02ef2a1c-aece-4714-b549-6b698e93e995",
       "audio_title": "aristoteles_26_l03_c07_cena01_etica_eudemo",
       "audio_filename": "aristoteles_26_l03_c07_cena01_etica_eudemo.m4a",
-      "status": "created",
-      "created_at": "2026-09-16T23:29:21Z"
+      "status": "downloaded",
+      "created_at": "2026-09-16T23:29:21Z",
+      "downloaded_at": "2026-09-19T19:04:34Z",
+      "bytes": 39605956
     },
     "05_etica/02_etica_eudemo/L07-C01_cena01": {
       "artifact_id": "7dffb3e8-de6b-4cba-8b3d-8000b7ac69fb",
       "audio_title": "aristoteles_26_l07_c01_cena01_etica_eudemo",
       "audio_filename": "aristoteles_26_l07_c01_cena01_etica_eudemo.m4a",
-      "status": "created",
-      "created_at": "2026-09-16T23:31:25Z"
+      "status": "downloaded",
+      "created_at": "2026-09-16T23:31:25Z",
+      "downloaded_at": "2026-09-19T19:04:59Z",
+      "bytes": 23137436
     },
     "05_etica/02_etica_eudemo/L07-C02_cena01": {
       "artifact_id": "344af2da-a4e1-490a-b37d-41058fecbdf5",
       "audio_title": "aristoteles_26_l07_c02_cena01_etica_eudemo",
       "audio_filename": "aristoteles_26_l07_c02_cena01_etica_eudemo.m4a",
-      "status": "created",
-      "created_at": "2026-09-16T23:33:32Z"
+      "status": "downloaded",
+      "created_at": "2026-09-16T23:33:32Z",
+      "downloaded_at": "2026-09-19T19:05:21Z",
+      "bytes": 40212037
     },
     "05_etica/02_etica_eudemo/L07-C02_cena02": {
       "artifact_id": "9d54e7ad-2296-44d7-a9a3-1a92bd0daefe",
       "audio_title": "aristoteles_26_l07_c02_cena02_etica_eudemo",
       "audio_filename": "aristoteles_26_l07_c02_cena02_etica_eudemo.m4a",
-      "status": "created",
-      "created_at": "2026-09-16T23:35:36Z"
+      "status": "downloaded",
+      "created_at": "2026-09-16T23:35:36Z",
+      "downloaded_at": "2026-09-19T19:05:46Z",
+      "bytes": 38020908
     },
     "05_etica/02_etica_eudemo/L07-C02_cena03": {
       "artifact_id": "68928e0a-430b-423d-873b-16fb7ce98718",
       "audio_title": "aristoteles_26_l07_c02_cena03_etica_eudemo",
       "audio_filename": "aristoteles_26_l07_c02_cena03_etica_eudemo.m4a",
-      "status": "created",
-      "created_at": "2026-09-16T23:37:40Z"
+      "status": "downloaded",
+      "created_at": "2026-09-16T23:37:40Z",
+      "downloaded_at": "2026-09-19T19:06:10Z",
+      "bytes": 27835060
     },
     "05_etica/02_etica_eudemo/L07-C03_cena01": {
       "artifact_id": "aa055e5a-e9fb-4017-a916-8fae55ce573a",
       "audio_title": "aristoteles_26_l07_c03_cena01_etica_eudemo",
       "audio_filename": "aristoteles_26_l07_c03_cena01_etica_eudemo.m4a",
-      "status": "created",
-      "created_at": "2026-09-16T23:39:44Z"
+      "status": "downloaded",
+      "created_at": "2026-09-16T23:39:44Z",
+      "downloaded_at": "2026-09-19T19:06:35Z",
+      "bytes": 25696971
     },
     "05_etica/02_etica_eudemo/L07-C04_cena01": {
       "artifact_id": "88a4e7d4-af52-485a-aab2-48eb4f21223f",
       "audio_title": "aristoteles_26_l07_c04_cena01_etica_eudemo",
       "audio_filename": "aristoteles_26_l07_c04_cena01_etica_eudemo.m4a",
-      "status": "created",
-      "created_at": "2026-09-16T23:41:48Z"
+      "status": "downloaded",
+      "created_at": "2026-09-16T23:41:48Z",
+      "downloaded_at": "2026-09-19T19:07:00Z",
+      "bytes": 45524590
     },
     "05_etica/02_etica_eudemo/L07-C05_cena01": {
       "artifact_id": "95c1dc98-6ce1-4759-bbb9-e925a849e556",
       "audio_title": "aristoteles_26_l07_c05_cena01_etica_eudemo",
       "audio_filename": "aristoteles_26_l07_c05_cena01_etica_eudemo.m4a",
-      "status": "created",
-      "created_at": "2026-09-16T23:43:51Z"
+      "status": "downloaded",
+      "created_at": "2026-09-16T23:43:51Z",
+      "downloaded_at": "2026-09-19T19:07:28Z",
+      "bytes": 42643712
     },
     "05_etica/02_etica_eudemo/L07-C06_cena01": {
       "artifact_id": "c17aa229-aa06-4cef-a76b-a6be940897a6",
       "audio_title": "aristoteles_26_l07_c06_cena01_etica_eudemo",
       "audio_filename": "aristoteles_26_l07_c06_cena01_etica_eudemo.m4a",
-      "status": "created",
-      "created_at": "2026-09-16T23:45:55Z"
+      "status": "downloaded",
+      "created_at": "2026-09-16T23:45:55Z",
+      "downloaded_at": "2026-09-19T19:07:52Z",
+      "bytes": 32877932
     },
     "05_etica/02_etica_eudemo/L07-C07_cena01": {
       "artifact_id": "06c9a968-da82-41ef-9308-b40fbfcfba11",
       "audio_title": "aristoteles_26_l07_c07_cena01_etica_eudemo",
       "audio_filename": "aristoteles_26_l07_c07_cena01_etica_eudemo.m4a",
-      "status": "created",
-      "created_at": "2026-09-16T23:48:02Z"
+      "status": "downloaded",
+      "created_at": "2026-09-16T23:48:02Z",
+      "downloaded_at": "2026-09-19T19:08:14Z",
+      "bytes": 26959930
     },
     "05_etica/02_etica_eudemo/L07-C08_cena01": {
       "artifact_id": "28b4f367-b79a-41cf-8059-83072f501dc8",
       "audio_title": "aristoteles_26_l07_c08_cena01_etica_eudemo",
       "audio_filename": "aristoteles_26_l07_c08_cena01_etica_eudemo.m4a",
-      "status": "created",
-      "created_at": "2026-09-16T23:50:05Z"
+      "status": "downloaded",
+      "created_at": "2026-09-16T23:50:05Z",
+      "downloaded_at": "2026-09-19T19:08:38Z",
+      "bytes": 28094399
     },
     "05_etica/02_etica_eudemo/L07-C09_cena01": {
       "artifact_id": "065b3626-c6e9-4cc7-951d-2aaceb489608",
       "audio_title": "aristoteles_26_l07_c09_cena01_etica_eudemo",
       "audio_filename": "aristoteles_26_l07_c09_cena01_etica_eudemo.m4a",
-      "status": "created",
-      "created_at": "2026-09-16T23:52:10Z"
+      "status": "downloaded",
+      "created_at": "2026-09-16T23:52:10Z",
+      "downloaded_at": "2026-09-19T19:09:02Z",
+      "bytes": 31687436
     },
     "05_etica/02_etica_eudemo/L07-C10_cena01": {
       "artifact_id": "bd06d0db-2817-47cc-ad1c-3753944a3671",
       "audio_title": "aristoteles_26_l07_c10_cena01_etica_eudemo",
       "audio_filename": "aristoteles_26_l07_c10_cena01_etica_eudemo.m4a",
-      "status": "created",
-      "created_at": "2026-09-16T23:54:17Z"
+      "status": "downloaded",
+      "created_at": "2026-09-16T23:54:17Z",
+      "downloaded_at": "2026-09-19T19:09:25Z",
+      "bytes": 35086990
     },
     "05_etica/02_etica_eudemo/L07-C10_cena02": {
       "artifact_id": "cff6051d-6ad1-42f6-bccc-119c018225de",
       "audio_title": "aristoteles_26_l07_c10_cena02_etica_eudemo",
       "audio_filename": "aristoteles_26_l07_c10_cena02_etica_eudemo.m4a",
-      "status": "created",
-      "created_at": "2026-09-18T17:16:36Z"
+      "status": "downloaded",
+      "created_at": "2026-09-18T17:16:36Z",
+      "downloaded_at": "2026-09-19T19:09:49Z",
+      "bytes": 44745944
     },
     "05_etica/02_etica_eudemo/L07-C11_cena01": {
       "artifact_id": "af2bb7a5-9536-4f63-b25a-10fd7af0a22e",
       "audio_title": "aristoteles_26_l07_c11_cena01_etica_eudemo",
       "audio_filename": "aristoteles_26_l07_c11_cena01_etica_eudemo.m4a",
-      "status": "created",
-      "created_at": "2026-09-18T17:18:39Z"
+      "status": "downloaded",
+      "created_at": "2026-09-18T17:18:39Z",
+      "downloaded_at": "2026-09-19T19:10:13Z",
+      "bytes": 21061467
     },
     "05_etica/02_etica_eudemo/L07-C12_cena01": {
       "artifact_id": "1190541b-2739-4731-a6b9-9fbca108ef46",
       "audio_title": "aristoteles_26_l07_c12_cena01_etica_eudemo",
       "audio_filename": "aristoteles_26_l07_c12_cena01_etica_eudemo.m4a",
-      "status": "created",
-      "created_at": "2026-09-18T17:20:42Z"
+      "status": "downloaded",
+      "created_at": "2026-09-18T17:20:42Z",
+      "downloaded_at": "2026-09-19T19:10:36Z",
+      "bytes": 27119912
     },
     "05_etica/02_etica_eudemo/L07-C13_cena01": {
       "artifact_id": "933ef55c-8ecb-411c-b584-7794e2e34cf4",
       "audio_title": "aristoteles_26_l07_c13_cena01_etica_eudemo",
       "audio_filename": "aristoteles_26_l07_c13_cena01_etica_eudemo.m4a",
-      "status": "created",
-      "created_at": "2026-09-18T17:22:45Z"
+      "status": "downloaded",
+      "created_at": "2026-09-18T17:22:45Z",
+      "downloaded_at": "2026-09-19T19:10:57Z",
+      "bytes": 18947283
     },
     "05_etica/02_etica_eudemo/L07-C14_cena01": {
       "artifact_id": "4112856b-4108-40d2-a423-92c27b25bbdb",
       "audio_title": "aristoteles_26_l07_c14_cena01_etica_eudemo",
       "audio_filename": "aristoteles_26_l07_c14_cena01_etica_eudemo.m4a",
-      "status": "created",
-      "created_at": "2026-09-18T17:24:52Z"
+      "status": "downloaded",
+      "created_at": "2026-09-18T17:24:52Z",
+      "downloaded_at": "2026-09-19T19:11:19Z",
+      "bytes": 40965284
     },
     "05_etica/02_etica_eudemo/L07-C15_cena01": {
       "artifact_id": "922db560-1eee-4f7e-b055-80aa59e9be7c",
       "audio_title": "aristoteles_26_l07_c15_cena01_etica_eudemo",
       "audio_filename": "aristoteles_26_l07_c15_cena01_etica_eudemo.m4a",
-      "status": "created",
-      "created_at": "2026-09-18T17:26:58Z"
+      "status": "downloaded",
+      "created_at": "2026-09-18T17:26:58Z",
+      "downloaded_at": "2026-09-19T19:11:42Z",
+      "bytes": 29459702
     },
     "05_etica/03_magna_moralia/magna_moralia-L01-C01_cena01": {
       "artifact_id": "975f88f1-fbe8-4bd5-b908-a0c3e5a5ffc6",
       "audio_title": "aristoteles_27_l01_c01_cena01_magna_moralia",
       "audio_filename": "aristoteles_27_l01_c01_cena01_magna_moralia.m4a",
-      "status": "created",
-      "created_at": "2026-09-18T17:29:02Z"
+      "status": "downloaded",
+      "created_at": "2026-09-18T17:29:02Z",
+      "downloaded_at": "2026-09-19T19:12:06Z",
+      "bytes": 34846328
     },
     "05_etica/03_magna_moralia/magna_moralia-L01-C02_cena01": {
       "artifact_id": "5cf23ad8-bc53-4d93-bf41-6a40af7f1ebf",
       "audio_title": "aristoteles_27_l01_c02_cena01_magna_moralia",
       "audio_filename": "aristoteles_27_l01_c02_cena01_magna_moralia.m4a",
-      "status": "created",
-      "created_at": "2026-09-18T17:31:06Z"
+      "status": "downloaded",
+      "created_at": "2026-09-18T17:31:06Z",
+      "downloaded_at": "2026-09-19T19:12:30Z",
+      "bytes": 43408281
     },
     "05_etica/03_magna_moralia/magna_moralia-L01-C03_cena01": {
       "artifact_id": "78aa3350-f79e-4cef-b71e-25f1fed90fe8",
       "audio_title": "aristoteles_27_l01_c03_cena01_magna_moralia",
       "audio_filename": "aristoteles_27_l01_c03_cena01_magna_moralia.m4a",
-      "status": "created",
-      "created_at": "2026-09-18T17:33:09Z"
+      "status": "downloaded",
+      "created_at": "2026-09-18T17:33:09Z",
+      "downloaded_at": "2026-09-19T19:12:54Z",
+      "bytes": 23420680
     },
     "05_etica/03_magna_moralia/magna_moralia-L01-C04_cena01": {
       "artifact_id": "1954ae42-db16-4569-8e3b-161e66863666",
       "audio_title": "aristoteles_27_l01_c04_cena01_magna_moralia",
       "audio_filename": "aristoteles_27_l01_c04_cena01_magna_moralia.m4a",
-      "status": "created",
-      "created_at": "2026-09-18T17:35:11Z"
+      "status": "downloaded",
+      "created_at": "2026-09-18T17:35:11Z",
+      "downloaded_at": "2026-09-19T19:13:16Z",
+      "bytes": 25862930
     },
     "05_etica/03_magna_moralia/magna_moralia-L01-C05_cena01": {
       "artifact_id": "bb43e493-e031-440a-b8d1-d10edbcfd443",
       "audio_title": "aristoteles_27_l01_c05_cena01_magna_moralia",
       "audio_filename": "aristoteles_27_l01_c05_cena01_magna_moralia.m4a",
-      "status": "created",
-      "created_at": "2026-09-18T17:37:15Z"
+      "status": "downloaded",
+      "created_at": "2026-09-18T17:37:15Z",
+      "downloaded_at": "2026-09-19T19:13:38Z",
+      "bytes": 46573033
     },
     "05_etica/03_magna_moralia/magna_moralia-L01-C06_cena01": {
       "artifact_id": "c8b86c9b-4b38-4085-a557-57d4b6cb2409",
       "audio_title": "aristoteles_27_l01_c06_cena01_magna_moralia",
       "audio_filename": "aristoteles_27_l01_c06_cena01_magna_moralia.m4a",
-      "status": "created",
-      "created_at": "2026-09-18T17:39:23Z"
+      "status": "downloaded",
+      "created_at": "2026-09-18T17:39:23Z",
+      "downloaded_at": "2026-09-19T19:14:05Z",
+      "bytes": 31707606
     },
     "05_etica/03_magna_moralia/magna_moralia-L01-C07_cena01": {
       "artifact_id": "5fc6d791-175c-4f6a-a8ec-6b551be941f9",
       "audio_title": "aristoteles_27_l01_c07_cena01_magna_moralia",
       "audio_filename": "aristoteles_27_l01_c07_cena01_magna_moralia.m4a",
-      "status": "created",
-      "created_at": "2026-09-18T17:41:27Z"
+      "status": "downloaded",
+      "created_at": "2026-09-18T17:41:27Z",
+      "downloaded_at": "2026-09-19T19:14:27Z",
+      "bytes": 26693237
     },
     "05_etica/03_magna_moralia/magna_moralia-L01-C08_cena01": {
       "artifact_id": "cd3e8a30-9648-487f-aee7-bf1aa2bd6017",
       "audio_title": "aristoteles_27_l01_c08_cena01_magna_moralia",
       "audio_filename": "aristoteles_27_l01_c08_cena01_magna_moralia.m4a",
-      "status": "created",
-      "created_at": "2026-09-18T17:43:31Z"
+      "status": "downloaded",
+      "created_at": "2026-09-18T17:43:31Z",
+      "downloaded_at": "2026-09-19T19:14:48Z",
+      "bytes": 28187031
     },
     "05_etica/03_magna_moralia/magna_moralia-L01-C09_cena01": {
       "artifact_id": "c7a6f609-7050-4989-b1ef-43a3f0ac367d",
       "audio_title": "aristoteles_27_l01_c09_cena01_magna_moralia",
       "audio_filename": "aristoteles_27_l01_c09_cena01_magna_moralia.m4a",
-      "status": "created",
-      "created_at": "2026-09-18T17:45:35Z"
+      "status": "downloaded",
+      "created_at": "2026-09-18T17:45:35Z",
+      "downloaded_at": "2026-09-19T19:15:11Z",
+      "bytes": 36521021
     },
     "05_etica/03_magna_moralia/magna_moralia-L01-C10_cena01": {
       "artifact_id": "e0c2702a-f9a3-4b72-a77e-ed5c79af565e",
       "audio_title": "aristoteles_27_l01_c10_cena01_magna_moralia",
       "audio_filename": "aristoteles_27_l01_c10_cena01_magna_moralia.m4a",
-      "status": "created",
-      "created_at": "2026-09-18T17:47:40Z"
+      "status": "downloaded",
+      "created_at": "2026-09-18T17:47:40Z",
+      "downloaded_at": "2026-09-19T19:15:34Z",
+      "bytes": 18102897
     },
     "05_etica/03_magna_moralia/magna_moralia-L01-C11_cena01": {
       "artifact_id": "3b014f54-0371-43b5-b37a-f3b6a5a3f4c3",
       "audio_title": "aristoteles_27_l01_c11_cena01_magna_moralia",
       "audio_filename": "aristoteles_27_l01_c11_cena01_magna_moralia.m4a",
-      "status": "created",
-      "created_at": "2026-09-18T17:49:44Z"
+      "status": "downloaded",
+      "created_at": "2026-09-18T17:49:44Z",
+      "downloaded_at": "2026-09-19T19:15:55Z",
+      "bytes": 29423844
     },
     "05_etica/03_magna_moralia/magna_moralia-L01-C12_cena01": {
       "artifact_id": "5a44dafc-4bed-4c86-aa14-fffcdac2aeed",
       "audio_title": "aristoteles_27_l01_c12_cena01_magna_moralia",
       "audio_filename": "aristoteles_27_l01_c12_cena01_magna_moralia.m4a",
-      "status": "created",
-      "created_at": "2026-09-18T17:51:48Z"
+      "status": "downloaded",
+      "created_at": "2026-09-18T17:51:48Z",
+      "downloaded_at": "2026-09-19T19:16:18Z",
+      "bytes": 41834437
     },
     "05_etica/03_magna_moralia/magna_moralia-L01-C13_cena01": {
       "artifact_id": "bd65d5d0-918d-40be-bd2b-720b52764027",
       "audio_title": "aristoteles_27_l01_c13_cena01_magna_moralia",
       "audio_filename": "aristoteles_27_l01_c13_cena01_magna_moralia.m4a",
-      "status": "created",
-      "created_at": "2026-09-18T17:53:52Z"
+      "status": "downloaded",
+      "created_at": "2026-09-18T17:53:52Z",
+      "downloaded_at": "2026-09-19T19:16:41Z",
+      "bytes": 23434126
     },
     "05_etica/03_magna_moralia/magna_moralia-L01-C14_cena01": {
       "artifact_id": "0f5ad81d-1bbc-4d55-94c1-db314758e087",
       "audio_title": "aristoteles_27_l01_c14_cena01_magna_moralia",
       "audio_filename": "aristoteles_27_l01_c14_cena01_magna_moralia.m4a",
+      "status": "downloaded",
+      "created_at": "2026-09-18T17:55:59Z",
+      "downloaded_at": "2026-09-19T19:17:04Z",
+      "bytes": 41674455
+    },
+    "05_etica/03_magna_moralia/magna_moralia-L01-C15_cena01": {
+      "artifact_id": "4b3e55ca-0779-49ad-acb7-0e4a12c2b8e1",
+      "audio_title": "aristoteles_27_l01_c15_cena01_magna_moralia",
+      "audio_filename": "aristoteles_27_l01_c15_cena01_magna_moralia.m4a",
       "status": "created",
-      "created_at": "2026-09-18T17:55:59Z"
+      "created_at": "2026-09-19T19:17:16Z"
+    },
+    "05_etica/03_magna_moralia/magna_moralia-L01-C16_cena01": {
+      "artifact_id": "8c8d647f-86a1-419a-89df-d5446184b61a",
+      "audio_title": "aristoteles_27_l01_c16_cena01_magna_moralia",
+      "audio_filename": "aristoteles_27_l01_c16_cena01_magna_moralia.m4a",
+      "status": "created",
+      "created_at": "2026-09-19T19:19:20Z"
+    },
+    "05_etica/03_magna_moralia/magna_moralia-L01-C17_cena01": {
+      "artifact_id": "2181d8ae-5f76-4c0d-bb15-ba9ebe78b0d0",
+      "audio_title": "aristoteles_27_l01_c17_cena01_magna_moralia",
+      "audio_filename": "aristoteles_27_l01_c17_cena01_magna_moralia.m4a",
+      "status": "created",
+      "created_at": "2026-09-19T19:21:24Z"
+    },
+    "05_etica/03_magna_moralia/magna_moralia-L01-C18_cena01": {
+      "artifact_id": "9f896a3f-dbf6-4d6a-b8d5-19b17c0e04cb",
+      "audio_title": "aristoteles_27_l01_c18_cena01_magna_moralia",
+      "audio_filename": "aristoteles_27_l01_c18_cena01_magna_moralia.m4a",
+      "status": "created",
+      "created_at": "2026-09-19T19:23:29Z"
+    },
+    "05_etica/03_magna_moralia/magna_moralia-L01-C19_cena01": {
+      "artifact_id": "bd3b5154-2997-45c1-9cc1-f25e2628af8a",
+      "audio_title": "aristoteles_27_l01_c19_cena01_magna_moralia",
+      "audio_filename": "aristoteles_27_l01_c19_cena01_magna_moralia.m4a",
+      "status": "created",
+      "created_at": "2026-09-19T19:25:33Z"
+    },
+    "05_etica/03_magna_moralia/magna_moralia-L01-C20_cena01": {
+      "artifact_id": "6d937d58-9179-42d0-a888-e753077d3c18",
+      "audio_title": "aristoteles_27_l01_c20_cena01_magna_moralia",
+      "audio_filename": "aristoteles_27_l01_c20_cena01_magna_moralia.m4a",
+      "status": "created",
+      "created_at": "2026-09-19T19:27:36Z"
+    },
+    "05_etica/03_magna_moralia/magna_moralia-L01-C21_cena01": {
+      "artifact_id": "2c65fad0-fd24-4c57-9a4f-293a03b6eb6a",
+      "audio_title": "aristoteles_27_l01_c21_cena01_magna_moralia",
+      "audio_filename": "aristoteles_27_l01_c21_cena01_magna_moralia.m4a",
+      "status": "created",
+      "created_at": "2026-09-19T19:29:40Z"
+    },
+    "05_etica/03_magna_moralia/magna_moralia-L01-C22_cena01": {
+      "artifact_id": "a3d3f9f0-b147-4020-9b18-69b2229b0e64",
+      "audio_title": "aristoteles_27_l01_c22_cena01_magna_moralia",
+      "audio_filename": "aristoteles_27_l01_c22_cena01_magna_moralia.m4a",
+      "status": "created",
+      "created_at": "2026-09-19T19:31:43Z"
+    },
+    "05_etica/03_magna_moralia/magna_moralia-L01-C23_cena01": {
+      "artifact_id": "3f077563-d9ff-4fdb-b6b3-99d625845a99",
+      "audio_title": "aristoteles_27_l01_c23_cena01_magna_moralia",
+      "audio_filename": "aristoteles_27_l01_c23_cena01_magna_moralia.m4a",
+      "status": "created",
+      "created_at": "2026-09-19T19:33:46Z"
+    },
+    "05_etica/03_magna_moralia/magna_moralia-L01-C24_cena01": {
+      "artifact_id": "dbf9fabe-629d-4754-87c0-590d1e22bfc5",
+      "audio_title": "aristoteles_27_l01_c24_cena01_magna_moralia",
+      "audio_filename": "aristoteles_27_l01_c24_cena01_magna_moralia.m4a",
+      "status": "created",
+      "created_at": "2026-09-19T19:35:49Z"
+    },
+    "05_etica/03_magna_moralia/magna_moralia-L01-C25_cena01": {
+      "artifact_id": "855e92fb-a95f-4b4f-adb0-ec6a79c594bc",
+      "audio_title": "aristoteles_27_l01_c25_cena01_magna_moralia",
+      "audio_filename": "aristoteles_27_l01_c25_cena01_magna_moralia.m4a",
+      "status": "created",
+      "created_at": "2026-09-19T19:37:53Z"
+    },
+    "05_etica/03_magna_moralia/magna_moralia-L01-C26_cena01": {
+      "artifact_id": "64192a4f-1782-4068-9ab9-d78f087ab4b6",
+      "audio_title": "aristoteles_27_l01_c26_cena01_magna_moralia",
+      "audio_filename": "aristoteles_27_l01_c26_cena01_magna_moralia.m4a",
+      "status": "created",
+      "created_at": "2026-09-19T19:39:56Z"
+    },
+    "05_etica/03_magna_moralia/magna_moralia-L01-C27_cena01": {
+      "artifact_id": "0d531dd3-874e-4a9a-935a-aa0c41b791cf",
+      "audio_title": "aristoteles_27_l01_c27_cena01_magna_moralia",
+      "audio_filename": "aristoteles_27_l01_c27_cena01_magna_moralia.m4a",
+      "status": "created",
+      "created_at": "2026-09-19T19:41:58Z"
+    },
+    "05_etica/03_magna_moralia/magna_moralia-L01-C28_cena01": {
+      "artifact_id": "525b8497-82a4-4523-82b2-e5784be4de24",
+      "audio_title": "aristoteles_27_l01_c28_cena01_magna_moralia",
+      "audio_filename": "aristoteles_27_l01_c28_cena01_magna_moralia.m4a",
+      "status": "created",
+      "created_at": "2026-09-19T19:44:04Z"
+    },
+    "05_etica/03_magna_moralia/magna_moralia-L01-C29_cena01": {
+      "artifact_id": "90e0822a-4380-4b7f-bcf6-edcdb9580a50",
+      "audio_title": "aristoteles_27_l01_c29_cena01_magna_moralia",
+      "audio_filename": "aristoteles_27_l01_c29_cena01_magna_moralia.m4a",
+      "status": "created",
+      "created_at": "2026-09-19T19:46:09Z"
+    },
+    "05_etica/03_magna_moralia/magna_moralia-L01-C30_cena01": {
+      "artifact_id": "84057c66-b3da-42bb-8d40-1af52d7d8e7e",
+      "audio_title": "aristoteles_27_l01_c30_cena01_magna_moralia",
+      "audio_filename": "aristoteles_27_l01_c30_cena01_magna_moralia.m4a",
+      "status": "created",
+      "created_at": "2026-09-19T19:48:11Z"
+    },
+    "05_etica/03_magna_moralia/magna_moralia-L01-C31_cena01": {
+      "artifact_id": "1fe75f17-8e97-4a3a-86b1-9776d912ddd0",
+      "audio_title": "aristoteles_27_l01_c31_cena01_magna_moralia",
+      "audio_filename": "aristoteles_27_l01_c31_cena01_magna_moralia.m4a",
+      "status": "created",
+      "created_at": "2026-09-19T19:50:16Z"
+    },
+    "05_etica/03_magna_moralia/magna_moralia-L01-C32_cena01": {
+      "artifact_id": "a44f891b-9651-4eae-bf32-b30afc18a65d",
+      "audio_title": "aristoteles_27_l01_c32_cena01_magna_moralia",
+      "audio_filename": "aristoteles_27_l01_c32_cena01_magna_moralia.m4a",
+      "status": "created",
+      "created_at": "2026-09-19T19:52:22Z"
+    },
+    "05_etica/03_magna_moralia/magna_moralia-L01-C33_cena01": {
+      "artifact_id": "297a56d9-5095-44a7-a19c-73d7191c4bd3",
+      "audio_title": "aristoteles_27_l01_c33_cena01_magna_moralia",
+      "audio_filename": "aristoteles_27_l01_c33_cena01_magna_moralia.m4a",
+      "status": "created",
+      "created_at": "2026-09-19T19:54:28Z"
+    },
+    "05_etica/03_magna_moralia/magna_moralia-L01-C33_cena02": {
+      "artifact_id": "d7ff906c-7a30-47c3-b9fa-9b1c37290588",
+      "audio_title": "aristoteles_27_l01_c33_cena02_magna_moralia",
+      "audio_filename": "aristoteles_27_l01_c33_cena02_magna_moralia.m4a",
+      "status": "created",
+      "created_at": "2026-09-19T19:56:32Z"
     }
   },
   "substituidos": {
