@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-18T21:06:45.996930",
+  "atualizado": "2026-09-18T22:02:46.368281",
   "audios": [
     {
       "seq_global": 1,
@@ -2781,8 +2781,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-18T21:00:15.600614",
-      "status": "created",
-      "artifact_id": "f83e0951-7e59-4ec1-9751-e42d3d83cc4c"
+      "status": "downloaded",
+      "artifact_id": "f83e0951-7e59-4ec1-9751-e42d3d83cc4c",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/214_cap-068_cena-001_La-jactancia-del-vencedor-y-el-mentis-reportado.m4a",
+      "tamanho_bytes": 22561353
     },
     {
       "seq_global": 215,
@@ -2792,8 +2794,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-18T21:02:24.552052",
-      "status": "created",
-      "artifact_id": "2e055dc0-51a6-4616-af45-109bb178f66d"
+      "status": "downloaded",
+      "artifact_id": "2e055dc0-51a6-4616-af45-109bb178f66d",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/215_cap-068_cena-002_Los-escuderos-pactan-la-paz.m4a",
+      "tamanho_bytes": 18714207
     },
     {
       "seq_global": 216,
@@ -2803,8 +2807,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-18T21:04:33.784113",
-      "status": "created",
-      "artifact_id": "529c579f-2d2d-45f3-8161-b2ac22de5425"
+      "status": "downloaded",
+      "artifact_id": "529c579f-2d2d-45f3-8161-b2ac22de5425",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/216_cap-068_cena-003_El-alba-hermosa-y-la-nariz-monstruosa.m4a",
+      "tamanho_bytes": 37522401
     },
     {
       "seq_global": 217,
@@ -2813,7 +2819,7 @@
       "cap": 68,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-18T21:06:45.994266",
+      "data": "2026-09-18T22:02:46.365151",
       "status": "deferred"
     }
   ]
