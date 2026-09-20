@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-19T20:00:14.858528",
+  "atualizado": "2026-09-19T21:06:30.867704",
   "audios": [
     {
       "seq_global": 1,
@@ -2819,7 +2819,40 @@
       "cap": 68,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-19T20:00:14.856840",
+      "data": "2026-09-19T21:00:09.888855",
+      "status": "created",
+      "artifact_id": "e4860c89-afda-4bee-bd9c-4d9a0dc4af98"
+    },
+    {
+      "seq_global": 218,
+      "arquivo": "218_cap-069_cena-001_El-desengano-detras-del-espejo-la-cordura-que-finge-locura.m4a",
+      "titulo": "El desengano detras del espejo: la cordura que finge locura",
+      "cap": 69,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-19T21:02:15.042680",
+      "status": "created",
+      "artifact_id": "0f5e0d9b-d420-40d2-8523-39c820f3d3ce"
+    },
+    {
+      "seq_global": 219,
+      "arquivo": "219_cap-069_cena-002_Quien-es-mas-loco-el-dialogo-sobre-la-locura-y-la-venganza.m4a",
+      "titulo": "Quien es mas loco: el dialogo sobre la locura y la venganza",
+      "cap": 69,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-19T21:04:20.402412",
+      "status": "created",
+      "artifact_id": "dbfc9981-3db7-4749-af12-d1f8fbcf2853"
+    },
+    {
+      "seq_global": 220,
+      "arquivo": "220_cap-070_cena-001_Los-magos-que-salvan-al-enemigo-la-autodefensa-de-la-ilusion.m4a",
+      "titulo": "Los magos que salvan al enemigo: la autodefensa de la ilusión",
+      "cap": 70,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-19T21:06:30.864481",
       "status": "deferred"
     }
   ]
