@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-19T21:06:30.867704",
+  "atualizado": "2026-09-19T22:02:09.789053",
   "audios": [
     {
       "seq_global": 1,
@@ -2820,8 +2820,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-19T21:00:09.888855",
-      "status": "created",
-      "artifact_id": "e4860c89-afda-4bee-bd9c-4d9a0dc4af98"
+      "status": "downloaded",
+      "artifact_id": "e4860c89-afda-4bee-bd9c-4d9a0dc4af98",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/217_cap-068_cena-004_La-caida-y-el-rostro-de-Sanson-Carrasco.m4a",
+      "tamanho_bytes": 29589803
     },
     {
       "seq_global": 218,
@@ -2831,8 +2833,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-19T21:02:15.042680",
-      "status": "created",
-      "artifact_id": "0f5e0d9b-d420-40d2-8523-39c820f3d3ce"
+      "status": "downloaded",
+      "artifact_id": "0f5e0d9b-d420-40d2-8523-39c820f3d3ce",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/218_cap-069_cena-001_El-desengano-detras-del-espejo-la-cordura-que-finge-locura.m4a",
+      "tamanho_bytes": 35711747
     },
     {
       "seq_global": 219,
@@ -2842,8 +2846,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-19T21:04:20.402412",
-      "status": "created",
-      "artifact_id": "dbfc9981-3db7-4749-af12-d1f8fbcf2853"
+      "status": "downloaded",
+      "artifact_id": "dbfc9981-3db7-4749-af12-d1f8fbcf2853",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/219_cap-069_cena-002_Quien-es-mas-loco-el-dialogo-sobre-la-locura-y-la-venganza.m4a",
+      "tamanho_bytes": 33138018
     },
     {
       "seq_global": 220,
@@ -2852,7 +2858,7 @@
       "cap": 70,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-19T21:06:30.864481",
+      "data": "2026-09-19T22:02:09.785333",
       "status": "deferred"
     }
   ]
