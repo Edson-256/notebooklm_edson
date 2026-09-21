@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-20T20:00:18.313475",
+  "atualizado": "2026-09-20T21:06:38.102175",
   "audios": [
     {
       "seq_global": 1,
@@ -2858,7 +2858,40 @@
       "cap": 70,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-20T20:00:18.310019",
+      "data": "2026-09-20T21:00:12.923037",
+      "status": "created",
+      "artifact_id": "0d491b3a-c7fc-48f4-8e73-d468efea171c"
+    },
+    {
+      "seq_global": 221,
+      "arquivo": "221_cap-070_cena-002_El-encuentro-con-el-del-Verde-Gaban-dos-mundos-que-se-miran.m4a",
+      "titulo": "El encuentro con el del Verde Gabán: dos mundos que se miran",
+      "cap": 70,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-20T21:02:18.890905",
+      "status": "created",
+      "artifact_id": "883d998a-30b6-437b-b5c7-b11923811ecf"
+    },
+    {
+      "seq_global": 222,
+      "arquivo": "222_cap-070_cena-003_El-retrato-del-hombre-mesurado-y-los-besos-de-Sancho.m4a",
+      "titulo": "El retrato del hombre mesurado y los besos de Sancho",
+      "cap": 70,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-20T21:04:25.205471",
+      "status": "created",
+      "artifact_id": "4de755a7-c247-476e-91f4-199370e5a378"
+    },
+    {
+      "seq_global": 223,
+      "arquivo": "223_cap-070_cena-004_El-discurso-de-la-poesia-la-doncella-y-la-estrella-del-hijo.m4a",
+      "titulo": "El discurso de la poesía: la doncella y la estrella del hijo",
+      "cap": 70,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-20T21:06:38.096258",
       "status": "deferred"
     }
   ]
