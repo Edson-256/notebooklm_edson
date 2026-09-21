@@ -13,6 +13,8 @@ Uso:
     python audio_runner.py --dry-run            # ver plano
     python audio_runner.py --max 3              # disparar próximo lote (cron usa isso)
     python audio_runner.py --download           # baixar status=created → downloaded
+    python audio_runner.py --fetch-legacy       # baixar os artifacts legacy do studio (seqs skipped_legacy)
+    python audio_runner.py --only-seqs 1-4 --redo --max 3   # recriar cenas específicas (ignora skipped_legacy)
 """
 from __future__ import annotations
 
@@ -393,6 +395,12 @@ def run_create(args, items: list[dict]) -> int:
             return 1
 
     processed = get_processed_seqs()
+    if getattr(args, "redo", False):
+        # --redo só chega aqui junto de --only-seqs: items já está restrito às
+        # seqs alvo, então liberá-las do filtro de processados é seguro.
+        redo_seqs = {it["seq_global"] for it in items}
+        processed -= redo_seqs
+        log(f"--redo: ignorando status anterior de {sorted(redo_seqs)}")
     pending = [it for it in items if it["seq_global"] not in processed]
     print()
     log(f"Total: {len(items)} | Processados: {len(processed)} | Pendentes: {len(pending)}")
@@ -543,6 +551,74 @@ def run_download(items: list[dict]) -> int:
     return 0 if fail == 0 else 1
 
 
+
+def parse_seq_spec(spec: str) -> set[int]:
+    """'1-4', '1,2,7', '1-4,9' → {1,2,3,4,...}."""
+    seqs: set[int] = set()
+    for part in spec.split(","):
+        part = part.strip()
+        if not part:
+            continue
+        if "-" in part:
+            a, b = part.split("-", 1)
+            seqs.update(range(int(a), int(b) + 1))
+        else:
+            seqs.add(int(part))
+    return seqs
+
+
+def run_fetch_legacy() -> int:
+    """Baixa os artifacts antigos do studio referenciados em legacy_artifacts_ids.
+
+    São áudios gerados com prompt genérico (sem Scene Identifier), por isso as
+    seqs correspondentes ficaram como skipped_legacy. O download vai para
+    audios/legacy/ e NÃO altera o status dessas seqs — o manifesto continua
+    dizendo a verdade (essas cenas não têm áudio cena-a-cena).
+    """
+    if not check_auth():
+        log("ERRO: nlm nao autenticado. Execute: nlm login --profile " + PROFILE); return 1
+    md = load_metadata()
+    ids: list[str] = []
+    for a in md.get("audios", []):
+        for aid in a.get("legacy_artifacts_ids", []) or []:
+            if aid not in ids:
+                ids.append(aid)
+    if not ids:
+        log("Nenhum legacy_artifacts_ids no metadata."); return 0
+
+    out_dir = AUDIOS_DIR / "legacy"
+    out_dir.mkdir(parents=True, exist_ok=True)
+    log(f"Legacy: {len(ids)} artifacts a baixar → {out_dir}")
+
+    registry = {d["artifact_id"]: d for d in md.get("legacy_downloads", [])}
+    ok = fail = 0
+    for i, aid in enumerate(ids, 1):
+        if shutdown_requested: break
+        out = out_dir / f"{FILENAME_PREFIX}_legacy_{i:02d}_{aid[:8]}.m4a"
+        log(f"[{i}/{len(ids)}] artifact {aid[:12]}... → {out.name}")
+        if out.exists() and out.stat().st_size > 0:
+            log("   já baixado — pulando"); ok += 1; continue
+        st = poll_status(aid)
+        if st and st != "completed":
+            log(f"   status studio: {st!r} — pulando"); fail += 1; continue
+        if st is None:
+            log("   AVISO: artifact não aparece no studio status; tentando download assim mesmo")
+        if download_artifact(aid, out):
+            registry[aid] = {"artifact_id": aid, "arquivo": out.name,
+                             "output_path": str(out), "tamanho_bytes": out.stat().st_size,
+                             "baixado_em": datetime.now().isoformat(), "status": "downloaded"}
+            ok += 1
+            _sync_to_dell("manzoni", out)
+        else:
+            fail += 1
+
+    md = load_metadata()          # recarrega (cron pode ter escrito no intervalo)
+    md["legacy_downloads"] = sorted(registry.values(), key=lambda d: d["arquivo"])
+    save_metadata(md)
+    print(f"\nLegacy baixados: {ok}  Falhas: {fail}")
+    return 0 if fail == 0 else 1
+
+
 # ── CLI ────────────────────────────────────────────────────────────────
 
 def parse_args():
@@ -557,6 +633,12 @@ def parse_args():
                    help="baixar áudios com status=created")
     p.add_argument("--skip-auth-check", action="store_true",
                    help="pular check de auth (só com --dry-run)")
+    p.add_argument("--fetch-legacy", action="store_true", dest="fetch_legacy",
+                   help="baixar artifacts legacy do studio para audios/legacy/")
+    p.add_argument("--only-seqs", dest="only_seqs",
+                   help="restringir o manifesto a estas seq_global (ex: '1-4' ou '1,2,9')")
+    p.add_argument("--redo", action="store_true",
+                   help="reprocessar as seqs de --only-seqs mesmo já marcadas (ex: skipped_legacy)")
     return p.parse_args()
 
 
@@ -565,8 +647,21 @@ def main() -> int:
     print(f"\n  {OBRA_TITLE} — Audio Runner")
     print(f"  notebook={NOTEBOOK_ID[:8]}... profile={PROFILE} lang={LANGUAGE}\n")
 
+    if args.redo and not args.only_seqs:
+        log("ERRO: --redo exige --only-seqs"); return 1
+
+    if args.fetch_legacy:
+        return run_fetch_legacy()
+
     items = build_manifest()
     log(f"Manifest: {len(items)} cenas pareadas com prompts")
+
+    if args.only_seqs:
+        wanted = parse_seq_spec(args.only_seqs)
+        items = [it for it in items if it["seq_global"] in wanted]
+        if not items:
+            log(f"ERRO: nenhuma cena com seq em {sorted(wanted)}"); return 1
+        log(f"Filtro --only-seqs: {len(items)} cenas ({sorted(it['seq_global'] for it in items)})")
 
     if args.bootstrap:
         return bootstrap_from_studio(items)
