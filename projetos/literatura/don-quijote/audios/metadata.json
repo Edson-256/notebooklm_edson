@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-20T21:06:38.102175",
+  "atualizado": "2026-09-20T22:02:13.987710",
   "audios": [
     {
       "seq_global": 1,
@@ -2859,8 +2859,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-20T21:00:12.923037",
-      "status": "created",
-      "artifact_id": "0d491b3a-c7fc-48f4-8e73-d468efea171c"
+      "status": "downloaded",
+      "artifact_id": "0d491b3a-c7fc-48f4-8e73-d468efea171c",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/220_cap-070_cena-001_Los-magos-que-salvan-al-enemigo-la-autodefensa-de-la-ilusion.m4a",
+      "tamanho_bytes": 38390061
     },
     {
       "seq_global": 221,
@@ -2870,8 +2872,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-20T21:02:18.890905",
-      "status": "created",
-      "artifact_id": "883d998a-30b6-437b-b5c7-b11923811ecf"
+      "status": "downloaded",
+      "artifact_id": "883d998a-30b6-437b-b5c7-b11923811ecf",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/221_cap-070_cena-002_El-encuentro-con-el-del-Verde-Gaban-dos-mundos-que-se-miran.m4a",
+      "tamanho_bytes": 21373845
     },
     {
       "seq_global": 222,
@@ -2881,8 +2885,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-20T21:04:25.205471",
-      "status": "created",
-      "artifact_id": "4de755a7-c247-476e-91f4-199370e5a378"
+      "status": "downloaded",
+      "artifact_id": "4de755a7-c247-476e-91f4-199370e5a378",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/222_cap-070_cena-003_El-retrato-del-hombre-mesurado-y-los-besos-de-Sancho.m4a",
+      "tamanho_bytes": 23058250
     },
     {
       "seq_global": 223,
@@ -2891,7 +2897,7 @@
       "cap": 70,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-20T21:06:38.096258",
+      "data": "2026-09-20T22:02:13.983794",
       "status": "deferred"
     }
   ]
