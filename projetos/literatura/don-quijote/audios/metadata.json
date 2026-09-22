@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-21T21:06:44.864286",
+  "atualizado": "2026-09-21T22:01:56.489080",
   "audios": [
     {
       "seq_global": 1,
@@ -2898,8 +2898,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-21T21:00:14.268960",
-      "status": "created",
-      "artifact_id": "70999329-090f-4eb3-aad6-4d31e197f66a"
+      "status": "downloaded",
+      "artifact_id": "70999329-090f-4eb3-aad6-4d31e197f66a",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/223_cap-070_cena-004_El-discurso-de-la-poesia-la-doncella-y-la-estrella-del-hijo.m4a",
+      "tamanho_bytes": 37401381
     },
     {
       "seq_global": 224,
@@ -2909,8 +2911,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-21T21:02:23.088633",
-      "status": "created",
-      "artifact_id": "8678a351-2318-4724-af60-6391c86a6801"
+      "status": "downloaded",
+      "artifact_id": "8678a351-2318-4724-af60-6391c86a6801",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/224_cap-071_cena-001_Los-requesones-en-la-celada.m4a",
+      "tamanho_bytes": 42888110
     },
     {
       "seq_global": 225,
@@ -2920,8 +2924,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-21T21:04:32.738962",
-      "status": "created",
-      "artifact_id": "780c1d41-d76d-4e0d-8f2d-ba36bcbc154a"
+      "status": "downloaded",
+      "artifact_id": "780c1d41-d76d-4e0d-8f2d-ba36bcbc154a",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/225_cap-071_cena-002_La-aventura-de-los-leones.m4a",
+      "tamanho_bytes": 22804141
     },
     {
       "seq_global": 226,
@@ -2930,7 +2936,7 @@
       "cap": 71,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-21T21:06:44.859640",
+      "data": "2026-09-21T22:01:56.484785",
       "status": "deferred"
     }
   ]
