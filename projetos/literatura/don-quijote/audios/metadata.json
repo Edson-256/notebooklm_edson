@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-21T20:00:15.321465",
+  "atualizado": "2026-09-21T21:06:44.864286",
   "audios": [
     {
       "seq_global": 1,
@@ -2897,7 +2897,40 @@
       "cap": 70,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-21T20:00:15.317477",
+      "data": "2026-09-21T21:00:14.268960",
+      "status": "created",
+      "artifact_id": "70999329-090f-4eb3-aad6-4d31e197f66a"
+    },
+    {
+      "seq_global": 224,
+      "arquivo": "224_cap-071_cena-001_Los-requesones-en-la-celada.m4a",
+      "titulo": "Los requesones en la celada",
+      "cap": 71,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-21T21:02:23.088633",
+      "status": "created",
+      "artifact_id": "8678a351-2318-4724-af60-6391c86a6801"
+    },
+    {
+      "seq_global": 225,
+      "arquivo": "225_cap-071_cena-002_La-aventura-de-los-leones.m4a",
+      "titulo": "La aventura de los leones",
+      "cap": 71,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-21T21:04:32.738962",
+      "status": "created",
+      "artifact_id": "780c1d41-d76d-4e0d-8f2d-ba36bcbc154a"
+    },
+    {
+      "seq_global": 226,
+      "arquivo": "226_cap-071_cena-003_El-discurso-sobre-la-valentia-y-la-temeridad.m4a",
+      "titulo": "El discurso sobre la valentia y la temeridad",
+      "cap": 71,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-21T21:06:44.859640",
       "status": "deferred"
     }
   ]
