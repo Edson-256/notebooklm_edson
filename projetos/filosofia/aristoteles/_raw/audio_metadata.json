@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T21:49:41Z",
+  "updated_at": "2026-09-22T21:56:07Z",
   "audios": {
     "05_etica/01_etica_nicomaco/L01-C01_cena01": {
       "artifact_id": "46097252-f46f-41a0-b77f-86b89e4b0945",
@@ -14901,6 +14901,146 @@
       "audio_filename": "aristoteles_27_l02_c12_cena01_magna_moralia.m4a",
       "status": "created",
       "created_at": "2026-09-20T21:49:41Z"
+    },
+    "05_etica/03_magna_moralia/magna_moralia-L02-C13_cena01": {
+      "artifact_id": "81b9f960-8db7-4545-8590-8032d44401cb",
+      "audio_title": "aristoteles_27_l02_c13_cena01_magna_moralia",
+      "audio_filename": "aristoteles_27_l02_c13_cena01_magna_moralia.m4a",
+      "status": "created",
+      "created_at": "2026-09-22T21:16:25Z"
+    },
+    "05_etica/03_magna_moralia/magna_moralia-L02-C14_cena01": {
+      "artifact_id": "3aa2cbd2-35de-4b2f-917b-f67e1ffe0ff0",
+      "audio_title": "aristoteles_27_l02_c14_cena01_magna_moralia",
+      "audio_filename": "aristoteles_27_l02_c14_cena01_magna_moralia.m4a",
+      "status": "created",
+      "created_at": "2026-09-22T21:18:32Z"
+    },
+    "05_etica/03_magna_moralia/magna_moralia-L02-C15_cena01": {
+      "artifact_id": "0c88d92d-956f-4504-b8c2-bd01d0be67fa",
+      "audio_title": "aristoteles_27_l02_c15_cena01_magna_moralia",
+      "audio_filename": "aristoteles_27_l02_c15_cena01_magna_moralia.m4a",
+      "status": "created",
+      "created_at": "2026-09-22T21:20:35Z"
+    },
+    "05_etica/03_magna_moralia/magna_moralia-L02-C16_cena01": {
+      "artifact_id": "ffffda6d-1c06-4931-8507-01853c39c714",
+      "audio_title": "aristoteles_27_l02_c16_cena01_magna_moralia",
+      "audio_filename": "aristoteles_27_l02_c16_cena01_magna_moralia.m4a",
+      "status": "created",
+      "created_at": "2026-09-22T21:22:38Z"
+    },
+    "05_etica/03_magna_moralia/magna_moralia-L02-C17_cena01": {
+      "artifact_id": "6d36b02e-020c-4b86-8e3d-7a7d3d3a2607",
+      "audio_title": "aristoteles_27_l02_c17_cena01_magna_moralia",
+      "audio_filename": "aristoteles_27_l02_c17_cena01_magna_moralia.m4a",
+      "status": "created",
+      "created_at": "2026-09-22T21:24:41Z"
+    },
+    "05_etica/03_magna_moralia/on_virtues_and_vices-L01-C01_cena01": {
+      "artifact_id": "93af4d7d-6293-434b-bee8-6569e37ed290",
+      "audio_title": "aristoteles_28_l01_c01_cena01_on_virtues_and_vices",
+      "audio_filename": "aristoteles_28_l01_c01_cena01_on_virtues_and_vices.m4a",
+      "status": "created",
+      "created_at": "2026-09-22T21:26:47Z"
+    },
+    "05_etica/03_magna_moralia/on_virtues_and_vices-L01-C02_cena01": {
+      "artifact_id": "9e3e82eb-41dd-44fa-ac07-b5f1ef306fff",
+      "audio_title": "aristoteles_28_l01_c02_cena01_on_virtues_and_vices",
+      "audio_filename": "aristoteles_28_l01_c02_cena01_on_virtues_and_vices.m4a",
+      "status": "created",
+      "created_at": "2026-09-22T21:28:53Z"
+    },
+    "05_etica/03_magna_moralia/on_virtues_and_vices-L01-C03_cena01": {
+      "artifact_id": "92d56a8d-03c2-4264-96a9-9a32d154463d",
+      "audio_title": "aristoteles_28_l01_c03_cena01_on_virtues_and_vices",
+      "audio_filename": "aristoteles_28_l01_c03_cena01_on_virtues_and_vices.m4a",
+      "status": "created",
+      "created_at": "2026-09-22T21:30:59Z"
+    },
+    "05_etica/03_magna_moralia/on_virtues_and_vices-L01-C04_cena01": {
+      "artifact_id": "71895f24-d1cf-41a6-8880-dc838bd97e30",
+      "audio_title": "aristoteles_28_l01_c04_cena01_on_virtues_and_vices",
+      "audio_filename": "aristoteles_28_l01_c04_cena01_on_virtues_and_vices.m4a",
+      "status": "created",
+      "created_at": "2026-09-22T21:33:05Z"
+    },
+    "05_etica/03_magna_moralia/on_virtues_and_vices-L01-C05_cena01": {
+      "artifact_id": "6bbc57e6-95b9-479d-b6e5-040bed288a7f",
+      "audio_title": "aristoteles_28_l01_c05_cena01_on_virtues_and_vices",
+      "audio_filename": "aristoteles_28_l01_c05_cena01_on_virtues_and_vices.m4a",
+      "status": "created",
+      "created_at": "2026-09-22T21:35:11Z"
+    },
+    "05_etica/03_magna_moralia/on_virtues_and_vices-L01-C06_cena01": {
+      "artifact_id": "c4a01417-257c-4cac-9401-af4af76c417d",
+      "audio_title": "aristoteles_28_l01_c06_cena01_on_virtues_and_vices",
+      "audio_filename": "aristoteles_28_l01_c06_cena01_on_virtues_and_vices.m4a",
+      "status": "created",
+      "created_at": "2026-09-22T21:37:18Z"
+    },
+    "05_etica/03_magna_moralia/on_virtues_and_vices-L01-C07_cena01": {
+      "artifact_id": "4fee15f9-7422-4ce8-b183-b95c2e6ba219",
+      "audio_title": "aristoteles_28_l01_c07_cena01_on_virtues_and_vices",
+      "audio_filename": "aristoteles_28_l01_c07_cena01_on_virtues_and_vices.m4a",
+      "status": "created",
+      "created_at": "2026-09-22T21:39:24Z"
+    },
+    "05_etica/03_magna_moralia/on_virtues_and_vices-L01-C08_cena01": {
+      "artifact_id": "ab9bf987-3afa-43a5-8301-b27812d4265e",
+      "audio_title": "aristoteles_28_l01_c08_cena01_on_virtues_and_vices",
+      "audio_filename": "aristoteles_28_l01_c08_cena01_on_virtues_and_vices.m4a",
+      "status": "created",
+      "created_at": "2026-09-22T21:41:30Z"
+    },
+    "06_politica/03_economicos/L02-C02_cena01": {
+      "artifact_id": "76086c1d-57ef-4521-b593-33bd8adee5d1",
+      "audio_title": "aristoteles_31_l02_c02_cena01_economicos",
+      "audio_filename": "aristoteles_31_l02_c02_cena01_economicos.m4a",
+      "status": "created",
+      "created_at": "2026-09-22T21:43:38Z"
+    },
+    "06_politica/03_economicos/L02-C03_cena01": {
+      "artifact_id": "ea37c264-4d0e-4326-b823-4581c3dcff1d",
+      "audio_title": "aristoteles_31_l02_c03_cena01_economicos",
+      "audio_filename": "aristoteles_31_l02_c03_cena01_economicos.m4a",
+      "status": "created",
+      "created_at": "2026-09-22T21:45:43Z"
+    },
+    "06_politica/03_economicos/L02-C04_cena01": {
+      "artifact_id": "123742ea-e7b8-4e6b-98fb-0766b4b8164c",
+      "audio_title": "aristoteles_31_l02_c04_cena01_economicos",
+      "audio_filename": "aristoteles_31_l02_c04_cena01_economicos.m4a",
+      "status": "created",
+      "created_at": "2026-09-22T21:47:49Z"
+    },
+    "06_politica/03_economicos/L02-C08_cena01": {
+      "artifact_id": "24b70562-5c07-4a5b-b018-1caeb6aea091",
+      "audio_title": "aristoteles_31_l02_c08_cena01_economicos",
+      "audio_filename": "aristoteles_31_l02_c08_cena01_economicos.m4a",
+      "status": "created",
+      "created_at": "2026-09-22T21:49:53Z"
+    },
+    "06_politica/03_economicos/L02-C12_cena01": {
+      "artifact_id": "079468e3-4c47-4fce-a2f6-65a46de4edcc",
+      "audio_title": "aristoteles_31_l02_c12_cena01_economicos",
+      "audio_filename": "aristoteles_31_l02_c12_cena01_economicos.m4a",
+      "status": "created",
+      "created_at": "2026-09-22T21:51:58Z"
+    },
+    "06_politica/03_economicos/L02-C14_cena01": {
+      "artifact_id": "df7b2726-1224-4a89-bd25-97781523fbff",
+      "audio_title": "aristoteles_31_l02_c14_cena01_economicos",
+      "audio_filename": "aristoteles_31_l02_c14_cena01_economicos.m4a",
+      "status": "created",
+      "created_at": "2026-09-22T21:54:03Z"
+    },
+    "06_politica/03_economicos/L02-C15_cena01": {
+      "artifact_id": "e444cffc-9cfc-4192-80e5-72647a3d8762",
+      "audio_title": "aristoteles_31_l02_c15_cena01_economicos",
+      "audio_filename": "aristoteles_31_l02_c15_cena01_economicos.m4a",
+      "status": "created",
+      "created_at": "2026-09-22T21:56:07Z"
     }
   },
   "substituidos": {
