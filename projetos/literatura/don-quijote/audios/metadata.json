@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-22T20:00:16.946828",
+  "atualizado": "2026-09-22T21:06:47.023857",
   "audios": [
     {
       "seq_global": 1,
@@ -2936,7 +2936,40 @@
       "cap": 71,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-22T20:00:16.943613",
+      "data": "2026-09-22T21:00:15.478106",
+      "status": "created",
+      "artifact_id": "5e4cbd65-3cd4-4267-8ed1-6a1be748a94b"
+    },
+    {
+      "seq_global": 227,
+      "arquivo": "227_cap-072_cena-001_Las-tinajas-del-Toboso-la-memoria-que-hiere.m4a",
+      "titulo": "Las tinajas del Toboso: la memoria que hiere",
+      "cap": 72,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-22T21:02:24.204889",
+      "status": "created",
+      "artifact_id": "2556bec6-ad92-4a23-90de-c590add780d1"
+    },
+    {
+      "seq_global": 228,
+      "arquivo": "228_cap-072_cena-002_Tomar-el-pulso-al-loco-la-ciencia-de-la-andante-caballeria.m4a",
+      "titulo": "Tomar el pulso al loco: la ciencia de la andante caballeria",
+      "cap": 72,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-22T21:04:34.906951",
+      "status": "created",
+      "artifact_id": "08be9310-e433-4245-9554-e574af65d4cf"
+    },
+    {
+      "seq_global": 229,
+      "arquivo": "229_cap-072_cena-003_La-fuerza-de-la-adulacion-el-loco-corona-al-poeta.m4a",
+      "titulo": "La fuerza de la adulacion: el loco corona al poeta",
+      "cap": 72,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-22T21:06:47.021604",
       "status": "deferred"
     }
   ]
