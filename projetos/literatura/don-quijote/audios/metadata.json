@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-22T21:06:47.023857",
+  "atualizado": "2026-09-22T22:02:54.512418",
   "audios": [
     {
       "seq_global": 1,
@@ -2937,8 +2937,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-22T21:00:15.478106",
-      "status": "created",
-      "artifact_id": "5e4cbd65-3cd4-4267-8ed1-6a1be748a94b"
+      "status": "downloaded",
+      "artifact_id": "5e4cbd65-3cd4-4267-8ed1-6a1be748a94b",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/226_cap-071_cena-003_El-discurso-sobre-la-valentia-y-la-temeridad.m4a",
+      "tamanho_bytes": 21438090
     },
     {
       "seq_global": 227,
@@ -2948,8 +2950,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-22T21:02:24.204889",
-      "status": "created",
-      "artifact_id": "2556bec6-ad92-4a23-90de-c590add780d1"
+      "status": "downloaded",
+      "artifact_id": "2556bec6-ad92-4a23-90de-c590add780d1",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/227_cap-072_cena-001_Las-tinajas-del-Toboso-la-memoria-que-hiere.m4a",
+      "tamanho_bytes": 22550895
     },
     {
       "seq_global": 228,
@@ -2959,8 +2963,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-22T21:04:34.906951",
-      "status": "created",
-      "artifact_id": "08be9310-e433-4245-9554-e574af65d4cf"
+      "status": "downloaded",
+      "artifact_id": "08be9310-e433-4245-9554-e574af65d4cf",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/228_cap-072_cena-002_Tomar-el-pulso-al-loco-la-ciencia-de-la-andante-caballeria.m4a",
+      "tamanho_bytes": 41043723
     },
     {
       "seq_global": 229,
@@ -2969,7 +2975,7 @@
       "cap": 72,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-22T21:06:47.021604",
+      "data": "2026-09-22T22:02:54.508237",
       "status": "deferred"
     }
   ]
