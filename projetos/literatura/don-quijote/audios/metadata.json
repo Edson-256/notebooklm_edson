@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-23T20:00:17.580358",
+  "atualizado": "2026-09-23T21:06:46.731053",
   "audios": [
     {
       "seq_global": 1,
@@ -2975,7 +2975,40 @@
       "cap": 72,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-23T20:00:17.574642",
+      "data": "2026-09-23T21:00:14.359097",
+      "status": "created",
+      "artifact_id": "e5b33969-742c-404d-b8bf-8668732cb693"
+    },
+    {
+      "seq_global": 230,
+      "arquivo": "230_cap-073_cena-001_Basilio-y-Quiteria-los-amantes-desiguales.m4a",
+      "titulo": "Basilio y Quiteria: los amantes desiguales",
+      "cap": 73,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-23T21:02:23.598451",
+      "status": "created",
+      "artifact_id": "0ccb90f8-92a0-4476-8018-3cb017296950"
+    },
+    {
+      "seq_global": 231,
+      "arquivo": "231_cap-073_cena-002_El-discurso-del-matrimonio-el-nudo-gordiano.m4a",
+      "titulo": "El discurso del matrimonio: el nudo gordiano",
+      "cap": 73,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-23T21:04:34.565942",
+      "status": "created",
+      "artifact_id": "157545f5-c4a3-4003-bf23-ec86a6767bba"
+    },
+    {
+      "seq_global": 232,
+      "arquivo": "232_cap-073_cena-003_Corchuelo-y-el-diestro-la-fuerza-vencida-del-arte.m4a",
+      "titulo": "Corchuelo y el diestro: la fuerza vencida del arte",
+      "cap": 73,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-23T21:06:46.728417",
       "status": "deferred"
     }
   ]
