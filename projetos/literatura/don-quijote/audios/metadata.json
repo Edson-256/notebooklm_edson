@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-23T21:06:46.731053",
+  "atualizado": "2026-09-23T22:03:21.179242",
   "audios": [
     {
       "seq_global": 1,
@@ -2976,8 +2976,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-23T21:00:14.359097",
-      "status": "created",
-      "artifact_id": "e5b33969-742c-404d-b8bf-8668732cb693"
+      "status": "downloaded",
+      "artifact_id": "e5b33969-742c-404d-b8bf-8668732cb693",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/229_cap-072_cena-003_La-fuerza-de-la-adulacion-el-loco-corona-al-poeta.m4a",
+      "tamanho_bytes": 19605017
     },
     {
       "seq_global": 230,
@@ -2987,8 +2989,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-23T21:02:23.598451",
-      "status": "created",
-      "artifact_id": "0ccb90f8-92a0-4476-8018-3cb017296950"
+      "status": "downloaded",
+      "artifact_id": "0ccb90f8-92a0-4476-8018-3cb017296950",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/230_cap-073_cena-001_Basilio-y-Quiteria-los-amantes-desiguales.m4a",
+      "tamanho_bytes": 36970224
     },
     {
       "seq_global": 231,
@@ -2998,8 +3002,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-23T21:04:34.565942",
-      "status": "created",
-      "artifact_id": "157545f5-c4a3-4003-bf23-ec86a6767bba"
+      "status": "downloaded",
+      "artifact_id": "157545f5-c4a3-4003-bf23-ec86a6767bba",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/231_cap-073_cena-002_El-discurso-del-matrimonio-el-nudo-gordiano.m4a",
+      "tamanho_bytes": 34582507
     },
     {
       "seq_global": 232,
@@ -3008,7 +3014,7 @@
       "cap": 73,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-23T21:06:46.728417",
+      "data": "2026-09-23T22:03:21.176924",
       "status": "deferred"
     }
   ]
