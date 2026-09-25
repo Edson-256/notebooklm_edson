@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-24T20:00:18.056223",
+  "atualizado": "2026-09-24T21:06:48.487080",
   "audios": [
     {
       "seq_global": 1,
@@ -3014,7 +3014,40 @@
       "cap": 73,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-24T20:00:18.053204",
+      "data": "2026-09-24T21:00:13.657268",
+      "status": "created",
+      "artifact_id": "b61b783e-dbb0-4544-baf4-3d8ca2844d72"
+    },
+    {
+      "seq_global": 233,
+      "arquivo": "233_cap-074_cena-001_El-amo-vela-mientras-el-criado-duerme.m4a",
+      "titulo": "El amo vela mientras el criado duerme",
+      "cap": 74,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-24T21:02:26.093303",
+      "status": "created",
+      "artifact_id": "388bdbfa-082c-4e3f-9e34-a9aa01ef005f"
+    },
+    {
+      "seq_global": 234,
+      "arquivo": "234_cap-074_cena-002_El-opulento-aparato-de-la-boda.m4a",
+      "titulo": "El opulento aparato de la boda",
+      "cap": 74,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-24T21:04:34.944239",
+      "status": "created",
+      "artifact_id": "91efd91a-b3e3-4521-856c-fdc75f7e3120"
+    },
+    {
+      "seq_global": 235,
+      "arquivo": "235_cap-074_cena-003_La-danza-del-Amor-y-el-Interes.m4a",
+      "titulo": "La danza del Amor y el Interes",
+      "cap": 74,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-24T21:06:48.479248",
       "status": "deferred"
     }
   ]
