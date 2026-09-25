@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-24T21:06:48.487080",
+  "atualizado": "2026-09-24T22:03:26.515467",
   "audios": [
     {
       "seq_global": 1,
@@ -3015,8 +3015,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-24T21:00:13.657268",
-      "status": "created",
-      "artifact_id": "b61b783e-dbb0-4544-baf4-3d8ca2844d72"
+      "status": "downloaded",
+      "artifact_id": "b61b783e-dbb0-4544-baf4-3d8ca2844d72",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/232_cap-073_cena-003_Corchuelo-y-el-diestro-la-fuerza-vencida-del-arte.m4a",
+      "tamanho_bytes": 22008313
     },
     {
       "seq_global": 233,
@@ -3026,8 +3028,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-24T21:02:26.093303",
-      "status": "created",
-      "artifact_id": "388bdbfa-082c-4e3f-9e34-a9aa01ef005f"
+      "status": "downloaded",
+      "artifact_id": "388bdbfa-082c-4e3f-9e34-a9aa01ef005f",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/233_cap-074_cena-001_El-amo-vela-mientras-el-criado-duerme.m4a",
+      "tamanho_bytes": 40959307
     },
     {
       "seq_global": 234,
@@ -3037,8 +3041,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-24T21:04:34.944239",
-      "status": "created",
-      "artifact_id": "91efd91a-b3e3-4521-856c-fdc75f7e3120"
+      "status": "downloaded",
+      "artifact_id": "91efd91a-b3e3-4521-856c-fdc75f7e3120",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/234_cap-074_cena-002_El-opulento-aparato-de-la-boda.m4a",
+      "tamanho_bytes": 19820172
     },
     {
       "seq_global": 235,
@@ -3047,7 +3053,7 @@
       "cap": 74,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-24T21:06:48.479248",
+      "data": "2026-09-24T22:03:26.512365",
       "status": "deferred"
     }
   ]
