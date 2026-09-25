@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T00:15:25Z",
+  "updated_at": "2026-09-25T03:38:41Z",
   "audios": {
     "05_etica/01_etica_nicomaco/L01-C01_cena01": {
       "artifact_id": "46097252-f46f-41a0-b77f-86b89e4b0945",
@@ -15126,141 +15126,251 @@
       "artifact_id": "0f4ade57-e751-4fe9-9de9-bc8dae869631",
       "audio_title": "aristoteles_31_l02_c17_cena01_economicos",
       "audio_filename": "aristoteles_31_l02_c17_cena01_economicos.m4a",
-      "status": "created",
-      "created_at": "2026-09-23T23:34:49Z"
+      "status": "downloaded",
+      "created_at": "2026-09-23T23:34:49Z",
+      "downloaded_at": "2026-09-25T03:01:27Z",
+      "bytes": 47328637
     },
     "06_politica/03_economicos/L02-C19_cena01": {
       "artifact_id": "24aa815d-7393-4aeb-96be-e5d22311b5a8",
       "audio_title": "aristoteles_31_l02_c19_cena01_economicos",
       "audio_filename": "aristoteles_31_l02_c19_cena01_economicos.m4a",
-      "status": "created",
-      "created_at": "2026-09-23T23:36:57Z"
+      "status": "downloaded",
+      "created_at": "2026-09-23T23:36:57Z",
+      "downloaded_at": "2026-09-25T03:02:25Z",
+      "bytes": 33439190
     },
     "06_politica/03_economicos/L02-C20_cena01": {
       "artifact_id": "6801b6cb-867e-4a7d-a0d7-09d49b5fa8c5",
       "audio_title": "aristoteles_31_l02_c20_cena01_economicos",
       "audio_filename": "aristoteles_31_l02_c20_cena01_economicos.m4a",
-      "status": "created",
-      "created_at": "2026-09-23T23:39:06Z"
+      "status": "downloaded",
+      "created_at": "2026-09-23T23:39:06Z",
+      "downloaded_at": "2026-09-25T03:03:22Z",
+      "bytes": 50240143
     },
     "06_politica/03_economicos/L02-C22_cena01": {
       "artifact_id": "3c5ffbe0-4f36-4e95-9b57-adecf130bdd9",
       "audio_title": "aristoteles_31_l02_c22_cena01_economicos",
       "audio_filename": "aristoteles_31_l02_c22_cena01_economicos.m4a",
-      "status": "created",
-      "created_at": "2026-09-23T23:41:15Z"
+      "status": "downloaded",
+      "created_at": "2026-09-23T23:41:15Z",
+      "downloaded_at": "2026-09-25T03:04:20Z",
+      "bytes": 30430453
     },
     "06_politica/03_economicos/L02-C24_cena01": {
       "artifact_id": "dd4d3efc-a304-4ab1-af7e-e1b5fdcd9abb",
       "audio_title": "aristoteles_31_l02_c24_cena01_economicos",
       "audio_filename": "aristoteles_31_l02_c24_cena01_economicos.m4a",
-      "status": "created",
-      "created_at": "2026-09-23T23:43:24Z"
+      "status": "downloaded",
+      "created_at": "2026-09-23T23:43:24Z",
+      "downloaded_at": "2026-09-25T03:05:17Z",
+      "bytes": 58372317
     },
     "06_politica/03_economicos/L02-C26_cena01": {
       "artifact_id": "6b503faa-de8e-4c86-a95a-e692b301ae82",
       "audio_title": "aristoteles_31_l02_c26_cena01_economicos",
       "audio_filename": "aristoteles_31_l02_c26_cena01_economicos.m4a",
-      "status": "created",
-      "created_at": "2026-09-23T23:45:31Z"
+      "status": "downloaded",
+      "created_at": "2026-09-23T23:45:31Z",
+      "downloaded_at": "2026-09-25T03:06:18Z",
+      "bytes": 38014184
     },
     "06_politica/03_economicos/L02-C28_cena01": {
       "artifact_id": "03007403-2ca7-450f-93dc-349a24c1d8cf",
       "audio_title": "aristoteles_31_l02_c28_cena01_economicos",
       "audio_filename": "aristoteles_31_l02_c28_cena01_economicos.m4a",
-      "status": "created",
-      "created_at": "2026-09-23T23:47:39Z"
+      "status": "downloaded",
+      "created_at": "2026-09-23T23:47:39Z",
+      "downloaded_at": "2026-09-25T03:07:13Z",
+      "bytes": 28338796
     },
     "06_politica/03_economicos/L02-C29_cena01": {
       "artifact_id": "defc4729-76d8-4766-9509-d7d3d6c2bd68",
       "audio_title": "aristoteles_31_l02_c29_cena01_economicos",
       "audio_filename": "aristoteles_31_l02_c29_cena01_economicos.m4a",
-      "status": "created",
-      "created_at": "2026-09-23T23:49:46Z"
+      "status": "downloaded",
+      "created_at": "2026-09-23T23:49:46Z",
+      "downloaded_at": "2026-09-25T03:08:10Z",
+      "bytes": 38609059
     },
     "06_politica/03_economicos/L02-C32_cena01": {
       "artifact_id": "4face5b6-f2aa-4ead-aa03-93db16cf5f0d",
       "audio_title": "aristoteles_31_l02_c32_cena01_economicos",
       "audio_filename": "aristoteles_31_l02_c32_cena01_economicos.m4a",
-      "status": "created",
-      "created_at": "2026-09-23T23:51:54Z"
+      "status": "downloaded",
+      "created_at": "2026-09-23T23:51:54Z",
+      "downloaded_at": "2026-09-25T03:09:11Z",
+      "bytes": 23977455
     },
     "06_politica/03_economicos/L02-C34_cena01": {
       "artifact_id": "31866214-2c3f-4ec8-b7fc-1bded7964163",
       "audio_title": "aristoteles_31_l02_c34_cena01_economicos",
       "audio_filename": "aristoteles_31_l02_c34_cena01_economicos.m4a",
-      "status": "created",
-      "created_at": "2026-09-23T23:54:02Z"
+      "status": "downloaded",
+      "created_at": "2026-09-23T23:54:02Z",
+      "downloaded_at": "2026-09-25T03:10:09Z",
+      "bytes": 43072684
     },
     "06_politica/03_economicos/L02-C36_cena01": {
       "artifact_id": "28d0ff42-a70f-4997-8cc2-11b494e8e816",
       "audio_title": "aristoteles_31_l02_c36_cena01_economicos",
       "audio_filename": "aristoteles_31_l02_c36_cena01_economicos.m4a",
-      "status": "created",
-      "created_at": "2026-09-23T23:56:10Z"
+      "status": "downloaded",
+      "created_at": "2026-09-23T23:56:10Z",
+      "downloaded_at": "2026-09-25T03:11:07Z",
+      "bytes": 32422007
     },
     "06_politica/03_economicos/L02-C38_cena01": {
       "artifact_id": "dc544be3-5e64-4b46-bd53-3a3dfb433565",
       "audio_title": "aristoteles_31_l02_c38_cena01_economicos",
       "audio_filename": "aristoteles_31_l02_c38_cena01_economicos.m4a",
-      "status": "created",
-      "created_at": "2026-09-23T23:58:19Z"
+      "status": "downloaded",
+      "created_at": "2026-09-23T23:58:19Z",
+      "downloaded_at": "2026-09-25T03:12:00Z",
+      "bytes": 56387486
     },
     "06_politica/03_economicos/L02-C41_cena01": {
       "artifact_id": "f81c4869-581d-4a4d-8acd-618369dd58f9",
       "audio_title": "aristoteles_31_l02_c41_cena01_economicos",
       "audio_filename": "aristoteles_31_l02_c41_cena01_economicos.m4a",
-      "status": "created",
-      "created_at": "2026-09-24T00:00:27Z"
+      "status": "downloaded",
+      "created_at": "2026-09-24T00:00:27Z",
+      "downloaded_at": "2026-09-25T03:13:00Z",
+      "bytes": 40469765
     },
     "06_politica/03_economicos/L02-C42_cena01": {
       "artifact_id": "975b031b-cc8e-4b2b-9a9c-80270dfa2739",
       "audio_title": "aristoteles_31_l02_c42_cena01_economicos",
       "audio_filename": "aristoteles_31_l02_c42_cena01_economicos.m4a",
-      "status": "created",
-      "created_at": "2026-09-24T00:02:36Z"
+      "status": "downloaded",
+      "created_at": "2026-09-24T00:02:36Z",
+      "downloaded_at": "2026-09-25T03:13:50Z",
+      "bytes": 38984188
     },
     "06_politica/03_economicos/L02-C44_cena01": {
       "artifact_id": "9d59189c-afa1-47f1-aa48-c81734098bbe",
       "audio_title": "aristoteles_31_l02_c44_cena01_economicos",
       "audio_filename": "aristoteles_31_l02_c44_cena01_economicos.m4a",
-      "status": "created",
-      "created_at": "2026-09-24T00:04:44Z"
+      "status": "downloaded",
+      "created_at": "2026-09-24T00:04:44Z",
+      "downloaded_at": "2026-09-25T03:14:44Z",
+      "bytes": 42968043
     },
     "06_politica/03_economicos/L02-C46_cena01": {
       "artifact_id": "2fd609bb-e8b9-4e5f-84a7-13739857e0a2",
       "audio_title": "aristoteles_31_l02_c46_cena01_economicos",
       "audio_filename": "aristoteles_31_l02_c46_cena01_economicos.m4a",
-      "status": "created",
-      "created_at": "2026-09-24T00:06:53Z"
+      "status": "downloaded",
+      "created_at": "2026-09-24T00:06:53Z",
+      "downloaded_at": "2026-09-25T03:15:38Z",
+      "bytes": 24517796
     },
     "06_politica/03_economicos/L02-C48_cena01": {
       "artifact_id": "9ebfb765-f228-4967-896b-13ae57dbe93c",
       "audio_title": "aristoteles_31_l02_c48_cena01_economicos",
       "audio_filename": "aristoteles_31_l02_c48_cena01_economicos.m4a",
-      "status": "created",
-      "created_at": "2026-09-24T00:09:01Z"
+      "status": "downloaded",
+      "created_at": "2026-09-24T00:09:01Z",
+      "downloaded_at": "2026-09-25T03:16:33Z",
+      "bytes": 41038493
     },
     "06_politica/03_economicos/L02-C49_cena01": {
       "artifact_id": "022a7e00-1364-4f49-b82f-9ccb3540f70f",
       "audio_title": "aristoteles_31_l02_c49_cena01_economicos",
       "audio_filename": "aristoteles_31_l02_c49_cena01_economicos.m4a",
-      "status": "created",
-      "created_at": "2026-09-24T00:11:10Z"
+      "status": "downloaded",
+      "created_at": "2026-09-24T00:11:10Z",
+      "downloaded_at": "2026-09-25T03:17:25Z",
+      "bytes": 32396608
     },
     "06_politica/03_economicos/L02-C52_cena01": {
       "artifact_id": "6470223c-d54f-4436-8a5e-64bd07a65be6",
       "audio_title": "aristoteles_31_l02_c52_cena01_economicos",
       "audio_filename": "aristoteles_31_l02_c52_cena01_economicos.m4a",
-      "status": "created",
-      "created_at": "2026-09-24T00:13:17Z"
+      "status": "downloaded",
+      "created_at": "2026-09-24T00:13:17Z",
+      "downloaded_at": "2026-09-25T03:18:19Z",
+      "bytes": 31240591
     },
     "06_politica/03_economicos/L02-C53_cena01": {
       "artifact_id": "c0442845-9f4b-4703-a607-5ca30675f439",
       "audio_title": "aristoteles_31_l02_c53_cena01_economicos",
       "audio_filename": "aristoteles_31_l02_c53_cena01_economicos.m4a",
+      "status": "downloaded",
+      "created_at": "2026-09-24T00:15:25Z",
+      "downloaded_at": "2026-09-25T03:19:13Z",
+      "bytes": 49003330
+    },
+    "06_politica/03_economicos/L02-C55_cena01": {
+      "artifact_id": "db7a22ea-16d0-4228-a2f6-65e444296383",
+      "audio_title": "aristoteles_31_l02_c55_cena01_economicos",
+      "audio_filename": "aristoteles_31_l02_c55_cena01_economicos.m4a",
       "status": "created",
-      "created_at": "2026-09-24T00:15:25Z"
+      "created_at": "2026-09-25T03:19:30Z"
+    },
+    "06_politica/03_economicos/L02-C56_cena01": {
+      "artifact_id": "5a3d331e-7b0c-4eec-9246-1962d28772b2",
+      "audio_title": "aristoteles_31_l02_c56_cena01_economicos",
+      "audio_filename": "aristoteles_31_l02_c56_cena01_economicos.m4a",
+      "status": "created",
+      "created_at": "2026-09-25T03:21:38Z"
+    },
+    "06_politica/03_economicos/L02-C57_cena01": {
+      "artifact_id": "8dad93e4-7b93-424c-ad63-0dfe0102acac",
+      "audio_title": "aristoteles_31_l02_c57_cena01_economicos",
+      "audio_filename": "aristoteles_31_l02_c57_cena01_economicos.m4a",
+      "status": "created",
+      "created_at": "2026-09-25T03:23:47Z"
+    },
+    "06_politica/03_economicos/L02-C60_cena01": {
+      "artifact_id": "25e1702a-f805-4664-91e2-402c8e5cad36",
+      "audio_title": "aristoteles_31_l02_c60_cena01_economicos",
+      "audio_filename": "aristoteles_31_l02_c60_cena01_economicos.m4a",
+      "status": "created",
+      "created_at": "2026-09-25T03:25:54Z"
+    },
+    "06_politica/03_economicos/L02-C62_cena01": {
+      "artifact_id": "fe84de10-9596-44e6-bb5b-bb723fded153",
+      "audio_title": "aristoteles_31_l02_c62_cena01_economicos",
+      "audio_filename": "aristoteles_31_l02_c62_cena01_economicos.m4a",
+      "status": "created",
+      "created_at": "2026-09-25T03:28:01Z"
+    },
+    "06_politica/03_economicos/L02-C64_cena01": {
+      "artifact_id": "c868c611-f06a-4b88-ba4d-03177403b5e2",
+      "audio_title": "aristoteles_31_l02_c64_cena01_economicos",
+      "audio_filename": "aristoteles_31_l02_c64_cena01_economicos.m4a",
+      "status": "created",
+      "created_at": "2026-09-25T03:30:08Z"
+    },
+    "06_politica/03_economicos/L02-C67_cena01": {
+      "artifact_id": "f8a7d2b4-a5bb-4cf4-a264-dfaa11597302",
+      "audio_title": "aristoteles_31_l02_c67_cena01_economicos",
+      "audio_filename": "aristoteles_31_l02_c67_cena01_economicos.m4a",
+      "status": "created",
+      "created_at": "2026-09-25T03:32:17Z"
+    },
+    "06_politica/03_economicos/L02-C69_cena01": {
+      "artifact_id": "f0cf89c4-547b-48ba-a138-8d5d3054a863",
+      "audio_title": "aristoteles_31_l02_c69_cena01_economicos",
+      "audio_filename": "aristoteles_31_l02_c69_cena01_economicos.m4a",
+      "status": "created",
+      "created_at": "2026-09-25T03:34:25Z"
+    },
+    "06_politica/03_economicos/L02-C69_cena02": {
+      "artifact_id": "d09a63ae-3427-4a55-afcb-4f11feb2cf61",
+      "audio_title": "aristoteles_31_l02_c69_cena02_economicos",
+      "audio_filename": "aristoteles_31_l02_c69_cena02_economicos.m4a",
+      "status": "created",
+      "created_at": "2026-09-25T03:36:33Z"
+    },
+    "06_politica/03_economicos/L02-C69_cena03": {
+      "artifact_id": "393a46a5-864c-42b2-b8ed-4526da151415",
+      "audio_title": "aristoteles_31_l02_c69_cena03_economicos",
+      "audio_filename": "aristoteles_31_l02_c69_cena03_economicos.m4a",
+      "status": "created",
+      "created_at": "2026-09-25T03:38:41Z"
     }
   },
   "substituidos": {
