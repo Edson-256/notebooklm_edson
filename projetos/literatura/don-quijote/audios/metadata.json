@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-25T20:00:15.839958",
+  "atualizado": "2026-09-25T21:06:46.440118",
   "audios": [
     {
       "seq_global": 1,
@@ -3053,7 +3053,40 @@
       "cap": 74,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-25T20:00:15.836921",
+      "data": "2026-09-25T21:00:13.698623",
+      "status": "created",
+      "artifact_id": "5e6bcb80-ce2a-4aa2-a435-72b3a176265b"
+    },
+    {
+      "seq_global": 236,
+      "arquivo": "236_cap-074_cena-004_Tanto-vales-cuanto-tienes-y-el-sermon-de-la-muerte.m4a",
+      "titulo": "Tanto vales cuanto tienes, y el sermon de la muerte",
+      "cap": 74,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-25T21:02:23.330031",
+      "status": "created",
+      "artifact_id": "e0df0c08-c851-4eaa-9c21-34d3d2b13305"
+    },
+    {
+      "seq_global": 237,
+      "arquivo": "237_cap-075_cena-001_La-entrada-de-Basilio-y-la-falsa-muerte.m4a",
+      "titulo": "La entrada de Basilio y la falsa muerte",
+      "cap": 75,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-25T21:04:33.303725",
+      "status": "created",
+      "artifact_id": "3c67401f-b1c4-4b24-a725-acd8af04fc3c"
+    },
+    {
+      "seq_global": 238,
+      "arquivo": "238_cap-075_cena-002_El-casamiento-al-borde-de-la-sepultura.m4a",
+      "titulo": "El casamiento al borde de la sepultura",
+      "cap": 75,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-25T21:06:46.432686",
       "status": "deferred"
     }
   ]
