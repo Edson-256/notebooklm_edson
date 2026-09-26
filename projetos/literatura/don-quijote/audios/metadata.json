@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-25T21:06:46.440118",
+  "atualizado": "2026-09-25T22:05:32.869970",
   "audios": [
     {
       "seq_global": 1,
@@ -3086,7 +3086,17 @@
       "cap": 75,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-25T21:06:46.432686",
+      "data": "2026-09-25T22:05:19.915318",
+      "status": "server_failed"
+    },
+    {
+      "seq_global": 239,
+      "arquivo": "239_cap-075_cena-003_No-milagro-sino-industria.m4a",
+      "titulo": "No milagro, sino industria",
+      "cap": 75,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-25T22:05:32.866516",
       "status": "deferred"
     }
   ]
