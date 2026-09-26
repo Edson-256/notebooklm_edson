@@ -47,6 +47,13 @@ Research do NotebookLM (Gemini). Consolidação em `deep_research/04_consolidaca
   EULAR fibromialgia; e a Portaria Interministerial 1/2014 (IF-BrA), cujo DOU bloqueia download.
   O Tema 343 da TNU já está dentro do Repositório TNU.
 
+## Acesso do colega (2026-09-26)
+
+Convidado como **Leitor** (`nlm share invite`, perfil default; acesso restrito, sem link público).
+Configurado presencialmente pelo Edson na casa do colega. **Confirmado:** o colega abriu o notebook
+e fez perguntas com sucesso — um leitor sem plano pago consegue usar um notebook de 235 fontes.
+(E-mail do colega não registrado aqui: repositório público.)
+
 ## Pendências conhecidas
 
 - Obras repetidas mantidas por decisão ("todas as fontes"): Wall & Melzack EN+ES, Spitz & Fisher EN+ES,
