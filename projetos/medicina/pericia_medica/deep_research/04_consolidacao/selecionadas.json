@@ -1,0 +1,670 @@
+[
+ {
+  "dominio": "D1",
+  "prioridade": 1,
+  "titulo": "Lei 8.213/1991 — Planos de Benefícios (compilado)",
+  "achado_por": "ChatGPT+Claude",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm",
+  "nota": ""
+ },
+ {
+  "dominio": "D1",
+  "prioridade": 1,
+  "titulo": "Decreto 3.048/1999 — Regulamento da Previdência (compilado)",
+  "achado_por": "ChatGPT+Claude",
+  "url": "https://www.planalto.gov.br/ccivil_03/decreto/d3048.htm",
+  "nota": ""
+ },
+ {
+  "dominio": "D1",
+  "prioridade": 1,
+  "titulo": "Decreto 3.048/1999 — Anexos II, III e IV (agentes, Lista C/NTEP)",
+  "achado_por": "Claude",
+  "url": "https://www.planalto.gov.br/ccivil_03/decreto/D3048anexoii-iii-iv.htm",
+  "nota": "base do NTEP"
+ },
+ {
+  "dominio": "D1",
+  "prioridade": 1,
+  "titulo": "IN PRES/INSS 128/2022 (consolidada)",
+  "achado_por": "ChatGPT+Claude",
+  "url": "https://www.gov.br/inss/pt-br/centrais-de-conteudo/legislacao/instrucao-normativa/2022/instrucao-normativa-pres-inss-no-128-de-28-de-marco-de-2022",
+  "nota": "URL do Claude (a do ChatGPT é página-índice)"
+ },
+ {
+  "dominio": "D1",
+  "prioridade": 1,
+  "titulo": "Portaria Conjunta MPS/INSS 13/2026 — Atestmed/análise documental",
+  "achado_por": "Claude (+NotebookLM no relatório)",
+  "url": "https://www.in.gov.br/en/web/dou/-/portaria-conjunta-mps/inss-n-13-de-23-de-marco-de-2026-694778266",
+  "nota": "conferida: revogou PC 38/2023 e outras; teto-base 30 dias"
+ },
+ {
+  "dominio": "D1",
+  "prioridade": 1,
+  "titulo": "Portaria Conjunta MPS/INSS 14/2026 — teto de 90 dias",
+  "achado_por": "Claude",
+  "url": "https://www.in.gov.br/en/web/dou/-/portaria-conjunta-mps/inss-n-14-de-23-de-marco-de-2026-694772597",
+  "nota": "conferida: 90 dias, vigência 180 dias"
+ },
+ {
+  "dominio": "D1",
+  "prioridade": 1,
+  "titulo": "Portaria Conjunta MPS/INSS 43/2026 — prorroga a PC 14 por 365 dias",
+  "achado_por": "Claude",
+  "url": "https://www.in.gov.br/en/web/dou/-/portaria-conjunta-mps/inss-n-43-de-18-de-setembro-de-2026-733208414",
+  "nota": "conferida: DOU 21/09/2026"
+ },
+ {
+  "dominio": "D1",
+  "prioridade": 2,
+  "titulo": "Portaria Conjunta MPS/INSS 15/2026 — análise documental no auxílio-acidente",
+  "achado_por": "Claude",
+  "url": "https://www.in.gov.br/en/web/dou/-/portaria-conjunta-mps/inss-n-15-de-23-de-marco-de-2026-694780534",
+  "nota": ""
+ },
+ {
+  "dominio": "D1",
+  "prioridade": 2,
+  "titulo": "Portaria Conjunta DPMF/INSS 19/2026 — teleperícia (SAT Remoto)",
+  "achado_por": "Claude",
+  "url": "https://www.in.gov.br/web/dou/-/portaria-conjunta-dpmf/inss-n-19-de-31-de-marco-de-2026-*-698610961",
+  "nota": ""
+ },
+ {
+  "dominio": "D1",
+  "prioridade": 1,
+  "titulo": "Lei 8.742/1993 — LOAS (compilado)",
+  "achado_por": "ChatGPT+Claude",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/l8742compilado.htm",
+  "nota": ""
+ },
+ {
+  "dominio": "D1",
+  "prioridade": 1,
+  "titulo": "Decreto 6.214/2007 — Regulamento do BPC (compilado)",
+  "achado_por": "ChatGPT+Claude",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6214compilado.htm",
+  "nota": ""
+ },
+ {
+  "dominio": "D1",
+  "prioridade": 2,
+  "titulo": "Portaria Conjunta MDS/INSS 2/2015 — instrumentos de avaliação do BPC",
+  "achado_por": "Claude",
+  "url": "https://www.mds.gov.br/webarquivos/legislacao/assistencia_social/portarias/2015/portaria_conjunta_INSS_2_2015_BPC.pdf",
+  "nota": ""
+ },
+ {
+  "dominio": "D1",
+  "prioridade": 2,
+  "titulo": "Portaria Conjunta MDS/INSS 34/2025 — regras do BPC",
+  "achado_por": "Claude",
+  "url": "https://www.gov.br/inss/pt-br/centrais-de-conteudo/legislacao/portarias-conjuntas/2025/ptcj34mds-inss.pdf",
+  "nota": ""
+ },
+ {
+  "dominio": "D1",
+  "prioridade": 2,
+  "titulo": "Lei 13.146/2015 — Estatuto da Pessoa com Deficiência (compilado)",
+  "achado_por": "ChatGPT+Claude",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm",
+  "nota": ""
+ },
+ {
+  "dominio": "D1",
+  "prioridade": 2,
+  "titulo": "LC 142/2013 — aposentadoria da pessoa com deficiência",
+  "achado_por": "ChatGPT+Claude",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp142.htm",
+  "nota": ""
+ },
+ {
+  "dominio": "D1",
+  "prioridade": 2,
+  "titulo": "Portaria Interministerial 1/2014 — IF-BrA",
+  "achado_por": "Claude",
+  "url": "https://www.in.gov.br/materia/-/asset_publisher/Kujrw0TZC2Mb/content/id/30050742/do1-2014-01-30-portaria-interministerial-n-1-de-27-de-janeiro-de-2014-30050738",
+  "nota": "URL bloqueia robô (403); testar no NotebookLM"
+ },
+ {
+  "dominio": "D1",
+  "prioridade": 3,
+  "titulo": "Portaria Conjunta 66/2026 — instrumento para dependente com deficiência",
+  "achado_por": "Claude",
+  "url": "https://www.in.gov.br/web/dou/-/portaria-conjunta-pres/inss/srgps/mps-n-66-de-14-de-julho-de-2026-719260532",
+  "nota": ""
+ },
+ {
+  "dominio": "D1",
+  "prioridade": 3,
+  "titulo": "Análise da aplicação do IFBr-M no BPC (GT biopsicossocial, MDH)",
+  "achado_por": "NotebookLM [4]",
+  "url": "https://www.gov.br/mdh/pt-br/navegue-por-temas/pessoa-com-deficiencia/acoes-e-programas/avaliacao-biopsicossocial/grupo-de-trabalho-sobre-a-avaliacao-biopsicossocial-de-2020/Doc.09AnlisedaAplicaodondicedeFuncionalidadeBrasileiroModificadoemRequerentesdoBenefciodePrestaoContinuadaPessoaComDeficinciaUnimar.pdf",
+  "nota": "estudo acadêmico hospedado no gov.br; complementar"
+ },
+ {
+  "dominio": "D2",
+  "prioridade": 1,
+  "titulo": "Lei 13.105/2015 — CPC (compilado)",
+  "achado_por": "ChatGPT+Claude",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm",
+  "nota": ""
+ },
+ {
+  "dominio": "D2",
+  "prioridade": 1,
+  "titulo": "Resolução CNJ 595/2024 — perícias previdenciárias/Prevjud (compilado)",
+  "achado_por": "Claude",
+  "url": "https://atos.cnj.jus.br/files/compilado123341202609176aabde2593a4c.pdf",
+  "nota": "conferida: inclui Res. 673/2026 e 697/2026; instrumento BPC obrigatório em 03/11/2026"
+ },
+ {
+  "dominio": "D2",
+  "prioridade": 2,
+  "titulo": "Resolução CNJ 233/2016 — cadastro de peritos (compilado)",
+  "achado_por": "Claude",
+  "url": "https://atos.cnj.jus.br/files/compilado174307202209136320c12ba6490.pdf",
+  "nota": ""
+ },
+ {
+  "dominio": "D2",
+  "prioridade": 2,
+  "titulo": "Resolução CNJ 232/2016 — honorários periciais AJG (compilado)",
+  "achado_por": "Claude (+NotebookLM notícia [8])",
+  "url": "https://atos.cnj.jus.br/files/compilado2133252024121667609ca581fdf.pdf",
+  "nota": ""
+ },
+ {
+  "dominio": "D2",
+  "prioridade": 1,
+  "titulo": "Lei 10.259/2001 — Juizados Especiais Federais",
+  "achado_por": "ChatGPT+Claude",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10259.htm",
+  "nota": ""
+ },
+ {
+  "dominio": "D2",
+  "prioridade": 3,
+  "titulo": "Lei 13.876/2019 — custeio das perícias contra o INSS",
+  "achado_por": "Claude",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13876.htm",
+  "nota": ""
+ },
+ {
+  "dominio": "D2",
+  "prioridade": 3,
+  "titulo": "Resolução CJF 937/2025 (altera Res. CJF 305/2014)",
+  "achado_por": "Claude",
+  "url": "https://www.cjf.jus.br/publico/biblioteca/Res_937-2025.pdf",
+  "nota": ""
+ },
+ {
+  "dominio": "D2",
+  "prioridade": 1,
+  "titulo": "Súmulas da TNU (lista oficial)",
+  "achado_por": "Claude",
+  "url": "https://www.cjf.jus.br/phpdoc/virtus/listaSumulas.php",
+  "nota": ""
+ },
+ {
+  "dominio": "D2",
+  "prioridade": 1,
+  "titulo": "Repositório TNU — versão 22/06/2026",
+  "achado_por": "Claude",
+  "url": "https://www.cjf.jus.br/cjf/corregedoria-da-justica-federal/turma-nacional-de-uniformizacao/publicacoes-1/repositorio-tnu/repositorio-tnu/view/++widget++form.widgets.arquivo/@@download/Reposit%C3%B3rio+TNU+-+Vers%C3%A3o+atualizada+em+22.06.2026.pdf",
+  "nota": ""
+ },
+ {
+  "dominio": "D2",
+  "prioridade": 2,
+  "titulo": "TNU Tema Representativo 343 — DII na data do exame",
+  "achado_por": "ChatGPT",
+  "url": "https://www.cjf.jus.br/cjf/corregedoria-da-justica-federal/turma-nacional-de-uniformizacao/temas-representativos/tema-343",
+  "nota": ""
+ },
+ {
+  "dominio": "D2",
+  "prioridade": 2,
+  "titulo": "STJ Tema Repetitivo 416 — auxílio-acidente, lesão mínima",
+  "achado_por": "Claude",
+  "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=416&cod_tema_final=416",
+  "nota": ""
+ },
+ {
+  "dominio": "D2",
+  "prioridade": 3,
+  "titulo": "STJ Tema Repetitivo 862 — termo inicial do auxílio-acidente",
+  "achado_por": "Claude",
+  "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=862&cod_tema_final=862",
+  "nota": ""
+ },
+ {
+  "dominio": "D2",
+  "prioridade": 3,
+  "titulo": "STJ Tema Repetitivo 1013 — trabalho no período de incapacidade",
+  "achado_por": "Claude",
+  "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1013&cod_tema_final=1013",
+  "nota": ""
+ },
+ {
+  "dominio": "D2",
+  "prioridade": 2,
+  "titulo": "STF Tema 932 — responsabilidade objetiva do empregador",
+  "achado_por": "Claude",
+  "url": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4608798&numeroProcesso=828040&classeProcesso=RE&numeroTema=932",
+  "nota": ""
+ },
+ {
+  "dominio": "D2",
+  "prioridade": 2,
+  "titulo": "STF RE 1.469.150 (Tema 1.300) — auxílio sem perícia presencial",
+  "achado_por": "NotebookLM [7]",
+  "url": "https://www.stf.jus.br/arquivo/cms/noticiaNoticiaStf/anexo/Info_RE1469150FINAL.pdf",
+  "nota": "PDF oficial do STF"
+ },
+ {
+  "dominio": "D2",
+  "prioridade": 1,
+  "titulo": "TST — tabela de Recursos de Revista Repetitivos",
+  "achado_por": "Claude",
+  "url": "https://www.tst.jus.br/en/nugep-sp/recursos-repetitivos/tabela-completa",
+  "nota": ""
+ },
+ {
+  "dominio": "D2",
+  "prioridade": 1,
+  "titulo": "Decreto-Lei 5.452/1943 — CLT (compilado)",
+  "achado_por": "ChatGPT+Claude",
+  "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm",
+  "nota": ""
+ },
+ {
+  "dominio": "D3",
+  "prioridade": 1,
+  "titulo": "Resolução CFM 2.430/2025 — ato médico pericial e telemedicina pericial",
+  "achado_por": "ChatGPT+Claude+NotebookLM",
+  "url": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2025/2430_2025.pdf",
+  "nota": "conferida: revoga Res. 1.497/1998 e 2.325/2022"
+ },
+ {
+  "dominio": "D3",
+  "prioridade": 1,
+  "titulo": "Código de Ética Médica — Res. CFM 2.217/2018",
+  "achado_por": "Claude",
+  "url": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2018/2217_2018.pdf",
+  "nota": ""
+ },
+ {
+  "dominio": "D3",
+  "prioridade": 1,
+  "titulo": "Resolução CFM 2.381/2024 — documentos médicos/atestados",
+  "achado_por": "ChatGPT+Claude",
+  "url": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2024/2381_2024.pdf",
+  "nota": ""
+ },
+ {
+  "dominio": "D3",
+  "prioridade": 1,
+  "titulo": "Resolução CFM 2.323/2022 — médicos que atendem o trabalhador",
+  "achado_por": "Claude",
+  "url": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2022/2323_2022.pdf",
+  "nota": "conferida: revoga 2.297/2021; arts. 10, 12, 15 §2 suspensos"
+ },
+ {
+  "dominio": "D3",
+  "prioridade": 2,
+  "titulo": "Resolução CFM 2.314/2022 — telemedicina",
+  "achado_por": "ChatGPT+Claude",
+  "url": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2022/2314_2022.pdf",
+  "nota": ""
+ },
+ {
+  "dominio": "D3",
+  "prioridade": 2,
+  "titulo": "Parecer CFM 10/2024 — documentos médicos para benefício previdenciário",
+  "achado_por": "Claude",
+  "url": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2024/10_2024.pdf",
+  "nota": ""
+ },
+ {
+  "dominio": "D3",
+  "prioridade": 3,
+  "titulo": "Resolução CFM 1.638/2002 — prontuário",
+  "achado_por": "Claude",
+  "url": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2002/1638_2002.pdf",
+  "nota": ""
+ },
+ {
+  "dominio": "D3",
+  "prioridade": 3,
+  "titulo": "Resolução CFM 1.821/2007 — prontuário eletrônico",
+  "achado_por": "Claude",
+  "url": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2007/1821_2007.pdf",
+  "nota": ""
+ },
+ {
+  "dominio": "D3",
+  "prioridade": 3,
+  "titulo": "Resolução CFM 2.380/2024 — especialidades e áreas de atuação",
+  "achado_por": "ChatGPT+Claude",
+  "url": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2024/2380_2024.pdf",
+  "nota": ""
+ },
+ {
+  "dominio": "D3",
+  "prioridade": 2,
+  "titulo": "Lei 13.787/2018 — digitalização e guarda de prontuários",
+  "achado_por": "ChatGPT",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13787.htm",
+  "nota": ""
+ },
+ {
+  "dominio": "D4",
+  "prioridade": 1,
+  "titulo": "Portaria GM/MS 5.674/2024 — Lista de Doenças Relacionadas ao Trabalho",
+  "achado_por": "Claude+NotebookLM[15]",
+  "url": "https://www.in.gov.br/en/web/dou/-/portaria-gm/ms-n-5.674-de-1-de-novembro-de-2024-594040700",
+  "nota": "URL do DOU (a do NotebookLM é cópia de terceiro)"
+ },
+ {
+  "dominio": "D4",
+  "prioridade": 3,
+  "titulo": "Portaria GM/MS 1.999/2023 — LDRT (corpo; anexo substituído)",
+  "achado_por": "Claude",
+  "url": "https://www.in.gov.br/en/web/dou/-/portaria-gm/ms-n-1.999-de-27-de-novembro-de-2023-526629116",
+  "nota": ""
+ },
+ {
+  "dominio": "D4",
+  "prioridade": 1,
+  "titulo": "NR-1 — GRO e riscos psicossociais (versão 2025)",
+  "achado_por": "ChatGPT+Claude",
+  "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/nr-01-atualizada-2025-i-3.pdf",
+  "nota": "mesma URL nos dois"
+ },
+ {
+  "dominio": "D4",
+  "prioridade": 2,
+  "titulo": "Manual do Capítulo 1.5 da NR-1",
+  "achado_por": "Claude",
+  "url": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/inspecao-do-trabalho/manuais-e-publicacoes/2026/manual_gro_pgr_da_nr_1.pdf",
+  "nota": ""
+ },
+ {
+  "dominio": "D4",
+  "prioridade": 1,
+  "titulo": "NR-7 — PCMSO",
+  "achado_por": "ChatGPT+Claude",
+  "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/nr-07-atualizada-2022-1.pdf",
+  "nota": ""
+ },
+ {
+  "dominio": "D4",
+  "prioridade": 1,
+  "titulo": "NR-15 — insalubridade",
+  "achado_por": "ChatGPT+Claude",
+  "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/nr-15-atualizada-2025.pdf/view",
+  "nota": ""
+ },
+ {
+  "dominio": "D4",
+  "prioridade": 2,
+  "titulo": "NR-16 — periculosidade",
+  "achado_por": "ChatGPT+Claude",
+  "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/nr-16-atualizada-2025-ii.pdf",
+  "nota": ""
+ },
+ {
+  "dominio": "D4",
+  "prioridade": 1,
+  "titulo": "NR-17 — ergonomia",
+  "achado_por": "ChatGPT+Claude",
+  "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/arquivos/normas-regulamentadoras/nr-17-atualizada-2021.pdf/view",
+  "nota": ""
+ },
+ {
+  "dominio": "D4",
+  "prioridade": 3,
+  "titulo": "Portaria Interministerial MPS/MF 10/2025 — FAP",
+  "achado_por": "ChatGPT",
+  "url": "https://www.gov.br/previdencia/pt-br/assuntos/previdencia-social/saude-e-seguranca-do-trabalhador/fap/rois-de-percentis/PORTARIA_INTERMINISTERIAL_MPS_MF_N__10__DE_10_DE_SETEMBRO_DE_2025___PORTARIA_INTERMINISTERIAL_MPS_MF_N__10__DE_10_DE_SETEMBRO_DE_2025___DOU___Imprensa_Nacional.pdf",
+  "nota": ""
+ },
+ {
+  "dominio": "D4",
+  "prioridade": 3,
+  "titulo": "Lei 10.666/2003 — FAP/NTEP (base legal)",
+  "achado_por": "ChatGPT",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.666.htm",
+  "nota": ""
+ },
+ {
+  "dominio": "D4",
+  "prioridade": 2,
+  "titulo": "Guia de Vigilância em Saúde vol. 3 — Saúde do Trabalhador",
+  "achado_por": "Claude",
+  "url": "https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/svsa/vigilancia/guia-de-vigilancia-em-saude-volume-3-6a-edicao",
+  "nota": ""
+ },
+ {
+  "dominio": "D4",
+  "prioridade": 2,
+  "titulo": "Protocolo MS nº 10 — Dor relacionada ao trabalho: LER/DORT",
+  "achado_por": "Claude (+ChatGPT página MS)",
+  "url": "https://renastonline.ensp.fiocruz.br/sites/default/files/arquivos/recursos/dor_relacionada_trabalho_ler_dort.pdf",
+  "nota": ""
+ },
+ {
+  "dominio": "D4",
+  "prioridade": 1,
+  "titulo": "OIT — Diagnostic and exposure criteria for occupational diseases",
+  "achado_por": "ChatGPT+Claude",
+  "url": "https://www.ilo.org/sites/default/files/2024-07/wcms_836362.pdf",
+  "nota": "PDF direto"
+ },
+ {
+  "dominio": "D4",
+  "prioridade": 3,
+  "titulo": "OIT — List of Occupational Diseases (2010)",
+  "achado_por": "Claude",
+  "url": "https://www.ilo.org/media/336021/download",
+  "nota": ""
+ },
+ {
+  "dominio": "D5",
+  "prioridade": 3,
+  "titulo": "Lei 6.194/1974 — DPVAT, tabela de danos corporais [REVOGADA; sinistros antigos]",
+  "achado_por": "Claude",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/l6194.htm",
+  "nota": "conferido: LC 207/2024 revogada pela LC 211/2024"
+ },
+ {
+  "dominio": "D5",
+  "prioridade": 2,
+  "titulo": "Decreto-Lei 352/2007 (Portugal) — Tabelas Nacionais de Incapacidades",
+  "achado_por": "Claude",
+  "url": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1179&tabela=leis",
+  "nota": "verificar se inclui as tabelas anexas"
+ },
+ {
+  "dominio": "D5",
+  "prioridade": 2,
+  "titulo": "OMS — CIF: Classificação Internacional de Funcionalidade (versão em português)",
+  "achado_por": "Claude",
+  "url": "https://iris.who.int/server/api/core/bitstreams/4f551812-7cc1-4ec4-9b75-7f3a98069c76/content",
+  "nota": "página-índice; resolver PDF na inserção",
+  "url_original": "https://www.who.int/standards/classifications/international-classification-of-functioning-disability-and-health"
+ },
+ {
+  "dominio": "D5",
+  "prioridade": 2,
+  "titulo": "OMS — Manual WHODAS 2.0",
+  "achado_por": "Claude",
+  "url": "https://iris.who.int/server/api/core/bitstreams/13c8676c-bdd5-41e9-beae-30343a96d4f0/content",
+  "nota": "resolver PDF na inserção",
+  "url_original": "https://www.who.int/publications/i/item/measuring-health-and-disability-manual-for-who-disability-assessment-schedule-(-whodas-2.0)"
+ },
+ {
+  "dominio": "D6",
+  "prioridade": 2,
+  "titulo": "Nota Técnica MS 91/2024 — implementação da CID-11 no Brasil",
+  "achado_por": "ChatGPT",
+  "url": "https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/notas-tecnicas/2024/nota-tecnica-no-91-2024-cgiae-daent-svsa-ms.pdf/@@download/file",
+  "nota": ""
+ },
+ {
+  "dominio": "D6",
+  "prioridade": 2,
+  "titulo": "ICD-11 Reference Guide (OMS)",
+  "achado_por": "Claude",
+  "url": "https://icdcdn.who.int/icd11referenceguide/en/html/index.html",
+  "nota": ""
+ },
+ {
+  "dominio": "D6",
+  "prioridade": 3,
+  "titulo": "OMS — Burn-out, fenômeno ocupacional na CID-11",
+  "achado_por": "Claude",
+  "url": "https://www.who.int/news/item/28-05-2019-burn-out-an-occupational-phenomenon-international-classification-of-diseases",
+  "nota": ""
+ },
+ {
+  "dominio": "D7",
+  "prioridade": 1,
+  "titulo": "Multidimensional Malingering Criteria — atualização de 20 anos (Sherman 2020)",
+  "achado_por": "Claude",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7452950/",
+  "nota": "PMC aberto"
+ },
+ {
+  "dominio": "D7",
+  "prioridade": 1,
+  "titulo": "AACN 2021 — consenso sobre avaliação de validade",
+  "achado_por": "ChatGPT+Claude",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33823750/",
+  "nota": "testar texto integral; senão só resumo"
+ },
+ {
+  "dominio": "D7",
+  "prioridade": 2,
+  "titulo": "Validade de sintomas e desempenho na Europa — atualização",
+  "achado_por": "Claude",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8612718/",
+  "nota": ""
+ },
+ {
+  "dominio": "D7",
+  "prioridade": 2,
+  "titulo": "Cochrane — retorno ao trabalho na depressão",
+  "achado_por": "Claude",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8094165/",
+  "nota": ""
+ },
+ {
+  "dominio": "D7",
+  "prioridade": 2,
+  "titulo": "Intervenções no local de trabalho e retorno (MSK, dor, mental)",
+  "achado_por": "Claude",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5820404/",
+  "nota": ""
+ },
+ {
+  "dominio": "D7",
+  "prioridade": 1,
+  "titulo": "OMS — diretrizes de saúde mental no trabalho (2022)",
+  "achado_por": "ChatGPT+Claude",
+  "url": "https://iris.who.int/server/api/core/bitstreams/6152a556-6893-4c4e-9ed8-094478bb25eb/content",
+  "nota": "resolver PDF na inserção",
+  "url_original": "https://www.who.int/publications/i/item/9789240053052"
+ },
+ {
+  "dominio": "D7",
+  "prioridade": 2,
+  "titulo": "IASP — dor crônica na CID-11",
+  "achado_por": "Claude",
+  "url": "https://doi.org/10.1097/j.pain.0000000000001384",
+  "nota": "doi bloqueia robô; buscar PMC"
+ },
+ {
+  "dominio": "D7",
+  "prioridade": 3,
+  "titulo": "EULAR — recomendações revisadas para fibromialgia",
+  "achado_por": "Claude",
+  "url": "https://doi.org/10.1136/annrheumdis-2016-209724",
+  "nota": ""
+ },
+ {
+  "dominio": "D7",
+  "prioridade": 1,
+  "titulo": "ACOEM — Work-Relatedness (2018)",
+  "achado_por": "ChatGPT",
+  "url": "https://acoem.org/acoem/media/News-Library/JOEM-Work-relatedness-Dec-2018.pdf",
+  "nota": ""
+ },
+ {
+  "dominio": "D7",
+  "prioridade": 3,
+  "titulo": "Intervenções no trabalho para distúrbios MSK crônicos (BMJ Open)",
+  "achado_por": "ChatGPT",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13288689/",
+  "nota": "testar texto integral",
+  "url_original": "https://pubmed.ncbi.nlm.nih.gov/42331580/"
+ },
+ {
+  "dominio": "D7",
+  "prioridade": 3,
+  "titulo": "Exagero de sintomas e testes de validade em sintomas sem explicação médica",
+  "achado_por": "NotebookLM [21]",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5764424/",
+  "nota": "PMC aberto"
+ },
+ {
+  "dominio": "D7",
+  "prioridade": 3,
+  "titulo": "Revisão de abordagens para detectar simulação em contexto forense",
+  "achado_por": "NotebookLM [30]",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6308182/",
+  "nota": "PMC aberto"
+ },
+ {
+  "dominio": "D8",
+  "prioridade": 2,
+  "titulo": "Decreto-Lei 3.689/1941 — CPP (compilado)",
+  "achado_por": "ChatGPT+Claude",
+  "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm",
+  "nota": ""
+ },
+ {
+  "dominio": "D8",
+  "prioridade": 2,
+  "titulo": "Lei 12.030/2009 — perícias oficiais criminais",
+  "achado_por": "ChatGPT+Claude",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12030.htm",
+  "nota": ""
+ },
+ {
+  "dominio": "D8",
+  "prioridade": 2,
+  "titulo": "Protocolo de Istambul (Rev. 2, 2022)",
+  "achado_por": "Claude",
+  "url": "https://www.ohchr.org/sites/default/files/documents/publications/2022-06-29/Istanbul-Protocol_Rev2_EN.pdf",
+  "nota": ""
+ },
+ {
+  "dominio": "D8",
+  "prioridade": 3,
+  "titulo": "Protocolo de Minnesota (2016)",
+  "achado_por": "Claude",
+  "url": "https://www.ohchr.org/sites/default/files/Documents/Publications/MinnesotaProtocol.pdf",
+  "nota": ""
+ },
+ {
+  "dominio": "D8",
+  "prioridade": 2,
+  "titulo": "Resolução CNJ 414/2021 — quesitos periciais em casos de tortura",
+  "achado_por": "Claude",
+  "url": "https://atos.cnj.jus.br/atos/detalhar/4105",
+  "nota": ""
+ }
+]

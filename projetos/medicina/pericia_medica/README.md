@@ -3,7 +3,8 @@
 - **Notebook:** `1af19855-4523-4ba9-8837-343f474a2a83` — https://notebooklm.google.com/notebook/1af19855-4523-4ba9-8837-343f474a2a83
 - **Conteúdo:** os 84 livros de `~/dev/_ref/docling-projeto/projects/pericia/` em **157 fontes** (livros > 400 mil palavras fatiados; maior parte 436.565 palavras; teto do NotebookLM = 500 mil). Plano Pro (limite 300 fontes).
 - **Para quem:** colega perito, como **Leitor**. Guia de acesso para imprimir: `Guia_acesso_biblioteca_pericia.docx`.
-- **Tarefa:** `notebooklm_edson-r4oq`.
+- **Tarefa:** `notebooklm_edson-r4oq` (montagem) · `notebooklm_edson-ll06` (camada atual 2026).
+- **Total em 2026-09-26:** 235 fontes = 157 dos livros + **78 "Atual 2026"** (normas vigentes, precedentes, protocolos oficiais, consensos).
 
 ## Arquivos
 
@@ -27,6 +28,24 @@ Auditoria antes do envio: 83/84 livros completos e legíveis (amostragem de 20 p
 4-gramas; EPUBs por contagem de palavras). O Adams y Victor tinha só 60% do texto e foi reconstruído
 na origem (`docling-projeto-d1v`). Uma fonte falhou por abrir com `<!-- image -->` — corrigido na
 ferramenta.
+
+## Camada "Atual 2026" (2026-09-26)
+
+Um mesmo prompt de deep research foi submetido ao ChatGPT, a um agente Claude na nuvem e ao Deep
+Research do NotebookLM (Gemini). Consolidação em `deep_research/04_consolidacao/CONSOLIDACAO.md`
+(179 achados → 83 selecionadas → **78 inseridas**; motivo de cada descarte em
+`decisao_por_fonte.csv`). Títulos no notebook começam por **"Atual 2026 · <área> ·"**.
+
+- As normas-chave de 2025–2026 foram lidas no DOU/texto oficial (Atestmed PC 13, 14 e 43/2026; Res.
+  CFM 2.430/2025; CNJ 595/2024 compilada; LC 211/2024). O NotebookLM e o ChatGPT erraram o teto do
+  Atestmed e o NotebookLM ofereceu duas resoluções do CFM revogadas — ver a tabela de divergências.
+- 35 fontes entraram como **arquivo** (`deep_research/05_arquivos_enviados/NN.md`) porque Planalto,
+  DOU, STJ, STF e PMC bloqueiam o leitor do NotebookLM. No Planalto o texto tachado (redação
+  revogada) foi removido antes do envio. **Isso congela o texto em 2026-09-26** — lei alterada
+  depois exige reenviar o arquivo.
+- Fora por falta de texto aberto: AACN 2021 (consenso de validade), IASP (dor crônica na CID-11),
+  EULAR fibromialgia; e a Portaria Interministerial 1/2014 (IF-BrA), cujo DOU bloqueia download.
+  O Tema 343 da TNU já está dentro do Repositório TNU.
 
 ## Pendências conhecidas
 
