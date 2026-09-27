@@ -9,48 +9,51 @@
       "scene_identifier": "C_00-Promesi.Sposi_cena001",
       "cena_filename": "C_00-Promesi.Sposi_cena001.md",
       "prompt_filename": "C_00-Promesi.Sposi_prompt001.md",
+      "arquivo": "promessi_001_c_00_promesi_sposi_cena001.m4a",
+      "artifact_id": "f3519172-9010-4b21-9c9d-7ae7ceafe780",
+      "source_id": "5185b22e-17dd-48ce-bb0a-88597d678910",
       "book_id": "C_00-Promesi.Sposi",
-      "status": "skipped_legacy",
-      "legacy_artifacts_ids": [
-        "e1a7fed4-62ac-4552-86cb-3990a183dc85",
-        "6945187b-042b-41bc-b197-bd89f9c02512",
-        "17421a4e-bcb1-418c-9fc2-b0797b8f66e4",
-        "46c7dcd9-c94a-42ef-832b-3526e4d62cfb"
-      ],
-      "skip_reason": "Áudios antigos no studio usaram prompt genérico (Methodology) sem Scene Identifier — não casam com cenas específicas. Usuário optou por continuar a partir de seq 14 (seqs 5-13 estão prontos com prompts cena-by-cena).",
-      "skipped_at": "2026-05-16T13:02:47.493869"
+      "data_geracao": "2026-09-27T10:42:09.241253",
+      "prompt_chars": 2773,
+      "language": "it-IT",
+      "audio_format": "deep_dive",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/mazoni/I Promesi Sposi/audios/promessi_001_c_00_promesi_sposi_cena001.m4a",
+      "tamanho_bytes": 29055438
     },
     {
       "seq_global": 2,
       "scene_identifier": "C_00-Promesi.Sposi_cena002",
       "cena_filename": "C_00-Promesi.Sposi_cena002.md",
       "prompt_filename": "C_00-Promesi.Sposi_prompt002.md",
+      "arquivo": "promessi_002_c_00_promesi_sposi_cena002.m4a",
+      "artifact_id": "021c5188-09fc-410f-8b67-af2af6ec2d02",
+      "source_id": "5185b22e-17dd-48ce-bb0a-88597d678910",
       "book_id": "C_00-Promesi.Sposi",
-      "status": "skipped_legacy",
-      "legacy_artifacts_ids": [
-        "e1a7fed4-62ac-4552-86cb-3990a183dc85",
-        "6945187b-042b-41bc-b197-bd89f9c02512",
-        "17421a4e-bcb1-418c-9fc2-b0797b8f66e4",
-        "46c7dcd9-c94a-42ef-832b-3526e4d62cfb"
-      ],
-      "skip_reason": "Áudios antigos no studio usaram prompt genérico (Methodology) sem Scene Identifier — não casam com cenas específicas. Usuário optou por continuar a partir de seq 14 (seqs 5-13 estão prontos com prompts cena-by-cena).",
-      "skipped_at": "2026-05-16T13:02:47.493877"
+      "data_geracao": "2026-09-27T10:44:12.156780",
+      "prompt_chars": 2946,
+      "language": "it-IT",
+      "audio_format": "deep_dive",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/mazoni/I Promesi Sposi/audios/promessi_002_c_00_promesi_sposi_cena002.m4a",
+      "tamanho_bytes": 25798684
     },
     {
       "seq_global": 3,
       "scene_identifier": "C_00-Promesi.Sposi_cena003",
       "cena_filename": "C_00-Promesi.Sposi_cena003.md",
       "prompt_filename": "C_00-Promesi.Sposi_prompt003.md",
+      "arquivo": "promessi_003_c_00_promesi_sposi_cena003.m4a",
+      "artifact_id": "b60fb891-0b45-4a23-b046-a4b14d9ff734",
+      "source_id": "5185b22e-17dd-48ce-bb0a-88597d678910",
       "book_id": "C_00-Promesi.Sposi",
-      "status": "skipped_legacy",
-      "legacy_artifacts_ids": [
-        "e1a7fed4-62ac-4552-86cb-3990a183dc85",
-        "6945187b-042b-41bc-b197-bd89f9c02512",
-        "17421a4e-bcb1-418c-9fc2-b0797b8f66e4",
-        "46c7dcd9-c94a-42ef-832b-3526e4d62cfb"
-      ],
-      "skip_reason": "Áudios antigos no studio usaram prompt genérico (Methodology) sem Scene Identifier — não casam com cenas específicas. Usuário optou por continuar a partir de seq 14 (seqs 5-13 estão prontos com prompts cena-by-cena).",
-      "skipped_at": "2026-05-16T13:02:47.493880"
+      "data_geracao": "2026-09-27T10:46:14.921015",
+      "prompt_chars": 2946,
+      "language": "it-IT",
+      "audio_format": "deep_dive",
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/mazoni/I Promesi Sposi/audios/promessi_003_c_00_promesi_sposi_cena003.m4a",
+      "tamanho_bytes": 26764953
     },
     {
       "seq_global": 4,
@@ -58,7 +61,7 @@
       "cena_filename": "C_00-Promesi.Sposi_cena004.md",
       "prompt_filename": "C_00-Promesi.Sposi_prompt004.md",
       "book_id": "C_00-Promesi.Sposi",
-      "status": "skipped_legacy",
+      "status": "requeued",
       "legacy_artifacts_ids": [
         "e1a7fed4-62ac-4552-86cb-3990a183dc85",
         "6945187b-042b-41bc-b197-bd89f9c02512",
@@ -66,7 +69,9 @@
         "46c7dcd9-c94a-42ef-832b-3526e4d62cfb"
       ],
       "skip_reason": "Áudios antigos no studio usaram prompt genérico (Methodology) sem Scene Identifier — não casam com cenas específicas. Usuário optou por continuar a partir de seq 14 (seqs 5-13 estão prontos com prompts cena-by-cena).",
-      "skipped_at": "2026-05-16T13:02:47.493882"
+      "skipped_at": "2026-05-16T13:02:47.493882",
+      "requeued_at": "2026-09-27",
+      "requeue_reason": "Introduzione cenas 1-4 nunca tiveram áudio próprio; gerar para completar a coleção (pedido do Edson 2026-09-27)"
     },
     {
       "seq_global": 5,
@@ -6001,5 +6006,5 @@
     }
   ],
   "total_itens_processados": 355,
-  "ultima_atualizacao": "2026-09-18T08:00:39.901265"
+  "ultima_atualizacao": "2026-09-27T10:58:49.473876"
 }
