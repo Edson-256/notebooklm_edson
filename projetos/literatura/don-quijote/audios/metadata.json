@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-26T22:08:26.331309",
+  "atualizado": "2026-09-26T23:01:57.604106",
   "audios": [
     {
       "seq_global": 1,
@@ -3093,8 +3093,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-26T22:01:51.939852",
-      "status": "created",
-      "artifact_id": "d3a670df-0ab0-4052-b516-8a4fe92d64a3"
+      "status": "downloaded",
+      "artifact_id": "d3a670df-0ab0-4052-b516-8a4fe92d64a3",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/238_cap-075_cena-002_El-casamiento-al-borde-de-la-sepultura.m4a",
+      "tamanho_bytes": 20829022
     },
     {
       "seq_global": 239,
@@ -3104,8 +3106,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-26T22:04:07.676632",
-      "status": "created",
-      "artifact_id": "5bb1ae01-6bfb-4bb5-84b2-b4d91f7f9197"
+      "status": "downloaded",
+      "artifact_id": "5bb1ae01-6bfb-4bb5-84b2-b4d91f7f9197",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/239_cap-075_cena-003_No-milagro-sino-industria.m4a",
+      "tamanho_bytes": 23725587
     },
     {
       "seq_global": 240,
@@ -3115,8 +3119,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-26T22:06:15.775725",
-      "status": "created",
-      "artifact_id": "350f2c4b-59e5-459e-bb84-2862c806d574"
+      "status": "downloaded",
+      "artifact_id": "350f2c4b-59e5-459e-bb84-2862c806d574",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/240_cap-075_cena-004_El-amor-es-guerra-y-las-ollas-de-Egipto.m4a",
+      "tamanho_bytes": 38377361
     },
     {
       "seq_global": 241,
@@ -3125,7 +3131,7 @@
       "cap": 76,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-26T22:08:26.327852",
+      "data": "2026-09-26T23:01:57.601716",
       "status": "deferred"
     }
   ]
