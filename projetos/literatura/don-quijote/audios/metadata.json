@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-25T22:05:32.869970",
+  "atualizado": "2026-09-26T22:08:26.331309",
   "audios": [
     {
       "seq_global": 1,
@@ -3054,8 +3054,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-25T21:00:13.698623",
-      "status": "created",
-      "artifact_id": "5e6bcb80-ce2a-4aa2-a435-72b3a176265b"
+      "status": "downloaded",
+      "artifact_id": "5e6bcb80-ce2a-4aa2-a435-72b3a176265b",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/235_cap-074_cena-003_La-danza-del-Amor-y-el-Interes.m4a",
+      "tamanho_bytes": 21208633
     },
     {
       "seq_global": 236,
@@ -3065,8 +3067,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-25T21:02:23.330031",
-      "status": "created",
-      "artifact_id": "e0df0c08-c851-4eaa-9c21-34d3d2b13305"
+      "status": "downloaded",
+      "artifact_id": "e0df0c08-c851-4eaa-9c21-34d3d2b13305",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/236_cap-074_cena-004_Tanto-vales-cuanto-tienes-y-el-sermon-de-la-muerte.m4a",
+      "tamanho_bytes": 36430630
     },
     {
       "seq_global": 237,
@@ -3076,8 +3080,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-25T21:04:33.303725",
-      "status": "created",
-      "artifact_id": "3c67401f-b1c4-4b24-a725-acd8af04fc3c"
+      "status": "downloaded",
+      "artifact_id": "3c67401f-b1c4-4b24-a725-acd8af04fc3c",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/237_cap-075_cena-001_La-entrada-de-Basilio-y-la-falsa-muerte.m4a",
+      "tamanho_bytes": 18652203
     },
     {
       "seq_global": 238,
@@ -3086,8 +3092,9 @@
       "cap": 75,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-25T22:05:19.915318",
-      "status": "server_failed"
+      "data": "2026-09-26T22:01:51.939852",
+      "status": "created",
+      "artifact_id": "d3a670df-0ab0-4052-b516-8a4fe92d64a3"
     },
     {
       "seq_global": 239,
@@ -3096,7 +3103,29 @@
       "cap": 75,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-25T22:05:32.866516",
+      "data": "2026-09-26T22:04:07.676632",
+      "status": "created",
+      "artifact_id": "5bb1ae01-6bfb-4bb5-84b2-b4d91f7f9197"
+    },
+    {
+      "seq_global": 240,
+      "arquivo": "240_cap-075_cena-004_El-amor-es-guerra-y-las-ollas-de-Egipto.m4a",
+      "titulo": "El amor es guerra y las ollas de Egipto",
+      "cap": 75,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-26T22:06:15.775725",
+      "status": "created",
+      "artifact_id": "350f2c4b-59e5-459e-bb84-2862c806d574"
+    },
+    {
+      "seq_global": 241,
+      "arquivo": "241_cap-076_cena-001_El-sermon-del-matrimonio-y-la-confesion-de-Sancho.m4a",
+      "titulo": "El sermon del matrimonio y la confesion de Sancho",
+      "cap": 76,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-26T22:08:26.327852",
       "status": "deferred"
     }
   ]
