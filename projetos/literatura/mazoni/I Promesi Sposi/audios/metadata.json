@@ -68,7 +68,9 @@
       "prompt_chars": 2946,
       "language": "it-IT",
       "audio_format": "deep_dive",
-      "status": "created"
+      "status": "downloaded",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/mazoni/I Promesi Sposi/audios/promessi_004_c_00_promesi_sposi_cena004.m4a",
+      "tamanho_bytes": 24667951
     },
     {
       "seq_global": 5,
@@ -6003,5 +6005,5 @@
     }
   ],
   "total_itens_processados": 355,
-  "ultima_atualizacao": "2026-09-28T12:30:15.118939"
+  "ultima_atualizacao": "2026-09-28T14:30:44.961359"
 }
