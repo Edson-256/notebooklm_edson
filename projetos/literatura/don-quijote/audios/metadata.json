@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-27T21:06:34.222984",
+  "atualizado": "2026-09-27T22:01:56.966654",
   "audios": [
     {
       "seq_global": 1,
@@ -3132,8 +3132,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-27T21:00:11.052808",
-      "status": "created",
-      "artifact_id": "9e161dad-2791-4e08-b51e-50397d811441"
+      "status": "downloaded",
+      "artifact_id": "9e161dad-2791-4e08-b51e-50397d811441",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/241_cap-076_cena-001_El-sermon-del-matrimonio-y-la-confesion-de-Sancho.m4a",
+      "tamanho_bytes": 19311323
     },
     {
       "seq_global": 242,
@@ -3143,8 +3145,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-27T21:02:17.093561",
-      "status": "created",
-      "artifact_id": "fad47d8c-7cd1-4154-b6da-a6d8132051f5"
+      "status": "downloaded",
+      "artifact_id": "fad47d8c-7cd1-4154-b6da-a6d8132051f5",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/242_cap-076_cena-002_El-primo-humanista-y-la-erudicion-vana.m4a",
+      "tamanho_bytes": 19528711
     },
     {
       "seq_global": 243,
@@ -3154,8 +3158,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-27T21:04:23.059865",
-      "status": "created",
-      "artifact_id": "a879e2dd-e402-4019-81f0-b9f081df3e7f"
+      "status": "downloaded",
+      "artifact_id": "a879e2dd-e402-4019-81f0-b9f081df3e7f",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/243_cap-076_cena-003_El-descenso-al-abismo-de-Montesinos.m4a",
+      "tamanho_bytes": 18764258
     },
     {
       "seq_global": 244,
@@ -3164,7 +3170,7 @@
       "cap": 77,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-27T21:06:34.217814",
+      "data": "2026-09-27T22:01:56.963545",
       "status": "deferred"
     }
   ]
