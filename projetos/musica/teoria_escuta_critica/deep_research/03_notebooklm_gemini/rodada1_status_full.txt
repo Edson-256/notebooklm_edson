@@ -1,0 +1,393 @@
+
+Research Status:
+  Status: completed
+  Task ID: d656dfde-654f-42c3-ab58-34f34af20bfa
+  Sources found: 65
+
+Report:
+# The Architecture of Listening: A Comprehensive Framework for Analytical Music Perception, Structural Analysis, Psychoacoustics, and Socio-Cultural Function
+
+## Pedagogy and Methodology of Critical Listening
+
+Critical listening transforms the auditory experience from a passive, diffuse act of consumption into an active, structural appraisal of musical sound . In contemporary listening environments, dominated by automated streaming algorithms and pervasive
+background audio, listening frequently functions as an ambient backdrop or an unexamined mood regulator . Educational frameworks designed for active listening—such as those articulated in Yale University’s foundational music pedagogy and MIT 
+OpenCourseWare initiatives—seek to counter this passivity by training the ear to isolate, categorize, and interpret complex acoustic data in real time .
+
+Active listening requires a conscious cognitive reorientation . Rather than absorbing a musical track as a monolithic sensory wave, the analytical listener systematically deconstructs the soundscape into core structural components: pitch, rhythmic 
+organization, timbral allocation, dynamic contours, and formal architecture . This analytical shift relies on two primary perceptual mechanisms: auditory stream segregation and structural timetable tracking . Auditory stream segregation enables the 
+listener to isolate specific instrumental or vocal lines within a dense polyphonic mixture, disentangling foreground lead elements from mid-ground harmonic fills and background rhythmic foundations . Simultaneously, structural timetable tracking 
+involves the mental registration of musical time, enabling the listener to map real-time events against an internalized model of formal cycles, hypermeter, and expectation frameworks .
+
+Pedagogical methods develop these capabilities through structured, comparative listening exercises across diverse repertoires . By examining contrasting works across genres—ranging from Western classical symphonies and modern jazz to popular 
+subgenres and electronic compositions—listeners learn that fundamental structural principles transcend stylistic boundaries . The systematic identification of thematic repetition, contrast, variation, and tension-resolution cycles provides a 
+foundational analytical toolkit . This cognitive training enhances receptive enjoyment while establishing a critical methodology applicable to musical performance, audio production, linguistic text-setting analysis, and socio-cultural evaluation .
+
+---
+
+## Psychoacoustics and the Cognition of Musical Expectation
+
+Musical meaning is deeply intertwined with how human cognition processes time and anticipates coming events . The psychological architecture of musical expectation explains why sequences of sounds evoke powerful emotional, somatic, and cognitive 
+responses . In his foundational work *Emotion and Meaning in Music*, Leonard Meyer posited that musical emotion is generated when an expected musical tendency—an anticipated resolution, melodic continuation, or harmonic cadence—is delayed, thwarted, 
+or unexpectedly fulfilled .
+
+Building upon Meyer’s foundation through an evolutionary and cognitive lens, David Huron formulated the ITPRA theory of expectation . Huron asserts that human expectation mechanisms evolved as adaptive survival strategies to predict environmental 
+events, adjust arousal levels, and evaluate outcomes . In musical contexts, these mechanisms operate through internalized statistical learning: through repeated exposure to a musical culture or genre, the brain constructs probabilistic models of 
+pitch distributions, scale degree behaviors, metric accents, and harmonic progressions .
+
+### The ITPRA Model of Musical Expectation
+
+| Stage | Response System | Temporal Timing | Primary Function | Psycho-Physiological Manifestation |
+| :--- | :--- | :--- | :--- | :--- |
+| **I** | **Imagination** | Pre-outcome (Long-term) | Pre-outcome forecasting of prospective scenarios; motivates behavior to optimize future states . | Vicarious emotional rehearsal, conscious visualization of outcomes, anticipatory goal setting . |
+| **T** | **Tension** | Pre-outcome (Immediate) | Somatic and physiological arousal adjustment tailored to the timing and uncertainty of the upcoming event . | Increased muscle tension, altered heart rate, heightened skin conductance, focused 
+attention . |
+| **P** | **Prediction** | Post-outcome (Immediate) | Rapid evaluation comparing the predicted event against the actual outcome to validate mental models . | Immediate feeling of satisfaction upon accurate prediction (regardless of event valence) or 
+disappointment upon error . |
+| **R** | **Reaction** | Post-outcome (Sub-second) | Automatic, subconscious somatic or defensive reflex triggered by the physical stimulus before full cognition . | Startle reflexes, rapid motor responses, automatic visceral reactions to sudden 
+loudness or dissonance . |
+| **A** | **Appraisal** | Post-outcome (Conscious) | Secondary cognitive appraisal evaluating the outcome within its broader contextual and artistic meaning . | Conscious aesthetic appreciation, complex emotional synthesis, contextual understanding 
+of musical wit or irony . |
+
+The complex interplay between the Prediction Response and the Appraisal Response explains the phenomenon of "contrastive valence" . When a musical composition introduces a surprising element—such as an unexpected deceptive cadence or an abrupt metric
+shift—the prediction mechanism initially registers a prediction error, generating a transient negative arousal spike . However, when the conscious appraisal mechanism processes the context and recognizes the artistic logic or resolution of the 
+surprise, it relabels the event positively . The resulting contrast between the initial physiological shock and the subsequent cognitive resolution produces a heightened sensation of pleasure, colloquially described as musical chills or frisson .
+
+---
+
+## Audio Production, Signal Integrity, and Synthetic Sound Artifacts
+
+Critical listening in contemporary audio environments requires evaluating both the artistic mixing choices of human producers and the technical anomalies introduced by digital synthesis and artificial intelligence . In professional audio engineering,
+critical listening focuses on identifying frequency masking, dynamic range control, spatial reverberation characteristics, vocal clarity, and the transparent or stylistic use of pitch correction software. Frequency masking occurs when overlapping 
+frequency bands between competing instruments obscure clarity, requiring precise equalization cuts and dynamic sidechaining. Similarly, evaluating spatial reverb involves distinguishing between pre-delay reflections, decay times, and early reflection
+densities to establish localized depth within a stereo or immersive mix.
+
+The rapid proliferation of AI-generated music (AIGM) and singing voice synthesis (SVS)—driven by deep learning architectures such as diffusion models, generative adversarial networks (GANs), and latent audio codecs—has created a new field of critical
+listening centered on detecting synthetic artifacts . Signal processing research published in forums such as ISMIR and arXiv reveals that deep generative models leave distinct structural and spectral signatures in synthesized audio signals . A 
+primary cause of audible artifacts in neural audio generation stems from the architectural design of neural upsampling layers . Mathematically, deconvolution operations (transposed convolutions) used in deep generative networks to expand latent 
+representations into high-resolution time-domain waveforms or spectrograms induce periodic spectral tiling . This operation periodizes the spectra of hidden layers, systematically generating narrow, distinctive frequency peaks across the upper 
+spectrum . In human listening, these deconvolution artifacts manifest as persistent, high-frequency pitched noise, metallic sizzle, or unnatural robotic ringing that remains static regardless of the underlying musical key or dynamic range .
+
+In singing voice synthesis, early statistical parameter synthesis and concatenative models frequently exhibited boundary phase discontinuities and splice artifacts at phonemic transitions . Contemporary end-to-end neural singing models achieve 
+smoother phonetic connections but remain prone to micro-level acoustic aberrations . Formant trajectory distortion occurs during rapid pitch glides or wide interval leaps, creating an unnatural timbral morphing that violates human vocal tract 
+constraints . Furthermore, synthetic voices often lack the natural micro-instabilities in pitch (jitter) and amplitude (shimmer) present in organic vocal cord vibration, resulting in an unnaturally smooth, glassy, or lifeless vocal delivery . 
+Percussive consonants and drum transients in AI-generated tracks frequently display loss of punch due to phase smearing across neural codec sub-bands, producing a softened, watery, or phase-canceling soundscape .
+
+### Four-Level Detection Taxonomy for Audio Analysis
+
+| Detection Level | Target Acoustic / Structural Trace | Analytical Manifestation in AI Audio |
+| :--- | :--- | :--- |
+| **Signal-Level** | Microscopic physical waveform and spectral characteristics . | Periodic deconvolution spectral peaks, high-frequency phase smearing, stationary pitched noise floor . |
+| **Feature-Level** | Acoustic-phonetic features, vocal tract resonance, and dynamic contours . | Unnatural formant shifts, rigid vibrato rates lacking natural pitch-width modulation, unnatural jitter/shimmer . |
+| **Watermark-Level** | Embedded imperceptible acoustic patterns or binary code sequences . | Deliberately introduced Phase-Modulated or Spread-Spectrum sub-audible markers for provenance tracking . |
+| **Semantic Consistency** | Macro-structural, harmonic, melodic, and prosodic coherence . | Unstable verse-chorus form, shallow harmonic loops, formulaic arrangement patterns, and prosodic stress errors . |
+
+---
+
+## Melodic Construction and Jargon-Free Harmonic Analysis
+
+Melody and harmony form the expressive backbone of popular and classical song craft . Analyzing these elements critically does not require mastery of complex traditional notation; rather, it relies on understanding the core experiential mechanics of 
+motion, contour, tension, and resolution . Melodic contour represents the overall visual and acoustic shape formed by pitch movements over time, commonly taking the form of arch shapes that ascend to a central peak before descending, inverted arches,
+ascending ramps, or undulating wave patterns. The pitch ceiling or climax marks the highest pitch arrival point within a section, and high-impact melodies strategically delay this peak until the emotional focal point—typically two-thirds of the way 
+through a chorus or bridge—maximizing dynamic intensity . Memorable melodies rely on hooks, which are brief, highly distinct melodic, rhythmic, or vocal phrases engineered for rapid cognitive retention . Effective compositional craft establishes a 
+short melodic motif, repeats it to build familiarity, and subsequently varies its pitch ending to signal section boundaries . Furthermore, singability evaluates the degree to which a melody respects human vocal physiology, where conjunct (step-wise) 
+pitch motion, comfortable registers, clear breath pauses, and natural speech rhythms promote effortless vocal reproduction, whereas disjunct leaps generate heightened dramatic tension .
+
+Harmonic analysis can be conceptualized as the management of musical gravity . As outlined in Philip Tagg’s framework of *Everyday Tonality* and open music theory resources, Western tonal harmony operates through continuous cycles of home, departure,
+tension, and return . The tonic or home base provides a foundational chord of complete rest, stability, and finality, acting as the gravitational center of a composition . Moving away from the home base introduces pre-dominant chords that establish 
+moderate motion and set up an expectation for stronger harmonic progression . Dominant chords introduce high instability and urgent auditory friction; the human ear, conditioned by tonal statistical learning, strongly anticipates that a high-tension 
+dominant chord will resolve directly back to the stable home base . The point where harmonic tension resolves into stability is defined as a cadence . A full cadential arrival functions like a definitive sentence period, whereas an incomplete or 
+deceptive cadence operates like a comma or unexpected turn of phrase, prompting continued forward momentum . In contemporary popular genres, traditional teleological functional harmony is frequently replaced by looping non-functional chord 
+progressions, such as four-chord axis loops . In these looping structures, harmonic tension is created less by complex chord transitions and more by layering textures, rhythmic syncopation, dynamic builds, and timbral density .
+
+---
+
+## Text-Setting, Prosody, and the Mechanics of Song Translation
+
+The interaction between spoken language and musical rhythm—known as text-setting or prosody—is a crucial dimension of vocal song craft . Effective text-setting aligns natural linguistic accents, vowel quantities, and speech contours with musical 
+downbeats, duration, and melodic direction . Different language families possess distinct prosodic characteristics that dictate how text must be adapted to musical rhythm . Categorized structurally by syllable-timed rhythm and equalized syllable 
+duration, French song prosody relies on subtle tonic accents at phrase endings rather than heavy stress accents . The poetic tradition of symbolist text-setting emphasizes continuous phonetic fluidity, careful management of mute *e* pronunciations, 
+and expressive alignment of vowel colors with harmonic shifts . Portuguese text-setting, as analyzed in Luiz Tatit’s *O Cancionista*, exhibits stress-timed tendencies with dynamic vocalic reduction and rich nasal diphthongs, relying on an intimate 
+alignment between spoken intonation patterns (*padrões entonacionais*) and melodic trajectory where spoken pitch inflections are directly stylized into singing contours. Italian song traditions, characterized by open-vowel terminations, clear 
+trochaic and dactylic rhythmic feet, and regular stress accents, naturally align melodic peaks with stressed tonic vowels, maximizing vocal resonance and projection. Slavic languages present distinct rhythmic requirements: Russian features highly 
+dynamic, non-fixed stress accents accompanied by significant vowel reduction in unstressed syllables, requiring strict alignment of tonic accents with musical downbeats to prevent semantic distortion, whereas Polish, with its fixed penultimate 
+syllable stress, creates predictable metric cadence patterns that composers must balance to avoid rhythmic monotony.
+
+Translating song lyrics for performance is an intricate exercise in constraint satisfaction, requiring translators to balance semantic fidelity against strict musical, prosodic, and vocal requirements . Peter Low’s Pentathlon Principle compares song 
+translation to an athletic pentathlon, arguing that a successful translation must achieve a balanced performance across five competing criteria without allowing any single dimension to fail completely: singability (vocal tract comfort and phonetic 
+ease at pitch extremes), sense (maintaining core semantic fidelity and emotional intent), naturalness (ensuring idiomatic flow and natural syntax), rhythm (matching syllable counts, line lengths, and stress patterns to the metric grid), and rhyme 
+(recreating rhyme schemes where stylistically required) . Complementing Low's approach, Johan Franzon defines singability functionally as the attainment of "musico-verbal unity" between text and composition . Franzon outlines five strategic options 
+available to a translator: leaving the song untranslated, translating lyrics semantically without regarding music, writing entirely new lyrics to the original music, adapting the musical score to fit a new translation, or adapting the translation to 
+fit the existing musical framework .
+
+### Matrix of Song Translation: Low's Pentathlon vs. Franzon's Layers
+
+| Translation Dimension | Primary Target Focus | Analytical Criteria & Operational Constraints |
+| :--- | :--- | :--- |
+| **Franzon: Prosodic Layer** | Metric & Phonetic Fit . | Syllable count parity, stress-downbeat alignment, phonetic ease at pitch extremes . |
+| **Franzon: Poetic Layer** | Stylistic & Structural Form . | Rhyme scheme retention, meter consistency, stylistic register, poetic imagery . |
+| **Franzon: Semantic-Reflexive Layer** | Expressive Coherence . | Alignment between text emotional valence and musical mood, key semantic matches . |
+| **Low: Singability** | Vocal Performability . | Avoidance of awkward consonant clusters, vocal tract comfort on sustained pitches . |
+| **Low: Sense** | Semantic Fidelity . | Preservation of core narrative meaning, thematic intent, and symbolic nuance . |
+| **Low: Naturalness** | Linguistic Authenticity . | Idiomatic flow, natural syntax, avoidance of forced inversions for rhyme . |
+
+---
+
+## Formal Architecture in Popular Music
+
+Formal analysis maps the structural progression of a song over time . While early American popular music relied on strophic (AAA) or 32-bar Tin Pan Alley (AABA) structures, modern popular music is dominated by verse-chorus configurations and their 
+contemporary electronic derivatives . Popular music architecture assigns specific communicative and energetic roles to individual formal sections . The verse sets up narrative context, featuring evolving lyrics set to a recurring melodic and harmonic
+baseline operating at medium sonic intensity . The prechorus serves as an energetic ramp or transitional catalyst, accelerating momentum away from the verse through rising melodic pitch, accelerating harmonic rhythm, or densifying percussion . The 
+chorus represents the expressive, thematic, and climactic destination of the song cycle, featuring fixed lyrics containing the main title hook, high dynamic density, expanded vocal registers, and full instrumentation . Positioned typically two-thirds
+through the track, the bridge offers crucial contrast by introducing new harmonic progressions, alternative vocal melodies, and lyrical shifts before resolving into the final chorus .
+
+In structural analyses published in *Music Theory Online*, Mark Nobile conceptualizes verse-prechorus-chorus form through the Telos Principle—a goal-directed teleological design . Nobile establishes a critical distinction between verse-chorus forms 
+without a prechorus and those containing a prechorus . In standard verse-chorus forms, the structural cadential arrival occurs at the end of the chorus section . Conversely, in verse-prechorus-chorus form, the entire sectional cycle functions as a 
+continuous harmonic and energetic building process that directs its trajectory toward a primary structural cadence located precisely on the first downbeat of the chorus . The harmonic profile of this paradigm follows an overarching trajectory from 
+tonic stability ($I$) in the verse, through pre-dominant to dominant progressions ($IV \rightarrow V$ or $ii \rightarrow V$) across the prechorus, resolving directly to the tonic ($I$) at the chorus onset .
+
+In modern Top-40 and Electronic Dance Music (EDM), traditional formal functions have evolved alongside production technology and streaming distribution dynamics . As analyzed by Brad Osborn and Matthew Stroud, contemporary pop frequently extends the 
+chorus using a postchorus section, which manifests either as a codetta-type postchorus that provides structural closure while reinforcing secondary hooks or as an anthem-type postchorus where the preceding chorus acts as a building section to allow 
+the postchorus to serve as the ultimate dynamic peak . In EDM-influenced pop formats, the traditional chorus is frequently replaced or augmented by a riserchorus—a section characterized by rising pitch synthesis, thinning low-end, and accelerating 
+drum rolls—that releases directly into the drop or dance chorus . The drop strips away lyrical narrative, deploying heavy sidechain compression, prominent sub-bass, and untexted vocal chops designed for physical movement . Concurrently, stream-driven
+revenue models have shortened average track lengths, leading to the frequent omission of traditional bridges and intros in favor of immediate hook presentation and compressed sectional cycles .
+
+---
+
+## Social, Environmental, and Functional Applications of Music
+
+Music is an active social technology utilized across private, institutional, and clinical settings . Ethnomusicologist Alan Merriam established a foundational distinction between the uses of music (the specific operational ways human beings employ 
+music) and the functions of music (the deeper socio-psychological requirements that music satisfies) . Merriam identified ten universal social functions, including emotional expression, aesthetic enjoyment, communication, symbolic representation, 
+enforcing conformity to social norms, validation of social institutions, and integration of society . In *Music in Everyday Life*, sociologist Tia DeNora expanded this functional view by framing music as a material resource and framing device . 
+DeNora demonstrates that individuals use music as an aesthetic affordance to construct identity, regulate bodily arousal, manage emotional transitions, and structure social environments . Rather than music acting as a passive external stimulus, human
+actors actively co-opt musical properties to shape personal agency and social action .
+
+Systematic reviews and clinical meta-analyses demonstrate that intraoperative music—played for surgical teams or patients under regional or general anesthesia—has measurable medical outcomes . Patient outcomes indicate that intraoperative music 
+exerts a large effect size on reducing postoperative pain upon awakening and a medium-to-large effect on reducing emergence delirium . For surgical teams, controlled background music in operating rooms reduces surgeon stress markers, improves motor 
+task precision, and enhances focus during repetitive procedures, provided dynamic volume levels are managed to prevent speech masking .
+
+In commercial environments, field experiments confirm that ambient auditory cues subconsciously prime consumer choice . In a landmark field study conducted by Adrian North, David Hargreaves, and Jennifer McKendrick (1999) in a UK supermarket, 
+researchers alternated traditional French accordion music and German oompah music in the wine section on consecutive days .
+
+### Consumer Priming Field Study Data (North et al., 1999)
+
+| Auditory Condition | French Wine Units Sold | German Wine Units Sold | Sales Ratio | Post-Purchase Consciousness |
+| :--- | :--- | :--- | :--- | :--- |
+| **French Music Playing** | **40 bottles** . | 12 bottles . | **5 : 1** preference for French wine . | Over **86%** of shoppers denied that the music influenced their selection . |
+| **German Music Playing** | 8 bottles . | **22 bottles** . | **2 : 1** preference for German wine . | Shoppers cited personal taste or origin flags, unaware of auditory prime . |
+
+This experiment demonstrated automatic category activation: background music activated culturally associated semantic networks without consumers' conscious awareness, directly biasing purchasing decisions .
+
+Research led by Charles Spence at Oxford University’s Crossmodal Research Laboratory demonstrates that specific auditory frequencies and timbres alter crossmodal taste perception, a phenomenon known as sonic seasoning . The human brain systematically
+maps high pitches, legato articulation, and consonant harmonies to heightened perceptions of sweetness, whereas low-pitched brassy sounds, sharp transients, and dissonance enhance perceptions of bitterness . Fast staccato rhythms accentuate sourness 
+and acidity, allowing commercial applications to adjust flavor profiles without altering chemical ingredients .
+
+In sacred traditions, music functions as an integral structural component of ritual . Following the Second Vatican Council, directives articulated in *Sacrosanctum Concilium* and *Musicam Sacram* shifted liturgical music policy away from passive 
+choir consumption toward *participatio actuosa*—the conscious, active participation of the entire assembly . Liturgical music must align with structural ritual actions, prioritizing text clarity, congregational singability, and sacred function over 
+performative display . In cognitive and ergonomic contexts, background music with high acoustic complexity or vocal lyrics impairs reading comprehension due to the Irrelevant Speech Effect, whereas instrumental music with predictable tempo (60–80 
+BPM) and stable dynamics fosters focus by blocking external acoustic distractions. Driving safety is similarly modulated by music, where high-tempo (>120 BPM) and loud music induce aggressive driving and metric error, whereas moderate-tempo music 
+maintains alertness. Finally, musical groove activates motor preparation areas in the brain—specifically the basal ganglia and supplementary motor area—where rhythmic predictability combined with metric syncopation induces motor entrainment, 
+optimizing performance in dance, exercise, and physical rehabilitation .
+
+---
+
+## Synthesis and Conclusions
+
+Critical listening provides a unified methodology for understanding how sound is engineered, perceived, interpreted, and socio-culturally deployed . As demonstrated across pedagogical, psychoacoustic, engineering, formal, linguistic, and sociological
+domains, listening is an active analytical discipline that transforms passive auditory consumption into structural understanding . 
+
+The multi-disciplinary findings analyzed in this report lead to several overarching conclusions:
+First, active listening pedagogy bridges theoretical knowledge and practical perception by training the ear in stream segregation and hypermetric tracking across classical, pop, and electronic genres . Second, cognitive expectation models—notably 
+Huron's ITPRA theory and Meyer's delay-resolution framework—demonstrate that musical emotion arises from statistical predictive processing and physiological arousal management . Third, modern signal processing research provides robust tools for 
+detecting synthetic audio, identifying AI-generated artifacts such as deconvolution spectral tiling, formant distortion, and phase smearing . Fourth, formal popular music theory reveals a shift toward compressed, teleological structures where 
+prechoruses, postchoruses, and electronic drops redefine dynamic climax points . Fifth, song translation and text-setting operate under strict prosodic and metric constraints, requiring a balanced alignment of singability, naturalness, and sense 
+across linguistic boundaries . Finally, empirical evidence confirms that music serves as a potent functional tool, modulating intraoperative surgical recovery, subconsciously priming consumer purchasing decisions, altering crossmodal taste 
+perception, and driving motor entrainment . Integrating these analytical frameworks enables peers across musicology, audio engineering, cognitive science, and sociology to rigorously evaluate the multifaceted impact of sound in human culture .
+
+---
+
+1. MUSI 112 - Lecture 1 - Introduction | Open Yale Courses, (https://oyc.yale.edu/music/musi-112/lecture-1)
+2. Transposition, Hors-série 2 - BORIS Portal, (https://boris-portal.unibe.ch/bitstreams/b3435ba0-fe26-4341-a772-b08d84b2e0b8/download)
+3. Maryland Open Source Textbook (M.O.S.T.) Commons, (https://most.oercommons.org/browse?f.general_subject=professional-studies)
+4. Huron's Sweet Anticipation Explained | PDF | Psychology | Experience - Scribd, (https://www.scribd.com/document/631088601/huron)
+5. MTO 28.3: Nobile, Teleology in Verse–Prechorus–Chorus Form - Music Theory Online, (https://mtosmt.org/issues/mto.22.28.3/mto.22.28.3.nobile.html)
+6. Composing Symbolism's Musicality of Language in fin-de-siècle France - UNT Digital Library, (https://digital.library.unt.edu/ark:/67531/metadc862749/m2/1/high_res_d/VARVIRCOE-DISSERTATION-2016.pdf)
+7. Sweet Anticipation: Music and the Psychology of Expectation - ResearchGate, (https://www.researchgate.net/publication/209436188_Sweet_Anticipation_Music_and_the_Psychology_of_Expectation)
+8. Cognitive Approaches to Analysis of Emotions in Music Listening - ResearchGate, (https://www.researchgate.net/publication/268196114_Cognitive_Approaches_to_Analysis_of_Emotions_in_Music_Listening)
+9. David Huron, Sweet Anticipation. Music and the Psychology of Expectation, Cambridge: MIT Press 2006 - ResearchGate, 
+(https://www.researchgate.net/publication/327813540_David_Huron_Sweet_Anticipation_Music_and_the_Psychology_of_Expectation_Cambridge_MIT_Press_2006)
+10. A Fourier Explanation of AI-music Artifacts - arXiv, (https://arxiv.org/pdf/2506.19108)
+11. From Audio Deepfake Detection to AI-Generated Music Detection – A Pathway and Overview - arXiv, (https://arxiv.org/html/2412.00571v3)
+12. From Audio Deepfake Detection to AI-Generated Music Detection – A Pathway and Overview - ResearchGate, (https://www.researchgate.net/publication/414725311_From_Audio_Deepfake_Detection_to_AI-Generated_Music_Detection_-_A_Pathway_and_Overview)
+13. Applications of Artificial Intelligence in Music: A Review - SciOpen, (https://www.sciopen.com/article/10.26599/IJCS.2025.9100011)
+14. Prevailing Research Areas for Music AI in the Era of Foundation Models - GitHub, (https://raw.githubusercontent.com/mlresearch/v303/main/assets/wei26a/wei26a.pdf)
+15. A Fourier Explanation of AI-music Artifacts - arXiv, (https://arxiv.org/html/2506.19108v1)
+16. Artificial intelligence in music - Wikipedia, (https://en.wikipedia.org/wiki/Artificial_intelligence_in_music)
+17. AI-Enabled Text-to-Music Generation: A Comprehensive Review of Methods, Frameworks, and Future Directions - MDPI, (https://www.mdpi.com/2079-9292/14/6/1197)
+18. AABA, Refrain, Chorus, Bridge, Prechorus - Song Forms and their Historical Development, (https://d-nb.info/1069484245/34)
+19. MTO 28.2: Stroud, Codetta and Anthem Postchorus Types - Music Theory Online, (https://www.mtosmt.org/issues/mto.22.28.2/mto.22.28.2.stroud.html)
+20. FORMAL FUNCTION OF THE POP-DROP IN POPULAR MUSIC by Amanda Goldstein - UDSpace - University of Delaware, (https://udspace.udel.edu/server/api/core/bitstreams/20f2edcb-a633-4e85-b215-6650d1615e1c/content)
+21. Formal Functions and Rotations in Top-40 EDM – Intégral - Music Theory, (https://theory.esm.rochester.edu/integral/36-2023/osborn/)
+22. Analyzing the Bridge in Post-Millennial Popular Music - Oxford Academic, (https://academic.oup.com/mts/advance-article-pdf/doi/10.1093/mts/mtag020/71291724/mtag020.pdf)
+23. Aiming at a singable Turkish version of GF Händel's duet “As steals the morn upon the - Parallèles, (https://www.paralleles.unige.ch/download_file/view/329/258)
+24. Franzon - Choices in Song Translation | PDF - Scribd, (https://www.scribd.com/document/644601831/Franzon-Choices-in-Song-Translation)
+25. Song Lyrics Adaptations: Computational Interpretation of the Pentathlon Principle - ACL Anthology, (https://aclanthology.org/2025.nlp4dh-1.11.pdf)
+26. 'Moving past the feeling': emotion in Arcade Fire's Funeral | Popular Music, (https://www.cambridge.org/core/journals/popular-music/article/moving-past-the-feeling-emotion-in-arcade-fires-funeral/C3A738F253A886F62EEAAB8C93BDF9F0)
+27. Redefining Ornamentation as Formal Functions in 21st-Century Popular Music - Scholar Commons, (https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=7636&context=etd)
+28. (PDF) Hidden Influences in Music Technology: An Approach to Coding Practice, (https://www.researchgate.net/publication/386322920_Hidden_Influences_in_Music_Technology_An_Approach_to_Coding_Practice)
+29. Strategies Used in the Reformulation of Lyrics: an Analysis of Kenyan Gospel Kiswahili Covers - UoN Digital Repository, (https://erepository.uonbi.ac.ke/server/api/core/bitstreams/31fe23e4-50b3-40d8-bbf6-72fc3d5ddbcf/content)
+30. Make it sing? - | CIOL (Chartered Institute of Linguists), (https://www.ciol.org.uk/make-it-sing)
+31. Choices in Song Translation: Singability in Print, Subtitles and Sung Performance, (https://www.researchgate.net/publication/261668226_Choices_in_Song_Translation_Singability_in_Print_Subtitles_and_Sung_Performance)
+32. Choices in Song Translation: Singability in Print, Subtitles and Sung Performance, (https://researchportal.helsinki.fi/en/publications/choices-in-song-translation-singability-in-print-subtitles-and-su/)
+33. Popular Music in the Post-Digital Age: Politics, Economy, Culture and Technology 9781501338373, 9781501338403, 9781501338397 - DOKUMEN.PUB, 
+(https://dokumen.pub/popular-music-in-the-post-digital-age-politics-economy-culture-and-technology-9781501338373-9781501338403-9781501338397.html)
+34. Handbook of Musical Identities by Hargreaves, David John MacDonald, Raymond A. R. Miell, Dorothy PDF - Scribd, 
+(https://www.scribd.com/document/632973971/Handbook-of-musical-identities-by-Hargreaves-David-John-MacDonald-Raymond-A-R-Miell-Dorothy-z-lib-org-pdf)
+35. The Oxford handbook of sound and imagination [1] 9780190460167, 9780190460242 - DOKUMEN.PUB, (https://dokumen.pub/the-oxford-handbook-of-sound-and-imagination-1-9780190460167-9780190460242.html)
+36. Personalized Perioperative Music Listening: A Human-Centered, (https://pdfs.semanticscholar.org/1c77/f57671defc89c0eb703d534f257c77227106.pdf)
+37. The power of priming - Language Teacher Toolkit, (https://frenchteachernet.blogspot.com/2021/01/the-power-of-priming.html)
+38. How in-store music increased French wine sales by 330% - The Decision Lab, (https://thedecisionlab.com/intervention/how-in-store-music-increased-french-wine-sales-by-330)
+39. The Priming Effect in Branding: How Subtle Cues Shape Consumer Perception, (https://www.advergize.com/priming-effect-branding/)
+40. 4 known experiments in sound and shopper behavior - Jukee, (https://www.jukee.ai/4-known-experiments-in-sound-and-shopper-behavior/)
+41. Understanding Neuromarketing Basics | PDF | Functional Magnetic Resonance Imaging | Electroencephalography - Scribd, (https://www.scribd.com/doc/256718947/markertng-paper)
+42. Did Hearing "O Canada" Make Me Want to Eat Poutine? - Psychology Today, (https://www.psychologytoday.com/ca/blog/attitude-check/201601/did-hearing-o-canada-make-me-want-eat-poutine)
+43. Assessing the Impact of Closure Type on Wine Ratings and Mood - MDPI, (https://www.mdpi.com/2306-5710/3/4/52)
+44. The Invisible Ingredient: How Sound Shapes What We Taste - SiriusXM Media, (https://www.siriusxmmedia.com/insights/the-invisible-ingredient-how-sound-shapes-what-we-taste)
+45. Sonic Seasoning and Other Multisensory Influences on the Coffee Drinking Experience, (https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2021.644054/full)
+46. Liturgical Music and Instrument Guidelines | PDF | Catholic Church, (https://www.scribd.com/document/533640076/Music-and-Instruments-in-the-Liturgy)
+47. The Power of Work Songs Through History | PDF - Scribd, (https://www.scribd.com/document/837621921/Work-Songs-Ted-Gioia)
+
+
+Discovered Sources:
+  [0] The Architecture of Listening: A Comprehensive Framework for Analytical Music Perception, Structural Analysis, Psychoacoustics, and Socio-Cultural Function
+  [1] MUSI 112 - Lecture 1 - Introduction | Open Yale Courses
+      https://oyc.yale.edu/music/musi-112/lecture-1
+  [2] MTO 28.3: Nobile, Teleology in Verse–Prechorus–Chorus Form - Music Theory Online
+      https://mtosmt.org/issues/mto.22.28.3/mto.22.28.3.nobile.html
+  [3] Sweet Anticipation: Music and the Psychology of Expectation - ResearchGate
+      https://www.researchgate.net/publication/209436188_Sweet_Anticipation_Music_and_the_Psychology_of_Expectation
+  [4] A Fourier Explanation of AI-music Artifacts - arXiv
+      https://arxiv.org/pdf/2506.19108
+  [5] Choices in Song Translation: Singability in Print, Subtitles and Sung Performance
+      https://www.researchgate.net/publication/261668226_Choices_in_Song_Translation_Singability_in_Print_Subtitles_and_Sung_Performance
+  [6] Maryland Open Source Textbook (M.O.S.T.) Commons
+      https://most.oercommons.org/browse?f.general_subject=professional-studies
+  [7] MTO 28.2: Stroud, Codetta and Anthem Postchorus Types - Music Theory Online
+      https://www.mtosmt.org/issues/mto.22.28.2/mto.22.28.2.stroud.html
+  [8] Popular Music in the Post-Digital Age: Politics, Economy, Culture and Technology 9781501338373, 9781501338403, 9781501338397 - DOKUMEN.PUB
+      https://dokumen.pub/popular-music-in-the-post-digital-age-politics-economy-culture-and-technology-9781501338373-9781501338403-9781501338397.html
+  [9] How in-store music increased French wine sales by 330% - The Decision Lab
+      https://thedecisionlab.com/intervention/how-in-store-music-increased-french-wine-sales-by-330
+  [10] From Audio Deepfake Detection to AI-Generated Music Detection – A Pathway and Overview - arXiv
+      https://arxiv.org/html/2412.00571v3
+  [11] Song Lyrics Adaptations: Computational Interpretation of the Pentathlon Principle - ACL Anthology
+      https://aclanthology.org/2025.nlp4dh-1.11.pdf
+  [12] AI-Enabled Text-to-Music Generation: A Comprehensive Review of Methods, Frameworks, and Future Directions - MDPI
+      https://www.mdpi.com/2079-9292/14/6/1197
+  [13] Transposition, Hors-série 2 - BORIS Portal
+      https://boris-portal.unibe.ch/bitstreams/b3435ba0-fe26-4341-a772-b08d84b2e0b8/download
+  [14] FORMAL FUNCTION OF THE POP-DROP IN POPULAR MUSIC by Amanda Goldstein - UDSpace - University of Delaware
+      https://udspace.udel.edu/server/api/core/bitstreams/20f2edcb-a633-4e85-b215-6650d1615e1c/content
+  [15] Formal Functions and Rotations in Top-40 EDM – Intégral - Music Theory
+      https://theory.esm.rochester.edu/integral/36-2023/osborn/
+  [16] The Invisible Ingredient: How Sound Shapes What We Taste - SiriusXM Media
+      https://www.siriusxmmedia.com/insights/the-invisible-ingredient-how-sound-shapes-what-we-taste
+  [17] Personalized Perioperative Music Listening: A Human-Centered
+      https://pdfs.semanticscholar.org/1c77/f57671defc89c0eb703d534f257c77227106.pdf
+  [18] Liturgical Music and Instrument Guidelines | PDF | Catholic Church
+      https://www.scribd.com/document/533640076/Music-and-Instruments-in-the-Liturgy
+  [19] AABA, Refrain, Chorus, Bridge, Prechorus - Song Forms and their Historical Development
+      https://d-nb.info/1069484245/34
+  [20] Redefining Ornamentation as Formal Functions in 21st-Century Popular Music - Scholar Commons
+      https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=7636&context=etd
+  [21] Cognitive Approaches to Analysis of Emotions in Music Listening - ResearchGate
+      https://www.researchgate.net/publication/268196114_Cognitive_Approaches_to_Analysis_of_Emotions_in_Music_Listening
+  [22] Did Hearing "O Canada" Make Me Want to Eat Poutine? - Psychology Today
+      https://www.psychologytoday.com/ca/blog/attitude-check/201601/did-hearing-o-canada-make-me-want-eat-poutine
+  [23] Applications of Artificial Intelligence in Music: A Review - SciOpen
+      https://www.sciopen.com/article/10.26599/IJCS.2025.9100011
+  [24] 4 known experiments in sound and shopper behavior - Jukee
+      https://www.jukee.ai/4-known-experiments-in-sound-and-shopper-behavior/
+  [25] Aiming at a singable Turkish version of GF Händel's duet “As steals the morn upon the - Parallèles
+      https://www.paralleles.unige.ch/download_file/view/329/258
+  [26] David Huron, Sweet Anticipation. Music and the Psychology of Expectation, Cambridge: MIT Press 2006 - ResearchGate
+      https://www.researchgate.net/publication/327813540_David_Huron_Sweet_Anticipation_Music_and_the_Psychology_of_Expectation_Cambridge_MIT_Press_2006
+  [27] Analyzing the Bridge in Post-Millennial Popular Music - Oxford Academic
+      https://academic.oup.com/mts/advance-article-pdf/doi/10.1093/mts/mtag020/71291724/mtag020.pdf
+  [28] Composing Symbolism's Musicality of Language in fin-de-siècle France - UNT Digital Library
+      https://digital.library.unt.edu/ark:/67531/metadc862749/m2/1/high_res_d/VARVIRCOE-DISSERTATION-2016.pdf
+  [29] The Priming Effect in Branding: How Subtle Cues Shape Consumer Perception
+      https://www.advergize.com/priming-effect-branding/
+  [30] Huron's Sweet Anticipation Explained | PDF | Psychology | Experience - Scribd
+      https://www.scribd.com/document/631088601/huron
+  [31] Artificial intelligence in music - Wikipedia
+      https://en.wikipedia.org/wiki/Artificial_intelligence_in_music
+  [32] Prevailing Research Areas for Music AI in the Era of Foundation Models - GitHub
+      https://raw.githubusercontent.com/mlresearch/v303/main/assets/wei26a/wei26a.pdf
+  [33] From Audio Deepfake Detection to AI-Generated Music Detection – A Pathway and Overview - ResearchGate
+      https://www.researchgate.net/publication/414725311_From_Audio_Deepfake_Detection_to_AI-Generated_Music_Detection_-_A_Pathway_and_Overview
+  [34] Franzon - Choices in Song Translation | PDF - Scribd
+      https://www.scribd.com/document/644601831/Franzon-Choices-in-Song-Translation
+  [35] The Power of Work Songs Through History | PDF - Scribd
+      https://www.scribd.com/document/837621921/Work-Songs-Ted-Gioia
+  [36] Strategies Used in the Reformulation of Lyrics: an Analysis of Kenyan Gospel Kiswahili Covers - UoN Digital Repository
+      https://erepository.uonbi.ac.ke/server/api/core/bitstreams/31fe23e4-50b3-40d8-bbf6-72fc3d5ddbcf/content
+  [37] Make it sing? - | CIOL (Chartered Institute of Linguists)
+      https://www.ciol.org.uk/make-it-sing
+  [38] 'Moving past the feeling': emotion in Arcade Fire's Funeral | Popular Music
+      https://www.cambridge.org/core/journals/popular-music/article/moving-past-the-feeling-emotion-in-arcade-fires-funeral/C3A738F253A886F62EEAAB8C93BDF9F0
+  [39] Handbook of Musical Identities by Hargreaves, David John MacDonald, Raymond A. R. Miell, Dorothy PDF - Scribd
+      https://www.scribd.com/document/632973971/Handbook-of-musical-identities-by-Hargreaves-David-John-MacDonald-Raymond-A-R-Miell-Dorothy-z-lib-org-pdf
+  [40] The Oxford handbook of sound and imagination [1] 9780190460167, 9780190460242 - DOKUMEN.PUB
+      https://dokumen.pub/the-oxford-handbook-of-sound-and-imagination-1-9780190460167-9780190460242.html
+  [41] A Fourier Explanation of AI-music Artifacts - arXiv
+      https://arxiv.org/html/2506.19108v1
+  [42] Understanding Neuromarketing Basics | PDF | Functional Magnetic Resonance Imaging | Electroencephalography - Scribd
+      https://www.scribd.com/doc/256718947/markertng-paper
+  [43] (PDF) Hidden Influences in Music Technology: An Approach to Coding Practice
+      https://www.researchgate.net/publication/386322920_Hidden_Influences_in_Music_Technology_An_Approach_to_Coding_Practice
+  [44] Assessing the Impact of Closure Type on Wine Ratings and Mood - MDPI
+      https://www.mdpi.com/2306-5710/3/4/52
+  [45] The power of priming - Language Teacher Toolkit
+      https://frenchteachernet.blogspot.com/2021/01/the-power-of-priming.html
+  [46] Choices in Song Translation: Singability in Print, Subtitles and Sung Performance
+      https://researchportal.helsinki.fi/en/publications/choices-in-song-translation-singability-in-print-subtitles-and-su/
+  [47] Sonic Seasoning and Other Multisensory Influences on the Coffee Drinking Experience
+      https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2021.644054/full
+  [48] Introduction To Music Appreciation | PDF | Classical Music | Performing Arts - Scribd
+      https://www.scribd.com/document/298753231/Introduction-to-Music-Appreciation
+  [49] The Work and Non-work of the Creative Worker: Professional Musicians
+      https://etheses.whiterose.ac.uk/id/eprint/35551/1/Nandi_R_LUBS_PhD_2024.pdf
+  [50] 1700 Free Online Courses from Top Universities - Open Culture
+      https://www.openculture.com/freeonlinecourses
+  [51] the impact of music education on academic achievement, attendance rate, and student conduct on - VTechWorks
+      https://vtechworks.lib.vt.edu/bitstream/handle/10919/27477/WALLERDissertationFINALDEFENSE2.pdf
+  [52] A lifetime learning melodies, rhythms & harmonies: the continuum of affective, behavioral, cognitive, physiological, and - OpenBU
+      https://open.bu.edu/bitstreams/ab88ae14-e1fc-47c7-b880-8171d046232c/download
+  [53] A typology of sampling in hip-hop - ProQuest
+      https://search.proquest.com/openview/9d3956619526667e122f8d6bf80e67d1/1?pq-origsite=gscholar&cbl=18750
+  [54] The experience of listening to music: methodologies, identities, histories - LED Proceedings 2017 and 2019
+      https://ledbooks.org/proceedings2019/
+  [55] Report of the Committee on Online Education | Yale News
+      https://news.yale.edu/2012/12/19/report-committee-online-education
+  [56] Assessment of musical listening in post- tonal contexts: The case of temA (1968) by Helmut Lachenmann
+      https://revistas.ufg.br/musica/article/download/83491/43598/426092
+  [57] Building Bridges: Rebuilds in Popular Song, 1959–2024 – Intégral - Music Theory
+      https://theory.esm.rochester.edu/integral/38-2025/carter/
+  [58] American Popular Music Literature | PDF | Rock Music | Jazz - Scribd
+      https://www.scribd.com/document/790083653/Songbooks-the-Literature-of-American-Popular-Music-9781478021391
+  [59] AI Music Detection: Challenges & Insights | PDF | Artificial Intelligence - Scribd
+      https://www.scribd.com/document/892452916/The-AI-Music-Arms-Race-on-the-Detection-of-AI-Gene
+  [60] Harmony and Counterpoint I - MIT Learn
+      https://learn.mit.edu/c/unit/ocw?resource=3894
+  [61] Lecturers - MIT Comparative Media Studies/Writing
+      https://cmsw.mit.edu/people/lecturers/
+  [62] Three dimensions of singability. An approach to subtitled and sung translations. In: Text and Tune. On the Association of Music and Lyrics in Sung Verse. (Eds: Teresa Proto, Paolo Canettieri & Gianluca Valenti). Peter Lang, 2015. ISBN 
+978-3-0343-1560-9. Pages 333-346. - ResearchGate
+      https://www.researchgate.net/publication/315596638_Three_dimensions_of_singability_An_approach_to_subtitled_and_sung_translations_In_Text_and_Tune_On_the_Association_of_Music_and_Lyrics_in_Sung_Verse_Eds_Teresa_Proto_Paolo_Canettieri_Gianluca_V
+alenti_
+  [63] Inside the booming business of background music - The Guardian
+      https://www.theguardian.com/news/2018/nov/06/inside-the-booming-business-of-background-music
+  [64] Good news and bad news on a BBC report involving a scientific study - Brian Clegg
+      http://brianclegg.blogspot.com/2026/02/good-news-and-bad-news-on-bbc-report.html
+
+Run 'nlm research import 4ac56794-d00a-436a-a446-24f1161cd9bd <task-id>' to import sources.
