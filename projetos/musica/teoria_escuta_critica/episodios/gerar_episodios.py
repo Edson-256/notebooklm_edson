@@ -11,7 +11,9 @@ TITULOS = {1: 'Como ouvir com método', 2: 'Produção e mixagem', 3: 'Melodia',
            10: 'Tradições do mundo 3 - Ásia e África'}
 EXTRA = {9: ['Beyond the Classroom'], 10: ['Beyond the Classroom']}  # fonte geral de world music
 def nlm(*a, timeout=300):
-    return subprocess.run(['nlm', *a, '--profile', 'default'], capture_output=True, text=True, env=ENV, timeout=timeout)
+    # 'download' não aceita --profile: a conta vem de NLM_PROFILE (ENV)
+    extra = [] if a[0] == 'download' else ['--profile', 'default']
+    return subprocess.run(['nlm', *a, *extra], capture_output=True, text=True, env=ENV, timeout=timeout)
 def prompts():
     t = open(os.path.join(AQUI, 'prompts_episodios.md')).read()
     blocos = dict(re.findall(r'^## (COMMON|Ep\d\d)[^\n]*\n+```text\n(.*?)```', t, re.S | re.M))
