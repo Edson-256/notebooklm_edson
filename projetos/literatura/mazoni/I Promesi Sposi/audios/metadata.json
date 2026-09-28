@@ -60,18 +60,15 @@
       "scene_identifier": "C_00-Promesi.Sposi_cena004",
       "cena_filename": "C_00-Promesi.Sposi_cena004.md",
       "prompt_filename": "C_00-Promesi.Sposi_prompt004.md",
+      "arquivo": "promessi_004_c_00_promesi_sposi_cena004.m4a",
+      "artifact_id": "fab98d15-e521-4688-8f75-a54d691ad3bd",
+      "source_id": "5185b22e-17dd-48ce-bb0a-88597d678910",
       "book_id": "C_00-Promesi.Sposi",
-      "status": "requeued",
-      "legacy_artifacts_ids": [
-        "e1a7fed4-62ac-4552-86cb-3990a183dc85",
-        "6945187b-042b-41bc-b197-bd89f9c02512",
-        "17421a4e-bcb1-418c-9fc2-b0797b8f66e4",
-        "46c7dcd9-c94a-42ef-832b-3526e4d62cfb"
-      ],
-      "skip_reason": "Áudios antigos no studio usaram prompt genérico (Methodology) sem Scene Identifier — não casam com cenas específicas. Usuário optou por continuar a partir de seq 14 (seqs 5-13 estão prontos com prompts cena-by-cena).",
-      "skipped_at": "2026-05-16T13:02:47.493882",
-      "requeued_at": "2026-09-27",
-      "requeue_reason": "Introduzione cenas 1-4 nunca tiveram áudio próprio; gerar para completar a coleção (pedido do Edson 2026-09-27)"
+      "data_geracao": "2026-09-28T12:30:15.112588",
+      "prompt_chars": 2946,
+      "language": "it-IT",
+      "audio_format": "deep_dive",
+      "status": "created"
     },
     {
       "seq_global": 5,
@@ -6006,5 +6003,5 @@
     }
   ],
   "total_itens_processados": 355,
-  "ultima_atualizacao": "2026-09-27T10:58:49.473876"
+  "ultima_atualizacao": "2026-09-28T12:30:15.118939"
 }
