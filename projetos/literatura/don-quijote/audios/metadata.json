@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-28T21:06:30.285082",
+  "atualizado": "2026-09-28T22:01:50.238807",
   "audios": [
     {
       "seq_global": 1,
@@ -3171,8 +3171,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-28T21:00:09.192708",
-      "status": "created",
-      "artifact_id": "944d72fb-91b9-4214-ab47-3ef5ce9a151d"
+      "status": "downloaded",
+      "artifact_id": "944d72fb-91b9-4214-ab47-3ef5ce9a151d",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/244_cap-077_cena-001_El-despertar-en-el-prado-de-cristal.m4a",
+      "tamanho_bytes": 19033308
     },
     {
       "seq_global": 245,
@@ -3182,8 +3184,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-28T21:02:13.963061",
-      "status": "created",
-      "artifact_id": "471c7e53-68b2-4126-b5e9-7b619d8ae22f"
+      "status": "downloaded",
+      "artifact_id": "471c7e53-68b2-4126-b5e9-7b619d8ae22f",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/245_cap-077_cena-002_El-sepulcro-de-Durandarte-y-la-procesion-de-Belerma.m4a",
+      "tamanho_bytes": 27204328
     },
     {
       "seq_global": 246,
@@ -3193,8 +3197,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-28T21:04:19.625646",
-      "status": "created",
-      "artifact_id": "348807aa-1075-435b-8e83-12d98287dbf7"
+      "status": "downloaded",
+      "artifact_id": "348807aa-1075-435b-8e83-12d98287dbf7",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/246_cap-077_cena-003_Dulcinea-encantada-pide-seis-reales-prestados.m4a",
+      "tamanho_bytes": 18700013
     },
     {
       "seq_global": 247,
@@ -3203,7 +3209,7 @@
       "cap": 78,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-28T21:06:30.281696",
+      "data": "2026-09-28T22:01:50.235817",
       "status": "deferred"
     }
   ]
