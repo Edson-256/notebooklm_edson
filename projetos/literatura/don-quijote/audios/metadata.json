@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-29T22:03:46.864960",
+  "atualizado": "2026-09-29T23:02:41.024125",
   "audios": [
     {
       "seq_global": 1,
@@ -3209,9 +3209,9 @@
       "cap": 78,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-29T22:01:34.495067",
+      "data": "2026-09-29T23:00:29.904807",
       "status": "created",
-      "artifact_id": "b1588572-ad05-4c5c-85e4-8ceeb126eb11"
+      "artifact_id": "cc92a644-f296-41f5-bdfc-ec9b1f388f7f"
     },
     {
       "seq_global": 248,
@@ -3246,7 +3246,7 @@
       "cap": 79,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-29T22:03:46.861250",
+      "data": "2026-09-29T23:02:41.021819",
       "status": "deferred"
     }
   ]
