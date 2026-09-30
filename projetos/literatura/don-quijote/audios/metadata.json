@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-29T21:06:34.051636",
+  "atualizado": "2026-09-29T22:03:46.864960",
   "audios": [
     {
       "seq_global": 1,
@@ -3209,9 +3209,9 @@
       "cap": 78,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-29T21:00:11.800641",
+      "data": "2026-09-29T22:01:34.495067",
       "status": "created",
-      "artifact_id": "4ddc366e-321b-4880-946c-639425589800"
+      "artifact_id": "b1588572-ad05-4c5c-85e4-8ceeb126eb11"
     },
     {
       "seq_global": 248,
@@ -3221,8 +3221,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-29T21:02:17.508063",
-      "status": "created",
-      "artifact_id": "856f3a3d-ecfa-494c-a902-74058281e95c"
+      "status": "downloaded",
+      "artifact_id": "856f3a3d-ecfa-494c-a902-74058281e95c",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/248_cap-078_cena-002_El-paje-soldado-y-el-elogio-de-las-armas.m4a",
+      "tamanho_bytes": 21891028
     },
     {
       "seq_global": 249,
@@ -3232,8 +3234,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-29T21:04:23.067653",
-      "status": "created",
-      "artifact_id": "9730e642-7190-4db2-94bc-c20245434a47"
+      "status": "downloaded",
+      "artifact_id": "9730e642-7190-4db2-94bc-c20245434a47",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/249_cap-078_cena-003_El-asombro-de-Sancho-sabio-y-loco.m4a",
+      "tamanho_bytes": 35533088
     },
     {
       "seq_global": 250,
@@ -3242,7 +3246,7 @@
       "cap": 79,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-29T21:06:34.046757",
+      "data": "2026-09-29T22:03:46.861250",
       "status": "deferred"
     }
   ]
