@@ -6,14 +6,33 @@ Este projeto integra o **Google NotebookLM** ao **Claude** através do **MCP (Mo
 
 ### Contas NotebookLM e Perfis `nlm`
 
-**IMPORTANTE:** Este projeto (`notebooklm_edson`) usa exclusivamente a **conta pessoal**. Sempre use `--profile default` nos comandos `nlm`.
+Este projeto é **multi-conta / multi-idioma**: cada obra usa um perfil `nlm` fixo, definido
+na constante `PROFILE` do seu runner. **Não existe perfil único** — antes de rodar ou editar um
+runner, confira o `PROFILE` dele. A conta pessoal (`default`) é a principal, mas não a única.
 
-| Perfil NLM | Conta Google | Uso |
-|------------|-------------|-----|
-| `default` | `edson.michalkiewicz@gmail.com` (pessoal) | **Este projeto** — todos os notebooks Shakespeare e demais |
-| `profissional` | `edson@michalkcare.com` | Projeto separado (`notebooklm_michalk`) |
+| Perfil NLM | Conta Google | Tipo · cota/dia | Uso neste repo |
+|------------|--------------|-----------------|----------------|
+| `default` | `edson.michalkiewicz@gmail.com` (pessoal) | Pro · 20 | COF v2, Aristóteles, Ben-Hur, Shakespeare e a maioria dos runners |
+| `profissional` | `edson@michalkcare.com` | Pro · 20 | Principalmente o projeto separado `notebooklm_michalk`; uso pontual aqui (`scripts/quo_vadis_regen_53_63.py`) |
+| `italiano` | `dredsonlm@gmail.com` | Free · 3 | *I Promessi Sposi* (Manzoni) |
+| `frances` | `edson1800.de@gmail.com` | Free · 3 | *Notre-Dame de Paris* (Victor Hugo) |
+| `espanhol` | `edsonmdphd@gmail.com` | Free · 3 | *Don Quijote* |
+| `alemao` | `edson0720.fr@gmail.com` | Free · 3 | Reservado (projeto em alemão futuro) |
 
-Todos os scripts neste repositório devem usar `PROFILE = "default"`. Se um comando `nlm` retornar lista vazia ou `status: None`, verifique se o `--profile default` está sendo passado.
+Fontes: tabela conta ↔ perfil em `SKILL_pipeline_audio_nlm.md` (Passo 6), lista de perfis em
+`scripts/nlm_keepalive.sh` (`PROFILES=`) e o `PROFILE` de cada runner. Cotas são as registradas
+nesse documento, não medidas aqui.
+
+**Regras:**
+- **Cross-wiring:** o domínio do e-mail NÃO indica o idioma (`edson1800.de` → `frances`,
+  `edson0720.fr` → `alemao`). Use a tabela, nunca heurística.
+- **Isolamento por processo:** todo subprocess `nlm` recebe `NLM_PROFILE=<perfil>` no ambiente
+  (inclusive `download audio`, que não aceita `--profile`). **Nunca** `nlm login switch` em runner —
+  altera o perfil global e quebra runners concorrentes. Detalhes: `PERFIS_NOTEBOOKLM.md`.
+- **Cota compartilhada:** COF v2 e Aristóteles dividem a cota da conta `default`
+  (`scripts/nlm_quota_guard.sh`).
+- Se um comando `nlm` retornar lista vazia ou `status: None`, verifique se o perfil passado é o
+  do projeto (e não o `default` por engano).
 
 ## ⚠️ ESTE REPO TEM UM ESCRITOR AUTOMÁTICO — o cron commita e faz PUSH sozinho
 

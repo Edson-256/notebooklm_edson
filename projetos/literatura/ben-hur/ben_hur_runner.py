@@ -341,10 +341,16 @@ def save_session_log():
 
 # ── Processamento principal ──────────────────────────────────────────
 
+def filename_for(scene: Dict) -> str:
+    """Nome do arquivo de áudio. .m4a: o nlm entrega AAC em contêiner MP4 e rejeita
+    saída .mp3 (bd notebooklm_edson-f1t). Os 81 já baixados como .mp3 ficam como estão."""
+    keyword = extract_keyword(scene['title'])
+    return f"bh_{scene['number']:02d}_{keyword}.m4a"
+
+
 def process_scene(scene: Dict) -> bool:
     """Fire-and-forget: cria áudio, salva artifact_id, segue."""
-    keyword = extract_keyword(scene['title'])
-    filename = f"bh_{scene['number']:02d}_{keyword}.mp3"
+    filename = filename_for(scene)
 
     custom_prompt = load_scene_prompt(scene['number'])
     if custom_prompt:

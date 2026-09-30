@@ -83,6 +83,15 @@ except Exception:
 _RATE_LIMITED = object()
 _POLL_MISSING = "__poll_missing__"  # artifact sumiu do studio
 _POLL_ERROR = "__poll_error__"      # consulta falhou (rede/auth)
+_POLL_TIMEOUT = "__poll_timeout__"  # consulta estourou o timeout (conta p/ o circuit breaker)
+NLM_TIMEOUT_RC = 124                # returncode sintético de run_nlm em timeout
+# Circuit breaker do HARVEST (notebooklm_edson-xjgp): em 05-07/09 a rede de download
+# travou e cada download esperou 600s — até 33 timeouts por rodada, ~5,5h queimadas
+# antes do CREATE. Após N timeouts CONSECUTIVOS (download ou consulta ao studio), o
+# harvest para de baixar, registra o motivo e devolve HARVEST_ABORTED_RC; o
+# cron_audio.sh segue para o CREATE de qualquer jeito e notifica.
+HARVEST_MAX_CONSECUTIVE_TIMEOUTS = 3
+HARVEST_ABORTED_RC = 3
 _UUID_RE = re.compile(r"[a-f0-9]{8}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{12}")
 
 
@@ -253,6 +262,8 @@ def poll_status(notebook_id: str, artifact_id: str) -> str:
         r = run_nlm(["studio", "status", notebook_id, "--json"], timeout=130)
     except Exception:
         return _POLL_ERROR
+    if r.returncode == NLM_TIMEOUT_RC:
+        return _POLL_TIMEOUT
     if r.returncode != 0:
         return _POLL_ERROR
     try:
@@ -265,6 +276,33 @@ def poll_status(notebook_id: str, artifact_id: str) -> str:
         if (a.get("artifact_id") or a.get("id")) == artifact_id:
             return a.get("status", "unknown")
     return _POLL_MISSING
+
+
+class _TimeoutBreaker:
+    """Conta timeouts consecutivos; um download que responde (ok ou erro) zera."""
+
+    def __init__(self, limit: int):
+        self.limit = limit
+        self.consecutive = 0
+        self.total = 0
+        self.tripped = False
+
+    def record(self, timed_out: bool) -> bool:
+        """Registra um desfecho; devolve True no instante em que o disjuntor abre."""
+        if not timed_out:
+            self.consecutive = 0
+            return False
+        self.consecutive += 1
+        self.total += 1
+        if not self.tripped and self.consecutive >= self.limit:
+            self.tripped = True
+            return True
+        return False
+
+
+def _harvest_abort_msg(breaker: "_TimeoutBreaker") -> str:
+    return (f"ERRO: HARVEST abortado — {breaker.consecutive} timeouts consecutivos "
+            f"de nlm (rede de download travada?); seguindo para CREATE")
 
 
 # ───────────────────────────── commands ─────────────────────────────
@@ -459,7 +497,16 @@ def cmd_harvest(master: dict, audio_meta: dict, notebook_meta: dict,
     new_downloaded = 0
     unmatched = 0
     downloaded_names: list[str] = []
-    transferred = transfer_failed = still_proc = 0
+    transferred = transfer_failed = still_proc = dl_failed = 0
+    breaker = _TimeoutBreaker(HARVEST_MAX_CONSECUTIVE_TIMEOUTS)
+
+    def _trip_if_needed(timed_out: bool) -> None:
+        if breaker.record(timed_out):
+            msg = _harvest_abort_msg(breaker)
+            print(f"  ⛔ {msg}")
+            append_log({"ts": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+                        "action": "harvest_aborted", "reason": msg,
+                        "consecutive_timeouts": breaker.consecutive})
 
     for art in audio_arts:
         title = art.get("title", "")
@@ -489,11 +536,16 @@ def cmd_harvest(master: dict, audio_meta: dict, notebook_meta: dict,
             if dry_run:
                 print(f"  ↓ {cena_id} dry_run download")
                 continue
+            if breaker.tripped:
+                # Continua o laço só para registrar 'created' vindos da UI (sem rede).
+                continue
             print(f"  ↓ baixando {cena['audio_filename']}...")
             dr = run_nlm(["download", "audio", notebook_id,
                           "--id", artifact_id, "-o", str(out_path),
                           "--no-progress"], timeout=600)
+            _trip_if_needed(dr.returncode == NLM_TIMEOUT_RC)
             if dr.returncode != 0:
+                dl_failed += 1
                 print(f"     FAIL: {dr.stderr[:200]}")
                 append_log({"ts": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
                             "action": "download_fail", "cena_id": cena_id,
@@ -516,6 +568,8 @@ def cmd_harvest(master: dict, audio_meta: dict, notebook_meta: dict,
     # título acima não os pega. Casamos pelo artifact_id guardado no metadata.
     cli_downloaded = 0
     for cena in master["cenas"]:
+        if breaker.tripped:
+            break
         cena_id = cena["cena_id"]
         rec = audio_meta["audios"].get(cena_id)
         if not rec or rec.get("status") != "created" or not rec.get("artifact_id"):
@@ -523,6 +577,12 @@ def cmd_harvest(master: dict, audio_meta: dict, notebook_meta: dict,
         artifact_id = rec["artifact_id"]
         out_path = AUDIOS_DIR / cena["audio_filename"]
         st = poll_status(notebook_id, artifact_id)
+        if st == _POLL_TIMEOUT:
+            # Só timeout conta: consulta OK não prova que a rede de DOWNLOAD está sã
+            # (em 05-07/09 o studio respondia e os downloads travavam) — não zera.
+            _trip_if_needed(True)
+            print(f"  ⚠ {cena_id}: consulta studio estourou o timeout — tenta depois")
+            continue
         if st == _POLL_ERROR:
             print(f"  ⚠ {cena_id}: consulta studio falhou (rede/auth) — tenta depois")
             continue
@@ -540,7 +600,9 @@ def cmd_harvest(master: dict, audio_meta: dict, notebook_meta: dict,
         print(f"  ↓ baixando {cena['audio_filename']} (CLI)...")
         dr = run_nlm(["download", "audio", notebook_id, "--id", artifact_id,
                       "-o", str(out_path), "--no-progress"], timeout=600)
+        _trip_if_needed(dr.returncode == NLM_TIMEOUT_RC)
         if dr.returncode != 0 or not out_path.exists():
+            dl_failed += 1
             print(f"     FAIL: {(dr.stderr or dr.stdout)[:200]}")
             append_log({"ts": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
                         "action": "download_fail", "cena_id": cena_id,
@@ -567,9 +629,14 @@ def cmd_harvest(master: dict, audio_meta: dict, notebook_meta: dict,
     print(f"  baixados (CLI):        {cli_downloaded}")
     print(f"  unmatched:             {unmatched}")
     print(f"  transferidos dell:     {transferred}")
+    print(f"  falhas de download:    {dl_failed}")
     _write_lastrun("aristoteles", downloaded=downloaded_names,
-                   still_processing=still_proc, dl_failed=0,
-                   transferred=transferred, transfer_failed=transfer_failed)
+                   still_processing=still_proc, dl_failed=dl_failed,
+                   transferred=transferred, transfer_failed=transfer_failed,
+                   harvest_aborted=_harvest_abort_msg(breaker) if breaker.tripped else "")
+    if breaker.tripped:
+        print(f"  {_harvest_abort_msg(breaker)} (rc={HARVEST_ABORTED_RC})")
+        return HARVEST_ABORTED_RC
     return 0
 
 

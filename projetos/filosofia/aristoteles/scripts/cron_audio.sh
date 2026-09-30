@@ -88,6 +88,8 @@ nlm_quota_check >>"$LOG" || exit 0
 
   echo
   echo "--- HARVEST (baixa áudios prontos no studio, inclui gerados manualmente na UI) ---"
+  # rc=3 → circuit breaker: N timeouts consecutivos de download, harvest abortado.
+  # O CREATE roda mesmo assim (não depende da rede de download) — notebooklm_edson-xjgp.
   /opt/homebrew/bin/python3 "$RUNNER" --harvest
   rc_harvest=$?
 
@@ -115,6 +117,9 @@ nlm_quota_check >>"$LOG" || exit 0
 if [ "${rc:-1}" -ne 0 ]; then
   if grep -qiE "nlm.*nao autenticado|auth.*expir|ClientAuthenticationError" "$LOG" 2>/dev/null; then
     notify "$TAG — AUTH EXPIRADO" "Rode: nlm login --profile default" "Funk"
+  elif [ "${rc_harvest:-0}" -eq 3 ]; then
+    summary="$(grep -E 'HARVEST abortado' "$LOG" | tail -1 | cut -c1-200)"
+    notify "$TAG — HARVEST ABORTADO (timeouts)" "${summary:-ver $LOG} · criados: ${ok_count:-0}" "Basso"
   else
     summary="$(grep -E 'FAIL|ERRO' "$LOG" | tail -2 | tr '\n' ' ' | cut -c1-200)"
     [ -z "$summary" ] && summary="exit code $rc — ver $LOG"
@@ -129,6 +134,10 @@ _tg_report() {
   local _status _rc _sum
   if grep -qiE "nlm.*nao autenticado|auth.*expir|Authentication.*fail|ClientAuthenticationError" "$LOG" 2>/dev/null; then
     _status="auth_expired"
+  elif [ "${rc_harvest:-0}" -eq 3 ] && [ "${rc_create:-1}" -eq 0 ]; then
+    # Só o breaker disparou: manda o relatório normal (com criados/pendentes) —
+    # o motivo do aborto sai numa linha própria, lida do lastrun.json.
+    _status="ok"
   elif [ "${rc:-1}" -ne 0 ]; then
     _status="failed"; _rc="${rc:-1}"
     _sum="$(grep -E 'FAIL|ERRO|Error' "$LOG" | tail -2 | tr '\n' ' ' | cut -c1-200)"

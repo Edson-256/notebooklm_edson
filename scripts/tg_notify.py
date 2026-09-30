@@ -286,6 +286,9 @@ def _format_state_report(project: str, path: str, profile: str, status: str,
     if extras:
         dl += "  ·  " + " · ".join(extras)
     lines.append(dl)
+    # Circuit breaker do harvest (notebooklm_edson-xjgp): rodada "ok" que parou de baixar.
+    if state.get("harvest_aborted"):
+        lines.append(f"⛔ {state['harvest_aborted']}")
     shown = downloaded[:_MAX_NAMES]
     for name in shown:
         lines.append(f"   • <code>{name}</code>")

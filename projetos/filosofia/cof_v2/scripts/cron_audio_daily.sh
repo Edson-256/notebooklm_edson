@@ -57,6 +57,14 @@ notify() {
 echo "$(date '+%Y-%m-%d %H:%M') — COF completo 782/782: cron desativado, saindo." >>"$LOG"
 exit 0
 
+# ── Tudo abaixo está DORMENTE (exit 0 acima). Já corrigido para quando reativar
+#    (bd notebooklm_edson-eev), espelhando o cron_audio.sh do Aristóteles:
+#    cota marcada só após criação confirmada + detecção de auth case-insensitive.
+
+# Patch de timeout do nlm (30s -> 120s) — sem ele o 'studio status' do --download
+# estoura com ~783 artifacts (ver scripts/nlm_patch_timeout.py, bd notebooklm_edson-jvq).
+python3 "$PROJECT_DIR/scripts/nlm_patch_timeout.py" >>"$LOG" 2>&1 || true
+
 # Quota guard: só roda se >= 25h desde o último lote da conta 'default' (COF ou Aristóteles).
 source "$PROJECT_DIR/scripts/nlm_quota_guard.sh"
 nlm_quota_check >>"$LOG" || exit 0
@@ -77,16 +85,25 @@ nlm_quota_check >>"$LOG" || exit 0
 
   # Fase 2: criar novos áudios
   echo "--- FASE CRIAÇÃO ---"
-  nlm_quota_mark  # registra início do lote (impede próxima rodada por 25h)
-  "$VENV_PY" "$RUNNER" --max 20
-  rc=$?
+  create_out="$(mktemp)"
+  "$VENV_PY" "$RUNNER" --max 20 | tee "$create_out"
+  rc=${PIPESTATUS[0]}
+  ok_count="$(grep -oE 'Criados OK: +[0-9]+' "$create_out" | tail -1 | grep -oE '[0-9]+$')"
+  rm -f "$create_out"
+  # Só marca a cota se pelo menos 1 áudio foi criado de fato. Antes marcava ANTES de
+  # disparar: auth expirado / rate-limit / erro queimavam 25h sem consumir nada.
+  if [ "${ok_count:-0}" -gt 0 ]; then
+    nlm_quota_mark  # impede próxima rodada da conta 'default' por 25h
+  else
+    echo "quota guard: 0 áudios criados neste lote — NÃO marcando cota (nada foi consumido de fato)."
+  fi
   echo
   echo "=== exit code: $rc @ $(date) ==="
 } >>"$LOG" 2>&1
 
 # Notificação fora do bloco redirecionado
 if [ "${rc:-1}" -ne 0 ]; then
-  if grep -q "nlm nao autenticado" "$LOG" 2>/dev/null; then
+  if grep -qiE "nlm.*nao autenticado|auth.*expir|Authentication.*fail|ClientAuthenticationError" "$LOG" 2>/dev/null; then
     notify "COF cron — AUTH EXPIRADO" \
            "nlm token expirou. Rode: nlm login --profile default" \
            "Funk"
@@ -102,7 +119,7 @@ fi
 # aqui só resolvemos o status (ok/failed/auth_expired) e mandamos o resumo.
 _tg_report() {
   local _status _rc _sum
-  if grep -q "nlm nao autenticado" "$LOG" 2>/dev/null; then
+  if grep -qiE "nlm.*nao autenticado|auth.*expir|Authentication.*fail|ClientAuthenticationError" "$LOG" 2>/dev/null; then
     _status="auth_expired"
   elif [ "${rc:-1}" -ne 0 ]; then
     _status="failed"; _rc="${rc:-1}"
