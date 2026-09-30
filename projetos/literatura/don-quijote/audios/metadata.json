@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-29T19:00:17.135205",
+  "atualizado": "2026-09-29T21:06:34.051636",
   "audios": [
     {
       "seq_global": 1,
@@ -3209,7 +3209,40 @@
       "cap": 78,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-29T19:00:17.131493",
+      "data": "2026-09-29T21:00:11.800641",
+      "status": "created",
+      "artifact_id": "4ddc366e-321b-4880-946c-639425589800"
+    },
+    {
+      "seq_global": 248,
+      "arquivo": "248_cap-078_cena-002_El-paje-soldado-y-el-elogio-de-las-armas.m4a",
+      "titulo": "El paje soldado y el elogio de las armas",
+      "cap": 78,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-29T21:02:17.508063",
+      "status": "created",
+      "artifact_id": "856f3a3d-ecfa-494c-a902-74058281e95c"
+    },
+    {
+      "seq_global": 249,
+      "arquivo": "249_cap-078_cena-003_El-asombro-de-Sancho-sabio-y-loco.m4a",
+      "titulo": "El asombro de Sancho: sabio y loco",
+      "cap": 78,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-29T21:04:23.067653",
+      "status": "created",
+      "artifact_id": "9730e642-7190-4db2-94bc-c20245434a47"
+    },
+    {
+      "seq_global": 250,
+      "arquivo": "250_cap-079_cena-001_La-aventura-del-rebuzno-vanidad-y-discordia.m4a",
+      "titulo": "La aventura del rebuzno: vanidad y discordia",
+      "cap": 79,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-29T21:06:34.046757",
       "status": "deferred"
     }
   ]
