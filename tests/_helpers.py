@@ -4,7 +4,8 @@ O `nlm` real não existe fora do Mac do Edson. `FakeNlm` grava um executável
 `nlm` num diretório temporário e o coloca à frente no PATH. O comportamento é
 lido de um JSON (FAKE_NLM_SPEC) com regras por prefixo de subcomando:
 
-    {"rules": [{"match": ["studio", "status"], "stdout": "[]", "rc": 0, "sleep": 0}],
+    {"rules": [{"match": ["studio", "status"], "stdout": "[]", "rc": 0, "sleep": 0,
+                "touch_output": false, "require_output_suffix": ".m4a"}],
      "calls_log": "/tmp/.../calls.jsonl"}
 
 Cada chamada é registrada em `calls_log` (uma linha JSON com argv) para asserts.
@@ -33,6 +34,12 @@ for rule in spec.get("rules", []):
     if argv[:len(m)] == m:
         if rule.get("sleep"):
             time.sleep(rule["sleep"])
+        suffix = rule.get("require_output_suffix")
+        if suffix:
+            for flag in ("-o", "--output"):
+                if flag in argv and not argv[argv.index(flag) + 1].endswith(suffix):
+                    sys.stderr.write("Error: output must be " + suffix)
+                    sys.exit(2)
         if rule.get("touch_output"):
             for flag in ("-o", "--output"):
                 if flag in argv:
