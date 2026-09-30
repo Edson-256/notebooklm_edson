@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-29T23:02:41.024125",
+  "atualizado": "2026-09-30T00:01:00.471391",
   "audios": [
     {
       "seq_global": 1,
@@ -3210,8 +3210,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-29T23:00:29.904807",
-      "status": "created",
-      "artifact_id": "cc92a644-f296-41f5-bdfc-ec9b1f388f7f"
+      "status": "downloaded",
+      "artifact_id": "cc92a644-f296-41f5-bdfc-ec9b1f388f7f",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/247_cap-078_cena-001_La-nota-al-margen-mintio-don-Quijote.m4a",
+      "tamanho_bytes": 31786792
     },
     {
       "seq_global": 248,
@@ -3246,7 +3248,7 @@
       "cap": 79,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-29T23:02:41.021819",
+      "data": "2026-09-30T00:01:00.468855",
       "status": "deferred"
     }
   ]
