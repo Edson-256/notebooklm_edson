@@ -47,6 +47,12 @@ PROFILE = "default"
 
 INTERVAL_SECONDS = 120     # 2 min entre disparos
 POLL_INTERVAL = 30
+# Timeout do 'nlm studio status' (lista o studio INTEIRO a cada chamada). Com ~783
+# artifacts no notebook o comando passa de 30s e o antigo teto devolvia "erro de
+# polling" em todo item do --download (bd notebooklm_edson-jvq). Só é efetivo se o
+# timeout HTTP interno do nlm (30s de fábrica) estiver patchado para 120s — ver
+# scripts/nlm_patch_timeout.py.
+POLL_STATUS_TIMEOUT = 90
 MAX_WAIT_MINUTES = 30
 MAX_RETRIES = 3
 MAX_FOCUS_CHARS = 10000
@@ -349,12 +355,15 @@ def poll_status(artifact_id: str) -> str:
     """
     try:
         result = run_nlm(["studio", "status", NOTEBOOK_ID, "--json",
-                          "--profile", PROFILE], timeout=30)
+                          "--profile", PROFILE], timeout=POLL_STATUS_TIMEOUT)
         if result.returncode != 0:
             return _POLL_ERROR
         for a in json.loads(result.stdout):
             if a.get("id") == artifact_id:
                 return a.get("status") or _POLL_MISSING
+    except subprocess.TimeoutExpired:
+        log(f"   nlm studio status excedeu {POLL_STATUS_TIMEOUT}s")
+        return _POLL_ERROR
     except Exception:
         return _POLL_ERROR
     return _POLL_MISSING
