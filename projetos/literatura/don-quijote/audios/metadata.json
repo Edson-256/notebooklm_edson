@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-30T20:00:15.598932",
+  "atualizado": "2026-09-30T21:06:30.521707",
   "audios": [
     {
       "seq_global": 1,
@@ -3248,7 +3248,40 @@
       "cap": 79,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-30T20:00:15.595166",
+      "data": "2026-09-30T21:00:09.807781",
+      "status": "created",
+      "artifact_id": "a392fa34-1623-4aa4-8869-28bc153ad81d"
+    },
+    {
+      "seq_global": 251,
+      "arquivo": "251_cap-079_cena-002_El-mono-adivino-y-el-asombro-de-don-Quijote.m4a",
+      "titulo": "El mono adivino y el asombro de don Quijote",
+      "cap": 79,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-30T21:02:14.836021",
+      "status": "created",
+      "artifact_id": "8b3939f2-5f95-42d9-9a74-68c74c9fe3f3"
+    },
+    {
+      "seq_global": 252,
+      "arquivo": "252_cap-079_cena-003_El-pacto-con-el-demonio-y-el-escrupulo-de-Montesinos.m4a",
+      "titulo": "El pacto con el demonio y el escrupulo de Montesinos",
+      "cap": 79,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-30T21:04:19.462561",
+      "status": "created",
+      "artifact_id": "d57b3aab-a1ee-4f4a-a561-76c86f74cdb7"
+    },
+    {
+      "seq_global": 253,
+      "arquivo": "253_cap-080_cena-001_El-retablo-y-el-critico-incorregible.m4a",
+      "titulo": "El retablo y el crítico incorregible",
+      "cap": 80,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-09-30T21:06:30.518007",
       "status": "deferred"
     }
   ]
