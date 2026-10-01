@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-30T21:06:30.521707",
+  "atualizado": "2026-09-30T22:01:59.946929",
   "audios": [
     {
       "seq_global": 1,
@@ -3249,8 +3249,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-30T21:00:09.807781",
-      "status": "created",
-      "artifact_id": "a392fa34-1623-4aa4-8869-28bc153ad81d"
+      "status": "downloaded",
+      "artifact_id": "a392fa34-1623-4aa4-8869-28bc153ad81d",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/250_cap-079_cena-001_La-aventura-del-rebuzno-vanidad-y-discordia.m4a",
+      "tamanho_bytes": 32081988
     },
     {
       "seq_global": 251,
@@ -3260,8 +3262,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-30T21:02:14.836021",
-      "status": "created",
-      "artifact_id": "8b3939f2-5f95-42d9-9a74-68c74c9fe3f3"
+      "status": "downloaded",
+      "artifact_id": "8b3939f2-5f95-42d9-9a74-68c74c9fe3f3",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/251_cap-079_cena-002_El-mono-adivino-y-el-asombro-de-don-Quijote.m4a",
+      "tamanho_bytes": 31430339
     },
     {
       "seq_global": 252,
@@ -3271,8 +3275,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-09-30T21:04:19.462561",
-      "status": "created",
-      "artifact_id": "d57b3aab-a1ee-4f4a-a561-76c86f74cdb7"
+      "status": "downloaded",
+      "artifact_id": "d57b3aab-a1ee-4f4a-a561-76c86f74cdb7",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/252_cap-079_cena-003_El-pacto-con-el-demonio-y-el-escrupulo-de-Montesinos.m4a",
+      "tamanho_bytes": 28820005
     },
     {
       "seq_global": 253,
@@ -3281,7 +3287,7 @@
       "cap": 80,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-30T21:06:30.518007",
+      "data": "2026-09-30T22:01:59.943921",
       "status": "deferred"
     }
   ]
