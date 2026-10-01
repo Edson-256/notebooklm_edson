@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-09-30T22:01:59.946929",
+  "atualizado": "2026-09-30T23:00:15.618787",
   "audios": [
     {
       "seq_global": 1,
@@ -3287,7 +3287,7 @@
       "cap": 80,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-09-30T22:01:59.943921",
+      "data": "2026-09-30T23:00:15.614781",
       "status": "deferred"
     }
   ]
