@@ -1,0 +1,28 @@
+Warning: Previous research completed with sources not yet imported.
+  Task ID: ce639fdc-d54a-4bdd-93b1-f9483590f0be
+  Sources available: 10
+
+Starting new research will discard existing results.
+Run 'nlm research import' first to save them, or proceed to overwrite.
+Continue and start new research? [y/N]: ✓ Research started
+  Query: Authoritative open sources (ethnomusicologists, university theses, 
+national musicology institutes, UNESCO heritage files, national libraries, 
+Smithsonian Folkways notes) that describe precisely, with meter, rhythmic 
+pattern, tempo, mode, harmony, instruments, singing style, form and social 
+setting, how to recognize by ear and tell apart: Lisbon vs Coimbra fado 
+(guitarra portuguesa, fado menor, corrido, mouraria); flamenco palos (soleá, 
+seguiriya, bulería, alegrías, tangos, fandangos), the 12-beat compás, Phrygian 
+mode and Andalusian cadence; tango (marcato, síncopa, arrastre, bandoneon) vs 
+milonga vs vals criollo; Cuban vs Mexican bolero (cinquillo, requinto, trio 
+romántico); French chanson réaliste, valse musette and bal musette accordion; 
+Russian lament (plach, prichitanie), chastushka, byliny, znamenny chant, 
+balalaika and bayan. Exclude blogs, travel sites and exoticizing 
+generalizations.
+  Source: web
+  Mode: deep
+  Notebook ID: 4ac56794-d00a-436a-a446-24f1161cd9bd
+  Task ID: ChA5NTAyY2ExYWY0MmNjNzcxEAgaATAqA3VzZQ
+
+Estimated time: ~5 minutes
+Run 'nlm research status 4ac56794-d00a-436a-a446-24f1161cd9bd' to check 
+progress.
