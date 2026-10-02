@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-02T15:04:30.790736",
+  "atualizado": "2026-10-02T16:01:32.130574",
   "audios": [
     {
       "seq_global": 1,
@@ -3327,8 +3327,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-02T15:00:11.652595",
-      "status": "created",
-      "artifact_id": "3b254e8e-1900-456e-b658-b7c7e78b0592"
+      "status": "downloaded",
+      "artifact_id": "3b254e8e-1900-456e-b658-b7c7e78b0592",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/256_cap-081_cena-001_El-desenmascaramiento-de-maese-Pedro.m4a",
+      "tamanho_bytes": 36364890
     },
     {
       "seq_global": 257,
@@ -3338,8 +3340,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-02T15:02:17.716907",
-      "status": "created",
-      "artifact_id": "42979450-fd74-491e-b148-f42eb05d8f79"
+      "status": "downloaded",
+      "artifact_id": "42979450-fd74-491e-b148-f42eb05d8f79",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/257_cap-081_cena-002_El-sermon-sobre-la-guerra-justa-y-el-amor-al-enemigo.m4a",
+      "tamanho_bytes": 35502460
     },
     {
       "seq_global": 258,
@@ -3348,7 +3352,7 @@
       "cap": 81,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-02T15:04:30.787185",
+      "data": "2026-10-02T16:01:32.124972",
       "status": "deferred"
     }
   ]
