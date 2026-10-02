@@ -94,7 +94,7 @@ NOTA_C = {
     'F6-01': 'forma AABBACCA (três partes de 16 compassos) e variante binária AA|BB|A — conferido no dossiê',
     'F1-04': 'guarânia: semínima pontuada ≈ 70 em 6/8; versões brasileiras oscilam para 3/4 — conferido',
     'F2-02': 'chamamé: "birritmia del 6/8 y 3/4" — conferido',
-    'F2-06': 'vaneira em 2/4 de origem habanera; vaneirão = mesma base, mais rápido — conferido',
+    'F2-06': 'vaneira em 2/4 de origem habanera, três células: (a) colcheia pontuada/semicolcheia/colcheia/colcheia; (b) idem com a semicolcheia ligada; (c) colcheia/2 semicolcheias/colcheia/colcheia; vaneirão = mesma base, mais rápido. Chamamé em 3/4 com acento no 3º tempo (puxada de fole), o que o diferencia da rancheira — conferido 02/10',
     'F9-02': 'baião: trechos em dórico e em mixolídio, em exemplos notados — conferido',
     'F4-05': 'artigo acadêmico hospedado num blog de violão (laguitarra-blog); a fonte é o artigo, não o blog',
     'F1-03': 'PDF grande (13,9 MB)',

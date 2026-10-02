@@ -28,7 +28,7 @@
 | Forma do choro | "três partes (ABC) com 16 compassos cada uma, organizadas na forma **AABBACCA**", e também a forma binária AA\|BB\|A | Dossiê IPHAN #52 | conferido — usar isto, não "ABACA" |
 | Guarânia | "Considerando-se o compasso 6/8, o andamento da guarânia é o mais lento… **semínima pontuada = 70**". Rasqueado ≈ 87, moda campera ≈ 93. Nas versões brasileiras, "ora em 6/8, ora em 3/4" | Higa #21 | conferido |
 | Chamamé | "la **birritmia del 6/8 y 3/4**": baixos nos três tempos binários, acordes em dois tempos ternários | Giménez #28 | conferido |
-| Vaneira / vaneirão | da habanera; "compasso 2/4: colcheia pontuada/colcheia/colcheia"; "o que permite diferenciar um vaneirão de uma vaneira é o seu **andamento**" | Wolffenbüttel #32 | conferido |
+| Vaneira / vaneirão | da habanera, em 2/4, com três células de acompanhamento: (a) colcheia pontuada / semicolcheia / colcheia / colcheia (a célula da habanera); (b) a mesma, com a semicolcheia ligada à colcheia; (c) colcheia / semicolcheia / semicolcheia / colcheia / colcheia. Vaneirão: "o que permite diferenciar um vaneirão de uma vaneira é o seu **andamento**" | Wolffenbüttel #32 | conferido (corrigido em 02/10: a versão anterior citava a frase do parágrafo do vaneirão, "colcheia pontuada/colcheia/colcheia", que soma 7 semicolcheias e não fecha o 2/4 — provável erro de digitação do próprio texto; achado do agente da sessão musica_composicao) |
 | Guitarra Lisboa × Coimbra | Lisboa si-lá-mi-si-lá-ré; Coimbra lá-sol-ré-lá-sol-dó, um tom abaixo; a de Coimbra é maior e mais simples | Sergl #35, citando Henrique 1994 | conferido |
 | Origem do fado | Sergl: "gênero inicialmente popular no Brasil, migra para Portugal provavelmente em 1821" | Sergl #35 | **contestado** — tese de um autor; não afirmar sem Nery (pago) |
 | Modos do baião | trechos harmonizados em Im7–IV7 "que apresentam a sonoridade do modo **dórico**" e melodias "sobre o modo **mixolídio**" | Côrtes #71 | conferido — o baião não é só mixolídio |
@@ -39,6 +39,11 @@
 **Caso DVC-082-C ("chamamé… ~116 BPM rolling 6/8 sway"):** as fontes sustentam o chamamé em 6/8 com 3/4 sobreposto e a
 vaneira gaúcha em 2/4 binário de habanera. Pela métrica, as duas soam diferentes: o chamamé "balança em três", a vaneira
 "marcha em dois". **Nenhuma fonte compara as duas lado a lado** — o contraste é inferência a partir de fontes separadas.
+Wolffenbüttel (#32) descreve as duas no mesmo artigo, mas sem confrontá-las. Lá, o chamamé aparece entre as danças do baile
+gaúcho, escrito em 3/4, com "puxada" de fole do 2º para o 3º tempo e "acentuação no 3º tempo do compasso, ao invés do 1º".
+Isso, diz o artigo, o diferencia da **rancheira**, mais um par de confusão. Giménez (#28) escreve o chamamé em 6/8, com
+acento na 5ª colcheia; as duas descrições caem no mesmo ponto do compasso, mas essa convergência é inferência (achado do
+agente da sessão musica_composicao, 02/10), não afirmação de fonte.
 **Nenhuma fonte separa de ouvido o chamamé argentino do gaúcho.** Os "~116 BPM" da etiqueta não dizem qual figura vale
 o tempo, então não dá para comparar com o ≈ 70 da guarânia.
 
@@ -46,7 +51,8 @@ o tempo, então não dá para comparar com o ≈ 70 da guarânia.
 
 | Par | Base em fonte | Situação |
 |---|---|---|
-| chamamé × vanera gaúcha | 6/8+3/4 #28 #29 #30 × 2/4 habanera #32 | inferência entre fontes separadas |
+| chamamé × vanera gaúcha | 6/8+3/4 #28 #29 #30 × 2/4 habanera #32 | inferência: #32 descreve os dois sem confrontá-los |
+| chamamé × rancheira | acento no 3º tempo por "puxada" de fole, no chamamé, em vez do 1º #32 | uma fonte, explícita |
 | chamamé × guarânia | mesma família paraguaia; guarânia a mais lenta #21 #31 | sem andamento do chamamé |
 | milonga × tango | 3+3+2 #60 #33 × marcato/síncopa/arrastre #59 #61 | razoável |
 | vanera × xote | Wolffenbüttel #32 trata os dois sem confrontar; xote "um dos mais lentos" no forró #70 | fraco |
@@ -98,7 +104,7 @@ Sant'Anna, *A moda é viola* · Hawkins, *Chanson* · Gardner, *Russian Church S
 | 28 | 1 | [El acordeón del Litoral argentino. Un análisis de los distintos modos de acompañamiento en el chamamé](https://www.redalyc.org/journal/7876/787682987003/html/) | Héctor José Giménez — Revista del Instituto Superior de Música (UNL) | es | compasso · instrumentos · reconhecer de ouvido | chamamé: "birritmia del 6/8 y 3/4" — conferido |
 | 29 | 1 | [El chamamé desde la guitarra](http://sedici.unlp.edu.ar/bitstream/handle/10915/80528/Documento_completo.pdf-PDFA.pdf?sequence=1&isAllowed=y) | María Lucía Troitiño e Alejandro Polemann (UNLP/IPEAL) | es | compasso · instrumentos · confusões |  |
 | 31 | 1 | [A assimilação dos gêneros polca paraguaia, guarânia e chamamé no Brasil e suas transformações estruturais](https://www.icgilbertoluizalves.com.br/imagens/galeriapdf/a-assimila-o-dos-g-neros-polca-paraguaia-guar-nia-e-chamam-no-brasil-e-suas-transforma-es-estruturais-site-241138.pdf) | Evandro Higa (UFMS) — Actas VII Congreso IASPM-AL | pt | compasso · origem · confusões |  |
-| 32 | 1 | [Música no Rio Grande do Sul: conhecendo as origens e alguns gêneros musicais](https://www.seer.fundarte.rs.gov.br/RevistadaFundarte/en/article/download/757/pdf_74/1797) | Cristina Rolim Wolffenbüttel — Revista da FUNDARTE | pt | compasso · andamento · instrumentos · origem · confusões | vaneira em 2/4 de origem habanera; vaneirão = mesma base, mais rápido — conferido · subir arquivo `wolffenbuttel_musica_rs.pdf` |
+| 32 | 1 | [Música no Rio Grande do Sul: conhecendo as origens e alguns gêneros musicais](https://www.seer.fundarte.rs.gov.br/RevistadaFundarte/en/article/download/757/pdf_74/1797) | Cristina Rolim Wolffenbüttel — Revista da FUNDARTE | pt | compasso · andamento · instrumentos · origem · confusões | vaneira em 2/4 de habanera, três células (ver Divergências); vaneirão = mesma base, mais rápido; chamamé em 3/4 com acento no 3º tempo, diferente da rancheira — conferido 02/10 · subir arquivo `wolffenbuttel_musica_rs.pdf` |
 | 2 | 2 | [Del folklore musical uruguayo: La milonga](https://anaforas.fic.edu.uy/jspui/bitstream/123456789/101481/1/Ayesta_Milonga_SELDIA784.pdf) | Lauro Ayestarán | es | compasso · ritmo · forma · origem | Ayestarán: 2 págs. digitalizadas com OCR imperfeito (~2.800 palavras) — única fonte uruguaia clássica sobre a milonga |
 | 30 | 2 | [La enseñanza de recursos interpretativos del chamamé en la guitarra](https://www4.fba.unlp.edu.ar/jidap2022/wp-content/uploads/sites/4/2022/11/26.-TROITINO.pdf) | María Lucía Troitiño (UNLP) — Jornadas JIDAP | es | compasso · reconhecer de ouvido |  |
 | 33 | 2 | [La problemática del nacionalismo musical argentino (in Revista del IIMCV nº 31)](https://repositorio.uca.edu.ar/bitstream/123456789/1309/1/revista-instituto-carlos-vega-31.pdf) | Roberto Buffo — Revista del Instituto de Investigación Musicológica 'Carlos Vega' (UCA) | es | compasso · harmonia · forma · confusões |  |
