@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-01T21:06:33.298671",
+  "atualizado": "2026-10-01T22:04:17.406029",
   "audios": [
     {
       "seq_global": 1,
@@ -3288,8 +3288,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-01T21:00:10.413913",
-      "status": "created",
-      "artifact_id": "eb6bbef5-7c58-4011-a5e8-d9a2fd19ce0b"
+      "status": "downloaded",
+      "artifact_id": "eb6bbef5-7c58-4011-a5e8-d9a2fd19ce0b",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/253_cap-080_cena-001_El-retablo-y-el-critico-incorregible.m4a",
+      "tamanho_bytes": 21557732
     },
     {
       "seq_global": 254,
@@ -3299,8 +3301,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-01T21:02:15.876842",
-      "status": "created",
-      "artifact_id": "fd9efa4f-7762-4d62-b16e-3baa2d28858c"
+      "status": "downloaded",
+      "artifact_id": "fd9efa4f-7762-4d62-b16e-3baa2d28858c",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/254_cap-080_cena-002_La-furia-contra-los-titeres-de-pasta.m4a",
+      "tamanho_bytes": 18571406
     },
     {
       "seq_global": 255,
@@ -3310,8 +3314,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-01T21:04:21.440756",
-      "status": "created",
-      "artifact_id": "81f6bb0e-6346-4e39-a36e-3b122f690304"
+      "status": "downloaded",
+      "artifact_id": "81f6bb0e-6346-4e39-a36e-3b122f690304",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/255_cap-080_cena-003_El-lamento-los-encantadores-y-la-cuenta-pagada.m4a",
+      "tamanho_bytes": 37116643
     },
     {
       "seq_global": 256,
@@ -3320,7 +3326,7 @@
       "cap": 81,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-01T21:06:33.295338",
+      "data": "2026-10-01T22:04:17.401554",
       "status": "deferred"
     }
   ]
