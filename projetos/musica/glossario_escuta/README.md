@@ -18,4 +18,8 @@
 | `deep_research/01_chatgpt/resultado.md` | resultado do ChatGPT (o Edson cola) |
 | `deep_research/02_claude_agent/resultado.md` | resultado do agente Claude |
 | `deep_research/03_notebooklm_gemini/` | relatórios das duas rodadas do Deep Research do NotebookLM |
-| `deep_research/04_consolidacao/` | consolidação por família + `decisao_por_fonte.csv` (a fazer) |
+| `deep_research/04_consolidacao/CONSOLIDACAO.md` | **comece por aqui**: divergências conferidas, mapa de confusões, pendências, seleção por família |
+| `deep_research/04_consolidacao/decisao_por_fonte.csv` | decisão e motivo das 170 linhas brutas |
+| `deep_research/04_consolidacao/selecionadas.json` | as 101 selecionadas (url, família, prioridade, nota, `arquivo` quando sobe como arquivo) |
+| `deep_research/04_consolidacao/juntar.py`, `consolidar.py` | geram `_bruto.json` e os dois arquivos acima |
+| `deep_research/05_arquivos_enviados/` | PDFs que o servidor não entrega a leitor automático (fora do git; rebaixáveis pela URL) |

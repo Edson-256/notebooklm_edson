@@ -1,0 +1,171 @@
+pesquisador;id;titulo;url;decisao;motivo
+chatgpt;F1-01;Dossiê de registro — Fandango caiçara;https://bcr.iphan.gov.br/documentos-do-process/dossie-de-registro-fandango-caicara/;excluir;"duplicata de claude:F1-07 (página-índice do mesmo dossiê; o PDF está em claude:F1-07)"
+chatgpt;F1-02;Paisagens caiçaras: difusão de narrativas sonoras, imagéticas e audiovisuais;https://bibliotecadigital.iphan.gov.br/items/acd429ed-0f5d-4aab-b257-1612cdcec8a2/full;excluir;"foco em difusão audiovisual do fandango, não descrição musical; dossiê (claude:F1-07) cobre"
+chatgpt;F1-03;Um paradoxo entre o existir e o resistir: a moda de viola através dos tempos;https://revistas.usp.br/eav/article/view/137899;excluir;duplicata de claude:F1-06 (mesmo artigo de Garcia, versão SciELO)
+chatgpt;F1-04;A busca pelos aspectos universais da moda-de-viola;https://revistas.usp.br/revistadatulha/article/view/121319;incluir;selecionada #1
+chatgpt;F1-05;Fandango caiçara — Bem Brasileiro;https://bcr.iphan.gov.br/bens-culturais/fandango-caicara/;excluir;"página-resumo do IPHAN; o dossiê completo (claude:F1-07) cobre"
+chatgpt;F1-06;Parecer técnico de registro — Fandango caiçara;https://bcr.iphan.gov.br/documentos-do-process/parecer-tecnico-de-registro-fandango-caicara/;excluir;"parecer administrativo; o dossiê completo (claude:F1-07) cobre"
+chatgpt;F2-01;Chamamé;https://ich.unesco.org/en/RL/chamame-01600;excluir;duplicata de claude:F2-01
+chatgpt;F2-02;Del folklore musical uruguayo: La milonga;https://anaforas.fic.edu.uy/jspui/handle/123456789/101481?mode=full;incluir;selecionada #2
+chatgpt;F2-03;Campeirismo musical e os festivais de música nativista do sul do Brasil: a (pós)modernidade (re)construindo o “gaúcho de verdade”;https://lume.ufrgs.br/handle/10183/102212;excluir;"URL errada: o handle aponta para uma dissertação de filosofia política, não para ""Campeirismo musical"" — conferido no PDF em 01/10"
+chatgpt;F2-04;Manual de danças gaúchas;https://www.paginadogaucho.com.br/danc/;excluir;"site amador, 404; o Manual de danças gaúchas vai para a lista de livros a adquirir"
+chatgpt;F2-05;Chamamé — decisão de inscrição 15.COM 8.b.15;https://ich.unesco.org/en/Decisions/15.COM/8.b.15;excluir;"texto da decisão do Comitê; a página do elemento (claude:F2-01) cobre"
+chatgpt;F3-01;Plano Curricular do Curso de Guitarra Portuguesa;https://www.museudofado.pt/fotos/editor2/escola_do_museu/plano_curricular_do_curso_de_guitarra_portuguesa.pdf;excluir;"plano curricular de 3 páginas (só a lista de fados-base); Sergl (claude:F3-01) descreve os mesmos fados"
+chatgpt;F3-02;Canção de Coimbra — textos gerais;https://www.uc.pt/ruas/actas/3_textos_gerais.pdf;excluir;"inacessível (403 no curl e no WebFetch); Castela (claude:F3-02) cobre a canção de Coimbra"
+chatgpt;F3-03;Fado de Coimbra / Canção de Coimbra;https://www.fd.uc.pt/alumni/pdf/newsletter/alumni_9.pdf;incluir;selecionada #3
+chatgpt;F3-04;Fado: história e património — recursos educativos;https://www.museudofado.pt/;excluir;página inicial do Museu do Fado, sem texto substantivo
+chatgpt;F4-01;Gestión cultural especializada en flamenco. Materiales didácticos;https://www.juntadeandalucia.es/cultura/flamenco/sites/default/files/flamenco/docs/gestion_cultural_materiales_didacticos.pdf;incluir;selecionada #4
+chatgpt;F4-02;Aproximación a una didáctica del Flamenco. Tercera parte. Breve introducción a la métrica musical y transcripciones musicales;https://www.juntadeandalucia.es/cultura/flamenco/sites/default/files/flamenco/docs/tercera_parte_didactica.pdf;incluir;selecionada #5
+chatgpt;F4-03;Unidad de trabajo 11: Soleá;https://www.juntadeandalucia.es/aaiicc/flamenco/node/2241;incluir;selecionada #6
+chatgpt;F4-04;Unidad de trabajo 13: Bulerías. Bulerías por Soleá;https://www.juntadeandalucia.es/aaiicc/flamenco/node/2243;incluir;selecionada #7
+chatgpt;F4-05;Seguiriyas;https://www.juntadeandalucia.es/aaiicc/flamenco/content/seguiriyas;incluir;selecionada #8
+chatgpt;F4-06;Cantes de compás mixto;https://www.juntadeandalucia.es/aaiicc/flamenco/content/cantes-de-comp%C3%A1s-mixto;incluir;selecionada #9
+chatgpt;F4-07;Apéndice. Grabaciones;https://www.juntadeandalucia.es/aaiicc/flamenco/content/ap%C3%A9ndice-grabaciones;incluir;selecionada #10
+chatgpt;F5-01;Canção do Amor Demais: marco da música popular brasileira contemporânea;https://www.scielo.br/j/pm/a/9KdPQTTrFLLQPkH6KmX5JVt/?lang=pt;incluir;selecionada #11
+chatgpt;F5-02;A música tímida de João Gilberto;https://teses.usp.br/teses/disponiveis/27/27157/tde-07032013-145429/pt-br.html;incluir;selecionada #12
+chatgpt;F5-03;Canto falado e música popular: apontamentos sobre práticas vocais, escuta e descritores estilísticos;https://new.scielo.br/j/opus/a/3rmH5mZ4JhswLg5CLxhKsht/?lang=pt;excluir;duplicata de claude:F5-04 (mesmo artigo de Souza na Opus)
+chatgpt;F5-04;Música e política no surgimento da Bossa Nova;https://periodicos.ufmg.br/index.php/permusi/article/view/39696;excluir;história política da bossa nova, sem descrição musical
+chatgpt;F5-05;Noel Rosa, João Gilberto e prosódia em canções;https://www.unicamp.br/unicamp/ju/632/noel-rosa-joao-gilberto-e-prosodia-em-cancoes;excluir;notícia do Jornal da Unicamp, 404
+chatgpt;F5-06;Inquietação: Laurindo Almeida e a relação de confluência entre o jazz e a música popular do Brasil no período entre 1953 e 1963;https://repositorio.ufu.br/handle/123456789/49660;excluir;jazz e Laurindo Almeida: lateral ao reconhecimento da bossa nova
+chatgpt;F6-01;Dossiê técnico do Choro;https://www.gov.br/iphan/pt-br/assuntos/noticias/DossietcnicodoChoro.pdf;excluir;"duplicata de claude:F6-01 (o mesmo dossiê técnico; o link do gov.br devolve HTML)"
+chatgpt;F6-02;Dossiê de registro — Choro;https://bcr.iphan.gov.br/documentos-do-process/dossie-de-registro-choro/;excluir;duplicata de claude:F6-01 (página-índice do mesmo processo)
+chatgpt;F6-03;Afinações narrativas em três encontros curtos com o samba carioca;https://www.compos.org.br/data/arquivos_2018/trabalhos_arquivo_2HGZCUNLPQGPMCYFK3VG_27_6811_22_02_2018_12_52_01.pdf;excluir;anais da Compós, 404
+chatgpt;F6-04;A canção no feminino: Brasil, século XX;https://historiacultural.mpbnet.com.br/artigos.genero/caro/MURGEL_Ana_Carolina-A_cancao_no_feminino-Labrys.pdf;excluir;foco em autoria feminina, não em descrição musical de modinha/seresta
+chatgpt;F7-01;Tracing Tangueros: Argentine Instrumental Tango Music;https://cilam.ucr.edu/diagonal/issues/2013/LinkandWendland.pdf;excluir;duplicata de claude:F7-03
+chatgpt;F7-02;The bolero romántico: from Cuban dance to international popular song;https://www.loc.gov/item/hlas-bi2006003224/;excluir;é só a ficha bibliográfica do Handbook of Latin American Studies (403), não o texto de Torres
+chatgpt;F7-03;Bolero;https://www.revistas.unam.mx/index.php/archipielago/article/view/55828;excluir;inacessível (403 no curl e no WebFetch) — tentar no navegador: é das poucas pistas de bolero mexicano
+chatgpt;F8-01;En bordure de voix, corps et imaginaire dans la chanson réaliste;https://journals.openedition.org/volume/2228;excluir;duplicata de claude:F8-01
+chatgpt;F8-02;Chanson réaliste, images et imaginaire;https://www.chanson-realiste.com/;excluir;site pessoal, sem resposta (timeout)
+chatgpt;F8-03;BnF Collection sonore — Chanson française;https://www.bnf.fr/fr/bnf-collection-sonore;excluir;catálogo de acervo sonoro, sem texto analítico
+chatgpt;F8-04;Les plus belles valses musette: Paris, 1930–1943;https://mediatheque.philharmoniedeparis.fr/mediatheque/doc/ALOES/0803912/les-plus-belles-valses-musette-par-leurs-plus-grands-interpretes-paris-1930-1943-the-greatest-classi?_lg=fr-FR;excluir;notícia catalográfica de um disco, sem texto analítico
+chatgpt;F8-05;La chanson réaliste;https://catalogue.bnf.fr/ark:/12148/cb39105089k;excluir;registro de catálogo da BnF, sem texto
+chatgpt;F9-01;Matrizes tradicionais do forró — Bem Brasileiro;https://bcr.iphan.gov.br/bens-culturais/matrizes-tradicionais-do-forro/;excluir;"página-resumo do IPHAN; o dossiê completo (claude:F9-01) cobre"
+chatgpt;F9-02;Registro das Matrizes Tradicionais do Forró como Patrimônio Cultural do Brasil;https://bcr.iphan.gov.br/acoes-de-salvaguarda/registro-das-matrizes-tradicionais-do-forro-como-patrimonio-cultural-do-brasil/;excluir;"página-resumo do IPHAN; o dossiê completo (claude:F9-01) cobre"
+chatgpt;F9-03;Parecer do conselho consultivo — Matrizes tradicionais do forró;https://bcr.iphan.gov.br/documentos-do-process/parecer-do-conselho-consultivo-matrizes-tradicionais-do-forro/;excluir;"parecer do conselho; o dossiê completo (claude:F9-01) cobre"
+chatgpt;F9-04;Sobre o forró;https://www.gov.br/iphan/pt-br/assuntos/noticias/sobre-o-forro;excluir;notícia do IPHAN, 404
+chatgpt;F9-05;Matrizes Tradicionais do Forró ganham Plano de Salvaguarda;https://www.gov.br/iphan/pt-br/assuntos/noticias/matrizes-tradicionais-do-forro-ganham-plano-de-salvaguarda;excluir;notícia do IPHAN, 401
+chatgpt;F10-01;Russian Folk Songs — liner notes;https://folkways-media.si.edu/docs/folkways/artwork/FW06820.pdf;excluir;"encarte escaneado sem camada de texto (0 palavras extraídas; precisaria OCR)"
+chatgpt;F10-02;From Russia with Love: Russian Folk Music on the Balalaika;https://folkways-media.si.edu/docs/lesson_plans/FLP10085_russia_balalaika.pdf;excluir;plano de aula inexistente nessa URL (404)
+chatgpt;F10-03;BALALAIKA! The Andreyev Balalaika Ensemble — liner notes;https://folkways-media.si.edu/docs/folkways/artwork/MON61713.pdf;incluir;selecionada #13
+chatgpt;F10-04;Smithsonian Folklife Festival 1988 Program Book — Russian traditions;https://festival.si.edu/past-program/1988;excluir;"página do Festival 1988 sem resposta (timeout); não conferida"
+chatgpt;F10-05;St. Petersburg Court Chant and the Tradition of Eastern Slavic Church Singing;https://www.utupub.fi/bitstream/10024/73894/1/AnnalesB340Harri.pdf;excluir;"inacessível (403); canto da corte de São Petersburgo é lateral — znamenny coberto por claude:F10-01/F10-02"
+chatgpt;F10-06;Znamenny Chant for the 21st Century;https://orthodoxartsjournal.org/znamenny-chant-for-the-21st-century/;excluir;"já está no notebook (fonte ""Ep09 · Znamenny Chant for the 21st Century"")"
+chatgpt;T-01;Simple Meter and Time Signatures;https://viva.pressbooks.pub/openmusictheory/chapter/simple-meter-and-time-signatures/;excluir;duplicata de claude:T-01
+chatgpt;T-02;Compound Meter and Time Signatures;https://viva.pressbooks.pub/openmusictheory/chapter/compound-meter-and-time-signatures/;excluir;"URL errada (404); o capítulo certo está em claude:T-02"
+chatgpt;T-03;Rhythm and Meter in Pop Music;https://viva.pressbooks.pub/openmusictheory/chapter/rhythm-and-meter-in-pop-music/;excluir;duplicata de claude:T-05
+chatgpt;T-04;3s and 2s: Hemiola and Other Across-the-Beat Rhythms;https://uen.pressbooks.pub/auralskills/chapter/3s-2s-across-the-beat/;incluir;selecionada #14
+chatgpt;T-05;Metrical Dissonance;https://viva.pressbooks.pub/openmusictheory/chapter/metrical-dissonance/;excluir;duplicata de claude:T-04
+chatgpt;T-06;Intervals;https://viva.pressbooks.pub/openmusictheory/chapter/intervals/;excluir;duplicata de claude:T-08
+chatgpt;T-07;Major Scales, Scale Degrees, and Key Signatures;https://viva.pressbooks.pub/openmusictheory/chapter/major-scales-scale-degrees-and-key-signatures/;excluir;"URL errada (404); escalas maiores ficam com Schmidt-Jones e as apostilas em pt (claude:T-17/T-18)"
+chatgpt;T-08;Minor Scales, Scale Degrees, and Key Signatures;https://viva.pressbooks.pub/openmusictheory/chapter/minor-scales-scale-degrees-and-key-signatures/;incluir;selecionada #15
+chatgpt;T-09;Introduction to Diatonic Modes and the Chromatic Scale;https://viva.pressbooks.pub/openmusictheory/chapter/intro-to-diatonic-modes-and-the-chromatic-scale/;excluir;duplicata de claude:T-06
+chatgpt;T-10;Triads;https://viva.pressbooks.pub/openmusictheory/chapter/triads/;incluir;selecionada #16
+chatgpt;T-11;Seventh Chords;https://viva.pressbooks.pub/openmusictheory/chapter/seventh-chords/;excluir;duplicata de claude:T-09
+chatgpt;T-12;Advanced Rhythm and Meter;https://tamucc.pressbooks.pub/stepstomusictheory/chapter/more-rhythm-meter/;incluir;selecionada #17
+claude;F1-01;Viola caipira: das práticas populares à escritura da arte;https://teses.usp.br/teses/disponiveis/27/27157/tde-22092015-112350/publico/ROBERTONUNESCORREA.pdf;incluir;selecionada #18
+claude;F1-02;Cantando a própria história;https://www.teses.usp.br/teses/disponiveis/47/47134/tde-14062011-163614/publico/vilela_do.pdf;incluir;selecionada #19
+claude;F1-03;O pagode de viola de Tião Carreiro: configurações estilísticas, importância e influências;https://files.cercomp.ufg.br/weby/up/270/o/DENIS_RILK_MALAQUIAS.pdf;incluir;selecionada #20
+claude;F1-04;O gênero musical guarânia no Brasil: décadas de 1940/50;https://anppom.org.br/anais/anaiscongresso_anppom_2014/2822/public/2822-9929-1-PB.pdf;incluir;selecionada #21
+claude;F1-05;Música sertaneja e globalização;https://www.unirio.br/mpb/ulhoatextos/MusicaSertaneja.pdf;incluir;selecionada #22
+claude;F1-06;Um paradoxo entre o existir e o resistir: a moda de viola através dos tempos;https://www.scielo.br/j/ea/a/3vCjJ4zRbrRpgg8BCpqzpVc/?format=html&lang=pt;incluir;selecionada #23
+claude;F1-07;Dossiê de Registro do Fandango Caiçara: expressões de um sistema cultural;https://bcr.iphan.gov.br/wp-content/uploads/tainacan-items/65968/66755/Fandango-Caicara_de_Dossie_.pdf;incluir;selecionada #24
+claude;F1-08;A viola caipira e a experiência musical em uma escola pública do campo – Emboabas/MG;https://ufsj.edu.br/portal2-repositorio/File/mestradoeducacao/DissertacaoLeandroDrumondMarinho.pdf;incluir;selecionada #25
+claude;F1-09;Improvisação à viola caipira: um estudo de caso aplicando modelos selecionados ao cateretê Vide Vida Marvada;https://files.cercomp.ufg.br/weby/up/270/o/Almir_Pessoa_-_Disserta%C3%A7%C3%A3o.pdf;incluir;selecionada #26
+claude;F2-01;Chamamé (inscrição 01600, Lista Representativa);https://ich.unesco.org/en/RL/chamame-01600;incluir;selecionada #27
+claude;F2-02;El acordeón del Litoral argentino. Un análisis de los distintos modos de acompañamiento en el chamamé;https://www.redalyc.org/journal/7876/787682987003/html/;incluir;selecionada #28
+claude;F2-03;El chamamé desde la guitarra;http://sedici.unlp.edu.ar/bitstream/handle/10915/80528/Documento_completo.pdf-PDFA.pdf?sequence=1&isAllowed=y;incluir;selecionada #29
+claude;F2-04;La enseñanza de recursos interpretativos del chamamé en la guitarra;https://www4.fba.unlp.edu.ar/jidap2022/wp-content/uploads/sites/4/2022/11/26.-TROITINO.pdf;incluir;selecionada #30
+claude;F2-05;A assimilação dos gêneros polca paraguaia, guarânia e chamamé no Brasil e suas transformações estruturais;https://www.icgilbertoluizalves.com.br/imagens/galeriapdf/a-assimila-o-dos-g-neros-polca-paraguaia-guar-nia-e-chamam-no-brasil-e-suas-transforma-es-estruturais-site-241138.pdf;incluir;selecionada #31
+claude;F2-06;Música no Rio Grande do Sul: conhecendo as origens e alguns gêneros musicais;https://www.seer.fundarte.rs.gov.br/RevistadaFundarte/en/article/download/757/pdf_74/1797;incluir;selecionada #32
+claude;F2-07;La problemática del nacionalismo musical argentino (in Revista del IIMCV nº 31);https://repositorio.uca.edu.ar/bitstream/123456789/1309/1/revista-instituto-carlos-vega-31.pdf;incluir;selecionada #33
+claude;F2-08;A milonga no redemoinho da canção popular: Bebeto Alves e Vitor Ramil;https://lume.ufrgs.br/bitstream/handle/10183/61206/000863881.pdf?sequence=1;incluir;selecionada #34
+claude;F3-01;O fado: características melódicas, rítmicas e de performance;http://www.musimid.mus.br/3encontro/files/pdf/Marcos%20Julio%20Sergl.pdf;incluir;selecionada #35
+claude;F3-02;A guitarra portuguesa e a canção de Coimbra: subsídios para o seu estudo e contextualização;https://estudogeral.uc.pt/bitstream/10316/19516/1/A%20Guitarra%20Portuguesa%20e%20a%20Can%C3%A7%C3%A3o%20de%20Coimbra_%20subsidios%20para%20o%20seu%20estudo%20e%20conxtualiza%C3%A7%C3%A3o-Luis%20Castela.pdf;incluir;selecionada #36
+claude;F3-03;The Portuguese Guitar: History and Transformation of an Instrument Associated with Fado;https://yorkspace.library.yorku.ca/items/930394d5-c5cc-442c-8139-53395c3e3c91;incluir;selecionada #37
+claude;F3-04;'O fado que nós cantamos, é a sina que nós seguimos': jovens fadistas portugueses e a emoção;https://www.meloteca.com/wp-content/uploads/2019/03/o-fado-que-nos-cantamos.pdf;incluir;selecionada #38
+claude;F4-01;El flamenco: arte musical y de la danza — Cap. 4: El compás y la sonoridad flamenca;https://www.ugr.es/~berlanga/captulo_4_el_comps_y_la_sonoridad_flamenca.html;incluir;selecionada #39
+claude;F4-02;El flamenco: arte musical y de la danza — Cap. 4B: La sonoridad flamenca;https://www.ugr.es/~berlanga/captulo_4b_la_sonoridad_flamenca.html;incluir;selecionada #40
+claude;F4-03;La transcripción musical del zapateado flamenco: una propuesta didáctica;https://revistas.um.es/flamenco/article/download/284241/223281/1082081;incluir;selecionada #41
+claude;F4-04;Aproximación musicológica a las palmas flamencas a través de la fonografía y la praxis contemporánea;https://ddd.uab.cat/pub/tesis/2020/hdl_10803_669363/bjdcp1de1.pdf;incluir;selecionada #42
+claude;F4-05;Acerca de la cadencia frigia, la cadencia andaluza y la tonalidad menor: aproximaciones fundamentantes;https://www.laguitarra-blog.com/wp-content/uploads/2012/05/acerca-de-la-cadencia-frigiala-cadencia-andaluza-y-la-tonalidad-menor.pdf;incluir;selecionada #43
+claude;F4-06;Sobre la poesía flamenca y su métrica;https://revistas.um.es/flamenco/article/download/179601/150851/655061;incluir;selecionada #44
+claude;F5-01;Padrões de acompanhamento na bossa nova ao violão de João Gilberto, em duas faixas do LP João Gilberto (1961);https://abrapem.org/wp-content/uploads/2023/10/69.-Padroes-de-acompanhamento-na-bossa-nova-ao-violao-de-Joao-Gilberto-02.pdf;incluir;selecionada #45
+claude;F5-02;Padrões de acompanhamento ao violão de João Gilberto, em duas faixas do LP O amor, o sorriso e a flor;https://abrapem.org/wp-content/uploads/2023/10/60.-Padroes-de-acompanhamento-ao-violao-de-Joao-Gilberto-01.pdf;incluir;selecionada #46
+claude;F5-03;Canto falado no samba e na bossa nova: um estudo de aspectos da relação entre texto e música;https://revistas.ufg.br/musica/article/view/47343;incluir;selecionada #47
+claude;F5-04;Canto falado e música popular: apontamentos sobre práticas vocais, escuta e descritores estilísticos;https://www.scielo.br/j/opus/a/3rmH5mZ4JhswLg5CLxhKsht/?lang=pt;incluir;selecionada #48
+claude;F5-05;Aspetos da harmonia idiomática de Antonio Carlos Jobim: uma abordagem a partir dos processos de cifragem;https://dspace.uevora.pt/rdpc/bitstream/10174/35478/1/Doutoramento-Musica_e_Musicologia-Musicologia-Celso_Ribeiro_Bastos_Filho.pdf;incluir;selecionada #49
+claude;F5-06;O uso de acordes de empréstimo modal (AEM) na música de Tom Jobim;https://antigo.anppom.com.br/anais/anaiscongresso_anppom_2005/sessao16/ricardofreire_heitoroliveira.pdf;incluir;selecionada #50
+claude;F5-07;A bossa-nova e sua influência na evolução da linguagem sonora da música instrumental brasileira;https://www.iar.unicamp.br/wp-content/uploads/2021/07/V2_ED03_A1_BossaNova.pdf;incluir;selecionada #51
+claude;F6-01;Choro: instrução técnica do processo de registro do choro como Patrimônio Cultural do Brasil;https://bcr.iphan.gov.br/wp-content/uploads/tainacan-items/65968/105869/01_Dossie_Tecnico.pdf;incluir;selecionada #52
+claude;F6-02;Dino 7 Cordas: o desenvolvimento de uma identidade sonora;https://anppom.org.br/anais/anaiscongresso_anppom_2023/papers/1635/public/1635-7746-1-PB.pdf;incluir;selecionada #53
+claude;F6-03;Inovação e tradição nas baixarias do choro de Rogério Caetano;https://files.cercomp.ufg.br/weby/up/270/o/Joao_Fernandes_da_Silva_Neto_-_Disserta%C3%A7%C3%A3o_Final.pdf;incluir;selecionada #54
+claude;F6-04;Paradigma (ou paradoxo) do Estácio?: questões sobre etnocentrismo e limites da musicografia sobre a linha de tempo do samba;https://econtents.sbu.unicamp.br/inpec/index.php/muspop/article/download/19941/14936/59924;incluir;selecionada #55
+claude;F6-05;A modinha e o lundu no Brasil: as primeiras manifestações da música popular urbana no Brasil;https://files.cercomp.ufg.br/weby/up/988/o/LIMA_-_A_modinha_e_o_lundu_no_Brasil.pdf;incluir;selecionada #56
+claude;F6-06;Os pilares da música popular brasileira e cabo-verdiana: modinha, lundu e morna;https://rbec.ect.ufrn.br/data/_uploaded/artigo/N2/RBEC_N2_A16.pdf;incluir;selecionada #57
+claude;F6-07;Muito além da serenata: a seresta como pervivência da lírica trovadoresca;https://ojs.uel.br/revistas/uel/index.php/estacaoliteraria/article/view/44921;incluir;selecionada #58
+claude;F6-08;Ai, ai, ai, cem anos o samba faz — Subgêneros do samba;https://bndigital.bn.gov.br/exposicoes/ai-ai-ai-cem-anos-o-samba-faz/subgeneros-do-samba/;pendente;"bloqueado por Cloudflare (403) — conferir no navegador; é a única fonte sobre samba de breque"
+claude;F7-01;El estilo de ejecución en el tango: un estudio acerca de la temporalidad en la performance;https://sedici.unlp.edu.ar/bitstream/handle/10915/173486/Documento_completo.pdf?sequence=1&isAllowed=y;incluir;selecionada #59
+claude;F7-02;Al son de la clave: el 3+3+2 en el tango. Las décadas del 20, 30 y 40;http://sedici.unlp.edu.ar/bitstream/handle/10915/53874/Documento_completo.pdf-PDFA.pdf?sequence=1&isAllowed=y;incluir;selecionada #60
+claude;F7-03;Tracing Tangueros: Argentine Instrumental Tango Music (resumo de sessão);https://cilam.ucr.edu/diagonal/issues/2013/LinkandWendland.pdf;incluir;selecionada #61
+claude;F7-04;The Cuban Bolero in Spanish Jazz;https://rpm-ns.pt/index.php/rpm/article/download/383/679/1365;incluir;selecionada #62
+claude;F7-05;Estrategia y táctica para revitalizar el bolero;https://dialnet.unirioja.es/descarga/articulo/5322692.pdf;incluir;selecionada #63
+claude;F7-06;Viviendo el amor y sufriendo el desamor. El bolero en México (radio reportaje);https://tesiunamdocumentos.dgb.unam.mx/ptd2009/abril/0641940/0641940_A1.pdf;incluir;selecionada #64
+claude;F8-01;En bordure de voix, corps et imaginaire dans la chanson réaliste;https://journals.openedition.org/volume/2228;incluir;selecionada #65
+claude;F8-02;Catherine Dutheil-Pessin, La Chanson réaliste. Sociologie d'un genre (resenha);https://journals.openedition.org/volume/1735?lang=fr;incluir;selecionada #66
+claude;F8-03;Musette et stéréotypes sociaux: les différentes appréciations d'un genre « populaire »;https://horizon.documentation.ird.fr/exl-doc/pleins_textes/divers17-07/010041194.pdf;incluir;selecionada #67
+claude;F8-04;Histoire des bals musette (fresque Danses sans visa);https://fresques.ina.fr/danses-sans-visa/fiche-media/Dasavi00705/histoire-des-bals-musette.html;incluir;selecionada #68
+claude;F8-05;Genèse et mutations du bal musette parisien;https://www.tiennetsimonnin.fr/articles/gen%C3%A8se-et-mutations-du-bal-musette-parisien/;incluir;selecionada #69
+claude;F9-01;Instrução técnica da solicitação de registro das Matrizes Tradicionais do Forró como Patrimônio Cultural Brasileiro;https://bcr.iphan.gov.br/wp-content/uploads/tainacan-items/65968/67001/Matrizes-Tradicionais-do-Forro_de_MatrizesTradicionaisForro_Dossie_.pdf;incluir;selecionada #70
+claude;F9-02;Como se toca o baião: combinações de elementos musicais no repertório de Luiz Gonzaga;https://www.scielo.br/j/pm/a/6sW6mgh4bZhTRngXKxnRygH/?lang=pt;incluir;selecionada #71
+claude;F9-03;Processo criativo musical: o modalismo como ferramenta de ensino-aprendizagem na linguagem musical;https://files.cercomp.ufg.br/weby/up/270/o/DISSERTA%C3%87%C3%83O-REJANE-2015.pdf;incluir;selecionada #72
+claude;F9-04;Estrutura da música modal: a importância do ensino do modalismo nos cursos acadêmicos;https://www.unirio.br/cla/ivl/cursos/anitaugarte.pdf;incluir;selecionada #73
+claude;F9-05;Obras para contrabaixo com gêneros da música popular brasileira: performance e aspectos pedagógicos;https://files.cercomp.ufg.br/weby/up/270/o/Diuliano_Vitor_Lucena_-_Dissertac%CC%A7a%CC%83o_Final.pdf;incluir;selecionada #74
+claude;F10-01;Знаменный распев (Znamenny raspev);https://www.pravenc.ru/text/%D0%B7%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%80%D0%B0%D1%81%D0%BF%D0%B5%D0%B2%D0%B0.html;incluir;selecionada #75
+claude;F10-02;The Influence of Znamenny Liturgical Chant on the Nineteenth-Century Russian Choral School;https://acda-publications.s3.us-east-2.amazonaws.com/choral_journals/Wall.pdf;incluir;selecionada #76
+claude;F10-03;Частушки и «короткие песни»: к вопросу о внутрижанровой классификации;https://cyberleninka.ru/article/n/chastushki-i-korotkie-pesni-k-voprosu-o-vnutrizhanrovoy-klassifikatsii;incluir;selecionada #77
+claude;F10-04;Забытые мотивы материнского фольклора;https://cyberleninka.ru/article/n/zabytye-motivy-materinskogo-folklora;incluir;selecionada #78
+claude;F10-05;Эпические напевы из сборника Кирши Данилова и традиции Северного былинного мелоса;https://cyberleninka.ru/article/n/epicheskie-napevy-iz-sbornika-kirshi-danilova-i-traditsii-severnogo-bylinnogo-melosa;incluir;selecionada #79
+claude;F10-06;Communism and Folklore Revisited: Russian Traditional Music and the Janus-faced Nature of Soviet Cultural Politics;https://pressto.amu.edu.pl/index.php/ism/article/download/43462/36110;incluir;selecionada #80
+claude;F10-07;Stravinsky's 'Les Noces' and Russian Village Wedding Ritual;https://sites.nd.edu/choral-lit/files/2018/08/Mazo-Les-Noces-and-Wedding-Ritual.pdf;incluir;selecionada #81
+claude;F10-08;Russian Choral Music (Folkways FP 8754) — notas do álbum;https://folkways-media.si.edu/docs/folkways/artwork/FW08754.pdf;incluir;selecionada #82
+claude;T-01;Simple Meter and Time Signatures;https://viva.pressbooks.pub/openmusictheory/chapter/simple-meter-and-time-signatures/;incluir;selecionada #83
+claude;T-02;Compound Meter and Time Signatures;https://viva.pressbooks.pub/openmusictheory/chapter/compound-meters-and-time-signatures/;incluir;selecionada #84
+claude;T-03;Other Rhythmic Essentials;https://viva.pressbooks.pub/openmusictheory/chapter/other-rhythmic-essentials/;incluir;selecionada #85
+claude;T-04;Metrical Dissonance;https://viva.pressbooks.pub/openmusictheory/chapter/metrical-dissonance/;incluir;selecionada #86
+claude;T-05;Rhythm and Meter in Pop Music;https://viva.pressbooks.pub/openmusictheory/chapter/rhythm-and-meter-in-pop-music/;incluir;selecionada #87
+claude;T-06;Introduction to Diatonic Modes and the Chromatic 'Scale';https://viva.pressbooks.pub/openmusictheory/chapter/intro-to-diatonic-modes-and-the-chromatic-scale/;incluir;selecionada #88
+claude;T-07;Diatonic Modes;https://viva.pressbooks.pub/openmusictheory/chapter/diatonic-modes/;incluir;selecionada #89
+claude;T-08;Intervals;https://viva.pressbooks.pub/openmusictheory/chapter/intervals/;incluir;selecionada #90
+claude;T-09;Seventh Chords;https://viva.pressbooks.pub/openmusictheory/chapter/seventh-chords/;incluir;selecionada #91
+claude;T-10;Embellishing Tones;https://viva.pressbooks.pub/openmusictheory/chapter/embellishing-tones/;incluir;selecionada #92
+claude;T-11;2.4: Meter;https://human.libretexts.org/Bookshelves/Music/Music_Theory/Understanding_Basic_Music_Theory_(Schmidt-Jones)/02%3A_Notation_-_Time/2.04%3A_Meter;incluir;selecionada #93
+claude;T-12;2.7: Syncopation;https://human.libretexts.org/Bookshelves/Music/Music_Theory/Understanding_Basic_Music_Theory_(Schmidt-Jones)/02%3A_Notation_-_Time/2.07%3A_Syncopation;incluir;selecionada #94
+claude;T-13;2.8: Tempo;https://human.libretexts.org/Bookshelves/Music/Music_Theory/Understanding_Basic_Music_Theory_(Schmidt-Jones)/02%3A_Notation_-_Time/2.08%3A_Tempo;incluir;selecionada #95
+claude;T-14;2.6: Dots, Ties, and Borrowed Divisions;https://human.libretexts.org/Bookshelves/Music/Music_Theory/Understanding_Basic_Music_Theory_(Schmidt-Jones)/02%3A_Notation_-_Time/2.06%3A_Dots_Ties_and_Borrowed_Divisions;incluir;selecionada #96
+claude;T-15;5.3: Harmonic Series I — Timbre and Octaves;https://human.libretexts.org/Bookshelves/Music/Music_Theory/Understanding_Basic_Music_Theory_(Schmidt-Jones)/05%3A_The_Physical_Basis/5.03%3A_Harmonic_Series_I-_Timbre_and_Octaves;incluir;selecionada #97
+claude;T-16;8.3: Modes and Ragas;https://human.libretexts.org/Bookshelves/Music/Music_Theory/Understanding_Basic_Music_Theory_(Schmidt-Jones)/08%3A_Challenges/8.03%3A_Modes_and_Ragas;incluir;selecionada #98
+claude;T-17;Teoria Elementar da Música (apostila);https://www.ufsm.br/cursos/graduacao/santa-maria/musica/wp-content/uploads/sites/485/2018/12/Teoria-Elementar-2013-1-1.pdf;incluir;selecionada #99
+claude;T-18;Gramática e Teoria Musical (apostila);https://hugoribeiro.com.br/biblioteca-digital/Ribeiro-apostila-teoria.pdf;incluir;selecionada #100
+claude;T-19;Curso de Teoria e Percepção Musical (extensão);https://musica.ufma.br/bordini/ext/unidades/unidades.html;excluir;página-índice das unidades do curso (~600 palavras), sem o conteúdo das aulas
+claude;T-20;Meter (Music Theory for the 21st-Century Classroom);https://musictheory.pugetsound.edu/mt21c/meter.html;incluir;selecionada #101
+claude;T-21;Simple and Compound Meter (lesson 15);https://www.musictheory.net/lessons/15;excluir;lição interativa em JavaScript, sem texto legível para o NotebookLM
+notebooklm;N1-01;The Diatonic Harp in The Performance of Paraguayan Identity | PDF | Paraguay - Scribd;https://www.scribd.com/document/536189536/The-Diatonic-Harp-in-the-Performance-of-Paraguayan-Identity;excluir;cópia no Scribd (excluído por regra)
+notebooklm;N1-02;Violão velho, Choro Novo: processos composicionais de Zé Barbeiro - Teses USP;https://teses.usp.br/teses/disponiveis/27/27157/tde-11092018-162324/publico/CIBELEPALOPOLIVC.pdf;excluir;"processos composicionais de um compositor (Zé Barbeiro); o dossiê do choro (claude:F6-01) cobre o gênero"
+notebooklm;N1-03;UNIVERSIDADE DE SÃO PAULO ESCOLA DE ... - Teses USP;https://teses.usp.br/teses/disponiveis/27/27161/tde-23042026-132613/publico/WilsonRogerioCorradiniGeraldoPPGMPAVersaoCorrigida13044084.pdf;excluir;título genérico esconde dissertação sobre funk paulista — fora do tema (conferido no PDF)
+notebooklm;N1-04;A viola enquanto patrimônio imaterial mineiro: o silenciamento das duplas caipiras no dossiê de patrimonialização - Locus UFV;https://locus.ufv.br/items/7f9ef903-81fb-4283-9a45-d075620cfa95;excluir;"política de patrimônio da viola em MG, sem descrição musical; Corrêa e Vilela cobrem"
+notebooklm;N1-05;Fandango Caiçara: Patrimônio Cultural Brasileiro | PDF | Brasil | São Paulo - Scribd;https://pt.scribd.com/document/407636132/Fandango-caicara;excluir;cópia no Scribd (excluído por regra)
+notebooklm;N1-06;Anais da XXI Conferência Brasileira de Folkcomunicação - Processos folkcomunicacionais e ativismos antirracistas - DOKUMEN.PUB;https://dokumen.pub/anais-da-xxi-conferencia-brasileira-de-folkcomunicaao-processos-folkcomunicacionais-e-ativismos-antirracistas.html;excluir;cópia não autorizada (dokumen.pub)
+notebooklm;N1-07;Nicanor Teixeira: Análise Musical e Biografia | PDF | Música clássica - Scribd;https://pt.scribd.com/document/466322502/Maria-Haro-Dissertacao;excluir;cópia no Scribd (excluído por regra)
+notebooklm;N1-08;Samba Instrumental e Baden Powell | PDF - Scribd;https://pt.scribd.com/doc/305232711/SAMBA-MUSICA-INSTRUMENTAL-E-O-VIOLAO-DE-BADEN-POWELL;excluir;cópia no Scribd (excluído por regra)
+notebooklm;N2-01;Fado Resounding: Affective Politics and Urban Life 9780822354598, 9780822354710, 2013018963 - DOKUMEN.PUB;https://dokumen.pub/fado-resounding-affective-politics-and-urban-life-9780822354598-9780822354710-2013018963.html;excluir;cópia não autorizada (dokumen.pub)
+notebooklm;N2-02;(PDF) The Immigrant Portuguese Guitar: Destination—Ontario - Academia.edu;https://www.academia.edu/34267296/The_Immigrant_Portuguese_Guitar_Destination_Ontario;excluir;Academia.edu bloqueia leitura
+notebooklm;N2-03;"Full text of ""Musical_DropBooks"" - Internet Archive";https://archive.org/stream/Musical_DropBooks/World.Music.-.The.Basics.Rougledge_DropBooks_App_djvu.txt;excluir;livro comercial em cópia não autorizada
+notebooklm;N2-04;The Guitar Review 1946-1948 Vol 1 Iss 1-6 | PDF - Scribd;https://www.scribd.com/document/1008695517/The-Guitar-Review-1946-1948-Vol-1-Iss-1-6;excluir;cópia no Scribd (excluído por regra)
+notebooklm;N2-05;Musician's Workbook: Scales Guide | PDF | Mode (Music) | String Instruments - Scribd;https://www.scribd.com/document/337508617/Escalas;excluir;cópia no Scribd (excluído por regra)
+notebooklm;N2-06;Flamenco Urbano - Melodigging;https://www.melodigging.com/genre/flamenco-urbano;excluir;agregador sem autoria
+notebooklm;N2-07;Índice / Index - Flamenco Live;https://www.flamencolive.com/libreria/products.pdf;excluir;catálogo comercial de loja
+notebooklm;N2-08;Flamenco - Wikipedia;https://en.wikipedia.org/wiki/Flamenco;excluir;Wikipedia: não assinada
+notebooklm;N2-09;Flamenco Guitar - Melodigging;https://www.melodigging.com/genre/flamenco-guitar;excluir;agregador sem autoria
+notebooklm;N2-10;(PDF) LA ORIGINALIDAD MUSICAL DEL FLAMENCO: EL COMPÁS - ResearchGate;https://www.researchgate.net/publication/303020284_LA_ORIGINALIDAD_MUSICAL_DEL_FLAMENCO_EL_COMPAS;excluir;ResearchGate bloqueia leitura (403)
+notebooklm;N2-11;Fernando Ríos - Bolero Trios, Mestizo Panpipe Ensembles, and Bolivia's 1952 Revolution. Urban La Paz Musicians and The Nationalist Revolutionary Movement | PDF - Scribd;https://www.scribd.com/document/369685160/Fernando-Rios-Bolero-Trios-Mestizo-Panpipe-Ensembles-And-Bolivia-s-1952-Revolution-Urban-La-Paz-Musicians-and-the-Nationalist-Revolutionary-Movem;excluir;cópia no Scribd (excluído por regra)
+notebooklm;N2-12;Cuban Music from A to Z 9780822385219 - DOKUMEN.PUB;https://dokumen.pub/cuban-music-from-a-to-z-9780822385219.html;excluir;cópia não autorizada (dokumen.pub)

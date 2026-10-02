@@ -1,0 +1,940 @@
+[
+  {
+    "id": "4ba0679d-3fdc-45c3-8c4b-b9248f7d08af",
+    "title": "Ep01 · A palavra em movimento: algumas perspectivas teóricas para a análise de canções no âmbito da música popular",
+    "type": "pdf",
+    "url": null,
+    "status": 2
+  },
+  {
+    "id": "2a087ae2-0b6d-4d76-824a-b5f2118b0406",
+    "title": "Ep01 · Beauty Is How You Feel Inside: Aesthetic Judgments Are Related to Emotional Responses to Contemporary Music",
+    "type": "generated_text",
+    "url": null,
+    "status": 2
+  },
+  {
+    "id": "536d2cfb-1a19-453e-be8f-2c92652c2c6c",
+    "title": "Ep01 · From perceptual rule transformation to listener attribution judgments: a blind-listening experiment on AI-generated, human–AI collaborative, and human-composed music",
+    "type": "web_page",
+    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1903971/full",
+    "status": 2
+  },
+  {
+    "id": "66e9e3b0-2974-4216-8857-1856d9d5a3fa",
+    "title": "Ep01 · MUSI 112 – Listening to Music, Lecture 1: Introduction (curso inteiro com transcrição por aula)",
+    "type": "web_page",
+    "url": "https://oyc.yale.edu/music/musi-112/lecture-1",
+    "status": 2
+  },
+  {
+    "id": "2736059b-ea12-4ba7-abce-2925a1f8a9d4",
+    "title": "Ep01 · Predictive Processes and the Peculiar Case of Music",
+    "type": "pdf",
+    "url": "https://www.stefan-koelsch.de/papers/koelsch_vuust_friston_2018_predictive_processes_and_the_peculiar_case_of_music_trends_in_cognitive_sciences.pdf",
+    "status": 2
+  },
+  {
+    "id": "bcb91858-3762-45a5-b7c2-2eee8bc36a2c",
+    "title": "Ep01 · Repeated Listening Increases the Liking for Music Regardless of Its Complexity",
+    "type": "generated_text",
+    "url": null,
+    "status": 2
+  },
+  {
+    "id": "55cb9893-574e-4d62-99ae-c3678fdcda6d",
+    "title": "Ep01 · Resenha de \"O som e o sentido. Uma outra história das músicas\" (José Miguel Wisnik)",
+    "type": "web_page",
+    "url": "https://www.scielo.br/j/ra/a/yP7KNLj6JTktTMRkbNkXj3y/?lang=pt",
+    "status": 2
+  },
+  {
+    "id": "ca17e2be-39aa-4826-81c9-b6b323ada000",
+    "title": "Ep01 · Statistical learning and probabilistic prediction in music cognition: mechanisms of stylistic enculturation",
+    "type": "generated_text",
+    "url": null,
+    "status": 2
+  },
+  {
+    "id": "0bafeacc-bc7b-4603-b1bc-e51e02372f29",
+    "title": "Ep01 · Toward a Neural Chronometry for the Aesthetic Experience of Music",
+    "type": "web_page",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3640187/",
+    "status": 2
+  },
+  {
+    "id": "21e34982-0fb7-4a01-9d4c-eb100b792dd4",
+    "title": "Ep02 · A Fourier Explanation of AI-music Artifacts",
+    "type": "pdf",
+    "url": null,
+    "status": 2
+  },
+  {
+    "id": "4bbf64b8-9c99-48a6-8c28-2da65f10dee7",
+    "title": "Ep02 · From Audio Deepfake Detection to AI-Generated Music Detection – A Pathway and Overview - arXiv",
+    "type": "web_page",
+    "url": "https://arxiv.org/html/2412.00571v3",
+    "status": 2
+  },
+  {
+    "id": "059d4fe0-3b6d-403a-ae4b-b8f3b277aff5",
+    "title": "Ep02 · Making myself understood: perceived factors affecting the intelligibility of sung text",
+    "type": "generated_text",
+    "url": null,
+    "status": 2
+  },
+  {
+    "id": "484ca4a6-59d3-4617-bbe2-08847dbb551c",
+    "title": "Ep02 · Perceptual Evaluation and Analysis of Reverberation in Multitrack Music Production (JAES 65(1/2))",
+    "type": "pdf",
+    "url": "http://www.brechtdeman.com/publications/pdf/jaes-DREAMS-hires.pdf",
+    "status": 2
+  },
+  {
+    "id": "e25212fb-7f67-4f99-a101-7dd5676dbebc",
+    "title": "Ep02 · SONICS: Synthetic Or Not – Identifying Counterfeit Songs",
+    "type": "pdf",
+    "url": null,
+    "status": 2
+  },
+  {
+    "id": "e2866d6c-761c-49a3-97b8-23cf7a1045af",
+    "title": "Ep02 · Signal Processing in Mixing",
+    "type": "web_page",
+    "url": "https://human.libretexts.org/Courses/Pasadena_City_College/Understanding_Sound_From_Ear_to_Engineer/09%3A_The_Mixing_Process/9.07%3A_Signal_Processing_in_Mixing",
+    "status": 2
+  },
+  {
+    "id": "f78f5e8e-ec97-4822-a40c-0997443f83e2",
+    "title": "Ep02 · SingFake: Singing Voice Deepfake Detection",
+    "type": "pdf",
+    "url": null,
+    "status": 2
+  },
+  {
+    "id": "76487708-36b5-431e-b57c-3a20d3ca9571",
+    "title": "Ep02 · SongEval: A Benchmark Dataset for Song Aesthetics Evaluation",
+    "type": "pdf",
+    "url": null,
+    "status": 2
+  },
+  {
+    "id": "9bbd6015-a603-496b-8a79-b1a9cd4e37ad",
+    "title": "Ep02 · The AI Music Arms Race: On the Detection of AI-Generated Music",
+    "type": "web_page",
+    "url": "https://transactions.ismir.net/articles/10.5334/tismir.254",
+    "status": 2
+  },
+  {
+    "id": "229f16ff-b370-49e2-a67d-8c8a23136fc7",
+    "title": "Ep02 · The Loudness War: Background, Speculation and Recommendations (AES 129th Convention)",
+    "type": "pdf",
+    "url": "https://www.sfxmachine.com/docs/loudnesswar/loudness_war.pdf",
+    "status": 2
+  },
+  {
+    "id": "aebe4f53-0299-40fa-9125-87adac42836c",
+    "title": "Ep03 · 7.1 Melodic Material: Range, Interval Structure, Gesture (Comprehensive Musicianship: A Practical Resource)",
+    "type": "generated_text",
+    "url": null,
+    "status": 2
+  },
+  {
+    "id": "67ee77e8-f135-4154-995b-b8dccc4e7739",
+    "title": "Ep03 · 7.3: Melody and Phrasing (Open Music Theory 2e)",
+    "type": "web_page",
+    "url": "https://human.libretexts.org/Bookshelves/Music/Music_Theory/Open_Music_Theory_2e_(Gotham_et_al.)/07%3A_Popular_Music/7.03%3A_Melody_and_Phrasing",
+    "status": 2
+  },
+  {
+    "id": "0f5320b6-1407-459f-a8a9-6ab68a9183cc",
+    "title": "Ep03 · A typology of 'hooks' in popular records",
+    "type": "pdf",
+    "url": "https://www.tagg.org/xpdfs/burns87.pdf",
+    "status": 2
+  },
+  {
+    "id": "4ecd02b5-f411-415f-9092-dd09c7c17560",
+    "title": "Ep03 · Dissecting an Earworm: Melodic Features and Song Popularity Predict Involuntary Musical Imagery",
+    "type": "pdf",
+    "url": null,
+    "status": 2
+  },
+  {
+    "id": "6f24ea5c-9736-495a-a510-06ca1bc0fb55",
+    "title": "Ep03 · Intervals as musical fingerprints: perceptual and pedagogical insights — a scoping review",
+    "type": "web_page",
+    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1740840/full",
+    "status": 2
+  },
+  {
+    "id": "39e2dc0c-b1a9-46ab-a7e8-590564bd2a19",
+    "title": "Ep03 · Predicting Variation of Folk Songs: A Corpus Analysis Study on the Memorability of Melodies",
+    "type": "web_page",
+    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00621/full",
+    "status": 2
+  },
+  {
+    "id": "01280399-8ccc-428f-8aa0-afbdace92841",
+    "title": "Ep03 · Review of Elizabeth Margulis, On Repeat: How Music Plays the Mind",
+    "type": "web_page",
+    "url": "https://www.mtosmt.org/issues/mto.14.20.4/mto.14.20.4.albrecht.html",
+    "status": 2
+  },
+  {
+    "id": "3d21bfe2-59d4-4021-a1a4-c87fc71be2e2",
+    "title": "Ep03 · The melodic-harmonic 'divorce' in rock",
+    "type": "pdf",
+    "url": "https://davidtemperley.com/wp-content/uploads/2015/11/temperley-pm07.pdf",
+    "status": 2
+  },
+  {
+    "id": "3d20fcef-8ec3-4e4d-af79-dbb6a15c2aad",
+    "title": "Ep04 · 7.12: Modal Schemas (Open Music Theory 2e)",
+    "type": "web_page",
+    "url": "https://human.libretexts.org/Bookshelves/Music/Music_Theory/Open_Music_Theory_2e_(Gotham_et_al.)/07%3A_Popular_Music/7.12%3A_Modal_Schemas",
+    "status": 2
+  },
+  {
+    "id": "55de62e5-7ea0-442c-b413-875395f68133",
+    "title": "Ep04 · 7.6: Cadence (Understanding Basic Music Theory)",
+    "type": "web_page",
+    "url": "https://human.libretexts.org/Bookshelves/Music/Music_Theory/Understanding_Basic_Music_Theory_(Schmidt-Jones)/07%3A_Harmony_and_Form/7.06%3A_Candence",
+    "status": 2
+  },
+  {
+    "id": "b2d8adf6-6bb6-429d-acb1-6de56561cf69",
+    "title": "Ep04 · 7.7: Introduction to Harmonic Schemas in Pop Music (Open Music Theory 2e)",
+    "type": "web_page",
+    "url": "https://human.libretexts.org/Bookshelves/Music/Music_Theory/Open_Music_Theory_2e_(Gotham_et_al.)/07%3A_Popular_Music/7.07%3A_Introduction_to_Harmonic_Schemas_in_Pop_Music",
+    "status": 2
+  },
+  {
+    "id": "11026ac1-1271-4f52-a06b-74587e53410c",
+    "title": "Ep04 · A Statistical Analysis of the Relationship between Harmonic Surprise and Preference in Popular Music",
+    "type": "generated_text",
+    "url": null,
+    "status": 2
+  },
+  {
+    "id": "091e2a1e-6448-4bdf-8614-b22e00b8aff2",
+    "title": "Ep04 · Everyday Tonality",
+    "type": "web_page",
+    "url": "https://tagg.org/html/FFabBk.htm",
+    "status": 2
+  },
+  {
+    "id": "bddee5b9-d26f-4430-b362-17f91125e604",
+    "title": "Ep04 · Everyday Tonality II – cap. 4: Non-heptatonic modes (capítulo-amostra gratuito)",
+    "type": "pdf",
+    "url": "https://tagg.org/bookxtrax/FFabBk08/EvTon04Modes2Sample.pdf",
+    "status": 2
+  },
+  {
+    "id": "f023bfa6-a717-47d0-b492-2e7843c3879e",
+    "title": "Ep04 · Four-Chord Schemas",
+    "type": "web_page",
+    "url": "https://human.libretexts.org/Bookshelves/Music/Music_Theory/Open_Music_Theory_2e_(Gotham_et_al.)/07%3A_Popular_Music/7.09%3A_Four-Chord_Schemas",
+    "status": 2
+  },
+  {
+    "id": "d35a74ff-7a09-432c-b98c-6fba1742aef9",
+    "title": "Ep04 · Introduction to Harmony, Cadences, and Phrase Endings",
+    "type": "web_page",
+    "url": "https://human.libretexts.org/Bookshelves/Music/Music_Theory/Open_Music_Theory_2e_(Gotham_et_al.)/04%3A_Diatonic_Harmony_Tonicization_and_Modulation/4.01%3A_Introduction_to_Harmony_Cadences_and_Phrase_Endings",
+    "status": 2
+  },
+  {
+    "id": "72af58d9-f438-4533-8d00-5680d79e4ff6",
+    "title": "Ep04 · MUSI 112 – Lecture 8: Bass Patterns: Blues and Rock",
+    "type": "web_page",
+    "url": "https://oyc.yale.edu/music/musi-112/lecture-8",
+    "status": 2
+  },
+  {
+    "id": "631b7359-0652-45a1-98af-dc81d8e058ee",
+    "title": "Ep04 · Pentatonic Harmony",
+    "type": "web_page",
+    "url": "https://human.libretexts.org/Bookshelves/Music/Music_Theory/Open_Music_Theory_2e_(Gotham_et_al.)/07%3A_Popular_Music/7.13%3A_Pentatonic_Harmony",
+    "status": 2
+  },
+  {
+    "id": "78ff182f-7d3a-4c6a-94bc-2cf309650250",
+    "title": "Ep04 · Procedimentos Modais na Música Brasileira: do campo étnico do Nordeste ao popular da década de 1960 (tese)",
+    "type": "pdf",
+    "url": "https://teses.usp.br/teses/disponiveis/27/27157/tde-13122009-102355/publico/Tesefinal.pdf",
+    "status": 2
+  },
+  {
+    "id": "a027d438-48da-4a47-9c53-1721844ea9a5",
+    "title": "Ep04 · Uncertainty and Surprise Jointly Predict Musical Pleasure and Amygdala, Hippocampus, and Auditory Cortex Activity",
+    "type": "pdf",
+    "url": "https://www.stefan-koelsch.de/papers/cheung_harrison_meyer_pearce_haynes_koelsch_2019_uncertainty_and_surprise_jointly_predict_musical_pleasure_and_amygdala_hippocampus_and_auditory_cortex_activity_current_biology_29.pdf",
+    "status": 2
+  },
+  {
+    "id": "11a74efb-295b-4fce-8558-307858de43dd",
+    "title": "Ep05 · \"Sous le rythme de la chanson\": Rhythm, Text, and Diegetic Performance in Nineteenth-Century French Opera (MTO 21.3)",
+    "type": "web_page",
+    "url": "https://www.mtosmt.org/issues/mto.15.21.3/mto.15.21.3.pau.html",
+    "status": 2
+  },
+  {
+    "id": "386578b7-7fb4-41f3-b7e5-c880554632d5",
+    "title": "Ep05 · A canção e a oralização: sílaba, palavra e frase",
+    "type": "pdf",
+    "url": "https://www.teses.usp.br/teses/disponiveis/8/8139/tde-26062019-103725/publico/2019_MarceloSegreto_VCorr.pdf",
+    "status": 2
+  },
+  {
+    "id": "ecdc20df-1c10-43ef-8dd5-5ef5b5d18ffb",
+    "title": "Ep05 · Canto falado: relações entre música e prosódia",
+    "type": "pdf",
+    "url": "https://anppom.org.br/anais/anaiscongresso_anppom_2017/4643/public/4643-16355-1-PB.pdf",
+    "status": 2
+  },
+  {
+    "id": "3d8a2ceb-3d3e-4765-a322-ad22a21307d8",
+    "title": "Ep05 · Comparing Musical Textsetting in French and in English Songs",
+    "type": "pdf",
+    "url": "https://johnhalle.com/musical.writing.technical/fdell-jhalle-comparing-settings-4.pdf",
+    "status": 2
+  },
+  {
+    "id": "120cf12f-f53a-4752-b911-8c868421ed2e",
+    "title": "Ep05 · Estudo semiótico de percursos passionais no samba-canção",
+    "type": "web_page",
+    "url": "https://www.scielo.br/j/ld/a/V4gMmgRLmDKbH6Rc69nhzFq/?lang=pt",
+    "status": 2
+  },
+  {
+    "id": "1833c49f-8c9b-4dc5-949f-7492f431335c",
+    "title": "Ep05 · Fundamentos da semiótica da canção aplicados à musicalização de adultos",
+    "type": "pdf",
+    "url": "https://revistaabem.abem.mus.br/revistaabem/article/download/1159/640/3942",
+    "status": 2
+  },
+  {
+    "id": "4d3c97d1-febf-474e-81d9-39f5a381bf31",
+    "title": "Ep05 · Guida alla identificazione metrica dei versi italiani",
+    "type": "pdf",
+    "url": "http://box.dar.unibo.it/files/didattica/Guida_alla_identificazione_metrica_dei_versi_italiani.pdf",
+    "status": 2
+  },
+  {
+    "id": "99bc3af8-61f1-41a7-9f6a-0aa349726eef",
+    "title": "Ep05 · Intonation of French Songs: From Text to Tune",
+    "type": "pdf",
+    "url": "https://www.isca-archive.org/speechprosody_2004/martin04_speechprosody.pdf",
+    "status": 2
+  },
+  {
+    "id": "a3a48a56-2457-4d8c-9eb8-5be14537574e",
+    "title": "Ep05 · Luiz Tatit: A forma exata da canção (entrevista)",
+    "type": "web_page",
+    "url": "https://revistapesquisa.fapesp.br/luiz-tatit-a-forma-exata-da-cancao/",
+    "status": 2
+  },
+  {
+    "id": "8cb38750-9fcf-441f-9403-2efa1c2cc820",
+    "title": "Ep05 · Make it sing? - | CIOL (Chartered Institute of Linguists)",
+    "type": "web_page",
+    "url": "https://www.ciol.org.uk/make-it-sing",
+    "status": 2
+  },
+  {
+    "id": "188169ed-eef4-4dd8-ae8d-d18a8c1320be",
+    "title": "Ep05 · Melodia, texto e O cancionista, de Luiz Tatit: novos rumos para os estudos da música popular brasileira (trad. Renata Mancini)",
+    "type": "pdf",
+    "url": "https://revistas.usp.br/teresa/article/download/116391/113976",
+    "status": 2
+  },
+  {
+    "id": "efed69b1-63aa-4a26-9cd6-a9f91a3a5cb9",
+    "title": "Ep05 · Ordem e desordem em \"Fora da Ordem\"",
+    "type": "pdf",
+    "url": null,
+    "status": 2
+  },
+  {
+    "id": "d469650a-0f45-4af9-8e1d-469b51fa7918",
+    "title": "Ep05 · Pelas redes da tradução: um estudo do conceito de transcriação, de Haroldo de Campos...",
+    "type": "pdf",
+    "url": null,
+    "status": 2
+  },
+  {
+    "id": "2a4351c5-b2e8-439d-944c-f636781a4a54",
+    "title": "Ep05 · Prosodic Dissonance (MTO 30.2)",
+    "type": "web_page",
+    "url": "https://mtosmt.org/issues/mto.24.30.2/mto.24.30.2.smith.html",
+    "status": 2
+  },
+  {
+    "id": "4b612fef-bb45-42c8-b1a8-9c7cc11af32d",
+    "title": "Ep05 · Prosodic Structure as a Parallel to Musical Structure",
+    "type": "generated_text",
+    "url": null,
+    "status": 2
+  },
+  {
+    "id": "6ad4f2f5-9b38-49a2-a00b-bbc41aa778de",
+    "title": "Ep05 · Prosody in Music and Songwriting",
+    "type": "web_page",
+    "url": "https://online.berklee.edu/takenote/prosody-in-music-and-songwriting/",
+    "status": 2
+  },
+  {
+    "id": "1232e719-6efd-4fdc-92de-33eae781b269",
+    "title": "Ep05 · Resenha de Franzon, Greenall, Kvam & Parianou (eds.), Song Translation: Lyrics in Contexts",
+    "type": "web_page",
+    "url": "https://www.jostrans.org/article/download/7993/7840?inline=1",
+    "status": 2
+  },
+  {
+    "id": "4d953dd5-f701-428b-9277-43c4146328c7",
+    "title": "Ep05 · Resenha de Low, P. (2017) Translating Song: Lyrics and Texts",
+    "type": "pdf",
+    "url": "https://www.jostrans.soap2.ch/issue29/rev_low.pdf",
+    "status": 2
+  },
+  {
+    "id": "cd6a8bce-e32b-4fe6-9401-91abe5c37973",
+    "title": "Ep05 · Rhythmic Variability in European Vocal Music",
+    "type": "pdf",
+    "url": "https://davidtemperley.com/wp-content/uploads/2017/11/temperley-mp17.pdf",
+    "status": 2
+  },
+  {
+    "id": "be842274-0132-4d3a-becf-66042328dc20",
+    "title": "Ep05 · Song Lyrics Adaptations: Computational Interpretation of the Pentathlon Principle - ACL Anthology",
+    "type": "pdf",
+    "url": "https://aclanthology.org/2025.nlp4dh-1.11.pdf",
+    "status": 2
+  },
+  {
+    "id": "8cb0bcef-68c0-4989-aa25-7c503a9a6983",
+    "title": "Ep05 · Stress Deafness in a Language with Fixed Word Stress: An ERP Study on Polish",
+    "type": "generated_text",
+    "url": null,
+    "status": 2
+  },
+  {
+    "id": "2d6dfa97-549b-41c6-a190-1d632f641625",
+    "title": "Ep05 · The Music of Poetry: Chopin's Polish Songs",
+    "type": "web_page",
+    "url": "https://interlude.hk/the-music-of-poetry-chopins-polish-songs/",
+    "status": 2
+  },
+  {
+    "id": "4a5bd29f-3e2d-4dd9-a075-8848351569cf",
+    "title": "Ep05 · Transcriação e crítica literária – Haroldo de Campos e o papel epistêmico do ícone",
+    "type": "web_page",
+    "url": "https://www.scielo.br/j/ct/a/jK4t8rYzjSDdPvqs7RHvBww/?format=html&lang=pt",
+    "status": 2
+  },
+  {
+    "id": "488eab2d-c8d5-4850-b7d9-d58d211b95d4",
+    "title": "Ep05 · Versificazione",
+    "type": "web_page",
+    "url": "https://www.treccani.it/enciclopedia/versificazione_(Enciclopedia-dell'Italiano)/",
+    "status": 2
+  },
+  {
+    "id": "3c23cf14-eb0c-4985-9430-2268495768ea",
+    "title": "Ep05 · Vowel reduction in Russian classical singing: the case of unstressed /a/ after palatalised consonants",
+    "type": "pdf",
+    "url": "https://www.italian-journal-linguistics.com/app/uploads/2021/05/4_Konoshenko.pdf",
+    "status": 2
+  },
+  {
+    "id": "616fd773-9a9d-4149-afbd-2f17bc211e8f",
+    "title": "Ep06 · 7.4: Introduction to Form in Popular Music (Open Music Theory 2e)",
+    "type": "web_page",
+    "url": "https://human.libretexts.org/Bookshelves/Music/Music_Theory/Open_Music_Theory_2e_(Gotham_et_al.)/07%3A_Popular_Music/7.04%3A_Introduction_to_Form_in_Popular_Music",
+    "status": 2
+  },
+  {
+    "id": "78ae1653-3597-4f27-beb3-bb68e0f3f2dc",
+    "title": "Ep06 · 7.6: Verse-Chorus Form (Open Music Theory 2e)",
+    "type": "web_page",
+    "url": "https://human.libretexts.org/Bookshelves/Music/Music_Theory/Open_Music_Theory_2e_(Gotham_et_al.)/07%3A_Popular_Music/7.06%3A_Verse-Chorus_Form",
+    "status": 2
+  },
+  {
+    "id": "507270ec-689e-45b1-93e8-216adbd74ed5",
+    "title": "Ep06 · AABA, Refrain, Chorus, Bridge, Prechorus - Song Forms and their Historical Development",
+    "type": "pdf",
+    "url": "https://d-nb.info/1069484245/34",
+    "status": 2
+  },
+  {
+    "id": "3dc71a58-53d0-4d7a-9257-a9a8d7125be1",
+    "title": "Ep06 · MTO 28.2: Stroud, Codetta and Anthem Postchorus Types - Music Theory Online",
+    "type": "web_page",
+    "url": "https://www.mtosmt.org/issues/mto.22.28.2/mto.22.28.2.stroud.html",
+    "status": 2
+  },
+  {
+    "id": "0245801e-41fd-4dff-962e-79481c6df22c",
+    "title": "Ep06 · On popular music and media: Analyzing changes in compositional practices and music listening choice behavior using attention economy principles (tese)",
+    "type": "pdf",
+    "url": "https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=osu1523284232353463&disposition=inline",
+    "status": 2
+  },
+  {
+    "id": "525bab11-4486-4684-898d-1353048899bd",
+    "title": "Ep06 · Quantitative Analysis of Songs with Over a Billion Streams",
+    "type": "pdf",
+    "url": null,
+    "status": 2
+  },
+  {
+    "id": "01afefe4-06ce-469f-85ba-0261ecb62c83",
+    "title": "Ep06 · Structural and Rhetorical Closure in 1970s Rock Songs (MTO 32.1)",
+    "type": "web_page",
+    "url": "https://www.mtosmt.org/issues/mto.26.32.1/mto.26.32.1.braae.html",
+    "status": 2
+  },
+  {
+    "id": "0898e5d6-bd9e-478a-a941-6b5537689e75",
+    "title": "Ep06 · Teleology in Verse–Prechorus–Chorus Form, 1965–2020 (MTO 28.3)",
+    "type": "web_page",
+    "url": "https://mtosmt.org/issues/mto.22.28.3/mto.22.28.3.nobile.html",
+    "status": 2
+  },
+  {
+    "id": "61422b5d-c722-40d7-9273-06e9bead5035",
+    "title": "Ep07 · Auditory Distraction During Reading: A Bayesian Meta-Analysis of a Continuing Controversy",
+    "type": "generated_text",
+    "url": null,
+    "status": 2
+  },
+  {
+    "id": "1f39cc92-643b-4a4a-a6c7-2324ac8c2be2",
+    "title": "Ep07 · Constitution on the Sacred Liturgy Sacrosanctum Concilium (cap. VI, \"Sacred Music\", arts. 112–121)",
+    "type": "web_page",
+    "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_en.html",
+    "status": 2
+  },
+  {
+    "id": "d8e3b1e6-f29b-4ec5-8da5-5b2a124fb57d",
+    "title": "Ep07 · Effect of music on driving performance and physiological and psychological indicators: A systematic review and meta-analysis study",
+    "type": "generated_text",
+    "url": null,
+    "status": 2
+  },
+  {
+    "id": "3b282366-3da5-4341-8035-cf03e3145649",
+    "title": "Ep07 · Effects of music interventions on stress-related outcomes: a systematic review and two meta-analyses",
+    "type": "pdf",
+    "url": "https://pure.uva.nl/ws/files/58927620/Effects_of_music_interventions_on_stress_related_outcomes_a_systematic_review_and_two_meta_analyses.pdf",
+    "status": 2
+  },
+  {
+    "id": "7fa5445b-2cc5-482b-acc0-c495256f4747",
+    "title": "Ep07 · How Does Background Music Affect Dining Duration, Tips and Bill Amounts in Restaurants? A Field Experiment",
+    "type": "web_page",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11673941/",
+    "status": 2
+  },
+  {
+    "id": "20902b72-e0a1-4067-ace8-e68f12082d9c",
+    "title": "Ep07 · Instruction on Music in the Liturgy Musicam Sacram",
+    "type": "web_page",
+    "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_instr_19670305_musicam-sacram_en.html",
+    "status": 2
+  },
+  {
+    "id": "3c196ae0-a9a8-4711-a80f-0b7159ff59ca",
+    "title": "Ep07 · Music listening and stress recovery in healthy individuals: A systematic review with meta-analysis of experimental studies",
+    "type": "generated_text",
+    "url": null,
+    "status": 2
+  },
+  {
+    "id": "86cbf298-2884-4e39-9709-d85e10808f90",
+    "title": "Ep07 · Practical Approaches to Balancing Music and Safety in the Operating Room: A Systematic and Narrative Review",
+    "type": "web_page",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13155495/",
+    "status": 2
+  },
+  {
+    "id": "54b52a2b-1d29-41fa-b74e-1882b6289741",
+    "title": "Ep07 · Sensorimotor coupling in music and the psychology of the groove (manuscrito do autor)",
+    "type": "pdf",
+    "url": null,
+    "status": 2
+  },
+  {
+    "id": "96475b97-a9e0-4a83-87d3-03b92263adc0",
+    "title": "Ep07 · Should We Turn off the Music? Music with Lyrics Interferes with Cognitive Tasks",
+    "type": "web_page",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10162369/",
+    "status": 2
+  },
+  {
+    "id": "02ec6072-3e51-4b39-85be-2bc35790ef48",
+    "title": "Ep07 · Syncopation, Body-Movement and Pleasure in Groove Music",
+    "type": "web_page",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0094446",
+    "status": 2
+  },
+  {
+    "id": "12fd179c-3f89-4ba5-bf4a-de346cb654e2",
+    "title": "Ep07 · The psychological functions of music listening",
+    "type": "web_page",
+    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00511/full",
+    "status": 2
+  },
+  {
+    "id": "8699884c-8fee-4e75-a8c0-821d7f6ba1f4",
+    "title": "Ep07 · Wine and Music (I): On the Crossmodal Matching of Wine and Music",
+    "type": "generated_text",
+    "url": null,
+    "status": 2
+  },
+  {
+    "id": "bcc3920a-ba3c-4e88-bd15-3c92f845a331",
+    "title": "Ep07 · Wine psychology: basic & applied",
+    "type": "generated_text",
+    "url": null,
+    "status": 2
+  },
+  {
+    "id": "9db3a075-870d-4201-8256-9d608f4dbe02",
+    "title": "Ep08 · Andalusian Nuba",
+    "type": "web_page",
+    "url": "https://jewish-music.huji.ac.il/en/content/andalusian-nuba",
+    "status": 2
+  },
+  {
+    "id": "cf9a3034-38e8-4ff8-8cd0-a5e913febc3f",
+    "title": "Ep08 · Arabic Maqam",
+    "type": "web_page",
+    "url": "https://www.maqamworld.com/en/maqam.php",
+    "status": 2
+  },
+  {
+    "id": "85e10580-4cb7-4a4f-a713-2787420eb527",
+    "title": "Ep08 · Artur Paredes",
+    "type": "web_page",
+    "url": "https://www.museudofado.pt/en/fado/persolanity/artur-paredes-en",
+    "status": 2
+  },
+  {
+    "id": "b2a7447c-27d0-4e55-9a5d-b3897bffbf1a",
+    "title": "Ep08 · Beyond the Classroom: World Music from the Musician's Point of View",
+    "type": "pdf",
+    "url": null,
+    "status": 2
+  },
+  {
+    "id": "49f5f08b-79bc-4997-867c-41f3c6af959b",
+    "title": "Ep08 · Byzantine chant",
+    "type": "web_page",
+    "url": "https://ich.unesco.org/en/RL/byzantine-chant-01508",
+    "status": 2
+  },
+  {
+    "id": "ef2878e4-3570-4f69-9eac-0507eb2b77db",
+    "title": "Ep08 · Ensaio sobre a Música Brasileira (texto da 3ª ed., com comentário de Cláudia Neiva de Matos)",
+    "type": "pdf",
+    "url": null,
+    "status": 2
+  },
+  {
+    "id": "84f468e5-a282-4e58-a37b-4b1052bf8c40",
+    "title": "Ep08 · Fado, urban popular song of Portugal",
+    "type": "web_page",
+    "url": "https://ich.unesco.org/en/RL/fado-urban-popular-song-of-portugal-00563",
+    "status": 2
+  },
+  {
+    "id": "214d2c02-9482-479f-bb8e-95237c5c8383",
+    "title": "Ep08 · Flamenco",
+    "type": "web_page",
+    "url": "https://ich.unesco.org/en/RL/flamenco-00363",
+    "status": 2
+  },
+  {
+    "id": "51495b88-1b96-45cc-80a2-a322e9961029",
+    "title": "Ep08 · La saeta en la Semana Santa cartagenera",
+    "type": "pdf",
+    "url": "https://revistas.um.es/rmu/article/download/216691/170661/767551",
+    "status": 2
+  },
+  {
+    "id": "7304b8b9-0686-4b37-b155-bd414596e5fd",
+    "title": "Ep08 · La terminología musical del flamenco: el sistema modal y los modos en la música flamenca",
+    "type": "pdf",
+    "url": "https://ia803103.us.archive.org/25/items/revista_de_flamencologia-30/RDF_30-05-LA_TERMINOLOGIA_MUSICAL_DEL_FLAMENCO-LOLA_FERNANDEZ_MARIN.pdf",
+    "status": 2
+  },
+  {
+    "id": "1c904a91-7b64-4b67-ae13-8caf1a6b92cb",
+    "title": "Ep08 · Lost Voices of Hagia Sophia: Medieval Byzantine Chant Sung in the Virtual Acoustics of Hagia Sophia",
+    "type": "pdf",
+    "url": "https://openaccess.city.ac.uk/id/eprint/23941/1/Lost%20Voices%20of%20Hagia%20Sophia%20booklet-CR420-CDBR.pdf",
+    "status": 2
+  },
+  {
+    "id": "b0c5647b-b662-4d7d-bb3a-bef27ad3cab0",
+    "title": "Ep08 · Mevlevi Sema ceremony",
+    "type": "web_page",
+    "url": "https://ich.unesco.org/en/RL/mevlevi-sema-ceremony-00100",
+    "status": 2
+  },
+  {
+    "id": "33f7fc6e-836a-4bfa-9c06-becd011bd539",
+    "title": "Ep08 · Modality vs. Chordal Harmony: Hybrid Aspects of Rebetiko During the Interwar Period",
+    "type": "web_page",
+    "url": "https://ejournals.lib.auth.gr/smb/article/view/7945",
+    "status": 2
+  },
+  {
+    "id": "b8db6ea2-4790-4b3e-9041-27873514b638",
+    "title": "Ep08 · Modes in Klezmer Music: A Corpus Study Based on Beregovski's Jewish Instrumental Folk Music (MTO 31.3)",
+    "type": "web_page",
+    "url": "https://www.mtosmt.org/issues/mto.25.31.3/mto.25.31.3.malin.html",
+    "status": 2
+  },
+  {
+    "id": "444ded17-1541-4ab9-a21e-7e3c42b1fa0e",
+    "title": "Ep08 · Morna, musical practice of Cabo Verde",
+    "type": "web_page",
+    "url": "https://ich.unesco.org/en/RL/morna-musical-practice-of-cabo-verde-01469",
+    "status": 2
+  },
+  {
+    "id": "283ece0a-10b1-4498-aad0-28a96dc33f62",
+    "title": "Ep08 · O papel da morna na afirmação da identidade nacional em Cabo Verde",
+    "type": "web_page",
+    "url": "http://hdl.handle.net/10362/15256",
+    "status": 2
+  },
+  {
+    "id": "1a988c88-dc6e-4424-b4ba-2599d955f102",
+    "title": "Ep08 · Rebetiko",
+    "type": "web_page",
+    "url": "https://ich.unesco.org/en/RL/rebetiko-01291",
+    "status": 2
+  },
+  {
+    "id": "270cfd64-2fc1-4e7b-a1fa-0dd4254edbf1",
+    "title": "Ep08 · Review-essay of Link & Wendland, Tracing Tangueros (MTO 25.3)",
+    "type": "web_page",
+    "url": "https://mtosmt.org/issues/mto.19.25.3/mto.19.25.3.turciescobar.html",
+    "status": 2
+  },
+  {
+    "id": "123ee6cf-7a73-40a0-999f-f31d191d65b4",
+    "title": "Ep08 · Saetas",
+    "type": "web_page",
+    "url": "https://www.juntadeandalucia.es/aaiicc/flamenco/content/saetas",
+    "status": 2
+  },
+  {
+    "id": "6a069cb6-906f-42b3-9d9c-d4cc408149ce",
+    "title": "Ep08 · Tango",
+    "type": "web_page",
+    "url": "https://ich.unesco.org/en/RL/tango-00258",
+    "status": 2
+  },
+  {
+    "id": "09986b7e-dad6-4199-8d5c-02eb6fbb344f",
+    "title": "Ep08 · The Oud Across Arabic Culture (Bilād al-Shām, Iraq, and Egypt) Seifed-Din Shehadeh Abdoun, Do - The Chrysalis Foundation",
+    "type": "pdf",
+    "url": "http://www.chrysalis-foundation.org/Abdoun_umd_0117E_12513.pdf",
+    "status": 2
+  },
+  {
+    "id": "485e7578-ef72-4102-bd36-4a2c764c547c",
+    "title": "Ep08 · Turkey: The Turkish Ney",
+    "type": "pdf",
+    "url": "https://folkways-media.si.edu/docs/folkways/artwork/UNES08204.pdf",
+    "status": 2
+  },
+  {
+    "id": "1e31a459-b729-4f4e-acfe-76c38d0c8d64",
+    "title": "Ep09 · Asymilacja ludowych pierwowzorów w polskiej pieśni artystycznej — zarys problematyki",
+    "type": "web_page",
+    "url": "https://czasopisma.ujd.edu.pl/index.php/EM/article/view/519",
+    "status": 2
+  },
+  {
+    "id": "17c680c4-ff5c-4f65-90c5-9ce462d40b65",
+    "title": "Ep09 · Bistritsa Babi, archaic polyphony, dances and rituals from the Shoplouk region",
+    "type": "web_page",
+    "url": "https://ich.unesco.org/en/RL/bistritsa-babi-archaic-polyphony-dances-and-rituals-from-the-shoplouk-region-00095",
+    "status": 2
+  },
+  {
+    "id": "4e7f4bb5-d95c-4f5d-b5ed-f83d9cc3f5f0",
+    "title": "Ep09 · Epic Tunes from the Collection by Kirsha Danilov and Traditions of Northern Bylina Melodies",
+    "type": "pdf",
+    "url": null,
+    "status": 2
+  },
+  {
+    "id": "2f54831a-c269-439e-9c1f-ae2c3f881978",
+    "title": "Ep09 · Georgian Traditional Polyphony: Modern Trends and Perspectives of Development",
+    "type": "pdf",
+    "url": "https://polyphony.ge/wp-content/uploads/2025/01/Modern-Trends-and-Perspectives.pdf",
+    "status": 2
+  },
+  {
+    "id": "39cffce6-f980-4c6f-bbf6-bb9753662e98",
+    "title": "Ep09 · Georgian polyphonic singing",
+    "type": "web_page",
+    "url": "https://ich.unesco.org/en/RL/georgian-polyphonic-singing-00008",
+    "status": 2
+  },
+  {
+    "id": "63c568fe-175a-4d52-98a5-e97518d4da1b",
+    "title": "Ep09 · Oberek (Obertas)",
+    "type": "web_page",
+    "url": "https://polishmusic.usc.edu/research/dances/oberek/",
+    "status": 2
+  },
+  {
+    "id": "395a0dc6-2c40-4c0c-a75c-34ef3529a6ad",
+    "title": "Ep09 · Oberek (niestylizowany)",
+    "type": "web_page",
+    "url": "https://tance.edu.pl/tance/oberek-2/",
+    "status": 2
+  },
+  {
+    "id": "848121de-36ca-4e2e-ae46-30e18a176456",
+    "title": "Ep09 · Russia (World Centres of Polyphony)",
+    "type": "web_page",
+    "url": "https://polyphony.ge/en/russia/",
+    "status": 2
+  },
+  {
+    "id": "024c889e-6ce1-460a-9d70-ec0ce2c957df",
+    "title": "Ep09 · Songs of a Russian Gypsy",
+    "type": "pdf",
+    "url": "https://folkways-media.si.edu/docs/folkways/artwork/MON00404.pdf",
+    "status": 2
+  },
+  {
+    "id": "e0b9c3c5-b2e9-48f8-91a4-2f0c79add37e",
+    "title": "Ep09 · The Genre-Related and Stylistic Explication of the Song Tradition of the Belgorod Region",
+    "type": "pdf",
+    "url": null,
+    "status": 2
+  },
+  {
+    "id": "99babb66-d880-4649-b9c4-8c72a1dc1442",
+    "title": "Ep09 · Traditional Polish lullabies",
+    "type": "pdf",
+    "url": "https://www.folklore.ee/pubte/eraamat/eestipoola2/sikora.zebrowska.pdf",
+    "status": 2
+  },
+  {
+    "id": "65154ffe-67be-434b-9556-0c471b67b766",
+    "title": "Ep09 · Znamenny Chant for the 21st Century",
+    "type": "web_page",
+    "url": "https://orthodoxartsjournal.org/znamenny-chant-for-the-21st-century/",
+    "status": 2
+  },
+  {
+    "id": "9aa9edad-cec7-4de5-8fcb-639ea7b43472",
+    "title": "Ep10 · Composition and Improvisation in Cross-Cultural Perspective — Gamelan",
+    "type": "generated_text",
+    "url": null,
+    "status": 2
+  },
+  {
+    "id": "264956df-90af-4a93-87bd-b52275f93f75",
+    "title": "Ep10 · Crossing Paths: Musical and Ritual Interactivity between the Ḥamadsha and Gnawa in Sidi Ali, Morocco",
+    "type": "web_page",
+    "url": "https://elischolar.library.yale.edu/yjmr/vol2/iss2/10",
+    "status": 2
+  },
+  {
+    "id": "49e883a8-b63e-4c5b-8191-d8ec6fc0f910",
+    "title": "Ep10 · Gamelan",
+    "type": "web_page",
+    "url": "https://ich.unesco.org/en/RL/gamelan-01607",
+    "status": 2
+  },
+  {
+    "id": "14a1b0fa-70dc-40b6-bcaf-e7ccd683414d",
+    "title": "Ep10 · Gnawa",
+    "type": "web_page",
+    "url": "https://ich.unesco.org/en/RL/gnawa-01170",
+    "status": 2
+  },
+  {
+    "id": "ded18b4a-71b7-4fff-bff9-e7930b4f3949",
+    "title": "Ep10 · John Collins: Ghana, Then and Now (entrevista)",
+    "type": "web_page",
+    "url": "https://www.afropop.org/articles/john-collins-ghana-then-and-now-part-1",
+    "status": 2
+  },
+  {
+    "id": "6d13637c-211e-4672-b571-c45672bae876",
+    "title": "Ep10 · Kora: in search of the origins of West Africa's famed stringed musical instrument",
+    "type": "generated_text",
+    "url": null,
+    "status": 2
+  },
+  {
+    "id": "6d180478-808d-4ecb-94fb-4ba7891c9fc7",
+    "title": "Ep10 · Michael Veal on Tony Allen (entrevista)",
+    "type": "web_page",
+    "url": "https://www.afropop.org/articles/michael-veal-on-tony-allen",
+    "status": 2
+  },
+  {
+    "id": "8d4b074a-2483-4379-880f-017b70296e88",
+    "title": "Ep10 · Music of the Shakuhachi",
+    "type": "pdf",
+    "url": "https://folkways-media.si.edu/docs/folkways/artwork/FW04218.pdf",
+    "status": 2
+  },
+  {
+    "id": "546a7789-d178-482a-8825-7794d4d1a2a0",
+    "title": "Ep10 · Qawwali Routes: Notes on a Sufi Music's Transformation in Diaspora",
+    "type": "pdf",
+    "url": "https://pdfs.semanticscholar.org/fdd7/73824c60bf1db8974d3160b82da6eb5cdc0c.pdf",
+    "status": 2
+  },
+  {
+    "id": "a37a5b3d-6850-4b82-8e8a-6d4a47d4ba9d",
+    "title": "Ep10 · Rāgs Around the Clock: A Handbook for North Indian Classical Music, with Online Recordings in the Khayāl Style",
+    "type": "pdf",
+    "url": null,
+    "status": 2
+  },
+  {
+    "id": "c9e75a0f-6bdf-4d78-af82-fecb142157a2",
+    "title": "Ep10 · Shakuhachi: The History and Practice of Suizen",
+    "type": "web_page",
+    "url": "https://japanhouse.illinois.edu/education/insights/shakuhachi",
+    "status": 2
+  },
+  {
+    "id": "bea63e5c-755a-45d9-9364-0ed486d92d3a",
+    "title": "Ep10 · Temporal and Density Flow in Javanese Gamelan",
+    "type": "pdf",
+    "url": "https://sumarsam.faculty.wesleyan.edu/files/2023/01/4_Temporal_and_Density_Flow.pdf",
+    "status": 2
+  },
+  {
+    "id": "9de35daf-6863-44b0-b29b-a91e5adb3e6f",
+    "title": "Ep10 · The Japanese Koto",
+    "type": "pdf",
+    "url": "https://folkways-media.si.edu/docs/folkways/artwork/COOK01132.pdf",
+    "status": 2
+  },
+  {
+    "id": "1be1f91c-e318-499f-928c-7e5273f76478",
+    "title": "Ep10 · The Reception of Western Music in the Enka of the Meiji and Taisho Periods",
+    "type": "web_page",
+    "url": "https://www.jstage.jst.go.jp/article/toyoongakukenkyu1936/1989/53/1989_53_1/_article",
+    "status": 2
+  }
+]
