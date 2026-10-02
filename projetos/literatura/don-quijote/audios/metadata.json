@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-01T20:00:18.227288",
+  "atualizado": "2026-10-01T21:06:33.298671",
   "audios": [
     {
       "seq_global": 1,
@@ -3287,7 +3287,40 @@
       "cap": 80,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-01T20:00:18.222550",
+      "data": "2026-10-01T21:00:10.413913",
+      "status": "created",
+      "artifact_id": "eb6bbef5-7c58-4011-a5e8-d9a2fd19ce0b"
+    },
+    {
+      "seq_global": 254,
+      "arquivo": "254_cap-080_cena-002_La-furia-contra-los-titeres-de-pasta.m4a",
+      "titulo": "La furia contra los títeres de pasta",
+      "cap": 80,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-01T21:02:15.876842",
+      "status": "created",
+      "artifact_id": "fd9efa4f-7762-4d62-b16e-3baa2d28858c"
+    },
+    {
+      "seq_global": 255,
+      "arquivo": "255_cap-080_cena-003_El-lamento-los-encantadores-y-la-cuenta-pagada.m4a",
+      "titulo": "El lamento, los encantadores y la cuenta pagada",
+      "cap": 80,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-01T21:04:21.440756",
+      "status": "created",
+      "artifact_id": "81f6bb0e-6346-4e39-a36e-3b122f690304"
+    },
+    {
+      "seq_global": 256,
+      "arquivo": "256_cap-081_cena-001_El-desenmascaramiento-de-maese-Pedro.m4a",
+      "titulo": "El desenmascaramiento de maese Pedro",
+      "cap": 81,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-01T21:06:33.295338",
       "status": "deferred"
     }
   ]
