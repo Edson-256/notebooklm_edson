@@ -31,7 +31,7 @@
 | Vaneira / vaneirão | da habanera, em 2/4, com três células de acompanhamento: (a) colcheia pontuada / semicolcheia / colcheia / colcheia (a célula da habanera); (b) a mesma, com a semicolcheia ligada à colcheia; (c) colcheia / semicolcheia / semicolcheia / colcheia / colcheia. Vaneirão: "o que permite diferenciar um vaneirão de uma vaneira é o seu **andamento**" | Wolffenbüttel #32 | conferido (corrigido em 02/10: a versão anterior citava a frase do parágrafo do vaneirão, "colcheia pontuada/colcheia/colcheia", que soma 7 semicolcheias e não fecha o 2/4 — provável erro de digitação do próprio texto; achado do agente da sessão musica_composicao) |
 | Guitarra Lisboa × Coimbra | Lisboa si-lá-mi-si-lá-ré; Coimbra lá-sol-ré-lá-sol-dó, um tom abaixo; a de Coimbra é maior e mais simples | Sergl #35, citando Henrique 1994 | conferido |
 | Origem do fado | Sergl: "gênero inicialmente popular no Brasil, migra para Portugal provavelmente em 1821" | Sergl #35 | **contestado** — tese de um autor; não afirmar sem Nery (pago) |
-| Modos do baião | trechos harmonizados em Im7–IV7 "que apresentam a sonoridade do modo **dórico**" e melodias "sobre o modo **mixolídio**" | Côrtes #71 | conferido — o baião não é só mixolídio |
+| Modos do baião | três leituras: Côrtes (#71) — trechos em Im7–IV7 "que apresentam a sonoridade do modo **dórico**" e melodias "sobre o modo **mixolídio**"; Lucena (#74, p. 22) — "os modos mais utilizados são" mixolídio, lídio e jônico, sem dórico; dossiê IPHAN (#70) — só "o chamado modo mixolídio" | #71, #74, #70 | conferido — divergência real; apresentar as três (Lucena e IPHAN acrescentados em 02/10, achado da sessão musica_composicao) |
 | Compás do flamenco | Berlanga escreve 3+3+2+2+2; De las Heras registra a escrita em amálgama. O compás leva o nome do palo | Berlanga #39, De las Heras #41 | do relatório Claude; acentos por palo agora com fonte institucional (Instituto Andaluz #6 #7 #8) |
 | Paradigma do Estácio | Sandroni (pago) × crítica de Ferraz (2025) | Ferraz #55 | do relatório Claude — apresentar os dois |
 | "Canto falado" de João Gilberto | ruptura (crítica) × descritor construído, porque Mário Reis já cantava assim (Souza) | Souza #48, Ricci #47 | do relatório Claude |
@@ -55,7 +55,8 @@ o tempo, então não dá para comparar com o ≈ 70 da guarânia.
 | chamamé × rancheira | acento no 3º tempo por "puxada" de fole, no chamamé, em vez do 1º #32 | uma fonte, explícita |
 | chamamé × guarânia | mesma família paraguaia; guarânia a mais lenta #21 #31 | sem andamento do chamamé |
 | milonga × tango | 3+3+2 #60 #33 × marcato/síncopa/arrastre #59 #61 | razoável |
-| vanera × xote | Wolffenbüttel #32 trata os dois sem confrontar; xote "um dos mais lentos" no forró #70 | fraco |
+| vanera × xote | Wolffenbüttel #32 trata os dois sem confrontar | fraco |
+| xote gaúcho × xote nordestino | #32 (citando Bangel 1989): "O modo maior domina o chotes gaúcho, ao contrário do nordestino, em que o modo menor aparece com muita frequência, além da elevação do 4º e abaixamento do 7º grau"; andamento: gaúcho "rápido, de caráter alegre", parecido com a polca (#32) × nordestino "um dos gêneros mais lentos do forró" (#70) | modo: uma fonte, explícita; andamento: inferência entre duas fontes (02/10) |
 | toada × moda de viola | sem critério rítmico em fonte aberta | **lacuna** |
 | cateretê × cururu | batidas separadas em #18 e #25 | sem comparação lado a lado |
 | fado Lisboa × Coimbra | afinação, voz, função #35 #36 #37 | bom |
