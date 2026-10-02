@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-02T14:00:15.812091",
+  "atualizado": "2026-10-02T15:04:30.790736",
   "audios": [
     {
       "seq_global": 1,
@@ -3326,7 +3326,29 @@
       "cap": 81,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-02T14:00:15.807226",
+      "data": "2026-10-02T15:00:11.652595",
+      "status": "created",
+      "artifact_id": "3b254e8e-1900-456e-b658-b7c7e78b0592"
+    },
+    {
+      "seq_global": 257,
+      "arquivo": "257_cap-081_cena-002_El-sermon-sobre-la-guerra-justa-y-el-amor-al-enemigo.m4a",
+      "titulo": "El sermón sobre la guerra justa y el amor al enemigo",
+      "cap": 81,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-02T15:02:17.716907",
+      "status": "created",
+      "artifact_id": "42979450-fd74-491e-b148-f42eb05d8f79"
+    },
+    {
+      "seq_global": 258,
+      "arquivo": "258_cap-081_cena-003_El-rebuzno-de-Sancho-y-la-fuga.m4a",
+      "titulo": "El rebuzno de Sancho y la fuga",
+      "cap": 81,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-02T15:04:30.787185",
       "status": "deferred"
     }
   ]
