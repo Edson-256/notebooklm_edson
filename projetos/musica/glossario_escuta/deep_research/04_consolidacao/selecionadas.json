@@ -235,7 +235,7 @@
   "tipo": "livro-texto aberto",
   "nivel": "leigo",
   "url": "https://viva.pressbooks.pub/openmusictheory/chapter/minor-scales-scale-degrees-and-key-signatures/",
-  "arquivo": "",
+  "arquivo": "015_minor_scales_scale_degrees_and_key_signatures.md",
   "nota": "Pressbooks recusa leitor automático (CloudFront) — subir como arquivo, como na pesquisa 1",
   "por_que": "Explica formas da escala menor e graus, necessário antes de modos e harmonia."
  },
@@ -251,7 +251,7 @@
   "tipo": "livro-texto aberto",
   "nivel": "leigo",
   "url": "https://viva.pressbooks.pub/openmusictheory/chapter/triads/",
-  "arquivo": "",
+  "arquivo": "016_triads.md",
   "nota": "Pressbooks recusa leitor automático (CloudFront) — subir como arquivo, como na pesquisa 1",
   "por_que": "Define acorde por empilhamento de terças e qualidades de tríades."
  },
@@ -267,7 +267,7 @@
   "tipo": "livro-texto aberto",
   "nivel": "intermediário",
   "url": "https://tamucc.pressbooks.pub/stepstomusictheory/chapter/more-rhythm-meter/",
-  "arquivo": "",
+  "arquivo": "017_advanced_rhythm_and_meter.md",
   "nota": "Pressbooks recusa leitor automático (CloudFront) — subir como arquivo, como na pesquisa 1",
   "por_que": "Reúne síncope, hemiola, deslocamento de acentos e compassos irregulares com exemplos sonoros/notados."
  },
@@ -507,7 +507,7 @@
   "tipo": "artigo revisado",
   "nivel": "intermediário",
   "url": "https://www.seer.fundarte.rs.gov.br/RevistadaFundarte/en/article/download/757/pdf_74/1797",
-  "arquivo": "wolffenbuttel_musica_rs.pdf",
+  "arquivo": "032_wolffenbuttel_musica_rs.md",
   "nota": "vaneira em 2/4 de origem habanera; vaneirão = mesma base, mais rápido — conferido",
   "por_que": "Vaneira vinda da habanera, em 2/4, com células escritas (colcheia pontuada-semicolcheia-colcheia-colcheia) e vaneirão distinguido pelo andamento mais rápido, também xote, bugio, trova em milonga."
  },
@@ -875,7 +875,7 @@
   "tipo": "artigo revisado",
   "nivel": "técnico",
   "url": "https://econtents.sbu.unicamp.br/inpec/index.php/muspop/article/download/19941/14936/59924",
-  "arquivo": "",
+  "arquivo": "55.pdf",
   "nota": "",
   "por_que": "Resume e critica os paradigmas do tresillo e do Estácio de Sandroni, com linha de tempo do samba em notação — fonte aberta para o verbete síncope/tresillo no samba."
  },
@@ -907,7 +907,7 @@
   "tipo": "artigo revisado",
   "nivel": "intermediário",
   "url": "https://rbec.ect.ufrn.br/data/_uploaded/artigo/N2/RBEC_N2_A16.pdf",
-  "arquivo": "",
+  "arquivo": "57.pdf",
   "nota": "",
   "por_que": "Modinha e lundu de Caldas Barbosa e sua circulação atlântica, complementar."
  },
@@ -1291,7 +1291,7 @@
   "tipo": "artigo revisado",
   "nivel": "técnico",
   "url": "https://sites.nd.edu/choral-lit/files/2018/08/Mazo-Les-Noces-and-Wedding-Ritual.pdf",
-  "arquivo": "",
+  "arquivo": "81.pdf",
   "nota": "",
   "por_que": "Lamentos de casamento (prichitanie) colhidos pela autora no Norte russo e sua estrutura. Cópia JSTOR em site de curso da Notre Dame — conferir licença."
  },
@@ -1323,7 +1323,7 @@
   "tipo": "livro-texto aberto",
   "nivel": "leigo",
   "url": "https://viva.pressbooks.pub/openmusictheory/chapter/simple-meter-and-time-signatures/",
-  "arquivo": "",
+  "arquivo": "083_simple_meter_and_time_signatures.md",
   "nota": "Pressbooks recusa leitor automático (CloudFront) — subir como arquivo, como na pesquisa 1",
   "por_que": "Batida, unidade de tempo, binário/ternário/quaternário simples, com exemplos."
  },
@@ -1339,7 +1339,7 @@
   "tipo": "livro-texto aberto",
   "nivel": "leigo",
   "url": "https://viva.pressbooks.pub/openmusictheory/chapter/compound-meters-and-time-signatures/",
-  "arquivo": "",
+  "arquivo": "084_compound_meter_and_time_signatures.md",
   "nota": "Pressbooks recusa leitor automático (CloudFront) — subir como arquivo, como na pesquisa 1",
   "por_que": "Compasso composto: tempo dividido em três (6/8 com semínima pontuada) — degrau da cascata 6/8 → composto → ternário."
  },
@@ -1355,7 +1355,7 @@
   "tipo": "livro-texto aberto",
   "nivel": "leigo",
   "url": "https://viva.pressbooks.pub/openmusictheory/chapter/other-rhythmic-essentials/",
-  "arquivo": "",
+  "arquivo": "085_other_rhythmic_essentials.md",
   "nota": "Pressbooks recusa leitor automático (CloudFront) — subir como arquivo, como na pesquisa 1",
   "por_que": "Síncope criada por ligaduras, pontos, pausas ou dinâmica, quiálteras (tercina, duína)."
  },
@@ -1371,7 +1371,7 @@
   "tipo": "livro-texto aberto",
   "nivel": "intermediário",
   "url": "https://viva.pressbooks.pub/openmusictheory/chapter/metrical-dissonance/",
-  "arquivo": "",
+  "arquivo": "086_metrical_dissonance.md",
   "nota": "Pressbooks recusa leitor automático (CloudFront) — subir como arquivo, como na pesquisa 1",
   "por_que": "Define hemíola como dissonância de agrupamento 2 contra 3 e trata o tresillo como camada 3:4 — teoria por trás de chamamé e milonga."
  },
@@ -1387,7 +1387,7 @@
   "tipo": "livro-texto aberto",
   "nivel": "leigo",
   "url": "https://viva.pressbooks.pub/openmusictheory/chapter/rhythm-and-meter-in-pop-music/",
-  "arquivo": "",
+  "arquivo": "087_rhythm_and_meter_in_pop_music.md",
   "nota": "Pressbooks recusa leitor automático (CloudFront) — subir como arquivo, como na pesquisa 1",
   "por_que": "Nomeia o tresillo como 3+3+2, a síncope 'quase igual' mais comum."
  },
@@ -1403,7 +1403,7 @@
   "tipo": "livro-texto aberto",
   "nivel": "leigo",
   "url": "https://viva.pressbooks.pub/openmusictheory/chapter/intro-to-diatonic-modes-and-the-chromatic-scale/",
-  "arquivo": "",
+  "arquivo": "088_introduction_to_diatonic_modes_and_the_chromatic_s.md",
   "nota": "Pressbooks recusa leitor automático (CloudFront) — subir como arquivo, como na pesquisa 1",
   "por_que": "Modos como padrões de tons e semitons, do mais 'claro' ao mais 'escuro'."
  },
@@ -1419,7 +1419,7 @@
   "tipo": "livro-texto aberto",
   "nivel": "intermediário",
   "url": "https://viva.pressbooks.pub/openmusictheory/chapter/diatonic-modes/",
-  "arquivo": "",
+  "arquivo": "089_diatonic_modes.md",
   "nota": "Pressbooks recusa leitor automático (CloudFront) — subir como arquivo, como na pesquisa 1",
   "por_que": "Cada modo pela nota que o distingue (dórico = menor com 6ª elevada, frígio = menor com 2ª abaixada…) — direto para o 'modo de mi' e o 'modo nordestino'."
  },
@@ -1435,7 +1435,7 @@
   "tipo": "livro-texto aberto",
   "nivel": "leigo",
   "url": "https://viva.pressbooks.pub/openmusictheory/chapter/intervals/",
-  "arquivo": "",
+  "arquivo": "090_intervals.md",
   "nota": "Pressbooks recusa leitor automático (CloudFront) — subir como arquivo, como na pesquisa 1",
   "por_que": "Intervalos por tamanho e qualidade — base para 'cantar em terças'."
  },
@@ -1451,7 +1451,7 @@
   "tipo": "livro-texto aberto",
   "nivel": "intermediário",
   "url": "https://viva.pressbooks.pub/openmusictheory/chapter/seventh-chords/",
-  "arquivo": "",
+  "arquivo": "091_seventh_chords.md",
   "nota": "Pressbooks recusa leitor automático (CloudFront) — subir como arquivo, como na pesquisa 1",
   "por_que": "Os cinco tipos de tétrade (maior com 7ª maior, dominante, menor, meio-diminuto, diminuto) — base para a harmonia da bossa."
  },
@@ -1467,7 +1467,7 @@
   "tipo": "livro-texto aberto",
   "nivel": "intermediário",
   "url": "https://viva.pressbooks.pub/openmusictheory/chapter/embellishing-tones/",
-  "arquivo": "",
+  "arquivo": "092_embellishing_tones.md",
   "nota": "Pressbooks recusa leitor automático (CloudFront) — subir como arquivo, como na pesquisa 1",
   "por_que": "Notas de passagem, bordaduras, apojaturas — vocabulário de ornamentação (ainda na tradição erudita, não cobre melisma flamenco)."
  },

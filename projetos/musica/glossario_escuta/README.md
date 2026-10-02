@@ -4,7 +4,7 @@
   teoria) que a sessão `musica_composicao` vai escrever e ligar ao app de escuta. **Sem áudio.**
   Pauta: `~/dev/_pessoal/musica_composicao/catalogo/escuta/PAUTA_PESQUISA_GLOSSARIO.md`.
 - **Tarefa:** `notebooklm_edson-mmf9` (deste lado) · `musica_composicao-m6wl` (do lado de lá).
-- **Notebook:** o mesmo da pesquisa 1, `4ac56794-d00a-436a-a446-24f1161cd9bd`; fontes desta pesquisa
+- **Notebook:** o mesmo da pesquisa 1, `4ac56794-d00a-436a-a446-24f1161cd9bd` — **100 fontes "Gloss ·" carregadas em 2026-10-02** (101 aprovadas; #14, Chenette sobre hemíola, bloqueada pelo site). Fontes desta pesquisa
   entram com o prefixo `Gloss ·` no título (as da pesquisa 1 têm `EpNN ·`).
 - **Método:** igual ao de `../teoria_escuta_critica/` — três pesquisadores (ChatGPT, agente Claude,
   Deep Research do NotebookLM) → consolidação com decisão e motivo por fonte (CSV) → aprovação do
@@ -23,3 +23,10 @@
 | `deep_research/04_consolidacao/selecionadas.json` | as 101 selecionadas (url, família, prioridade, nota, `arquivo` quando sobe como arquivo) |
 | `deep_research/04_consolidacao/juntar.py`, `consolidar.py` | geram `_bruto.json` e os dois arquivos acima |
 | `deep_research/05_arquivos_enviados/` | PDFs que o servidor não entrega a leitor automático (fora do git; rebaixáveis pela URL) |
+
+## Carga no notebook (2026-10-02)
+
+- `04_consolidacao/inserir.py` (idempotente) → `adicionadas.jsonl` (source_id e palavras por fonte). Título: `Gloss · <família> · <título>`.
+- Subiram como arquivo: 13 capítulos do Open Music Theory/Pressbooks (.md), as teses de Corrêa, Vilela e Castela, Wolffenbüttel (.md) e
+  três PDFs cujo link o NotebookLM recusou (Ferraz, Grecco, Mazo).
+- Para usar só o glossário numa consulta, selecione no notebook as fontes que começam com `Gloss ·` (ou `Gloss · F2` para uma família).
