@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-02T20:00:12.837399",
+  "atualizado": "2026-10-02T21:02:23.293705",
   "audios": [
     {
       "seq_global": 1,
@@ -3352,7 +3352,18 @@
       "cap": 81,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-02T20:00:12.833301",
+      "data": "2026-10-02T21:00:10.576273",
+      "status": "created",
+      "artifact_id": "f7ede268-7772-4b0e-b235-66694cff10ee"
+    },
+    {
+      "seq_global": 259,
+      "arquivo": "259_cap-082_cena-001_No-huye-el-que-se-retira.m4a",
+      "titulo": "No huye el que se retira",
+      "cap": 82,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-02T21:02:23.290491",
       "status": "deferred"
     }
   ]
