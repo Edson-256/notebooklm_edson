@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-03T16:00:12.226097",
+  "atualizado": "2026-10-03T17:02:22.844524",
   "audios": [
     {
       "seq_global": 1,
@@ -3430,7 +3430,18 @@
       "cap": 83,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-03T16:00:12.221552",
+      "data": "2026-10-03T17:00:10.728969",
+      "status": "created",
+      "artifact_id": "de78b1d5-7fd7-4746-9e80-6664f5b73238"
+    },
+    {
+      "seq_global": 265,
+      "arquivo": "265_cap-084_cena-001_La-desercion-secreta-que-la-fortuna-deshizo.m4a",
+      "titulo": "La deserción secreta que la fortuna deshizo",
+      "cap": 84,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-03T17:02:22.841521",
       "status": "deferred"
     }
   ]
