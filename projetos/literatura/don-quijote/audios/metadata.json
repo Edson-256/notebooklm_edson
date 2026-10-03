@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-02T21:02:23.293705",
+  "atualizado": "2026-10-02T22:00:54.127111",
   "audios": [
     {
       "seq_global": 1,
@@ -3353,8 +3353,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-02T21:00:10.576273",
-      "status": "created",
-      "artifact_id": "f7ede268-7772-4b0e-b235-66694cff10ee"
+      "status": "downloaded",
+      "artifact_id": "f7ede268-7772-4b0e-b235-66694cff10ee",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/258_cap-081_cena-003_El-rebuzno-de-Sancho-y-la-fuga.m4a",
+      "tamanho_bytes": 15753364
     },
     {
       "seq_global": 259,
@@ -3363,7 +3365,7 @@
       "cap": 82,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-02T21:02:23.290491",
+      "data": "2026-10-02T22:00:54.124024",
       "status": "deferred"
     }
   ]
