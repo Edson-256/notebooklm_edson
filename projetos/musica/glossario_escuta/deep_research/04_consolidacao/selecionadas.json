@@ -219,10 +219,9 @@
   "tipo": "livro-texto aberto",
   "nivel": "leigo",
   "url": "https://uen.pressbooks.pub/auralskills/chapter/3s-2s-across-the-beat/",
-  "arquivo": "",
-  "nota": "Pressbooks recusa leitor automático (CloudFront) — subir como arquivo, como na pesquisa 1",
-  "por_que": "Define hemiola como relação 3:2 e traz exercício explícito de 6/8 → 3/4 e padrões 3+3+2.",
-  "pendente": "site bloqueia leitor automático; aguardando PDF salvo pelo Edson (notebooklm_edson-jgj7)"
+  "arquivo": "014_chenette_hemiola.md",
+  "nota": "texto copiado pelo Edson (03/10; site bloqueia leitor); define hemíola 6/8↔3/4 e o 3-3-2 da música popular",
+  "por_que": "Define hemiola como relação 3:2 e traz exercício explícito de 6/8 → 3/4 e padrões 3+3+2."
  },
  {
   "n": 15,

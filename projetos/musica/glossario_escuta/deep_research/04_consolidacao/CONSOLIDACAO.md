@@ -77,7 +77,11 @@ o tempo, então não dá para comparar com o ≈ 70 da guarânia.
 > **03/10, mais tarde:** a página da BN Digital tem só um texto curto (os MP3 dão erro). O Edson copiou o texto e ele entrou
 > como **#105**, apenas com os parágrafos de definição: samba de breque = síncope acentuada + paradas súbitas ("breques") com
 > comentário falado; Moreira da Silva. A lista de gravações ficou de fora porque as datas não batem. Fonte de definição,
-> sem análise rítmica. Continuam pendentes a UNAM (bolero mexicano) e Chenette (#14).
+> sem análise rítmica.
+>
+> **03/10, fim:** Chenette (#14) entrou com o texto copiado pelo Edson. O PDF da UNAM ("Bolero", Sánchez-Gallinal) é um
+> **poema**, não um estudo — excluído. **Pendências encerradas; o bolero mexicano segue sem fonte musical aberta** (lacuna
+> registrada em notebooklm_edson-bwni).
 
 - **BN Digital, "Subgêneros do samba"** (única fonte sobre samba de breque; Cloudflare): abrir, salvar como PDF e subir.
 - **UNAM, Sánchez-Gallinal, "Bolero"** (revista Archipiélago; 403): a melhor pista para o bolero mexicano.
