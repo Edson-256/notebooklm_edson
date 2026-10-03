@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-03T12:02:25.728409",
+  "atualizado": "2026-10-03T13:01:01.117709",
   "audios": [
     {
       "seq_global": 1,
@@ -3418,8 +3418,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-03T12:00:13.116972",
-      "status": "created",
-      "artifact_id": "bea0c3c8-9024-46ba-a22b-62a10c7b462b"
+      "status": "downloaded",
+      "artifact_id": "bea0c3c8-9024-46ba-a22b-62a10c7b462b",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/263_cap-083_cena-002_La-linea-equinoccial-y-los-piojos-dos-modos-de-saber.m4a",
+      "tamanho_bytes": 45809327
     },
     {
       "seq_global": 264,
@@ -3428,7 +3430,7 @@
       "cap": 83,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-03T12:02:25.725252",
+      "data": "2026-10-03T13:01:01.111103",
       "status": "deferred"
     }
   ]
