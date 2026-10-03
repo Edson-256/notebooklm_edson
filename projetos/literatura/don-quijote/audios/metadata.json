@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-03T11:00:13.080523",
+  "atualizado": "2026-10-03T12:02:25.728409",
   "audios": [
     {
       "seq_global": 1,
@@ -3417,7 +3417,18 @@
       "cap": 83,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-03T11:00:13.077101",
+      "data": "2026-10-03T12:00:13.116972",
+      "status": "created",
+      "artifact_id": "bea0c3c8-9024-46ba-a22b-62a10c7b462b"
+    },
+    {
+      "seq_global": 264,
+      "arquivo": "264_cap-083_cena-003_Las-acenas-el-naufragio-y-el-desengano.m4a",
+      "titulo": "Las aceñas, el naufragio y el desengaño",
+      "cap": 83,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-03T12:02:25.725252",
       "status": "deferred"
     }
   ]
