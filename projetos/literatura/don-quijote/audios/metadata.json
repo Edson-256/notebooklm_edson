@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-03T00:00:19.114800",
+  "atualizado": "2026-10-03T01:04:29.423747",
   "audios": [
     {
       "seq_global": 1,
@@ -3365,7 +3365,29 @@
       "cap": 82,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-03T00:00:19.110162",
+      "data": "2026-10-03T01:00:11.861925",
+      "status": "created",
+      "artifact_id": "d5331fb5-6fb0-40b7-8bcf-74990cf6a165"
+    },
+    {
+      "seq_global": 260,
+      "arquivo": "260_cap-082_cena-002_La-cuenta-del-escudero-y-los-veinte-anos-de-la-insula.m4a",
+      "titulo": "La cuenta del escudero y los veinte anos de la insula",
+      "cap": 82,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-03T01:02:16.962819",
+      "status": "created",
+      "artifact_id": "4398d8ef-825c-4b2f-bf66-4504cc4768c8"
+    },
+    {
+      "seq_global": 261,
+      "arquivo": "261_cap-082_cena-003_Las-lagrimas-de-Sancho-y-el-perdon.m4a",
+      "titulo": "Las lagrimas de Sancho y el perdon",
+      "cap": 82,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-03T01:04:29.413513",
       "status": "deferred"
     }
   ]
