@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-03T06:04:31.485844",
+  "atualizado": "2026-10-03T07:01:41.928285",
   "audios": [
     {
       "seq_global": 1,
@@ -3392,8 +3392,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-03T06:00:12.834070",
-      "status": "created",
-      "artifact_id": "28a89a6b-ea02-4be6-8e85-babd4e65185f"
+      "status": "downloaded",
+      "artifact_id": "28a89a6b-ea02-4be6-8e85-babd4e65185f",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/261_cap-082_cena-003_Las-lagrimas-de-Sancho-y-el-perdon.m4a",
+      "tamanho_bytes": 22034459
     },
     {
       "seq_global": 262,
@@ -3403,8 +3405,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-03T06:02:18.444617",
-      "status": "created",
-      "artifact_id": "3fe0795c-d57c-46fb-b187-3c569b91058e"
+      "status": "downloaded",
+      "artifact_id": "3fe0795c-d57c-46fb-b187-3c569b91058e",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/262_cap-083_cena-001_El-barco-que-llama-embarcarse-en-la-ficcion.m4a",
+      "tamanho_bytes": 27137094
     },
     {
       "seq_global": 263,
@@ -3413,7 +3417,7 @@
       "cap": 83,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-03T06:04:31.482001",
+      "data": "2026-10-03T07:01:41.923508",
       "status": "deferred"
     }
   ]
