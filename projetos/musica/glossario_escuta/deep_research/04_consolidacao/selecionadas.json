@@ -221,7 +221,8 @@
   "url": "https://uen.pressbooks.pub/auralskills/chapter/3s-2s-across-the-beat/",
   "arquivo": "",
   "nota": "Pressbooks recusa leitor automático (CloudFront) — subir como arquivo, como na pesquisa 1",
-  "por_que": "Define hemiola como relação 3:2 e traz exercício explícito de 6/8 → 3/4 e padrões 3+3+2."
+  "por_que": "Define hemiola como relação 3:2 e traz exercício explícito de 6/8 → 3/4 e padrões 3+3+2.",
+  "pendente": "site bloqueia leitor automático; aguardando PDF salvo pelo Edson (notebooklm_edson-jgj7)"
  },
  {
   "n": 15,
@@ -1614,5 +1615,53 @@
   "arquivo": "",
   "nota": "",
   "por_que": "Outro livro aberto com capítulo de métrica — alternativa ao OMT."
+ },
+ {
+  "familia": "F2",
+  "aspectos": "compasso · origem · reconhecer de ouvido",
+  "prioridade": "2",
+  "titulo": "A milonga gaúcha na gênese do Quinteto para violão e quarteto de cordas, de Fernando Mattos",
+  "autor": "Daniel Wolff — Revista Estúdio 9(24), 2018",
+  "idioma": "pt",
+  "tipo": "artigo revisado",
+  "nivel": "intermediário",
+  "url": "https://danielwolff.com/wp-content/uploads/2019/04/A-milonga-gaucha_mattos.pdf",
+  "arquivo": "mattos_milonga_gaucha.pdf",
+  "nota": "resgate jgj7 (03/10): SciELO Portugal recusa conexão; cópia completa (12 págs.) no site do autor. O autor é Daniel Wolff; Fernando Mattos é o compositor analisado",
+  "por_que": "Elementos da milonga gaúcha usados como material composicional — a fonte aberta mais próxima sobre a milonga do RS.",
+  "n": 102,
+  "origem": "resgate:R-01"
+ },
+ {
+  "familia": "F4",
+  "aspectos": "modo · harmonia · cadência",
+  "prioridade": "1",
+  "titulo": "Armonía modal, modo de MI y flamenco: aproximación al \"Modo de MI Armónico\" como sistema musical de tradición hispana",
+  "autor": "Salvador Valenzuela Lavado (tese, Universidad de Granada, 2016; orient. Miguel Á. Berlanga)",
+  "idioma": "es",
+  "tipo": "tese/dissertação",
+  "nivel": "técnico",
+  "url": "https://digibug.ugr.es/bitstream/handle/10481/44889/26391119.pdf?sequence=6&isAllowed=y",
+  "arquivo": "valenzuela_modo_mi.pdf",
+  "nota": "resgate jgj7 (03/10): 352 págs., ~100 mil palavras; repositório lento — subido como arquivo",
+  "por_que": "O modo de mi e a harmonia do flamenco com rigor: base do verbete frígio / cadência andaluza.",
+  "n": 103,
+  "origem": "resgate:R-02"
+ },
+ {
+  "familia": "F4",
+  "aspectos": "harmonia · modo · forma",
+  "prioridade": "2",
+  "titulo": "Flamenco Jazz: An Analytical Study",
+  "autor": "Peter Manuel — Journal of Jazz Studies 11(2), 2016",
+  "idioma": "en",
+  "tipo": "artigo revisado",
+  "nivel": "técnico",
+  "url": "https://jjs.libraries.rutgers.edu/index.php/jjs/article/download/113/89/444",
+  "arquivo": "manuel_flamenco_jazz.pdf",
+  "nota": "resgate jgj7 (03/10): CUNY bloqueia; texto completo pela revista (Rutgers)",
+  "por_que": "Análise da harmonia frígia e da cadência andaluza no flamenco e na sua fusão com o jazz.",
+  "n": 104,
+  "origem": "resgate:R-03"
  }
 ]

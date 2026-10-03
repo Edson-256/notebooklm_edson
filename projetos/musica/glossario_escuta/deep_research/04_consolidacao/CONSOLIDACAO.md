@@ -68,6 +68,12 @@ o tempo, então não dá para comparar com o ≈ 70 da guarânia.
 
 ## Pendências (o Edson pode resolver no navegador)
 
+> **Atualização 03/10:** três pendências foram resgatadas por cópias abertas em outros sites e já estão no notebook,
+> aprovadas pelo Edson: **#102** Daniel Wolff, "A milonga gaúcha na gênese do Quinteto… de Fernando Mattos" (site do
+> autor; o autor é Wolff, e Mattos é o compositor analisado), **#103** a tese de Valenzuela Lavado sobre o modo de mi
+> (UGR) e **#104** Peter Manuel, "Flamenco Jazz" (Rutgers). Continuam pendentes a BN Digital (samba de breque), a UNAM
+> (bolero mexicano) e o capítulo de Chenette (#14).
+
 - **BN Digital, "Subgêneros do samba"** (única fonte sobre samba de breque; Cloudflare): abrir, salvar como PDF e subir.
 - **UNAM, Sánchez-Gallinal, "Bolero"** (revista Archipiélago; 403): a melhor pista para o bolero mexicano.
 - **Peter Manuel, "Flamenco Jazz"** (CUNY; 403) e **Valenzuela Lavado, tese sobre o modo de mi** (UGR; timeout): harmonia frígia.

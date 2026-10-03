@@ -11,7 +11,7 @@ feitos = set()
 if os.path.exists('adicionadas.jsonl'):
     feitos = {json.loads(l)['n'] for l in open('adicionadas.jsonl') if json.loads(l).get('source_id')}
 for s in json.load(open('selecionadas.json')):
-    if s['n'] in feitos: continue
+    if s['n'] in feitos or s.get('pendente'): continue
     titulo = f"Gloss · {s['familia']} · {s['titulo']}"[:200]
     reg = dict(n=s['n'], familia=s['familia'], url=s['url'], arquivo=s.get('arquivo', ''), titulo=titulo)
     r = None
