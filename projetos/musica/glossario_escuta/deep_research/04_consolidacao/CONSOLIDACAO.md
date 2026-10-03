@@ -73,6 +73,11 @@ o tempo, então não dá para comparar com o ≈ 70 da guarânia.
 > autor; o autor é Wolff, e Mattos é o compositor analisado), **#103** a tese de Valenzuela Lavado sobre o modo de mi
 > (UGR) e **#104** Peter Manuel, "Flamenco Jazz" (Rutgers). Continuam pendentes a BN Digital (samba de breque), a UNAM
 > (bolero mexicano) e o capítulo de Chenette (#14).
+>
+> **03/10, mais tarde:** a página da BN Digital tem só um texto curto (os MP3 dão erro). O Edson copiou o texto e ele entrou
+> como **#105**, apenas com os parágrafos de definição: samba de breque = síncope acentuada + paradas súbitas ("breques") com
+> comentário falado; Moreira da Silva. A lista de gravações ficou de fora porque as datas não batem. Fonte de definição,
+> sem análise rítmica. Continuam pendentes a UNAM (bolero mexicano) e Chenette (#14).
 
 - **BN Digital, "Subgêneros do samba"** (única fonte sobre samba de breque; Cloudflare): abrir, salvar como PDF e subir.
 - **UNAM, Sánchez-Gallinal, "Bolero"** (revista Archipiélago; 403): a melhor pista para o bolero mexicano.

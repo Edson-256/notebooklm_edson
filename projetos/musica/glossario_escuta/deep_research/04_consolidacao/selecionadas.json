@@ -1663,5 +1663,21 @@
   "por_que": "Análise da harmonia frígia e da cadência andaluza no flamenco e na sua fusão com o jazz.",
   "n": 104,
   "origem": "resgate:R-03"
+ },
+ {
+  "n": 105,
+  "origem": "resgate:R-04",
+  "familia": "F6",
+  "aspectos": "compasso · canto · reconhecer de ouvido · confusões",
+  "prioridade": "2",
+  "titulo": "Subgêneros do samba (samba de breque, samba-canção, samba-enredo, samba-exaltação)",
+  "autor": "Biblioteca Nacional — BNDigital, exposição \"Ai, ai, ai, cem anos o samba faz\"",
+  "idioma": "pt",
+  "tipo": "outro",
+  "nivel": "leigo",
+  "url": "https://bndigital.bn.gov.br/exposicoes/ai-ai-ai-cem-anos-o-samba-faz/subgeneros-do-samba/",
+  "arquivo": "105_bn_subgeneros_do_samba.md",
+  "nota": "resgate jgj7 (03/10): texto curto copiado da página pelo Edson (Cloudflare bloqueia leitor); lista de gravações omitida por datas inconsistentes. Única fonte aberta sobre samba de breque — definição só, sem análise rítmica",
+  "por_que": "Define o samba de breque (síncope acentuada, paradas súbitas com comentário falado; Moreira da Silva) e o separa de samba-canção, samba-enredo e samba-exaltação."
  }
 ]
