@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-03T05:00:18.003648",
+  "atualizado": "2026-10-03T06:04:31.485844",
   "audios": [
     {
       "seq_global": 1,
@@ -3391,7 +3391,29 @@
       "cap": 82,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-03T05:00:17.998066",
+      "data": "2026-10-03T06:00:12.834070",
+      "status": "created",
+      "artifact_id": "28a89a6b-ea02-4be6-8e85-babd4e65185f"
+    },
+    {
+      "seq_global": 262,
+      "arquivo": "262_cap-083_cena-001_El-barco-que-llama-embarcarse-en-la-ficcion.m4a",
+      "titulo": "El barco que llama: embarcarse en la ficción",
+      "cap": 83,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-03T06:02:18.444617",
+      "status": "created",
+      "artifact_id": "3fe0795c-d57c-46fb-b187-3c569b91058e"
+    },
+    {
+      "seq_global": 263,
+      "arquivo": "263_cap-083_cena-002_La-linea-equinoccial-y-los-piojos-dos-modos-de-saber.m4a",
+      "titulo": "La línea equinoccial y los piojos: dos modos de saber",
+      "cap": 83,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-03T06:04:31.482001",
       "status": "deferred"
     }
   ]
