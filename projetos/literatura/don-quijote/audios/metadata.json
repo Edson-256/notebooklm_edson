@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-04T17:00:13.837894",
+  "atualizado": "2026-10-04T18:02:21.536067",
   "audios": [
     {
       "seq_global": 1,
@@ -3508,7 +3508,18 @@
       "cap": 85,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-04T17:00:13.833823",
+      "data": "2026-10-04T18:00:09.640351",
+      "status": "created",
+      "artifact_id": "4d8689ef-c596-44a8-8e8c-2c4c9ec1119c"
+    },
+    {
+      "seq_global": 271,
+      "arquivo": "271_cap-085_cena-004_La-embestida-del-eclesiastico-y-el-caballero-en-pie.m4a",
+      "titulo": "La embestida del eclesiastico y el caballero en pie",
+      "cap": 85,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-04T18:02:21.533646",
       "status": "deferred"
     }
   ]
