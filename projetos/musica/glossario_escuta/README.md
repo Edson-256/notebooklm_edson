@@ -4,7 +4,7 @@
   teoria) que a sessão `musica_composicao` vai escrever e ligar ao app de escuta. **Sem áudio.**
   Pauta: `~/dev/_pessoal/musica_composicao/catalogo/escuta/PAUTA_PESQUISA_GLOSSARIO.md`.
 - **Tarefa:** `notebooklm_edson-mmf9` (deste lado) · `musica_composicao-m6wl` (do lado de lá).
-- **Notebook:** o mesmo da pesquisa 1, `4ac56794-d00a-436a-a446-24f1161cd9bd` — **100 fontes "Gloss ·" carregadas em 2026-10-02** (101 aprovadas; #14, Chenette sobre hemíola, bloqueada pelo site). Fontes desta pesquisa
+- **Notebook:** o mesmo da pesquisa 1, `4ac56794-d00a-436a-a446-24f1161cd9bd` — **138 fontes "Gloss ·"** (#1–#101 em 02/10; #102–#105 resgates e #106–#138 do council_llm em 03/10). Fontes desta pesquisa
   entram com o prefixo `Gloss ·` no título (as da pesquisa 1 têm `EpNN ·`).
 - **Método:** igual ao de `../teoria_escuta_critica/` — três pesquisadores (ChatGPT, agente Claude,
   Deep Research do NotebookLM) → consolidação com decisão e motivo por fonte (CSV) → aprovação do

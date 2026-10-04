@@ -6,7 +6,7 @@
 - **Minha conferência (03/10):** baixei as 32 e procurei o trecho de prova dentro do texto. **29 bateram
   literalmente.** As outras três: G1-04 (o trecho está no PDF; a URL dada era a página de resumo), G3-05 (trecho
   composto de dois pontos, ambos achados) e G2-01 (servidor da UFSC sem resposta daqui). Nenhuma repete as 105 já carregadas.
-- **Status:** aguardando aprovação do Edson. Nada subido.
+- **Status:** aprovada pelo Edson em 03/10, inclusive o encarte de Bergerot. **Carregadas como #106–#138** (#138 = Bergerot). #107, #109, #110, #126, #127 e #129 subiram como PDF porque o link falhou ou entrou só o resumo, e #130 (G5-04) por OCR.
 
 ## Situação de cada lacuna (julgamento do council, conferido)
 

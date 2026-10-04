@@ -7,9 +7,12 @@ NB = '4ac56794-d00a-436a-a446-24f1161cd9bd'
 ENV = dict(os.environ, NLM_PROFILE='default')
 def nlm(*a, timeout=900):
     return subprocess.run(['nlm', *a, '--profile', 'default'], capture_output=True, text=True, env=ENV, timeout=timeout)
-feitos = set()
+ultimo = {}  # a última linha de cada n vale; {"removido": true} desfaz uma carga ruim
 if os.path.exists('adicionadas.jsonl'):
-    feitos = {json.loads(l)['n'] for l in open('adicionadas.jsonl') if json.loads(l).get('source_id')}
+    for l in open('adicionadas.jsonl'):
+        r = json.loads(l)
+        if r.get('source_id') or r.get('removido'): ultimo[r['n']] = r
+feitos = {n for n, r in ultimo.items() if r.get('source_id')}
 for s in json.load(open('selecionadas.json')):
     if s['n'] in feitos or s.get('pendente'): continue
     titulo = f"Gloss · {s['familia']} · {s['titulo']}"[:200]

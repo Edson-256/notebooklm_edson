@@ -1,3 +1,8 @@
+# Chamarrita: uma chama da cultura açoriana na América gaúcha
+
+Fonte: José Machado Pais (Universidade de Lisboa, Instituto de Ciências Sociais) — Revista Tempo, Anuário... (ojs.letras.up.pt, artigo 5392): https://ojs.letras.up.pt/index.php/taa/article/view/5392
+Texto obtido por OCR (tesseract, por) do PDF, que é só imagem; pode haver pequenos erros de reconhecimento.
+
 CHAMARRITA: UMA CHAMA DA CULTURA AÇORIANA NA
 
 AMÉRICA GAÚCHA
