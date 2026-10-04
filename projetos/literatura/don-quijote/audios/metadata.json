@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-04T12:04:30.251632",
+  "atualizado": "2026-10-04T13:01:35.321438",
   "audios": [
     {
       "seq_global": 1,
@@ -3483,8 +3483,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-04T12:00:12.926624",
-      "status": "created",
-      "artifact_id": "95e4be9e-2fb8-4374-abe1-233e91990148"
+      "status": "downloaded",
+      "artifact_id": "95e4be9e-2fb8-4374-abe1-233e91990148",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/268_cap-085_cena-001_El-primer-dia-que-se-creyo-caballero-verdadero.m4a",
+      "tamanho_bytes": 27637095
     },
     {
       "seq_global": 269,
@@ -3494,8 +3496,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-04T12:02:17.994757",
-      "status": "created",
-      "artifact_id": "4a9dc0c0-a2db-4968-9c56-c7638b63291b"
+      "status": "downloaded",
+      "artifact_id": "4a9dc0c0-a2db-4968-9c56-c7638b63291b",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/269_cap-085_cena-002_La-reprension-a-solas-honra-apariencia-y-ser.m4a",
+      "tamanho_bytes": 34864257
     },
     {
       "seq_global": 270,
@@ -3504,7 +3508,7 @@
       "cap": 85,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-04T12:04:30.248206",
+      "data": "2026-10-04T13:01:35.317534",
       "status": "deferred"
     }
   ]
