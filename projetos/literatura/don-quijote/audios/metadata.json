@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-03T21:00:11.851670",
+  "atualizado": "2026-10-03T22:02:21.981260",
   "audios": [
     {
       "seq_global": 1,
@@ -3443,7 +3443,18 @@
       "cap": 84,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-03T21:00:11.848105",
+      "data": "2026-10-03T22:00:10.253265",
+      "status": "created",
+      "artifact_id": "b43eeb38-ecc3-4aeb-92df-a403576a486f"
+    },
+    {
+      "seq_global": 266,
+      "arquivo": "266_cap-084_cena-002_Los-personajes-descubren-que-son-un-libro.m4a",
+      "titulo": "Los personajes descubren que son un libro",
+      "cap": 84,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-03T22:02:21.978114",
       "status": "deferred"
     }
   ]
