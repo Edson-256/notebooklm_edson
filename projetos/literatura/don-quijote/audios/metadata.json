@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-04T18:02:21.536067",
+  "atualizado": "2026-10-04T19:01:20.804495",
   "audios": [
     {
       "seq_global": 1,
@@ -3509,8 +3509,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-04T18:00:09.640351",
-      "status": "created",
-      "artifact_id": "4d8689ef-c596-44a8-8e8c-2c4c9ec1119c"
+      "status": "downloaded",
+      "artifact_id": "4d8689ef-c596-44a8-8e8c-2c4c9ec1119c",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/270_cap-085_cena-003_El-cuento-del-majagranzas-el-arte-de-la-dilacion.m4a",
+      "tamanho_bytes": 33735018
     },
     {
       "seq_global": 271,
@@ -3519,7 +3521,7 @@
       "cap": 85,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-04T18:02:21.533646",
+      "data": "2026-10-04T19:01:20.801384",
       "status": "deferred"
     }
   ]
