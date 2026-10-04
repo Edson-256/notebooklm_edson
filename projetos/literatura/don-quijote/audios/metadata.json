@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-04T02:00:11.933041",
+  "atualizado": "2026-10-04T03:02:23.690926",
   "audios": [
     {
       "seq_global": 1,
@@ -3469,7 +3469,18 @@
       "cap": 84,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-04T02:00:11.928487",
+      "data": "2026-10-04T03:00:10.818132",
+      "status": "created",
+      "artifact_id": "781bd7bc-80c9-4fe6-bb62-0b6f335b13eb"
+    },
+    {
+      "seq_global": 268,
+      "arquivo": "268_cap-085_cena-001_El-primer-dia-que-se-creyo-caballero-verdadero.m4a",
+      "titulo": "El primer dia que se creyo caballero verdadero",
+      "cap": 85,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-04T03:02:23.687540",
       "status": "deferred"
     }
   ]
