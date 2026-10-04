@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-03T22:02:21.981260",
+  "atualizado": "2026-10-03T23:03:15.986867",
   "audios": [
     {
       "seq_global": 1,
@@ -3444,8 +3444,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-03T22:00:10.253265",
-      "status": "created",
-      "artifact_id": "b43eeb38-ecc3-4aeb-92df-a403576a486f"
+      "status": "downloaded",
+      "artifact_id": "b43eeb38-ecc3-4aeb-92df-a403576a486f",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/265_cap-084_cena-001_La-desercion-secreta-que-la-fortuna-deshizo.m4a",
+      "tamanho_bytes": 18989980
     },
     {
       "seq_global": 266,
@@ -3454,7 +3456,18 @@
       "cap": 84,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-03T22:02:21.978114",
+      "data": "2026-10-03T23:01:04.200334",
+      "status": "created",
+      "artifact_id": "da8e99e5-c69c-4bf0-a32d-92d3800be39b"
+    },
+    {
+      "seq_global": 267,
+      "arquivo": "267_cap-084_cena-003_La-caida-humillante-y-la-ceremonia-fingida.m4a",
+      "titulo": "La caida humillante y la ceremonia fingida",
+      "cap": 84,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-03T23:03:15.984510",
       "status": "deferred"
     }
   ]
