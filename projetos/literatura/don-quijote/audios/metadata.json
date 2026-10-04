@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-03T23:03:15.986867",
+  "atualizado": "2026-10-04T00:01:16.535642",
   "audios": [
     {
       "seq_global": 1,
@@ -3457,8 +3457,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-03T23:01:04.200334",
-      "status": "created",
-      "artifact_id": "da8e99e5-c69c-4bf0-a32d-92d3800be39b"
+      "status": "downloaded",
+      "artifact_id": "da8e99e5-c69c-4bf0-a32d-92d3800be39b",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/266_cap-084_cena-002_Los-personajes-descubren-que-son-un-libro.m4a",
+      "tamanho_bytes": 33820296
     },
     {
       "seq_global": 267,
@@ -3467,7 +3469,7 @@
       "cap": 84,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-03T23:03:15.984510",
+      "data": "2026-10-04T00:01:16.531792",
       "status": "deferred"
     }
   ]
