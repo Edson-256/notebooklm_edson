@@ -16,7 +16,7 @@
 | G2 toada × moda de viola | **coberta**, mas por caráter e andamento (moda recitativa, de métrica elástica; toada lenta e "simples") | um padrão de viola escrito que separe as duas |
 | G3 cateretê × cururu | parcial: dança do catira, desafio do cururu e células para bateria, em fontes separadas | comparação lado a lado com notação (melhor pista: Pinto, UNICAMP 2008, fora do ar) |
 | G4 valse musette × valsa/seresta | parcial: lado brasileiro bom; da musette, só o timbre | **o acompanhamento da musette só aparece no encarte de Bergerot** (ver decisão abaixo) |
-| G5 chamamé AR × RS/MS; chimarrita | **Corrientes × RS: lacuna confirmada**; Corrientes × MS só por depoimento; **chimarrita coberta** (ternária nos Açores, binária no RS) | — |
+| G5 chamamé AR × RS/MS; chimarrita | **Corrientes × RS: lacuna confirmada**; Corrientes × MS só por depoimento; **chimarrita coberta** (os quadros de Azeredo dizem "ternária" nos Açores e "binária" no RS; mas as partituras açorianas do mesmo livro estão em 6/8 — binário composto — em 6 de 7, e só São Miguel em 3/4 [corrigido 04/10]) | — |
 | G6 samba de breque | parcial | transcrição de um breque de Moreira da Silva |
 | G7 vanera × xote | parcial: levadas em exemplos separados de bateria | comparação lado a lado |
 
@@ -73,3 +73,15 @@ https://www.fremeaux.com/en/1661-valse-musette-annees-40-50-volume-2-35613025326
 | **G7** | | **vanera × xote** | | | |
 | G7-01 | 1 | [Aspectos simbólicos do uso do acordeão na música fandangueira do Rio Grande do Sul](https://repositorio.ufba.br/bitstream/ri/12681/1/TESE%20ROBERTO%20THIESEN.pdf) | Roberto Thiesen (orient. Angela E. Lühning) — UFBA, PPG Músi | claude | trecho achado literalmente no texto baixado |
 | G7-02 | 3 | [A música nativista do sul do Brasil: panorama histórico e gêneros de comunicação com o fol](https://sistemabu.udesc.br/pergamumweb/vinculos/000000/000000000004/00000422.pdf) | Eduardo Hector Ferraro (orient. Acácio Tadeu Camargo Piedade | codex | trecho achado literalmente no texto baixado |
+
+## Correções de 04/10 (achados da sessão musica_composicao, conferidos na fonte)
+
+Erros de fato corrigidos em `selecionadas.json` (`por_que`/`nota`): #116 (repicado na p. 102, não p. 33), #119 (o trecho
+"O cururu não é como uma música sertaneja…" é citação de Cido Garoto, 2003; carreiras na p. 118), #107 (a frase do
+cinquillo é de Knights, 2003, citado na tese), #109 (as figuras são adaptações dos autores para violão solo, não
+transcrições de requinto), #135 (parêntese não marca breque) e o cabeçalho do arquivo de #130 (revista *Todas as Artes*,
+não "Revista Tempo"). Imprecisões ajustadas: #125 (sem "vibrato" na fonte), #123 ("rei da seresta" é fala de entrevistado),
+#127 (6/8 nas partituras açorianas), #130 ("mais lento" é nos Açores; o ternário é do chamamé, via Pérez Bugallo),
+#132 × #134 (1936 × 1937; Luís Barbosa), #118 (ambiguidade registrada), #107 (piano substitui o rasgueado: conferido).
+
+**#113 conferido (04/10):** a tese de Oliveira traz a Figura 6, "Acompanhamento rítmico para a toada (violão e viola)", um dedilhado notado (p-i-m-a). Assim, o G2 tem um padrão de acompanhamento escrito para a toada, ao contrário do que diz a Parte A do council. A definição "música lenta com letra bonita" é do informante Sorriso, não do autor.

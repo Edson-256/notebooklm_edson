@@ -35,7 +35,7 @@ O QUE FAZER
      notação continua faltando.
    - toada × moda de viola: critério de caráter/andamento (moda recitativa e de métrica elástica; toada lenta e
      "simples") — NÃO é padrão de viola escrito; dizer isso.
-   - chimarrita: ternária nos Açores × binária no RS (#127, #130).
+   - chimarrita: binária no RS; nos Açores os quadros de #127 dizem "ternária", mas as partituras do mesmo livro estão em 6/8 (binário composto), só São Miguel em 3/4 (#127, #130). [corrigido 04/10]
    - chamamé Corrientes × RS: continua LACUNA CONFIRMADA (agora com busca dedicada) — manter declarado.
    - samba de breque: definição (#105) + o que #132–#135 sustentam; sem transcrição de breque.
    - valse musette: acompanhamento = contrabaixo + 1–2 guitarras, acordeão "sans vibration", "coup de plume" dos

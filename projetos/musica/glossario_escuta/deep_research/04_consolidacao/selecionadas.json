@@ -1709,7 +1709,7 @@
   "url": "https://ruja.ujaen.es/server/api/core/bitstreams/548820d2-472a-4889-8daf-397e43592907/content",
   "arquivo": "107_santos_sanchez_bolero.pdf",
   "nota": "council_llm (claude+codex); verificação: corrigida: duplicata fundida — o mesmo PDF (idêntico byte a byte) está também em https://ruja.ujaen.es/jspui/bitstream/1; trecho: el bolero, en este paso por México, ralentiza su tempo musical y cambia la característica quizá más definitoria del bolero cubano: el acento del cinquillo, que deja de cumplir ese un rol protagónico",
-  "por_que": "Contraste de escuta cubano × mexicano: o andamento cai e o cinquillo perde o protagonismo; segunda citação literal da mesma tese: 'el cinquillo cubano desaparece del patrón rítmico'. Seções sobre bolero-son e filin. Lado trío/requinto é raso ('requinto': 0 ocorrências; 'Panchos': 1). A afirmação de que 'o piano substitui o rasgueado' não foi conferida."
+  "por_que": "Contraste de escuta cubano × mexicano: o andamento cai e o cinquillo perde o protagonismo (trecho da própria tese). A frase 'el cinquillo cubano desaparece del patrón rítmico' é citação de Knights (2003, p. 4) dentro da tese (p. 69 impressa) — segunda mão. Conferido: ao passar para o piano 'ya no existe el rasgado en la guitarra… se decelera el ritmo' (p. 40 impressa; repetido na p. 64). Seções sobre bolero-son e filin. Lado trío/requinto é raso. [corrigido 04/10, conferido na fonte; achado de musica_composicao-f1xu]"
  },
  {
   "n": 108,
@@ -1741,7 +1741,7 @@
   "url": "https://revistas.unlp.edu.ar/Epistemus/article/view/9179/9046",
   "arquivo": "109_alvarado_bolero_guitarra.pdf",
   "nota": "council_llm (claude); verificação: corrigida: título citado pelos metadados OJS/DOI ('Aportes...'); a variante do PDF ('Técnicas...') fica registrada; trecho: se le agregaron algunas notas de adorno, generalmente intervalos de terceras y sextas. Esto contribuyó a que el sonido se aproximara al de un requinto, instrumento que suele ejecutar esta parte del te",
-  "por_que": "Única fonte aberta verificada com NOTAÇÃO do papel do requinto: divisão do trío entre guitarra marcante (harmonia) e puntera/requinto (melodia em 3as e 6as), com introduções e interlúdios notados. Atenção: contexto colombiano, não Los Panchos; não diferencia do bolero cubano."
+  "por_que": "Papel das duas guitarras do trío de bolero: guitarra marcante (harmonia) e puntera/requinto (melodia em 3as e 6as). As figuras (introduções e interlúdios) são ADAPTAÇÕES DOS PRÓPRIOS AUTORES para violão solo ('Elaboración propia'), não transcrições do requinto de um trio. Contexto colombiano/acadêmico, não Los Panchos; não diferencia do bolero cubano. [corrigido 04/10, conferido na fonte; achado de musica_composicao-f1xu]"
  },
  {
   "n": 110,
@@ -1804,7 +1804,7 @@
   "nivel": "",
   "url": "https://repositorio.ufsc.br/bitstream/handle/123456789/92786/272513.pdf?isAllowed=y&sequence=1",
   "arquivo": "",
-  "nota": "council_llm (claude); verificação: confirmada; trecho: Outro subgênero ligado à narratividade é a toada, definida pela \"simplicidade. É uma música lenta com letra bonita\", me disse Sorriso.",
+  "nota": "council_llm (claude); verificação: confirmada; trecho: Outro subgênero ligado à narratividade é a toada, definida pela \"simplicidade. É uma música lenta com letra bonita\", me disse Sorriso. · CONFERIDO 04/10 no texto guardado pelo NotebookLM (o servidor da UFSC segue instável): a definição da toada é do informante Sorriso ('simplicidade. É uma música lenta com letra bonita'), citado pelo autor. O mesmo parágrafo diz que houve 'uma tendência em apontar o acompanhamento dedilhado do violão' como característica da toada, e traz a FIGURA 6 — 'Acompanhamento rítmico para a toada (violão e viola)', com os dedos p-i-m-a. Também define a 'toada histórica' pela declamação antes do canto ('Cabocla Tereza', 'Chico Mineiro', anos 40). Isso corrige a Parte A do council: há, sim, um padrão de acompanhamento notado para a toada.",
   "por_que": "Única fonte que descreve moda-de-viola e toada uma após a outra com critério audível (p. 64 do PDF): na moda, canto em dueto com ponteado em uníssono ou à capela; na toada, andamento lento e dedilhado notado (Figura 6). Registra a 'toada histórica', que começa com declamação."
  },
  {
@@ -1853,7 +1853,7 @@
   "url": "http://repositorio.bc.ufg.br/tede/bitstreams/910d2542-6c83-4372-80d8-5cb47fc12882/download",
   "arquivo": "",
   "nota": "council_llm (claude); verificação: confirmada; trecho: Aos versos da moda de viola se entremeiam os sapateados e palmeados dos dançadores, que também se harmonizam com os ponteados da viola, os chamados solos.",
-  "por_que": "Lado DANÇA do G3 (p. 33 do PDF): mestre e contramestre, puxadores de palma, duas filas, recortado final; descreve o 'repicado' (palmas alternadas no tempo e no contratempo). Não descreve o cururu lado a lado nem a batida notada da viola."
+  "por_que": "Lado DANÇA do G3: mestre e contramestre, puxadores de palma e duas filas (p. 34 do PDF); recortado final. O 'repicado' (palmas em dueto, alternando tempo e contratempo) está na p. 102 e é descrito como especialidade rara de um grupo, não traço geral do catira. Não descreve o cururu lado a lado nem a batida notada da viola. [corrigido 04/10, conferido na fonte; achado de musica_composicao-f1xu]"
  },
  {
   "n": 117,
@@ -1884,7 +1884,7 @@
   "nivel": "",
   "url": "https://repositorio.ufu.br/bitstream/123456789/16381/1/CatiraMusicaDanca.pdf",
   "arquivo": "",
-  "nota": "council_llm (claude); verificação: corrigida: URL (a minúscula dos lotes dava 404); trecho na p. 66 do PDF (não 65); trecho: Na música, a característica marcante do recortado é sua mudança de ritmo em relação à moda, que é mais rápida.",
+  "nota": "council_llm (claude); verificação: corrigida: URL (a minúscula dos lotes dava 404); trecho na p. 66 do PDF (não 65); trecho: Na música, a característica marcante do recortado é sua mudança de ritmo em relação à moda, que é mais rápida. · O trecho é ambíguo na gramática ('que é mais rápida'); a leitura adotada — o recortado é o mais rápido — é coerente com #116. [registrado 04/10]",
   "por_que": "Critério de escuta DENTRO do catira (p. 66 do PDF): na moda os dançadores ficam parados, no recortado o andamento acelera e entram palmas e sapateado. Área de História, sem notação; não compara com o cururu."
  },
  {
@@ -1900,8 +1900,8 @@
   "nivel": "",
   "url": "https://repositorio.unesp.br/server/api/core/bitstreams/975aa4d0-7470-48cc-bc79-846df89ebd7f/content",
   "arquivo": "",
-  "nota": "council_llm (claude); verificação: confirmada; trecho: O cururu não é como uma música sertaneja, com um mesmo ritmo do início ao fim. Por ser um repente, o cantador de cururu às vezes se enrosca, engole um tempo ou meio do compasso",
-  "por_que": "Lado DESAFIO do G3 (p. 35 do PDF): o violeiro 'dá um repique' para acomodar o improviso; explica as 'carreiras' (rimas impostas pelo pedestre). O título usa 'toada' no sentido genérico — ilustra a armadilha do G2. Não compara com o cateretê."
+  "nota": "council_llm (claude); verificação: confirmada; trecho: O cururu não é como uma música sertaneja, com um mesmo ritmo do início ao fim. Por ser um repente, o cantador de cururu às vezes se enrosca, engole um tempo ou meio do compasso · ATENÇÃO: o trecho é de Cido Garoto (2003, p. 7), citado pela autora.",
+  "por_que": "Lado DESAFIO do G3. O trecho 'O cururu não é como uma música sertaneja…' (p. 35 do PDF) é CITAÇÃO EM BLOCO do cururueiro Cido Garoto (2003, p. 7), não texto da autora: o violeiro 'dá um repique' para acomodar o improviso. As 'carreiras' — rima imposta pelo primeiro cantador, o pedestre — estão explicadas na p. 118. O título usa 'toada' no sentido genérico. Não compara com o cateretê. [corrigido 04/10, conferido na fonte; achado de musica_composicao-f1xu]"
  },
  {
   "n": 120,
@@ -1965,7 +1965,7 @@
   "url": "https://www.unirio.br/caeg1111111111/ppgm/arquivos/dissertacoes/valeria-de-souza/at_download/file",
   "arquivo": "",
   "nota": "council_llm (claude); verificação: confirmada; trecho: Em todas as serestas pesquisadas, o violão é o instrumento único ou o principal. Foi apontado nas entrevistas como um dos elementos que caracterizam a seresta.",
-  "por_que": "Etnografia da seresta atual: violão como 'rei da seresta' (flauta, cavaquinho, bandolim como coadjuvantes), com trechos em partitura. Confirma, pelo lado brasileiro, o contraste de instrumentos com o acordeão da musette. Não fala da musette."
+  "por_que": "Etnografia da seresta atual: o violão como instrumento único ou principal (trecho da autora). 'Ele é o rei da seresta' é FALA DO SERESTEIRO RIBEIRO, entrevistado (p. 91 impressa), com flauta, cavaquinho e bandolim como coadjuvantes; trechos em partitura. Não fala da musette. [corrigido 04/10, conferido na fonte; achado de musica_composicao-f1xu]"
  },
  {
   "n": 124,
@@ -1997,7 +1997,7 @@
   "url": "https://citedelaccordeon.com/sites/default/files/media/2026-02/gros_caracteres_accordeon.pdf",
   "arquivo": "",
   "nota": "council_llm (claude); verificação: confirmada; trecho: Une nouvelle identité sonore aisément perceptible, apportée par les accordéons chromatiques et leurs trois voix légèrement désaccordées se fait entendre.",
-  "por_que": "Explica o timbre da musette (três palhetas levemente desafinadas = o 'vibrato' característico; §4.6, p. 30) — a pista auditiva nº 1 contra a valsa seresteira. Cobre a troca de repertório (bourrées → valses, javas). Não fala de andamento nem da 'pompe'."
+  "por_que": "Timbre da musette: acordeões cromáticos e suas 'trois voix légèrement désaccordées' (§4.6, p. 30) — a pista auditiva nº 1 contra a valsa seresteira. A fonte não usa a palavra 'vibrato' para isso. Cobre a troca de repertório (bourrées → valses, javas). Não fala de andamento nem da 'pompe'. [corrigido 04/10, conferido na fonte; achado de musica_composicao-f1xu]"
  },
  {
   "n": 126,
@@ -2029,7 +2029,7 @@
   "url": "https://repositorio.unisc.br/jspui/bitstream/11624/2720/1/Heran%C3%A7a%20a%C3%A7oriana%20nas%20dan%C3%A7as%20tradicionais%20do%20Rio%20Grande%20do%20Sul.pdf",
   "arquivo": "127_azeredo_heranca_acoriana.pdf",
   "nota": "council_llm (claude); verificação: corrigida: campo lacuna estava '?' → G5; trecho: Distinguem-se, no sentido de desaceleração de ritmo e variações de passos no RS, sendo saltitada e de ritmo acelerada na ilha Terceira dos Açores [...]. No RS é dançada em ritmo binário",
-  "por_que": "Quadros que comparam, ilha por ilha, a chamarrita açoriana com a chimarrita do RS: ternário nos Açores, binário no RS. Registra que no RS a viola 'cedeu lugar à gaita (acordeon) e ao violão'. Foco coreográfico, mas a diferença de compasso e andamento é explícita. Não cobre chamamé AR × BR."
+  "por_que": "Quadros que comparam, ilha por ilha, a chamarrita açoriana com a chimarrita do RS: os quadros dizem 'ternário' nos Açores e 'binário' no RS. ATENÇÃO: as partituras açorianas do próprio livro (pp. 154–157) estão em 6/8 — binário composto, dois tempos divididos em três — em 6 de 7 (Faial ×4, Pico, Flores); só São Miguel está em 3/4. O quadro do Faial (p. 36 do PDF) repete por cópia 'acelerada na ilha Terceira'. No RS a viola 'cedeu lugar à gaita (acordeon) e ao violão'. Foco coreográfico. Não cobre chamamé AR × BR. [corrigido 04/10, conferido na fonte; achado de musica_composicao-f1xu]"
  },
  {
   "n": 128,
@@ -2077,7 +2077,7 @@
   "url": "https://ojs.letras.up.pt/index.php/taa/article/view/5392",
   "arquivo": "G5-04_machado_pais_chamarrita.md",
   "nota": "council_llm (codex); verificação: corrigida: afiliação do autor é ICS-ULisboa (a U. Porto é a editora da revista); ano 2018 pelo OJS; trecho: Esta última dança (no Brasil, Chimarrita) viria a propagar-se por toda a América gaúcha, entrecruzando-se com o Chamamé.",
-  "por_que": "Origem açoriana e circulação sul-americana da chimarrita e sua relação histórica com o chamamé. Musicalmente traz pouco: 'chamarrita, dançada a um ritmo mais lento' e o chamamé 'num ritmo ternário' (citando Pérez Bugallo). Histórico."
+  "por_que": "Origem açoriana e circulação sul-americana da chimarrita e sua relação histórica com o chamamé. Musicalmente traz pouco. 'Chamarrita, dançada a um ritmo mais lento' refere-se a uma festa nos AÇORES (citando Ataíde), mais lenta em relação ao fado tocado antes — não fala do RS. O 'ritmo ternário' do texto é do CHAMAMÉ e vem de segunda mão (Pérez Bugallo). Revista: Todas as Artes (U. Porto). Histórico. [corrigido 04/10, conferido na fonte; achado de musica_composicao-f1xu]"
  },
  {
   "n": 131,
@@ -2108,7 +2108,7 @@
   "nivel": "",
   "url": "https://econtents.sbu.unicamp.br/inpec/index.php/muspop/article/download/12885/8251/24454",
   "arquivo": "",
-  "nota": "council_llm (claude); verificação: confirmada; trecho: O recurso ao breque consiste num dos elementos para tornar o samba mais malandro e malicioso, uma vez que faz com que sua cadência seja ainda mais gingada e por vezes ab-ruptamente pausada",
+  "nota": "council_llm (claude); verificação: confirmada; trecho: O recurso ao breque consiste num dos elementos para tornar o samba mais malandro e malicioso, uma vez que faz com que sua cadência seja ainda mais gingada e por vezes ab-ruptamente pausada · Data do primeiro breque de Moreira: 1936, Cine-Teatro Meyer, 'Jogo proibido' (citando Arley Pereira 1997, p. 226) — #134 diz 1937. Moreira credita a invenção do breque a Luís Barbosa. [registrado 04/10]",
   "por_que": "Artigo centrado em Moreira da Silva: breque como 'paradinhas' com comentário improvisado. Cita Sérgio Porto: em 'Minha palhoça' (1933) o compositor 'tratou de encher os breques com a letra' (breque escrito) × o breque improvisado de Moreira; e o violonista que não sabia 'acompanhar conversa'. Não diz onde as paradas caem no compasso; sem partitura."
  },
  {
@@ -2140,7 +2140,7 @@
   "nivel": "",
   "url": "https://dicionariompb.com.br/artista/moreira-da-silva/",
   "arquivo": "",
-  "nota": "council_llm (claude); verificação: confirmada (a assinatura de Ricardo Cravo Albin na seção Crítica foi conferida no HTML bruto — resolve a ressalva do fin; trecho: Antônio Moreira da Silva criou essa coisa extraordinária que foi o comentário falado, nascido imediatamente depois da célebre paradinha, o breque, no desenvolvimento da melodia.",
+  "nota": "council_llm (claude); verificação: confirmada (a assinatura de Ricardo Cravo Albin na seção Crítica foi conferida no HTML bruto — resolve a ressalva do fin; trecho: Antônio Moreira da Silva criou essa coisa extraordinária que foi o comentário falado, nascido imediatamente depois da célebre paradinha, o breque, no desenvolvimento da melodia. · DIVERGÊNCIA: esta biografia (não assinada) dá 'Jogo proibido' em 1937; #132 (Baião, citando Arley Pereira 1997, p. 226) dá 1936, no Cine-Teatro Meyer, e traz Moreira atribuindo a invenção do breque a Luís Barbosa. [registrado 04/10]",
   "por_que": "Diz em que ponto a fala entra: logo depois da parada, dentro da melodia. A biografia (não assinada) registra que ele 'interrompeu bruscamente o acompanhamento do samba Jogo proibido' (1937) 'e inseriu uma frase no compasso'. Sem análise métrica."
  },
  {
@@ -2157,7 +2157,7 @@
   "url": "https://anpuh.org.br/uploads/anais-simposios/pdf/2019-01/1548874919_79b16e57ceb22065b6a6e3f13bceef89.pdf",
   "arquivo": "",
   "nota": "council_llm (claude); verificação: confirmada (ano 2013 confirmado pelo metadado do PDF); trecho: O breque nas canções de Moreira aproxima ainda mais fala e canto, este traço o torna singular, especialmente quando essa intervenção e complementação na canção são apenas faladas",
-  "por_que": "Transcreve a letra de 'Camelô na cidade' (Odeon, 1961) com os breques entre parênteses — mostra que as falas caem no fim dos versos; registra um breque de abertura 'sem acompanhamento musical'. Usa as categorias de Tatit (fala × canto). Área de História; sem descrição métrica."
+  "por_que": "Moreira da Silva por Tatit (fala × canto); registra um breque de abertura 'sem acompanhamento musical' em 'Camelô na cidade' (Odeon, 1961). A letra transcrita traz parênteses, mas a autora NÃO diz que parêntese marca breque: '(Eu)' é pronome elíptico e '(neca senhor)' cai no meio do verso (pp. 10–11). Na nota 10, avisa que a melodia não foi analisada. Área de História; sem descrição métrica. [corrigido 04/10, conferido na fonte; achado de musica_composicao-f1xu]"
  },
  {
   "n": 136,
