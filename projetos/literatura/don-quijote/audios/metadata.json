@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-05T08:00:14.211804",
+  "atualizado": "2026-10-05T09:02:22.104380",
   "audios": [
     {
       "seq_global": 1,
@@ -3560,7 +3560,18 @@
       "cap": 86,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-05T08:00:14.207800",
+      "data": "2026-10-05T09:00:10.253994",
+      "status": "created",
+      "artifact_id": "5970cbb1-8853-48f2-a9c9-f0c1159a70d6"
+    },
+    {
+      "seq_global": 275,
+      "arquivo": "275_cap-087_cena-001_La-confesion-del-engano-lo-tengo-por-loco-rematado.m4a",
+      "titulo": "La confesion del engano: 'lo tengo por loco rematado'",
+      "cap": 87,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-05T09:02:22.101901",
       "status": "deferred"
     }
   ]
