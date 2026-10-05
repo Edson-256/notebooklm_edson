@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-05T14:02:23.216576",
+  "atualizado": "2026-10-05T15:01:19.621557",
   "audios": [
     {
       "seq_global": 1,
@@ -3574,8 +3574,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-05T14:00:09.975514",
-      "status": "created",
-      "artifact_id": "69474c16-fc84-4b4b-952f-261bca80cab3"
+      "status": "downloaded",
+      "artifact_id": "69474c16-fc84-4b4b-952f-261bca80cab3",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/275_cap-087_cena-001_La-confesion-del-engano-lo-tengo-por-loco-rematado.m4a",
+      "tamanho_bytes": 27233462
     },
     {
       "seq_global": 276,
@@ -3584,7 +3586,7 @@
       "cap": 87,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-05T14:02:23.213915",
+      "data": "2026-10-05T15:01:19.619042",
       "status": "deferred"
     }
   ]
