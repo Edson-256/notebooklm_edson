@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-05T13:00:12.626720",
+  "atualizado": "2026-10-05T14:02:23.216576",
   "audios": [
     {
       "seq_global": 1,
@@ -3573,7 +3573,18 @@
       "cap": 87,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-05T13:00:12.622649",
+      "data": "2026-10-05T14:00:09.975514",
+      "status": "created",
+      "artifact_id": "69474c16-fc84-4b4b-952f-261bca80cab3"
+    },
+    {
+      "seq_global": 276,
+      "arquivo": "276_cap-087_cena-002_El-escrupulo-quien-no-sabe-gobernarse-a-si-mismo.m4a",
+      "titulo": "El escrupulo: quien no sabe gobernarse a si mismo",
+      "cap": 87,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-05T14:02:23.213915",
       "status": "deferred"
     }
   ]
