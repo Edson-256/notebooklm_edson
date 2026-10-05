@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-05T00:03:30.295171",
+  "atualizado": "2026-10-05T01:00:50.400201",
   "audios": [
     {
       "seq_global": 1,
@@ -3535,8 +3535,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-05T00:01:17.950339",
-      "status": "created",
-      "artifact_id": "1cbefe7a-df35-4a03-9351-b991cd816e91"
+      "status": "downloaded",
+      "artifact_id": "1cbefe7a-df35-4a03-9351-b991cd816e91",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/272_cap-086_cena-001_La-senda-angosta-de-la-caballeria-descargo-ante-el-eclesiastico.m4a",
+      "tamanho_bytes": 28899938
     },
     {
       "seq_global": 273,
@@ -3545,7 +3547,7 @@
       "cap": 86,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-05T00:03:30.291226",
+      "data": "2026-10-05T01:00:50.396417",
       "status": "deferred"
     }
   ]
