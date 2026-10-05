@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-04T22:00:13.302840",
+  "atualizado": "2026-10-04T23:02:21.780137",
   "audios": [
     {
       "seq_global": 1,
@@ -3521,7 +3521,18 @@
       "cap": 85,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-04T22:00:13.299170",
+      "data": "2026-10-04T23:00:09.612892",
+      "status": "created",
+      "artifact_id": "6f664e0b-56b7-4c71-b5b2-0257b0d20f9c"
+    },
+    {
+      "seq_global": 272,
+      "arquivo": "272_cap-086_cena-001_La-senda-angosta-de-la-caballeria-descargo-ante-el-eclesiastico.m4a",
+      "titulo": "La senda angosta de la caballeria: descargo ante el eclesiastico",
+      "cap": 86,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-04T23:02:21.777712",
       "status": "deferred"
     }
   ]
