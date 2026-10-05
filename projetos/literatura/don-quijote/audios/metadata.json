@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-05T09:02:22.104380",
+  "atualizado": "2026-10-05T10:01:16.188409",
   "audios": [
     {
       "seq_global": 1,
@@ -3561,8 +3561,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-05T09:00:10.253994",
-      "status": "created",
-      "artifact_id": "5970cbb1-8853-48f2-a9c9-f0c1159a70d6"
+      "status": "downloaded",
+      "artifact_id": "5970cbb1-8853-48f2-a9c9-f0c1159a70d6",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/274_cap-086_cena-003_Dios-sabe-si-hay-Dulcinea-la-dama-engendrada-en-el-entendimiento.m4a",
+      "tamanho_bytes": 21151112
     },
     {
       "seq_global": 275,
@@ -3571,7 +3573,7 @@
       "cap": 87,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-05T09:02:22.101901",
+      "data": "2026-10-05T10:01:16.186480",
       "status": "deferred"
     }
   ]
