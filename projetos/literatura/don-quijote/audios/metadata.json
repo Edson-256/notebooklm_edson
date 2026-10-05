@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-05T04:02:20.538621",
+  "atualizado": "2026-10-05T05:01:15.203829",
   "audios": [
     {
       "seq_global": 1,
@@ -3548,8 +3548,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-05T04:00:09.086634",
-      "status": "created",
-      "artifact_id": "bb364dd0-c199-4ea9-a9da-026f3b0deead"
+      "status": "downloaded",
+      "artifact_id": "bb364dd0-c199-4ea9-a9da-026f3b0deead",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/273_cap-086_cena-002_El-lavatorio-de-las-barbas-la-ceremonia-como-teatro.m4a",
+      "tamanho_bytes": 38949825
     },
     {
       "seq_global": 274,
@@ -3558,7 +3560,7 @@
       "cap": 86,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-05T04:02:20.534454",
+      "data": "2026-10-05T05:01:15.200103",
       "status": "deferred"
     }
   ]
