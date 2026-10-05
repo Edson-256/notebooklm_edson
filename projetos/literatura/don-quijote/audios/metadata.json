@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-05T03:00:13.495426",
+  "atualizado": "2026-10-05T04:02:20.538621",
   "audios": [
     {
       "seq_global": 1,
@@ -3547,7 +3547,18 @@
       "cap": 86,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-05T03:00:13.491421",
+      "data": "2026-10-05T04:00:09.086634",
+      "status": "created",
+      "artifact_id": "bb364dd0-c199-4ea9-a9da-026f3b0deead"
+    },
+    {
+      "seq_global": 274,
+      "arquivo": "274_cap-086_cena-003_Dios-sabe-si-hay-Dulcinea-la-dama-engendrada-en-el-entendimiento.m4a",
+      "titulo": "Dios sabe si hay Dulcinea: la dama engendrada en el entendimiento",
+      "cap": 86,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-05T04:02:20.534454",
       "status": "deferred"
     }
   ]
