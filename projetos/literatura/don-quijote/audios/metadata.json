@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-04T23:02:21.780137",
+  "atualizado": "2026-10-05T00:03:30.295171",
   "audios": [
     {
       "seq_global": 1,
@@ -3522,8 +3522,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-04T23:00:09.612892",
-      "status": "created",
-      "artifact_id": "6f664e0b-56b7-4c71-b5b2-0257b0d20f9c"
+      "status": "downloaded",
+      "artifact_id": "6f664e0b-56b7-4c71-b5b2-0257b0d20f9c",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/271_cap-085_cena-004_La-embestida-del-eclesiastico-y-el-caballero-en-pie.m4a",
+      "tamanho_bytes": 19389015
     },
     {
       "seq_global": 272,
@@ -3532,7 +3534,18 @@
       "cap": 86,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-04T23:02:21.777712",
+      "data": "2026-10-05T00:01:17.950339",
+      "status": "created",
+      "artifact_id": "1cbefe7a-df35-4a03-9351-b991cd816e91"
+    },
+    {
+      "seq_global": 273,
+      "arquivo": "273_cap-086_cena-002_El-lavatorio-de-las-barbas-la-ceremonia-como-teatro.m4a",
+      "titulo": "El lavatorio de las barbas: la ceremonia como teatro",
+      "cap": 86,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-05T00:03:30.291226",
       "status": "deferred"
     }
   ]
