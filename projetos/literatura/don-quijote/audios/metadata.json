@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-05T18:00:12.792029",
+  "atualizado": "2026-10-05T19:02:20.958027",
   "audios": [
     {
       "seq_global": 1,
@@ -3586,7 +3586,18 @@
       "cap": 87,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-05T18:00:12.787918",
+      "data": "2026-10-05T19:00:08.474866",
+      "status": "created",
+      "artifact_id": "6115241c-52de-4f69-97a4-83f33d18c938"
+    },
+    {
+      "seq_global": 277,
+      "arquivo": "277_cap-087_cena-003_La-inversion-el-enganador-enganado.m4a",
+      "titulo": "La inversion: el enganador enganado",
+      "cap": 87,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-05T19:02:20.956303",
       "status": "deferred"
     }
   ]
