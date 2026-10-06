@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-06T10:09:32.883946",
+  "atualizado": "2026-10-06T14:05:53.570688",
   "audios": [
     {
       "seq_global": 1,
@@ -3660,7 +3660,29 @@
       "cap": 89,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-06T10:09:32.879894",
+      "data": "2026-10-06T14:01:21.811740",
+      "status": "created",
+      "artifact_id": "dc5d168e-1192-4eba-bda1-e2846b2ab152"
+    },
+    {
+      "seq_global": 283,
+      "arquivo": "283_cap-089_cena-003_El-regateo-del-alma-Sancho-consiente.m4a",
+      "titulo": "El regateo del alma: Sancho consiente",
+      "cap": 89,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-06T14:03:33.906115",
+      "status": "created",
+      "artifact_id": "28772a67-359d-47b1-b482-8385adc8fa83"
+    },
+    {
+      "seq_global": 284,
+      "arquivo": "284_cap-090_cena-001_La-penitencia-negociada-carnes-de-algodon.m4a",
+      "titulo": "La penitencia negociada: carnes de algodón",
+      "cap": 90,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-06T14:05:53.568605",
       "status": "deferred"
     }
   ]
