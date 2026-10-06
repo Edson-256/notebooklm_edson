@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-06T19:06:51.497904",
+  "atualizado": "2026-10-06T20:04:23.767877",
   "audios": [
     {
       "seq_global": 1,
@@ -3672,8 +3672,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-06T14:03:33.906115",
-      "status": "created",
-      "artifact_id": "28772a67-359d-47b1-b482-8385adc8fa83"
+      "status": "downloaded",
+      "artifact_id": "28772a67-359d-47b1-b482-8385adc8fa83",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/283_cap-089_cena-003_El-regateo-del-alma-Sancho-consiente.m4a",
+      "tamanho_bytes": 21954526
     },
     {
       "seq_global": 284,
@@ -3683,8 +3685,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-06T19:02:19.497030",
-      "status": "created",
-      "artifact_id": "8e3f3b5e-98b3-4b83-ab57-6e22634bd83e"
+      "status": "downloaded",
+      "artifact_id": "8e3f3b5e-98b3-4b83-ab57-6e22634bd83e",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/284_cap-090_cena-001_La-penitencia-negociada-carnes-de-algodon.m4a",
+      "tamanho_bytes": 20153467
     },
     {
       "seq_global": 285,
@@ -3694,8 +3698,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-06T19:04:30.756372",
-      "status": "created",
-      "artifact_id": "13b63c0a-bfca-4f7f-a4f4-eed14723b9c2"
+      "status": "downloaded",
+      "artifact_id": "13b63c0a-bfca-4f7f-a4f4-eed14723b9c2",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/285_cap-090_cena-002_La-carta-a-Teresa-retrato-involuntario-de-un-alma.m4a",
+      "tamanho_bytes": 32347303
     },
     {
       "seq_global": 286,
@@ -3704,7 +3710,7 @@
       "cap": 90,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-06T19:06:51.495293",
+      "data": "2026-10-06T20:04:23.763475",
       "status": "deferred"
     }
   ]
