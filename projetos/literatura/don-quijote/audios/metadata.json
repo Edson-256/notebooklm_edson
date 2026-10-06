@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-05T22:00:57.872782",
+  "atualizado": "2026-10-05T23:05:47.519279",
   "audios": [
     {
       "seq_global": 1,
@@ -3587,8 +3587,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-05T19:00:08.474866",
-      "status": "created",
-      "artifact_id": "6115241c-52de-4f69-97a4-83f33d18c938"
+      "status": "downloaded",
+      "artifact_id": "6115241c-52de-4f69-97a4-83f33d18c938",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/276_cap-087_cena-002_El-escrupulo-quien-no-sabe-gobernarse-a-si-mismo.m4a",
+      "tamanho_bytes": 25454931
     },
     {
       "seq_global": 277,
@@ -3597,7 +3599,29 @@
       "cap": 87,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-05T22:00:57.868964",
+      "data": "2026-10-05T23:01:17.638155",
+      "status": "created",
+      "artifact_id": "a1d2572c-8353-47ac-8b58-e90ae96892f3"
+    },
+    {
+      "seq_global": 278,
+      "arquivo": "278_cap-088_cena-001_La-monteria-y-el-buen-gobernador.m4a",
+      "titulo": "La montería y el buen gobernador",
+      "cap": 88,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-05T23:03:27.094538",
+      "status": "created",
+      "artifact_id": "d75c3d6a-9a11-4b7d-b2d8-7d9b1f17b212"
+    },
+    {
+      "seq_global": 279,
+      "arquivo": "279_cap-088_cena-002_El-Diablo-correo-y-el-desasosiego-de-la-verdad.m4a",
+      "titulo": "El Diablo correo y el desasosiego de la verdad",
+      "cap": 88,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-05T23:05:47.517409",
       "status": "deferred"
     }
   ]
