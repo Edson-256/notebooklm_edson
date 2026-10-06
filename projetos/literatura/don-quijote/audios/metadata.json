@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-06T04:00:18.630470",
+  "atualizado": "2026-10-06T05:02:23.168527",
   "audios": [
     {
       "seq_global": 1,
@@ -3625,7 +3625,18 @@
       "cap": 88,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-06T04:00:18.626814",
+      "data": "2026-10-06T05:00:09.051104",
+      "status": "created",
+      "artifact_id": "0cd4dbe6-1204-4a2e-ba06-322b285cafb5"
+    },
+    {
+      "seq_global": 280,
+      "arquivo": "280_cap-088_cena-003_El-desfile-de-los-carros-de-los-sabios-encantadores.m4a",
+      "titulo": "El desfile de los carros de los sabios encantadores",
+      "cap": 88,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-06T05:02:23.165531",
       "status": "deferred"
     }
   ]
