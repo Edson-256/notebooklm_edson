@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-06T09:05:06.616470",
+  "atualizado": "2026-10-06T10:09:32.883946",
   "audios": [
     {
       "seq_global": 1,
@@ -3626,8 +3626,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-06T05:00:09.051104",
-      "status": "created",
-      "artifact_id": "0cd4dbe6-1204-4a2e-ba06-322b285cafb5"
+      "status": "downloaded",
+      "artifact_id": "0cd4dbe6-1204-4a2e-ba06-322b285cafb5",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/279_cap-088_cena-002_El-Diablo-correo-y-el-desasosiego-de-la-verdad.m4a",
+      "tamanho_bytes": 35178129
     },
     {
       "seq_global": 280,
@@ -3658,7 +3660,7 @@
       "cap": 89,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-06T09:05:06.613219",
+      "data": "2026-10-06T10:09:32.879894",
       "status": "deferred"
     }
   ]
