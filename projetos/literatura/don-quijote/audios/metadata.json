@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-06T18:02:29.643203",
+  "atualizado": "2026-10-06T19:06:51.497904",
   "audios": [
     {
       "seq_global": 1,
@@ -3682,7 +3682,29 @@
       "cap": 90,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-06T18:02:29.639615",
+      "data": "2026-10-06T19:02:19.497030",
+      "status": "created",
+      "artifact_id": "8e3f3b5e-98b3-4b83-ab57-6e22634bd83e"
+    },
+    {
+      "seq_global": 285,
+      "arquivo": "285_cap-090_cena-002_La-carta-a-Teresa-retrato-involuntario-de-un-alma.m4a",
+      "titulo": "La carta a Teresa: retrato involuntario de un alma",
+      "cap": 90,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-06T19:04:30.756372",
+      "status": "created",
+      "artifact_id": "13b63c0a-bfca-4f7f-a4f4-eed14723b9c2"
+    },
+    {
+      "seq_global": 286,
+      "arquivo": "286_cap-090_cena-003_La-entrada-de-Trifaldin-el-luto-que-anuncia-la-burla.m4a",
+      "titulo": "La entrada de Trifaldín: el luto que anuncia la burla",
+      "cap": 90,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-06T19:06:51.495293",
       "status": "deferred"
     }
   ]
