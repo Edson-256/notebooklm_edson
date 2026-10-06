@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-05T23:05:47.519279",
+  "atualizado": "2026-10-06T00:01:42.876755",
   "audios": [
     {
       "seq_global": 1,
@@ -3600,8 +3600,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-05T23:01:17.638155",
-      "status": "created",
-      "artifact_id": "a1d2572c-8353-47ac-8b58-e90ae96892f3"
+      "status": "downloaded",
+      "artifact_id": "a1d2572c-8353-47ac-8b58-e90ae96892f3",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/277_cap-087_cena-003_La-inversion-el-enganador-enganado.m4a",
+      "tamanho_bytes": 17141111
     },
     {
       "seq_global": 278,
@@ -3611,8 +3613,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-05T23:03:27.094538",
-      "status": "created",
-      "artifact_id": "d75c3d6a-9a11-4b7d-b2d8-7d9b1f17b212"
+      "status": "downloaded",
+      "artifact_id": "d75c3d6a-9a11-4b7d-b2d8-7d9b1f17b212",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/278_cap-088_cena-001_La-monteria-y-el-buen-gobernador.m4a",
+      "tamanho_bytes": 34803747
     },
     {
       "seq_global": 279,
@@ -3621,7 +3625,7 @@
       "cap": 88,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-05T23:05:47.517409",
+      "data": "2026-10-06T00:01:42.873530",
       "status": "deferred"
     }
   ]
