@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-07T14:04:59.501257",
+  "atualizado": "2026-10-07T15:09:22.143934",
   "audios": [
     {
       "seq_global": 1,
@@ -3776,7 +3776,29 @@
       "cap": 93,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-07T14:04:59.497363",
+      "data": "2026-10-07T15:04:50.142619",
+      "status": "created",
+      "artifact_id": "1eb6bfb6-5239-408d-9735-49d00fae12f4"
+    },
+    {
+      "seq_global": 293,
+      "arquivo": "293_cap-093_cena-002_Malambruno-y-la-revelacion-de-las-barbas.m4a",
+      "titulo": "Malambruno y la revelacion de las barbas",
+      "cap": 93,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-07T15:07:01.469507",
+      "status": "created",
+      "artifact_id": "c8aa744d-1b7a-4ce5-8e77-230811a96528"
+    },
+    {
+      "seq_global": 294,
+      "arquivo": "294_cap-093_cena-003_El-lamento-de-la-duena-con-barbas.m4a",
+      "titulo": "El lamento de la duena con barbas",
+      "cap": 93,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-07T15:09:22.141212",
       "status": "deferred"
     }
   ]
