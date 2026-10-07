@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-06T23:02:02.867273",
+  "atualizado": "2026-10-07T00:06:24.047432",
   "audios": [
     {
       "seq_global": 1,
@@ -3710,7 +3710,29 @@
       "cap": 90,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-06T23:02:02.863481",
+      "data": "2026-10-07T00:01:52.632353",
+      "status": "created",
+      "artifact_id": "4de4e493-82c7-4c2c-b608-3c3780043de1"
+    },
+    {
+      "seq_global": 287,
+      "arquivo": "287_cap-091_cena-001_En-defensa-de-las-duenas-la-dignidad-de-los-despreciados.m4a",
+      "titulo": "En defensa de las dueñas: la dignidad de los despreciados",
+      "cap": 91,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-07T00:04:03.432309",
+      "status": "created",
+      "artifact_id": "f4496829-b66b-4b15-8e68-95cb62f47b4b"
+    },
+    {
+      "seq_global": 288,
+      "arquivo": "288_cap-091_cena-002_Condesa-o-duena-la-cortesia-se-mide-por-el-talle.m4a",
+      "titulo": "Condesa o dueña: la cortesia se mide por el talle",
+      "cap": 91,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-07T00:06:24.043858",
       "status": "deferred"
     }
   ]
