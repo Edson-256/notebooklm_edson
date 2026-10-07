@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-07T04:03:01.158889",
+  "atualizado": "2026-10-07T05:07:22.671362",
   "audios": [
     {
       "seq_global": 1,
@@ -3732,7 +3732,29 @@
       "cap": 91,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-07T04:03:01.152666",
+      "data": "2026-10-07T05:02:50.501145",
+      "status": "created",
+      "artifact_id": "7e7a925d-2a5e-4173-aa5f-a34b712be95d"
+    },
+    {
+      "seq_global": 289,
+      "arquivo": "289_cap-092_cena-001_La-procesion-de-las-Tres-Faldas.m4a",
+      "titulo": "La procesion de las Tres Faldas",
+      "cap": 92,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-07T05:05:00.913933",
+      "status": "created",
+      "artifact_id": "c758cfff-a114-4424-8ad9-c728042b767b"
+    },
+    {
+      "seq_global": 290,
+      "arquivo": "290_cap-092_cena-002_Las-coplas-que-hieren-el-alma.m4a",
+      "titulo": "Las coplas que hieren el alma",
+      "cap": 92,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-07T05:07:22.668239",
       "status": "deferred"
     }
   ]
