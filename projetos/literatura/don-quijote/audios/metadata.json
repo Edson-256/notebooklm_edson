@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-07T19:06:05.097998",
+  "atualizado": "2026-10-07T20:10:22.835349",
   "audios": [
     {
       "seq_global": 1,
@@ -3798,7 +3798,29 @@
       "cap": 93,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-07T19:06:05.092812",
+      "data": "2026-10-07T20:05:50.713029",
+      "status": "created",
+      "artifact_id": "e5a9562f-061e-4006-9130-9cc6295e075f"
+    },
+    {
+      "seq_global": 295,
+      "arquivo": "295_cap-094_cena-001_Clavileno-el-Aligero-el-caballo-de-leno-que-vuela.m4a",
+      "titulo": "Clavileño el Alígero: el caballo de leño que vuela",
+      "cap": 94,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-07T20:08:01.881309",
+      "status": "created",
+      "artifact_id": "299f0ce0-7816-4264-8c4f-3f72af9eea11"
+    },
+    {
+      "seq_global": 296,
+      "arquivo": "296_cap-094_cena-002_La-rebelion-del-escudero-anonimo.m4a",
+      "titulo": "La rebelión del escudero anónimo",
+      "cap": 94,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-07T20:10:22.831086",
       "status": "deferred"
     }
   ]
