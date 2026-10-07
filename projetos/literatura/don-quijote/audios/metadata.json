@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-07T09:04:00.856804",
+  "atualizado": "2026-10-07T10:08:14.804665",
   "audios": [
     {
       "seq_global": 1,
@@ -3754,7 +3754,29 @@
       "cap": 92,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-07T09:04:00.851632",
+      "data": "2026-10-07T10:03:49.567531",
+      "status": "created",
+      "artifact_id": "ddd293e5-4bac-4f98-b63d-2656f19cd46e"
+    },
+    {
+      "seq_global": 291,
+      "arquivo": "291_cap-092_cena-003_No-me-rindieron-los-versos-sino-mi-simplicidad.m4a",
+      "titulo": "No me rindieron los versos, sino mi simplicidad",
+      "cap": 92,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-07T10:06:00.631900",
+      "status": "created",
+      "artifact_id": "cf7d6a7c-7864-4d0a-b4f7-c335eddcb93a"
+    },
+    {
+      "seq_global": 292,
+      "arquivo": "292_cap-093_cena-001_El-entierro-y-el-caballero-hecho-rey.m4a",
+      "titulo": "El entierro y el caballero hecho rey",
+      "cap": 93,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-07T10:08:14.800970",
       "status": "deferred"
     }
   ]
