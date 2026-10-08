@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-08T01:09:11.185909",
+  "atualizado": "2026-10-08T02:09:37.254221",
   "audios": [
     {
       "seq_global": 1,
@@ -3831,7 +3831,18 @@
       "cap": 94,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-08T01:09:11.182083",
+      "data": "2026-10-08T02:07:21.178195",
+      "status": "created",
+      "artifact_id": "17fc10b7-25d2-4d85-bd42-92aed18e6681"
+    },
+    {
+      "seq_global": 298,
+      "arquivo": "298_cap-095_cena-001_El-caballo-de-madera-y-el-miedo-de-Sancho.m4a",
+      "titulo": "El caballo de madera y el miedo de Sancho",
+      "cap": 95,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-08T02:09:37.249588",
       "status": "deferred"
     }
   ]
