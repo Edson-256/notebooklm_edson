@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-08T07:22:57.602636",
+  "atualizado": "2026-10-08T08:10:24.041597",
   "audios": [
     {
       "seq_global": 1,
@@ -3733,8 +3733,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-07T05:02:50.501145",
-      "status": "created",
-      "artifact_id": "7e7a925d-2a5e-4173-aa5f-a34b712be95d"
+      "status": "downloaded",
+      "artifact_id": "7e7a925d-2a5e-4173-aa5f-a34b712be95d",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/288_cap-091_cena-002_Condesa-o-duena-la-cortesia-se-mide-por-el-talle.m4a",
+      "tamanho_bytes": 30539637
     },
     {
       "seq_global": 289,
@@ -3755,8 +3757,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-07T10:03:49.567531",
-      "status": "created",
-      "artifact_id": "ddd293e5-4bac-4f98-b63d-2656f19cd46e"
+      "status": "downloaded",
+      "artifact_id": "ddd293e5-4bac-4f98-b63d-2656f19cd46e",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/290_cap-092_cena-002_Las-coplas-que-hieren-el-alma.m4a",
+      "tamanho_bytes": 40699222
     },
     {
       "seq_global": 291,
@@ -3777,8 +3781,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-07T15:04:50.142619",
-      "status": "created",
-      "artifact_id": "1eb6bfb6-5239-408d-9735-49d00fae12f4"
+      "status": "downloaded",
+      "artifact_id": "1eb6bfb6-5239-408d-9735-49d00fae12f4",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/292_cap-093_cena-001_El-entierro-y-el-caballero-hecho-rey.m4a",
+      "tamanho_bytes": 40248642
     },
     {
       "seq_global": 293,
@@ -3846,7 +3852,7 @@
       "cap": 95,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-08T07:22:57.599863",
+      "data": "2026-10-08T08:10:24.036856",
       "status": "deferred"
     }
   ]
