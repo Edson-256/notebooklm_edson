@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-08T06:08:00.248864",
+  "atualizado": "2026-10-08T07:22:57.602636",
   "audios": [
     {
       "seq_global": 1,
@@ -3788,8 +3788,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-07T15:07:01.469507",
-      "status": "created",
-      "artifact_id": "c8aa744d-1b7a-4ce5-8e77-230811a96528"
+      "status": "downloaded",
+      "artifact_id": "c8aa744d-1b7a-4ce5-8e77-230811a96528",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/293_cap-093_cena-002_Malambruno-y-la-revelacion-de-las-barbas.m4a",
+      "tamanho_bytes": 23732311
     },
     {
       "seq_global": 294,
@@ -3832,8 +3834,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-08T02:07:21.178195",
-      "status": "created",
-      "artifact_id": "17fc10b7-25d2-4d85-bd42-92aed18e6681"
+      "status": "downloaded",
+      "artifact_id": "17fc10b7-25d2-4d85-bd42-92aed18e6681",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/297_cap-094_cena-003_Las-lagrimas-que-vencen-al-escudero.m4a",
+      "tamanho_bytes": 25667089
     },
     {
       "seq_global": 298,
@@ -3842,7 +3846,7 @@
       "cap": 95,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-08T06:08:00.243014",
+      "data": "2026-10-08T07:22:57.599863",
       "status": "deferred"
     }
   ]
