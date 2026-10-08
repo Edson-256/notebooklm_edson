@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-08T00:06:59.940941",
+  "atualizado": "2026-10-08T01:09:11.185909",
   "audios": [
     {
       "seq_global": 1,
@@ -3820,7 +3820,18 @@
       "cap": 94,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-08T00:06:59.935516",
+      "data": "2026-10-08T01:06:50.162339",
+      "status": "created",
+      "artifact_id": "0f609861-ca69-4a7d-b9cd-2274faf43d47"
+    },
+    {
+      "seq_global": 297,
+      "arquivo": "297_cap-094_cena-003_Las-lagrimas-que-vencen-al-escudero.m4a",
+      "titulo": "Las lágrimas que vencen al escudero",
+      "cap": 94,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-08T01:09:11.182083",
       "status": "deferred"
     }
   ]
