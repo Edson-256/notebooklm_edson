@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-09T14:03:00.743740",
+  "atualizado": "2026-10-09T15:07:22.883889",
   "audios": [
     {
       "seq_global": 1,
@@ -3862,7 +3862,29 @@
       "cap": 95,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-09T14:03:00.739653",
+      "data": "2026-10-09T15:02:50.142078",
+      "status": "created",
+      "artifact_id": "fecc7222-cfce-4530-b55f-22b3fc0784ff"
+    },
+    {
+      "seq_global": 299,
+      "arquivo": "299_cap-095_cena-002_El-vuelo-inmovil-por-las-regiones-del-aire.m4a",
+      "titulo": "El vuelo inmovil por las regiones del aire",
+      "cap": 95,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-09T15:05:01.146549",
+      "status": "created",
+      "artifact_id": "2cf5c14f-b53e-4d0e-b890-facc40cfb784"
+    },
+    {
+      "seq_global": 300,
+      "arquivo": "300_cap-095_cena-003_Las-siete-cabrillas-y-el-pacto-de-mentiras.m4a",
+      "titulo": "Las siete cabrillas y el pacto de mentiras",
+      "cap": 95,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-09T15:07:22.879843",
       "status": "deferred"
     }
   ]
