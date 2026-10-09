@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-09T01:05:31.389847",
+  "atualizado": "2026-10-09T02:08:39.940726",
   "audios": [
     {
       "seq_global": 1,
@@ -3639,8 +3639,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-06T09:00:49.147973",
-      "status": "created",
-      "artifact_id": "f1a839fd-40b6-4fca-adc8-703263293df0"
+      "status": "downloaded",
+      "artifact_id": "f1a839fd-40b6-4fca-adc8-703263293df0",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/280_cap-088_cena-003_El-desfile-de-los-carros-de-los-sabios-encantadores.m4a",
+      "tamanho_bytes": 20885797
     },
     {
       "seq_global": 281,
@@ -3650,8 +3652,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-06T09:02:54.353297",
-      "status": "created",
-      "artifact_id": "77bef62b-2a4c-44cb-9cd7-463e8a2c9590"
+      "status": "downloaded",
+      "artifact_id": "77bef62b-2a4c-44cb-9cd7-463e8a2c9590",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/281_cap-089_cena-001_El-carro-de-la-Muerte-y-el-decreto-de-Merlin.m4a",
+      "tamanho_bytes": 40294958
     },
     {
       "seq_global": 282,
@@ -3852,7 +3856,7 @@
       "cap": 95,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-09T01:05:31.383402",
+      "data": "2026-10-09T02:08:39.935528",
       "status": "deferred"
     }
   ]
