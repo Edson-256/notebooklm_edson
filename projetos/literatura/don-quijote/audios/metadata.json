@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-09T16:06:13.288797",
+  "atualizado": "2026-10-09T17:08:52.555735",
   "audios": [
     {
       "seq_global": 1,
@@ -3895,7 +3895,29 @@
       "cap": 96,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-09T16:06:13.285297",
+      "data": "2026-10-09T17:04:20.613154",
+      "status": "created",
+      "artifact_id": "7732c81a-fbba-4c98-aa5b-60a694e9b313"
+    },
+    {
+      "seq_global": 302,
+      "arquivo": "302_cap-096_cena-002_El-Caton-de-don-Quijote-fortuna-temor-de-Dios-y-conocerte-a-ti-mismo.m4a",
+      "titulo": "El Caton de don Quijote: fortuna, temor de Dios y 'conocerte a ti mismo'",
+      "cap": 96,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-09T17:06:31.119442",
+      "status": "created",
+      "artifact_id": "221e4db3-d35f-4c1c-901e-64a3ea8e185e"
+    },
+    {
+      "seq_global": 303,
+      "arquivo": "303_cap-096_cena-003_Los-consejos-de-la-justicia-que-resplandezca-la-misericordia.m4a",
+      "titulo": "Los consejos de la justicia: que resplandezca la misericordia",
+      "cap": 96,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-09T17:08:52.552269",
       "status": "deferred"
     }
   ]
