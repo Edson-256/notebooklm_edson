@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-09T08:04:29.667767",
+  "atualizado": "2026-10-09T09:21:51.029657",
   "audios": [
     {
       "seq_global": 1,
@@ -3715,8 +3715,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-07T00:01:52.632353",
-      "status": "created",
-      "artifact_id": "4de4e493-82c7-4c2c-b608-3c3780043de1"
+      "status": "downloaded",
+      "artifact_id": "4de4e493-82c7-4c2c-b608-3c3780043de1",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/286_cap-090_cena-003_La-entrada-de-Trifaldin-el-luto-que-anuncia-la-burla.m4a",
+      "tamanho_bytes": 18393611
     },
     {
       "seq_global": 287,
@@ -3726,8 +3728,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-07T00:04:03.432309",
-      "status": "created",
-      "artifact_id": "f4496829-b66b-4b15-8e68-95cb62f47b4b"
+      "status": "downloaded",
+      "artifact_id": "f4496829-b66b-4b15-8e68-95cb62f47b4b",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/287_cap-091_cena-001_En-defensa-de-las-duenas-la-dignidad-de-los-despreciados.m4a",
+      "tamanho_bytes": 17716562
     },
     {
       "seq_global": 288,
@@ -3750,8 +3754,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-07T05:05:00.913933",
-      "status": "created",
-      "artifact_id": "c758cfff-a114-4424-8ad9-c728042b767b"
+      "status": "downloaded",
+      "artifact_id": "c758cfff-a114-4424-8ad9-c728042b767b",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/289_cap-092_cena-001_La-procesion-de-las-Tres-Faldas.m4a",
+      "tamanho_bytes": 29684677
     },
     {
       "seq_global": 290,
@@ -3856,7 +3862,7 @@
       "cap": 95,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-09T08:04:29.661827",
+      "data": "2026-10-09T09:21:51.022003",
       "status": "deferred"
     }
   ]
