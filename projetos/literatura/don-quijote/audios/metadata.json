@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-09T15:07:22.883889",
+  "atualizado": "2026-10-09T16:06:13.288797",
   "audios": [
     {
       "seq_global": 1,
@@ -3884,7 +3884,18 @@
       "cap": 95,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-09T15:07:22.879843",
+      "data": "2026-10-09T16:03:51.167503",
+      "status": "created",
+      "artifact_id": "83a3fcd5-a548-468e-962c-45c8eb89af19"
+    },
+    {
+      "seq_global": 301,
+      "arquivo": "301_cap-096_cena-001_Sancho-vuelto-del-cielo-sere-Sancho-Panza.m4a",
+      "titulo": "Sancho vuelto del cielo: 'seré Sancho Panza'",
+      "cap": 96,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-09T16:06:13.285297",
       "status": "deferred"
     }
   ]
