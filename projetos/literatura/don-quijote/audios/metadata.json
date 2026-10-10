@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-10T17:10:00.983714",
+  "atualizado": "2026-10-10T18:14:23.276484",
   "audios": [
     {
       "seq_global": 1,
@@ -4016,7 +4016,29 @@
       "cap": 99,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-10T17:10:00.977751",
+      "data": "2026-10-10T18:09:50.855569",
+      "status": "created",
+      "artifact_id": "ab02ab62-5d9a-40f5-bc5c-9f6afec7b065"
+    },
+    {
+      "seq_global": 313,
+      "arquivo": "313_cap-099_cena-003_La-bolsa-y-la-mujer-no-forzada.m4a",
+      "titulo": "La bolsa y la mujer no forzada",
+      "cap": 99,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-10T18:12:01.649930",
+      "status": "created",
+      "artifact_id": "be12480f-fb73-4a7d-a9b9-d705da5690df"
+    },
+    {
+      "seq_global": 314,
+      "arquivo": "314_cap-100_cena-001_El-desmayo-fingido-y-la-vanidad-del-caballero.m4a",
+      "titulo": "El desmayo fingido y la vanidad del caballero",
+      "cap": 100,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-10T18:14:23.272786",
       "status": "deferred"
     }
   ]
