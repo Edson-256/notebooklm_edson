@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-09T21:05:31.322169",
+  "atualizado": "2026-10-09T22:09:51.305470",
   "audios": [
     {
       "seq_global": 1,
@@ -3917,7 +3917,29 @@
       "cap": 96,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-09T21:05:31.316243",
+      "data": "2026-10-09T22:05:20.232287",
+      "status": "created",
+      "artifact_id": "712b032f-c719-4f46-9516-5a5c1ac3a669"
+    },
+    {
+      "seq_global": 304,
+      "arquivo": "304_cap-097_cena-001_Los-consejos-del-cuerpo-discrecion-en-boca-del-loco.m4a",
+      "titulo": "Los consejos del cuerpo: discreción en boca del loco",
+      "cap": 97,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-09T22:07:29.650038",
+      "status": "created",
+      "artifact_id": "012a83b4-1a2a-46ee-a3a4-1471d13997b6"
+    },
+    {
+      "seq_global": 305,
+      "arquivo": "305_cap-097_cena-002_La-batalla-de-los-refranes.m4a",
+      "titulo": "La batalla de los refranes",
+      "cap": 97,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-09T22:09:51.302388",
       "status": "deferred"
     }
   ]
