@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-10T18:14:23.276484",
+  "atualizado": "2026-10-10T19:13:11.290153",
   "audios": [
     {
       "seq_global": 1,
@@ -4038,7 +4038,18 @@
       "cap": 100,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-10T18:14:23.272786",
+      "data": "2026-10-10T19:10:50.520797",
+      "status": "created",
+      "artifact_id": "4596d985-91ff-44fc-a7b5-ea8483c84040"
+    },
+    {
+      "seq_global": 315,
+      "arquivo": "315_cap-100_cena-002_El-romance-de-la-firmeza-Dulcinea-en-la-tabla-rasa-del-alma.m4a",
+      "titulo": "El romance de la firmeza: Dulcinea en la tabla rasa del alma",
+      "cap": 100,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-10T19:13:11.286505",
       "status": "deferred"
     }
   ]
