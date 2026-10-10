@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-10T19:13:11.290153",
+  "atualizado": "2026-10-10T20:24:41.373941",
   "audios": [
     {
       "seq_global": 1,
@@ -3780,8 +3780,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-07T10:06:00.631900",
-      "status": "created",
-      "artifact_id": "cf7d6a7c-7864-4d0a-b4f7-c335eddcb93a"
+      "status": "downloaded",
+      "artifact_id": "cf7d6a7c-7864-4d0a-b4f7-c335eddcb93a",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/291_cap-092_cena-003_No-me-rindieron-los-versos-sino-mi-simplicidad.m4a",
+      "tamanho_bytes": 11907744
     },
     {
       "seq_global": 292,
@@ -3817,8 +3819,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-07T20:05:50.713029",
-      "status": "created",
-      "artifact_id": "e5a9562f-061e-4006-9130-9cc6295e075f"
+      "status": "downloaded",
+      "artifact_id": "e5a9562f-061e-4006-9130-9cc6295e075f",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/294_cap-093_cena-003_El-lamento-de-la-duena-con-barbas.m4a",
+      "tamanho_bytes": 37764557
     },
     {
       "seq_global": 295,
@@ -3828,8 +3832,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-07T20:08:01.881309",
-      "status": "created",
-      "artifact_id": "299f0ce0-7816-4264-8c4f-3f72af9eea11"
+      "status": "downloaded",
+      "artifact_id": "299f0ce0-7816-4264-8c4f-3f72af9eea11",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/295_cap-094_cena-001_Clavileno-el-Aligero-el-caballo-de-leno-que-vuela.m4a",
+      "tamanho_bytes": 19016873
     },
     {
       "seq_global": 296,
@@ -3918,8 +3924,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-09T22:05:20.232287",
-      "status": "created",
-      "artifact_id": "712b032f-c719-4f46-9516-5a5c1ac3a669"
+      "status": "downloaded",
+      "artifact_id": "712b032f-c719-4f46-9516-5a5c1ac3a669",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/303_cap-096_cena-003_Los-consejos-de-la-justicia-que-resplandezca-la-misericordia.m4a",
+      "tamanho_bytes": 37032975
     },
     {
       "seq_global": 304,
@@ -3929,8 +3937,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-09T22:07:29.650038",
-      "status": "created",
-      "artifact_id": "012a83b4-1a2a-46ee-a3a4-1471d13997b6"
+      "status": "downloaded",
+      "artifact_id": "012a83b4-1a2a-46ee-a3a4-1471d13997b6",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/304_cap-097_cena-001_Los-consejos-del-cuerpo-discrecion-en-boca-del-loco.m4a",
+      "tamanho_bytes": 36310988
     },
     {
       "seq_global": 305,
@@ -3940,8 +3950,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-10T03:06:21.049960",
-      "status": "created",
-      "artifact_id": "33a00600-3597-481e-837c-fe6b959c9f94"
+      "status": "downloaded",
+      "artifact_id": "33a00600-3597-481e-837c-fe6b959c9f94",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/305_cap-097_cena-002_La-batalla-de-los-refranes.m4a",
+      "tamanho_bytes": 19329252
     },
     {
       "seq_global": 306,
@@ -3951,8 +3963,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-10T03:08:31.490974",
-      "status": "created",
-      "artifact_id": "baa25e5e-aab0-4f80-967a-22f11eba0ff1"
+      "status": "downloaded",
+      "artifact_id": "baa25e5e-aab0-4f80-967a-22f11eba0ff1",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/306_cap-097_cena-003_Mas-quiero-ir-Sancho-al-cielo.m4a",
+      "tamanho_bytes": 21036815
     },
     {
       "seq_global": 307,
@@ -3962,8 +3976,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-10T08:07:19.589191",
-      "status": "created",
-      "artifact_id": "2e7af9de-2084-40f2-ac66-31e542d11764"
+      "status": "downloaded",
+      "artifact_id": "2e7af9de-2084-40f2-ac66-31e542d11764",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/307_cap-098_cena-001_La-queja-del-historiador-elogio-de-lo-que-se-dejo-de-escribir.m4a",
+      "tamanho_bytes": 16129272
     },
     {
       "seq_global": 308,
@@ -3973,8 +3989,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-10T08:09:30.637786",
-      "status": "created",
-      "artifact_id": "328d7957-f4c3-4272-87dc-9a54fa564b81"
+      "status": "downloaded",
+      "artifact_id": "328d7957-f4c3-4272-87dc-9a54fa564b81",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/308_cap-098_cena-002_La-muralla-entre-el-deseo-y-la-honestidad.m4a",
+      "tamanho_bytes": 41667732
     },
     {
       "seq_global": 309,
@@ -3984,8 +4002,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-10T13:08:20.572822",
-      "status": "created",
-      "artifact_id": "1a5c83f5-830a-4850-b67e-3c408bfcb947"
+      "status": "downloaded",
+      "artifact_id": "1a5c83f5-830a-4850-b67e-3c408bfcb947",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/309_cap-098_cena-003_Los-puntos-sueltos-de-la-media-la-verguenza-del-hidalgo-pobre.m4a",
+      "tamanho_bytes": 18165649
     },
     {
       "seq_global": 310,
@@ -3995,8 +4015,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-10T13:10:30.230597",
-      "status": "created",
-      "artifact_id": "f87d1c43-f1c5-46bf-bc91-a33581e07751"
+      "status": "downloaded",
+      "artifact_id": "f87d1c43-f1c5-46bf-bc91-a33581e07751",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/310_cap-098_cena-004_El-romance-de-Altisidora-y-el-nuevo-Eneas.m4a",
+      "tamanho_bytes": 34422641
     },
     {
       "seq_global": 311,
@@ -4006,8 +4028,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-10T14:09:20.740639",
-      "status": "created",
-      "artifact_id": "cfc8f511-4d4b-4936-b263-e94c539ef9a0"
+      "status": "downloaded",
+      "artifact_id": "cfc8f511-4d4b-4936-b263-e94c539ef9a0",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/311_cap-099_cena-001_Sancho-toma-posesion-y-rechaza-el-don.m4a",
+      "tamanho_bytes": 35534582
     },
     {
       "seq_global": 312,
@@ -4017,8 +4041,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-10T18:09:50.855569",
-      "status": "created",
-      "artifact_id": "ab02ab62-5d9a-40f5-bc5c-9f6afec7b065"
+      "status": "downloaded",
+      "artifact_id": "ab02ab62-5d9a-40f5-bc5c-9f6afec7b065",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/312_cap-099_cena-002_El-baculo-hueco-el-nuevo-Salomon.m4a",
+      "tamanho_bytes": 21471707
     },
     {
       "seq_global": 313,
@@ -4028,8 +4054,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-10T18:12:01.649930",
-      "status": "created",
-      "artifact_id": "be12480f-fb73-4a7d-a9b9-d705da5690df"
+      "status": "downloaded",
+      "artifact_id": "be12480f-fb73-4a7d-a9b9-d705da5690df",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/313_cap-099_cena-003_La-bolsa-y-la-mujer-no-forzada.m4a",
+      "tamanho_bytes": 14980610
     },
     {
       "seq_global": 314,
@@ -4039,8 +4067,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-10T19:10:50.520797",
-      "status": "created",
-      "artifact_id": "4596d985-91ff-44fc-a7b5-ea8483c84040"
+      "status": "downloaded",
+      "artifact_id": "4596d985-91ff-44fc-a7b5-ea8483c84040",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/314_cap-100_cena-001_El-desmayo-fingido-y-la-vanidad-del-caballero.m4a",
+      "tamanho_bytes": 39134343
     },
     {
       "seq_global": 315,
@@ -4049,7 +4079,7 @@
       "cap": 100,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-10T19:13:11.286505",
+      "data": "2026-10-10T20:24:41.369054",
       "status": "deferred"
     }
   ]
