@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-10T12:08:29.428009",
+  "atualizado": "2026-10-10T13:12:52.182794",
   "audios": [
     {
       "seq_global": 1,
@@ -3983,7 +3983,29 @@
       "cap": 98,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-10T12:08:29.422022",
+      "data": "2026-10-10T13:08:20.572822",
+      "status": "created",
+      "artifact_id": "1a5c83f5-830a-4850-b67e-3c408bfcb947"
+    },
+    {
+      "seq_global": 310,
+      "arquivo": "310_cap-098_cena-004_El-romance-de-Altisidora-y-el-nuevo-Eneas.m4a",
+      "titulo": "El romance de Altisidora y el nuevo Eneas",
+      "cap": 98,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-10T13:10:30.230597",
+      "status": "created",
+      "artifact_id": "f87d1c43-f1c5-46bf-bc91-a33581e07751"
+    },
+    {
+      "seq_global": 311,
+      "arquivo": "311_cap-099_cena-001_Sancho-toma-posesion-y-rechaza-el-don.m4a",
+      "titulo": "Sancho toma posesion y rechaza el \"don\"",
+      "cap": 99,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-10T13:12:52.178370",
       "status": "deferred"
     }
   ]
