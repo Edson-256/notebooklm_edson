@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-10T07:07:29.864473",
+  "atualizado": "2026-10-10T08:11:50.927649",
   "audios": [
     {
       "seq_global": 1,
@@ -3961,7 +3961,29 @@
       "cap": 98,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-10T07:07:29.857426",
+      "data": "2026-10-10T08:07:19.589191",
+      "status": "created",
+      "artifact_id": "2e7af9de-2084-40f2-ac66-31e542d11764"
+    },
+    {
+      "seq_global": 308,
+      "arquivo": "308_cap-098_cena-002_La-muralla-entre-el-deseo-y-la-honestidad.m4a",
+      "titulo": "La muralla entre el deseo y la honestidad",
+      "cap": 98,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-10T08:09:30.637786",
+      "status": "created",
+      "artifact_id": "328d7957-f4c3-4272-87dc-9a54fa564b81"
+    },
+    {
+      "seq_global": 309,
+      "arquivo": "309_cap-098_cena-003_Los-puntos-sueltos-de-la-media-la-verguenza-del-hidalgo-pobre.m4a",
+      "titulo": "Los puntos sueltos de la media: la vergüenza del hidalgo pobre",
+      "cap": 98,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-10T08:11:50.923986",
       "status": "deferred"
     }
   ]
