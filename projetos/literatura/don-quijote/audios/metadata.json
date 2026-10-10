@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-10T02:06:29.416648",
+  "atualizado": "2026-10-10T03:10:52.254226",
   "audios": [
     {
       "seq_global": 1,
@@ -3939,7 +3939,29 @@
       "cap": 97,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-10T02:06:29.411670",
+      "data": "2026-10-10T03:06:21.049960",
+      "status": "created",
+      "artifact_id": "33a00600-3597-481e-837c-fe6b959c9f94"
+    },
+    {
+      "seq_global": 306,
+      "arquivo": "306_cap-097_cena-003_Mas-quiero-ir-Sancho-al-cielo.m4a",
+      "titulo": "\"Más quiero ir Sancho al cielo\"",
+      "cap": 97,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-10T03:08:31.490974",
+      "status": "created",
+      "artifact_id": "baa25e5e-aab0-4f80-967a-22f11eba0ff1"
+    },
+    {
+      "seq_global": 307,
+      "arquivo": "307_cap-098_cena-001_La-queja-del-historiador-elogio-de-lo-que-se-dejo-de-escribir.m4a",
+      "titulo": "La queja del historiador: elogio de lo que se dejó de escribir",
+      "cap": 98,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-10T03:10:52.250524",
       "status": "deferred"
     }
   ]
