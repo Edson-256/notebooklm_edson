@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-11T14:05:01.342612",
+  "atualizado": "2026-10-11T15:02:53.903016",
   "audios": [
     {
       "seq_global": 1,
@@ -4196,8 +4196,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-11T14:00:43.708520",
-      "status": "created",
-      "artifact_id": "72a1388d-d889-4c95-baa7-c9b3781221cf"
+      "status": "downloaded",
+      "artifact_id": "72a1388d-d889-4c95-baa7-c9b3781221cf",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/323_cap-103_cena-001_El-gobernador-de-bronce-y-las-ollas-podridas.m4a",
+      "tamanho_bytes": 35506195
     },
     {
       "seq_global": 324,
@@ -4207,8 +4209,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-11T14:02:48.670364",
-      "status": "created",
-      "artifact_id": "1574d5e6-f0c1-42d7-9d76-0c6e99b72c7f"
+      "status": "downloaded",
+      "artifact_id": "1574d5e6-f0c1-42d7-9d76-0c6e99b72c7f",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/324_cap-103_cena-002_El-mozo-que-no-quiso-dormir-en-la-carcel.m4a",
+      "tamanho_bytes": 25088019
     },
     {
       "seq_global": 325,
@@ -4217,7 +4221,7 @@
       "cap": 103,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-11T14:05:01.337297",
+      "data": "2026-10-11T15:02:53.900197",
       "status": "deferred"
     }
   ]
