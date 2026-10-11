@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-11T10:05:21.214845",
+  "atualizado": "2026-10-11T11:02:13.016786",
   "audios": [
     {
       "seq_global": 1,
@@ -4183,8 +4183,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-11T10:03:07.628388",
-      "status": "created",
-      "artifact_id": "9cd68b2a-8178-43c0-9ae1-160de3546db4"
+      "status": "downloaded",
+      "artifact_id": "9cd68b2a-8178-43c0-9ae1-160de3546db4",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/322_cap-102_cena-003_La-confesion-de-dona-Rodriguez-y-la-tunda-a-oscuras.m4a",
+      "tamanho_bytes": 24856321
     },
     {
       "seq_global": 323,
@@ -4193,7 +4195,7 @@
       "cap": 103,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-11T10:05:21.210179",
+      "data": "2026-10-11T11:02:13.011889",
       "status": "deferred"
     }
   ]
