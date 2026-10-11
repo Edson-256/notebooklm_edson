@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-11T08:00:49.949155",
+  "atualizado": "2026-10-11T09:05:01.835223",
   "audios": [
     {
       "seq_global": 1,
@@ -4156,7 +4156,29 @@
       "cap": 102,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-11T08:00:49.943949",
+      "data": "2026-10-11T09:00:44.016125",
+      "status": "created",
+      "artifact_id": "6f680667-1034-46a3-8a2e-2c26ef874e20"
+    },
+    {
+      "seq_global": 321,
+      "arquivo": "321_cap-102_cena-002_El-soliloquio-del-demonio-y-la-duena.m4a",
+      "titulo": "El soliloquio del demonio y la dueña",
+      "cap": 102,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-11T09:02:49.239286",
+      "status": "created",
+      "artifact_id": "021bb0d4-267d-4372-81e3-1fd2e1d1fb3d"
+    },
+    {
+      "seq_global": 322,
+      "arquivo": "322_cap-102_cena-003_La-confesion-de-dona-Rodriguez-y-la-tunda-a-oscuras.m4a",
+      "titulo": "La confesión de doña Rodríguez y la tunda a oscuras",
+      "cap": 102,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-11T09:05:01.832155",
       "status": "deferred"
     }
   ]
