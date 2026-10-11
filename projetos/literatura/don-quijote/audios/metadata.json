@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-11T00:08:10.035188",
+  "atualizado": "2026-10-11T01:02:12.318468",
   "audios": [
     {
       "seq_global": 1,
@@ -4118,8 +4118,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-11T00:05:56.819293",
-      "status": "created",
-      "artifact_id": "ad55020f-a0f9-41a9-b613-528ea9d01b15"
+      "status": "downloaded",
+      "artifact_id": "ad55020f-a0f9-41a9-b613-528ea9d01b15",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/317_cap-101_cena-001_El-banquete-prohibido-Sancho-y-el-doctor-Pedro-Recio.m4a",
+      "tamanho_bytes": 51079299
     },
     {
       "seq_global": 318,
@@ -4128,7 +4130,7 @@
       "cap": 101,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-11T00:08:10.032701",
+      "data": "2026-10-11T01:02:12.313765",
       "status": "deferred"
     }
   ]
