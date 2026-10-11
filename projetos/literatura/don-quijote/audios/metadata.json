@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-11T04:05:02.691118",
+  "atualizado": "2026-10-11T05:03:14.340395",
   "audios": [
     {
       "seq_global": 1,
@@ -4131,8 +4131,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-11T04:00:44.768553",
-      "status": "created",
-      "artifact_id": "2aff8971-51e0-44db-ae55-259b397fc34c"
+      "status": "downloaded",
+      "artifact_id": "2aff8971-51e0-44db-ae55-259b397fc34c",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/318_cap-101_cena-002_La-carta-del-duque-y-la-amenaza-de-muerte.m4a",
+      "tamanho_bytes": 18040893
     },
     {
       "seq_global": 319,
@@ -4142,8 +4144,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-11T04:02:49.761022",
-      "status": "created",
-      "artifact_id": "5048f19d-2904-47c9-b783-c884777cc0a6"
+      "status": "downloaded",
+      "artifact_id": "5048f19d-2904-47c9-b783-c884777cc0a6",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/319_cap-101_cena-003_El-labrador-de-Miguel-Turra-y-el-retrato-de-Clara-Perlerina.m4a",
+      "tamanho_bytes": 38229331
     },
     {
       "seq_global": 320,
@@ -4152,7 +4156,7 @@
       "cap": 102,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-11T04:05:02.685015",
+      "data": "2026-10-11T05:03:14.335336",
       "status": "deferred"
     }
   ]
