@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-11T18:00:50.323986",
+  "atualizado": "2026-10-11T19:05:01.257622",
   "audios": [
     {
       "seq_global": 1,
@@ -4221,7 +4221,29 @@
       "cap": 103,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-11T18:00:50.319682",
+      "data": "2026-10-11T19:00:43.844945",
+      "status": "created",
+      "artifact_id": "11077832-8c26-43d2-82d5-932c894f0766"
+    },
+    {
+      "seq_global": 326,
+      "arquivo": "326_cap-104_cena-001_Los-encantadores-desenmascarados-la-venganza-de-la-vanidad.m4a",
+      "titulo": "Los encantadores desenmascarados: la venganza de la vanidad",
+      "cap": 104,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-11T19:02:48.799526",
+      "status": "created",
+      "artifact_id": "cfcfac17-c478-450c-ad9c-d014f2acdc4b"
+    },
+    {
+      "seq_global": 327,
+      "arquivo": "327_cap-104_cena-002_La-carta-de-la-duquesa-el-sueno-de-grandeza-en-la-casa-humilde.m4a",
+      "titulo": "La carta de la duquesa: el sueño de grandeza en la casa humilde",
+      "cap": 104,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-11T19:05:01.253015",
       "status": "deferred"
     }
   ]
