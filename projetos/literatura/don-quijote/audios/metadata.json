@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-11T09:05:01.835223",
+  "atualizado": "2026-10-11T10:05:21.214845",
   "audios": [
     {
       "seq_global": 1,
@@ -4157,8 +4157,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-11T09:00:44.016125",
-      "status": "created",
-      "artifact_id": "6f680667-1034-46a3-8a2e-2c26ef874e20"
+      "status": "downloaded",
+      "artifact_id": "6f680667-1034-46a3-8a2e-2c26ef874e20",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/320_cap-102_cena-001_La-aparicion-nocturna-fantasma-contra-fantasma.m4a",
+      "tamanho_bytes": 33078139
     },
     {
       "seq_global": 321,
@@ -4168,8 +4170,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-11T09:02:49.239286",
-      "status": "created",
-      "artifact_id": "021bb0d4-267d-4372-81e3-1fd2e1d1fb3d"
+      "status": "downloaded",
+      "artifact_id": "021bb0d4-267d-4372-81e3-1fd2e1d1fb3d",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/321_cap-102_cena-002_El-soliloquio-del-demonio-y-la-duena.m4a",
+      "tamanho_bytes": 16539513
     },
     {
       "seq_global": 322,
@@ -4178,7 +4182,18 @@
       "cap": 102,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-11T09:05:01.832155",
+      "data": "2026-10-11T10:03:07.628388",
+      "status": "created",
+      "artifact_id": "9cd68b2a-8178-43c0-9ae1-160de3546db4"
+    },
+    {
+      "seq_global": 323,
+      "arquivo": "323_cap-103_cena-001_El-gobernador-de-bronce-y-las-ollas-podridas.m4a",
+      "titulo": "El gobernador de bronce y las ollas podridas",
+      "cap": 103,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-11T10:05:21.210179",
       "status": "deferred"
     }
   ]
