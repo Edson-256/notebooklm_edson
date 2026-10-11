@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-10T22:06:37.625658",
+  "atualizado": "2026-10-10T23:06:38.543294",
   "audios": [
     {
       "seq_global": 1,
@@ -4085,7 +4085,29 @@
       "cap": 100,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-10T22:06:37.620443",
+      "data": "2026-10-10T23:02:19.524504",
+      "status": "created",
+      "artifact_id": "38b7bd70-4f71-4e11-b2b4-ffd332401e2b"
+    },
+    {
+      "seq_global": 316,
+      "arquivo": "316_cap-100_cena-003_Los-cencerros-los-gatos-y-la-herida-de-la-burla.m4a",
+      "titulo": "Los cencerros, los gatos y la herida de la burla",
+      "cap": 100,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-10T23:04:25.666091",
+      "status": "created",
+      "artifact_id": "03d12e4c-8325-4361-bc59-578702f2f116"
+    },
+    {
+      "seq_global": 317,
+      "arquivo": "317_cap-101_cena-001_El-banquete-prohibido-Sancho-y-el-doctor-Pedro-Recio.m4a",
+      "titulo": "El banquete prohibido: Sancho y el doctor Pedro Recio",
+      "cap": 101,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-10T23:06:38.539720",
       "status": "deferred"
     }
   ]
