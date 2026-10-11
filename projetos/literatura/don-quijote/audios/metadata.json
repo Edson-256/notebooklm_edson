@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-10T23:06:38.543294",
+  "atualizado": "2026-10-11T00:08:10.035188",
   "audios": [
     {
       "seq_global": 1,
@@ -3845,8 +3845,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-08T01:06:50.162339",
-      "status": "created",
-      "artifact_id": "0f609861-ca69-4a7d-b9cd-2274faf43d47"
+      "status": "downloaded",
+      "artifact_id": "0f609861-ca69-4a7d-b9cd-2274faf43d47",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/296_cap-094_cena-002_La-rebelion-del-escudero-anonimo.m4a",
+      "tamanho_bytes": 15884128
     },
     {
       "seq_global": 297,
@@ -3895,8 +3897,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-09T16:03:51.167503",
-      "status": "created",
-      "artifact_id": "83a3fcd5-a548-468e-962c-45c8eb89af19"
+      "status": "downloaded",
+      "artifact_id": "83a3fcd5-a548-468e-962c-45c8eb89af19",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/300_cap-095_cena-003_Las-siete-cabrillas-y-el-pacto-de-mentiras.m4a",
+      "tamanho_bytes": 37952180
     },
     {
       "seq_global": 301,
@@ -3906,8 +3910,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-09T17:04:20.613154",
-      "status": "created",
-      "artifact_id": "7732c81a-fbba-4c98-aa5b-60a694e9b313"
+      "status": "downloaded",
+      "artifact_id": "7732c81a-fbba-4c98-aa5b-60a694e9b313",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/301_cap-096_cena-001_Sancho-vuelto-del-cielo-sere-Sancho-Panza.m4a",
+      "tamanho_bytes": 34584748
     },
     {
       "seq_global": 302,
@@ -4086,8 +4092,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-10T23:02:19.524504",
-      "status": "created",
-      "artifact_id": "38b7bd70-4f71-4e11-b2b4-ffd332401e2b"
+      "status": "downloaded",
+      "artifact_id": "38b7bd70-4f71-4e11-b2b4-ffd332401e2b",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/315_cap-100_cena-002_El-romance-de-la-firmeza-Dulcinea-en-la-tabla-rasa-del-alma.m4a",
+      "tamanho_bytes": 32205366
     },
     {
       "seq_global": 316,
@@ -4097,8 +4105,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-10T23:04:25.666091",
-      "status": "created",
-      "artifact_id": "03d12e4c-8325-4361-bc59-578702f2f116"
+      "status": "downloaded",
+      "artifact_id": "03d12e4c-8325-4361-bc59-578702f2f116",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/316_cap-100_cena-003_Los-cencerros-los-gatos-y-la-herida-de-la-burla.m4a",
+      "tamanho_bytes": 17627549
     },
     {
       "seq_global": 317,
@@ -4107,7 +4117,18 @@
       "cap": 101,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-10T23:06:38.539720",
+      "data": "2026-10-11T00:05:56.819293",
+      "status": "created",
+      "artifact_id": "ad55020f-a0f9-41a9-b613-528ea9d01b15"
+    },
+    {
+      "seq_global": 318,
+      "arquivo": "318_cap-101_cena-002_La-carta-del-duque-y-la-amenaza-de-muerte.m4a",
+      "titulo": "La carta del duque y la amenaza de muerte",
+      "cap": 101,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-11T00:08:10.032701",
       "status": "deferred"
     }
   ]
