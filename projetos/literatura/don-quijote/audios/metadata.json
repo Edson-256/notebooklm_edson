@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-10T21:12:26.043346",
+  "atualizado": "2026-10-10T22:06:37.625658",
   "audios": [
     {
       "seq_global": 1,
@@ -3917,8 +3917,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-09T17:06:31.119442",
-      "status": "created",
-      "artifact_id": "221e4db3-d35f-4c1c-901e-64a3ea8e185e"
+      "status": "downloaded",
+      "artifact_id": "221e4db3-d35f-4c1c-901e-64a3ea8e185e",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/302_cap-096_cena-002_El-Caton-de-don-Quijote-fortuna-temor-de-Dios-y-conocerte-a-ti-mismo.m4a",
+      "tamanho_bytes": 42898568
     },
     {
       "seq_global": 303,
@@ -4083,7 +4085,7 @@
       "cap": 100,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-10T21:12:26.037683",
+      "data": "2026-10-10T22:06:37.620443",
       "status": "deferred"
     }
   ]
