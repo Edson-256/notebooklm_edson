@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-11T13:00:49.994808",
+  "atualizado": "2026-10-11T14:05:01.342612",
   "audios": [
     {
       "seq_global": 1,
@@ -4195,7 +4195,29 @@
       "cap": 103,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-11T13:00:49.989815",
+      "data": "2026-10-11T14:00:43.708520",
+      "status": "created",
+      "artifact_id": "72a1388d-d889-4c95-baa7-c9b3781221cf"
+    },
+    {
+      "seq_global": 324,
+      "arquivo": "324_cap-103_cena-002_El-mozo-que-no-quiso-dormir-en-la-carcel.m4a",
+      "titulo": "El mozo que no quiso dormir en la carcel",
+      "cap": 103,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-11T14:02:48.670364",
+      "status": "created",
+      "artifact_id": "1574d5e6-f0c1-42d7-9d76-0c6e99b72c7f"
+    },
+    {
+      "seq_global": 325,
+      "arquivo": "325_cap-103_cena-003_La-doncella-encerrada-y-el-deseo-de-ver-mundo.m4a",
+      "titulo": "La doncella encerrada y el deseo de ver mundo",
+      "cap": 103,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-11T14:05:01.337297",
       "status": "deferred"
     }
   ]
