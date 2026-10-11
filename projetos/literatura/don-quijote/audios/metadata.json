@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-10T20:24:41.373941",
+  "atualizado": "2026-10-10T21:12:26.043346",
   "audios": [
     {
       "seq_global": 1,
@@ -3869,8 +3869,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-09T15:02:50.142078",
-      "status": "created",
-      "artifact_id": "fecc7222-cfce-4530-b55f-22b3fc0784ff"
+      "status": "downloaded",
+      "artifact_id": "fecc7222-cfce-4530-b55f-22b3fc0784ff",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/298_cap-095_cena-001_El-caballo-de-madera-y-el-miedo-de-Sancho.m4a",
+      "tamanho_bytes": 16291380
     },
     {
       "seq_global": 299,
@@ -3880,8 +3882,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-09T15:05:01.146549",
-      "status": "created",
-      "artifact_id": "2cf5c14f-b53e-4d0e-b890-facc40cfb784"
+      "status": "downloaded",
+      "artifact_id": "2cf5c14f-b53e-4d0e-b890-facc40cfb784",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/299_cap-095_cena-002_El-vuelo-inmovil-por-las-regiones-del-aire.m4a",
+      "tamanho_bytes": 14290862
     },
     {
       "seq_global": 300,
@@ -4079,7 +4083,7 @@
       "cap": 100,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-10T20:24:41.369054",
+      "data": "2026-10-10T21:12:26.037683",
       "status": "deferred"
     }
   ]
