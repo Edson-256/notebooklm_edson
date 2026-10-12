@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-11T23:00:58.109652",
+  "atualizado": "2026-10-12T00:05:10.974379",
   "audios": [
     {
       "seq_global": 1,
@@ -4247,7 +4247,29 @@
       "cap": 104,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-11T23:00:58.104736",
+      "data": "2026-10-12T00:00:43.290311",
+      "status": "created",
+      "artifact_id": "b349960b-8586-4468-827f-24e986cd4d02"
+    },
+    {
+      "seq_global": 328,
+      "arquivo": "328_cap-104_cena-003_Veo-y-toco-pero-leo-la-duda-ante-lo-increible.m4a",
+      "titulo": "Veo y toco, pero leo: la duda ante lo increible",
+      "cap": 104,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-12T00:02:48.905161",
+      "status": "created",
+      "artifact_id": "4512fb2a-b969-4704-9054-03b2f75ac565"
+    },
+    {
+      "seq_global": 329,
+      "arquivo": "329_cap-105_cena-001_El-enigma-del-puente-y-la-sentencia-de-la-misericordia.m4a",
+      "titulo": "El enigma del puente y la sentencia de la misericordia",
+      "cap": 105,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-12T00:05:10.968914",
       "status": "deferred"
     }
   ]
