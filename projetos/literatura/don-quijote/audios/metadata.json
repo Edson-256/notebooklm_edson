@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-12T19:00:49.874757",
+  "atualizado": "2026-10-12T20:05:02.348781",
   "audios": [
     {
       "seq_global": 1,
@@ -4377,7 +4377,29 @@
       "cap": 108,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-12T19:00:49.870594",
+      "data": "2026-10-12T20:00:43.565336",
+      "status": "created",
+      "artifact_id": "49217110-c733-4e17-800a-b71c7c6852ad"
+    },
+    {
+      "seq_global": 338,
+      "arquivo": "338_cap-108_cena-002_El-lamento-de-Ricote-es-dulce-el-amor-de-la-patria.m4a",
+      "titulo": "El lamento de Ricote: es dulce el amor de la patria",
+      "cap": 108,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-12T20:02:49.389076",
+      "status": "created",
+      "artifact_id": "959bf7b2-49cc-4381-a01a-8b8670cf3f03"
+    },
+    {
+      "seq_global": 339,
+      "arquivo": "339_cap-108_cena-003_La-tentacion-rechazada-doscientos-escudos-y-la-lealtad-de-Sancho.m4a",
+      "titulo": "La tentacion rechazada: doscientos escudos y la lealtad de Sancho",
+      "cap": 108,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-12T20:05:02.343309",
       "status": "deferred"
     }
   ]
