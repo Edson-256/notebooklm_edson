@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-12T10:05:04.217612",
+  "atualizado": "2026-10-12T11:05:33.457147",
   "audios": [
     {
       "seq_global": 1,
@@ -4300,8 +4300,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-12T10:00:46.898107",
-      "status": "created",
-      "artifact_id": "ac9a9257-2499-4216-82bd-a1635307d4ca"
+      "status": "downloaded",
+      "artifact_id": "ac9a9257-2499-4216-82bd-a1635307d4ca",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/331_cap-105_cena-003_La-respuesta-de-Sancho-hambre-honradez-y-gobierno.m4a",
+      "tamanho_bytes": 23497741
     },
     {
       "seq_global": 332,
@@ -4311,8 +4313,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-12T10:02:51.653121",
-      "status": "created",
-      "artifact_id": "51545ecd-e13d-4ff5-b13f-1df1830822f3"
+      "status": "downloaded",
+      "artifact_id": "51545ecd-e13d-4ff5-b13f-1df1830822f3",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/332_cap-106_cena-001_El-guante-en-mitad-de-la-sala-el-desafio-de-la-duena-Dolorida.m4a",
+      "tamanho_bytes": 24845862
     },
     {
       "seq_global": 333,
@@ -4321,7 +4325,18 @@
       "cap": 106,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-12T10:05:04.209135",
+      "data": "2026-10-12T11:03:20.915628",
+      "status": "created",
+      "artifact_id": "c0dc931a-5a6a-4e68-bfbd-e54e0d9faa92"
+    },
+    {
+      "seq_global": 334,
+      "arquivo": "334_cap-107_cena-001_La-rueda-del-tiempo-y-el-humo-del-poder.m4a",
+      "titulo": "La rueda del tiempo y el humo del poder",
+      "cap": 107,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-12T11:05:33.454180",
       "status": "deferred"
     }
   ]
