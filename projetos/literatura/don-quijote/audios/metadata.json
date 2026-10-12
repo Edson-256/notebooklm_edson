@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-12T05:05:20.593151",
+  "atualizado": "2026-10-12T06:03:23.984718",
   "audios": [
     {
       "seq_global": 1,
@@ -4274,8 +4274,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-12T05:00:48.962512",
-      "status": "created",
-      "artifact_id": "e8ab7967-848f-4822-bcf8-274ba2a73ff2"
+      "status": "downloaded",
+      "artifact_id": "e8ab7967-848f-4822-bcf8-274ba2a73ff2",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/329_cap-105_cena-001_El-enigma-del-puente-y-la-sentencia-de-la-misericordia.m4a",
+      "tamanho_bytes": 36044295
     },
     {
       "seq_global": 330,
@@ -4285,8 +4287,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-12T05:03:00.188014",
-      "status": "created",
-      "artifact_id": "15e7ee73-6948-40d1-8eb5-2ddbb034ccdf"
+      "status": "downloaded",
+      "artifact_id": "15e7ee73-6948-40d1-8eb5-2ddbb034ccdf",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/330_cap-105_cena-002_La-carta-del-amo-espejo-de-la-autoridad-y-la-humildad.m4a",
+      "tamanho_bytes": 42122163
     },
     {
       "seq_global": 331,
@@ -4295,7 +4299,7 @@
       "cap": 105,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-12T05:05:20.589956",
+      "data": "2026-10-12T06:03:23.979971",
       "status": "deferred"
     }
   ]
