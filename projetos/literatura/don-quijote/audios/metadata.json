@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-12T16:04:53.847856",
+  "atualizado": "2026-10-12T17:03:24.410799",
   "audios": [
     {
       "seq_global": 1,
@@ -4352,8 +4352,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-12T15:02:49.290997",
-      "status": "created",
-      "artifact_id": "09411928-f403-4617-a61c-503313947734"
+      "status": "downloaded",
+      "artifact_id": "09411928-f403-4617-a61c-503313947734",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/335_cap-107_cena-002_La-noche-del-asalto-fingido.m4a",
+      "tamanho_bytes": 17440789
     },
     {
       "seq_global": 336,
@@ -4363,8 +4365,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-12T16:02:41.029924",
-      "status": "created",
-      "artifact_id": "cda00eb4-2c3e-4e97-8b3b-afd297c34476"
+      "status": "downloaded",
+      "artifact_id": "cda00eb4-2c3e-4e97-8b3b-afd297c34476",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/336_cap-107_cena-003_Desnudo-naci-desnudo-me-hallo.m4a",
+      "tamanho_bytes": 38512575
     },
     {
       "seq_global": 337,
@@ -4373,7 +4377,7 @@
       "cap": 108,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-12T16:04:53.844824",
+      "data": "2026-10-12T17:03:24.406827",
       "status": "deferred"
     }
   ]
