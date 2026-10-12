@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-12T15:05:02.448151",
+  "atualizado": "2026-10-12T16:04:53.847856",
   "audios": [
     {
       "seq_global": 1,
@@ -4339,8 +4339,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-12T15:00:44.003082",
-      "status": "created",
-      "artifact_id": "09d0eed8-69a7-40cc-9b20-7a069c03087b"
+      "status": "downloaded",
+      "artifact_id": "09d0eed8-69a7-40cc-9b20-7a069c03087b",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/334_cap-107_cena-001_La-rueda-del-tiempo-y-el-humo-del-poder.m4a",
+      "tamanho_bytes": 30120316
     },
     {
       "seq_global": 335,
@@ -4360,7 +4362,18 @@
       "cap": 107,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-12T15:05:02.445502",
+      "data": "2026-10-12T16:02:41.029924",
+      "status": "created",
+      "artifact_id": "cda00eb4-2c3e-4e97-8b3b-afd297c34476"
+    },
+    {
+      "seq_global": 337,
+      "arquivo": "337_cap-108_cena-001_El-reencuentro-disfrazado-Ricote-el-morisco-y-el-banquete-de-los-peregrinos.m4a",
+      "titulo": "El reencuentro disfrazado: Ricote el morisco y el banquete de los peregrinos",
+      "cap": 108,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-12T16:04:53.844824",
       "status": "deferred"
     }
   ]
