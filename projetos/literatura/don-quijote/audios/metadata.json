@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-12T09:00:49.724768",
+  "atualizado": "2026-10-12T10:05:04.217612",
   "audios": [
     {
       "seq_global": 1,
@@ -4299,7 +4299,29 @@
       "cap": 105,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-12T09:00:49.721969",
+      "data": "2026-10-12T10:00:46.898107",
+      "status": "created",
+      "artifact_id": "ac9a9257-2499-4216-82bd-a1635307d4ca"
+    },
+    {
+      "seq_global": 332,
+      "arquivo": "332_cap-106_cena-001_El-guante-en-mitad-de-la-sala-el-desafio-de-la-duena-Dolorida.m4a",
+      "titulo": "El guante en mitad de la sala: el desafio de la dueña Dolorida",
+      "cap": 106,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-12T10:02:51.653121",
+      "status": "created",
+      "artifact_id": "51545ecd-e13d-4ff5-b13f-1df1830822f3"
+    },
+    {
+      "seq_global": 333,
+      "arquivo": "333_cap-106_cena-002_Las-cartas-de-Teresa-Panza-la-voz-del-pueblo-y-el-sueno-del-gobierno.m4a",
+      "titulo": "Las cartas de Teresa Panza: la voz del pueblo y el sueno del gobierno",
+      "cap": 106,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-12T10:05:04.209135",
       "status": "deferred"
     }
   ]
