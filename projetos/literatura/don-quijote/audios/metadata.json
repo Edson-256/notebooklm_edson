@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-12T04:00:50.499747",
+  "atualizado": "2026-10-12T05:05:20.593151",
   "audios": [
     {
       "seq_global": 1,
@@ -4273,7 +4273,29 @@
       "cap": 105,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-12T04:00:50.494306",
+      "data": "2026-10-12T05:00:48.962512",
+      "status": "created",
+      "artifact_id": "e8ab7967-848f-4822-bcf8-274ba2a73ff2"
+    },
+    {
+      "seq_global": 330,
+      "arquivo": "330_cap-105_cena-002_La-carta-del-amo-espejo-de-la-autoridad-y-la-humildad.m4a",
+      "titulo": "La carta del amo: espejo de la autoridad y la humildad",
+      "cap": 105,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-12T05:03:00.188014",
+      "status": "created",
+      "artifact_id": "15e7ee73-6948-40d1-8eb5-2ddbb034ccdf"
+    },
+    {
+      "seq_global": 331,
+      "arquivo": "331_cap-105_cena-003_La-respuesta-de-Sancho-hambre-honradez-y-gobierno.m4a",
+      "titulo": "La respuesta de Sancho: hambre, honradez y gobierno",
+      "cap": 105,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-12T05:05:20.589956",
       "status": "deferred"
     }
   ]
