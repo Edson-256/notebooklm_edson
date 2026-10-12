@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-12T01:02:00.427673",
+  "atualizado": "2026-10-12T02:03:24.749708",
   "audios": [
     {
       "seq_global": 1,
@@ -4248,8 +4248,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-12T00:00:43.290311",
-      "status": "created",
-      "artifact_id": "b349960b-8586-4468-827f-24e986cd4d02"
+      "status": "downloaded",
+      "artifact_id": "b349960b-8586-4468-827f-24e986cd4d02",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/327_cap-104_cena-002_La-carta-de-la-duquesa-el-sueno-de-grandeza-en-la-casa-humilde.m4a",
+      "tamanho_bytes": 20216218
     },
     {
       "seq_global": 328,
@@ -4259,8 +4261,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-12T00:02:48.905161",
-      "status": "created",
-      "artifact_id": "4512fb2a-b969-4704-9054-03b2f75ac565"
+      "status": "downloaded",
+      "artifact_id": "4512fb2a-b969-4704-9054-03b2f75ac565",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/328_cap-104_cena-003_Veo-y-toco-pero-leo-la-duda-ante-lo-increible.m4a",
+      "tamanho_bytes": 35274497
     },
     {
       "seq_global": 329,
@@ -4269,7 +4273,7 @@
       "cap": 105,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-12T01:02:00.422332",
+      "data": "2026-10-12T02:03:24.745851",
       "status": "deferred"
     }
   ]
