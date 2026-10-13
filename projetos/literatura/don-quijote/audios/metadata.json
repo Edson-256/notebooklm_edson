@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-13T12:02:20.539387",
+  "atualizado": "2026-10-13T13:06:10.178667",
   "audios": [
     {
       "seq_global": 1,
@@ -4441,8 +4441,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-13T11:02:36.450371",
-      "status": "created",
-      "artifact_id": "9e58d5fa-9071-4444-a6eb-6533ca65046d"
+      "status": "downloaded",
+      "artifact_id": "9e58d5fa-9071-4444-a6eb-6533ca65046d",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/342_cap-109_cena-003_Desnudo-entre-desnudo-me-hallo-la-renuncia-del-gobernador.m4a",
+      "tamanho_bytes": 34696804
     },
     {
       "seq_global": 343,
@@ -4452,8 +4454,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-13T11:04:42.059023",
-      "status": "created",
-      "artifact_id": "b721a48b-d50f-499e-9aaa-80874270c745"
+      "status": "downloaded",
+      "artifact_id": "b721a48b-d50f-499e-9aaa-80874270c745",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/343_cap-110_cena-001_El-teatro-de-la-batalla-nunca-vista.m4a",
+      "tamanho_bytes": 30941660
     },
     {
       "seq_global": 344,
@@ -4462,7 +4466,7 @@
       "cap": 110,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-13T12:02:20.533976",
+      "data": "2026-10-13T13:06:10.173586",
       "status": "deferred"
     }
   ]
