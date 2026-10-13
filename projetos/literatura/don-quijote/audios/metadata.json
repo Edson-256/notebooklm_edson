@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-13T19:01:51.372280",
+  "atualizado": "2026-10-13T20:02:45.103517",
   "audios": [
     {
       "seq_global": 1,
@@ -4493,8 +4493,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-13T17:02:39.375599",
-      "status": "created",
-      "artifact_id": "de704929-55fb-4e87-8d60-86854d7a7af9"
+      "status": "downloaded",
+      "artifact_id": "de704929-55fb-4e87-8d60-86854d7a7af9",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/346_cap-111_cena-001_Desnudo-entre-desnudo-salgo.m4a",
+      "tamanho_bytes": 27003326
     },
     {
       "seq_global": 347,
@@ -4503,7 +4505,7 @@
       "cap": 111,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-13T19:01:51.368347",
+      "data": "2026-10-13T20:02:45.100704",
       "status": "deferred"
     }
   ]
