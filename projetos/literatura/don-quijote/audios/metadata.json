@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-13T13:06:10.178667",
+  "atualizado": "2026-10-13T14:02:20.816373",
   "audios": [
     {
       "seq_global": 1,
@@ -4417,8 +4417,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-13T10:03:50.704971",
-      "status": "created",
-      "artifact_id": "ac17e985-a32e-4923-94c3-71fa80e242e1"
+      "status": "downloaded",
+      "artifact_id": "ac17e985-a32e-4923-94c3-71fa80e242e1",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/340_cap-109_cena-001_Sepultado-en-vida-el-lamento-de-Sancho-en-la-sima.m4a",
+      "tamanho_bytes": 18652203
     },
     {
       "seq_global": 341,
@@ -4466,7 +4468,7 @@
       "cap": 110,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-13T13:06:10.173586",
+      "data": "2026-10-13T14:02:20.811908",
       "status": "deferred"
     }
   ]
