@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-12T20:05:02.348781",
+  "atualizado": "2026-10-12T21:04:09.888504",
   "audios": [
     {
       "seq_global": 1,
@@ -4399,7 +4399,18 @@
       "cap": 108,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-12T20:05:02.343309",
+      "data": "2026-10-12T21:01:49.330800",
+      "status": "created",
+      "artifact_id": "7e66ea59-108d-44e2-93b1-52f1aed6fd62"
+    },
+    {
+      "seq_global": 340,
+      "arquivo": "340_cap-109_cena-001_Sepultado-en-vida-el-lamento-de-Sancho-en-la-sima.m4a",
+      "titulo": "Sepultado en vida: el lamento de Sancho en la sima",
+      "cap": 109,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-12T21:04:09.885460",
       "status": "deferred"
     }
   ]
