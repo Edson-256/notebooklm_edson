@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-13T10:08:09.969467",
+  "atualizado": "2026-10-13T11:06:56.824987",
   "audios": [
     {
       "seq_global": 1,
@@ -4428,8 +4428,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-13T10:05:56.873846",
-      "status": "created",
-      "artifact_id": "af842afb-9095-4cc8-b671-c1279b3d939d"
+      "status": "downloaded",
+      "artifact_id": "af842afb-9095-4cc8-b671-c1279b3d939d",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/341_cap-109_cena-002_El-alma-en-pena-don-Quijote-descubre-a-Sancho.m4a",
+      "tamanho_bytes": 28558426
     },
     {
       "seq_global": 342,
@@ -4438,7 +4440,29 @@
       "cap": 109,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-13T10:08:09.966316",
+      "data": "2026-10-13T11:02:36.450371",
+      "status": "created",
+      "artifact_id": "9e58d5fa-9071-4444-a6eb-6533ca65046d"
+    },
+    {
+      "seq_global": 343,
+      "arquivo": "343_cap-110_cena-001_El-teatro-de-la-batalla-nunca-vista.m4a",
+      "titulo": "El teatro de la batalla nunca vista",
+      "cap": 110,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-13T11:04:42.059023",
+      "status": "created",
+      "artifact_id": "b721a48b-d50f-499e-9aaa-80874270c745"
+    },
+    {
+      "seq_global": 344,
+      "arquivo": "344_cap-110_cena-002_La-flecha-de-Amor-y-la-rendicion-de-Tosilos.m4a",
+      "titulo": "La flecha de Amor y la rendicion de Tosilos",
+      "cap": 110,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-13T11:06:56.821605",
       "status": "deferred"
     }
   ]
