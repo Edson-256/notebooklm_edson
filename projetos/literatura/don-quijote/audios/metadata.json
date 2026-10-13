@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-13T15:00:50.970583",
+  "atualizado": "2026-10-13T16:05:09.270691",
   "audios": [
     {
       "seq_global": 1,
@@ -4468,7 +4468,29 @@
       "cap": 110,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-13T15:00:50.965575",
+      "data": "2026-10-13T16:00:43.891563",
+      "status": "created",
+      "artifact_id": "5cabbc8c-5902-4269-96af-9c978ece6bd1"
+    },
+    {
+      "seq_global": 345,
+      "arquivo": "345_cap-110_cena-003_El-rostro-descubierto-y-los-encantadores.m4a",
+      "titulo": "El rostro descubierto y los encantadores",
+      "cap": 110,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-13T16:02:55.922514",
+      "status": "created",
+      "artifact_id": "2c5753bc-688c-4377-b453-a5de7a5cba78"
+    },
+    {
+      "seq_global": 346,
+      "arquivo": "346_cap-111_cena-001_Desnudo-entre-desnudo-salgo.m4a",
+      "titulo": "Desnudo entré, desnudo salgo",
+      "cap": 111,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-13T16:05:09.265845",
       "status": "deferred"
     }
   ]
