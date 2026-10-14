@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-13T21:05:41.217935",
+  "atualizado": "2026-10-13T22:05:52.906967",
   "audios": [
     {
       "seq_global": 1,
@@ -4506,8 +4506,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-13T21:01:13.830112",
-      "status": "created",
-      "artifact_id": "bb462467-69d1-4ead-908b-029b6e4eff40"
+      "status": "downloaded",
+      "artifact_id": "bb462467-69d1-4ead-908b-029b6e4eff40",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/347_cap-111_cena-002_El-lamento-burlesco-de-Altisidora.m4a",
+      "tamanho_bytes": 36291565
     },
     {
       "seq_global": 348,
@@ -4517,8 +4519,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-13T21:03:19.171274",
-      "status": "created",
-      "artifact_id": "7fae5886-24a7-4da7-9994-2dcf1c4449c7"
+      "status": "downloaded",
+      "artifact_id": "7fae5886-24a7-4da7-9994-2dcf1c4449c7",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/348_cap-111_cena-003_La-honra-puesta-a-prueba-las-ligas-robadas.m4a",
+      "tamanho_bytes": 21642895
     },
     {
       "seq_global": 349,
@@ -4527,7 +4531,18 @@
       "cap": 112,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-13T21:05:41.214539",
+      "data": "2026-10-13T22:03:39.962236",
+      "status": "created",
+      "artifact_id": "c54dd5ec-7f3f-4a00-9f75-67adccd62143"
+    },
+    {
+      "seq_global": 350,
+      "arquivo": "350_cap-112_cena-002_Las-imagenes-de-los-santos-caballeros.m4a",
+      "titulo": "Las imagenes de los santos caballeros",
+      "cap": 112,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-13T22:05:52.903945",
       "status": "deferred"
     }
   ]
