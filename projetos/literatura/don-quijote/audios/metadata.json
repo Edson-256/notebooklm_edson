@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-14T16:01:55.613239",
+  "atualizado": "2026-10-14T17:04:09.852080",
   "audios": [
     {
       "seq_global": 1,
@@ -4620,7 +4620,18 @@
       "cap": 114,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-14T16:01:55.608471",
+      "data": "2026-10-14T17:01:50.935395",
+      "status": "created",
+      "artifact_id": "a08fb9c1-f643-42a4-94f9-38cb9814d66b"
+    },
+    {
+      "seq_global": 357,
+      "arquivo": "357_cap-114_cena-002_Los-racimos-de-ahorcados-y-la-caida-en-manos-de-Roque-Guinart.m4a",
+      "titulo": "Los racimos de ahorcados y la caida en manos de Roque Guinart",
+      "cap": 114,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-14T17:04:09.848070",
       "status": "deferred"
     }
   ]
