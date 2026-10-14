@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-14T01:01:28.412127",
+  "atualizado": "2026-10-14T02:05:47.776044",
   "audios": [
     {
       "seq_global": 1,
@@ -4544,7 +4544,29 @@
       "cap": 112,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-14T01:01:28.409088",
+      "data": "2026-10-14T02:01:12.640865",
+      "status": "created",
+      "artifact_id": "55f55df9-7ff6-463c-9b66-ed4b7b4d5165"
+    },
+    {
+      "seq_global": 351,
+      "arquivo": "351_cap-112_cena-003_Las-dos-hermosuras-el-alma-y-el-cuerpo.m4a",
+      "titulo": "Las dos hermosuras: el alma y el cuerpo",
+      "cap": 112,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-14T02:03:18.061728",
+      "status": "created",
+      "artifact_id": "8aea1244-97ae-4e07-82f2-a289f15ba14e"
+    },
+    {
+      "seq_global": 352,
+      "arquivo": "352_cap-112_cena-004_La-Arcadia-fingida-y-la-embestida-de-los-toros.m4a",
+      "titulo": "La Arcadia fingida y la embestida de los toros",
+      "cap": 112,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-14T02:05:47.772623",
       "status": "deferred"
     }
   ]
