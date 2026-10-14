@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-14T11:00:50.895003",
+  "atualizado": "2026-10-14T12:05:07.752394",
   "audios": [
     {
       "seq_global": 1,
@@ -4598,7 +4598,29 @@
       "cap": 113,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-14T11:00:50.891547",
+      "data": "2026-10-14T12:00:48.292571",
+      "status": "created",
+      "artifact_id": "5ae60816-87b2-4ede-8fa4-b0ba8debb9b0"
+    },
+    {
+      "seq_global": 355,
+      "arquivo": "355_cap-113_cena-003_El-libro-falso-y-el-desvio-a-Barcelona.m4a",
+      "titulo": "El libro falso y el desvio a Barcelona",
+      "cap": 113,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-14T12:02:53.197340",
+      "status": "created",
+      "artifact_id": "c45031ae-1437-4950-b63c-46f4ed4a9fde"
+    },
+    {
+      "seq_global": 356,
+      "arquivo": "356_cap-114_cena-001_El-nudo-gordiano-de-Dulcinea-el-amo-que-quiere-azotar-por-fuerza.m4a",
+      "titulo": "El nudo gordiano de Dulcinea: el amo que quiere azotar por fuerza",
+      "cap": 114,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-14T12:05:07.749638",
       "status": "deferred"
     }
   ]
