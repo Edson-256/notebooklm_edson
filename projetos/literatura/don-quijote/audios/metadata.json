@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-13T20:02:45.103517",
+  "atualizado": "2026-10-13T21:05:41.217935",
   "audios": [
     {
       "seq_global": 1,
@@ -4505,7 +4505,29 @@
       "cap": 111,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-13T20:02:45.100704",
+      "data": "2026-10-13T21:01:13.830112",
+      "status": "created",
+      "artifact_id": "bb462467-69d1-4ead-908b-029b6e4eff40"
+    },
+    {
+      "seq_global": 348,
+      "arquivo": "348_cap-111_cena-003_La-honra-puesta-a-prueba-las-ligas-robadas.m4a",
+      "titulo": "La honra puesta a prueba: las ligas robadas",
+      "cap": 111,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-13T21:03:19.171274",
+      "status": "created",
+      "artifact_id": "7fae5886-24a7-4da7-9994-2dcf1c4449c7"
+    },
+    {
+      "seq_global": 349,
+      "arquivo": "349_cap-112_cena-001_El-elogio-de-la-libertad.m4a",
+      "titulo": "El elogio de la libertad",
+      "cap": 112,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-13T21:05:41.214539",
       "status": "deferred"
     }
   ]
