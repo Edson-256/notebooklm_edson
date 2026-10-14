@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-14T07:05:11.723195",
+  "atualizado": "2026-10-14T08:03:20.556908",
   "audios": [
     {
       "seq_global": 1,
@@ -4573,8 +4573,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-14T07:00:48.430942",
-      "status": "created",
-      "artifact_id": "af1d644f-bc05-49ec-960f-6755d43e4d22"
+      "status": "downloaded",
+      "artifact_id": "af1d644f-bc05-49ec-960f-6755d43e4d22",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/352_cap-112_cena-004_La-Arcadia-fingida-y-la-embestida-de-los-toros.m4a",
+      "tamanho_bytes": 35005447
     },
     {
       "seq_global": 353,
@@ -4584,8 +4586,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-14T07:02:58.976165",
-      "status": "created",
-      "artifact_id": "66bad991-d725-4e8e-a02f-3ec31362f29c"
+      "status": "downloaded",
+      "artifact_id": "66bad991-d725-4e8e-a02f-3ec31362f29c",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/353_cap-113_cena-001_La-fuente-querer-morir-o-querer-comer.m4a",
+      "tamanho_bytes": 17237479
     },
     {
       "seq_global": 354,
@@ -4594,7 +4598,7 @@
       "cap": 113,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-14T07:05:11.719947",
+      "data": "2026-10-14T08:03:20.552497",
       "status": "deferred"
     }
   ]
