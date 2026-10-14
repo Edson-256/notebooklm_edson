@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-14T18:04:25.057326",
+  "atualizado": "2026-10-14T19:04:08.906125",
   "audios": [
     {
       "seq_global": 1,
@@ -4599,8 +4599,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-14T12:00:48.292571",
-      "status": "created",
-      "artifact_id": "5ae60816-87b2-4ede-8fa4-b0ba8debb9b0"
+      "status": "downloaded",
+      "artifact_id": "5ae60816-87b2-4ede-8fa4-b0ba8debb9b0",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/354_cap-113_cena-002_La-voz-tras-el-tabique-en-defensa-de-Dulcinea.m4a",
+      "tamanho_bytes": 39032746
     },
     {
       "seq_global": 355,
@@ -4621,8 +4623,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-14T17:01:50.935395",
-      "status": "created",
-      "artifact_id": "a08fb9c1-f643-42a4-94f9-38cb9814d66b"
+      "status": "downloaded",
+      "artifact_id": "a08fb9c1-f643-42a4-94f9-38cb9814d66b",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/356_cap-114_cena-001_El-nudo-gordiano-de-Dulcinea-el-amo-que-quiere-azotar-por-fuerza.m4a",
+      "tamanho_bytes": 21675018
     },
     {
       "seq_global": 357,
@@ -4642,7 +4646,7 @@
       "cap": 114,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-14T18:04:25.055262",
+      "data": "2026-10-14T19:04:08.902365",
       "status": "deferred"
     }
   ]
