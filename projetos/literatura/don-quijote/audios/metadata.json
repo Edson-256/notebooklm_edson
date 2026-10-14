@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-14T17:04:09.852080",
+  "atualizado": "2026-10-14T18:04:25.057326",
   "audios": [
     {
       "seq_global": 1,
@@ -4631,7 +4631,18 @@
       "cap": 114,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-14T17:04:09.848070",
+      "data": "2026-10-14T18:02:12.550965",
+      "status": "created",
+      "artifact_id": "d5bfb62e-1fd9-447b-8994-6fb66e4c4c0c"
+    },
+    {
+      "seq_global": 358,
+      "arquivo": "358_cap-114_cena-003_Claudia-Jeronima-los-celos-que-matan-al-esposo-prometido.m4a",
+      "titulo": "Claudia Jeronima: los celos que matan al esposo prometido",
+      "cap": 114,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-14T18:04:25.055262",
       "status": "deferred"
     }
   ]
