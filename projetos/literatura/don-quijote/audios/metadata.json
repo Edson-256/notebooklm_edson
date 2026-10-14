@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-14T02:05:47.776044",
+  "atualizado": "2026-10-14T03:03:40.478574",
   "audios": [
     {
       "seq_global": 1,
@@ -4545,8 +4545,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-14T02:01:12.640865",
-      "status": "created",
-      "artifact_id": "55f55df9-7ff6-463c-9b66-ed4b7b4d5165"
+      "status": "downloaded",
+      "artifact_id": "55f55df9-7ff6-463c-9b66-ed4b7b4d5165",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/350_cap-112_cena-002_Las-imagenes-de-los-santos-caballeros.m4a",
+      "tamanho_bytes": 37433503
     },
     {
       "seq_global": 351,
@@ -4556,8 +4558,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-14T02:03:18.061728",
-      "status": "created",
-      "artifact_id": "8aea1244-97ae-4e07-82f2-a289f15ba14e"
+      "status": "downloaded",
+      "artifact_id": "8aea1244-97ae-4e07-82f2-a289f15ba14e",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/351_cap-112_cena-003_Las-dos-hermosuras-el-alma-y-el-cuerpo.m4a",
+      "tamanho_bytes": 24169560
     },
     {
       "seq_global": 352,
@@ -4566,7 +4570,7 @@
       "cap": 112,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-14T02:05:47.772623",
+      "data": "2026-10-14T03:03:40.474487",
       "status": "deferred"
     }
   ]
