@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-14T06:01:00.467853",
+  "atualizado": "2026-10-14T07:05:11.723195",
   "audios": [
     {
       "seq_global": 1,
@@ -4572,7 +4572,29 @@
       "cap": 112,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-14T06:01:00.463996",
+      "data": "2026-10-14T07:00:48.430942",
+      "status": "created",
+      "artifact_id": "af1d644f-bc05-49ec-960f-6755d43e4d22"
+    },
+    {
+      "seq_global": 353,
+      "arquivo": "353_cap-113_cena-001_La-fuente-querer-morir-o-querer-comer.m4a",
+      "titulo": "La fuente: querer morir o querer comer",
+      "cap": 113,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-14T07:02:58.976165",
+      "status": "created",
+      "artifact_id": "66bad991-d725-4e8e-a02f-3ec31362f29c"
+    },
+    {
+      "seq_global": 354,
+      "arquivo": "354_cap-113_cena-002_La-voz-tras-el-tabique-en-defensa-de-Dulcinea.m4a",
+      "titulo": "La voz tras el tabique: en defensa de Dulcinea",
+      "cap": 113,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-14T07:05:11.719947",
       "status": "deferred"
     }
   ]
