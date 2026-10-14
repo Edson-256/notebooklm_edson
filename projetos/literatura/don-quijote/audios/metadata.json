@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-13T23:01:51.791541",
+  "atualizado": "2026-10-14T00:02:49.502677",
   "audios": [
     {
       "seq_global": 1,
@@ -4532,8 +4532,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-13T22:03:39.962236",
-      "status": "created",
-      "artifact_id": "c54dd5ec-7f3f-4a00-9f75-67adccd62143"
+      "status": "downloaded",
+      "artifact_id": "c54dd5ec-7f3f-4a00-9f75-67adccd62143",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/349_cap-112_cena-001_El-elogio-de-la-libertad.m4a",
+      "tamanho_bytes": 35335007
     },
     {
       "seq_global": 350,
@@ -4542,7 +4544,7 @@
       "cap": 112,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-13T23:01:51.785573",
+      "data": "2026-10-14T00:02:49.497737",
       "status": "deferred"
     }
   ]
