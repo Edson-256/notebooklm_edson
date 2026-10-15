@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-14T20:01:50.525437",
+  "atualizado": "2026-10-14T21:03:10.886700",
   "audios": [
     {
       "seq_global": 1,
@@ -4612,8 +4612,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-14T12:02:53.197340",
-      "status": "created",
-      "artifact_id": "c45031ae-1437-4950-b63c-46f4ed4a9fde"
+      "status": "downloaded",
+      "artifact_id": "c45031ae-1437-4950-b63c-46f4ed4a9fde",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/355_cap-113_cena-003_El-libro-falso-y-el-desvio-a-Barcelona.m4a",
+      "tamanho_bytes": 34878451
     },
     {
       "seq_global": 356,
@@ -4636,8 +4638,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-14T18:02:12.550965",
-      "status": "created",
-      "artifact_id": "d5bfb62e-1fd9-447b-8994-6fb66e4c4c0c"
+      "status": "downloaded",
+      "artifact_id": "d5bfb62e-1fd9-447b-8994-6fb66e4c4c0c",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/357_cap-114_cena-002_Los-racimos-de-ahorcados-y-la-caida-en-manos-de-Roque-Guinart.m4a",
+      "tamanho_bytes": 20362007
     },
     {
       "seq_global": 358,
@@ -4646,7 +4650,7 @@
       "cap": 114,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-14T20:01:50.519199",
+      "data": "2026-10-14T21:03:10.883516",
       "status": "deferred"
     }
   ]
