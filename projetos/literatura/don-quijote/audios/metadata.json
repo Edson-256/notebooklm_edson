@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-16T18:02:00.860240",
+  "atualizado": "2026-10-16T19:06:24.323237",
   "audios": [
     {
       "seq_global": 1,
@@ -4672,7 +4672,29 @@
       "cap": 115,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-16T18:02:00.855936",
+      "data": "2026-10-16T19:01:50.050300",
+      "status": "created",
+      "artifact_id": "be784780-c029-4ced-b750-a19db8e1a247"
+    },
+    {
+      "seq_global": 361,
+      "arquivo": "361_cap-115_cena-002_El-verdadero-no-el-apocrifo.m4a",
+      "titulo": "El verdadero, no el apocrifo",
+      "cap": 115,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-16T19:04:01.570397",
+      "status": "created",
+      "artifact_id": "362dd22a-02a3-4f43-8bb3-0f4a7a7c4bed"
+    },
+    {
+      "seq_global": 362,
+      "arquivo": "362_cap-115_cena-003_La-gloria-y-las-aliagas.m4a",
+      "titulo": "La gloria y las aliagas",
+      "cap": 115,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-16T19:06:24.319729",
       "status": "deferred"
     }
   ]
