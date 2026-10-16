@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-16T14:00:58.587949",
+  "atualizado": "2026-10-16T15:05:02.750219",
   "audios": [
     {
       "seq_global": 1,
@@ -4650,7 +4650,29 @@
       "cap": 114,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-16T14:00:58.582257",
+      "data": "2026-10-16T15:00:44.029530",
+      "status": "created",
+      "artifact_id": "3d0ec126-9a42-4c7e-8e66-33d7d95b215f"
+    },
+    {
+      "seq_global": 359,
+      "arquivo": "359_cap-114_cena-004_La-confesion-del-bandido-y-el-medico-de-la-conciencia.m4a",
+      "titulo": "La confesion del bandido y el medico de la conciencia",
+      "cap": 114,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-16T15:02:49.027225",
+      "status": "created",
+      "artifact_id": "5c1e6b57-2d66-4638-8f81-0534c4690583"
+    },
+    {
+      "seq_global": 360,
+      "arquivo": "360_cap-115_cena-001_El-mar-por-primera-vez.m4a",
+      "titulo": "El mar por primera vez",
+      "cap": 115,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-16T15:05:02.746342",
       "status": "deferred"
     }
   ]
