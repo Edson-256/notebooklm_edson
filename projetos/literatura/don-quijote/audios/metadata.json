@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-17T14:05:58.157395",
+  "atualizado": "2026-10-17T15:10:21.325768",
   "audios": [
     {
       "seq_global": 1,
@@ -4760,7 +4760,29 @@
       "cap": 117,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-17T14:05:58.154145",
+      "data": "2026-10-17T15:05:49.037762",
+      "status": "created",
+      "artifact_id": "f5dced87-0c49-41a9-bf75-6f31fcddb964"
+    },
+    {
+      "seq_global": 369,
+      "arquivo": "369_cap-117_cena-003_El-tesoro-que-mas-enriquece-Ricote-reconoce-a-su-hija.m4a",
+      "titulo": "El tesoro que mas enriquece: Ricote reconoce a su hija",
+      "cap": 117,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-17T15:08:00.209891",
+      "status": "created",
+      "artifact_id": "67830c3e-8872-4ae9-a57d-9ad7539f19b6"
+    },
+    {
+      "seq_global": 370,
+      "arquivo": "370_cap-118_cena-001_Del-dicho-al-hecho-rescatar-a-don-Gregorio.m4a",
+      "titulo": "Del dicho al hecho: rescatar a don Gregorio",
+      "cap": 118,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-17T15:10:21.321990",
       "status": "deferred"
     }
   ]
