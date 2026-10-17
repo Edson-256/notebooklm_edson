@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-16T23:02:58.949258",
+  "atualizado": "2026-10-17T00:07:25.954046",
   "audios": [
     {
       "seq_global": 1,
@@ -4694,7 +4694,29 @@
       "cap": 115,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-16T23:02:58.945224",
+      "data": "2026-10-17T00:02:51.882496",
+      "status": "created",
+      "artifact_id": "711b9098-7aeb-4934-b3a0-214adc615a6c"
+    },
+    {
+      "seq_global": 363,
+      "arquivo": "363_cap-116_cena-001_El-desengano-del-castellano.m4a",
+      "titulo": "El desengaño del castellano",
+      "cap": 116,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-17T00:05:03.616753",
+      "status": "created",
+      "artifact_id": "50b3a304-0790-4f10-8e9d-b894d80a8546"
+    },
+    {
+      "seq_global": 364,
+      "arquivo": "364_cap-116_cena-002_Fugite-partes-adversae-fidelidad-en-el-sarao.m4a",
+      "titulo": "Fugite, partes adversae: fidelidad en el sarao",
+      "cap": 116,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-17T00:07:25.949763",
       "status": "deferred"
     }
   ]
