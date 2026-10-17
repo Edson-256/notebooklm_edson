@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-17T19:06:51.971415",
+  "atualizado": "2026-10-17T20:11:21.768421",
   "audios": [
     {
       "seq_global": 1,
@@ -4782,7 +4782,29 @@
       "cap": 118,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-17T19:06:51.966647",
+      "data": "2026-10-17T20:06:50.590377",
+      "status": "created",
+      "artifact_id": "04bc0145-efa4-4f70-b1ad-d6434692a7d4"
+    },
+    {
+      "seq_global": 371,
+      "arquivo": "371_cap-118_cena-002_El-desafio-del-Caballero-de-la-Blanca-Luna.m4a",
+      "titulo": "El desafio del Caballero de la Blanca Luna",
+      "cap": 118,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-17T20:09:01.303704",
+      "status": "created",
+      "artifact_id": "52caae68-d3a9-4514-96db-8ff849b50176"
+    },
+    {
+      "seq_global": 372,
+      "arquivo": "372_cap-118_cena-003_La-caida-y-la-confesion-del-vencido.m4a",
+      "titulo": "La caida y la confesion del vencido",
+      "cap": 118,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-17T20:11:21.765869",
       "status": "deferred"
     }
   ]
