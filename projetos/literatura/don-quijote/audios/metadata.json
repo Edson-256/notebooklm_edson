@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-17T09:04:59.470023",
+  "atualizado": "2026-10-17T10:09:21.500412",
   "audios": [
     {
       "seq_global": 1,
@@ -4738,7 +4738,29 @@
       "cap": 116,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-17T09:04:59.462865",
+      "data": "2026-10-17T10:04:49.646915",
+      "status": "created",
+      "artifact_id": "b45e433c-4523-4fd7-bc53-1a4e58947832"
+    },
+    {
+      "seq_global": 367,
+      "arquivo": "367_cap-117_cena-001_El-vuelo-sin-alas-de-Sancho-la-galera-como-infierno.m4a",
+      "titulo": "El vuelo sin alas de Sancho: la galera como infierno",
+      "cap": 117,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-17T10:07:00.451550",
+      "status": "created",
+      "artifact_id": "c38cbafe-886a-4068-8a56-95605c265b6c"
+    },
+    {
+      "seq_global": 368,
+      "arquivo": "368_cap-117_cena-002_Mujer-cristiana-la-confesion-de-Ana-Felix.m4a",
+      "titulo": "\"Mujer cristiana\": la confesion de Ana Félix",
+      "cap": 117,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-17T10:09:21.496160",
       "status": "deferred"
     }
   ]
