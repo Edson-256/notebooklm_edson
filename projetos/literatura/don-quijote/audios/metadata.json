@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-17T04:04:00.138999",
+  "atualizado": "2026-10-17T05:08:22.660703",
   "audios": [
     {
       "seq_global": 1,
@@ -4716,7 +4716,29 @@
       "cap": 116,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-17T04:04:00.134877",
+      "data": "2026-10-17T05:03:49.637375",
+      "status": "created",
+      "artifact_id": "7e49e39a-7443-43ff-acab-ef7a1f85d77f"
+    },
+    {
+      "seq_global": 365,
+      "arquivo": "365_cap-116_cena-003_La-cabeza-encantada-y-el-desengano-del-artificio.m4a",
+      "titulo": "La cabeza encantada y el desengaño del artificio",
+      "cap": 116,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-17T05:06:01.137252",
+      "status": "created",
+      "artifact_id": "0b43ec9b-6cad-4881-9613-3762841d814c"
+    },
+    {
+      "seq_global": 366,
+      "arquivo": "366_cap-116_cena-004_La-imprenta-y-el-Quijote-apocrifo.m4a",
+      "titulo": "La imprenta y el Quijote apócrifo",
+      "cap": 116,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-17T05:08:22.653855",
       "status": "deferred"
     }
   ]
