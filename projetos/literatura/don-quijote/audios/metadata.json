@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-18T16:15:23.282556",
+  "atualizado": "2026-10-18T17:14:11.607824",
   "audios": [
     {
       "seq_global": 1,
@@ -4892,7 +4892,18 @@
       "cap": 121,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-18T16:15:23.277420",
+      "data": "2026-10-18T17:11:50.645064",
+      "status": "created",
+      "artifact_id": "0dba719e-58d9-4f34-ba64-820459a27827"
+    },
+    {
+      "seq_global": 381,
+      "arquivo": "381_cap-121_cena-003_Los-refranes-la-musica-imaginada-y-el-amo-que-vela.m4a",
+      "titulo": "Los refranes, la música imaginada y el amo que vela",
+      "cap": 121,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-18T17:14:11.603828",
       "status": "deferred"
     }
   ]
