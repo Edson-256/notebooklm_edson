@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-18T10:09:59.652197",
+  "atualizado": "2026-10-18T11:14:19.521523",
   "audios": [
     {
       "seq_global": 1,
@@ -4848,7 +4848,29 @@
       "cap": 120,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-18T10:09:59.648738",
+      "data": "2026-10-18T11:09:49.130930",
+      "status": "created",
+      "artifact_id": "7c02e5b9-9980-4bb8-a82b-8630eeb67bf2"
+    },
+    {
+      "seq_global": 377,
+      "arquivo": "377_cap-120_cena-002_La-sentencia-del-gordo-y-el-flaco.m4a",
+      "titulo": "La sentencia del gordo y el flaco",
+      "cap": 120,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-18T11:11:59.685875",
+      "status": "created",
+      "artifact_id": "45e8e237-0e81-4576-8e36-dd42d1686eff"
+    },
+    {
+      "seq_global": 378,
+      "arquivo": "378_cap-120_cena-003_Tosilos-el-encantado-que-come-queso.m4a",
+      "titulo": "Tosilos: el encantado que come queso",
+      "cap": 120,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-18T11:14:19.518468",
       "status": "deferred"
     }
   ]
