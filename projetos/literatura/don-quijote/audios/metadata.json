@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-18T15:11:00.075539",
+  "atualizado": "2026-10-18T16:15:23.282556",
   "audios": [
     {
       "seq_global": 1,
@@ -4870,7 +4870,29 @@
       "cap": 120,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-18T15:11:00.071194",
+      "data": "2026-10-18T16:10:50.517650",
+      "status": "created",
+      "artifact_id": "c40069dc-3df7-4364-9142-789b4e631964"
+    },
+    {
+      "seq_global": 379,
+      "arquivo": "379_cap-121_cena-001_A-la-sombra-del-arbol-amor-gratitud-y-las-heridas-del-vencido.m4a",
+      "titulo": "A la sombra del árbol: amor, gratitud y las heridas del vencido",
+      "cap": 121,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-18T16:13:02.422656",
+      "status": "created",
+      "artifact_id": "aac9e4eb-711a-4a32-8013-6972b54b28fc"
+    },
+    {
+      "seq_global": 380,
+      "arquivo": "380_cap-121_cena-002_El-pastor-Quijotiz-la-fantasia-renace-en-la-Arcadia.m4a",
+      "titulo": "El pastor Quijotiz: la fantasía renace en la Arcadia",
+      "cap": 121,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-18T16:15:23.277420",
       "status": "deferred"
     }
   ]
