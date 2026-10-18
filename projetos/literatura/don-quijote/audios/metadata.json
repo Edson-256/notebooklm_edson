@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-18T00:08:03.344533",
+  "atualizado": "2026-10-18T01:12:21.525498",
   "audios": [
     {
       "seq_global": 1,
@@ -4804,7 +4804,29 @@
       "cap": 118,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-18T00:08:03.338329",
+      "data": "2026-10-18T01:07:49.884752",
+      "status": "created",
+      "artifact_id": "db689592-0bf5-462f-bf03-074843cd6fa2"
+    },
+    {
+      "seq_global": 373,
+      "arquivo": "373_cap-119_cena-001_La-cordura-como-agravio-quien-era-la-Blanca-Luna.m4a",
+      "titulo": "La cordura como agravio: quien era la Blanca Luna",
+      "cap": 119,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-18T01:10:01.157255",
+      "status": "created",
+      "artifact_id": "a50dc15c-3cb8-4b18-9b31-45abe07c35e2"
+    },
+    {
+      "seq_global": 374,
+      "arquivo": "374_cap-119_cena-002_El-vencido-en-el-lecho-la-rueca-en-vez-de-la-espada.m4a",
+      "titulo": "El vencido en el lecho: la rueca en vez de la espada",
+      "cap": 119,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-18T01:12:21.521573",
       "status": "deferred"
     }
   ]
