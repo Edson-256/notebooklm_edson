@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-18T05:08:59.162059",
+  "atualizado": "2026-10-18T06:13:20.367253",
   "audios": [
     {
       "seq_global": 1,
@@ -4826,7 +4826,29 @@
       "cap": 119,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-18T05:08:59.157182",
+      "data": "2026-10-18T06:08:49.332187",
+      "status": "created",
+      "artifact_id": "9c6ae22b-2fbd-4b1d-9eb0-516b9035236c"
+    },
+    {
+      "seq_global": 375,
+      "arquivo": "375_cap-119_cena-003_El-silencio-de-los-amantes-y-el-cauterio-de-Ricote.m4a",
+      "titulo": "El silencio de los amantes y el cauterio de Ricote",
+      "cap": 119,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-18T06:10:59.909668",
+      "status": "created",
+      "artifact_id": "435a8cad-9eb5-4734-b527-4961577d742f"
+    },
+    {
+      "seq_global": 376,
+      "arquivo": "376_cap-120_cena-001_Aqui-fue-Troya-la-caida-y-la-providencia.m4a",
+      "titulo": "Aqui fue Troya: la caida y la providencia",
+      "cap": 120,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-18T06:13:20.364368",
       "status": "deferred"
     }
   ]
