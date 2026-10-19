@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-19T01:13:32.329738",
+  "atualizado": "2026-10-19T02:17:50.695982",
   "audios": [
     {
       "seq_global": 1,
@@ -4925,7 +4925,29 @@
       "cap": 122,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-19T01:13:32.325137",
+      "data": "2026-10-19T02:13:19.528599",
+      "status": "created",
+      "artifact_id": "eebcdcac-7e06-4ab4-9252-329cfc75ba13"
+    },
+    {
+      "seq_global": 384,
+      "arquivo": "384_cap-122_cena-003_El-madrigal-de-amor-y-el-rapto-silencioso.m4a",
+      "titulo": "El madrigal de amor y el rapto silencioso",
+      "cap": 122,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-19T02:15:29.973002",
+      "status": "created",
+      "artifact_id": "5d20194d-2443-4e38-bb43-72039ce058ad"
+    },
+    {
+      "seq_global": 385,
+      "arquivo": "385_cap-123_cena-001_El-tumulo-y-la-muerta-hermosa-el-teatro-de-la-burla.m4a",
+      "titulo": "El túmulo y la muerta hermosa: el teatro de la burla",
+      "cap": 123,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-19T02:17:50.692342",
       "status": "deferred"
     }
   ]
