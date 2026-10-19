@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-19T16:17:01.695431",
+  "atualizado": "2026-10-19T17:21:26.910093",
   "audios": [
     {
       "seq_global": 1,
@@ -5002,7 +5002,29 @@
       "cap": 124,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-19T16:17:01.691708",
+      "data": "2026-10-19T17:16:52.686769",
+      "status": "created",
+      "artifact_id": "e66db560-c2c2-434a-940e-b6f8d55f0600"
+    },
+    {
+      "seq_global": 391,
+      "arquivo": "391_cap-125_cena-001_El-precio-del-martirio-Sancho-pone-tarifa-a-sus-azotes.m4a",
+      "titulo": "El precio del martirio: Sancho pone tarifa a sus azotes",
+      "cap": 125,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-19T17:19:04.398510",
+      "status": "created",
+      "artifact_id": "4f11e90f-757f-4f40-bc3a-e88c879f5aff"
+    },
+    {
+      "seq_global": 392,
+      "arquivo": "392_cap-125_cena-002_Azotes-a-los-arboles-la-piedad-enganada-bajo-el-cielo-abierto.m4a",
+      "titulo": "Azotes a los arboles: la piedad enganada bajo el cielo abierto",
+      "cap": 125,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-19T17:21:26.906012",
       "status": "deferred"
     }
   ]
