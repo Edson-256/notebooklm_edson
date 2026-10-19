@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-18T20:12:31.939077",
+  "atualizado": "2026-10-18T21:16:53.059959",
   "audios": [
     {
       "seq_global": 1,
@@ -4903,7 +4903,29 @@
       "cap": 121,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-18T20:12:31.932330",
+      "data": "2026-10-18T21:12:20.194526",
+      "status": "created",
+      "artifact_id": "981341a0-36f6-4d46-abbb-e102e69262d6"
+    },
+    {
+      "seq_global": 382,
+      "arquivo": "382_cap-122_cena-001_La-vigilia-del-caballero-y-el-elogio-del-sueno.m4a",
+      "titulo": "La vigilia del caballero y el elogio del sueno",
+      "cap": 122,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-18T21:14:31.302984",
+      "status": "created",
+      "artifact_id": "79d34897-85df-4913-b894-b1588a09ed12"
+    },
+    {
+      "seq_global": 383,
+      "arquivo": "383_cap-122_cena-002_La-piara-de-puercos-y-la-afrenta-aceptada.m4a",
+      "titulo": "La piara de puercos y la afrenta aceptada",
+      "cap": 122,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-18T21:16:53.056905",
       "status": "deferred"
     }
   ]
