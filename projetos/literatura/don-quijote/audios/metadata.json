@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-19T02:17:50.695982",
+  "atualizado": "2026-10-19T03:16:39.988495",
   "audios": [
     {
       "seq_global": 1,
@@ -4947,7 +4947,18 @@
       "cap": 123,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-19T02:17:50.692342",
+      "data": "2026-10-19T03:14:18.899733",
+      "status": "created",
+      "artifact_id": "f745f492-556c-4ca4-adcd-f2d8ab1b6180"
+    },
+    {
+      "seq_global": 386,
+      "arquivo": "386_cap-123_cena-002_El-martirio-de-Sancho-la-rebeldia-de-la-carne.m4a",
+      "titulo": "El martirio de Sancho: la rebeldía de la carne",
+      "cap": 123,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-19T03:16:39.983775",
       "status": "deferred"
     }
   ]
