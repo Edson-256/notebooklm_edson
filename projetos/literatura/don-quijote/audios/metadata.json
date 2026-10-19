@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-19T06:15:00.265474",
+  "atualizado": "2026-10-19T07:19:21.328610",
   "audios": [
     {
       "seq_global": 1,
@@ -4958,7 +4958,29 @@
       "cap": 123,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-19T06:15:00.260393",
+      "data": "2026-10-19T07:14:49.962296",
+      "status": "created",
+      "artifact_id": "5162b9d6-805e-40b0-9496-3f1b84dfbdad"
+    },
+    {
+      "seq_global": 387,
+      "arquivo": "387_cap-123_cena-003_Don-Quijote-de-rodillas-ante-su-escudero.m4a",
+      "titulo": "Don Quijote de rodillas ante su escudero",
+      "cap": 123,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-19T07:17:00.676503",
+      "status": "created",
+      "artifact_id": "f4a2d29a-af2d-4c76-9842-eee3cc59be64"
+    },
+    {
+      "seq_global": 388,
+      "arquivo": "388_cap-124_cena-001_El-desden-que-mata-Don-Quijote-a-solas-con-su-ficcion.m4a",
+      "titulo": "El desdén que mata: Don Quijote a solas con su ficción",
+      "cap": 124,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-19T07:19:21.325000",
       "status": "deferred"
     }
   ]
