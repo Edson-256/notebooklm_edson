@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-19T11:16:01.139045",
+  "atualizado": "2026-10-19T12:20:27.202128",
   "audios": [
     {
       "seq_global": 1,
@@ -4980,7 +4980,29 @@
       "cap": 124,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-19T11:16:01.136496",
+      "data": "2026-10-19T12:15:52.326353",
+      "status": "created",
+      "artifact_id": "b2ed2e58-764d-4470-865a-4be8fd934607"
+    },
+    {
+      "seq_global": 389,
+      "arquivo": "389_cap-124_cena-002_La-vision-del-infierno-y-el-Quijote-apocrifo-arrojado-al-abismo.m4a",
+      "titulo": "La visión del infierno y el Quijote apócrifo arrojado al abismo",
+      "cap": 124,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-19T12:18:05.533504",
+      "status": "created",
+      "artifact_id": "c3ce5152-2645-4633-9387-c1e2a0dcb508"
+    },
+    {
+      "seq_global": 390,
+      "arquivo": "390_cap-124_cena-003_Todo-ha-sido-fingido-la-fantasia-estrellada-contra-la-verdad.m4a",
+      "titulo": "\"Todo ha sido fingido\": la fantasía estrellada contra la verdad",
+      "cap": 124,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-19T12:20:27.199878",
       "status": "deferred"
     }
   ]
