@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-19T21:18:00.999282",
+  "atualizado": "2026-10-19T22:22:20.726584",
   "audios": [
     {
       "seq_global": 1,
@@ -5024,7 +5024,29 @@
       "cap": 125,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-19T21:18:00.994891",
+      "data": "2026-10-19T22:17:50.631481",
+      "status": "created",
+      "artifact_id": "6ec62fb4-a8f6-4b49-8bf3-f285b3400e86"
+    },
+    {
+      "seq_global": 393,
+      "arquivo": "393_cap-125_cena-003_Las-sargas-de-Elena-y-Dido-el-meson-Orbaneja-y-el-falso-Quijote.m4a",
+      "titulo": "Las sargas de Elena y Dido: el mesón, Orbaneja y el falso Quijote",
+      "cap": 125,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-19T22:20:00.982267",
+      "status": "created",
+      "artifact_id": "483f261c-3f10-439e-9f2d-77189b41f7fd"
+    },
+    {
+      "seq_global": 394,
+      "arquivo": "394_cap-126_cena-001_Yo-soy-don-Quijote-de-la-Mancha-el-mismo-que-dice-la-fama.m4a",
+      "titulo": "Yo soy don Quijote de la Mancha, el mismo que dice la fama",
+      "cap": 126,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-19T22:22:20.722837",
       "status": "deferred"
     }
   ]
