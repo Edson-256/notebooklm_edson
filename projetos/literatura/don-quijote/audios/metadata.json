@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-20T07:20:00.898492",
+  "atualizado": "2026-10-20T08:24:21.148333",
   "audios": [
     {
       "seq_global": 1,
@@ -5068,7 +5068,29 @@
       "cap": 126,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-20T07:20:00.892895",
+      "data": "2026-10-20T08:19:49.984388",
+      "status": "created",
+      "artifact_id": "acdb6f3f-9af0-408a-9850-d8a1a792b329"
+    },
+    {
+      "seq_global": 397,
+      "arquivo": "397_cap-127_cena-001_Los-agueros-a-la-entrada-de-la-aldea.m4a",
+      "titulo": "Los agüeros a la entrada de la aldea",
+      "cap": 127,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-20T08:21:59.418685",
+      "status": "created",
+      "artifact_id": "f6eb86a9-16ae-451e-9cbf-b2b7da9b009e"
+    },
+    {
+      "seq_global": 398,
+      "arquivo": "398_cap-127_cena-002_La-fantasia-pastoril-y-el-bautismo-de-los-nombres.m4a",
+      "titulo": "La fantasia pastoril y el bautismo de los nombres",
+      "cap": 127,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-20T08:24:21.144646",
       "status": "deferred"
     }
   ]
