@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-20T12:21:05.332006",
+  "atualizado": "2026-10-20T13:25:20.867078",
   "audios": [
     {
       "seq_global": 1,
@@ -5090,7 +5090,29 @@
       "cap": 127,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-20T12:21:05.326429",
+      "data": "2026-10-20T13:20:49.798637",
+      "status": "created",
+      "artifact_id": "e8af8540-17ff-4e9f-b52a-821d7a9ae9f4"
+    },
+    {
+      "seq_global": 399,
+      "arquivo": "399_cap-127_cena-003_El-consejo-de-la-sobrina-y-el-ama-y-la-primera-grieta.m4a",
+      "titulo": "El consejo de la sobrina y el ama y la primera grieta",
+      "cap": 127,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-20T13:23:00.724640",
+      "status": "created",
+      "artifact_id": "713214d3-3ae3-4736-9cf3-00dde2221ed6"
+    },
+    {
+      "seq_global": 400,
+      "arquivo": "400_cap-128_cena-001_La-caida-y-el-sueno-del-que-se-despierta-cuerdo.m4a",
+      "titulo": "La caída y el sueño del que se despierta cuerdo",
+      "cap": 128,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-20T13:25:20.863487",
       "status": "deferred"
     }
   ]
