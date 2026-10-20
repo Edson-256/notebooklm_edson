@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-20T17:21:52.153071",
+  "atualizado": "2026-10-20T18:26:07.741446",
   "audios": [
     {
       "seq_global": 1,
@@ -5112,7 +5112,29 @@
       "cap": 128,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-20T17:21:52.149571",
+      "data": "2026-10-20T18:21:49.668759",
+      "status": "created",
+      "artifact_id": "5d991f33-e562-47ca-94b6-2260618db6e2"
+    },
+    {
+      "seq_global": 401,
+      "arquivo": "401_cap-128_cena-002_El-desengano-ya-no-soy-don-Quijote-sino-Alonso-Quijano.m4a",
+      "titulo": "El desengaño: ya no soy don Quijote, sino Alonso Quijano",
+      "cap": 128,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-20T18:23:54.928036",
+      "status": "created",
+      "artifact_id": "54c631d2-a3e7-402c-bac3-e1032d015124"
+    },
+    {
+      "seq_global": 402,
+      "arquivo": "402_cap-128_cena-003_El-testamento-y-la-suplica-de-Sancho.m4a",
+      "titulo": "El testamento y la súplica de Sancho",
+      "cap": 128,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-20T18:26:07.738103",
       "status": "deferred"
     }
   ]
