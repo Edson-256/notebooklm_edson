@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-20T02:19:00.335770",
+  "atualizado": "2026-10-20T03:23:20.813114",
   "audios": [
     {
       "seq_global": 1,
@@ -5046,7 +5046,29 @@
       "cap": 126,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-20T02:19:00.332329",
+      "data": "2026-10-20T03:18:50.295737",
+      "status": "created",
+      "artifact_id": "1ce73463-95e5-4b37-9a54-49a5acc0d1ce"
+    },
+    {
+      "seq_global": 395,
+      "arquivo": "395_cap-126_cena-002_La-declaracion-ante-la-justicia-dos-don-Quijotes-a-un-mismo-tiempo.m4a",
+      "titulo": "La declaracion ante la justicia: dos don Quijotes a un mismo tiempo",
+      "cap": 126,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-20T03:21:00.694159",
+      "status": "created",
+      "artifact_id": "f59ac34e-393b-4617-b5f3-f57f090a9171"
+    },
+    {
+      "seq_global": 396,
+      "arquivo": "396_cap-126_cena-003_Vencido-de-los-brazos-ajenos-vencedor-de-si-mismo.m4a",
+      "titulo": "Vencido de los brazos ajenos, vencedor de si mismo",
+      "cap": 126,
+      "notebook_profile": "espanhol",
+      "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
+      "data": "2026-10-20T03:23:20.809790",
       "status": "deferred"
     }
   ]
