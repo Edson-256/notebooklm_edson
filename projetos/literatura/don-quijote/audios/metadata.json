@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-20T18:26:07.741446",
+  "atualizado": "2026-10-20T19:57:02.842744",
   "audios": [
     {
       "seq_global": 1,
@@ -4662,8 +4662,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-16T15:02:49.027225",
-      "status": "created",
-      "artifact_id": "5c1e6b57-2d66-4638-8f81-0534c4690583"
+      "status": "downloaded",
+      "artifact_id": "5c1e6b57-2d66-4638-8f81-0534c4690583",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/359_cap-114_cena-004_La-confesion-del-bandido-y-el-medico-de-la-conciencia.m4a",
+      "tamanho_bytes": 31102273
     },
     {
       "seq_global": 360,
@@ -4739,8 +4741,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-17T10:04:49.646915",
-      "status": "created",
-      "artifact_id": "b45e433c-4523-4fd7-bc53-1a4e58947832"
+      "status": "downloaded",
+      "artifact_id": "b45e433c-4523-4fd7-bc53-1a4e58947832",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/366_cap-116_cena-004_La-imprenta-y-el-Quijote-apocrifo.m4a",
+      "tamanho_bytes": 38472235
     },
     {
       "seq_global": 367,
@@ -4761,8 +4765,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-17T15:05:49.037762",
-      "status": "created",
-      "artifact_id": "f5dced87-0c49-41a9-bf75-6f31fcddb964"
+      "status": "downloaded",
+      "artifact_id": "f5dced87-0c49-41a9-bf75-6f31fcddb964",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/368_cap-117_cena-002_Mujer-cristiana-la-confesion-de-Ana-Felix.m4a",
+      "tamanho_bytes": 30686803
     },
     {
       "seq_global": 369,
@@ -4772,8 +4778,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-17T15:08:00.209891",
-      "status": "created",
-      "artifact_id": "67830c3e-8872-4ae9-a57d-9ad7539f19b6"
+      "status": "downloaded",
+      "artifact_id": "67830c3e-8872-4ae9-a57d-9ad7539f19b6",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/369_cap-117_cena-003_El-tesoro-que-mas-enriquece-Ricote-reconoce-a-su-hija.m4a",
+      "tamanho_bytes": 34155832
     },
     {
       "seq_global": 370,
@@ -4794,8 +4802,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-17T20:09:01.303704",
-      "status": "created",
-      "artifact_id": "52caae68-d3a9-4514-96db-8ff849b50176"
+      "status": "downloaded",
+      "artifact_id": "52caae68-d3a9-4514-96db-8ff849b50176",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/371_cap-118_cena-002_El-desafio-del-Caballero-de-la-Blanca-Luna.m4a",
+      "tamanho_bytes": 36564350
     },
     {
       "seq_global": 372,
@@ -4805,8 +4815,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-18T01:07:49.884752",
-      "status": "created",
-      "artifact_id": "db689592-0bf5-462f-bf03-074843cd6fa2"
+      "status": "downloaded",
+      "artifact_id": "db689592-0bf5-462f-bf03-074843cd6fa2",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/372_cap-118_cena-003_La-caida-y-la-confesion-del-vencido.m4a",
+      "tamanho_bytes": 38503611
     },
     {
       "seq_global": 373,
@@ -4849,8 +4861,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-18T11:09:49.130930",
-      "status": "created",
-      "artifact_id": "7c02e5b9-9980-4bb8-a82b-8630eeb67bf2"
+      "status": "downloaded",
+      "artifact_id": "7c02e5b9-9980-4bb8-a82b-8630eeb67bf2",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/376_cap-120_cena-001_Aqui-fue-Troya-la-caida-y-la-providencia.m4a",
+      "tamanho_bytes": 37307254
     },
     {
       "seq_global": 377,
@@ -4860,8 +4874,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-18T11:11:59.685875",
-      "status": "created",
-      "artifact_id": "45e8e237-0e81-4576-8e36-dd42d1686eff"
+      "status": "downloaded",
+      "artifact_id": "45e8e237-0e81-4576-8e36-dd42d1686eff",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/377_cap-120_cena-002_La-sentencia-del-gordo-y-el-flaco.m4a",
+      "tamanho_bytes": 22991016
     },
     {
       "seq_global": 378,
@@ -4882,8 +4898,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-18T16:13:02.422656",
-      "status": "created",
-      "artifact_id": "aac9e4eb-711a-4a32-8013-6972b54b28fc"
+      "status": "downloaded",
+      "artifact_id": "aac9e4eb-711a-4a32-8013-6972b54b28fc",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/379_cap-121_cena-001_A-la-sombra-del-arbol-amor-gratitud-y-las-heridas-del-vencido.m4a",
+      "tamanho_bytes": 23887811
     },
     {
       "seq_global": 380,
@@ -4893,8 +4911,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-18T17:11:50.645064",
-      "status": "created",
-      "artifact_id": "0dba719e-58d9-4f34-ba64-820459a27827"
+      "status": "downloaded",
+      "artifact_id": "0dba719e-58d9-4f34-ba64-820459a27827",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/380_cap-121_cena-002_El-pastor-Quijotiz-la-fantasia-renace-en-la-Arcadia.m4a",
+      "tamanho_bytes": 38858570
     },
     {
       "seq_global": 381,
@@ -4915,8 +4935,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-18T21:14:31.302984",
-      "status": "created",
-      "artifact_id": "79d34897-85df-4913-b894-b1588a09ed12"
+      "status": "downloaded",
+      "artifact_id": "79d34897-85df-4913-b894-b1588a09ed12",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/382_cap-122_cena-001_La-vigilia-del-caballero-y-el-elogio-del-sueno.m4a",
+      "tamanho_bytes": 38573888
     },
     {
       "seq_global": 383,
@@ -4981,8 +5003,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-19T12:15:52.326353",
-      "status": "created",
-      "artifact_id": "b2ed2e58-764d-4470-865a-4be8fd934607"
+      "status": "downloaded",
+      "artifact_id": "b2ed2e58-764d-4470-865a-4be8fd934607",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/388_cap-124_cena-001_El-desden-que-mata-Don-Quijote-a-solas-con-su-ficcion.m4a",
+      "tamanho_bytes": 34672152
     },
     {
       "seq_global": 389,
@@ -4992,8 +5016,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-19T12:18:05.533504",
-      "status": "created",
-      "artifact_id": "c3ce5152-2645-4633-9387-c1e2a0dcb508"
+      "status": "downloaded",
+      "artifact_id": "c3ce5152-2645-4633-9387-c1e2a0dcb508",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/389_cap-124_cena-002_La-vision-del-infierno-y-el-Quijote-apocrifo-arrojado-al-abismo.m4a",
+      "tamanho_bytes": 34590725
     },
     {
       "seq_global": 390,
@@ -5003,8 +5029,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-19T17:16:52.686769",
-      "status": "created",
-      "artifact_id": "e66db560-c2c2-434a-940e-b6f8d55f0600"
+      "status": "downloaded",
+      "artifact_id": "e66db560-c2c2-434a-940e-b6f8d55f0600",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/390_cap-124_cena-003_Todo-ha-sido-fingido-la-fantasia-estrellada-contra-la-verdad.m4a",
+      "tamanho_bytes": 21130194
     },
     {
       "seq_global": 391,
@@ -5014,8 +5042,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-19T17:19:04.398510",
-      "status": "created",
-      "artifact_id": "4f11e90f-757f-4f40-bc3a-e88c879f5aff"
+      "status": "downloaded",
+      "artifact_id": "4f11e90f-757f-4f40-bc3a-e88c879f5aff",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/391_cap-125_cena-001_El-precio-del-martirio-Sancho-pone-tarifa-a-sus-azotes.m4a",
+      "tamanho_bytes": 22551642
     },
     {
       "seq_global": 392,
@@ -5058,8 +5088,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-20T03:21:00.694159",
-      "status": "created",
-      "artifact_id": "f59ac34e-393b-4617-b5f3-f57f090a9171"
+      "status": "downloaded",
+      "artifact_id": "f59ac34e-393b-4617-b5f3-f57f090a9171",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/395_cap-126_cena-002_La-declaracion-ante-la-justicia-dos-don-Quijotes-a-un-mismo-tiempo.m4a",
+      "tamanho_bytes": 31559692
     },
     {
       "seq_global": 396,
@@ -5069,8 +5101,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-20T08:19:49.984388",
-      "status": "created",
-      "artifact_id": "acdb6f3f-9af0-408a-9850-d8a1a792b329"
+      "status": "downloaded",
+      "artifact_id": "acdb6f3f-9af0-408a-9850-d8a1a792b329",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/396_cap-126_cena-003_Vencido-de-los-brazos-ajenos-vencedor-de-si-mismo.m4a",
+      "tamanho_bytes": 24321956
     },
     {
       "seq_global": 397,
@@ -5080,8 +5114,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-20T08:21:59.418685",
-      "status": "created",
-      "artifact_id": "f6eb86a9-16ae-451e-9cbf-b2b7da9b009e"
+      "status": "downloaded",
+      "artifact_id": "f6eb86a9-16ae-451e-9cbf-b2b7da9b009e",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/397_cap-127_cena-001_Los-agueros-a-la-entrada-de-la-aldea.m4a",
+      "tamanho_bytes": 24215130
     },
     {
       "seq_global": 398,
@@ -5091,8 +5127,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-20T13:20:49.798637",
-      "status": "created",
-      "artifact_id": "e8af8540-17ff-4e9f-b52a-821d7a9ae9f4"
+      "status": "downloaded",
+      "artifact_id": "e8af8540-17ff-4e9f-b52a-821d7a9ae9f4",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/398_cap-127_cena-002_La-fantasia-pastoril-y-el-bautismo-de-los-nombres.m4a",
+      "tamanho_bytes": 35778980
     },
     {
       "seq_global": 399,
@@ -5102,8 +5140,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-20T13:23:00.724640",
-      "status": "created",
-      "artifact_id": "713214d3-3ae3-4736-9cf3-00dde2221ed6"
+      "status": "downloaded",
+      "artifact_id": "713214d3-3ae3-4736-9cf3-00dde2221ed6",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/399_cap-127_cena-003_El-consejo-de-la-sobrina-y-el-ama-y-la-primera-grieta.m4a",
+      "tamanho_bytes": 17111229
     },
     {
       "seq_global": 400,
@@ -5113,8 +5153,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-20T18:21:49.668759",
-      "status": "created",
-      "artifact_id": "5d991f33-e562-47ca-94b6-2260618db6e2"
+      "status": "downloaded",
+      "artifact_id": "5d991f33-e562-47ca-94b6-2260618db6e2",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/400_cap-128_cena-001_La-caida-y-el-sueno-del-que-se-despierta-cuerdo.m4a",
+      "tamanho_bytes": 32528949
     },
     {
       "seq_global": 401,
@@ -5124,8 +5166,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-20T18:23:54.928036",
-      "status": "created",
-      "artifact_id": "54c631d2-a3e7-402c-bac3-e1032d015124"
+      "status": "downloaded",
+      "artifact_id": "54c631d2-a3e7-402c-bac3-e1032d015124",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/401_cap-128_cena-002_El-desengano-ya-no-soy-don-Quijote-sino-Alonso-Quijano.m4a",
+      "tamanho_bytes": 33051245
     },
     {
       "seq_global": 402,
@@ -5134,7 +5178,7 @@
       "cap": 128,
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-      "data": "2026-10-20T18:26:07.738103",
+      "data": "2026-10-20T19:57:02.840266",
       "status": "deferred"
     }
   ]
