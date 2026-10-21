@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-21T10:05:09.534430",
+  "atualizado": "2026-10-21T15:05:56.732226",
   "audios": [
     {
       "seq_global": 1,
@@ -4848,8 +4848,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-18T01:10:01.157255",
-      "status": "created",
-      "artifact_id": "a50dc15c-3cb8-4b18-9b31-45abe07c35e2"
+      "status": "downloaded",
+      "artifact_id": "a50dc15c-3cb8-4b18-9b31-45abe07c35e2",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/373_cap-119_cena-001_La-cordura-como-agravio-quien-era-la-Blanca-Luna.m4a",
+      "tamanho_bytes": 32392125
     },
     {
       "seq_global": 374,
@@ -4872,8 +4874,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-18T06:10:59.909668",
-      "status": "created",
-      "artifact_id": "435a8cad-9eb5-4734-b527-4961577d742f"
+      "status": "downloaded",
+      "artifact_id": "435a8cad-9eb5-4734-b527-4961577d742f",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/375_cap-119_cena-003_El-silencio-de-los-amantes-y-el-cauterio-de-Ricote.m4a",
+      "tamanho_bytes": 34381438
     },
     {
       "seq_global": 376,
@@ -4909,8 +4913,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-18T16:10:50.517650",
-      "status": "created",
-      "artifact_id": "c40069dc-3df7-4364-9142-789b4e631964"
+      "status": "downloaded",
+      "artifact_id": "c40069dc-3df7-4364-9142-789b4e631964",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/378_cap-120_cena-003_Tosilos-el-encantado-que-come-queso.m4a",
+      "tamanho_bytes": 18433204
     },
     {
       "seq_global": 379,
@@ -4998,8 +5004,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-19T03:14:18.899733",
-      "status": "created",
-      "artifact_id": "f745f492-556c-4ca4-adcd-f2d8ab1b6180"
+      "status": "downloaded",
+      "artifact_id": "f745f492-556c-4ca4-adcd-f2d8ab1b6180",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/385_cap-123_cena-001_El-tumulo-y-la-muerta-hermosa-el-teatro-de-la-burla.m4a",
+      "tamanho_bytes": 21879822
     },
     {
       "seq_global": 386,
