@@ -2,7 +2,7 @@
   "obra": "Don Quijote de la Mancha",
   "slug": "don-quijote",
   "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
-  "atualizado": "2026-10-20T23:04:16.457780",
+  "atualizado": "2026-10-21T10:05:09.534430",
   "audios": [
     {
       "seq_global": 1,
@@ -5217,8 +5217,10 @@
       "notebook_profile": "espanhol",
       "notebook_id": "a7117d29-754d-45b5-9cf7-eb6b646f64b8",
       "data": "2026-10-20T23:02:12.340129",
-      "status": "created",
-      "artifact_id": "9abd0310-0b26-43d1-996e-c0e16d84754a"
+      "status": "downloaded",
+      "artifact_id": "9abd0310-0b26-43d1-996e-c0e16d84754a",
+      "output_path": "/Users/edsonmichalkiewicz/dev/notebooklm_edson/projetos/literatura/don-quijote/audios/402_cap-128_cena-003_El-testamento-y-la-suplica-de-Sancho.m4a",
+      "tamanho_bytes": 29727258
     },
     {
       "seq_global": 403,
